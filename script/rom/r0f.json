@@ -1,0 +1,1839 @@
+[
+ {
+  "id": "r0f0be8",
+  "kind": "string",
+  "jp": "たいせんにんずうせんたく",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffb94"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f0c04",
+  "kind": "string",
+  "jp": "ステージせんたく",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffb90"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f0c18",
+  "kind": "string",
+  "jp": "ルールせんたく",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffb8c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f0c28",
+  "kind": "string",
+  "jp": "たいせんプレイヤーせんたく",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffb88"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f0c44",
+  "kind": "string",
+  "jp": "プレイヤーせんたく",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffb84"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f0c58",
+  "kind": "string",
+  "jp": "サバイバル",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffb9c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f0c64",
+  "kind": "string",
+  "jp": "オフィシャル",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffb98"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f0c74",
+  "kind": "string",
+  "jp": "サバイバルルール",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffba4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f0c88",
+  "kind": "string",
+  "jp": "オフィシャルルール",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffba0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f0c9c",
+  "kind": "string",
+  "jp": "いきのこれ∇",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffbc0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f0cac",
+  "kind": "string",
+  "jp": "さいごまで",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffbbc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f0cb8",
+  "kind": "string",
+  "jp": "あいてをドロップして",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffbb8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f0cd4",
+  "kind": "string",
+  "jp": "ドロップしよう∇",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffbb0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f0ce8",
+  "kind": "string",
+  "jp": "あいてをたくさん",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffbac"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f0cfc",
+  "kind": "string",
+  "jp": "じかんないに",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffba8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f0d0c",
+  "kind": "string",
+  "jp": "デスロールコロシアム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffc14"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f0d0d",
+  "kind": "string",
+  "jp": "fスロールコロシアム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x9b4f4"
+  ],
+  "inside": "r0f0d0c",
+  "notes": ""
+ },
+ {
+  "id": "r0f0d24",
+  "kind": "string",
+  "jp": "ヘクサ社開発室",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffc10"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f0d34",
+  "kind": "string",
+  "jp": "界天コロシアム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffc0c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f0d44",
+  "kind": "string",
+  "jp": "レイオンジム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffc08"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f0d54",
+  "kind": "string",
+  "jp": "光円寺",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffc04"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f0d5c",
+  "kind": "string",
+  "jp": "グレンの道場",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffc00"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f0d6c",
+  "kind": "string",
+  "jp": "真丸体育館",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffbfc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f0d78",
+  "kind": "string",
+  "jp": "真丸ジム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffbf8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f0d84",
+  "kind": "string",
+  "jp": "マーブルスタジアム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffbf4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f0d98",
+  "kind": "string",
+  "jp": "真丸中ＶＲ場",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffbf0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f0da8",
+  "kind": "string",
+  "jp": "グローブスタジアム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffbec"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f0dbc",
+  "kind": "string",
+  "jp": "プレミアムジム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffbe8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f0dcc",
+  "kind": "string",
+  "jp": "グローブこうえん",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffbe4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f0de0",
+  "kind": "string",
+  "jp": "弾打ビーチ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffbe0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f0dec",
+  "kind": "string",
+  "jp": "スパイルスタジアム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffbdc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f0e00",
+  "kind": "string",
+  "jp": "ワシュー道場",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffbd8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f0e10",
+  "kind": "string",
+  "jp": "田万里村ジム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffbd4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f0e20",
+  "kind": "string",
+  "jp": "勝飛ジム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffbd0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f0e2c",
+  "kind": "string",
+  "jp": "勝飛体育舘",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffbcc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f0e38",
+  "kind": "string",
+  "jp": "勝飛中ＶＲ場",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffbc8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f0e48",
+  "kind": "string",
+  "jp": "おおきい",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffc20"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f0e54",
+  "kind": "string",
+  "jp": "ふつう",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffc1c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f0e5c",
+  "kind": "string",
+  "jp": "ちいさい",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffc18"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f0e68",
+  "kind": "string",
+  "jp": "８",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffc28"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f0e6c",
+  "kind": "string",
+  "jp": "４",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffc24"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f0e70",
+  "kind": "string",
+  "jp": "じゅうりょく",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffc48"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f0e80",
+  "kind": "string",
+  "jp": "じゃり",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffc44"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f0e88",
+  "kind": "string",
+  "jp": "コンクリート",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffc40"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f0e98",
+  "kind": "string",
+  "jp": "すなはま",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffc3c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f0ea4",
+  "kind": "string",
+  "jp": "こおり",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffc38"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f0eac",
+  "kind": "string",
+  "jp": "つち／くさ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffc34"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f0eb8",
+  "kind": "string",
+  "jp": "もくめ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffc30"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f0ec0",
+  "kind": "string",
+  "jp": "こうしき",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffc2c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f0ecc",
+  "kind": "string",
+  "jp": "ゆか：",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffc58"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f0ed4",
+  "kind": "string",
+  "jp": "かたち：",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffc54"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f0ee0",
+  "kind": "string",
+  "jp": "かべ：",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffc50"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f0ee8",
+  "kind": "string",
+  "jp": "サイズ：",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffc4c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f0ef4",
+  "kind": "string",
+  "jp": "よにんたいせん",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffc64"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f0f04",
+  "kind": "string",
+  "jp": "さんにんたいせん",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffc60"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f0f0a",
+  "kind": "string",
+  "jp": "んたいせん",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xa49f8"
+  ],
+  "inside": "r0f0f04",
+  "notes": ""
+ },
+ {
+  "id": "r0f0f18",
+  "kind": "string",
+  "jp": "ふたりたいせん",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffc5c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f0f64",
+  "kind": "string",
+  "jp": "しばらく　おまちください",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffc6c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f0f80",
+  "kind": "string",
+  "jp": "つうしんちゅうです",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffc68"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f0f94",
+  "kind": "string",
+  "jp": "ちゅうだんします",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffc74"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f0fa8",
+  "kind": "string",
+  "jp": "つうしんエラーです",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffc70"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f1078",
+  "kind": "string",
+  "jp": "ボックスに空きがありません！",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffd10"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f1098",
+  "kind": "string",
+  "jp": "ポイントが足りません！",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffd0c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f10b0",
+  "kind": "string",
+  "jp": "ありがとうございました！",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffd08"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f10cc",
+  "kind": "string",
+  "jp": "　　うりきれ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffd38"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f10dc",
+  "kind": "string",
+  "jp": "？？？？？？？？？？？？",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffd34"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f10f8",
+  "kind": "string",
+  "jp": "になりますがよろしいですか？",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffd30"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f1100",
+  "kind": "string",
+  "jp": "すがよろしいですか？",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xb6eec"
+  ],
+  "inside": "r0f10f8",
+  "notes": ""
+ },
+ {
+  "id": "r0f1110",
+  "kind": "string",
+  "jp": "か？",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xc2d18"
+  ],
+  "inside": "r0f10f8",
+  "notes": ""
+ },
+ {
+  "id": "r0f1118",
+  "kind": "string",
+  "jp": "いいえ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffd2c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f1120",
+  "kind": "string",
+  "jp": "はい",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffd28"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f112c",
+  "kind": "string",
+  "jp": "やっぱりやめる",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffd20"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f113c",
+  "kind": "string",
+  "jp": "ＶＲＸデータ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffd1c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f114c",
+  "kind": "string",
+  "jp": "ツール",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffd18"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f1154",
+  "kind": "string",
+  "jp": "アーム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffd14"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f115c",
+  "kind": "string",
+  "jp": "デスロールコロシアム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffd88"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f1174",
+  "kind": "string",
+  "jp": "ヘクサ社開発室",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffd84"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f1184",
+  "kind": "string",
+  "jp": "界天コロシアム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffd80"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f1194",
+  "kind": "string",
+  "jp": "レイオンジム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffd7c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f11a4",
+  "kind": "string",
+  "jp": "光円寺",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffd78"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f11ac",
+  "kind": "string",
+  "jp": "グレンの道場",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffd74"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f11bc",
+  "kind": "string",
+  "jp": "真丸体育館",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffd70"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f11c8",
+  "kind": "string",
+  "jp": "真丸ジム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffd6c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f11d4",
+  "kind": "string",
+  "jp": "マーブルスタジアム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffd68"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f11e8",
+  "kind": "string",
+  "jp": "真丸中ＶＲ場",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffd64"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f11f8",
+  "kind": "string",
+  "jp": "グローブスタジアム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffd60"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f120c",
+  "kind": "string",
+  "jp": "プレミアムジム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffd5c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f1210",
+  "kind": "string",
+  "jp": "ミアムジム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x96f44"
+  ],
+  "inside": "r0f120c",
+  "notes": ""
+ },
+ {
+  "id": "r0f121c",
+  "kind": "string",
+  "jp": "グローブ公園",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffd58"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f122c",
+  "kind": "string",
+  "jp": "弾打ビーチ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffd54"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f1238",
+  "kind": "string",
+  "jp": "スパイルスタジアム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffd50"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f124c",
+  "kind": "string",
+  "jp": "ワシュー道場",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffd4c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f125c",
+  "kind": "string",
+  "jp": "田万里村ジム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffd48"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f126c",
+  "kind": "string",
+  "jp": "勝飛ジム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffd44"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f1278",
+  "kind": "string",
+  "jp": "勝飛体育舘",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffd40"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f1284",
+  "kind": "string",
+  "jp": "勝飛中ＶＲ場",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffd3c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f1294",
+  "kind": "string",
+  "jp": "たのしんでいる",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xfff10"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f12a4",
+  "kind": "string",
+  "jp": "が戦いを",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xfff0c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f12b0",
+  "kind": "string",
+  "jp": "デスローラーたち",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xfff08"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f12c4",
+  "kind": "string",
+  "jp": "あるきにくい",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffefc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f12d4",
+  "kind": "string",
+  "jp": "じっけんしせつ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffef8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f12e4",
+  "kind": "string",
+  "jp": "ヘクサ社の",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffef4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f12f0",
+  "kind": "string",
+  "jp": "コロシアム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffee8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f12fc",
+  "kind": "string",
+  "jp": "するための",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffee4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f1308",
+  "kind": "string",
+  "jp": "マルスとたいせん",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffee0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f131c",
+  "kind": "string",
+  "jp": "れんしゅうのため",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffed4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f1330",
+  "kind": "string",
+  "jp": "光円寺にある",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffecc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f1340",
+  "kind": "string",
+  "jp": "じゃりですべる",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffec0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f1350",
+  "kind": "string",
+  "jp": "大人気のＶＲ場",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffebc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f1360",
+  "kind": "string",
+  "jp": "おとしよりに",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffeb8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f1370",
+  "kind": "string",
+  "jp": "グレンの",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffea4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f137c",
+  "kind": "string",
+  "jp": "おこなわれている",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffe9c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f1390",
+  "kind": "string",
+  "jp": "毎日大会が",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffe98"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f139c",
+  "kind": "string",
+  "jp": "真丸町いこいの",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffe90"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f13ac",
+  "kind": "string",
+  "jp": "真丸町にある",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffe80"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f13bc",
+  "kind": "string",
+  "jp": "ＶＲがさかんな",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffe7c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f13cc",
+  "kind": "string",
+  "jp": "マーブルアレーナ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffe68"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f13e0",
+  "kind": "string",
+  "jp": "せんようの",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffe58"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f13ec",
+  "kind": "string",
+  "jp": "真丸中のＶＲ部",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffe54"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f13fc",
+  "kind": "string",
+  "jp": "一番大きい",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffe4c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f1402",
+  "kind": "string",
+  "jp": "きい",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xaf71c"
+  ],
+  "inside": "r0f13fc",
+  "notes": ""
+ },
+ {
+  "id": "r0f1408",
+  "kind": "string",
+  "jp": "かいさいされる",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffe44"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f1418",
+  "kind": "string",
+  "jp": "バトリーグが",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffe40"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f1428",
+  "kind": "string",
+  "jp": "最新せつびだ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffe38"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f1438",
+  "kind": "string",
+  "jp": "プレミアムジムの",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffe30"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f144c",
+  "kind": "string",
+  "jp": "ヘクサ社がたてた",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffe2c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f1460",
+  "kind": "string",
+  "jp": "場になっている",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffe24"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f1470",
+  "kind": "string",
+  "jp": "うでだめしの",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffe20"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f1480",
+  "kind": "string",
+  "jp": "ストリートＶＲ場",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffe1c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f1494",
+  "kind": "string",
+  "jp": "グローブ公園の",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffe18"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f14a4",
+  "kind": "string",
+  "jp": "砂浜のフィールド",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffe10"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f14b8",
+  "kind": "string",
+  "jp": "ジムのＶＲ場",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffe0c",
+   "0xffe84",
+   "0xffed0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f14c8",
+  "kind": "string",
+  "jp": "が浜にたてた",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffe08"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f14d8",
+  "kind": "string",
+  "jp": "海の家のおばさん",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffe04"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f14ec",
+  "kind": "string",
+  "jp": "スタジアム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffdfc",
+   "0xffe48",
+   "0xffe74",
+   "0xfff14"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f14f8",
+  "kind": "string",
+  "jp": "されている",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffdf8",
+   "0xffe70"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f1504",
+  "kind": "string",
+  "jp": "がかいさい",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffdf4",
+   "0xffe6c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f1510",
+  "kind": "string",
+  "jp": "スパイルアレーナ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffdf0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f1516",
+  "kind": "string",
+  "jp": "ルアレーナ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xac70c"
+  ],
+  "inside": "r0f1510",
+  "notes": ""
+ },
+ {
+  "id": "r0f1524",
+  "kind": "string",
+  "jp": "すべる",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffdec",
+   "0xffedc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f152c",
+  "kind": "string",
+  "jp": "こおりでつるつる",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffde8",
+   "0xffed8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f1540",
+  "kind": "string",
+  "jp": "プライベート",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffde0",
+   "0xffea8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f1550",
+  "kind": "string",
+  "jp": "イカヅチ家の",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffddc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f1560",
+  "kind": "string",
+  "jp": "田万里村のジム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffdd0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f1570",
+  "kind": "string",
+  "jp": "はやっている",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffdcc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f1580",
+  "kind": "string",
+  "jp": "ヘンな方言が",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffdc8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f1590",
+  "kind": "string",
+  "jp": "いつも大いそがし",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffdbc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f15a4",
+  "kind": "string",
+  "jp": "ここのマスターは",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffdb8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f15b8",
+  "kind": "string",
+  "jp": "勝飛町の人気ジム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffdb4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f15cc",
+  "kind": "string",
+  "jp": "りようしている",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffdb0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f15dc",
+  "kind": "string",
+  "jp": "わかものまで",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffdac"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f15ec",
+  "kind": "string",
+  "jp": "おとしよりから",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffda8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f15fc",
+  "kind": "string",
+  "jp": "ＶＲ場",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffda4",
+   "0xffde4",
+   "0xffe34",
+   "0xffe5c",
+   "0xffe94",
+   "0xffeac"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f1604",
+  "kind": "string",
+  "jp": "勝飛町いこいの",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffda0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f1614",
+  "kind": "string",
+  "jp": "につかわれている",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffd98"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f1628",
+  "kind": "string",
+  "jp": "体育のじゅぎょう",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffd94"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f163c",
+  "kind": "string",
+  "jp": "にあるＶＲ場",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffd90"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f164c",
+  "kind": "string",
+  "jp": "勝飛中の体育館",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffd8c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f165c",
+  "kind": "string",
+  "jp": "よろしいですか？",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xfff20"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f1670",
+  "kind": "string",
+  "jp": "そうびできませんが",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xfff1c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f169c",
+  "kind": "string",
+  "jp": "ありがとうございました！",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xfff4c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f16b8",
+  "kind": "string",
+  "jp": "になりますがよろしいですか？",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xfff48"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f16d8",
+  "kind": "string",
+  "jp": "いいえ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xfff44"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f16e0",
+  "kind": "string",
+  "jp": "はい",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xfff40"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0f1828",
+  "kind": "data",
+  "jp": "∴",
+  "en": "",
+  "status": "data",
+  "ptrs": [
+   "0xfc49c"
+  ],
+  "notes": "name marker ∴ (second copy), keep as is"
+ }
+]

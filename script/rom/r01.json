@@ -1,0 +1,13270 @@
+[
+ {
+  "id": "r012ca0",
+  "kind": "string",
+  "jp": "エールソード",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xed50"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r012cb0",
+  "kind": "string",
+  "jp": "細身で軽く",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xed54"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r012cbc",
+  "kind": "string",
+  "jp": "使いやすいアーム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xed58"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r012cd0",
+  "kind": "string",
+  "jp": "サイズも小さい",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xed5c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r012ce0",
+  "kind": "string",
+  "jp": "ドグレリック",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xedc8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r012cf0",
+  "kind": "string",
+  "jp": "古いタイプだが",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xedcc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r012d00",
+  "kind": "string",
+  "jp": "バランスが良く",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xedd0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r012d10",
+  "kind": "string",
+  "jp": "愛好者が多い剣",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xedd4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r012d20",
+  "kind": "string",
+  "jp": "ファイバーン",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee40"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r012d30",
+  "kind": "string",
+  "jp": "赤くもえるオーラ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee44"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r012d44",
+  "kind": "string",
+  "jp": "で相手をきる",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee48"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r012d54",
+  "kind": "string",
+  "jp": "ほのおのような剣",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee4c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r012d68",
+  "kind": "string",
+  "jp": "テスタメント",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeeb8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r012d78",
+  "kind": "string",
+  "jp": "たおした相手に",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeebc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r012d88",
+  "kind": "string",
+  "jp": "いのりをささげる",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeec0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r012d9c",
+  "kind": "string",
+  "jp": "十字の形の剣",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeec4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r012dac",
+  "kind": "string",
+  "jp": "ファイバラッシュ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xef30"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r012dc0",
+  "kind": "string",
+  "jp": "ファイバーンを",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xef34"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r012dd0",
+  "kind": "string",
+  "jp": "パワーＵＰさせた",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xef38"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r012de4",
+  "kind": "string",
+  "jp": "ふ死鳥の剣",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xef3c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r012df0",
+  "kind": "string",
+  "jp": "アラグナル",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefa8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r012dfc",
+  "kind": "string",
+  "jp": "オーラがぼうそう",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefac"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r012e10",
+  "kind": "string",
+  "jp": "する事もある",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefb0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r012e20",
+  "kind": "string",
+  "jp": "キケンなアーム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefb4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r012e30",
+  "kind": "string",
+  "jp": "ザルメギス",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xf020"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r012e3c",
+  "kind": "string",
+  "jp": "持つ者をキケンに",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xf024"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r012e50",
+  "kind": "string",
+  "jp": "さらす事もある",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xf028"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r012e60",
+  "kind": "string",
+  "jp": "ほど強力な剣",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xf02c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r012e70",
+  "kind": "string",
+  "jp": "ヘブンブレイカー",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xf098"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r012e84",
+  "kind": "string",
+  "jp": "死神の力をひめる",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xf09c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r012e98",
+  "kind": "string",
+  "jp": "ほどと言われる",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xf0a0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r012ea8",
+  "kind": "string",
+  "jp": "おそるべきマケン",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xf0a4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r012ebc",
+  "kind": "string",
+  "jp": "アレイザン",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xf110"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r012ec8",
+  "kind": "string",
+  "jp": "カタナタイプで",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xf114"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r012ed8",
+  "kind": "string",
+  "jp": "いちばんてがるな",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xf118"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r012eec",
+  "kind": "string",
+  "jp": "ねだんのアーム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xf11c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r012efc",
+  "kind": "string",
+  "jp": "シャムシール",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xf188"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r012f0c",
+  "kind": "string",
+  "jp": "外国につたわる",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xf18c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r012f1c",
+  "kind": "string",
+  "jp": "古代の刀が",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xf190"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r012f28",
+  "kind": "string",
+  "jp": "モチーフのアーム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xf194"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r012f3c",
+  "kind": "string",
+  "jp": "リュウビトウ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xf200"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r012f4c",
+  "kind": "string",
+  "jp": "リュウのしっぽが",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xf204"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r012f60",
+  "kind": "string",
+  "jp": "モデルのアーム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xf208"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r012f70",
+  "kind": "string",
+  "jp": "スルドイ切れ味だ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xf20c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r012f84",
+  "kind": "string",
+  "jp": "エクセリーザ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xf278"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r012f94",
+  "kind": "string",
+  "jp": "大きく強力なため",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xf27c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r012fa8",
+  "kind": "string",
+  "jp": "使いこなすには",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xf280"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r012fb8",
+  "kind": "string",
+  "jp": "センスがひつよう",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xf284"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r012fcc",
+  "kind": "string",
+  "jp": "ソウリュウ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xf2f0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r012fd8",
+  "kind": "string",
+  "jp": "代だいのマルスが",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xf2f4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r012fec",
+  "kind": "string",
+  "jp": "持つ事のできる",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xf2f8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r012ffc",
+  "kind": "string",
+  "jp": "最強のあかし",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xf2fc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01300c",
+  "kind": "string",
+  "jp": "ムメイ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xf368"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013014",
+  "kind": "string",
+  "jp": "ぶ気味なオーラを",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xf36c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013028",
+  "kind": "string",
+  "jp": "発する　必殺の",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xf370"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013038",
+  "kind": "string",
+  "jp": "力を持つヨウトウ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xf374"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01304c",
+  "kind": "string",
+  "jp": "キュウビノタチ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xf3e0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01305c",
+  "kind": "string",
+  "jp": "太古のヨウカイの",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xf3e4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013070",
+  "kind": "string",
+  "jp": "力が宿るとされる",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xf3e8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013084",
+  "kind": "string",
+  "jp": "ヨウトウ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xf3ec"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013090",
+  "kind": "string",
+  "jp": "ムゲンセイバー",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xf458"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0130a0",
+  "kind": "string",
+  "jp": "ふれただけで",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xf45c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0130b0",
+  "kind": "string",
+  "jp": "心がくだかれる",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xf460"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0130c0",
+  "kind": "string",
+  "jp": "というヨウトウ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xf464"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0130d0",
+  "kind": "string",
+  "jp": "ブルスレッド",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xf4d0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0130e0",
+  "kind": "string",
+  "jp": "両手で使うアーム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xf4d4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0130f4",
+  "kind": "string",
+  "jp": "短いが　す早い",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xf4d8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013104",
+  "kind": "string",
+  "jp": "こうげきができる",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xf4dc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013118",
+  "kind": "string",
+  "jp": "フラティール",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xf548"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013128",
+  "kind": "string",
+  "jp": "このアームで戦う",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xf54c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01313c",
+  "kind": "string",
+  "jp": "とまるでおどって",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xf550"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013150",
+  "kind": "string",
+  "jp": "いるかのようだ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xf554"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013160",
+  "kind": "string",
+  "jp": "ゲッコウリン",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xf5c0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013170",
+  "kind": "string",
+  "jp": "月の光を思わせる",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xf5c4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013184",
+  "kind": "string",
+  "jp": "アーム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xf5c8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01318c",
+  "kind": "string",
+  "jp": "実用せいも高い",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xf5cc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01319c",
+  "kind": "string",
+  "jp": "ナイトレイド",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xf638"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0131ac",
+  "kind": "string",
+  "jp": "相手の目をボカす",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xf63c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0131c0",
+  "kind": "string",
+  "jp": "こうげきができる",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xf640"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0131d4",
+  "kind": "string",
+  "jp": "アーム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xf644"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0131dc",
+  "kind": "string",
+  "jp": "ホムラオウギ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xf6b0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0131ec",
+  "kind": "string",
+  "jp": "強力なねっ風が",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xf6b4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0131fc",
+  "kind": "string",
+  "jp": "相手をつつみこみ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xf6b8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013210",
+  "kind": "string",
+  "jp": "こうげきする",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xf6bc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013220",
+  "kind": "string",
+  "jp": "インテンション",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xf728"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013230",
+  "kind": "string",
+  "jp": "じゆうじざいに",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xf72c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013240",
+  "kind": "string",
+  "jp": "形がかわるムチの",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xf730"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013254",
+  "kind": "string",
+  "jp": "ようなアーム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xf734"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013264",
+  "kind": "string",
+  "jp": "インテンションＺ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xf7a0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013278",
+  "kind": "string",
+  "jp": "インテンションの",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xf7a4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01328c",
+  "kind": "string",
+  "jp": "進化したタイプ　",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xf7a8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0132a0",
+  "kind": "string",
+  "jp": "上級者むきだ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xf7ac"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0132b0",
+  "kind": "string",
+  "jp": "ゴヨウダー",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xf818"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0132bc",
+  "kind": "string",
+  "jp": "ジッテとよばれる",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xf81c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0132d0",
+  "kind": "string",
+  "jp": "古いぶきがモデル",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xf820"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0132e4",
+  "kind": "string",
+  "jp": "つかいやすい",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xf824"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0132f4",
+  "kind": "string",
+  "jp": "コマガサネ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xf890"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013300",
+  "kind": "string",
+  "jp": "二刀流なので",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xf894"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013310",
+  "kind": "string",
+  "jp": "手数が多く",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xf898"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01331c",
+  "kind": "string",
+  "jp": "こうげきも高い",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xf89c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01332c",
+  "kind": "string",
+  "jp": "グレイサー",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xf908"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013338",
+  "kind": "string",
+  "jp": "二刀のシロキバと",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xf90c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01334c",
+  "kind": "string",
+  "jp": "クロキバが合体し",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xf910"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013360",
+  "kind": "string",
+  "jp": "グレイサーとなる",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xf914"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013374",
+  "kind": "string",
+  "jp": "ブランディッシュ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xf980"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013388",
+  "kind": "string",
+  "jp": "するどい２つの",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xf984"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013398",
+  "kind": "string",
+  "jp": "ヤイバで連ぞく",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xf988"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0133a8",
+  "kind": "string",
+  "jp": "こうげきする",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xf98c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0133b8",
+  "kind": "string",
+  "jp": "ディアマンダー",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xf9f8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0133c8",
+  "kind": "string",
+  "jp": "せいこうな作りで",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xf9fc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0133dc",
+  "kind": "string",
+  "jp": "生さん数が少ない",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xfa00"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0133f0",
+  "kind": "string",
+  "jp": "レアなアーム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xfa04"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013400",
+  "kind": "string",
+  "jp": "グラススピナー",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xfa70"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013410",
+  "kind": "string",
+  "jp": "ブーメランみたい",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xfa74"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013424",
+  "kind": "string",
+  "jp": "に使うことも",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xfa78"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013434",
+  "kind": "string",
+  "jp": "できるアーム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xfa7c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013444",
+  "kind": "string",
+  "jp": "ガーランド",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xfae8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013450",
+  "kind": "string",
+  "jp": "４つのヤイバと",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xfaec"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013460",
+  "kind": "string",
+  "jp": "高速回転で相手を",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xfaf0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013474",
+  "kind": "string",
+  "jp": "切りさく",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xfaf4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013480",
+  "kind": "string",
+  "jp": "スティレット",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xfb60"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013490",
+  "kind": "string",
+  "jp": "こうげきは弱いが",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xfb64"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0134a4",
+  "kind": "string",
+  "jp": "おそろしいドクの",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xfb68"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0134b8",
+  "kind": "string",
+  "jp": "こうかがある",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xfb6c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0134c8",
+  "kind": "string",
+  "jp": "トリックスター",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xfbd8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0134d8",
+  "kind": "string",
+  "jp": "こうげきはすごく",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xfbdc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0134ec",
+  "kind": "string",
+  "jp": "弱いがいろいろな",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xfbe0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013500",
+  "kind": "string",
+  "jp": "こうかがある",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xfbe4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013510",
+  "kind": "string",
+  "jp": "ワスパー",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xfc50"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01351c",
+  "kind": "string",
+  "jp": "ハチのはりを",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xfc54"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01352c",
+  "kind": "string",
+  "jp": "さんこうにした",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xfc58"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01353c",
+  "kind": "string",
+  "jp": "ヤリがたアーム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xfc5c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01354c",
+  "kind": "string",
+  "jp": "ベスティア",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xfcc8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013558",
+  "kind": "string",
+  "jp": "中世のきしが",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xfccc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013568",
+  "kind": "string",
+  "jp": "使ったランスが",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xfcd0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013578",
+  "kind": "string",
+  "jp": "モデルのアーム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xfcd4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013588",
+  "kind": "string",
+  "jp": "ゲンブセン",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xfd40"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013594",
+  "kind": "string",
+  "jp": "わかい世代に",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xfd44"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0135a4",
+  "kind": "string",
+  "jp": "人気のヤブーノ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xfd48"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0135b4",
+  "kind": "string",
+  "jp": "デザインのアーム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xfd4c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0135c8",
+  "kind": "string",
+  "jp": "ブレイゾン",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xfdb8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0135d4",
+  "kind": "string",
+  "jp": "げん定生さん",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xfdbc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0135e4",
+  "kind": "string",
+  "jp": "で作られた",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xfdc0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0135f0",
+  "kind": "string",
+  "jp": "レアなランス",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xfdc4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013600",
+  "kind": "string",
+  "jp": "ホウテンゲキ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xfe30"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013610",
+  "kind": "string",
+  "jp": "かみなりの力を",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xfe34"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013620",
+  "kind": "string",
+  "jp": "とりいれた強力な",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xfe38"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013634",
+  "kind": "string",
+  "jp": "スピア",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xfe3c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01363c",
+  "kind": "string",
+  "jp": "ランバー",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xfea8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013648",
+  "kind": "string",
+  "jp": "こうげきの高さが",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xfeac"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01365c",
+  "kind": "string",
+  "jp": "人気のアックス",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xfeb0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013670",
+  "kind": "string",
+  "jp": "カーバンクル",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xff20"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013680",
+  "kind": "string",
+  "jp": "見た目に反して　",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xff24"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013694",
+  "kind": "string",
+  "jp": "こうげき力が高い",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xff28"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0136a8",
+  "kind": "string",
+  "jp": "ハンマー",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xff2c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0136b4",
+  "kind": "string",
+  "jp": "ベルドセング",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xff98"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0136c4",
+  "kind": "string",
+  "jp": "重さを利用して",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xff9c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0136d4",
+  "kind": "string",
+  "jp": "大きなヤイバを",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffa0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0136e4",
+  "kind": "string",
+  "jp": "ふりまわす",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xffa4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0136f0",
+  "kind": "string",
+  "jp": "スマッシャー",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10010"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013700",
+  "kind": "string",
+  "jp": "地面をたたいて",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10014"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013710",
+  "kind": "string",
+  "jp": "ダメージになる",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10018"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013720",
+  "kind": "string",
+  "jp": "ほど重いアーム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1001c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013730",
+  "kind": "string",
+  "jp": "フリューゲル",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10088"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013740",
+  "kind": "string",
+  "jp": "ツバサを連想",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1008c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013750",
+  "kind": "string",
+  "jp": "させる　ゆうがで",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10090"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013764",
+  "kind": "string",
+  "jp": "強力なアーム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10094"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013774",
+  "kind": "string",
+  "jp": "ニャックル",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10100"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013780",
+  "kind": "string",
+  "jp": "キュートなネコ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10104"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013790",
+  "kind": "string",
+  "jp": "がたナックル",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10108"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0137a0",
+  "kind": "string",
+  "jp": "一部に大人気",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1010c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0137b0",
+  "kind": "string",
+  "jp": "ベアクロー",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10178"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0137bc",
+  "kind": "string",
+  "jp": "すばやく何度も",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1017c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0137cc",
+  "kind": "string",
+  "jp": "こうげきできる",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10180"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0137dc",
+  "kind": "string",
+  "jp": "クローがたアーム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10184"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0137f0",
+  "kind": "string",
+  "jp": "ギガダスター",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x101f0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013800",
+  "kind": "string",
+  "jp": "ねだんもいりょく",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x101f4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013814",
+  "kind": "string",
+  "jp": "も手ごろなナック",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x101f8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013828",
+  "kind": "string",
+  "jp": "ルタイプのアーム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x101fc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01383c",
+  "kind": "string",
+  "jp": "スナッガー",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10268"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013848",
+  "kind": "string",
+  "jp": "そのツメで相手を",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1026c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01385c",
+  "kind": "string",
+  "jp": "いかくするクロー",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10270"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013870",
+  "kind": "string",
+  "jp": "タイプのアーム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10274"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013880",
+  "kind": "string",
+  "jp": "ボルトロン",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x102e0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01388c",
+  "kind": "string",
+  "jp": "強力なオーラを",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x102e4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01389c",
+  "kind": "string",
+  "jp": "くりだし　相手を",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x102e8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0138b0",
+  "kind": "string",
+  "jp": "ふっ飛ばす",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x102ec"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0138bc",
+  "kind": "string",
+  "jp": "テンタークス",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10358"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0138cc",
+  "kind": "string",
+  "jp": "す早いこうげきで",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1035c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0138e0",
+  "kind": "string",
+  "jp": "何本にも見える",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10360"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0138f0",
+  "kind": "string",
+  "jp": "というアーム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10364"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013900",
+  "kind": "string",
+  "jp": "サージオン",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x103d0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01390c",
+  "kind": "string",
+  "jp": "女せいに愛用者",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x103d4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01391c",
+  "kind": "string",
+  "jp": "が多いナギナタ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x103d8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01392c",
+  "kind": "string",
+  "jp": "タイプのアーム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x103dc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01393c",
+  "kind": "string",
+  "jp": "ロザネイル",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10448"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013948",
+  "kind": "string",
+  "jp": "バラにそまった",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1044c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013958",
+  "kind": "string",
+  "jp": "ヤイバで相手の",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10450"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013968",
+  "kind": "string",
+  "jp": "ＡＰをうばう",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10454"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013978",
+  "kind": "string",
+  "jp": "リュウエンノタチ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x104c0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01398c",
+  "kind": "string",
+  "jp": "名工が手がけた",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x104c4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01399c",
+  "kind": "string",
+  "jp": "ナギナタが",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x104c8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0139a8",
+  "kind": "string",
+  "jp": "モデルのアーム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x104cc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0139b8",
+  "kind": "string",
+  "jp": "ステュクス",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10538"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0139c4",
+  "kind": "string",
+  "jp": "まがまがしくも",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1053c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0139d4",
+  "kind": "string",
+  "jp": "美しい見た目で",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10540"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0139e4",
+  "kind": "string",
+  "jp": "ファンが多い",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10544"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0139f4",
+  "kind": "string",
+  "jp": "ヴァンガード",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x105b0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013a04",
+  "kind": "string",
+  "jp": "テスト中のアーム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x105b4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013a18",
+  "kind": "string",
+  "jp": "強力だが使うのが",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x105b8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013a2c",
+  "kind": "string",
+  "jp": "むずかしい",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x105bc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013a38",
+  "kind": "string",
+  "jp": "リボレイダー",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10628"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013a48",
+  "kind": "string",
+  "jp": "一部に高い人気の",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1062c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013a5c",
+  "kind": "string",
+  "jp": "ドリルタイプの",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10630"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013a6c",
+  "kind": "string",
+  "jp": "アーム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10634"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013a74",
+  "kind": "string",
+  "jp": "ブラッドホーン",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x106a0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013a84",
+  "kind": "string",
+  "jp": "相手のＨＰを",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x106a4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013a94",
+  "kind": "string",
+  "jp": "すいとってしまう",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x106a8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013aa8",
+  "kind": "string",
+  "jp": "きょうふのドリル",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x106ac"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013abc",
+  "kind": "string",
+  "jp": "ガンドレック",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10718"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013acc",
+  "kind": "string",
+  "jp": "あまりのパワーで",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1071c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013ae0",
+  "kind": "string",
+  "jp": "発売中止に",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10720"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013aec",
+  "kind": "string",
+  "jp": "なりそうになった",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10724"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013b00",
+  "kind": "string",
+  "jp": "グランペクタ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10790"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013b10",
+  "kind": "string",
+  "jp": "バウンダーにも",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10794"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013b20",
+  "kind": "string",
+  "jp": "なるスグレものの",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10798"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013b34",
+  "kind": "string",
+  "jp": "アーム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1079c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013b3c",
+  "kind": "string",
+  "jp": "グランブレム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10808"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013b4c",
+  "kind": "string",
+  "jp": "重く大きいので",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1080c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013b5c",
+  "kind": "string",
+  "jp": "ムダな動きを",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10810"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013b6c",
+  "kind": "string",
+  "jp": "なくして使おう",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10814"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013b7c",
+  "kind": "string",
+  "jp": "グランウォルタ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10880"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013b8c",
+  "kind": "string",
+  "jp": "グランシリーズ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10884"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013b9c",
+  "kind": "string",
+  "jp": "中でもこうかで",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10888"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013bac",
+  "kind": "string",
+  "jp": "タマをはね返す",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1088c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013bbc",
+  "kind": "string",
+  "jp": "グランディウス",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x108f8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013bcc",
+  "kind": "string",
+  "jp": "ＭーＶＬ開発の",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x108fc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013bdc",
+  "kind": "string",
+  "jp": "グランシリーズの",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10900"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013bf0",
+  "kind": "string",
+  "jp": "最高級アーム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10904"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013c00",
+  "kind": "string",
+  "jp": "クロスガン",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10970"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013c0c",
+  "kind": "string",
+  "jp": "一番手ごろな",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10974"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013c1c",
+  "kind": "string",
+  "jp": "矢をはなつハント",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10978"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013c30",
+  "kind": "string",
+  "jp": "けいのアーム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1097c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013c40",
+  "kind": "string",
+  "jp": "ラックスアロー",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x109e8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013c50",
+  "kind": "string",
+  "jp": "ヤブーノデザイン",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x109ec"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013c64",
+  "kind": "string",
+  "jp": "のエレガント",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x109f0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013c74",
+  "kind": "string",
+  "jp": "なアロータイプ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x109f4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013c84",
+  "kind": "string",
+  "jp": "アルバレスト",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10a60"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013c94",
+  "kind": "string",
+  "jp": "バランスが良く",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10a64"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013ca4",
+  "kind": "string",
+  "jp": "主力そうびとして",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10a68"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013cb8",
+  "kind": "string",
+  "jp": "使われる事が多い",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10a6c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013ccc",
+  "kind": "string",
+  "jp": "エンジェハイロウ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10ad8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013ce0",
+  "kind": "string",
+  "jp": "かわいい見た目に",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10adc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013cf4",
+  "kind": "string",
+  "jp": "反してパワフルな",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10ae0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013d08",
+  "kind": "string",
+  "jp": "アロータイプ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10ae4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013d18",
+  "kind": "string",
+  "jp": "ファイバスター",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10b50"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013d28",
+  "kind": "string",
+  "jp": "アロータイプの",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10b54"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013d38",
+  "kind": "string",
+  "jp": "ファンあこがれの",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10b58"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013d4c",
+  "kind": "string",
+  "jp": "高せいのうモデル",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10b5c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013d60",
+  "kind": "string",
+  "jp": "セツナ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10bc8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013d68",
+  "kind": "string",
+  "jp": "たくさん投げる",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10bcc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013d78",
+  "kind": "string",
+  "jp": "事ができるダート",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10bd0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013d8c",
+  "kind": "string",
+  "jp": "タイプのアーム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10bd4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013d9c",
+  "kind": "string",
+  "jp": "マツカゼ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10c40"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013da8",
+  "kind": "string",
+  "jp": "マキビシにもなる",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10c44"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013dbc",
+  "kind": "string",
+  "jp": "のでサブアーム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10c48"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013dcc",
+  "kind": "string",
+  "jp": "として人気が高い",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10c4c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013de0",
+  "kind": "string",
+  "jp": "ムラカムイ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10cb8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013dec",
+  "kind": "string",
+  "jp": "するどいヤイバで",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10cbc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013e00",
+  "kind": "string",
+  "jp": "あつかいには",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10cc0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013e10",
+  "kind": "string",
+  "jp": "注意がひつよう",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10cc4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013e20",
+  "kind": "string",
+  "jp": "サクラフブキ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10d30"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013e30",
+  "kind": "string",
+  "jp": "外見の美しさと",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10d34"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013e40",
+  "kind": "string",
+  "jp": "せいのうの高さが",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10d38"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013e54",
+  "kind": "string",
+  "jp": "人気のアーム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10d3c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013e64",
+  "kind": "string",
+  "jp": "ダイニチリン",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10da8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013e74",
+  "kind": "string",
+  "jp": "こうげきりょくは",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10dac"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013e88",
+  "kind": "string",
+  "jp": "ダートタイプでは",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10db0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013e9c",
+  "kind": "string",
+  "jp": "一番のアーム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10db4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013eac",
+  "kind": "string",
+  "jp": "スフィアロッド",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10e20"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013ebc",
+  "kind": "string",
+  "jp": "Ａこうげきが高く",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10e24"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013ed0",
+  "kind": "string",
+  "jp": "オーラもうてる",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10e28"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013ee0",
+  "kind": "string",
+  "jp": "ツエがたアーム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10e2c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013ef0",
+  "kind": "string",
+  "jp": "フェザーステッキ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10e98"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013f04",
+  "kind": "string",
+  "jp": "男のコより女のコ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10e9c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013f18",
+  "kind": "string",
+  "jp": "が使っている事",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10ea0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013f28",
+  "kind": "string",
+  "jp": "が多いアーム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10ea4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013f38",
+  "kind": "string",
+  "jp": "クリスタルロッド",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10f10"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013f4c",
+  "kind": "string",
+  "jp": "外見からマホウを",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10f14"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013f60",
+  "kind": "string",
+  "jp": "使っているように",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10f18"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013f74",
+  "kind": "string",
+  "jp": "見えるアーム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10f1c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013f84",
+  "kind": "string",
+  "jp": "ブイステッキ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10f88"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013f94",
+  "kind": "string",
+  "jp": "勝利のねがいが",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10f8c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013fa4",
+  "kind": "string",
+  "jp": "こめられたアーム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10f90"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013fb8",
+  "kind": "string",
+  "jp": "せいのうも高い",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x10f94"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013fc8",
+  "kind": "string",
+  "jp": "ダイアロッド",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11000"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013fd8",
+  "kind": "string",
+  "jp": "美しいデザインで",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11004"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r013fec",
+  "kind": "string",
+  "jp": "とくにコレクター",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11008"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014000",
+  "kind": "string",
+  "jp": "に人気なアーム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1100c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014010",
+  "kind": "string",
+  "jp": "ヴァジュベーゼン",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11078"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014024",
+  "kind": "string",
+  "jp": "はねかえるタマを",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1107c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014038",
+  "kind": "string",
+  "jp": "うつアーム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11080"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014044",
+  "kind": "string",
+  "jp": "のこりＡＰに注意",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11084"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014058",
+  "kind": "string",
+  "jp": "サイファブルーム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x110f0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01406c",
+  "kind": "string",
+  "jp": "ロッドタイプでは",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x110f4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014080",
+  "kind": "string",
+  "jp": "バランスが良く",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x110f8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014090",
+  "kind": "string",
+  "jp": "広く使われている",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x110fc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0140a4",
+  "kind": "string",
+  "jp": "クロースベーゼン",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11168"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0140b8",
+  "kind": "string",
+  "jp": "ムラサキのボディ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1116c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0140cc",
+  "kind": "string",
+  "jp": "がお姉さんＶＲに",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11170"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0140e0",
+  "kind": "string",
+  "jp": "人気のロッド",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11174"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0140f0",
+  "kind": "string",
+  "jp": "クラブブルーム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x111e0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014100",
+  "kind": "string",
+  "jp": "オーラのタマを",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x111e4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014110",
+  "kind": "string",
+  "jp": "だすクローバーが",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x111e8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014124",
+  "kind": "string",
+  "jp": "とくちょう",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x111ec"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014130",
+  "kind": "string",
+  "jp": "バショウベーゼン",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11258"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014144",
+  "kind": "string",
+  "jp": "バショウの花が",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1125c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014154",
+  "kind": "string",
+  "jp": "モデルのひじょう",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11260"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014168",
+  "kind": "string",
+  "jp": "に強力なアーム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11264"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014178",
+  "kind": "string",
+  "jp": "ソルセプター",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x112d0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014188",
+  "kind": "string",
+  "jp": "太陽がイメージの",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x112d4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01419c",
+  "kind": "string",
+  "jp": "サモンタイプの",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x112d8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0141ac",
+  "kind": "string",
+  "jp": "アーム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x112dc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0141b4",
+  "kind": "string",
+  "jp": "ルナセプター",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11348"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0141c4",
+  "kind": "string",
+  "jp": "相手のＨＰを",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1134c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0141d4",
+  "kind": "string",
+  "jp": "ジワジワへらす",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11350"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0141e4",
+  "kind": "string",
+  "jp": "アーム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11354"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0141ec",
+  "kind": "string",
+  "jp": "エストセプター",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x113c0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0141fc",
+  "kind": "string",
+  "jp": "その見た目通り",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x113c4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01420c",
+  "kind": "string",
+  "jp": "やられると星が",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x113c8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01421c",
+  "kind": "string",
+  "jp": "見えると言われる",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x113cc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014230",
+  "kind": "string",
+  "jp": "ノヴァセプター",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11438"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014240",
+  "kind": "string",
+  "jp": "相手の動きを",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1143c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014250",
+  "kind": "string",
+  "jp": "にぶらせる力を",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11440"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014260",
+  "kind": "string",
+  "jp": "もったアーム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11444"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014270",
+  "kind": "string",
+  "jp": "ネプトセプター",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x114b0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014280",
+  "kind": "string",
+  "jp": "相手のＡＰを",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x114b4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014290",
+  "kind": "string",
+  "jp": "ジワジワへらす",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x114b8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0142a0",
+  "kind": "string",
+  "jp": "アーム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x114bc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0142a8",
+  "kind": "string",
+  "jp": "プルトセプター",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11528"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0142b8",
+  "kind": "string",
+  "jp": "アームを１つ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1152c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0142c8",
+  "kind": "string",
+  "jp": "ふうじる力がある",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11530"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0142dc",
+  "kind": "string",
+  "jp": "アーム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11534"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0142e4",
+  "kind": "string",
+  "jp": "ネクロマーダー",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x115a0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0142f4",
+  "kind": "string",
+  "jp": "アームを２つも",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x115a4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014304",
+  "kind": "string",
+  "jp": "ふうじる力がある",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x115a8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014318",
+  "kind": "string",
+  "jp": "アーム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x115ac"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014320",
+  "kind": "string",
+  "jp": "ブラムショット",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11618"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014330",
+  "kind": "string",
+  "jp": "一部で人気が高い",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1161c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014344",
+  "kind": "string",
+  "jp": "ガンタイプの",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11620"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014354",
+  "kind": "string",
+  "jp": "ハントけいアーム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11624"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014368",
+  "kind": "string",
+  "jp": "フラッシーカノン",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11690"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01437c",
+  "kind": "string",
+  "jp": "発売したばかりの",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11694"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014390",
+  "kind": "string",
+  "jp": "ガンタイプアーム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11698"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0143a4",
+  "kind": "string",
+  "jp": "せいのうも高い",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1169c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0143b4",
+  "kind": "string",
+  "jp": "バーニアレイター",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11708"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0143c8",
+  "kind": "string",
+  "jp": "ガンタイプでは",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1170c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0143d8",
+  "kind": "string",
+  "jp": "一番強力なアーム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11710"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0143ec",
+  "kind": "string",
+  "jp": "ＶＰも高い",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11714"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0143f8",
+  "kind": "string",
+  "jp": "へクサイド",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11780"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014404",
+  "kind": "string",
+  "jp": "最もポピュラーな",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11784",
+   "0x7ff9bc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014418",
+  "kind": "string",
+  "jp": "バウンダー",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11788"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014424",
+  "kind": "string",
+  "jp": "大きな弱点はない",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1178c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014438",
+  "kind": "string",
+  "jp": "エスクード",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x117f8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014444",
+  "kind": "string",
+  "jp": "コンパクトで軽く",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x117fc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014458",
+  "kind": "string",
+  "jp": "こうげきにも使い",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11800"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01446c",
+  "kind": "string",
+  "jp": "やすいバウンダー",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11804"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014480",
+  "kind": "string",
+  "jp": "シェルクリーク",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11870"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014490",
+  "kind": "string",
+  "jp": "カメのこうらを",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11874"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0144a0",
+  "kind": "string",
+  "jp": "ヒントに作られた",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11878"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0144b4",
+  "kind": "string",
+  "jp": "バウンダー",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1187c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0144c0",
+  "kind": "string",
+  "jp": "ファイバンパー",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x118e8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0144d0",
+  "kind": "string",
+  "jp": "大きめサイズだが",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x118ec"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0144e4",
+  "kind": "string",
+  "jp": "クセが少なく",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x118f0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0144f4",
+  "kind": "string",
+  "jp": "せいのうも高い",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x118f4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014504",
+  "kind": "string",
+  "jp": "ライネックス",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11960"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014514",
+  "kind": "string",
+  "jp": "かなり高せいのう",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11964"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014528",
+  "kind": "string",
+  "jp": "なみのアームより",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11968"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01453c",
+  "kind": "string",
+  "jp": "こうげき力が高い",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1196c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014550",
+  "kind": "string",
+  "jp": "ハートポワン",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x119d8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014560",
+  "kind": "string",
+  "jp": "女の子向けに",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x119dc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014570",
+  "kind": "string",
+  "jp": "作られたアーム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x119e0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014580",
+  "kind": "string",
+  "jp": "意外に使いやすい",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x119e4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014594",
+  "kind": "string",
+  "jp": "オンミョウヘキ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11a50"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0145a4",
+  "kind": "string",
+  "jp": "オンミョウの力を",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11a54"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0145b8",
+  "kind": "string",
+  "jp": "利用したテスト",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11a58"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0145c8",
+  "kind": "string",
+  "jp": "タイプのアーム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11a5c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0145d8",
+  "kind": "string",
+  "jp": "トライフィールド",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11ac8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0145ec",
+  "kind": "string",
+  "jp": "ぼうぎょが苦手な",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11acc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014600",
+  "kind": "string",
+  "jp": "せんしゅに人気の",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11ad0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014614",
+  "kind": "string",
+  "jp": "バリアタイプ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11ad4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014624",
+  "kind": "string",
+  "jp": "レオバリア",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11b40"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014630",
+  "kind": "string",
+  "jp": "人気とうひょうの",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11b44"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014644",
+  "kind": "string",
+  "jp": "バウンダー部門で",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11b48"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014658",
+  "kind": "string",
+  "jp": "１位のアーム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11b4c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014668",
+  "kind": "string",
+  "jp": "ヴィナスウィング",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11bb8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01467c",
+  "kind": "string",
+  "jp": "青く光るオーラが",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11bbc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014690",
+  "kind": "string",
+  "jp": "力強い最強クラス",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11bc0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0146a4",
+  "kind": "string",
+  "jp": "のバリアタイプ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11bc4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0146b4",
+  "kind": "string",
+  "jp": "カースシンボル",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11c30"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0146c4",
+  "kind": "string",
+  "jp": "せいなる力で",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11c34"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0146d4",
+  "kind": "string",
+  "jp": "せんしゅを守る",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11c38"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0146e4",
+  "kind": "string",
+  "jp": "シンボルタイプ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11c3c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0146f4",
+  "kind": "string",
+  "jp": "デフューザー",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11ca8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014704",
+  "kind": "string",
+  "jp": "ロールをはじく",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11cac"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014714",
+  "kind": "string",
+  "jp": "タマをうつ新がた",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11cb0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014728",
+  "kind": "string",
+  "jp": "のバウンダー",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11cb4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014738",
+  "kind": "string",
+  "jp": "ロッカクジン",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11d20"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014748",
+  "kind": "string",
+  "jp": "Ａこうげきが",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11d24"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014758",
+  "kind": "string",
+  "jp": "とても高い",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11d28"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014764",
+  "kind": "string",
+  "jp": "バウンダー",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11d2c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014770",
+  "kind": "string",
+  "jp": "オービター",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11d98"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01477c",
+  "kind": "string",
+  "jp": "たてを投げて使う",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11d9c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014790",
+  "kind": "string",
+  "jp": "戦ぽうをヒントに",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11da0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0147a4",
+  "kind": "string",
+  "jp": "かいはつされた",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11da4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0147b4",
+  "kind": "string",
+  "jp": "ブルーローズ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11e10"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0147c4",
+  "kind": "string",
+  "jp": "さいきん使うひと",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11e14"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0147d8",
+  "kind": "string",
+  "jp": "がふえたソーサー",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11e18"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0147ec",
+  "kind": "string",
+  "jp": "タイプのアーム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11e1c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0147fc",
+  "kind": "string",
+  "jp": "ディスカーム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11e88"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01480c",
+  "kind": "string",
+  "jp": "これをメインに",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11e8c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01481c",
+  "kind": "string",
+  "jp": "使えるほど強力な",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11e90"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014830",
+  "kind": "string",
+  "jp": "ソーサータイプ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11e94"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014840",
+  "kind": "string",
+  "jp": "ミカガミ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11f00"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01484c",
+  "kind": "string",
+  "jp": "最近発明された",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11f04"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01485c",
+  "kind": "string",
+  "jp": "タマをはね返す力",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11f08"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014870",
+  "kind": "string",
+  "jp": "を持ったアーム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11f0c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014880",
+  "kind": "string",
+  "jp": "パゥンダー",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11f78"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01488c",
+  "kind": "string",
+  "jp": "シャレのつもりで",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11f7c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0148a0",
+  "kind": "string",
+  "jp": "げんていで発売",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11f80"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0148b0",
+  "kind": "string",
+  "jp": "しかし大人気に！",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11f84"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0148c4",
+  "kind": "string",
+  "jp": "アマルティア",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11ff0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0148d4",
+  "kind": "string",
+  "jp": "美じゅつてきな",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11ff4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0148e4",
+  "kind": "string",
+  "jp": "かちも高い",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11ff8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0148f0",
+  "kind": "string",
+  "jp": "強力なバウンダー",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x11ffc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014904",
+  "kind": "string",
+  "jp": "ダイジテン",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x12068"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014910",
+  "kind": "string",
+  "jp": "バトローリングの",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1206c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014924",
+  "kind": "string",
+  "jp": "ひでんの書",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x12070"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014930",
+  "kind": "string",
+  "jp": "カドがイタイ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x12074"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014940",
+  "kind": "string",
+  "jp": "スパロスライダー",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x120e0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014954",
+  "kind": "string",
+  "jp": "オーラの力で",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x120e4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014964",
+  "kind": "string",
+  "jp": "すばやく動ける",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x120e8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014974",
+  "kind": "string",
+  "jp": "アーム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x120ec"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01497c",
+  "kind": "string",
+  "jp": "ガルスライダー",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x12158"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01498c",
+  "kind": "string",
+  "jp": "Ｍ・ヨイチの",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1215c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01499c",
+  "kind": "string",
+  "jp": "デザインで話題に",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x12160"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0149b0",
+  "kind": "string",
+  "jp": "なったアーム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x12164"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0149c0",
+  "kind": "string",
+  "jp": "シェイドアクセル",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x121d0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0149d4",
+  "kind": "string",
+  "jp": "オーラで光を曲げ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x121d4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0149e8",
+  "kind": "string",
+  "jp": "すがたが消える",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x121d8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0149f8",
+  "kind": "string",
+  "jp": "画期てきなアーム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x121dc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014a0c",
+  "kind": "string",
+  "jp": "シノビアクセル",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x12248"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014a1c",
+  "kind": "string",
+  "jp": "ＡＰ消ひを",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1224c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014a28",
+  "kind": "string",
+  "jp": "おさえた新モデル",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x12250"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014a3c",
+  "kind": "string",
+  "jp": "外国人に人気",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x12254"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014a4c",
+  "kind": "string",
+  "jp": "ラウンダーＬ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x122c0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014a5c",
+  "kind": "string",
+  "jp": "重りょう級の",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x122c4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014a6c",
+  "kind": "string",
+  "jp": "バトローラーに",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x122c8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014a7c",
+  "kind": "string",
+  "jp": "愛用者が多い",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x122cc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014a8c",
+  "kind": "string",
+  "jp": "ラウンダーＲ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x12338"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014a9c",
+  "kind": "string",
+  "jp": "意表をついた",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1233c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014aac",
+  "kind": "string",
+  "jp": "動きができる",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x12340"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014abc",
+  "kind": "string",
+  "jp": "アーム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x12344"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014ac4",
+  "kind": "string",
+  "jp": "フログホッパー",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x123b0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014ad4",
+  "kind": "string",
+  "jp": "後ろに高速移動",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x123b4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014ae4",
+  "kind": "string",
+  "jp": "するアシストけい",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x123b8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014af8",
+  "kind": "string",
+  "jp": "アーム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x123bc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014b00",
+  "kind": "string",
+  "jp": "ロブスホッパー",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x12428"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014b10",
+  "kind": "string",
+  "jp": "ハントけいの",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1242c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014b20",
+  "kind": "string",
+  "jp": "ユーザーが好んで",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x12430"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014b34",
+  "kind": "string",
+  "jp": "使う事が多い",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x12434"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014b44",
+  "kind": "string",
+  "jp": "ゴーストローブ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x124a0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014b54",
+  "kind": "string",
+  "jp": "すがたが消える",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x124a4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014b64",
+  "kind": "string",
+  "jp": "すごいアームだが",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x124a8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014b78",
+  "kind": "string",
+  "jp": "消ひＡＰが多い",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x124ac"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014b88",
+  "kind": "string",
+  "jp": "ミラージュローブ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x12518"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014b9c",
+  "kind": "string",
+  "jp": "最新モデルで",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1251c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014bac",
+  "kind": "string",
+  "jp": "消ひＡＰも少ない",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x12520"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014bc0",
+  "kind": "string",
+  "jp": "ぶんＶＰも高い",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x12524"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014bd0",
+  "kind": "string",
+  "jp": "ノイズリスト",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x12590"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014be0",
+  "kind": "string",
+  "jp": "使われるとイヤラ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x12594"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014bf4",
+  "kind": "string",
+  "jp": "ンキング２年連ぞ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x12598"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014c08",
+  "kind": "string",
+  "jp": "く１位のアーム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1259c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014c18",
+  "kind": "string",
+  "jp": "ジャミングリスト",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x12608"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014c2c",
+  "kind": "string",
+  "jp": "ノイズリストを",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1260c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014c3c",
+  "kind": "string",
+  "jp": "強化した最強？の",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x12610"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014c50",
+  "kind": "string",
+  "jp": "オジャマアーム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x12614"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014c60",
+  "kind": "string",
+  "jp": "スニッピーバッジ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x12680"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014c74",
+  "kind": "string",
+  "jp": "とにかく相手を",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x12684"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014c84",
+  "kind": "string",
+  "jp": "からかいたい時に",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x12688"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014c98",
+  "kind": "string",
+  "jp": "使うアーム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1268c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014ca4",
+  "kind": "string",
+  "jp": "デビリィバッジ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x126f8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014cb4",
+  "kind": "string",
+  "jp": "相手にせいしん",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x126fc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014cc4",
+  "kind": "string",
+  "jp": "てきダメージ？を",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x12700"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014cd8",
+  "kind": "string",
+  "jp": "あたえるアーム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x12704"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014ce8",
+  "kind": "string",
+  "jp": "リーブレード",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x12770"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014cf8",
+  "kind": "string",
+  "jp": "初心者のための",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x12774"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014d08",
+  "kind": "string",
+  "jp": "アームでだれでも",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x12778"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014d1c",
+  "kind": "string",
+  "jp": "セットができる",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1277c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014d2c",
+  "kind": "string",
+  "jp": "リーグレイブ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x127e8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014d3c",
+  "kind": "string",
+  "jp": "ストライクけい",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x127ec"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014d4c",
+  "kind": "string",
+  "jp": "練習用のヤリがた",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x127f0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014d60",
+  "kind": "string",
+  "jp": "アーム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x127f4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014d68",
+  "kind": "string",
+  "jp": "リーブラスター",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x12860"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014d78",
+  "kind": "string",
+  "jp": "ハントけい練習用",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x12864"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014d8c",
+  "kind": "string",
+  "jp": "のアーム　遠くの",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x12868"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014da0",
+  "kind": "string",
+  "jp": "相手に使おう",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1286c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014db0",
+  "kind": "string",
+  "jp": "リーバウンダー",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x128d8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014dc0",
+  "kind": "string",
+  "jp": "バウンダーの使い",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x128dc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014dd4",
+  "kind": "string",
+  "jp": "方をおぼえるには",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x128e0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014de8",
+  "kind": "string",
+  "jp": "ピッタリ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x128e4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014df4",
+  "kind": "string",
+  "jp": "ユバシリトキテツ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x12950"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014e08",
+  "kind": "string",
+  "jp": "どちらも「業物」",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x12954"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014e1c",
+  "kind": "string",
+  "jp": "と言われる",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x12958"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014e28",
+  "kind": "string",
+  "jp": "すごい刀",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1295c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014e34",
+  "kind": "string",
+  "jp": "ワドウイチモンジ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x129c8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014e48",
+  "kind": "string",
+  "jp": "世界で２１本のみ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x129cc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014e5c",
+  "kind": "string",
+  "jp": "と言われる名刀",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x129d0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014e6c",
+  "kind": "string",
+  "jp": "形見の刀でもある",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x129d4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014e80",
+  "kind": "string",
+  "jp": "エクセリオンＢ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x12a40"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014e90",
+  "kind": "string",
+  "jp": "ツバサをまとった",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x12a44"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014ea4",
+  "kind": "string",
+  "jp": "強力な剣のサイガ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x12a48"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014ebc",
+  "kind": "string",
+  "jp": "ボルティックＡ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x12ab8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014ecc",
+  "kind": "string",
+  "jp": "オノのサイガ　",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x12abc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014edc",
+  "kind": "string",
+  "jp": "しょうげきはも",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x12ac0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014eec",
+  "kind": "string",
+  "jp": "強力",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x12ac4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014ef4",
+  "kind": "string",
+  "jp": "クラウンシールド",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x12b30"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014f08",
+  "kind": "string",
+  "jp": "最強のたてと",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x12b34"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014f18",
+  "kind": "string",
+  "jp": "言われるほどの",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x12b38"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014f28",
+  "kind": "string",
+  "jp": "サイガ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x12b3c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014f30",
+  "kind": "string",
+  "jp": "コテツ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x12ba8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014f38",
+  "kind": "string",
+  "jp": "コゲンタ愛用の",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x12bac"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014f48",
+  "kind": "string",
+  "jp": "大きな剣",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x12bb0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014f58",
+  "kind": "string",
+  "jp": "ボウギョノイン",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x12c20"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014f68",
+  "kind": "string",
+  "jp": "トウジンキにより",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x12c24"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r014f7c",
+  "kind": "string",
+  "jp": "生み出されるタテ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x12c28"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015400",
+  "kind": "string",
+  "jp": "キュアメイト",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x14fb0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015410",
+  "kind": "string",
+  "jp": "ＨＰが０になると",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x14fb4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015424",
+  "kind": "string",
+  "jp": "自動で１回",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x14fb8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015430",
+  "kind": "string",
+  "jp": "少しカイフクする",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x14fbc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015444",
+  "kind": "string",
+  "jp": "Ｓキュアメイト",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x14fc8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015454",
+  "kind": "string",
+  "jp": "ＨＰが０になると",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x14fcc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015468",
+  "kind": "string",
+  "jp": "自動で１回",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x14fd0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015474",
+  "kind": "string",
+  "jp": "カイフクする",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x14fd4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015484",
+  "kind": "string",
+  "jp": "キュアメイト２",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x14fe0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015494",
+  "kind": "string",
+  "jp": "ＨＰが０になると",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x14fe4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0154a8",
+  "kind": "string",
+  "jp": "自動で２回",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x14fe8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0154b4",
+  "kind": "string",
+  "jp": "少しカイフクする",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x14fec"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0154c8",
+  "kind": "string",
+  "jp": "Ｓキュアメイト２",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x14ff8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0154dc",
+  "kind": "string",
+  "jp": "ＨＰが０になると",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x14ffc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0154f0",
+  "kind": "string",
+  "jp": "自動で２回",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x15000"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0154fc",
+  "kind": "string",
+  "jp": "カイフクする",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x15004"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01550c",
+  "kind": "string",
+  "jp": "キュアメイト３",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x15010"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01551c",
+  "kind": "string",
+  "jp": "ＨＰが０になると",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x15014"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015530",
+  "kind": "string",
+  "jp": "自動で３回",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x15018"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01553c",
+  "kind": "string",
+  "jp": "少しカイフクする",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1501c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015550",
+  "kind": "string",
+  "jp": "Ｓキュアメイト３",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x15028"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015564",
+  "kind": "string",
+  "jp": "ＨＰが０になると",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1502c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015578",
+  "kind": "string",
+  "jp": "自動で３回",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x15030"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015584",
+  "kind": "string",
+  "jp": "カイフクする",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x15034"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015594",
+  "kind": "string",
+  "jp": "オーラメイト",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x15040"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0155a4",
+  "kind": "string",
+  "jp": "ＡＰが０になると",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x15044"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0155b8",
+  "kind": "string",
+  "jp": "自動で１回",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x15048"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0155c4",
+  "kind": "string",
+  "jp": "少しカイフクする",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1504c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0155d8",
+  "kind": "string",
+  "jp": "Ｓオーラメイト",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x15058"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0155e8",
+  "kind": "string",
+  "jp": "ＡＰが０になると",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1505c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0155fc",
+  "kind": "string",
+  "jp": "自動で１回",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x15060"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015608",
+  "kind": "string",
+  "jp": "カイフクする",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x15064"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015618",
+  "kind": "string",
+  "jp": "オーラメイト２",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x15070"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015628",
+  "kind": "string",
+  "jp": "ＡＰが０になると",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x15074"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01563c",
+  "kind": "string",
+  "jp": "自動で２回",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x15078"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015648",
+  "kind": "string",
+  "jp": "少しカイフクする",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1507c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01565c",
+  "kind": "string",
+  "jp": "Ｓオーラメイト２",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x15088"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015670",
+  "kind": "string",
+  "jp": "ＡＰが０になると",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1508c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015684",
+  "kind": "string",
+  "jp": "自動で２回",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x15090"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015690",
+  "kind": "string",
+  "jp": "カイフクする",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x15094"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0156a0",
+  "kind": "string",
+  "jp": "オーラメイト３",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x150a0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0156b0",
+  "kind": "string",
+  "jp": "ＡＰが０になると",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x150a4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0156c4",
+  "kind": "string",
+  "jp": "自動で３回",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x150a8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0156d0",
+  "kind": "string",
+  "jp": "少しカイフクする",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x150ac"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0156e4",
+  "kind": "string",
+  "jp": "Ｓオーラメイト３",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x150b8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0156f8",
+  "kind": "string",
+  "jp": "ＡＰが０になると",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x150bc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01570c",
+  "kind": "string",
+  "jp": "自動で３回",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x150c0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015718",
+  "kind": "string",
+  "jp": "カイフクする",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x150c4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015728",
+  "kind": "string",
+  "jp": "エクスキュア",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x150d0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015738",
+  "kind": "string",
+  "jp": "ヒールロールから",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x150d4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01574c",
+  "kind": "string",
+  "jp": "もどった時ＨＰの",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x150d8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015760",
+  "kind": "string",
+  "jp": "ＭＡＸがカイフク",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x150dc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015774",
+  "kind": "string",
+  "jp": "エクスキュア２",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x150e8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015784",
+  "kind": "string",
+  "jp": "ＨＰのＭＡＸが",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x150ec"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015794",
+  "kind": "string",
+  "jp": "２回カイフクする",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x150f0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0157ac",
+  "kind": "string",
+  "jp": "ドロップドール",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x15100"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0157bc",
+  "kind": "string",
+  "jp": "ドロップされても",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x15104"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0157d0",
+  "kind": "string",
+  "jp": "１回だけ　かいひ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x15108"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0157e4",
+  "kind": "string",
+  "jp": "できる",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1510c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0157ec",
+  "kind": "string",
+  "jp": "ドロップドール２",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x15118"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015800",
+  "kind": "string",
+  "jp": "ドロップされても",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1511c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015814",
+  "kind": "string",
+  "jp": "２回　かいひ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x15120"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015824",
+  "kind": "string",
+  "jp": "できる",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x15124"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01582c",
+  "kind": "string",
+  "jp": "アームスケープ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x15130"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01583c",
+  "kind": "string",
+  "jp": "必殺技を使っても",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x15134"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015850",
+  "kind": "string",
+  "jp": "１回だけアームが",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x15138"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015864",
+  "kind": "string",
+  "jp": "使える",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1513c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01586c",
+  "kind": "string",
+  "jp": "アームスケープ２",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x15148"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015880",
+  "kind": "string",
+  "jp": "必殺技を使っても",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1514c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015894",
+  "kind": "string",
+  "jp": "２回　アームが",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x15150"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0158a4",
+  "kind": "string",
+  "jp": "使える",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x15154"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0158ac",
+  "kind": "string",
+  "jp": "パライアンチ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x15160"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0158bc",
+  "kind": "string",
+  "jp": "マヒこうげきを",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x15164"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0158cc",
+  "kind": "string",
+  "jp": "５回だけ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x15168"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0158d8",
+  "kind": "string",
+  "jp": "ぼうぎょする",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1516c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0158e8",
+  "kind": "string",
+  "jp": "Ｓパライアンチ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x15178"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0158f8",
+  "kind": "string",
+  "jp": "マヒこうげきを",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1517c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015908",
+  "kind": "string",
+  "jp": "１２回も",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x15180"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015914",
+  "kind": "string",
+  "jp": "ぼうぎょする",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x15184"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015924",
+  "kind": "string",
+  "jp": "コンフュアンチ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x15190"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015934",
+  "kind": "string",
+  "jp": "こんらんこうげき",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x15194"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015948",
+  "kind": "string",
+  "jp": "を５回",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x15198"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015950",
+  "kind": "string",
+  "jp": "ぼうぎょする",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1519c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015960",
+  "kind": "string",
+  "jp": "Ｓコンフュアンチ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x151a8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015974",
+  "kind": "string",
+  "jp": "こんらんこうげき",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x151ac"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015988",
+  "kind": "string",
+  "jp": "を１２回も",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x151b0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015994",
+  "kind": "string",
+  "jp": "ぼうぎょする",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x151b4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0159a4",
+  "kind": "string",
+  "jp": "ブラインアンチ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x151c0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0159b4",
+  "kind": "string",
+  "jp": "目が見えなくなる",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x151c4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0159c8",
+  "kind": "string",
+  "jp": "こうげきを２回",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x151c8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0159d8",
+  "kind": "string",
+  "jp": "ぼうぎょする",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x151cc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0159e8",
+  "kind": "string",
+  "jp": "Ｓブラインアンチ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x151d8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0159fc",
+  "kind": "string",
+  "jp": "目が見えなくなる",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x151dc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015a10",
+  "kind": "string",
+  "jp": "こうげきを５回",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x151e0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015a20",
+  "kind": "string",
+  "jp": "ぼうぎょする",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x151e4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015a30",
+  "kind": "string",
+  "jp": "モザイクアンチ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x151f0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015a40",
+  "kind": "string",
+  "jp": "モザイクこうげき",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x151f4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015a54",
+  "kind": "string",
+  "jp": "を５回だけ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x151f8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015a60",
+  "kind": "string",
+  "jp": "ぼうぎょする",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x151fc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015a70",
+  "kind": "string",
+  "jp": "Ｓモザイクアンチ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x15208"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015a84",
+  "kind": "string",
+  "jp": "モザイクこうげき",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1520c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015a98",
+  "kind": "string",
+  "jp": "を１２回も",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x15210"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015aa4",
+  "kind": "string",
+  "jp": "ぼうぎょする",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x15214"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015ab4",
+  "kind": "string",
+  "jp": "ハイドマーカー",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x15220"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015ac4",
+  "kind": "string",
+  "jp": "すがたを消す相手",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x15224"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015ad8",
+  "kind": "string",
+  "jp": "が２回だけ見える",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x15228"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015aec",
+  "kind": "string",
+  "jp": "ようになる",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1522c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015af8",
+  "kind": "string",
+  "jp": "Ｓハイドマーカー",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x15238"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015b0c",
+  "kind": "string",
+  "jp": "すがたを消す相手",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1523c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015b20",
+  "kind": "string",
+  "jp": "が５回見える",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x15240"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015b30",
+  "kind": "string",
+  "jp": "ようになる",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x15244"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015b3c",
+  "kind": "string",
+  "jp": "アームガード",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x15250"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015b4c",
+  "kind": "string",
+  "jp": "アームふういん",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x15254"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015b5c",
+  "kind": "string",
+  "jp": "こうげきを５回",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x15258"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015b6c",
+  "kind": "string",
+  "jp": "ぼうぎょする",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1525c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015b7c",
+  "kind": "string",
+  "jp": "Ｓアームガード",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x15268"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015b8c",
+  "kind": "string",
+  "jp": "アームふういん",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1526c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015b9c",
+  "kind": "string",
+  "jp": "こうげきを１２回",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x15270"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015bb0",
+  "kind": "string",
+  "jp": "ぼうぎょする",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x15274"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015bc0",
+  "kind": "string",
+  "jp": "スマッシガード",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x15280"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015bd0",
+  "kind": "string",
+  "jp": "スマッシュ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x15284"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015bdc",
+  "kind": "string",
+  "jp": "ふういんこうげき",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x15288"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015bf0",
+  "kind": "string",
+  "jp": "を５回ぼうぎょ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1528c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015c00",
+  "kind": "string",
+  "jp": "Ｓスマッシガード",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x15298"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015c02",
+  "kind": "string",
+  "jp": "スマッシガード",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d870"
+  ],
+  "inside": "r015c00",
+  "notes": ""
+ },
+ {
+  "id": "r015c14",
+  "kind": "string",
+  "jp": "スマッシュ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1529c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015c20",
+  "kind": "string",
+  "jp": "ふういんこうげき",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x152a0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015c34",
+  "kind": "string",
+  "jp": "を１２回ぼうぎょ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x152a4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015c48",
+  "kind": "string",
+  "jp": "チャージガード",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x152b0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015c58",
+  "kind": "string",
+  "jp": "チャージふういん",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x152b4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015c6c",
+  "kind": "string",
+  "jp": "こうげきを５回",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x152b8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015c7c",
+  "kind": "string",
+  "jp": "ぼうぎょする",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x152bc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015c8c",
+  "kind": "string",
+  "jp": "Ｓチャージガード",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x152c8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015ca0",
+  "kind": "string",
+  "jp": "チャージふういん",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x152cc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015cb4",
+  "kind": "string",
+  "jp": "こうげきを１２回",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x152d0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015cc8",
+  "kind": "string",
+  "jp": "ぼうぎょする",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x152d4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015cd8",
+  "kind": "string",
+  "jp": "ラックアンチ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x152e0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015ce8",
+  "kind": "string",
+  "jp": "クリティカルの",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x152e4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015cf8",
+  "kind": "string",
+  "jp": "こうげきを５回",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x152e8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015d08",
+  "kind": "string",
+  "jp": "ぼうぎょする",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x152ec"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015d18",
+  "kind": "string",
+  "jp": "Ｓラックアンチ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x152f8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015d28",
+  "kind": "string",
+  "jp": "クリティカルの",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x152fc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015d38",
+  "kind": "string",
+  "jp": "こうげきを１２回",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x15300"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015d4c",
+  "kind": "string",
+  "jp": "ぼうぎょする",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x15304"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015d5c",
+  "kind": "string",
+  "jp": "スローアンチ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x15310"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015d6c",
+  "kind": "string",
+  "jp": "動きがスローに",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x15314"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015d7c",
+  "kind": "string",
+  "jp": "なるこうげきを",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x15318"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015d8c",
+  "kind": "string",
+  "jp": "５回ぼうぎょ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1531c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015d9c",
+  "kind": "string",
+  "jp": "Ｓスローアンチ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x15328"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015dac",
+  "kind": "string",
+  "jp": "動きがスローに",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1532c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015dbc",
+  "kind": "string",
+  "jp": "なるこうげきを",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x15330"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015dcc",
+  "kind": "string",
+  "jp": "１２回ぼうぎょ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x15334"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015ddc",
+  "kind": "string",
+  "jp": "ストップアンチ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x15340"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015dec",
+  "kind": "string",
+  "jp": "動きが止まる",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x15344"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015dfc",
+  "kind": "string",
+  "jp": "こうげきを２回",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x15348"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015e0c",
+  "kind": "string",
+  "jp": "ぼうぎょする",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1534c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015e1c",
+  "kind": "string",
+  "jp": "Ｓストップアンチ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x15358"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015e30",
+  "kind": "string",
+  "jp": "動きが止まる",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1535c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015e40",
+  "kind": "string",
+  "jp": "こうげきを５回",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x15360"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015e50",
+  "kind": "string",
+  "jp": "ぼうぎょする",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x15364"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015e60",
+  "kind": "string",
+  "jp": "ポイズンアンチ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x15370"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015e70",
+  "kind": "string",
+  "jp": "ドクになる",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x15374"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015e7c",
+  "kind": "string",
+  "jp": "こうげきを５回",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x15378"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015e8c",
+  "kind": "string",
+  "jp": "ぼうぎょする",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1537c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015e9c",
+  "kind": "string",
+  "jp": "Ｓポイズンアンチ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x15388"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015eb0",
+  "kind": "string",
+  "jp": "ドクになる",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1538c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015ebc",
+  "kind": "string",
+  "jp": "こうげきを１２回",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x15390"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015ed0",
+  "kind": "string",
+  "jp": "ぼうぎょする",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x15394"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015ee0",
+  "kind": "string",
+  "jp": "スペルアンチ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x153a0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015ef0",
+  "kind": "string",
+  "jp": "のろわれる",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x153a4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015efc",
+  "kind": "string",
+  "jp": "こうげきを５回",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x153a8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015f0c",
+  "kind": "string",
+  "jp": "ぼうぎょする",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x153ac"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015f1c",
+  "kind": "string",
+  "jp": "Ｓスペルアンチ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x153b8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015f2c",
+  "kind": "string",
+  "jp": "のろわれる",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x153bc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015f38",
+  "kind": "string",
+  "jp": "こうげきを１２回",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x153c0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015f4c",
+  "kind": "string",
+  "jp": "ぼうぎょする",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x153c4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015f5c",
+  "kind": "string",
+  "jp": "ストレスアンチ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x153d0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015f6c",
+  "kind": "string",
+  "jp": "ストレスになる",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x153d4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015f7c",
+  "kind": "string",
+  "jp": "こうげきを５回",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x153d8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015f8c",
+  "kind": "string",
+  "jp": "ぼうぎょする",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x153dc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015f9c",
+  "kind": "string",
+  "jp": "Ｓストレスアンチ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x153e8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015fb0",
+  "kind": "string",
+  "jp": "ストレスになる",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x153ec"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015fc0",
+  "kind": "string",
+  "jp": "こうげきを１２回",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x153f0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r015fd4",
+  "kind": "string",
+  "jp": "ぼうぎょする",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x153f4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0168b0",
+  "kind": "string",
+  "jp": "ノヴァ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x160d0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0168b8",
+  "kind": "string",
+  "jp": "フラッシュ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x160d4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0168c4",
+  "kind": "string",
+  "jp": "スパーク",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x160d8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0168d0",
+  "kind": "string",
+  "jp": "アステイル",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x160dc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0168dc",
+  "kind": "string",
+  "jp": "バニッシュ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x160e0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0168e8",
+  "kind": "string",
+  "jp": "オーラをためて",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x160e4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0168f8",
+  "kind": "string",
+  "jp": "大ばく発させ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x160e8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016908",
+  "kind": "string",
+  "jp": "広いはんいに",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x160ec"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016918",
+  "kind": "string",
+  "jp": "ダメージ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x160f0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016924",
+  "kind": "string",
+  "jp": "スラッシャー",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16108"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016934",
+  "kind": "string",
+  "jp": "スライザー",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1610c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016940",
+  "kind": "string",
+  "jp": "ゼツ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16110"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016948",
+  "kind": "string",
+  "jp": "エッジ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16114"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016950",
+  "kind": "string",
+  "jp": "カッター",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16118"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01695c",
+  "kind": "string",
+  "jp": "オーラの刀で",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1611c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01696c",
+  "kind": "string",
+  "jp": "まわりをきる",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16120"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01697c",
+  "kind": "string",
+  "jp": "円形のまわりに",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16124"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01698c",
+  "kind": "string",
+  "jp": "ダメージ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16128"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016998",
+  "kind": "string",
+  "jp": "ブリッツ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16140"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0169a4",
+  "kind": "string",
+  "jp": "スプリット",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16144"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0169b0",
+  "kind": "string",
+  "jp": "フレア",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16148"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0169b8",
+  "kind": "string",
+  "jp": "ダスト",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1614c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0169c0",
+  "kind": "string",
+  "jp": "スター",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16150"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0169c8",
+  "kind": "string",
+  "jp": "大きな光の玉を",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16154"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0169d8",
+  "kind": "string",
+  "jp": "空中から落とし",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16158"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0169e8",
+  "kind": "string",
+  "jp": "十字とななめに",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1615c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0169f8",
+  "kind": "string",
+  "jp": "ダメージ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16160"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016a04",
+  "kind": "string",
+  "jp": "ランザー",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16178"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016a10",
+  "kind": "string",
+  "jp": "スティンガー",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1617c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016a20",
+  "kind": "string",
+  "jp": "クライン",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16180"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016a2c",
+  "kind": "string",
+  "jp": "ライズ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16184"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016a34",
+  "kind": "string",
+  "jp": "ピアス",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16188"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016a3c",
+  "kind": "string",
+  "jp": "地面から光のヤリ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1618c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016a50",
+  "kind": "string",
+  "jp": "がつき出て",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16190"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016a5c",
+  "kind": "string",
+  "jp": "十字方向に",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16194"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016a68",
+  "kind": "string",
+  "jp": "ダメージ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16198"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016a74",
+  "kind": "string",
+  "jp": "ブレス",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x161b0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016a7c",
+  "kind": "string",
+  "jp": "ロー",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x161b4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016a84",
+  "kind": "string",
+  "jp": "バイド",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x161b8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016a8c",
+  "kind": "string",
+  "jp": "グランチ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x161bc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016a98",
+  "kind": "string",
+  "jp": "ハウリング",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x161c0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016aa4",
+  "kind": "string",
+  "jp": "ためたオーラを",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x161c4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016ab4",
+  "kind": "string",
+  "jp": "一気にはっしゃし",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x161c8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016ac8",
+  "kind": "string",
+  "jp": "自分のまわりに",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x161cc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016ad8",
+  "kind": "string",
+  "jp": "ダメージ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x161d0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016ae4",
+  "kind": "string",
+  "jp": "メガロール",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x161e8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016af0",
+  "kind": "string",
+  "jp": "メガロール",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x161ec"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016afc",
+  "kind": "string",
+  "jp": "メガロール",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x161f0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016b08",
+  "kind": "string",
+  "jp": "メガロール",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x161f4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016b14",
+  "kind": "string",
+  "jp": "メガロール",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x161f8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016b20",
+  "kind": "string",
+  "jp": "いつもより",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x161fc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016b2c",
+  "kind": "string",
+  "jp": "すごいオーラの",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16200"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016b3c",
+  "kind": "string",
+  "jp": "アタックロールで",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16204"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016b50",
+  "kind": "string",
+  "jp": "ダメージ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16208"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016b5c",
+  "kind": "string",
+  "jp": "バルカン",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16220"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016b68",
+  "kind": "string",
+  "jp": "ブリザード",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16224"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016b74",
+  "kind": "string",
+  "jp": "コメット",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16228"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016b80",
+  "kind": "string",
+  "jp": "ヘイル",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1622c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016b88",
+  "kind": "string",
+  "jp": "ステラー",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16230"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016b94",
+  "kind": "string",
+  "jp": "むすうの小さい",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16234"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016ba4",
+  "kind": "string",
+  "jp": "石を落として",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16238"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016bb4",
+  "kind": "string",
+  "jp": "広いはんいに",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1623c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016bc4",
+  "kind": "string",
+  "jp": "ＨＰＡＰダメージ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16240"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016bd8",
+  "kind": "string",
+  "jp": "ストライク",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16258"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016be4",
+  "kind": "string",
+  "jp": "スティンガー",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1625c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016bf4",
+  "kind": "string",
+  "jp": "キャリバー",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16260"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016c00",
+  "kind": "string",
+  "jp": "ハンダー",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16264"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016c0c",
+  "kind": "string",
+  "jp": "ドーン",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16268"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016c14",
+  "kind": "string",
+  "jp": "大きなオーラの",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1626c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016c24",
+  "kind": "string",
+  "jp": "剣をよびだし",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16270"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016c34",
+  "kind": "string",
+  "jp": "円形のまわりに",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16274"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016c44",
+  "kind": "string",
+  "jp": "ＨＰＡＰダメージ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16278"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016c58",
+  "kind": "string",
+  "jp": "ビーム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16290"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016c60",
+  "kind": "string",
+  "jp": "レイン",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16294"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016c68",
+  "kind": "string",
+  "jp": "レイザー",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16298"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016c74",
+  "kind": "string",
+  "jp": "シャワー",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1629c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016c80",
+  "kind": "string",
+  "jp": "ホープ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x162a0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016c88",
+  "kind": "string",
+  "jp": "空中から光線を",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x162a4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016c98",
+  "kind": "string",
+  "jp": "ふらせて",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x162a8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016ca4",
+  "kind": "string",
+  "jp": "十字とななめに",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x162ac"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016cb4",
+  "kind": "string",
+  "jp": "ＨＰＡＰダメージ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x162b0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016cc8",
+  "kind": "string",
+  "jp": "クロウ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x162c8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016cd0",
+  "kind": "string",
+  "jp": "ファング",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x162cc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016cdc",
+  "kind": "string",
+  "jp": "スクラッチ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x162d0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016ce8",
+  "kind": "string",
+  "jp": "スパイク",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x162d4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016cf4",
+  "kind": "string",
+  "jp": "ネイル",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x162d8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016cfc",
+  "kind": "string",
+  "jp": "オーラのツメで",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x162dc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016d0c",
+  "kind": "string",
+  "jp": "きりさき",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x162e0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016d18",
+  "kind": "string",
+  "jp": "十字方向に",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x162e4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016d24",
+  "kind": "string",
+  "jp": "ＨＰＡＰダメージ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x162e8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016d38",
+  "kind": "string",
+  "jp": "テンペスト",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16300"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016d44",
+  "kind": "string",
+  "jp": "ストーム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16304"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016d50",
+  "kind": "string",
+  "jp": "ディザスター",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16308"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016d60",
+  "kind": "string",
+  "jp": "ストライフ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1630c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016d6c",
+  "kind": "string",
+  "jp": "ライオット",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16310"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016d78",
+  "kind": "string",
+  "jp": "あらしのような",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16314"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016d88",
+  "kind": "string",
+  "jp": "オーラで",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16318"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016d94",
+  "kind": "string",
+  "jp": "自分のまわりに",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1631c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016da4",
+  "kind": "string",
+  "jp": "ＨＰＡＰダメージ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16320"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016db8",
+  "kind": "string",
+  "jp": "ギガロール",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16338"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016dc4",
+  "kind": "string",
+  "jp": "ギガロール",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1633c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016dd0",
+  "kind": "string",
+  "jp": "ギガロール",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16340"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016ddc",
+  "kind": "string",
+  "jp": "ギガロール",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16344"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016de8",
+  "kind": "string",
+  "jp": "ギガロール",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16348"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016df4",
+  "kind": "string",
+  "jp": "いつもより",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1634c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016e00",
+  "kind": "string",
+  "jp": "すごいオーラの",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16350"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016e10",
+  "kind": "string",
+  "jp": "アタックロールで",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16354"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016e24",
+  "kind": "string",
+  "jp": "ＨＰＡＰダメージ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16358"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016e38",
+  "kind": "string",
+  "jp": "ブレイク",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16370"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016e44",
+  "kind": "string",
+  "jp": "ストライク",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16374"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016e50",
+  "kind": "string",
+  "jp": "ボルト",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16378"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016e58",
+  "kind": "string",
+  "jp": "ブロー",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1637c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016e60",
+  "kind": "string",
+  "jp": "バンカー",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16380"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016e6c",
+  "kind": "string",
+  "jp": "オーラをたたき",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16384"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016e7c",
+  "kind": "string",
+  "jp": "つけスマッシュを",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16388"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016e90",
+  "kind": "string",
+  "jp": "ふうじるこうげき",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1638c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016ea4",
+  "kind": "string",
+  "jp": "を広はんいにだす",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16390"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016eb8",
+  "kind": "string",
+  "jp": "シェイカー",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x163a8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016ec4",
+  "kind": "string",
+  "jp": "クラック",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x163ac"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016ed0",
+  "kind": "string",
+  "jp": "ウェイブ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x163b0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016edc",
+  "kind": "string",
+  "jp": "クエイク",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x163b4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016ee8",
+  "kind": "string",
+  "jp": "ランブル",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x163b8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016ef4",
+  "kind": "string",
+  "jp": "地面をわり",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x163bc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016f00",
+  "kind": "string",
+  "jp": "スマッシュを",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x163c0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016f10",
+  "kind": "string",
+  "jp": "ふうじるこうげき",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x163c4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016f24",
+  "kind": "string",
+  "jp": "をしゅういにだす",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x163c8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016f38",
+  "kind": "string",
+  "jp": "スリンガー",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x163e0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016f44",
+  "kind": "string",
+  "jp": "ハンター",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x163e4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016f50",
+  "kind": "string",
+  "jp": "シュート",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x163e8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016f5c",
+  "kind": "string",
+  "jp": "スコール",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x163ec"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016f68",
+  "kind": "string",
+  "jp": "アロー",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x163f0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016f70",
+  "kind": "string",
+  "jp": "オーラの矢で",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x163f4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016f80",
+  "kind": "string",
+  "jp": "十字とななめに",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x163f8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016f90",
+  "kind": "string",
+  "jp": "チャージを",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x163fc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016f9c",
+  "kind": "string",
+  "jp": "ふうじるこうげき",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16400"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016fb0",
+  "kind": "string",
+  "jp": "セイバー",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16418"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016fbc",
+  "kind": "string",
+  "jp": "ストラッシュ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1641c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016fcc",
+  "kind": "string",
+  "jp": "ザンバー",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16420"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016fd8",
+  "kind": "string",
+  "jp": "スライダー",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16424"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016fe4",
+  "kind": "string",
+  "jp": "ソード",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16428"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016fec",
+  "kind": "string",
+  "jp": "光の剣をふり",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1642c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r016ffc",
+  "kind": "string",
+  "jp": "十字方向に",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16430"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017008",
+  "kind": "string",
+  "jp": "チャージを",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16434"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017014",
+  "kind": "string",
+  "jp": "ふうじるこうげき",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16438"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017028",
+  "kind": "string",
+  "jp": "ヴァルカン",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16450"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017034",
+  "kind": "string",
+  "jp": "ワイズ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16454"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01703c",
+  "kind": "string",
+  "jp": "デヴァイン",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16458"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017048",
+  "kind": "string",
+  "jp": "ラウド",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1645c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017050",
+  "kind": "string",
+  "jp": "オラクル",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16460"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01705c",
+  "kind": "string",
+  "jp": "オーラこうげきで",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16464"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017070",
+  "kind": "string",
+  "jp": "自分のまわりに",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16468"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017080",
+  "kind": "string",
+  "jp": "動きがにぶくなる",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1646c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017094",
+  "kind": "string",
+  "jp": "こうげきをする",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16470"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0170a4",
+  "kind": "string",
+  "jp": "テラロール",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16488"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0170b0",
+  "kind": "string",
+  "jp": "テラロール",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1648c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0170bc",
+  "kind": "string",
+  "jp": "テラロール",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16490"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0170c8",
+  "kind": "string",
+  "jp": "テラロール",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16494"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0170d4",
+  "kind": "string",
+  "jp": "テラロール",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16498"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0170e0",
+  "kind": "string",
+  "jp": "すごいオーラの",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1649c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0170f0",
+  "kind": "string",
+  "jp": "アタックロールで",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x164a0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017104",
+  "kind": "string",
+  "jp": "動けなくなる",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x164a4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017114",
+  "kind": "string",
+  "jp": "こうげきをする",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x164a8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017124",
+  "kind": "string",
+  "jp": "ノクターン",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x164c0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017130",
+  "kind": "string",
+  "jp": "ルナ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x164c4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017138",
+  "kind": "string",
+  "jp": "セレーネ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x164c8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017144",
+  "kind": "string",
+  "jp": "ナイト",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x164cc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01714c",
+  "kind": "string",
+  "jp": "ムーン",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x164d0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017154",
+  "kind": "string",
+  "jp": "オーラの月を",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x164d4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017164",
+  "kind": "string",
+  "jp": "作り出し",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x164d8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017170",
+  "kind": "string",
+  "jp": "広いはんいを",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x164dc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017180",
+  "kind": "string",
+  "jp": "こんらんさせる",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x164e0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017190",
+  "kind": "string",
+  "jp": "ディ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x164f8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017198",
+  "kind": "string",
+  "jp": "シェード",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x164fc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0171a4",
+  "kind": "string",
+  "jp": "スピリット",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16500"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0171b0",
+  "kind": "string",
+  "jp": "ドレイク",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16504"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0171bc",
+  "kind": "string",
+  "jp": "ウィスプ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16508"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0171c8",
+  "kind": "string",
+  "jp": "ぶ気味なオーラの",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1650c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0171dc",
+  "kind": "string",
+  "jp": "玉をよびだし",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16510"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0171ec",
+  "kind": "string",
+  "jp": "円形のまわりを",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16514"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0171fc",
+  "kind": "string",
+  "jp": "こんらんさせる",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16518"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01720c",
+  "kind": "string",
+  "jp": "ストリーマー",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16530"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01721c",
+  "kind": "string",
+  "jp": "サイクロン",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16534"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017228",
+  "kind": "string",
+  "jp": "トルネード",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16538"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017234",
+  "kind": "string",
+  "jp": "ブリンガー",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1653c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017240",
+  "kind": "string",
+  "jp": "グラビトン",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16540"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01724c",
+  "kind": "string",
+  "jp": "オーラのうずで",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16544"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01725c",
+  "kind": "string",
+  "jp": "十字とななめに",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16548"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01726c",
+  "kind": "string",
+  "jp": "オーラがカイフク",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1654c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017280",
+  "kind": "string",
+  "jp": "しないこうげき",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16550"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017290",
+  "kind": "string",
+  "jp": "クラッシャー",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16568"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0172a0",
+  "kind": "string",
+  "jp": "プレッシャー",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1656c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0172b0",
+  "kind": "string",
+  "jp": "ハンマー",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16570"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0172bc",
+  "kind": "string",
+  "jp": "インパクト",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16574"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0172c8",
+  "kind": "string",
+  "jp": "パウンド",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16578"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0172d4",
+  "kind": "string",
+  "jp": "光のハンマーで",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1657c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0172e4",
+  "kind": "string",
+  "jp": "十字方向に",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16580"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0172f0",
+  "kind": "string",
+  "jp": "オーラがカイフク",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16584"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017304",
+  "kind": "string",
+  "jp": "しないこうげき",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16588"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017314",
+  "kind": "string",
+  "jp": "メテオ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x165a0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01731c",
+  "kind": "string",
+  "jp": "ブラスト",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x165a4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017328",
+  "kind": "string",
+  "jp": "フォール",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x165a8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017334",
+  "kind": "string",
+  "jp": "アステロイド",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x165ac"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017344",
+  "kind": "string",
+  "jp": "ミーティア",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x165b0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017350",
+  "kind": "string",
+  "jp": "いん石のような",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x165b4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017360",
+  "kind": "string",
+  "jp": "オーラを落として",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x165b8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017374",
+  "kind": "string",
+  "jp": "じわじわオーラが",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x165bc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017388",
+  "kind": "string",
+  "jp": "へるこうげき",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x165c0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017398",
+  "kind": "string",
+  "jp": "エクサロール",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x165d8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0173a8",
+  "kind": "string",
+  "jp": "エクサロール",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x165dc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0173b8",
+  "kind": "string",
+  "jp": "エクサロール",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x165e0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0173c8",
+  "kind": "string",
+  "jp": "エクサロール",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x165e4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0173d8",
+  "kind": "string",
+  "jp": "エクサロール",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x165e8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0173e8",
+  "kind": "string",
+  "jp": "すごいオーラの",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x165ec"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0173f8",
+  "kind": "string",
+  "jp": "アタックロールで",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x165f0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01740c",
+  "kind": "string",
+  "jp": "じわじわＨＰが",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x165f4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01741c",
+  "kind": "string",
+  "jp": "へるこうげき",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x165f8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01742c",
+  "kind": "string",
+  "jp": "シャイン",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16610"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017438",
+  "kind": "string",
+  "jp": "ブライド",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16614"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017444",
+  "kind": "string",
+  "jp": "スパーク",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16618"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017450",
+  "kind": "string",
+  "jp": "スクリーム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1661c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01745c",
+  "kind": "string",
+  "jp": "レクイエム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16620"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017468",
+  "kind": "string",
+  "jp": "オーラの",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16624"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017474",
+  "kind": "string",
+  "jp": "光をてらし",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16628"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017480",
+  "kind": "string",
+  "jp": "十字とななめの",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1662c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017490",
+  "kind": "string",
+  "jp": "しかいをうばう",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16630"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0174a0",
+  "kind": "string",
+  "jp": "シャインＳ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16648"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0174ac",
+  "kind": "string",
+  "jp": "ブライドＳ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1664c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0174b8",
+  "kind": "string",
+  "jp": "スパークＳ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16650"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0174c4",
+  "kind": "string",
+  "jp": "スクリームＳ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16654"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0174d4",
+  "kind": "string",
+  "jp": "レクイエムＳ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16658"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0174e4",
+  "kind": "string",
+  "jp": "まぶしいオーラの",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1665c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0174f8",
+  "kind": "string",
+  "jp": "光をてらし",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16660"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017504",
+  "kind": "string",
+  "jp": "十字方向の",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16664"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017510",
+  "kind": "string",
+  "jp": "しかいをうばう",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16668"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017520",
+  "kind": "string",
+  "jp": "シャインＨ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16680"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01752c",
+  "kind": "string",
+  "jp": "ブライドＨ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16684"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017538",
+  "kind": "string",
+  "jp": "スパークＨ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16688"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017544",
+  "kind": "string",
+  "jp": "スクリームＨ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1668c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017554",
+  "kind": "string",
+  "jp": "レクイエムＨ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16690"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017564",
+  "kind": "string",
+  "jp": "はげしいオーラの",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16694"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017578",
+  "kind": "string",
+  "jp": "光をてらし",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16698"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017584",
+  "kind": "string",
+  "jp": "自分のまわりの",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1669c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017594",
+  "kind": "string",
+  "jp": "しかいをうばう",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x166a0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0175a4",
+  "kind": "string",
+  "jp": "ミラージュ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x166b8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0175b0",
+  "kind": "string",
+  "jp": "イレイザー",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x166bc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0175bc",
+  "kind": "string",
+  "jp": "イリューズ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x166c0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0175c8",
+  "kind": "string",
+  "jp": "ロスト",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x166c4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0175d0",
+  "kind": "string",
+  "jp": "ホロウ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x166c8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0175d8",
+  "kind": "string",
+  "jp": "オーラでまわりの",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x166cc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0175ec",
+  "kind": "string",
+  "jp": "光をはんしゃし",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x166d0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0175fc",
+  "kind": "string",
+  "jp": "自分のすがたを",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x166d4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01760c",
+  "kind": "string",
+  "jp": "消す",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x166d8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017614",
+  "kind": "string",
+  "jp": "ミラージュＳ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x166f0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017624",
+  "kind": "string",
+  "jp": "イレイザーＳ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x166f4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017634",
+  "kind": "string",
+  "jp": "イリューズＳ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x166f8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017644",
+  "kind": "string",
+  "jp": "ロストＳ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x166fc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017650",
+  "kind": "string",
+  "jp": "ホロウＳ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16700"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01765c",
+  "kind": "string",
+  "jp": "オーラでまわりの",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16704"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017670",
+  "kind": "string",
+  "jp": "光をはんしゃし",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16708"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017680",
+  "kind": "string",
+  "jp": "自分のすがたを",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1670c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017690",
+  "kind": "string",
+  "jp": "しばらく消す",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16710"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0176a0",
+  "kind": "string",
+  "jp": "ミラージュＨ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16728"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0176b0",
+  "kind": "string",
+  "jp": "イレイザーＨ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1672c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0176c0",
+  "kind": "string",
+  "jp": "イリューズＨ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16730"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0176d0",
+  "kind": "string",
+  "jp": "ロストＨ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16734"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0176dc",
+  "kind": "string",
+  "jp": "ホロウＨ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16738"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0176e8",
+  "kind": "string",
+  "jp": "オーラでまわりの",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1673c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0176fc",
+  "kind": "string",
+  "jp": "光をはんしゃし",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16740"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01770c",
+  "kind": "string",
+  "jp": "自分のすがたを",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16744"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01771c",
+  "kind": "string",
+  "jp": "長い間消す",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16748"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017728",
+  "kind": "string",
+  "jp": "インフェルノ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16760"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017738",
+  "kind": "string",
+  "jp": "クライシス",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16764"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017744",
+  "kind": "string",
+  "jp": "インフィニー",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16768"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017754",
+  "kind": "string",
+  "jp": "デトネイター",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1676c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017764",
+  "kind": "string",
+  "jp": "カタストロフ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16770"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017774",
+  "kind": "string",
+  "jp": "とくしゅな光で",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16774"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017784",
+  "kind": "string",
+  "jp": "広いはんいに",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16778"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017794",
+  "kind": "string",
+  "jp": "アーム２つを",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1677c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0177a4",
+  "kind": "string",
+  "jp": "ふうじるこうげき",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16780"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0177b8",
+  "kind": "string",
+  "jp": "フィーバー",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16798"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0177c4",
+  "kind": "string",
+  "jp": "フェスター",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1679c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0177d0",
+  "kind": "string",
+  "jp": "パレード",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x167a0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0177dc",
+  "kind": "string",
+  "jp": "マーブル",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x167a4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0177e8",
+  "kind": "string",
+  "jp": "ジュエル",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x167a8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0177f4",
+  "kind": "string",
+  "jp": "オーラの玉で",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x167ac"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017804",
+  "kind": "string",
+  "jp": "円形のまわりに",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x167b0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017814",
+  "kind": "string",
+  "jp": "アーム２つを",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x167b4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017824",
+  "kind": "string",
+  "jp": "ふうじるこうげき",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x167b8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017838",
+  "kind": "string",
+  "jp": "エヴォルダー",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x167d0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017848",
+  "kind": "string",
+  "jp": "クレイドル",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x167d4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017854",
+  "kind": "string",
+  "jp": "コレダー",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x167d8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017860",
+  "kind": "string",
+  "jp": "バーティカル",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x167dc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017870",
+  "kind": "string",
+  "jp": "ペネトレイタ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x167e0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017880",
+  "kind": "string",
+  "jp": "光のヤリで",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x167e4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01788c",
+  "kind": "string",
+  "jp": "十字とななめに",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x167e8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01789c",
+  "kind": "string",
+  "jp": "アーム２つを",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x167ec"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0178ac",
+  "kind": "string",
+  "jp": "ふうじるこうげき",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x167f0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0178c0",
+  "kind": "string",
+  "jp": "ブースター",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16808"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0178cc",
+  "kind": "string",
+  "jp": "フォーム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1680c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0178d8",
+  "kind": "string",
+  "jp": "フィールド",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16810"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0178e4",
+  "kind": "string",
+  "jp": "シェル",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16814"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0178ec",
+  "kind": "string",
+  "jp": "モード",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16818"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0178f4",
+  "kind": "string",
+  "jp": "強力なオーラで",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1681c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017904",
+  "kind": "string",
+  "jp": "ほんの少しの間",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16820"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017914",
+  "kind": "string",
+  "jp": "スピードアップと",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16824"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017928",
+  "kind": "string",
+  "jp": "ムテキになる",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16828"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017938",
+  "kind": "string",
+  "jp": "ブースターＳ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16840"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017948",
+  "kind": "string",
+  "jp": "フォームＳ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16844"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017954",
+  "kind": "string",
+  "jp": "フィールドＳ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16848"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017964",
+  "kind": "string",
+  "jp": "シェルＳ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1684c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017970",
+  "kind": "string",
+  "jp": "モードＳ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16850"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01797c",
+  "kind": "string",
+  "jp": "強力なオーラで",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16854"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01798c",
+  "kind": "string",
+  "jp": "少しの間",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16858"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017998",
+  "kind": "string",
+  "jp": "スピードアップと",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1685c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0179ac",
+  "kind": "string",
+  "jp": "ムテキになる",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16860"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0179bc",
+  "kind": "string",
+  "jp": "ブースターＨ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16878"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0179cc",
+  "kind": "string",
+  "jp": "フォームＨ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1687c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0179d8",
+  "kind": "string",
+  "jp": "フィールドＨ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16880"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0179e8",
+  "kind": "string",
+  "jp": "シェルＨ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16884"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0179f4",
+  "kind": "string",
+  "jp": "モードＨ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16888"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017a00",
+  "kind": "string",
+  "jp": "強力なオーラで",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1688c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017a10",
+  "kind": "string",
+  "jp": "しばらくの間",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16890"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017a20",
+  "kind": "string",
+  "jp": "スピードアップと",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16894"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017a34",
+  "kind": "string",
+  "jp": "ムテキになる",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x16898"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017b44",
+  "kind": "string",
+  "jp": "サラマンド",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x17a60"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017b50",
+  "kind": "string",
+  "jp": "フレイザンド",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x17a64"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017b60",
+  "kind": "string",
+  "jp": "ヴォルガード",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x17a68"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017b70",
+  "kind": "string",
+  "jp": "フェンリー",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x17a6c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017b7c",
+  "kind": "string",
+  "jp": "ウルフェン",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x17a70"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017b88",
+  "kind": "string",
+  "jp": "グレイブニル",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x17a74"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017b98",
+  "kind": "string",
+  "jp": "ユニホース",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x17a78"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017ba4",
+  "kind": "string",
+  "jp": "スレイプニル",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x17a7c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017bb4",
+  "kind": "string",
+  "jp": "プロマキス",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x17a80"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017bc0",
+  "kind": "string",
+  "jp": "ニャティー",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x17a84"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017bcc",
+  "kind": "string",
+  "jp": "ニャイトニン",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x17a88"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017bdc",
+  "kind": "string",
+  "jp": "ニャーバンク",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x17a8c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017bec",
+  "kind": "string",
+  "jp": "ゲンブール",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x17a90"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017bf8",
+  "kind": "string",
+  "jp": "ガーディアン",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x17a94"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017c08",
+  "kind": "string",
+  "jp": "グラン",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x17a98"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017c10",
+  "kind": "string",
+  "jp": "ファルコーン",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x17a9c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017c20",
+  "kind": "string",
+  "jp": "ウィンガル",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x17aa0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017c2c",
+  "kind": "string",
+  "jp": "シームルグ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x17aa4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017c38",
+  "kind": "string",
+  "jp": "エンジェラン",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x17aa8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017c48",
+  "kind": "string",
+  "jp": "ヴァルキリー",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x17aac"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017c58",
+  "kind": "string",
+  "jp": "セラフィム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x17ab0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017c64",
+  "kind": "string",
+  "jp": "クラッケン",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x17ab4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017c70",
+  "kind": "string",
+  "jp": "ノーチラス",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x17ab8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017c7c",
+  "kind": "string",
+  "jp": "リヴァイアス",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x17abc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017c8c",
+  "kind": "string",
+  "jp": "ゴラムス",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x17ac0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017c98",
+  "kind": "string",
+  "jp": "マキシマス",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x17ac4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017ca4",
+  "kind": "string",
+  "jp": "ギガース",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x17ac8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017cb0",
+  "kind": "string",
+  "jp": "ドラグーン",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x17acc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017cbc",
+  "kind": "string",
+  "jp": "リンドブルム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x17ad0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017ccc",
+  "kind": "string",
+  "jp": "ガイア",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x17ad4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017cd4",
+  "kind": "string",
+  "jp": "ライオネル",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x17ad8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017ce0",
+  "kind": "string",
+  "jp": "レオパルド",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x17adc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017cec",
+  "kind": "string",
+  "jp": "スフィンクス",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x17ae0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017cfc",
+  "kind": "string",
+  "jp": "アシュラム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x17ae4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017d08",
+  "kind": "string",
+  "jp": "サウザンド",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x17ae8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017d14",
+  "kind": "string",
+  "jp": "バーミリオン",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x17aec"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017d24",
+  "kind": "string",
+  "jp": "デスロード",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x17af0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017d30",
+  "kind": "string",
+  "jp": "ナイトメア",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x17af4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017d3c",
+  "kind": "string",
+  "jp": "インプラン",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x17af8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017d48",
+  "kind": "string",
+  "jp": "ベルゼーブ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x17afc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017d54",
+  "kind": "string",
+  "jp": "デヴィル",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x17b00"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017d60",
+  "kind": "string",
+  "jp": "ジェイダル",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x17b04"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017d6c",
+  "kind": "string",
+  "jp": "エンペリオル",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x17b08"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017d7c",
+  "kind": "string",
+  "jp": "アルセイデス",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x17b0c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017d8c",
+  "kind": "string",
+  "jp": "カイゼル",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x17b10"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017d98",
+  "kind": "string",
+  "jp": "ファイバード",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x17b14"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017da8",
+  "kind": "string",
+  "jp": "ブレイジング",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x17b18"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r017db8",
+  "kind": "string",
+  "jp": "バーニング",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x17b1c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01d8f0",
+  "kind": "string",
+  "jp": "ＪｉｎＳＷＤ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d5f8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01d900",
+  "kind": "string",
+  "jp": "ファイバーンをＶショップで",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d5fc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01d91c",
+  "kind": "string",
+  "jp": "かえるようになった∇",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d600"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01d934",
+  "kind": "string",
+  "jp": "ＳｈｕＩＮＴ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d60c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01d944",
+  "kind": "string",
+  "jp": "インテンションをＶショップで",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d610"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01d964",
+  "kind": "string",
+  "jp": "かえるようになった∇",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d614"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01d97c",
+  "kind": "string",
+  "jp": "ＲｙｏＫＥＮ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d620"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01d98c",
+  "kind": "string",
+  "jp": "コマガサネをＶショップで",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d624"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01d9a8",
+  "kind": "string",
+  "jp": "かえるようになった∇",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d628"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01d9c0",
+  "kind": "string",
+  "jp": "ＴｏｔａＡＸ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d634"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01d9d0",
+  "kind": "string",
+  "jp": "ベルドセングをＶショップで",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d638"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01d9ec",
+  "kind": "string",
+  "jp": "かえるようになった∇",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d63c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01da04",
+  "kind": "string",
+  "jp": "Ｈｏｕｏｕ０",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d648"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01da14",
+  "kind": "string",
+  "jp": "ファイバラッシュをＶショップで",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d64c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01da34",
+  "kind": "string",
+  "jp": "かえるようになった∇",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d650"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01da4c",
+  "kind": "string",
+  "jp": "ＩＮＺｗｅｉ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d65c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01da5c",
+  "kind": "string",
+  "jp": "インテンションＺをＶショップで",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d660"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01da7c",
+  "kind": "string",
+  "jp": "かえるようになった∇",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d664"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01da94",
+  "kind": "string",
+  "jp": "ＢＷＧｒｅｙ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d670"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01daa4",
+  "kind": "string",
+  "jp": "グレイサーをＶショップで",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d674"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01dac0",
+  "kind": "string",
+  "jp": "かえるようになった∇",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d678"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01dad8",
+  "kind": "string",
+  "jp": "ＧＬＤｉｕｓ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d684"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01dae8",
+  "kind": "string",
+  "jp": "グランディウスをＶショップで",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d688"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01db08",
+  "kind": "string",
+  "jp": "かえるようになった∇",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d68c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01db20",
+  "kind": "string",
+  "jp": "ＧｒｅＢＬＤ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d698"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01db30",
+  "kind": "string",
+  "jp": "エクセリーザをＶショップで",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d69c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01db4c",
+  "kind": "string",
+  "jp": "かえるようになった∇",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d6a0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01db64",
+  "kind": "string",
+  "jp": "ｕｙＲｕｏＳ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d6ac"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01db74",
+  "kind": "string",
+  "jp": "ソウリュウをＶショップで",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d6b0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01db90",
+  "kind": "string",
+  "jp": "かえるようになった∇",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d6b4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01dba8",
+  "kind": "string",
+  "jp": "１０ＬＥＧＳ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d6c0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01dbb8",
+  "kind": "string",
+  "jp": "テンタークスをＶショップで",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d6c4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01dbd4",
+  "kind": "string",
+  "jp": "かえるようになった∇",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d6c8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01dbec",
+  "kind": "string",
+  "jp": "ＮｅｃＲｏｍ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d6d4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01dbfc",
+  "kind": "string",
+  "jp": "ネクロマーダーをＶショップで",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d6d8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01dc1c",
+  "kind": "string",
+  "jp": "かえるようになった∇",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d6dc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01dc34",
+  "kind": "string",
+  "jp": "Ｔｉａｍａｔ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d6e8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01dc44",
+  "kind": "string",
+  "jp": "ディアマンダーをＶショップで",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d6ec"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01dc64",
+  "kind": "string",
+  "jp": "かえるようになった∇",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d6f0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01dc7c",
+  "kind": "string",
+  "jp": "ＨｅｖｅｎＢ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d6fc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01dc8c",
+  "kind": "string",
+  "jp": "ヘブンブレイカーをＶショップで",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d700"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01dcac",
+  "kind": "string",
+  "jp": "かえるようになった∇",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d704"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01dcc4",
+  "kind": "string",
+  "jp": "ＹｕｂＫｉｔ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d710"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01dcd4",
+  "kind": "string",
+  "jp": "ユバシリトキテツをＶショップで",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d714"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01dcf4",
+  "kind": "string",
+  "jp": "かえるようになった∇",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d718"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01dd0c",
+  "kind": "string",
+  "jp": "Ｗａｄｏｕ１",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d724"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01dd1c",
+  "kind": "string",
+  "jp": "ワドウイチモンジをＶショップで",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d728"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01dd3c",
+  "kind": "string",
+  "jp": "かえるようになった∇",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d72c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01dd54",
+  "kind": "string",
+  "jp": "ＥｘｒｉｏＢ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d738"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01dd64",
+  "kind": "string",
+  "jp": "エクセリオンＢをＶショップで",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d73c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01dd84",
+  "kind": "string",
+  "jp": "かえるようになった∇",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d740"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01dd9c",
+  "kind": "string",
+  "jp": "ＶｏｌｔｉＡ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d74c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01ddac",
+  "kind": "string",
+  "jp": "ボルティックＡをＶショップで",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d750"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01ddcc",
+  "kind": "string",
+  "jp": "かえるようになった∇",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d754"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01dde4",
+  "kind": "string",
+  "jp": "ＣｌｏｗｎＳ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d760"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01ddf4",
+  "kind": "string",
+  "jp": "クラウンシールドをＶショップで",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d764"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01de14",
+  "kind": "string",
+  "jp": "かえるようになった∇",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d768"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01de2c",
+  "kind": "string",
+  "jp": "Ｓｅｉｋａｉ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d774"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01de3c",
+  "kind": "string",
+  "jp": "コテツをＶショップで",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d778"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01de54",
+  "kind": "string",
+  "jp": "かえるようになった∇",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d77c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01de6c",
+  "kind": "string",
+  "jp": "ＢＯＵＧＹＯ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d788"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01de7c",
+  "kind": "string",
+  "jp": "ボウギョノインをＶショップで",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d78c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01de9c",
+  "kind": "string",
+  "jp": "かえるようになった∇",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d790"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01deb4",
+  "kind": "string",
+  "jp": "Ｋｒ＠Ｋｅｎ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d79c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01dec4",
+  "kind": "string",
+  "jp": "アーマレット『クラッケン』を",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d7a0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01dee4",
+  "kind": "string",
+  "jp": "せんたくできるようになった∇",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d7a4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01df04",
+  "kind": "string",
+  "jp": "Ｂｅｅｌ２ｅ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d7b0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01df14",
+  "kind": "string",
+  "jp": "アーマレット『ベルゼーブ』を",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d7b4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01df34",
+  "kind": "string",
+  "jp": "せんたくできるようになった∇",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d7b8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01df54",
+  "kind": "string",
+  "jp": "Ａｓｕｒ＠ｍ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d7c4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01df64",
+  "kind": "string",
+  "jp": "アーマレット『アシュラム』を",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d7c8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01df84",
+  "kind": "string",
+  "jp": "せんたくできるようになった∇",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d7cc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01dfa4",
+  "kind": "string",
+  "jp": "Ｄｅ＠ｔｈＲ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d7d8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01dfb4",
+  "kind": "string",
+  "jp": "アーマレット『デスロード』を",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d7dc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01dfd4",
+  "kind": "string",
+  "jp": "せんたくできるようになった∇",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d7e0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01dff4",
+  "kind": "string",
+  "jp": "Ｐｏｈｅｎｉ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d7ec"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01e004",
+  "kind": "string",
+  "jp": "アーマレット『ファイバード』を",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d7f0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01e024",
+  "kind": "string",
+  "jp": "せんたくできるようになった∇",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d7f4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01e044",
+  "kind": "string",
+  "jp": "Ｆａ１ｃｏｎ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d800"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01e054",
+  "kind": "string",
+  "jp": "アーマレット『ファルコーン』を",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d804"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01e074",
+  "kind": "string",
+  "jp": "せんたくできるようになった∇",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d808"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01e094",
+  "kind": "string",
+  "jp": "Ａｎｇｅ１Ｎ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d814"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01e0a4",
+  "kind": "string",
+  "jp": "アーマレット『エンジェラン』を",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d818"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01e0c4",
+  "kind": "string",
+  "jp": "せんたくできるようになった∇",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d81c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01e0e4",
+  "kind": "string",
+  "jp": "Ｇｏ１ｅｍｓ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d828"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01e0f4",
+  "kind": "string",
+  "jp": "アーマレット『ゴラムス』を",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d82c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01e110",
+  "kind": "string",
+  "jp": "せんたくできるようになった∇",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d830"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01e130",
+  "kind": "string",
+  "jp": "Ｄｏｒ＠ｇｏ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d83c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01e140",
+  "kind": "string",
+  "jp": "アーマレット『ドラグーン』を",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d840"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01e160",
+  "kind": "string",
+  "jp": "せんたくできるようになった∇",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d844"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01e180",
+  "kind": "string",
+  "jp": "Ｌｉｏｎｅ１",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d850"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01e190",
+  "kind": "string",
+  "jp": "アーマレット『ライオネル』を",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d854"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01e1b0",
+  "kind": "string",
+  "jp": "せんたくできるようになった∇",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d858"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01e1d0",
+  "kind": "string",
+  "jp": "３ｍｐｅｒｏ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d864"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01e1e0",
+  "kind": "string",
+  "jp": "アーマレット『エンペリオル』を",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d868"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01e200",
+  "kind": "string",
+  "jp": "せんたくできるようになった∇",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d86c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01e220",
+  "kind": "string",
+  "jp": "ｕｏｇｎｅＫ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d878"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01e230",
+  "kind": "string",
+  "jp": "ゾロのＶＲＸデータがＶショップで",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d87c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01e254",
+  "kind": "string",
+  "jp": "かえるようになった∇",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d880"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01e26c",
+  "kind": "string",
+  "jp": "ｒｅｔｓｕＢ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d88c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01e27c",
+  "kind": "string",
+  "jp": "ビィトのＶＲＸデータがＶショップで",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d890"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01e2a0",
+  "kind": "string",
+  "jp": "かえるようになった∇",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d894"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01e2b8",
+  "kind": "string",
+  "jp": "ｏｋｋａｙＢ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d8a0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01e2c8",
+  "kind": "string",
+  "jp": "コゲンタのＶＲＸデータがＶショップで",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d8a4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01e2f0",
+  "kind": "string",
+  "jp": "かえるようになった∇",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d8a8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01e308",
+  "kind": "string",
+  "jp": "ＮＥＷｍａｎ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d8b4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01e318",
+  "kind": "string",
+  "jp": "キャラメイクでつかえる男のコキャラが",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d8b8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01e340",
+  "kind": "string",
+  "jp": "ついかされた∇",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d8bc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01e350",
+  "kind": "string",
+  "jp": "ＮＥＷｗｏｍ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d8c8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01e360",
+  "kind": "string",
+  "jp": "キャラメイクでつかえる女のコキャラが",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d8cc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01e388",
+  "kind": "string",
+  "jp": "ついかされた∇",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d8d0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01e398",
+  "kind": "string",
+  "jp": "Ｄ＝Ｎｕｔｓ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d8dc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01e3a8",
+  "kind": "string",
+  "jp": "デスロール編が本だなに",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d8e0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r01e3c0",
+  "kind": "string",
+  "jp": "ついかされた∇",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x1d8e4"
+  ],
+  "notes": ""
+ }
+]

@@ -1,0 +1,7062 @@
+[
+ {
+  "id": "r073cc8",
+  "kind": "string",
+  "jp": "ボックス１６",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xec260"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r073cd8",
+  "kind": "string",
+  "jp": "ボックス１５",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xec25c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r073ce8",
+  "kind": "string",
+  "jp": "ボックス１４",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xec258"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r073cf8",
+  "kind": "string",
+  "jp": "ボックス１３",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xec254"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r073d08",
+  "kind": "string",
+  "jp": "ボックス１２",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xec250"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r073d18",
+  "kind": "string",
+  "jp": "ボックス１１",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xec24c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r073d28",
+  "kind": "string",
+  "jp": "ボックス１０",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xec248"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r073d38",
+  "kind": "string",
+  "jp": "ボックス　９",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xec244"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r073d48",
+  "kind": "string",
+  "jp": "ボックス　８",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xec240"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r073d58",
+  "kind": "string",
+  "jp": "ボックス　７",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xec23c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r073d68",
+  "kind": "string",
+  "jp": "ボックス　６",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xec238"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r073d78",
+  "kind": "string",
+  "jp": "ボックス　５",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xec234"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r073d88",
+  "kind": "string",
+  "jp": "ボックス　４",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xec230"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r073d98",
+  "kind": "string",
+  "jp": "ボックス　３",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xec22c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r073da8",
+  "kind": "string",
+  "jp": "ボックス　２",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xec228"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r073db8",
+  "kind": "string",
+  "jp": "ボックス　１",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xec224"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r073dc8",
+  "kind": "string",
+  "jp": "を手に入れた！",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xec748"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r073e3c",
+  "kind": "string",
+  "jp": "ありがとうございました",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee48c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r073e54",
+  "kind": "string",
+  "jp": "ほかにごようはありますか？",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee488"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r073e70",
+  "kind": "string",
+  "jp": "Ｖショップへ　ようこそ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee484"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r073e88",
+  "kind": "string",
+  "jp": "いらっしゃいませ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee480"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r073e9c",
+  "kind": "string",
+  "jp": "ありがとうございました～♪",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee47c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r073eb8",
+  "kind": "string",
+  "jp": "他に　ようはあるかな？",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee478"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r073ed0",
+  "kind": "string",
+  "jp": "『レア』Ｖショップへ　よくきたね！",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee474"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r073ef4",
+  "kind": "string",
+  "jp": "やあ　いらっしゃい！",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee470"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r073f0c",
+  "kind": "string",
+  "jp": "ありがとうございました！",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee46c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r073f28",
+  "kind": "string",
+  "jp": "他に　ご用はありますか？",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee468"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r073f44",
+  "kind": "string",
+  "jp": "Ｖショップへ　ようこそ！",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee464"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r073f60",
+  "kind": "string",
+  "jp": "いらっしゃいませ！",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee460"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r073f74",
+  "kind": "string",
+  "jp": "Ｖマシンにアーマレットをセットした！",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee4a0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r073fac",
+  "kind": "string",
+  "jp": "Ｂボタン…キャンセル",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee4a8",
+   "0xee4b0",
+   "0xee4c0",
+   "0xee4d0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r073fc4",
+  "kind": "string",
+  "jp": "しょうしょうおまちください",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee4a4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r073fe0",
+  "kind": "string",
+  "jp": "Ａボタン…かいし",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee4ac",
+   "0xee4d4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r073ff4",
+  "kind": "string",
+  "jp": "グループをえらんでください",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee4b8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r074010",
+  "kind": "string",
+  "jp": "リーダーを一人きめて　ほかの人は",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee4b4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r074034",
+  "kind": "string",
+  "jp": "しばらく　おまちください",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee4c8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r074050",
+  "kind": "string",
+  "jp": "へんじを　まっています",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee4c4",
+   "0xee4cc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r074068",
+  "kind": "string",
+  "jp": "リーダーをえらんでください",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee4bc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r074084",
+  "kind": "string",
+  "jp": "にんずうが　おおいようです",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee4e0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0740a0",
+  "kind": "string",
+  "jp": "せんたくされたものが　ちがいます",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee4dc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0740c4",
+  "kind": "string",
+  "jp": "つうしんエラーです",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee4d8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0740d8",
+  "kind": "string",
+  "jp": "記録に失敗しました",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee4f4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0740ec",
+  "kind": "string",
+  "jp": "記録しました",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee4f0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0740fc",
+  "kind": "string",
+  "jp": "電源を切らないで下さい",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee4ec"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r074114",
+  "kind": "string",
+  "jp": "記録中です",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee4e8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r074120",
+  "kind": "string",
+  "jp": "これまでのかつやくを記録しますか？",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee4e4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r074144",
+  "kind": "string",
+  "jp": "プレイじかん",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x34d74"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r074154",
+  "kind": "string",
+  "jp": "：",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x34d84"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r074158",
+  "kind": "string",
+  "jp": "ＶＰ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x34d8c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r074160",
+  "kind": "string",
+  "jp": "バトルかいすう",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x34d98"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r074170",
+  "kind": "string",
+  "jp": "ボックス・アームのかず",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x34d9c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r074188",
+  "kind": "string",
+  "jp": "ボックス・ツールのかず",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x34da0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0741a0",
+  "kind": "string",
+  "jp": "データのじゅしんに　しっぱいしました",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee510"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0741c8",
+  "kind": "string",
+  "jp": "　",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee50c",
+   "0xee514"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0741cc",
+  "kind": "string",
+  "jp": "データをじゅしんしました！",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee508"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0741e8",
+  "kind": "string",
+  "jp": "アダプタを　せつぞくしてください",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee504"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07420c",
+  "kind": "string",
+  "jp": "電源をきってから　ワイヤレス",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee500"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07422c",
+  "kind": "string",
+  "jp": "しばらく　おまちください",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee4fc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r074248",
+  "kind": "string",
+  "jp": "ジョイスポットを　さがしています",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee4f8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07426c",
+  "kind": "string",
+  "jp": "を手に入れた！",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xec744"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0742f0",
+  "kind": "string",
+  "jp": "記録に失敗しました",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xecbf8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r074304",
+  "kind": "string",
+  "jp": "Ｖボックスがいっぱいです！",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xecbf4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r074320",
+  "kind": "string",
+  "jp": "ＶＰがたりません！",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xecbf0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r074334",
+  "kind": "string",
+  "jp": "ＶＰをてんそうした！",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xecbec"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07434c",
+  "kind": "string",
+  "jp": "ＶＰ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xecbe8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r074354",
+  "kind": "string",
+  "jp": "よろしいですか？",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xecbe4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r074368",
+  "kind": "string",
+  "jp": "ＶＰひつようですが",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xecbe0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07437c",
+  "kind": "string",
+  "jp": "Ｖポンをみつけた！",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xecbdc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r074390",
+  "kind": "string",
+  "jp": "記録しました",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xecc04"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0743a0",
+  "kind": "string",
+  "jp": "電源を切らないで下さい",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xecc00"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0743b8",
+  "kind": "string",
+  "jp": "記録中です",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xecbfc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0743c4",
+  "kind": "string",
+  "jp": "最終試合結果",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xecc30"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0743d4",
+  "kind": "string",
+  "jp": "第９試合結果",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xecc2c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0743e4",
+  "kind": "string",
+  "jp": "第８試合結果",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xecc28"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0743f4",
+  "kind": "string",
+  "jp": "第７試合結果",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xecc24"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r074404",
+  "kind": "string",
+  "jp": "第６試合結果",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xecc20"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r074414",
+  "kind": "string",
+  "jp": "第５試合結果",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xecc1c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r074424",
+  "kind": "string",
+  "jp": "第４試合結果",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xecc18"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r074434",
+  "kind": "string",
+  "jp": "第３試合結果",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xecc14"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r074444",
+  "kind": "string",
+  "jp": "第２試合結果",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xecc10"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r074454",
+  "kind": "string",
+  "jp": "第１試合結果",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xecc0c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r074468",
+  "kind": "string",
+  "jp": "Ｓ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xecc40"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07446c",
+  "kind": "string",
+  "jp": "Ａ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xecc3c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r074470",
+  "kind": "string",
+  "jp": "Ｂ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xecc38"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r074474",
+  "kind": "string",
+  "jp": "Ｃ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xecc34"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r074478",
+  "kind": "string",
+  "jp": "バトリーグ順位表",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x373d4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07448c",
+  "kind": "string",
+  "jp": "．",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x373e4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r074570",
+  "kind": "string",
+  "jp": "ＶａｔｔｒｏｌｌｅｒＸ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x38608",
+   "0x38afc",
+   "0x38b5c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r075e34",
+  "kind": "string",
+  "jp": "　",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x385fc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r075e38",
+  "kind": "string",
+  "jp": "お",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x387fc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r075e3c",
+  "kind": "string",
+  "jp": "し",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x38838"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r075e40",
+  "kind": "string",
+  "jp": "ま",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x38874"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r075e44",
+  "kind": "string",
+  "jp": "い",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x388b0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r075e48",
+  "kind": "string",
+  "jp": "おしえてもらうＶスキル",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x39238"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r075e60",
+  "kind": "string",
+  "jp": "？？？？？？？？",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x39278"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r075e74",
+  "kind": "string",
+  "jp": "本当にやめますか？",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee530"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r075e88",
+  "kind": "string",
+  "jp": "』をおぼえている……",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee52c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r075ea0",
+  "kind": "string",
+  "jp": "すでに∴は",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee528"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r075eac",
+  "kind": "string",
+  "jp": "ＶＰがたりないようです……",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee524"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r075ec8",
+  "kind": "string",
+  "jp": "おそれ入りますが",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee520"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r075edc",
+  "kind": "string",
+  "jp": "』を思い出しますか？",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee51c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r075ef4",
+  "kind": "string",
+  "jp": "『",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee518"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r075ef8",
+  "kind": "string",
+  "jp": "ＶＰ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x3977c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r075f00",
+  "kind": "string",
+  "jp": "本当にやめますか？",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee550"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r075f14",
+  "kind": "string",
+  "jp": "おぼえているようです",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee54c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r075f2c",
+  "kind": "string",
+  "jp": "』を",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee548"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r075f34",
+  "kind": "string",
+  "jp": "すでにあいてが『",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee544"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r075f48",
+  "kind": "string",
+  "jp": "あいてのＶＰがたりないようです！",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee540"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r075f6c",
+  "kind": "string",
+  "jp": "おそれ入りますが",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee53c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r075f80",
+  "kind": "string",
+  "jp": "』を教えますか？",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee538"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r075f94",
+  "kind": "string",
+  "jp": "『",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee534",
+   "0xee594"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r075f98",
+  "kind": "string",
+  "jp": "あいて",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x3a89c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r075fa0",
+  "kind": "string",
+  "jp": "ＶＰ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x3a90c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r075fa8",
+  "kind": "string",
+  "jp": "しゅうりょうします",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee58c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r075fbc",
+  "kind": "string",
+  "jp": "記録しました",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee584"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r075fcc",
+  "kind": "string",
+  "jp": "電源を切らないで下さい",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee580"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r075fe4",
+  "kind": "string",
+  "jp": "記録中です",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee57c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r075ff0",
+  "kind": "string",
+  "jp": "　",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee578",
+   "0xee588",
+   "0xee5d4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r075ff4",
+  "kind": "string",
+  "jp": "しゅうりょうまちです……",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee574"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076010",
+  "kind": "string",
+  "jp": "もういちど　えらんでください",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee570"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076030",
+  "kind": "string",
+  "jp": "ちがうＶスキルが　いいようです",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee56c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076050",
+  "kind": "string",
+  "jp": "けっていをまっています",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee568"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076068",
+  "kind": "string",
+  "jp": "教えてもらう　Ｖスキルの",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee564"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076084",
+  "kind": "string",
+  "jp": "あいての　けっていをまっています",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee55c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0760a8",
+  "kind": "string",
+  "jp": "しばらく　おまちください",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee558",
+   "0xee560",
+   "0xee590"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0760c4",
+  "kind": "string",
+  "jp": "つうしんちゅうです",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee554"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0760d8",
+  "kind": "string",
+  "jp": "ＶＰをてんそうしました！",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee5a4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0760f4",
+  "kind": "string",
+  "jp": "ＶＰをじゅしんしました！",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee5a0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076110",
+  "kind": "string",
+  "jp": "』をおぼえた！",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee59c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076120",
+  "kind": "string",
+  "jp": "』を教えた！",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee598"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076130",
+  "kind": "string",
+  "jp": "ゲームにもどります",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee5dc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076144",
+  "kind": "string",
+  "jp": "しゅうりょうが　えらばれました",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee5d8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076164",
+  "kind": "string",
+  "jp": "記録に失敗しました",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee5d0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076178",
+  "kind": "string",
+  "jp": "教わるには",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee5c8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076184",
+  "kind": "string",
+  "jp": "ＶＰがたりないようです",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee5c4",
+   "0xee5cc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07619c",
+  "kind": "string",
+  "jp": "教えるには　あいての",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee5c0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0761b4",
+  "kind": "string",
+  "jp": "教わるＶスキルが",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee5b8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0761c8",
+  "kind": "string",
+  "jp": "ありません",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee5b4",
+   "0xee5bc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0761d4",
+  "kind": "string",
+  "jp": "教えられるＶスキルが",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee5b0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0761ec",
+  "kind": "string",
+  "jp": "ちゅうだんします",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee5ac"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076200",
+  "kind": "string",
+  "jp": "つうしんエラーです",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee5a8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076214",
+  "kind": "string",
+  "jp": "本当にやめますか？",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee5f8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076228",
+  "kind": "string",
+  "jp": "しゅうりょうまちです……",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee5f4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076244",
+  "kind": "string",
+  "jp": "こうかんしました！！",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee5f0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07625c",
+  "kind": "string",
+  "jp": "キャンセルされました",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee5ec"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076274",
+  "kind": "string",
+  "jp": "しばらく　おまちください",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee5e8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076290",
+  "kind": "string",
+  "jp": "つうしんちゅうです",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee5e4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0762a4",
+  "kind": "string",
+  "jp": "本当にこちらでよろしいですか？",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee5e0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0762c4",
+  "kind": "string",
+  "jp": "ちゅうだんします",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee600"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0762d8",
+  "kind": "string",
+  "jp": "つうしんエラーです",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee5fc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07630c",
+  "kind": "string",
+  "jp": "ゲームにもどります",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee620"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076320",
+  "kind": "string",
+  "jp": "しゅうりょうが　えらばれました",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee61c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076340",
+  "kind": "string",
+  "jp": "記録に失敗しました",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee614"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076354",
+  "kind": "string",
+  "jp": "　",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee610",
+   "0xee618"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076358",
+  "kind": "string",
+  "jp": "記録しました",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee60c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076368",
+  "kind": "string",
+  "jp": "電源を切らないで下さい",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee608"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076380",
+  "kind": "string",
+  "jp": "記録中です",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee604"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07638c",
+  "kind": "string",
+  "jp": "』を",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee644"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076394",
+  "kind": "string",
+  "jp": "Ｖスキル『",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee640"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0763a0",
+  "kind": "string",
+  "jp": "わすれました！",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee63c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0763b0",
+  "kind": "string",
+  "jp": "おぼえました！",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee638"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0763c0",
+  "kind": "string",
+  "jp": "わすれて・・・",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee634"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0763d0",
+  "kind": "string",
+  "jp": "わすれていいですか？",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee630"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0763e8",
+  "kind": "string",
+  "jp": "わすれるＶスキルをえらんでください！",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee62c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076410",
+  "kind": "string",
+  "jp": "アーマレットサイズを",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x3d26c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076428",
+  "kind": "string",
+  "jp": "オーバーしています　よろしいですか？",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x3d2ac"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076450",
+  "kind": "string",
+  "jp": "』は",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee66c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076458",
+  "kind": "string",
+  "jp": "』を",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee668"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076460",
+  "kind": "string",
+  "jp": "Ｖスキル『",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee664"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07646c",
+  "kind": "string",
+  "jp": "すでにおぼえています！",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee660"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076484",
+  "kind": "string",
+  "jp": "しゅとくした！",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee65c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076494",
+  "kind": "string",
+  "jp": "ＥＸＰ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee658"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07649c",
+  "kind": "string",
+  "jp": "るいけい",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee654"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0764a8",
+  "kind": "string",
+  "jp": "ボーナスＶＰ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee650"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0764b8",
+  "kind": "string",
+  "jp": "ＶＰ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee64c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0764c0",
+  "kind": "string",
+  "jp": "Ｖポイント",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee648"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0764e0",
+  "kind": "string",
+  "jp": "，",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x3dcb4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0764ec",
+  "kind": "string",
+  "jp": "強いこうげき力があるロールです",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee694"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07650c",
+  "kind": "string",
+  "jp": "バウンダーに弾かれない",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee690"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076524",
+  "kind": "string",
+  "jp": "使えます",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee688"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076530",
+  "kind": "string",
+  "jp": "Ｂボタン　Ｒボタンのどれかをおすと",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee680"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076554",
+  "kind": "string",
+  "jp": "アタックロール中に　Ａボタン",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee67c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076578",
+  "kind": "string",
+  "jp": "使えるようになりました！",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee674"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076594",
+  "kind": "string",
+  "jp": "新しい力『ブレイクロール』を",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee670"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076618",
+  "kind": "string",
+  "jp": "？？？？？？？？？？",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeea90"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076630",
+  "kind": "string",
+  "jp": "　　　　　　",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeea94"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076640",
+  "kind": "string",
+  "jp": "－－－",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x40088"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076648",
+  "kind": "string",
+  "jp": "じょうしきに",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeeac8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076658",
+  "kind": "string",
+  "jp": "さかなやさんで",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeeac4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076668",
+  "kind": "string",
+  "jp": "田万里村に",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeeac0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076674",
+  "kind": "string",
+  "jp": "弾打浜のワカメ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeeabc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076684",
+  "kind": "string",
+  "jp": "真丸タワーの",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeeab8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076694",
+  "kind": "string",
+  "jp": "１人前の",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeeab4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0766a0",
+  "kind": "string",
+  "jp": "バトローリングの",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeeab0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0766b4",
+  "kind": "string",
+  "jp": "ふうとうの中には",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeeaac"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0766c8",
+  "kind": "string",
+  "jp": "まんげつの",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeeaa8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0766d4",
+  "kind": "string",
+  "jp": "田万里村の",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeeaa4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0766e0",
+  "kind": "string",
+  "jp": "マルスに",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeeaa0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0766ec",
+  "kind": "string",
+  "jp": "プロの",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeea9c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0766f4",
+  "kind": "string",
+  "jp": "クラブフォースの",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeea98"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076708",
+  "kind": "string",
+  "jp": "とらわれない",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeeafc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076718",
+  "kind": "string",
+  "jp": "もらったウナギ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeeaf8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076728",
+  "kind": "string",
+  "jp": "むかしから",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeeaf4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076734",
+  "kind": "string",
+  "jp": "さみしいあたまも",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeeaf0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076748",
+  "kind": "string",
+  "jp": "パンフレット",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeeaec"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076758",
+  "kind": "string",
+  "jp": "マスターになった",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeeae8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07676c",
+  "kind": "string",
+  "jp": "すべてがのってる",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeeae4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076780",
+  "kind": "string",
+  "jp": "なにがはいって",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeeae0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076790",
+  "kind": "string",
+  "jp": "めいぶつだんご",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeeadc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0767a0",
+  "kind": "string",
+  "jp": "めいさん品",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeead8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0767ac",
+  "kind": "string",
+  "jp": "チャレンジする",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeead4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0767bc",
+  "kind": "string",
+  "jp": "バトローラー",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeead0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0767cc",
+  "kind": "string",
+  "jp": "一員であるあかし",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeeacc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0767e0",
+  "kind": "string",
+  "jp": "ケーキ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeeb30"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0767e8",
+  "kind": "string",
+  "jp": "あぶらがのってて",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeeb2c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0767fc",
+  "kind": "string",
+  "jp": "つたわるおたから",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeeb28"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076810",
+  "kind": "string",
+  "jp": "ツヤツヤになる",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeeb24"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076820",
+  "kind": "string",
+  "jp": "つかうとゴワゴワ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeeb20"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076834",
+  "kind": "string",
+  "jp": "あかし",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeeb1c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07683c",
+  "kind": "string",
+  "jp": "むずかしくて",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeeb18"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07684c",
+  "kind": "string",
+  "jp": "いるのだろう？",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeeb14"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07685c",
+  "kind": "string",
+  "jp": "中にはクリが",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeeb10"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07686c",
+  "kind": "string",
+  "jp": "たねがたくさん",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeeb0c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07687c",
+  "kind": "string",
+  "jp": "ために",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeeb08"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076884",
+  "kind": "string",
+  "jp": "となり",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeeb04"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076890",
+  "kind": "string",
+  "jp": "たべるゆうきは",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeeb64"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0768a0",
+  "kind": "string",
+  "jp": "おいしいらしい",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeeb60"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0768b0",
+  "kind": "string",
+  "jp": "ほんものかどうか",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeeb5c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0768c4",
+  "kind": "string",
+  "jp": "らしい",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeeb58"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0768cc",
+  "kind": "string",
+  "jp": "しているらしい",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeeb54"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0768dc",
+  "kind": "string",
+  "jp": "Ｖスキルを",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeeb50"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0768e8",
+  "kind": "string",
+  "jp": "読めない",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeeb4c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0768f4",
+  "kind": "string",
+  "jp": "はいっている",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeeb44"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076904",
+  "kind": "string",
+  "jp": "つまっている",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeeb40"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076914",
+  "kind": "string",
+  "jp": "ひつようなパス",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeeb3c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076924",
+  "kind": "string",
+  "jp": "バトリーグに",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeeb38"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076934",
+  "kind": "string",
+  "jp": "ない",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeeb98"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07693c",
+  "kind": "string",
+  "jp": "あやしい",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeeb90"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076948",
+  "kind": "string",
+  "jp": "おしえてあげよう",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeeb84"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07695c",
+  "kind": "string",
+  "jp": "さんかできるぞ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeeb6c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07696c",
+  "kind": "string",
+  "jp": "　ひかえ　　",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeebd0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07697c",
+  "kind": "string",
+  "jp": "　ともだち　",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeebb0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07698c",
+  "kind": "string",
+  "jp": "キャラクター",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeebac"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07699c",
+  "kind": "string",
+  "jp": "　ツール　　",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeeba8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0769ac",
+  "kind": "string",
+  "jp": "　アーム　　",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeeba4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0769bc",
+  "kind": "string",
+  "jp": "だいじなもの",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeeba0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0769cc",
+  "kind": "string",
+  "jp": "　Ｖスキル　",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeeb9c",
+   "0xeebb4",
+   "0xeebb8",
+   "0xeebbc",
+   "0xeebc0",
+   "0xeebc4",
+   "0xeebc8",
+   "0xeebcc",
+   "0xeebd4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0769dc",
+  "kind": "string",
+  "jp": "／",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x40584"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0769e4",
+  "kind": "string",
+  "jp": "ＮＥＷ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x40dd4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0769ec",
+  "kind": "string",
+  "jp": "ウナギケーキ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeec08"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0769fc",
+  "kind": "string",
+  "jp": "ウナギ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeec04"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076a04",
+  "kind": "string",
+  "jp": "カッパのて",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeec00"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076a10",
+  "kind": "string",
+  "jp": "ワカメ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeebfc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076a18",
+  "kind": "string",
+  "jp": "タワーのパンフ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeebf8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076a28",
+  "kind": "string",
+  "jp": "マスターのあかし",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeebf4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076a3c",
+  "kind": "string",
+  "jp": "ＶＲじてん",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeebf0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076a48",
+  "kind": "string",
+  "jp": "しょるい",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeebec"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076a54",
+  "kind": "string",
+  "jp": "だんご",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeebe8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076a5c",
+  "kind": "string",
+  "jp": "スイカ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeebe4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076a64",
+  "kind": "string",
+  "jp": "マルスパス",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeebe0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076a70",
+  "kind": "string",
+  "jp": "バトリーグパス",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeebdc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076a80",
+  "kind": "string",
+  "jp": "ぶいんバッチ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeebd8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076aa4",
+  "kind": "string",
+  "jp": "フェイスせんたく",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x44f0c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076ab8",
+  "kind": "string",
+  "jp": "フェイスをせんたくしてください",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x454b0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076ad8",
+  "kind": "string",
+  "jp": "これでよろしいですか？",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x45b40"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076af0",
+  "kind": "string",
+  "jp": "キャラクターデータ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x45ecc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076b04",
+  "kind": "string",
+  "jp": "なまえ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x45ed4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076b0c",
+  "kind": "string",
+  "jp": "－－－",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x45f0c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076b0d",
+  "kind": "string",
+  "jp": "|－－",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xf0b38"
+  ],
+  "inside": "r076b0c",
+  "notes": ""
+ },
+ {
+  "id": "r076b14",
+  "kind": "string",
+  "jp": "ＬＶ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x460e0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076b1c",
+  "kind": "string",
+  "jp": "すきなことば",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x460e8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076b2c",
+  "kind": "string",
+  "jp": "Ｖメダル",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x460f0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076b38",
+  "kind": "string",
+  "jp": "　Ｓ　",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xef1f0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076b40",
+  "kind": "string",
+  "jp": "　Ａ　",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xef1ec"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076b48",
+  "kind": "string",
+  "jp": "　Ｂ　",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xef1e8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076b50",
+  "kind": "string",
+  "jp": "　Ｃ　",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xef1e4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076b58",
+  "kind": "string",
+  "jp": "　Ｄ　",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xef1e0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076b60",
+  "kind": "string",
+  "jp": "　",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xef200"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076b64",
+  "kind": "string",
+  "jp": "アーマレットをせんたくしてください",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xef1fc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076b88",
+  "kind": "string",
+  "jp": "まず　あなたの分身をつくりましょう",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xef1f8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076bac",
+  "kind": "string",
+  "jp": "あなたは　この物語の主人公です",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xef1f4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076bcc",
+  "kind": "string",
+  "jp": "アーマレットせんたく",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x47044"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076c00",
+  "kind": "string",
+  "jp": "　　せってい　　　",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x4807c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076c14",
+  "kind": "string",
+  "jp": "あいさつ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x48084"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076c20",
+  "kind": "string",
+  "jp": "かちセリフ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x4808c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076c2c",
+  "kind": "string",
+  "jp": "メッセージスピード",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x480a0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076c40",
+  "kind": "string",
+  "jp": "おそい　",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x480a8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076c4c",
+  "kind": "string",
+  "jp": "ふつう　",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x480b0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076c58",
+  "kind": "string",
+  "jp": "はやい　",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x480b8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076c64",
+  "kind": "string",
+  "jp": "さいそく",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x480c0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076c9c",
+  "kind": "string",
+  "jp": "かくにん",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x4a810"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076d18",
+  "kind": "string",
+  "jp": "　○　",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee7d4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076d20",
+  "kind": "string",
+  "jp": "　×　",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee7d0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076d28",
+  "kind": "string",
+  "jp": "ゲストＣ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee808"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076d34",
+  "kind": "string",
+  "jp": "ゲストＢ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee804"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076d40",
+  "kind": "string",
+  "jp": "ゲストＡ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee800"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076d4c",
+  "kind": "string",
+  "jp": "リーブ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee7fc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076d54",
+  "kind": "string",
+  "jp": "アシスト",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee7f8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076d60",
+  "kind": "string",
+  "jp": "エクスバウンダー",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee7f4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076d74",
+  "kind": "string",
+  "jp": "バウンダー",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee7f0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076d80",
+  "kind": "string",
+  "jp": "エクスハント",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee7ec"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076d90",
+  "kind": "string",
+  "jp": "ハント",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee7e8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076d98",
+  "kind": "string",
+  "jp": "エクスストライク",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee7e4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076dac",
+  "kind": "string",
+  "jp": "ストライク",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee7e0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076db8",
+  "kind": "string",
+  "jp": "エクスブレード",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee7dc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076dc8",
+  "kind": "string",
+  "jp": "ブレード",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee7d8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076dd4",
+  "kind": "string",
+  "jp": "－－－",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x4ce2c",
+   "0x4d118"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076e00",
+  "kind": "string",
+  "jp": "これでよろしいですか？",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee8c0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076e18",
+  "kind": "string",
+  "jp": "すてるアイテムをえらんでください",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee8bc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076e3c",
+  "kind": "string",
+  "jp": "１５",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee924"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076e44",
+  "kind": "string",
+  "jp": "１４",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee920"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076e4c",
+  "kind": "string",
+  "jp": "１３",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee91c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076e54",
+  "kind": "string",
+  "jp": "１２",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee918"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076e5c",
+  "kind": "string",
+  "jp": "１１",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee914"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076e64",
+  "kind": "string",
+  "jp": "１０",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee910"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076e6c",
+  "kind": "string",
+  "jp": "　９",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee90c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076e6d",
+  "kind": "string",
+  "jp": "@９",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xf0b40"
+  ],
+  "inside": "r076e6c",
+  "notes": ""
+ },
+ {
+  "id": "r076e74",
+  "kind": "string",
+  "jp": "　８",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee908"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076e7c",
+  "kind": "string",
+  "jp": "　７",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee904"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076e84",
+  "kind": "string",
+  "jp": "　６",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee900"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076e8c",
+  "kind": "string",
+  "jp": "　５",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee8fc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076e94",
+  "kind": "string",
+  "jp": "　４",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee8f8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076e9c",
+  "kind": "string",
+  "jp": "　３",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee8f4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076ea4",
+  "kind": "string",
+  "jp": "　２",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee8f0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076eac",
+  "kind": "string",
+  "jp": "　１",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee8ec"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076eb4",
+  "kind": "string",
+  "jp": "　０",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xee8e8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076ec0",
+  "kind": "string",
+  "jp": "アーマレットデータ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x4e9d4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r076ed4",
+  "kind": "string",
+  "jp": "なまえ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x4e9d8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0776a0",
+  "kind": "string",
+  "jp": "かちセリフにゅうりょく",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeec44"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0776b8",
+  "kind": "string",
+  "jp": "あいさつにゅうりょく",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeec40"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0776d0",
+  "kind": "string",
+  "jp": "パスワードにゅうりょく",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeec3c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0776e8",
+  "kind": "string",
+  "jp": "すきなことばにゅうりょく",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeec38"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077704",
+  "kind": "string",
+  "jp": "なまえにゅうりょく",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeec34",
+   "0xeec48"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077718",
+  "kind": "string",
+  "jp": "おこそとのほもよろ　ぉっ。＆",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeec60"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077738",
+  "kind": "string",
+  "jp": "えけせてねへめ　れ　ぇ　゛！",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeec5c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077758",
+  "kind": "string",
+  "jp": "うくすつぬふむゆるんぅょ°？",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeec58"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077778",
+  "kind": "string",
+  "jp": "いきしちにひみ　りをぃゅー≡",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeec54"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077798",
+  "kind": "string",
+  "jp": "あかさたなはまやらわぁゃ～∇",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeec50"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0777b8",
+  "kind": "string",
+  "jp": "　　　　　　　　　　　　　　",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeec4c",
+   "0xeec64",
+   "0xeec68",
+   "0xeec80",
+   "0xeec84",
+   "0xeec9c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0777d8",
+  "kind": "string",
+  "jp": "オコソトノホモヨロ　ォッ・ヾ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeec7c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0777f8",
+  "kind": "string",
+  "jp": "エケセテネヘメ　レ　ェ　゛☆",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeec78"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077818",
+  "kind": "string",
+  "jp": "ウクスツヌフムユルンゥョ°♭",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeec74"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077838",
+  "kind": "string",
+  "jp": "イキシチニヒミ　リヲィュー＃",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeec70"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077858",
+  "kind": "string",
+  "jp": "アカサタナハマヤラワァャ～♪",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeec6c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077878",
+  "kind": "string",
+  "jp": "０１２３４５６７８９．　　＠",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeec98"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077898",
+  "kind": "string",
+  "jp": "ｎｏｐｑｒｓｔｕｖｗｘｙｚ＝",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeec94"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0778b8",
+  "kind": "string",
+  "jp": "ａｂｃｄｅｆｇｈｉｊｋｌｍ×",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeec90"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0778d8",
+  "kind": "string",
+  "jp": "ＮＯＰＱＲＳＴＵＶＷＸＹＺ－",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeec8c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0778f8",
+  "kind": "string",
+  "jp": "ＡＢＣＤＥＦＧＨＩＪＫＬＭ＋",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeec88"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07791c",
+  "kind": "string",
+  "jp": "ホボポ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeed40"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077924",
+  "kind": "string",
+  "jp": "ヘベペ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeed3c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07792c",
+  "kind": "string",
+  "jp": "フブプ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeed38"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077934",
+  "kind": "string",
+  "jp": "ヒビピ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeed34"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07793c",
+  "kind": "string",
+  "jp": "ハバパ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeed30"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077944",
+  "kind": "string",
+  "jp": "トド",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeed2c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07794c",
+  "kind": "string",
+  "jp": "テデ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeed28"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077954",
+  "kind": "string",
+  "jp": "ツヅ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeed24"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07795c",
+  "kind": "string",
+  "jp": "チヂ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeed20"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077964",
+  "kind": "string",
+  "jp": "タダ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeed1c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07796c",
+  "kind": "string",
+  "jp": "ソゾ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeed18"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077974",
+  "kind": "string",
+  "jp": "セゼ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeed14"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07797c",
+  "kind": "string",
+  "jp": "スズ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeed10"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077984",
+  "kind": "string",
+  "jp": "シジ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeed0c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07798c",
+  "kind": "string",
+  "jp": "サザ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeed08"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077994",
+  "kind": "string",
+  "jp": "コゴ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeed04"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07799c",
+  "kind": "string",
+  "jp": "ケゲ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeed00"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0779a4",
+  "kind": "string",
+  "jp": "クグ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeecfc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0779ac",
+  "kind": "string",
+  "jp": "キギ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeecf8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0779b4",
+  "kind": "string",
+  "jp": "カガ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeecf4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0779bc",
+  "kind": "string",
+  "jp": "ウヴ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeecf0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0779c4",
+  "kind": "string",
+  "jp": "ほぼぽ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeecec"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0779cc",
+  "kind": "string",
+  "jp": "へべぺ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeece8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0779d4",
+  "kind": "string",
+  "jp": "ふぶぷ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeece4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0779dc",
+  "kind": "string",
+  "jp": "ひびぴ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeece0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0779e4",
+  "kind": "string",
+  "jp": "はばぱ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeecdc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0779ec",
+  "kind": "string",
+  "jp": "とど",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeecd8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0779f4",
+  "kind": "string",
+  "jp": "てで",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeecd4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0779fc",
+  "kind": "string",
+  "jp": "つづ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeecd0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077a04",
+  "kind": "string",
+  "jp": "ちぢ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeeccc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077a0c",
+  "kind": "string",
+  "jp": "ただ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeecc8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077a14",
+  "kind": "string",
+  "jp": "そぞ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeecc4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077a1c",
+  "kind": "string",
+  "jp": "せぜ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeecc0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077a24",
+  "kind": "string",
+  "jp": "すず",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeecbc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077a2c",
+  "kind": "string",
+  "jp": "しじ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeecb8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077a34",
+  "kind": "string",
+  "jp": "さざ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeecb4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077a3c",
+  "kind": "string",
+  "jp": "こご",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeecb0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077a44",
+  "kind": "string",
+  "jp": "けげ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeecac"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077a4c",
+  "kind": "string",
+  "jp": "くぐ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeeca8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077a54",
+  "kind": "string",
+  "jp": "きぎ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeeca4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077a5c",
+  "kind": "string",
+  "jp": "かが",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeeca0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077a64",
+  "kind": "string",
+  "jp": "　　　　　　　　",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeed64"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077a78",
+  "kind": "string",
+  "jp": "　　　　　　　",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeed60"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077a88",
+  "kind": "string",
+  "jp": "　　　　　　",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeed5c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077a98",
+  "kind": "string",
+  "jp": "　　　　　",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeed58"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077aa4",
+  "kind": "string",
+  "jp": "　　　　",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeed54"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077ab0",
+  "kind": "string",
+  "jp": "　　　",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeed50"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077ab8",
+  "kind": "string",
+  "jp": "　　",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeed4c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077ac0",
+  "kind": "string",
+  "jp": "　",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeed48"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077ac4",
+  "kind": "string",
+  "jp": "ゲン",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeed7c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077acc",
+  "kind": "string",
+  "jp": "ジュン",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeed78"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077ad4",
+  "kind": "string",
+  "jp": "ツバサ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeed74"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077adc",
+  "kind": "string",
+  "jp": "ヨウイチ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeed70"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077ae8",
+  "kind": "string",
+  "jp": "カイ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeed6c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077af0",
+  "kind": "string",
+  "jp": "よっしゃ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeed90"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077afc",
+  "kind": "string",
+  "jp": "けいさんずみです",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeed8c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077b10",
+  "kind": "string",
+  "jp": "フッ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeed88"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077b18",
+  "kind": "string",
+  "jp": "かちだぜ！",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeed84"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077b24",
+  "kind": "string",
+  "jp": "やったね！",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeed80"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077b30",
+  "kind": "string",
+  "jp": "おう！",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeeda4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077b38",
+  "kind": "string",
+  "jp": "やあ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeeda0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077b40",
+  "kind": "string",
+  "jp": "げんき？",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeed9c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077b4c",
+  "kind": "string",
+  "jp": "よう！",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeed98"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077b54",
+  "kind": "string",
+  "jp": "こんにちは",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeed94",
+   "0xeedd4",
+   "0xeeddc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077b60",
+  "kind": "string",
+  "jp": "もえる",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeedb8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077b68",
+  "kind": "string",
+  "jp": "ガッツ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeedb4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077b70",
+  "kind": "string",
+  "jp": "ナイス",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeedb0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077b78",
+  "kind": "string",
+  "jp": "クール",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeedac"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077b80",
+  "kind": "string",
+  "jp": "グレート",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeeda8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077b8c",
+  "kind": "string",
+  "jp": "イチゴ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeedc4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077b94",
+  "kind": "string",
+  "jp": "マイ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeedc0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077b9c",
+  "kind": "string",
+  "jp": "カナ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeedbc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077ba4",
+  "kind": "string",
+  "jp": "かっちゃった",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeedd0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077bb4",
+  "kind": "string",
+  "jp": "ごめんなさい",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeedcc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077bc4",
+  "kind": "string",
+  "jp": "やった～",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeedc8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077bd0",
+  "kind": "string",
+  "jp": "やっほ！",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeedd8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077bdc",
+  "kind": "string",
+  "jp": "チョー",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeede8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077be4",
+  "kind": "string",
+  "jp": "かわいい",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeede4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077bf0",
+  "kind": "string",
+  "jp": "キレイな",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeede0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077bfc",
+  "kind": "string",
+  "jp": "すきな言葉をにゅうりょくしてください",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeedf0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077c24",
+  "kind": "string",
+  "jp": "キャラクターになまえをつけてください",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeedec"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077c4c",
+  "kind": "string",
+  "jp": "アームのなまえにつくことがあります",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeee04"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077c70",
+  "kind": "string",
+  "jp": "ボックス",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeee14"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077c94",
+  "kind": "string",
+  "jp": "≠",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x4ed5c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077c98",
+  "kind": "string",
+  "jp": "パスワードエラーです！",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x4ffe8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077cb0",
+  "kind": "string",
+  "jp": "アーマレットサイズを",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x508d0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077cc8",
+  "kind": "string",
+  "jp": "オーバーしています！",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x50904"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077d40",
+  "kind": "string",
+  "jp": "アームデータ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x51a5c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077d50",
+  "kind": "string",
+  "jp": "・",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x51a80"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077d64",
+  "kind": "string",
+  "jp": "ＬＡＢＲ＋",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x532f0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077d94",
+  "kind": "string",
+  "jp": "つづきから　はじめる",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x54434"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077dac",
+  "kind": "string",
+  "jp": "データをけす",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x5443c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077dbc",
+  "kind": "string",
+  "jp": "プレイじかん",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x54444"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077dcc",
+  "kind": "string",
+  "jp": "バトローラーポイント",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x5444c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077de4",
+  "kind": "string",
+  "jp": "バトルかいすう",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x54454"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077df4",
+  "kind": "string",
+  "jp": "　　　",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x5445c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077dfc",
+  "kind": "string",
+  "jp": "：",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x54470"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077e00",
+  "kind": "string",
+  "jp": "さいしょから　はじめる",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x5451c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077e18",
+  "kind": "string",
+  "jp": "データをさくじょします",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xef72c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077e30",
+  "kind": "string",
+  "jp": "ほんとにほんとに　けしてもいいの？",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xef728"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077e54",
+  "kind": "string",
+  "jp": "ほんとに　けしてもいいの？",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xef724"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r077e70",
+  "kind": "string",
+  "jp": "データをけしてもいいの？",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xef720"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07800c",
+  "kind": "string",
+  "jp": "デスロール編",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x78008"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07801c",
+  "kind": "string",
+  "jp": "バトローラーシュウ　番外編",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x77ff0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r078038",
+  "kind": "string",
+  "jp": "バトローラートータ　番外編",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x77fd8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r078054",
+  "kind": "string",
+  "jp": "バトローラーリョウ　番外編",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x77fc0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r078070",
+  "kind": "string",
+  "jp": "バトローラージン　アレーナ編",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x77fa8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r078090",
+  "kind": "string",
+  "jp": "バトローラージン　修行編",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x77f90"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0780ac",
+  "kind": "string",
+  "jp": "バトローラージン　げきとう編",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x77f78"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0780cc",
+  "kind": "string",
+  "jp": "バトローラージン　登場編",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x77f60"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0780e8",
+  "kind": "string",
+  "jp": "【コミックモード】",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x77f5c",
+   "0x77f74",
+   "0x77f8c",
+   "0x77fa4",
+   "0x77fbc",
+   "0x77fd4",
+   "0x77fec",
+   "0x78004"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0780fc",
+  "kind": "string",
+  "jp": "なまえ：",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x77ea0",
+   "0x77eb8",
+   "0x77ed0",
+   "0x77ee8",
+   "0x77f00",
+   "0x77f18",
+   "0x77f30",
+   "0x77f48"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r078108",
+  "kind": "string",
+  "jp": "【ＲＰＧモード】",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x77e9c",
+   "0x77eb4",
+   "0x77ecc",
+   "0x77ee4",
+   "0x77efc",
+   "0x77f14",
+   "0x77f2c",
+   "0x77f44"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r078120",
+  "kind": "string",
+  "jp": "はじめから",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xef730"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07812c",
+  "kind": "string",
+  "jp": "このキャラクターをけしていいですか？",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xef738"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r078154",
+  "kind": "string",
+  "jp": "この本を　はじめますか？",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xef734"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0781ec",
+  "kind": "string",
+  "jp": "・",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x56db0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07ae78",
+  "kind": "string",
+  "jp": "さいしあい　しますか？",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x64e90"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b054",
+  "kind": "string",
+  "jp": "たいせんにんずうせんたく",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefbb4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b070",
+  "kind": "string",
+  "jp": "ステージせんたく",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefbb0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b084",
+  "kind": "string",
+  "jp": "ルールせんたく",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefbac"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b094",
+  "kind": "string",
+  "jp": "たいせんプレイヤーせんたく",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefba8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b0b0",
+  "kind": "string",
+  "jp": "プレイヤーせんたく",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefba4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b0c4",
+  "kind": "string",
+  "jp": "サバイバル",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefbbc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b0d0",
+  "kind": "string",
+  "jp": "オフィシャル",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefbb8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b0e0",
+  "kind": "string",
+  "jp": "サバイバルルール",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefbc4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b0f4",
+  "kind": "string",
+  "jp": "オフィシャルルール",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefbc0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b108",
+  "kind": "string",
+  "jp": "いきのこれ∇",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefbe0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b118",
+  "kind": "string",
+  "jp": "さいごまで",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefbdc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b124",
+  "kind": "string",
+  "jp": "あいてをドロップして",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefbd8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b140",
+  "kind": "string",
+  "jp": "ドロップしよう∇",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefbd0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b154",
+  "kind": "string",
+  "jp": "あいてをたくさん",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefbcc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b168",
+  "kind": "string",
+  "jp": "じかんないに",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefbc8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b178",
+  "kind": "string",
+  "jp": "デスロールコロシアム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefc34"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b190",
+  "kind": "string",
+  "jp": "ヘクサ社開発室",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefc30"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b1a0",
+  "kind": "string",
+  "jp": "界天コロシアム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefc2c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b1b0",
+  "kind": "string",
+  "jp": "レイオンジム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefc28"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b1c0",
+  "kind": "string",
+  "jp": "光円寺",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefc24"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b1c8",
+  "kind": "string",
+  "jp": "グレンの道場",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefc20"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b1d8",
+  "kind": "string",
+  "jp": "真丸体育館",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefc1c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b1e4",
+  "kind": "string",
+  "jp": "真丸ジム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefc18"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b1f0",
+  "kind": "string",
+  "jp": "マーブルスタジアム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefc14"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b204",
+  "kind": "string",
+  "jp": "真丸中ＶＲ場",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefc10"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b214",
+  "kind": "string",
+  "jp": "グローブスタジアム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefc0c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b228",
+  "kind": "string",
+  "jp": "プレミアムジム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefc08"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b238",
+  "kind": "string",
+  "jp": "グローブこうえん",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefc04"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b24c",
+  "kind": "string",
+  "jp": "弾打ビーチ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefc00"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b258",
+  "kind": "string",
+  "jp": "スパイルスタジアム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefbfc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b26c",
+  "kind": "string",
+  "jp": "ワシュー道場",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefbf8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b27c",
+  "kind": "string",
+  "jp": "田万里村ジム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefbf4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b28c",
+  "kind": "string",
+  "jp": "勝飛ジム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefbf0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b298",
+  "kind": "string",
+  "jp": "勝飛体育舘",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefbec"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b2a4",
+  "kind": "string",
+  "jp": "勝飛中ＶＲ場",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefbe8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b2b4",
+  "kind": "string",
+  "jp": "おおきい",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefc40"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b2c0",
+  "kind": "string",
+  "jp": "ふつう",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefc3c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b2c8",
+  "kind": "string",
+  "jp": "ちいさい",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefc38"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b2d4",
+  "kind": "string",
+  "jp": "８",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefc48"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b2d8",
+  "kind": "string",
+  "jp": "４",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefc44"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b2dc",
+  "kind": "string",
+  "jp": "じゅうりょく",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefc68"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b2ec",
+  "kind": "string",
+  "jp": "じゃり",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefc64"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b2f4",
+  "kind": "string",
+  "jp": "コンクリート",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefc60"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b304",
+  "kind": "string",
+  "jp": "すなはま",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefc5c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b310",
+  "kind": "string",
+  "jp": "こおり",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefc58"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b318",
+  "kind": "string",
+  "jp": "つち／くさ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefc54"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b324",
+  "kind": "string",
+  "jp": "もくめ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefc50"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b32c",
+  "kind": "string",
+  "jp": "こうしき",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefc4c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b338",
+  "kind": "string",
+  "jp": "ゆか：",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefc78"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b340",
+  "kind": "string",
+  "jp": "かたち：",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefc74"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b34c",
+  "kind": "string",
+  "jp": "かべ：",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefc70"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b354",
+  "kind": "string",
+  "jp": "サイズ：",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefc6c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b360",
+  "kind": "string",
+  "jp": "よにんたいせん",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefc84"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b370",
+  "kind": "string",
+  "jp": "さんにんたいせん",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefc80"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b384",
+  "kind": "string",
+  "jp": "ふたりたいせん",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefc7c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b393",
+  "kind": "string",
+  "jp": "hh8@`０１２３４５６７８９　",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x66898"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b398",
+  "kind": "string",
+  "jp": "０１２３４５６７８９　",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x66288"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b3b0",
+  "kind": "string",
+  "jp": "？？？？？？",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x66290"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b3c0",
+  "kind": "string",
+  "jp": "かべ：かたい",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x66dec"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b3d0",
+  "kind": "string",
+  "jp": "しばらく　おまちください",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefc8c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b3ec",
+  "kind": "string",
+  "jp": "つうしんちゅうです",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefc88"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b400",
+  "kind": "string",
+  "jp": "ちゅうだんします",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefc94"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b414",
+  "kind": "string",
+  "jp": "つうしんエラーです",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefc90"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b44c",
+  "kind": "string",
+  "jp": "　　０Ｐ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x686c8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b458",
+  "kind": "string",
+  "jp": "かくとくポイント",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x68b94"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b46c",
+  "kind": "string",
+  "jp": "もくひょうポイント",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x68b9c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b480",
+  "kind": "string",
+  "jp": "Ｐ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x68ba0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b484",
+  "kind": "string",
+  "jp": "－－",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x68e90"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b4e4",
+  "kind": "string",
+  "jp": "ボックスに空きがありません！",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefd30"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b504",
+  "kind": "string",
+  "jp": "ポイントが足りません！",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefd2c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b51c",
+  "kind": "string",
+  "jp": "ありがとうございました！",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefd28"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b538",
+  "kind": "string",
+  "jp": "　　うりきれ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefd58"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b548",
+  "kind": "string",
+  "jp": "？？？？？？？？？？？？",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefd54"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b564",
+  "kind": "string",
+  "jp": "になりますがよろしいですか？",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefd50"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b584",
+  "kind": "string",
+  "jp": "いいえ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefd4c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b58c",
+  "kind": "string",
+  "jp": "はい",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefd48"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b598",
+  "kind": "string",
+  "jp": "やっぱりやめる",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefd40"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b5a8",
+  "kind": "string",
+  "jp": "ＶＲＸデータ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefd3c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b5b8",
+  "kind": "string",
+  "jp": "ツール",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefd38"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b5c0",
+  "kind": "string",
+  "jp": "アーム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefd34"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b5c8",
+  "kind": "string",
+  "jp": "デスロールコロシアム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefda8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b5e0",
+  "kind": "string",
+  "jp": "ヘクサ社開発室",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefda4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b5f0",
+  "kind": "string",
+  "jp": "界天コロシアム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefda0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b600",
+  "kind": "string",
+  "jp": "レイオンジム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefd9c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b610",
+  "kind": "string",
+  "jp": "光円寺",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefd98"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b618",
+  "kind": "string",
+  "jp": "グレンの道場",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefd94"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b628",
+  "kind": "string",
+  "jp": "真丸体育館",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefd90"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b634",
+  "kind": "string",
+  "jp": "真丸ジム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefd8c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b640",
+  "kind": "string",
+  "jp": "マーブルスタジアム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefd88"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b654",
+  "kind": "string",
+  "jp": "真丸中ＶＲ場",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefd84"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b664",
+  "kind": "string",
+  "jp": "グローブスタジアム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefd80"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b678",
+  "kind": "string",
+  "jp": "プレミアムジム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefd7c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b688",
+  "kind": "string",
+  "jp": "グローブ公園",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefd78"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b698",
+  "kind": "string",
+  "jp": "弾打ビーチ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefd74"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b6a4",
+  "kind": "string",
+  "jp": "スパイルスタジアム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefd70"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b6b8",
+  "kind": "string",
+  "jp": "ワシュー道場",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefd6c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b6c8",
+  "kind": "string",
+  "jp": "田万里村ジム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefd68"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b6d8",
+  "kind": "string",
+  "jp": "勝飛ジム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefd64"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b6e4",
+  "kind": "string",
+  "jp": "勝飛体育舘",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefd60"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b6f0",
+  "kind": "string",
+  "jp": "勝飛中ＶＲ場",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefd5c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b700",
+  "kind": "string",
+  "jp": "たのしんでいる",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeff30"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b710",
+  "kind": "string",
+  "jp": "が戦いを",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeff2c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b71c",
+  "kind": "string",
+  "jp": "デスローラーたち",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeff28"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b730",
+  "kind": "string",
+  "jp": "あるきにくい",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeff1c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b740",
+  "kind": "string",
+  "jp": "じっけんしせつ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeff18"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b750",
+  "kind": "string",
+  "jp": "ヘクサ社の",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeff14"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b75c",
+  "kind": "string",
+  "jp": "コロシアム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeff08"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b768",
+  "kind": "string",
+  "jp": "するための",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeff04"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b774",
+  "kind": "string",
+  "jp": "マルスとたいせん",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeff00"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b788",
+  "kind": "string",
+  "jp": "れんしゅうのため",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefef4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b79c",
+  "kind": "string",
+  "jp": "光円寺にある",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefeec"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b7ac",
+  "kind": "string",
+  "jp": "じゃりですべる",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefee0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b7bc",
+  "kind": "string",
+  "jp": "大人気のＶＲ場",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefedc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b7cc",
+  "kind": "string",
+  "jp": "おとしよりに",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefed8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b7dc",
+  "kind": "string",
+  "jp": "グレンの",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefec4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b7e8",
+  "kind": "string",
+  "jp": "おこなわれている",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefebc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b7fc",
+  "kind": "string",
+  "jp": "毎日大会が",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefeb8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b808",
+  "kind": "string",
+  "jp": "真丸町いこいの",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefeb0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b818",
+  "kind": "string",
+  "jp": "真丸町にある",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefea0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b828",
+  "kind": "string",
+  "jp": "ＶＲがさかんな",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefe9c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b838",
+  "kind": "string",
+  "jp": "マーブルアレーナ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefe88"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b84c",
+  "kind": "string",
+  "jp": "せんようの",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefe78"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b858",
+  "kind": "string",
+  "jp": "真丸中のＶＲ部",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefe74"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b868",
+  "kind": "string",
+  "jp": "一番大きい",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefe6c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b874",
+  "kind": "string",
+  "jp": "かいさいされる",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefe64"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b884",
+  "kind": "string",
+  "jp": "バトリーグが",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefe60"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b894",
+  "kind": "string",
+  "jp": "最新せつびだ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefe58"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b8a4",
+  "kind": "string",
+  "jp": "プレミアムジムの",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefe50"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b8b8",
+  "kind": "string",
+  "jp": "ヘクサ社がたてた",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefe4c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b8cc",
+  "kind": "string",
+  "jp": "場になっている",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefe44"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b8dc",
+  "kind": "string",
+  "jp": "うでだめしの",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefe40"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b8ec",
+  "kind": "string",
+  "jp": "ストリートＶＲ場",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefe3c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b900",
+  "kind": "string",
+  "jp": "グローブ公園の",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefe38"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b910",
+  "kind": "string",
+  "jp": "砂浜のフィールド",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefe30"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b924",
+  "kind": "string",
+  "jp": "ジムのＶＲ場",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefe2c",
+   "0xefea4",
+   "0xefef0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b934",
+  "kind": "string",
+  "jp": "が浜にたてた",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefe28"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b944",
+  "kind": "string",
+  "jp": "海の家のおばさん",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefe24"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b958",
+  "kind": "string",
+  "jp": "スタジアム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefe1c",
+   "0xefe68",
+   "0xefe94",
+   "0xeff34"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b964",
+  "kind": "string",
+  "jp": "されている",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefe18",
+   "0xefe90"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b970",
+  "kind": "string",
+  "jp": "がかいさい",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefe14",
+   "0xefe8c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b97c",
+  "kind": "string",
+  "jp": "スパイルアレーナ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefe10"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b990",
+  "kind": "string",
+  "jp": "すべる",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefe0c",
+   "0xefefc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b998",
+  "kind": "string",
+  "jp": "こおりでつるつる",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefe08",
+   "0xefef8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b9ac",
+  "kind": "string",
+  "jp": "プライベート",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefe00",
+   "0xefec8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b9bc",
+  "kind": "string",
+  "jp": "イカヅチ家の",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefdfc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b9cc",
+  "kind": "string",
+  "jp": "田万里村のジム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefdf0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b9dc",
+  "kind": "string",
+  "jp": "はやっている",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefdec"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b9ec",
+  "kind": "string",
+  "jp": "ヘンな方言が",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefde8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07b9fc",
+  "kind": "string",
+  "jp": "いつも大いそがし",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefddc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07ba10",
+  "kind": "string",
+  "jp": "ここのマスターは",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefdd8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07ba24",
+  "kind": "string",
+  "jp": "勝飛町の人気ジム",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefdd4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07ba38",
+  "kind": "string",
+  "jp": "りようしている",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefdd0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07ba48",
+  "kind": "string",
+  "jp": "わかものまで",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefdcc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07ba58",
+  "kind": "string",
+  "jp": "おとしよりから",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefdc8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07ba68",
+  "kind": "string",
+  "jp": "ＶＲ場",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefdc4",
+   "0xefe04",
+   "0xefe54",
+   "0xefe7c",
+   "0xefeb4",
+   "0xefecc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07ba70",
+  "kind": "string",
+  "jp": "勝飛町いこいの",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefdc0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07ba80",
+  "kind": "string",
+  "jp": "につかわれている",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefdb8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07ba94",
+  "kind": "string",
+  "jp": "体育のじゅぎょう",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefdb4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07baa8",
+  "kind": "string",
+  "jp": "にあるＶＲ場",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefdb0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07bab8",
+  "kind": "string",
+  "jp": "勝飛中の体育館",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xefdac"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07bac8",
+  "kind": "string",
+  "jp": "よろしいですか？",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeff40"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07badc",
+  "kind": "string",
+  "jp": "そうびできませんが",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeff3c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07baf0",
+  "kind": "string",
+  "jp": "ＶＰ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x6a1b4",
+   "0x6a2d0",
+   "0x6b33c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07bb08",
+  "kind": "string",
+  "jp": "ありがとうございました！",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeff6c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07bb24",
+  "kind": "string",
+  "jp": "になりますがよろしいですか？",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeff68"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07bb44",
+  "kind": "string",
+  "jp": "いいえ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeff64"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07bb4c",
+  "kind": "string",
+  "jp": "はい",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xeff60"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r07bb54",
+  "kind": "string",
+  "jp": "ＶＰ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x6c868",
+   "0x6c998",
+   "0x6cedc"
+  ],
+  "notes": ""
+ }
+]

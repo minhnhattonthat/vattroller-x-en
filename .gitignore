@@ -1,8 +1,8 @@
-rom/
-build/
-work/
-dist/
-release/
+/rom/
+/build/
+/work/
+/dist/
+/release/
 .venv/
 __pycache__/
 tools/*/

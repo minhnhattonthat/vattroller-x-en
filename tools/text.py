@@ -174,6 +174,8 @@ DATA = [
     (0x007890, 0x007894, "bytes of the pointer 0x08008C90, not text"),
     (0x02FDF9, 0x02FDFC, "code bytes"),
     (0x048979, 0x04897D, "code bytes"),
+    (0x0E21D8, 0x0E21DA, "name marker ∴: the typer (0x080735C0) compares each text code with it, keep as is"),
+    (0x0F1828, 0x0F182A, "name marker ∴ (second copy), keep as is"),
 ]
 
 
@@ -282,12 +284,11 @@ def iter_rows():
 
 
 # ---------------------------------------------------------------- build hook
-def apply_events(evs, enc=encode):
-    """Put every non-empty `en` of the event files into the parsed files. Returns the count applied."""
-    by_id = {}
-    for rel, r in iter_rows():
-        if rel.startswith("events/") and r.get(LANG):
-            by_id[r["id"]] = r[LANG]
+def apply_events(evs, enc=encode, by_id=None):
+    """Put text into the parsed event files: by_id {id: text}, default every non-empty `en` of script/events.
+    Returns the count applied."""
+    if by_id is None:
+        by_id = {r["id"]: r[LANG] for rel, r in iter_rows() if rel.startswith("events/") and r.get(LANG)}
     n = 0
     for i, ev in evs.items():
         for sc in ev.scripts():

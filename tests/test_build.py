@@ -17,7 +17,7 @@ import events  # noqa: E402
 
 def test_identity_build_is_byte_identical():
     rom = archive.ROM.read_bytes()
-    out, log = build.build(rom)
+    out, log = build.build(rom, identity=True)
     assert log == []
     assert bytes(out) == rom
 

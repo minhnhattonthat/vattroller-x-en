@@ -1,0 +1,101 @@
+[
+ {
+  "id": "n0f0a0c",
+  "kind": "noptr",
+  "jp": "さいしあい　しますか？",
+  "en": "",
+  "status": "new",
+  "max": 22,
+  "notes": ""
+ },
+ {
+  "id": "n0f0f2c",
+  "kind": "noptr",
+  "jp": "０１２３４５６７８９　",
+  "en": "",
+  "status": "new",
+  "max": 22,
+  "notes": ""
+ },
+ {
+  "id": "n0f0f44",
+  "kind": "noptr",
+  "jp": "？？？？？？",
+  "en": "",
+  "status": "new",
+  "max": 12,
+  "notes": ""
+ },
+ {
+  "id": "n0f0f54",
+  "kind": "noptr",
+  "jp": "かべ：かたい",
+  "en": "",
+  "status": "new",
+  "max": 12,
+  "notes": ""
+ },
+ {
+  "id": "n0f0fe0",
+  "kind": "noptr",
+  "jp": "　　０Ｐ",
+  "en": "",
+  "status": "new",
+  "max": 8,
+  "notes": ""
+ },
+ {
+  "id": "n0f0fec",
+  "kind": "noptr",
+  "jp": "かくとくポイント",
+  "en": "",
+  "status": "new",
+  "max": 16,
+  "notes": ""
+ },
+ {
+  "id": "n0f1000",
+  "kind": "noptr",
+  "jp": "もくひょうポイント",
+  "en": "",
+  "status": "new",
+  "max": 18,
+  "notes": ""
+ },
+ {
+  "id": "n0f1014",
+  "kind": "noptr",
+  "jp": "Ｐ",
+  "en": "",
+  "status": "new",
+  "max": 2,
+  "notes": ""
+ },
+ {
+  "id": "n0f1018",
+  "kind": "noptr",
+  "jp": "－－",
+  "en": "",
+  "status": "new",
+  "max": 4,
+  "notes": ""
+ },
+ {
+  "id": "n0f1684",
+  "kind": "noptr",
+  "jp": "ＶＰ",
+  "en": "",
+  "status": "new",
+  "max": 4,
+  "notes": ""
+ },
+ {
+  "id": "n0f16e8",
+  "kind": "noptr",
+  "jp": "ＶＰ",
+  "en": "",
+  "status": "new",
+  "max": 4,
+  "notes": ""
+ }
+]

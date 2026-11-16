@@ -1,11 +1,15 @@
 """build.py: build the patched ROM.
 
     python -X utf8 tools/build.py              # -> build/vattroller_x_en.gba (+ .writes.tsv for romdiff)
-    python -X utf8 tools/build.py --identity   # rebuild with no text changes; exit 1 unless byte-identical
+    python -X utf8 tools/build.py --marker     # -> build/vattroller_x_marker.gba: every string replaced by its id
+    python -X utf8 tools/build.py --identity   # rebuild with no text and no engine; exit 1 unless byte-identical
 
-Steps: check the dump against rom.sha1, parse every event file (tools/events.py), apply text (phase 4+), rebuild
-each event file through the relocating serializer, and write changed files back through archive.write_files.
-With no text changes every file is rebuilt and the ROM must come out identical (tests/test_build.py)."""
+Steps: check the dump against rom.sha1, parse every event file (tools/events.py), put the English (or the markers)
+into the event files, rebuild each through the relocating serializer, write them back (archive.write_files), then
+the engine (tools/font.py: pair-glyph font, width table) and the ROM strings (tools/romtext.py).
+
+ROM layout past the original 8 MiB: 0x800000 width table, 0x810000-0x9AC000 ROM strings, 0x9ACE44-0xBE4DC4 pair
+glyphs (fixed by the glyph index formula), 0xBE8000+ relocated event files."""
 import hashlib
 import sys
 from pathlib import Path
@@ -14,40 +18,88 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 import archive  # noqa: E402
 import check_rom  # noqa: E402
 import events  # noqa: E402
+import font  # noqa: E402
+import romtext  # noqa: E402
 import text  # noqa: E402
 
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "build" / "vattroller_x_en.gba"
+MARKER_OUT = ROOT / "build" / "vattroller_x_marker.gba"
+EVENTS_FREE = 0xBE8000
+
+FILLER = "The quick brown fox jumps over the lazy dog, then naps by the warm fire. "
 
 
-def apply_text(evs):
-    """Put every non-empty `en` from script/events/*.json into the parsed event files (tools/text.py).
-    ROM strings (script/rom/*.json: repoint, credits, in-place) are written from phase 5/7 once the English
-    encoding is fixed. With no English yet this changes nothing and the build stays the identity build."""
-    text.apply_events(evs)
-    return evs
+def enc(s):
+    return font.encode(s, text.encode)
 
 
-def build(rom):
+def marker_id(rid):
+    """Short on-screen form of an id: e2478_00090 -> 78/90, e2478_00090.1 -> 78/90.1, r073cd8 -> 73CD8."""
+    if rid[0] == "e":
+        f, rest = rid[1:].split("_")
+        off, _, k = rest.partition(".")
+        return f"{int(f) - 2400}/{int(off, 16):x}" + (f".{k}" if k else "")
+    return rid[1:].lstrip("0").upper() or "0"
+
+
+def marker_text(row, chars=36):
+    """Marker for one row: its short id, then filler up to `chars` (event lines) or the original byte length
+    (ROM strings: the game may copy them into buffers sized for the Japanese)."""
+    m = marker_id(row["id"]) + " "
+    if row["kind"] in ("line", "title"):
+        n = chars
+    elif row["kind"] == "choice":
+        n = 18
+    else:
+        n = max(len(m) - 1, len(text.encode(row["jp"])))
+        if "max" in row:
+            n = min(n, row["max"])
+    return (m + FILLER * 3)[:n].rstrip() if n > len(m) else m[:n]
+
+
+def english_rows(marker):
+    """{rel: [(row, text)]} of every row with English (or every text row, as markers)."""
+    out = {}
+    for rel, r in text.iter_rows():
+        if r["kind"] == "data":
+            continue
+        s = marker_text(r) if marker else r.get(text.LANG)
+        if s:
+            out.setdefault(rel, []).append((r, s))
+    return out
+
+
+def build(rom, marker=False, identity=False):
     ar = archive.Archive(rom)
     evs = {i: events.parse(ar.file(i)) for i in range(events.FIRST, events.LAST + 1)}
-    evs = apply_text(evs)
+    rows = {} if identity else english_rows(marker)
+    ev_text = {r["id"]: s for rel, rs in rows.items() if rel.startswith("events/") for r, s in rs}
+    text.apply_events(evs, enc, ev_text)
     files = {i: ev.build() for i, ev in evs.items()}
-    return archive.write_files(rom, files)
+    if identity:
+        return archive.write_files(rom, files)
+    out, log = archive.write_files(rom, files, free=EVENTS_FREE)
+    font.patch(out, log, ar.offset(font.FONT_FILE))
+    rom_rows = [x for rel, rs in rows.items() if rel.startswith("rom/") for x in rs]
+    romtext.apply(out, log, rom_rows, enc)
+    return out, log
 
 
 def main():
     check_rom.check()
     rom = archive.ROM.read_bytes()
-    out, log = build(rom)
-    OUT.parent.mkdir(exist_ok=True)
-    OUT.write_bytes(out)
-    OUT.with_suffix(".writes.tsv").write_text(
+    marker, identity = "--marker" in sys.argv, "--identity" in sys.argv
+    out, log = build(rom, marker=marker, identity=identity)
+    dest = MARKER_OUT if marker else OUT
+    dest.parent.mkdir(exist_ok=True)
+    dest.write_bytes(out)
+    dest.with_suffix(".writes.tsv").write_text(
         "".join(f"{a:#x}\t{b:#x}\t{what}\n" for a, b, what in log), encoding="utf-8")
     same = bytes(out) == rom
-    print(f"{OUT.relative_to(ROOT)}: {len(out):#x} bytes, sha1 {hashlib.sha1(out).hexdigest()}, "
-          f"{len(log) // 2} files rewritten, {'identical to' if same else 'differs from'} the original")
-    if "--identity" in sys.argv and not same:
+    print(f"{dest.relative_to(ROOT)}: {len(out):#x} bytes, sha1 {hashlib.sha1(out).hexdigest()}, "
+          f"{len(log)} writes, {'identical to' if same else 'differs from'} the original")
+    if identity and not same:
         sys.exit(1)
 
 

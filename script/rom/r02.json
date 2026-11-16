@@ -1,0 +1,25 @@
+[
+ {
+  "id": "r02fdf9",
+  "kind": "data",
+  "jp": "h⑦",
+  "en": "",
+  "status": "data",
+  "ptrs": [
+   "0xc2dd8"
+  ],
+  "notes": "code bytes"
+ },
+ {
+  "id": "r02fdfa",
+  "kind": "data",
+  "jp": "⑦",
+  "en": "",
+  "status": "data",
+  "ptrs": [
+   "0xab4b8"
+  ],
+  "inside": "r02fdf9",
+  "notes": "code bytes"
+ }
+]

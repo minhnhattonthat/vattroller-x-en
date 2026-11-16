@@ -1,0 +1,400 @@
+[
+ {
+  "id": "r0e1de0",
+  "kind": "string",
+  "jp": "　",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xe49c0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0e1e6c",
+  "kind": "string",
+  "jp": "つうしんエラーが　はっせいしました",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x70234",
+   "0x70300",
+   "0x703bc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0e1e90",
+  "kind": "string",
+  "jp": "しゅうへんきき　との　せつぞくを",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x7023c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0e1eb4",
+  "kind": "string",
+  "jp": "きちんと　かくにんしてから",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x70244"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0e1ed0",
+  "kind": "string",
+  "jp": "電源を　いれなおしてください",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x7024c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0e1ef0",
+  "kind": "string",
+  "jp": "もっと近づいたり",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x70308"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0e1f04",
+  "kind": "string",
+  "jp": "しょうがいぶつを　さけてください",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x70310"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0e1f0a",
+  "kind": "string",
+  "jp": "がいぶつを　さけてください",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0xab028"
+  ],
+  "inside": "r0e1f04",
+  "notes": ""
+ },
+ {
+  "id": "r0e1f28",
+  "kind": "string",
+  "jp": "ＳＴＡＲＴボタンで　もどります",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x70318"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0e1f48",
+  "kind": "string",
+  "jp": "ゲームにもどります",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x703c4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0e1f5c",
+  "kind": "string",
+  "jp": "ＳＴＡＲＴボタンをおしてください",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x703cc"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0e20b0",
+  "kind": "string",
+  "jp": "は　い",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x71550",
+   "0x72314",
+   "0x7243c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0e20b8",
+  "kind": "string",
+  "jp": "いいえ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x71558",
+   "0x7231c",
+   "0x72444"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0e20c0",
+  "kind": "string",
+  "jp": "どっち？",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x71604"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0e20cc",
+  "kind": "string",
+  "jp": "アーマレット",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x71744"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0e20dc",
+  "kind": "string",
+  "jp": "だいじなもの",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x7174c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0e20ec",
+  "kind": "string",
+  "jp": "せってい",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x71754"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0e20f8",
+  "kind": "string",
+  "jp": "きろく",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x7175c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0e2100",
+  "kind": "string",
+  "jp": "アームセット",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x7189c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0e2110",
+  "kind": "string",
+  "jp": "ボックス",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x718a4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0e211c",
+  "kind": "string",
+  "jp": "リスト",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x718ac"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0e2124",
+  "kind": "string",
+  "jp": "パスワード",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x718b4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0e2130",
+  "kind": "string",
+  "jp": "Ｖポンする",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x71998"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0e213c",
+  "kind": "string",
+  "jp": "やめる",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x719a0",
+   "0x71ac0",
+   "0x71ce8",
+   "0x71e94"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0e2144",
+  "kind": "string",
+  "jp": "かう",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x71ab0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0e214c",
+  "kind": "string",
+  "jp": "うる",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x71ab8"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0e2154",
+  "kind": "string",
+  "jp": "ＶＰ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x71b60"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0e215c",
+  "kind": "string",
+  "jp": "もどる",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x71bfc",
+   "0x71ce0"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0e2164",
+  "kind": "string",
+  "jp": "人プレイ",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x71d80",
+   "0x721e4"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0e2170",
+  "kind": "string",
+  "jp": "グループにはいる",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x71e84"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0e2184",
+  "kind": "string",
+  "jp": "リーダーになる",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x71e8c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0e2194",
+  "kind": "string",
+  "jp": "：",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x71f80"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0e219c",
+  "kind": "string",
+  "jp": "こうかんするのは",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x72324"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0e21b0",
+  "kind": "string",
+  "jp": "これでいいですか？",
+  "en": "",
+  "status": "new",
+  "ptrs": [
+   "0x7232c",
+   "0x7244c"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "r0e21d8",
+  "kind": "data",
+  "jp": "∴",
+  "en": "",
+  "status": "data",
+  "ptrs": [
+   "0xec704"
+  ],
+  "notes": "name marker ∴: the typer (0x080735C0) compares each text code with it, keep as is"
+ }
+]
