@@ -6,8 +6,13 @@
   `0xEC740`, `0xFC4D8` and `0x312D10` (the last one is inside archive data; check before relying on it).
 - Files are stored back to back in table order from `0x1054D0` to `0x7FF268` (no gaps: entry i end == entry i+1 start).
   Files are reached by index through the table, so a rebuilt archive may move, grow or be placed past 8 MiB.
-  **guess:** nothing else points into the data area with absolute pointers. Some 0x0874xxxx-looking words occur inside
-  other files (24 at 0x19xxxx, 56 at 0x1Cxxxx, ...); confirm they are not file pointers before moving files (phase 3).
+  **verified for the event files (#2475-2711):** no absolute pointer reaches into them. A word scan of the whole ROM
+  (table excluded) found 267 values in their range, none in the code area (< 0x1054D0), all inside other archive
+  files' pixel data; the one equal to a file start (0x1A9EC4 → #2534) sits in sprite file #567 among nibble data.
+  Moving event files past 8 MiB was then checked in game (`script.md`). Other files still: **guess**, not moved.
+- **Writer:** `archive.write_files(rom, {index: bytes})` (phase 3) writes a file no longer than the original in place
+  and appends a longer one 4-aligned from `0x800000`, updating only its table entry; no other file moves. It returns a
+  write log (`build/vattroller_x_en.writes.tsv`) for `romdiff.py --writes`.
 - Compression: 23 files are BIOS Huffman 8-bit (type 0x28; #1317-1358, images); a few start with 0x10 (LZ10), most
   raw. Both decoders are in `archive.py` (`unpack`). Encoders are not written yet; only text files must change, and
   those are raw.

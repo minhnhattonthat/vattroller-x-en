@@ -36,6 +36,37 @@ class Archive:
         return self.rom[o:o + self.size(i)]
 
 
+FREE_START = 0x800000  # past the original 8 MiB: files that grow are moved here (archive.md §Free space)
+
+
+def write_files(rom, files, free=FREE_START):
+    """Put changed archive files into a ROM copy and update their table entries.
+
+    files: {index: bytes}. A file no longer than the original is written in place (its old tail stays); a longer one
+    is appended 4-aligned from `free` (the ROM grows, padded with 0xFF). Unchanged files and the table layout keep
+    their bytes, so an empty or identical `files` gives the original ROM. Returns (new rom, write log), the log being
+    (start, end, what) ranges for romdiff."""
+    out = bytearray(rom)
+    ar = Archive(bytes(rom))
+    log = []
+    end = max(free, len(out))
+    for i in sorted(files):
+        data = bytes(files[i])
+        if data == ar.file(i):
+            continue
+        if len(data) <= ar.size(i):
+            at = ar.offset(i)
+        else:
+            at = (end + 3) & ~3
+            end = at + len(data)
+        if len(out) < at + len(data):
+            out += b"\xff" * (at + len(data) - len(out))
+        out[at:at + len(data)] = data
+        struct.pack_into("<II", out, TABLE + 8 * i, 0x08000000 + at, len(data))
+        log += [(at, at + len(data), f"file {i}"), (TABLE + 8 * i, TABLE + 8 * i + 8, f"entry {i}")]
+    return out, log
+
+
 def lz10_decompress(src):
     if src[0] != 0x10:
         raise ValueError("not LZ10")

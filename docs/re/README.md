@@ -12,12 +12,12 @@ Addresses are for the dump in `rom.sha1` unless a note says otherwise.
 
 | File | Covers | State |
 |---|---|---|
-| archive.md | resource archive table at 0x100000, file groups, compression, free space, save type | verified (layout), guess (no other absolute pointers) |
-| script.md | event-script command stream, text opcodes 0x00/0x01/0x06/0x13 | verified (layout), guess (flags, jumps) |
+| archive.md | resource archive table at 0x100000, file groups, compression, free space, save type, writer | verified (layout, no pointers into event files), guess (other files) |
+| script.md | event file/page/script layout, command links (NEXT, op 0x06 THEN/ELSE), text opcodes | verified (identity + relayout in game), guess (text flags) |
 | text.md | Shift-JIS encoding, string regions and pointer tables outside the archive | verified |
 | font.md | font files #1132-1135 | guess (sweep only) |
 | graphics.md | graphics-text survey (static sweep done, tour rows pending) | sweep verified |
 | debug.md | warp tool, rooms, shelf/books, player struct, script interpreter, teleport/battle ops, flag stores | verified (warps), guess (flags) |
 
-Tools: `tools/archive.py`, `tools/script_fmt.py`, `tools/sjis_scan.py`, `tools/gfx_sweep.py`, `tools/ramview.py`,
+Tools: `tools/archive.py`, `tools/events.py` (parse/rebuild event files), `tools/build.py`, `tools/script_fmt.py`, `tools/sjis_scan.py`, `tools/gfx_sweep.py`, `tools/ramview.py`,
 `tools/debug/` (warp), `tools/lua/` probes (arcload, getfile, execlog, romreads, oplog, mash2).
