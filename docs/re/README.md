@@ -17,5 +17,7 @@ Addresses are for the dump in `rom.sha1` unless a note says otherwise.
 | text.md | Shift-JIS encoding, string regions and pointer tables outside the archive | verified |
 | font.md | font files #1132-1135 | guess (sweep only) |
 | graphics.md | graphics-text survey (static sweep done, tour rows pending) | sweep verified |
+| debug.md | warp tool, rooms, shelf/books, player struct, script interpreter, teleport/battle ops, flag stores | verified (warps), guess (flags) |
 
-Tools: `tools/archive.py`, `tools/script_fmt.py`, `tools/sjis_scan.py`, `tools/gfx_sweep.py`.
+Tools: `tools/archive.py`, `tools/script_fmt.py`, `tools/sjis_scan.py`, `tools/gfx_sweep.py`, `tools/ramview.py`,
+`tools/debug/` (warp), `tools/lua/` probes (arcload, getfile, execlog, romreads, oplog, mash2).
