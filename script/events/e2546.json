@@ -1,0 +1,122 @@
+[
+ {
+  "id": "e2546_00094",
+  "kind": "line",
+  "jp": "∴　勝利！　ついにマルスへの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2546_000bc",
+  "kind": "line",
+  "jp": "ちょうせんけんを手にしました！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2546_00130",
+  "kind": "line",
+  "jp": "ほんと　すごいね！　バトリーグで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2546_0015c",
+  "kind": "line",
+  "jp": "また　優勝だよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2546_00184",
+  "kind": "line",
+  "jp": "やりましたね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2546_0019c",
+  "kind": "line",
+  "jp": "次はマルスとの対決ですよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2546_001cc",
+  "kind": "line",
+  "jp": "こうなったら　マルスも",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2546_001ec",
+  "kind": "line",
+  "jp": "ずばっとぶったおしちまえ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2546_00238",
+  "kind": "line",
+  "jp": "やはり来たようだね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2546_00254",
+  "kind": "line",
+  "jp": "今はキミをしゅくふくしよう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2546_00278",
+  "kind": "line",
+  "jp": "だが　バトルはべつだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2546_00298",
+  "kind": "line",
+  "jp": "ぼくは負けない！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

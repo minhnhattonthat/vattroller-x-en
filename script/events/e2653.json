@@ -1,0 +1,242 @@
+[
+ {
+  "id": "e2653_000d4",
+  "kind": "line",
+  "jp": "わたしたちの　赤ちゃん　大きく",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2653_000fc",
+  "kind": "line",
+  "jp": "なったら　どんな子になるのかしら？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2653_0015c",
+  "kind": "line",
+  "jp": "子どもがうまれたら　バトローリングを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2653_0018c",
+  "kind": "line",
+  "jp": "教えようって　おっとと話してるんです",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2653_001bc",
+  "kind": "line",
+  "jp": "バトローリングで　げんきで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2653_001e0",
+  "kind": "line",
+  "jp": "じょうぶな子にそだってほしいわ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2653_0023c",
+  "kind": "line",
+  "jp": "どうやら　赤ちゃんができたみたい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2653_00268",
+  "kind": "line",
+  "jp": "ポッ　しあわせ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2653_002c4",
+  "kind": "line",
+  "jp": "この子は　ぜったいバトローラーに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2653_002f0",
+  "kind": "line",
+  "jp": "なって　マルスになると思うね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2653_00318",
+  "kind": "line",
+  "jp": "いままでで　イチバン強いマルスに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2653_00344",
+  "kind": "line",
+  "jp": "なるにちがいないよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2653_00398",
+  "kind": "line",
+  "jp": "子どもはぜったい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2653_003b4",
+  "kind": "line",
+  "jp": "マルスにしたいんです！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2653_003d4",
+  "kind": "line",
+  "jp": "ボクの　はたせなかった夢だから",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2653_00430",
+  "kind": "line",
+  "jp": "おくさんに赤ちゃんができたんですよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2653_0045c",
+  "kind": "line",
+  "jp": "男の子かな～？　女の子かな～？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2653_004e0",
+  "kind": "line",
+  "jp": "テレビをつけてみた",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2653_004fc",
+  "kind": "line",
+  "jp": "バトリーグのちゅうけいが　うつっている",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2653_00574",
+  "kind": "line",
+  "jp": "ようふくタンスだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2653_005d0",
+  "kind": "line",
+  "jp": "ようふくタンスだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2653_0062c",
+  "kind": "line",
+  "jp": "あかちゃんの本がならんでいる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2653_006b0",
+  "kind": "line",
+  "jp": "テレビをつけてみた",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2653_006cc",
+  "kind": "line",
+  "jp": "バトリーグのちゅうけいが　うつっている",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ }
+]

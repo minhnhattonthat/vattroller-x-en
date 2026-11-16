@@ -1,0 +1,242 @@
+[
+ {
+  "id": "e2554_000bc",
+  "kind": "line",
+  "jp": "スズカ先生！　お兄ちゃんは……≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2554_000f4",
+  "kind": "line",
+  "jp": "コマチちゃんも　∴ちゃんも",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2554_00118",
+  "kind": "line",
+  "jp": "そう心配しなくていいわ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2554_00138",
+  "kind": "line",
+  "jp": "ライバくんのケガはたいしたこと",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2554_00160",
+  "kind": "line",
+  "jp": "ないそうよ　すぐに元気になるって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2554_00198",
+  "kind": "line",
+  "jp": "そう……よかったぁ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2554_001c4",
+  "kind": "line",
+  "jp": "……でも　バトローリングで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2554_001e8",
+  "kind": "line",
+  "jp": "こんなケガをさせるなんて∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2554_0020c",
+  "kind": "line",
+  "jp": "あのトウドウってヤツ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2554_0022c",
+  "kind": "line",
+  "jp": "ゆるせないな∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2554_00268",
+  "kind": "line",
+  "jp": "うん　前のウェストのいほうアームも",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2554_00294",
+  "kind": "line",
+  "jp": "くろまくはあいつだったんだわ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2554_002d0",
+  "kind": "line",
+  "jp": "ライバのかたきをうってやる∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2554_002f8",
+  "kind": "line",
+  "jp": "行こう∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2554_00328",
+  "kind": "line",
+  "jp": "ちょ　ちょっとまってよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2554_00348",
+  "kind": "line",
+  "jp": "ジンくん∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2554_00388",
+  "kind": "line",
+  "jp": "たしかに　もし本当なら",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2554_003a8",
+  "kind": "line",
+  "jp": "ゆるせないけど……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2554_003c4",
+  "kind": "line",
+  "jp": "でも　これはあなたたちが行って",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2554_003ec",
+  "kind": "line",
+  "jp": "なんとかなる問題じゃないわ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2554_0041c",
+  "kind": "line",
+  "jp": "じゃあ　どうするんだよ≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2554_0044c",
+  "kind": "line",
+  "jp": "グローブさんに話してみるしかない",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2554_00478",
+  "kind": "line",
+  "jp": "でしょうね　みんなもいっしょに来て",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2554_004b0",
+  "kind": "line",
+  "jp": "もちろん！　ぜったいに行くわよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

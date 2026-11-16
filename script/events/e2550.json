@@ -1,0 +1,392 @@
+[
+ {
+  "id": "e2550_000d0",
+  "kind": "line",
+  "jp": "そういえば　名前を聞いてなかったよな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2550_00100",
+  "kind": "line",
+  "jp": "オレは　つかはらジン∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2550_00120",
+  "kind": "line",
+  "jp": "こいつはペットのムチャピーな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2550_00154",
+  "kind": "line",
+  "jp": "ピィ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2550_00170",
+  "kind": "line",
+  "jp": "それで　おまえは……∴か",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2550_00194",
+  "kind": "line",
+  "jp": "よろしくな∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2550_001ac",
+  "kind": "line",
+  "jp": "さぁ　それじゃ始めようぜ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2550_001d0",
+  "kind": "line",
+  "jp": "∴∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2550_0024c",
+  "kind": "line",
+  "jp": "うひゃ～　負けた負けた∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2550_00270",
+  "kind": "line",
+  "jp": "もうちょっとだったんだけどなぁ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2550_00298",
+  "kind": "line",
+  "jp": "おまえ　強いなぁ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2550_002b4",
+  "kind": "line",
+  "jp": "このへんの地区に住んでるのか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2550_002dc",
+  "kind": "line",
+  "jp": "勝飛町？　へ～　そんな近くに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2550_00304",
+  "kind": "line",
+  "jp": "こんな強いヤツがいたなんてなぁ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2550_003e8",
+  "kind": "line",
+  "jp": "部室にもどってないと思ったら",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2550_00410",
+  "kind": "line",
+  "jp": "やっぱりこっちだったか",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2550_00444",
+  "kind": "line",
+  "jp": "ジ　ジン……おまえの相手って",
+  "en": "",
+  "status": "new",
+  "flags": "0x0400",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2550_0046c",
+  "kind": "line",
+  "jp": "∴さんか≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2550_00494",
+  "kind": "line",
+  "jp": "あれ？　部長　この人知ってるの？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2550_004cc",
+  "kind": "line",
+  "jp": "バ　バカ！　知ってるもなにもこの人",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2550_004f8",
+  "kind": "line",
+  "jp": "バトリーグのトップランカーだぞ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2550_00538",
+  "kind": "line",
+  "jp": "ええーっ≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2550_0054c",
+  "kind": "line",
+  "jp": "そうなの≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2550_0056c",
+  "kind": "line",
+  "jp": "そうか　どこかで見たと思ったら",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2550_00594",
+  "kind": "line",
+  "jp": "この前のニュースよ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2550_005b4",
+  "kind": "line",
+  "jp": "マルスのハヤテにちょうせんした",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2550_005dc",
+  "kind": "line",
+  "jp": "中学生バトローラーって……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2550_00624",
+  "kind": "line",
+  "jp": "そうかぁ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2550_0063c",
+  "kind": "line",
+  "jp": "どうりで強いわけだぜ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2550_0065c",
+  "kind": "line",
+  "jp": "バトルもすっげー面白かったし……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2550_00688",
+  "kind": "line",
+  "jp": "また今度バトルしよーぜ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2550_006b8",
+  "kind": "line",
+  "jp": "お　おい！　ジン！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2550_006d4",
+  "kind": "line",
+  "jp": "おまえ　こんなすごい人にそんな……∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2550_00710",
+  "kind": "line",
+  "jp": "え？　もちろんいいって？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2550_00734",
+  "kind": "line",
+  "jp": "よーし　次はぜったい勝つぞー∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2550_00768",
+  "kind": "line",
+  "jp": "ほんとに　ジンくんったら",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2550_0078c",
+  "kind": "line",
+  "jp": "こわいものなしよねー",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2550_008e8",
+  "kind": "line",
+  "jp": "そういや　オレ今度そっちの方のジム",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2550_00914",
+  "kind": "line",
+  "jp": "見に行くんだ　その時また勝負しよう∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

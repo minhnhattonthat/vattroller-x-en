@@ -1,0 +1,472 @@
+[
+ {
+  "id": "e2615_00314",
+  "kind": "line",
+  "jp": "やっぱりバトリーグの試合は",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2615_00338",
+  "kind": "line",
+  "jp": "とてもレベルがたかいですね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2615_0035c",
+  "kind": "line",
+  "jp": "とくにハヤテせんしゅの戦いは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2615_00384",
+  "kind": "line",
+  "jp": "じげんがちがいます　みごとですよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2615_003e4",
+  "kind": "line",
+  "jp": "やっぱりバトリーグの試合は",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2615_00408",
+  "kind": "line",
+  "jp": "ほかの試合とちがってレベルがたかい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2615_00434",
+  "kind": "line",
+  "jp": "見ていて　すこしもあきないですよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2615_004a0",
+  "kind": "line",
+  "jp": "はやく大きくなって　バトリーグの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2615_004cc",
+  "kind": "line",
+  "jp": "試合にでたいわ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2615_004e4",
+  "kind": "line",
+  "jp": "男の子なんかに　まけないんだから！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2615_00544",
+  "kind": "line",
+  "jp": "わたし　いつか試合にでるの　",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2615_0056c",
+  "kind": "line",
+  "jp": "男の子になんか　まけないんだから！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2615_005d8",
+  "kind": "line",
+  "jp": "いまではすっかり　おくさんのほうが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2615_00604",
+  "kind": "line",
+  "jp": "バトローリングにくわしくなりました",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2615_00630",
+  "kind": "line",
+  "jp": "わたしのほうが　",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2615_0064c",
+  "kind": "line",
+  "jp": "教えてもらってるんですよ　ははは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2615_006ac",
+  "kind": "line",
+  "jp": "ロールには　アタックロールと",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2615_006d4",
+  "kind": "line",
+  "jp": "ヒールロールという　２しゅるいがある",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2615_00704",
+  "kind": "line",
+  "jp": "そのちがいをポイントに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2615_00724",
+  "kind": "line",
+  "jp": "試合を見てみるといいよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2615_00778",
+  "kind": "line",
+  "jp": "わたしは　おくさんとふたりで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2615_007a0",
+  "kind": "line",
+  "jp": "バトローリングを見るのがしゅみです",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2615_007cc",
+  "kind": "line",
+  "jp": "おくさんは　しょしん者なので",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2615_007f4",
+  "kind": "line",
+  "jp": "わたしが　いろいろと教えてるんです",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2615_00860",
+  "kind": "line",
+  "jp": "さっきのプレイは　バウンダーの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 17,
+  "notes": ""
+ },
+ {
+  "id": "e2615_00888",
+  "kind": "line",
+  "jp": "使いかたがポイントだったわね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 17,
+  "notes": ""
+ },
+ {
+  "id": "e2615_008b0",
+  "kind": "line",
+  "jp": "わからないことがあったら",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 17,
+  "notes": ""
+ },
+ {
+  "id": "e2615_008d4",
+  "kind": "line",
+  "jp": "なんでもきいてね　あなたヽ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 17,
+  "notes": ""
+ },
+ {
+  "id": "e2615_0092c",
+  "kind": "line",
+  "jp": "あんなにいろいろな　アームがあって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 18,
+  "notes": ""
+ },
+ {
+  "id": "e2615_00958",
+  "kind": "line",
+  "jp": "まちがえて使ったりしないのかしら？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 18,
+  "notes": ""
+ },
+ {
+  "id": "e2615_00984",
+  "kind": "line",
+  "jp": "バトローラーって　すごいのねぇ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 18,
+  "notes": ""
+ },
+ {
+  "id": "e2615_009e4",
+  "kind": "line",
+  "jp": "さいきん　おっとといっしょに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 19,
+  "notes": ""
+ },
+ {
+  "id": "e2615_00a0c",
+  "kind": "line",
+  "jp": "バトローリングを見はじめたんです",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 19,
+  "notes": ""
+ },
+ {
+  "id": "e2615_00a38",
+  "kind": "line",
+  "jp": "スポーツには　きょうみがなかったけど",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 19,
+  "notes": ""
+ },
+ {
+  "id": "e2615_00a68",
+  "kind": "line",
+  "jp": "バトローリングは　面白いですね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 19,
+  "notes": ""
+ },
+ {
+  "id": "e2615_00ad0",
+  "kind": "line",
+  "jp": "だまって　試合を見ろ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 20,
+  "notes": ""
+ },
+ {
+  "id": "e2615_00af0",
+  "kind": "line",
+  "jp": "バトローラーに　言葉はいらねぇぜ　",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 20,
+  "notes": ""
+ },
+ {
+  "id": "e2615_00b5c",
+  "kind": "line",
+  "jp": "あっはっはっはっ　",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 21,
+  "notes": ""
+ },
+ {
+  "id": "e2615_00b78",
+  "kind": "line",
+  "jp": "こうして見ていると　わかがえるよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 21,
+  "notes": ""
+ },
+ {
+  "id": "e2615_00bd8",
+  "kind": "line",
+  "jp": "おっほっほっほっ　",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 22,
+  "notes": ""
+ },
+ {
+  "id": "e2615_00bf4",
+  "kind": "line",
+  "jp": "バトローリングは　楽しいねぇ　",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 22,
+  "notes": ""
+ },
+ {
+  "id": "e2615_00c5c",
+  "kind": "line",
+  "jp": "おれもバトローリングってやつ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 23,
+  "notes": ""
+ },
+ {
+  "id": "e2615_00c84",
+  "kind": "line",
+  "jp": "やってみようかな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 23,
+  "notes": ""
+ },
+ {
+  "id": "e2615_00ca0",
+  "kind": "line",
+  "jp": "ゴロゴロするのは　家で",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 23,
+  "notes": ""
+ },
+ {
+  "id": "e2615_00cc0",
+  "kind": "line",
+  "jp": "練習してるぜ　いつもな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 23,
+  "notes": ""
+ },
+ {
+  "id": "e2615_00d20",
+  "kind": "line",
+  "jp": "おばさんも転がってみたいわ……　",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 24,
+  "notes": ""
+ },
+ {
+  "id": "e2615_00d4c",
+  "kind": "line",
+  "jp": "ああ……　転がりたい……　",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 24,
+  "notes": ""
+ }
+]

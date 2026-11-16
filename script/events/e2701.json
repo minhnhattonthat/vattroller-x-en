@@ -1,0 +1,1522 @@
+[
+ {
+  "id": "e2701_000d4",
+  "kind": "line",
+  "jp": "あら？　バトローリングのことを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2701_000fc",
+  "kind": "line",
+  "jp": "調べにきたの？　ごゆっくりどうぞ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2701_0015c",
+  "kind": "line",
+  "jp": "スズカ校長の考えで　バトローリングの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2701_0018c",
+  "kind": "line",
+  "jp": "本をあつめているんだって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2701_001e4",
+  "kind": "line",
+  "jp": "うちの図書室　なぜかバトローリングの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2701_00214",
+  "kind": "line",
+  "jp": "本が　とてもいっぱいあるのよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2701_0027c",
+  "kind": "line",
+  "jp": "バトローリングの本でぎっしりだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2701_002d8",
+  "kind": "line",
+  "jp": "『バトローリングじてん』をみつけた∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2701_00348",
+  "kind": "line",
+  "jp": "『バトローリングじてん』がならんでいる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2701_003ac",
+  "kind": "line",
+  "jp": "『バトローリングじてん』がならんでいる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2701_00444",
+  "kind": "line",
+  "jp": "お！　Ｖメダルを見つけてきたのか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2701_00470",
+  "kind": "line",
+  "jp": "よく３６まい集めたな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2701_00490",
+  "kind": "line",
+  "jp": "ほうびに　これをやろう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2701_00524",
+  "kind": "line",
+  "jp": "お！　Ｖメダルを見つけてきたのか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2701_00564",
+  "kind": "line",
+  "jp": "なんだ　そんだけか……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2701_00588",
+  "kind": "line",
+  "jp": "よく３３まい集めたな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2701_005a8",
+  "kind": "line",
+  "jp": "ほうびに　これをやろう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2701_00628",
+  "kind": "line",
+  "jp": "お！　Ｖメダルを見つけてきたのか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2701_00668",
+  "kind": "line",
+  "jp": "なんだ　そんだけか……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2701_0068c",
+  "kind": "line",
+  "jp": "よく３０まい集めたな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2701_006ac",
+  "kind": "line",
+  "jp": "ほうびに　これをやろう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2701_0072c",
+  "kind": "line",
+  "jp": "お！　Ｖメダルを見つけてきたのか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2701_0076c",
+  "kind": "line",
+  "jp": "なんだ　そんだけか……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2701_00790",
+  "kind": "line",
+  "jp": "よく２７まい集めたな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2701_007b0",
+  "kind": "line",
+  "jp": "ほうびに　これをやろう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2701_00830",
+  "kind": "line",
+  "jp": "お！　Ｖメダルを見つけてきたのか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2701_00870",
+  "kind": "line",
+  "jp": "なんだ　そんだけか……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2701_00894",
+  "kind": "line",
+  "jp": "よく２４まい集めたな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2701_008b4",
+  "kind": "line",
+  "jp": "ほうびに　これをやろう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2701_00934",
+  "kind": "line",
+  "jp": "お！　Ｖメダルを見つけてきたのか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2701_00974",
+  "kind": "line",
+  "jp": "なんだ　そんだけか……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2701_00998",
+  "kind": "line",
+  "jp": "よく２１まい集めたな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2701_009b8",
+  "kind": "line",
+  "jp": "ほうびに　これをやろう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2701_00a38",
+  "kind": "line",
+  "jp": "お！　Ｖメダルを見つけてきたのか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2701_00a78",
+  "kind": "line",
+  "jp": "なんだ　そんだけか……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2701_00a9c",
+  "kind": "line",
+  "jp": "よく１８まい集めたな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2701_00abc",
+  "kind": "line",
+  "jp": "ほうびに　これをやろう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2701_00b3c",
+  "kind": "line",
+  "jp": "お！　Ｖメダルを見つけてきたのか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 17,
+  "notes": ""
+ },
+ {
+  "id": "e2701_00b7c",
+  "kind": "line",
+  "jp": "なんだ　そんだけか……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 17,
+  "notes": ""
+ },
+ {
+  "id": "e2701_00ba0",
+  "kind": "line",
+  "jp": "よく１５まい集めたな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 17,
+  "notes": ""
+ },
+ {
+  "id": "e2701_00bc0",
+  "kind": "line",
+  "jp": "ほうびに　これをやろう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 17,
+  "notes": ""
+ },
+ {
+  "id": "e2701_00c40",
+  "kind": "line",
+  "jp": "お！　Ｖメダルを見つけてきたのか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 18,
+  "notes": ""
+ },
+ {
+  "id": "e2701_00c80",
+  "kind": "line",
+  "jp": "なんだ　そんだけか……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 18,
+  "notes": ""
+ },
+ {
+  "id": "e2701_00ca4",
+  "kind": "line",
+  "jp": "よく１２まい集めたな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 18,
+  "notes": ""
+ },
+ {
+  "id": "e2701_00cc4",
+  "kind": "line",
+  "jp": "ほうびに　これをやろう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 18,
+  "notes": ""
+ },
+ {
+  "id": "e2701_00d44",
+  "kind": "line",
+  "jp": "お！　Ｖメダルを見つけてきたのか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 19,
+  "notes": ""
+ },
+ {
+  "id": "e2701_00d84",
+  "kind": "line",
+  "jp": "なんだ　そんだけか……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 19,
+  "notes": ""
+ },
+ {
+  "id": "e2701_00da8",
+  "kind": "line",
+  "jp": "よく９まい集めたな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 19,
+  "notes": ""
+ },
+ {
+  "id": "e2701_00dc4",
+  "kind": "line",
+  "jp": "ほうびに　これをやろう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 19,
+  "notes": ""
+ },
+ {
+  "id": "e2701_00e44",
+  "kind": "line",
+  "jp": "お！　Ｖメダルを見つけてきたのか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 20,
+  "notes": ""
+ },
+ {
+  "id": "e2701_00e84",
+  "kind": "line",
+  "jp": "なんだ　そんだけか……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 20,
+  "notes": ""
+ },
+ {
+  "id": "e2701_00ea8",
+  "kind": "line",
+  "jp": "よく６まい集めたな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 20,
+  "notes": ""
+ },
+ {
+  "id": "e2701_00ec4",
+  "kind": "line",
+  "jp": "ほうびに　これをやろう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 20,
+  "notes": ""
+ },
+ {
+  "id": "e2701_00f44",
+  "kind": "line",
+  "jp": "お！　Ｖメダルを見つけてきたのか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 21,
+  "notes": ""
+ },
+ {
+  "id": "e2701_00f84",
+  "kind": "line",
+  "jp": "なんだ　そんだけか……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 21,
+  "notes": ""
+ },
+ {
+  "id": "e2701_00fa8",
+  "kind": "line",
+  "jp": "よく３まい集めたな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 21,
+  "notes": ""
+ },
+ {
+  "id": "e2701_00fc4",
+  "kind": "line",
+  "jp": "ほうびに　これをやろう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 21,
+  "notes": ""
+ },
+ {
+  "id": "e2701_01044",
+  "kind": "line",
+  "jp": "お！　Ｖメダルを見つけてきたのか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 22,
+  "notes": ""
+ },
+ {
+  "id": "e2701_01070",
+  "kind": "line",
+  "jp": "なんだ　そんだけか……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 22,
+  "notes": ""
+ },
+ {
+  "id": "e2701_010c4",
+  "kind": "line",
+  "jp": "Ｖメダルって知ってるか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 23,
+  "notes": ""
+ },
+ {
+  "id": "e2701_010e8",
+  "kind": "line",
+  "jp": "あちこちにあるらしいが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 23,
+  "notes": ""
+ },
+ {
+  "id": "e2701_01108",
+  "kind": "line",
+  "jp": "見つけたら　オレのところにきな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 23,
+  "notes": ""
+ },
+ {
+  "id": "e2701_01130",
+  "kind": "line",
+  "jp": "そうすれば　いいことがあるかもよー",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 23,
+  "notes": ""
+ },
+ {
+  "id": "e2701_0119c",
+  "kind": "line",
+  "jp": "Ｖメダルあつめてるせんせい？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 24,
+  "notes": ""
+ },
+ {
+  "id": "e2701_011c4",
+  "kind": "line",
+  "jp": "そんな人しらないよ？　聞いた事ないわ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 24,
+  "notes": ""
+ },
+ {
+  "id": "e2701_01228",
+  "kind": "line",
+  "jp": "おくにすわっている　せんせい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 25,
+  "notes": ""
+ },
+ {
+  "id": "e2701_01250",
+  "kind": "line",
+  "jp": "なんだけど　Ｖメダルってのを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 25,
+  "notes": ""
+ },
+ {
+  "id": "e2701_01278",
+  "kind": "line",
+  "jp": "あつめてるらしいぜ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 25,
+  "notes": ""
+ },
+ {
+  "id": "e2701_012d4",
+  "kind": "line",
+  "jp": "バトローリングかんけいの本で",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 26,
+  "notes": ""
+ },
+ {
+  "id": "e2701_012fc",
+  "kind": "line",
+  "jp": "ぎっしりだ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 26,
+  "notes": ""
+ },
+ {
+  "id": "e2701_01354",
+  "kind": "line",
+  "jp": "バトローリングかんけいの本で",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 27,
+  "notes": ""
+ },
+ {
+  "id": "e2701_0137c",
+  "kind": "line",
+  "jp": "ぎっしりだ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 27,
+  "notes": ""
+ },
+ {
+  "id": "e2701_013d4",
+  "kind": "line",
+  "jp": "『バトローリングのすべてだい１かん』",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 28,
+  "notes": ""
+ },
+ {
+  "id": "e2701_01404",
+  "kind": "line",
+  "jp": "ちょしゃ　グローブ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 28,
+  "notes": ""
+ },
+ {
+  "id": "e2701_01460",
+  "kind": "line",
+  "jp": "『必殺技』とは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 29,
+  "notes": ""
+ },
+ {
+  "id": "e2701_01478",
+  "kind": "line",
+  "jp": "２つのアームをつかい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 29,
+  "notes": ""
+ },
+ {
+  "id": "e2701_01498",
+  "kind": "line",
+  "jp": "オーラをおおくしょうひして　くりだす技",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 29,
+  "notes": ""
+ },
+ {
+  "id": "e2701_014c8",
+  "kind": "line",
+  "jp": "必殺技に使ったアームは　一定時間",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 29,
+  "notes": ""
+ },
+ {
+  "id": "e2701_014f4",
+  "kind": "line",
+  "jp": "しようできないという　リスクはあるが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 29,
+  "notes": ""
+ },
+ {
+  "id": "e2701_01524",
+  "kind": "line",
+  "jp": "相手に大ダメージをあたえたり",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 29,
+  "notes": ""
+ },
+ {
+  "id": "e2701_0154c",
+  "kind": "line",
+  "jp": "色々なこうかを　あたえることができる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 29,
+  "notes": ""
+ },
+ {
+  "id": "e2701_0157c",
+  "kind": "line",
+  "jp": "アームけいとうのくみあわせで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 29,
+  "notes": ""
+ },
+ {
+  "id": "e2701_015a4",
+  "kind": "line",
+  "jp": "必殺技をえらぶことができる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 29,
+  "notes": ""
+ },
+ {
+  "id": "e2701_015c8",
+  "kind": "line",
+  "jp": "そうさは　Ｌボタンと組み合わせたい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 29,
+  "notes": ""
+ },
+ {
+  "id": "e2701_015f4",
+  "kind": "line",
+  "jp": "アームのボタン２つで　発動する",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 29,
+  "notes": ""
+ },
+ {
+  "id": "e2701_0165c",
+  "kind": "line",
+  "jp": "『わたしのカレは　バトローラー』",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 30,
+  "notes": ""
+ },
+ {
+  "id": "e2701_016c8",
+  "kind": "line",
+  "jp": "『アタックロール』とは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 31,
+  "notes": ""
+ },
+ {
+  "id": "e2701_016e8",
+  "kind": "line",
+  "jp": "ムテキのバリアにつつまれたロール",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 31,
+  "notes": ""
+ },
+ {
+  "id": "e2701_01714",
+  "kind": "line",
+  "jp": "ヒットすればオーラと体力を",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 31,
+  "notes": ""
+ },
+ {
+  "id": "e2701_01738",
+  "kind": "line",
+  "jp": "おおはばに　へらすことができる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 31,
+  "notes": ""
+ },
+ {
+  "id": "e2701_01760",
+  "kind": "line",
+  "jp": "ただし　バウンダーで弾かれたり",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 31,
+  "notes": ""
+ },
+ {
+  "id": "e2701_01788",
+  "kind": "line",
+  "jp": "オーラのしょうひもはげしいので",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 31,
+  "notes": ""
+ },
+ {
+  "id": "e2701_017b0",
+  "kind": "line",
+  "jp": "ちゅういすること",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 31,
+  "notes": ""
+ },
+ {
+  "id": "e2701_017cc",
+  "kind": "line",
+  "jp": "そうさは進みたい方向の十字ボタンと",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 31,
+  "notes": ""
+ },
+ {
+  "id": "e2701_017f8",
+  "kind": "line",
+  "jp": "Ｌボタンを同時におすと　発動する",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 31,
+  "notes": ""
+ },
+ {
+  "id": "e2701_01864",
+  "kind": "line",
+  "jp": "『最強のマルス・ハヤテ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 32,
+  "notes": ""
+ },
+ {
+  "id": "e2701_01884",
+  "kind": "line",
+  "jp": "イケメンしゃしん集』",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 32,
+  "notes": ""
+ },
+ {
+  "id": "e2701_018e4",
+  "kind": "line",
+  "jp": "Ｖショップにならんでいない",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 33,
+  "notes": ""
+ },
+ {
+  "id": "e2701_01908",
+  "kind": "line",
+  "jp": "アームやツールはパスワードで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 33,
+  "notes": ""
+ },
+ {
+  "id": "e2701_01930",
+  "kind": "line",
+  "jp": "かえるようになるのよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 33,
+  "notes": ""
+ },
+ {
+  "id": "e2701_01990",
+  "kind": "line",
+  "jp": "『アーマレット』とは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 34,
+  "notes": ""
+ },
+ {
+  "id": "e2701_019b0",
+  "kind": "line",
+  "jp": "オーラをせいぎょし　アームをぶきや",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 34,
+  "notes": ""
+ },
+ {
+  "id": "e2701_019dc",
+  "kind": "line",
+  "jp": "ぼうぐとして　いろんな能力を",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 34,
+  "notes": ""
+ },
+ {
+  "id": "e2701_01a04",
+  "kind": "line",
+  "jp": "はっきすることができるものだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 34,
+  "notes": ""
+ },
+ {
+  "id": "e2701_01a6c",
+  "kind": "line",
+  "jp": "『アームのけいとう』の",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 35,
+  "notes": ""
+ },
+ {
+  "id": "e2701_01a8c",
+  "kind": "line",
+  "jp": "主なしゅるいは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 35,
+  "notes": ""
+ },
+ {
+  "id": "e2701_01aa4",
+  "kind": "line",
+  "jp": "ブレード（ＢＬ）けい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 35,
+  "notes": ""
+ },
+ {
+  "id": "e2701_01ac4",
+  "kind": "line",
+  "jp": "バウンダー（ＢＵ）けい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 35,
+  "notes": ""
+ },
+ {
+  "id": "e2701_01ae4",
+  "kind": "line",
+  "jp": "ストライク（ＳＴ）けい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 35,
+  "notes": ""
+ },
+ {
+  "id": "e2701_01b04",
+  "kind": "line",
+  "jp": "ハント（ＨＵ）けい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 35,
+  "notes": ""
+ },
+ {
+  "id": "e2701_01b20",
+  "kind": "line",
+  "jp": "になり　とくにサイズが４～５の",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 35,
+  "notes": ""
+ },
+ {
+  "id": "e2701_01b48",
+  "kind": "line",
+  "jp": "アームについては　エクスけいとなる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 35,
+  "notes": ""
+ },
+ {
+  "id": "e2701_01b74",
+  "kind": "line",
+  "jp": "アームのけいとうをおぼえなければ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 35,
+  "notes": ""
+ },
+ {
+  "id": "e2701_01ba0",
+  "kind": "line",
+  "jp": "いろんなアームを使う事ができない",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 35,
+  "notes": ""
+ },
+ {
+  "id": "e2701_01bcc",
+  "kind": "line",
+  "jp": "けいとうごとに　マスターがいるので",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 35,
+  "notes": ""
+ },
+ {
+  "id": "e2701_01bf8",
+  "kind": "line",
+  "jp": "教えてもらうことが　大事だ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 35,
+  "notes": ""
+ },
+ {
+  "id": "e2701_01c5c",
+  "kind": "line",
+  "jp": "『アームセット』とは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 36,
+  "notes": ""
+ },
+ {
+  "id": "e2701_01c7c",
+  "kind": "line",
+  "jp": "アーマレットには　３つのアームを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 36,
+  "notes": ""
+ },
+ {
+  "id": "e2701_01ca8",
+  "kind": "line",
+  "jp": "セットすることができる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 36,
+  "notes": ""
+ },
+ {
+  "id": "e2701_01cc8",
+  "kind": "line",
+  "jp": "アームにはそれぞれ『サイズ』があり",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 36,
+  "notes": ""
+ },
+ {
+  "id": "e2701_01cf4",
+  "kind": "line",
+  "jp": "アーマレットには　そのトータルの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 36,
+  "notes": ""
+ },
+ {
+  "id": "e2701_01d20",
+  "kind": "line",
+  "jp": "じょうげんがきまっている",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 36,
+  "notes": ""
+ },
+ {
+  "id": "e2701_01d84",
+  "kind": "line",
+  "jp": "『アームリライター』とは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 37,
+  "notes": ""
+ },
+ {
+  "id": "e2701_01da8",
+  "kind": "line",
+  "jp": "２つのアームを１つにかきかえる事で",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 37,
+  "notes": ""
+ },
+ {
+  "id": "e2701_01dd4",
+  "kind": "line",
+  "jp": "新たなアームを入手することができる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 37,
+  "notes": ""
+ },
+ {
+  "id": "e2701_01e00",
+  "kind": "line",
+  "jp": "アームけいとうの組み合わせにより",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 37,
+  "notes": ""
+ },
+ {
+  "id": "e2701_01e2c",
+  "kind": "line",
+  "jp": "もらえるアームが決められている",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 37,
+  "notes": ""
+ },
+ {
+  "id": "e2701_01e94",
+  "kind": "line",
+  "jp": "『サインアーム』とは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 38,
+  "notes": ""
+ },
+ {
+  "id": "e2701_01eb4",
+  "kind": "line",
+  "jp": "自分の好きなことばがはいったアーム",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 38,
+  "notes": ""
+ },
+ {
+  "id": "e2701_01ee0",
+  "kind": "line",
+  "jp": "すきな言葉とサインアームが同じだと",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 38,
+  "notes": ""
+ },
+ {
+  "id": "e2701_01f0c",
+  "kind": "line",
+  "jp": "すこし強いアームとなる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 38,
+  "notes": ""
+ },
+ {
+  "id": "e2701_01f6c",
+  "kind": "line",
+  "jp": "『Ｖスキル』とは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 39,
+  "notes": ""
+ },
+ {
+  "id": "e2701_01f88",
+  "kind": "line",
+  "jp": "キャラクターのこせいを表すのうりょく",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 39,
+  "notes": ""
+ },
+ {
+  "id": "e2701_01fb8",
+  "kind": "line",
+  "jp": "アーマレットごとに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 39,
+  "notes": ""
+ },
+ {
+  "id": "e2701_01fd4",
+  "kind": "line",
+  "jp": "おぼえるＶスキルはことなる　",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 39,
+  "notes": ""
+ },
+ {
+  "id": "e2701_01ffc",
+  "kind": "line",
+  "jp": "レベルがＭＡＸになると",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 39,
+  "notes": ""
+ },
+ {
+  "id": "e2701_0201c",
+  "kind": "line",
+  "jp": "ブレイクロールをおぼえることができる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 39,
+  "notes": ""
+ },
+ {
+  "id": "e2701_0208c",
+  "kind": "line",
+  "jp": "『ブレイクロール』とは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 40,
+  "notes": ""
+ },
+ {
+  "id": "e2701_020ac",
+  "kind": "line",
+  "jp": "バウンダーで弾かれないくらいの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 40,
+  "notes": ""
+ },
+ {
+  "id": "e2701_020d4",
+  "kind": "line",
+  "jp": "力をもったアタックロール",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 40,
+  "notes": ""
+ },
+ {
+  "id": "e2701_020f8",
+  "kind": "line",
+  "jp": "そうさほうほうは　",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 40,
+  "notes": ""
+ },
+ {
+  "id": "e2701_02114",
+  "kind": "line",
+  "jp": "Ｌボタン＋十字ボタン中に",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 40,
+  "notes": ""
+ },
+ {
+  "id": "e2701_02138",
+  "kind": "line",
+  "jp": "ＡボタンかＢボタンか",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 40,
+  "notes": ""
+ },
+ {
+  "id": "e2701_02158",
+  "kind": "line",
+  "jp": "Ｒボタンをおすことで　はつどうできる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 40,
+  "notes": ""
+ },
+ {
+  "id": "e2701_021c8",
+  "kind": "line",
+  "jp": "『チェーンアタック』とは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 41,
+  "notes": ""
+ },
+ {
+  "id": "e2701_021ec",
+  "kind": "line",
+  "jp": "れんぞくこうげきができる　わざ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 41,
+  "notes": ""
+ },
+ {
+  "id": "e2701_02214",
+  "kind": "line",
+  "jp": "たとえば　アームを３つセットしていれば",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 41,
+  "notes": ""
+ },
+ {
+  "id": "e2701_02244",
+  "kind": "line",
+  "jp": "Ａボタン→Ｂボタン→Ｒボタンと　",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 41,
+  "notes": ""
+ },
+ {
+  "id": "e2701_02270",
+  "kind": "line",
+  "jp": "おすことでれんぞくこうげきができる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 41,
+  "notes": ""
+ },
+ {
+  "id": "e2701_0229c",
+  "kind": "line",
+  "jp": "ただし　ハントけいや",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 41,
+  "notes": ""
+ },
+ {
+  "id": "e2701_022bc",
+  "kind": "line",
+  "jp": "バウンダーをかまえての",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 41,
+  "notes": ""
+ },
+ {
+  "id": "e2701_022dc",
+  "kind": "line",
+  "jp": "チェーンアタックはできないのでちゅうい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 41,
+  "notes": ""
+ }
+]

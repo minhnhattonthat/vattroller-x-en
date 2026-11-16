@@ -1,0 +1,182 @@
+[
+ {
+  "id": "e2640_000d4",
+  "kind": "line",
+  "jp": "ひとつのことに　ねっちゅうするって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2640_00100",
+  "kind": "line",
+  "jp": "どういう気持ちなんだろうな……？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2640_00160",
+  "kind": "line",
+  "jp": "いけー！　やれー！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2640_0017c",
+  "kind": "line",
+  "jp": "どっちも負けるなー！！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2640_001dc",
+  "kind": "line",
+  "jp": "ローリングべんとう　ひとつ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2640_00204",
+  "kind": "line",
+  "jp": "……あれ？　売り子さんじゃないの？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2640_00264",
+  "kind": "line",
+  "jp": "きゃーん！　カッコいい人ばっかり！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2640_00290",
+  "kind": "line",
+  "jp": "……って　アンタたちじゃないわよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2640_0041c",
+  "kind": "line",
+  "jp": "おまえか！　最近ぶいぶい言わせとる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2640_00448",
+  "kind": "line",
+  "jp": "わかいモンというのは！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2640_00468",
+  "kind": "line",
+  "jp": "くそう　もう少しわかければ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2640_0048c",
+  "kind": "line",
+  "jp": "ワシもぶいぶい言わせたのに！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2640_004e8",
+  "kind": "line",
+  "jp": "これ　わかいの！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2640_00504",
+  "kind": "line",
+  "jp": "コシがはいっとらん　コシが！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2640_0052c",
+  "kind": "line",
+  "jp": "そんなことぢゃ　ワシのように",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2640_00554",
+  "kind": "line",
+  "jp": "ぶいぶい言わせられんぞ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2640_005ac",
+  "kind": "line",
+  "jp": "ワシもわかいころは　バトローリングで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2640_005dc",
+  "kind": "line",
+  "jp": "ぶいぶいいわせたもんぢゃ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ }
+]

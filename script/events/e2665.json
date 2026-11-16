@@ -1,0 +1,182 @@
+[
+ {
+  "id": "e2665_000d4",
+  "kind": "line",
+  "jp": "アタシ　いつかマルスになるの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2665_000fc",
+  "kind": "line",
+  "jp": "だってアイドルよりカッコいいんだもん",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2665_00160",
+  "kind": "line",
+  "jp": "アタシ　いつかアイドルになるの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2665_00188",
+  "kind": "line",
+  "jp": "だってみんなのアコガレなんだもん",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2665_001f4",
+  "kind": "line",
+  "jp": "マルスかんけいの本で　ぎっしりだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2665_00254",
+  "kind": "line",
+  "jp": "アイドルかんけいの本で　ぎっしりだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2665_002c0",
+  "kind": "line",
+  "jp": "きれいな　タンスだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2665_00338",
+  "kind": "line",
+  "jp": "テレビをつけてみた",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2665_00354",
+  "kind": "line",
+  "jp": "マーブルアレーナの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2665_00370",
+  "kind": "line",
+  "jp": "ＣＭが　うつってる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2665_003f0",
+  "kind": "line",
+  "jp": "テレビをつけてみた",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2665_0040c",
+  "kind": "line",
+  "jp": "マーブルアレーナの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2665_00428",
+  "kind": "line",
+  "jp": "ＣＭが　うつってる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2665_0048c",
+  "kind": "line",
+  "jp": "タンスの中に本がおいてある",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2665_004b0",
+  "kind": "line",
+  "jp": "『キミもなれる　マルスへの道』",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2665_0050c",
+  "kind": "line",
+  "jp": "タンスの中に本がおいてある",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2665_00530",
+  "kind": "line",
+  "jp": "『キミもなれる　アイドルへの道』",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2665_0059c",
+  "kind": "line",
+  "jp": "きれいな　タンスだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ }
+]

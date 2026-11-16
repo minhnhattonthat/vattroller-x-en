@@ -1,0 +1,62 @@
+[
+ {
+  "id": "e2547_0010c",
+  "kind": "line",
+  "jp": "またキミと戦う時が来るとは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 1,
+  "notes": ""
+ },
+ {
+  "id": "e2547_00130",
+  "kind": "line",
+  "jp": "思っていたけれど……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 1,
+  "notes": ""
+ },
+ {
+  "id": "e2547_00150",
+  "kind": "line",
+  "jp": "それがこんなに早くなるとはね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 1,
+  "notes": ""
+ },
+ {
+  "id": "e2547_00178",
+  "kind": "line",
+  "jp": "キミは本当に強くなったよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 1,
+  "notes": ""
+ },
+ {
+  "id": "e2547_001a8",
+  "kind": "line",
+  "jp": "さあ　かかってこい！　マルスの名に",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 1,
+  "notes": ""
+ },
+ {
+  "id": "e2547_001d4",
+  "kind": "line",
+  "jp": "ふさわしいバトルを見せてあげよう！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 1,
+  "notes": ""
+ }
+]

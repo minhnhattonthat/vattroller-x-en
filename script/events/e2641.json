@@ -1,0 +1,242 @@
+[
+ {
+  "id": "e2641_001c4",
+  "kind": "line",
+  "jp": "アームリライターだ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2641_001e4",
+  "kind": "line",
+  "jp": "きどうしますか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2641_0025c",
+  "kind": "line",
+  "jp": "えっ？　またアーム買うのかって？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2641_00288",
+  "kind": "line",
+  "jp": "そんなお金ないわよ～　見てるだけよ～",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2641_002ec",
+  "kind": "line",
+  "jp": "また新しいモデルがでたみたいよ～",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2641_00318",
+  "kind": "line",
+  "jp": "バトローリングも　お金かかるわよね～",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2641_0037c",
+  "kind": "line",
+  "jp": "買うんなら　デザインじゅうしよね～",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2641_003a8",
+  "kind": "line",
+  "jp": "カタチからはいるのもだいじよ～",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2641_00410",
+  "kind": "line",
+  "jp": "好きな　あのこのハートをいとめるには",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2641_00440",
+  "kind": "line",
+  "jp": "やはり　ハントけいのアームを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2641_00468",
+  "kind": "line",
+  "jp": "使いこなすしか　ないのかな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2641_0048c",
+  "kind": "line",
+  "jp": "キミ　どう思う？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2641_004e8",
+  "kind": "line",
+  "jp": "アーマレットをはっこうするきかいだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2641_00514",
+  "kind": "line",
+  "jp": "もうもってるから　いらないや",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2641_0057c",
+  "kind": "line",
+  "jp": "キミもバトローリング大会に",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2641_005a0",
+  "kind": "line",
+  "jp": "しゅつじょうしよう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2641_005fc",
+  "kind": "line",
+  "jp": "しんがたアームはつばいちゅう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2641_00664",
+  "kind": "line",
+  "jp": "さまざまな商品がならんでいる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2641_006cc",
+  "kind": "line",
+  "jp": "バトローリング用品が",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2641_006ec",
+  "kind": "line",
+  "jp": "たくさんならんでいる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2641_0074c",
+  "kind": "line",
+  "jp": "バトローリングの本が",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2641_0076c",
+  "kind": "line",
+  "jp": "ならんでいる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2641_007c4",
+  "kind": "line",
+  "jp": "バトローリングのユニフォームが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 17,
+  "notes": ""
+ },
+ {
+  "id": "e2641_007ec",
+  "kind": "line",
+  "jp": "ならんでいる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 17,
+  "notes": ""
+ }
+]

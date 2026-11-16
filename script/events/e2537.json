@@ -1,0 +1,382 @@
+[
+ {
+  "id": "e2537_000c4",
+  "kind": "line",
+  "jp": "おお　来た来た　勝飛中",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2537_000e4",
+  "kind": "line",
+  "jp": "バトローリング部のしょくんじゃな？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2537_0011c",
+  "kind": "line",
+  "jp": "わしがグローブじゃ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2537_00138",
+  "kind": "line",
+  "jp": "よろしくの……ムニャ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2537_00178",
+  "kind": "line",
+  "jp": "おっと　おぬしと会うのは２回目じゃな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2537_001a8",
+  "kind": "line",
+  "jp": "∴",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2537_001d0",
+  "kind": "line",
+  "jp": "えっ≡　∴　あんた",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2537_001ec",
+  "kind": "line",
+  "jp": "社長なんかと知り合いなの？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2537_00234",
+  "kind": "line",
+  "jp": "この前のイベントで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2537_00250",
+  "kind": "line",
+  "jp": "まいごになった時に　会った？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2537_00278",
+  "kind": "line",
+  "jp": "へぇ～",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2537_00294",
+  "kind": "line",
+  "jp": "ただのおじいさんかと思った？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2537_002bc",
+  "kind": "line",
+  "jp": "……たしかに社長には見えないわよね～",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2537_00318",
+  "kind": "line",
+  "jp": "ひょひょひょ　社長とバレると",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2537_00340",
+  "kind": "line",
+  "jp": "イベントを見れないのでたすかっとるよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2537_00370",
+  "kind": "line",
+  "jp": "わしはおしのびで　子どもたちの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2537_00398",
+  "kind": "line",
+  "jp": "バトルを見るのが　だいすきなんでの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2537_003e0",
+  "kind": "line",
+  "jp": "グローブさんは　バトローリングを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2537_0040c",
+  "kind": "line",
+  "jp": "だれよりも　愛している人なのよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2537_00434",
+  "kind": "line",
+  "jp": "だから　バトローリングを楽しむ人を",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2537_00460",
+  "kind": "line",
+  "jp": "見ることが　なによりうれしいそうよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2537_00498",
+  "kind": "line",
+  "jp": "へぇー　見かけによらず",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2537_004b8",
+  "kind": "line",
+  "jp": "りっぱな方なんですね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2537_004f8",
+  "kind": "line",
+  "jp": "ひょひょひょ　そんなほめられては",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2537_00524",
+  "kind": "line",
+  "jp": "テレるわいな……ムニャ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2537_00560",
+  "kind": "line",
+  "jp": "それにしても　あいかわらず美人じゃの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2537_00590",
+  "kind": "line",
+  "jp": "スズカ先生は",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2537_005b4",
+  "kind": "line",
+  "jp": "あら　ありがとうございます",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2537_005d8",
+  "kind": "line",
+  "jp": "うふふ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2537_005f4",
+  "kind": "line",
+  "jp": "え？　スズカ先生とも知り合いなの？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2537_0062c",
+  "kind": "line",
+  "jp": "もちろんじゃ！　これほど美人な",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2537_00654",
+  "kind": "line",
+  "jp": "マスターは　そうおらんからのう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2537_0067c",
+  "kind": "line",
+  "jp": "これで　もっとセクシーなマスター服を",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2537_006ac",
+  "kind": "line",
+  "jp": "きてくれれば　かんぺきなんじゃがのう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2537_006f0",
+  "kind": "line",
+  "jp": "……やっぱり　見かけどおりの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2537_00718",
+  "kind": "line",
+  "jp": "スケベジジイにしか見えないんだけど",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2537_00750",
+  "kind": "line",
+  "jp": "それはそうと　ここへよんだ話を",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2537_00778",
+  "kind": "line",
+  "jp": "せんとな　まぁ中へ入りなされ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

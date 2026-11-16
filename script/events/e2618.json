@@ -1,0 +1,632 @@
+[
+ {
+  "id": "e2618_001e8",
+  "kind": "line",
+  "jp": "いらっしゃいませ　ここは　おともだちに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2618_00218",
+  "kind": "line",
+  "jp": "Ｖスキルを教えるカウンターです",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2618_00254",
+  "kind": "line",
+  "jp": "Ｖスキルを教えますか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2618_00298",
+  "kind": "line",
+  "jp": "記録しますが　よろしいですか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2618_002e4",
+  "kind": "line",
+  "jp": "記録中です",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2618_002f8",
+  "kind": "line",
+  "jp": "電源をきらないでください",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2618_0034c",
+  "kind": "line",
+  "jp": "記録がしゅうりょうしました",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2618_0037c",
+  "kind": "line",
+  "jp": "記録に失敗しました",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2618_003a8",
+  "kind": "line",
+  "jp": "ありがとうございました",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2618_003d8",
+  "kind": "line",
+  "jp": "また　おこしください！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2618_003fc",
+  "kind": "line",
+  "jp": "もうしわけありませんが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2618_0041c",
+  "kind": "line",
+  "jp": "マスターの方でないと　利用できません…",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2618_004c8",
+  "kind": "line",
+  "jp": "レアなアームをさがしているんだけど",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2618_004f4",
+  "kind": "line",
+  "jp": "売っているところを　知らないか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2618_00554",
+  "kind": "line",
+  "jp": "いろいろなアームをためして　じぶんに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2618_00584",
+  "kind": "line",
+  "jp": "ピッタリなものを見つけるつもりさ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2618_005e4",
+  "kind": "line",
+  "jp": "じぶんには　どんなアームが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2618_00608",
+  "kind": "line",
+  "jp": "むいているんだろうか……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2618_0066c",
+  "kind": "line",
+  "jp": "あたらしいアームは　ワシの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2618_00690",
+  "kind": "line",
+  "jp": "プレイスタイルにぴったりじゃわい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2618_006bc",
+  "kind": "line",
+  "jp": "こうみえても　ワシは　げんえきの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2618_006e8",
+  "kind": "line",
+  "jp": "バトローラーじゃからな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2618_0073c",
+  "kind": "line",
+  "jp": "こんどのアームは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2618_00758",
+  "kind": "line",
+  "jp": "こうげきをメインにしたものに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2618_00780",
+  "kind": "line",
+  "jp": "しようかのぉ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2618_007d0",
+  "kind": "line",
+  "jp": "そろそろ　あたらしいアームに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2618_007f8",
+  "kind": "line",
+  "jp": "こうかんしようかのぉ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2618_0085c",
+  "kind": "line",
+  "jp": "デパートでほりだしものとか売ってた？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2618_0088c",
+  "kind": "line",
+  "jp": "めずらしいものがあれば",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2618_008ac",
+  "kind": "line",
+  "jp": "買いにいこうと思ってるのよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2618_00904",
+  "kind": "line",
+  "jp": "Ｖスキルもおしえてもらったし",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2618_0092c",
+  "kind": "line",
+  "jp": "デパートに買いものにいこうかしら",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2618_0098c",
+  "kind": "line",
+  "jp": "ここから　グローブデパートの３階に",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2618_009b8",
+  "kind": "line",
+  "jp": "いけるのよ　とってもベンリね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2618_00a20",
+  "kind": "line",
+  "jp": "いらっしゃいませ　ここは　おともだちと",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 17,
+  "notes": ""
+ },
+ {
+  "id": "e2618_00a50",
+  "kind": "line",
+  "jp": "アームこうかんをするカウンターです",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 17,
+  "notes": ""
+ },
+ {
+  "id": "e2618_00a90",
+  "kind": "line",
+  "jp": "Ｖボックスがカラなので",
+  "en": "",
+  "status": "new",
+  "flags": "0x0400",
+  "script": 17,
+  "notes": ""
+ },
+ {
+  "id": "e2618_00ab0",
+  "kind": "line",
+  "jp": "こうかんできません",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 17,
+  "notes": ""
+ },
+ {
+  "id": "e2618_00ad4",
+  "kind": "line",
+  "jp": "こうかんしますか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 17,
+  "notes": ""
+ },
+ {
+  "id": "e2618_00b14",
+  "kind": "line",
+  "jp": "記録しますが　よろしいですか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 17,
+  "notes": ""
+ },
+ {
+  "id": "e2618_00b60",
+  "kind": "line",
+  "jp": "記録中です",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 17,
+  "notes": ""
+ },
+ {
+  "id": "e2618_00b74",
+  "kind": "line",
+  "jp": "電源をきらないでください",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 17,
+  "notes": ""
+ },
+ {
+  "id": "e2618_00bc8",
+  "kind": "line",
+  "jp": "記録がしゅうりょうしました",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 17,
+  "notes": ""
+ },
+ {
+  "id": "e2618_00bf8",
+  "kind": "line",
+  "jp": "記録に失敗しました",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 17,
+  "notes": ""
+ },
+ {
+  "id": "e2618_00c24",
+  "kind": "line",
+  "jp": "ありがとうございました",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 17,
+  "notes": ""
+ },
+ {
+  "id": "e2618_00c50",
+  "kind": "line",
+  "jp": "また　おこしください！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 17,
+  "notes": ""
+ },
+ {
+  "id": "e2618_00c80",
+  "kind": "line",
+  "jp": "また　おこしください！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 17,
+  "notes": ""
+ },
+ {
+  "id": "e2618_00d48",
+  "kind": "line",
+  "jp": "Ｖセンター３Ｆ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 20,
+  "notes": ""
+ },
+ {
+  "id": "e2618_00da0",
+  "kind": "line",
+  "jp": "Ｖセンター３Ｆ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 21,
+  "notes": ""
+ },
+ {
+  "id": "e2618_00df8",
+  "kind": "line",
+  "jp": "→Ｖスキルを教えるルーム",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 22,
+  "notes": ""
+ },
+ {
+  "id": "e2618_00e1c",
+  "kind": "line",
+  "jp": "←アームこうかんルーム",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 22,
+  "notes": ""
+ },
+ {
+  "id": "e2618_00e7c",
+  "kind": "line",
+  "jp": "いらっしゃいませ　ここは　おともだちに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 23,
+  "notes": ""
+ },
+ {
+  "id": "e2618_00eac",
+  "kind": "line",
+  "jp": "Ｖスキルを教わるカウンターです",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 23,
+  "notes": ""
+ },
+ {
+  "id": "e2618_00ed4",
+  "kind": "line",
+  "jp": "教わりますか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 23,
+  "notes": ""
+ },
+ {
+  "id": "e2618_00f10",
+  "kind": "line",
+  "jp": "記録しますが　よろしいですか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 23,
+  "notes": ""
+ },
+ {
+  "id": "e2618_00f5c",
+  "kind": "line",
+  "jp": "記録中です",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 23,
+  "notes": ""
+ },
+ {
+  "id": "e2618_00f70",
+  "kind": "line",
+  "jp": "電源をきらないでください",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 23,
+  "notes": ""
+ },
+ {
+  "id": "e2618_00fc4",
+  "kind": "line",
+  "jp": "記録がしゅうりょうしました",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 23,
+  "notes": ""
+ },
+ {
+  "id": "e2618_00ff4",
+  "kind": "line",
+  "jp": "記録に失敗しました",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 23,
+  "notes": ""
+ },
+ {
+  "id": "e2618_01020",
+  "kind": "line",
+  "jp": "ありがとうございました",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 23,
+  "notes": ""
+ },
+ {
+  "id": "e2618_01050",
+  "kind": "line",
+  "jp": "また　おこしください！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 23,
+  "notes": ""
+ },
+ {
+  "id": "e2618_010b0",
+  "kind": "line",
+  "jp": "→Ｖスキルを教えるルーム",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 24,
+  "notes": ""
+ },
+ {
+  "id": "e2618_010d4",
+  "kind": "line",
+  "jp": "←アームこうかんルーム",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 24,
+  "notes": ""
+ }
+]

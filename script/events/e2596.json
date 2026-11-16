@@ -1,0 +1,202 @@
+[
+ {
+  "id": "e2596_000a8",
+  "kind": "line",
+  "jp": "……というわけで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2596_000c4",
+  "kind": "line",
+  "jp": "みんなに　集まってもらったわけ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2596_000ec",
+  "kind": "line",
+  "jp": "さあ　スイカがりを始めるわよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2596_00114",
+  "kind": "line",
+  "jp": "スイカを　かりまくるのよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2596_00138",
+  "kind": "line",
+  "jp": "まずは　タクミと∴からね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2596_001d4",
+  "kind": "line",
+  "jp": "スイカ　かるのも",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2596_001f0",
+  "kind": "line",
+  "jp": "けっこう　ホネがおれるもんやな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2596_00224",
+  "kind": "line",
+  "jp": "なに　なさけないこというとるんじゃ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2596_00250",
+  "kind": "line",
+  "jp": "イカヅチ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2596_00284",
+  "kind": "line",
+  "jp": "こんなに　かってもろうて",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2596_002a8",
+  "kind": "line",
+  "jp": "大助かりや",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2596_002bc",
+  "kind": "line",
+  "jp": "これは　おれいやから　うけとってや",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2596_00314",
+  "kind": "line",
+  "jp": "スイカも　持って帰るか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2596_00344",
+  "kind": "line",
+  "jp": "スイカ　持って帰るか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2596_00370",
+  "kind": "line",
+  "jp": "あたしが　ぜんぶ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2596_0038c",
+  "kind": "line",
+  "jp": "持って帰るわ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2596_003a4",
+  "kind": "line",
+  "jp": "うちの店の　新しょうひんに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2596_003c8",
+  "kind": "line",
+  "jp": "使わせてもらうの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2596_003f0",
+  "kind": "line",
+  "jp": "なんや……　やっぱり",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2596_00410",
+  "kind": "line",
+  "jp": "りようされただけかいな～",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

@@ -1,0 +1,32 @@
+[
+ {
+  "id": "e2558_00248",
+  "kind": "line",
+  "jp": "ん？　何だ？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2558_00298",
+  "kind": "line",
+  "jp": "にゃ～ん",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2558_002c0",
+  "kind": "line",
+  "jp": "何だ　ネコか",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

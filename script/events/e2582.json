@@ -1,0 +1,592 @@
+[
+ {
+  "id": "e2582_000ac",
+  "kind": "line",
+  "jp": "あの……　これ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2582_000c8",
+  "kind": "line",
+  "jp": "母ちゃんが　わたせって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2582_0010c",
+  "kind": "line",
+  "jp": "……ダメダメ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2582_00124",
+  "kind": "line",
+  "jp": "中身見たら　すぐバレちゃうわ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2582_00174",
+  "kind": "line",
+  "jp": "食べたかったら　食べれば？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2582_00198",
+  "kind": "line",
+  "jp": "どっちでもいいけど……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2582_001dc",
+  "kind": "line",
+  "jp": "でも……食べてくれなかったら",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2582_00204",
+  "kind": "line",
+  "jp": "どうしよう？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2582_00240",
+  "kind": "line",
+  "jp": "……あんた！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2582_00258",
+  "kind": "line",
+  "jp": "いつから　そこにいたの≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2582_0027c",
+  "kind": "line",
+  "jp": "こ……これは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2582_00294",
+  "kind": "line",
+  "jp": "なんでもないんだからね！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2582_002b8",
+  "kind": "line",
+  "jp": "なんでもないったら",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2582_002d4",
+  "kind": "line",
+  "jp": "なんでもないの！！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2582_00318",
+  "kind": "line",
+  "jp": "だれだ？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2582_0032c",
+  "kind": "line",
+  "jp": "用があるなら入ってこい！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2582_0037c",
+  "kind": "line",
+  "jp": "なんだ　おまえらか",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2582_003a4",
+  "kind": "line",
+  "jp": "なんだは　ないでしょ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2582_003c4",
+  "kind": "line",
+  "jp": "人がせっかく……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2582_003ec",
+  "kind": "line",
+  "jp": "けいこのジャマだ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2582_0040c",
+  "kind": "line",
+  "jp": "かえれ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2582_00428",
+  "kind": "line",
+  "jp": "なによ　ケイコ　ケイコって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2582_0044c",
+  "kind": "line",
+  "jp": "バカのひとつおぼえみたいに！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2582_00480",
+  "kind": "line",
+  "jp": "うるさい！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2582_00494",
+  "kind": "line",
+  "jp": "ジャマをするなら　かえれ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2582_004c4",
+  "kind": "line",
+  "jp": "言われなくても　かえるわよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2582_004ec",
+  "kind": "line",
+  "jp": "お兄ちゃんのバカ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2582_0054c",
+  "kind": "line",
+  "jp": "あいかわらず　うるさいやつだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2582_00574",
+  "kind": "line",
+  "jp": "今から　ケイコするが……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2582_00598",
+  "kind": "line",
+  "jp": "ちょうどいい　おまえもつきあえ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2582_005fc",
+  "kind": "line",
+  "jp": "ピンを　多くたおしたほうが勝ちだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2582_00628",
+  "kind": "line",
+  "jp": "いくぞ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2582_006b0",
+  "kind": "line",
+  "jp": "またウデを上げたな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2582_006cc",
+  "kind": "line",
+  "jp": "どうだ？　本気でジムに入ることを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2582_006f8",
+  "kind": "line",
+  "jp": "考えてみたら",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2582_0071c",
+  "kind": "line",
+  "jp": "まだまだだな……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2582_00738",
+  "kind": "line",
+  "jp": "このまま　あんな部にいても",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2582_0075c",
+  "kind": "line",
+  "jp": "せいちょうは　のぞめないぞ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2582_00780",
+  "kind": "line",
+  "jp": "どうだ？　本気でジムに入ることを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2582_007ac",
+  "kind": "line",
+  "jp": "考えてみたら",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2582_007d0",
+  "kind": "line",
+  "jp": "……まあいい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2582_007e8",
+  "kind": "line",
+  "jp": "そのうち　こっちに来たくなるさ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2582_0081c",
+  "kind": "line",
+  "jp": "それはそうと……！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2582_00838",
+  "kind": "line",
+  "jp": "これは……ベントウ？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2582_00858",
+  "kind": "line",
+  "jp": "まさか　このオレに……？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2582_00890",
+  "kind": "line",
+  "jp": "ゲッ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2582_008a4",
+  "kind": "line",
+  "jp": "マズッ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2582_008d4",
+  "kind": "line",
+  "jp": "ったく……ムシャムシャ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2582_008f8",
+  "kind": "line",
+  "jp": "おえっ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2582_00928",
+  "kind": "line",
+  "jp": "おい　∴",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2582_0093c",
+  "kind": "line",
+  "jp": "あいつに　言っとけ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2582_0095c",
+  "kind": "line",
+  "jp": "バトローリングもいいけど",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2582_00980",
+  "kind": "line",
+  "jp": "りょうりのケイコも　しておけとな！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2582_009d0",
+  "kind": "line",
+  "jp": "ったく……　うえっ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2582_009f0",
+  "kind": "line",
+  "jp": "なにをやったら　こんな味に……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2582_00a70",
+  "kind": "line",
+  "jp": "ふん！　もんくがあるなら",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2582_00a94",
+  "kind": "line",
+  "jp": "食べなきゃいいじゃない……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2582_00acc",
+  "kind": "line",
+  "jp": "なに　わらってんのよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2582_00aec",
+  "kind": "line",
+  "jp": "あんたは　ケイコでもしてなさい！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

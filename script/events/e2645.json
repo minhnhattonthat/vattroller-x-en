@@ -1,0 +1,272 @@
+[
+ {
+  "id": "e2645_000d4",
+  "kind": "line",
+  "jp": "毎日ゴロゴロ　ダラダラしてたのに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2645_00100",
+  "kind": "line",
+  "jp": "ぜんぜん強くならないんだ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2645_00128",
+  "kind": "line",
+  "jp": "なんで？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2645_00170",
+  "kind": "line",
+  "jp": "パパァ～　本当にゴロゴロしてたら",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2645_0019c",
+  "kind": "line",
+  "jp": "バトローリング　強くなれるの？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2645_001f8",
+  "kind": "line",
+  "jp": "バトローリングに強くなるためには",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2645_00224",
+  "kind": "line",
+  "jp": "ゴロゴロするのがたいせつなんだって！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2645_00254",
+  "kind": "line",
+  "jp": "だからボク　毎日ず～っと",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2645_00278",
+  "kind": "line",
+  "jp": "ゴロゴロ　ダラダラしてるの！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2645_002e0",
+  "kind": "line",
+  "jp": "息子よ！　もっとゴロゴロせねば",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2645_00308",
+  "kind": "line",
+  "jp": "強くはなれないぞ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2645_00324",
+  "kind": "line",
+  "jp": "そう　父のように！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2645_00340",
+  "kind": "line",
+  "jp": "……あ～　かったるー　ゴロゴロ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2645_0039c",
+  "kind": "line",
+  "jp": "おお　息子よ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2645_003b4",
+  "kind": "line",
+  "jp": "父の言葉をうたがうとはなさけない！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2645_00414",
+  "kind": "line",
+  "jp": "息子よ！　バトローリングに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2645_00438",
+  "kind": "line",
+  "jp": "強くなりたければゴロゴロするのだ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2645_00464",
+  "kind": "line",
+  "jp": "そう　父のように！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2645_00480",
+  "kind": "line",
+  "jp": "……あ～　だる～　ゴロゴロ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2645_00500",
+  "kind": "line",
+  "jp": "テレビをつけてみた",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2645_0051c",
+  "kind": "line",
+  "jp": "バトリーグちゅうけいが　はじまった",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2645_00590",
+  "kind": "line",
+  "jp": "きれいな　タンスだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2645_00608",
+  "kind": "line",
+  "jp": "テレビをつけてみた",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2645_00624",
+  "kind": "line",
+  "jp": "バトリーグちゅうけいが　はじまった",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2645_00698",
+  "kind": "line",
+  "jp": "きれいな　タンスだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2645_006f4",
+  "kind": "line",
+  "jp": "きれいな　タンスだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2645_00750",
+  "kind": "line",
+  "jp": "きれいな　タンスだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 13,
+  "notes": ""
+ }
+]

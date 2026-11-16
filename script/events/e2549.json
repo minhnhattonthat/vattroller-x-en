@@ -1,0 +1,252 @@
+[
+ {
+  "id": "e2549_0008c",
+  "kind": "line",
+  "jp": "あれ？　こんなとこで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2549_000ac",
+  "kind": "line",
+  "jp": "なにやってんのよ　あんた",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2549_000ec",
+  "kind": "line",
+  "jp": "これから体育館で　マルス",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2549_00110",
+  "kind": "line",
+  "jp": "おめでとうパーティーをやるってのにさ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2549_00140",
+  "kind": "line",
+  "jp": "むこうじゃみんなもりあがってんのに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2549_0016c",
+  "kind": "line",
+  "jp": "……ここは　ウソみたいにしずかだね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2549_001cc",
+  "kind": "line",
+  "jp": "そういえば　さいしょはあたしたち",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2549_001f8",
+  "kind": "line",
+  "jp": "２人だけだったよね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2549_00214",
+  "kind": "line",
+  "jp": "部には　あたししかいなくって　",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2549_0023c",
+  "kind": "line",
+  "jp": "あんたは　バトローリングはじめての",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2549_00268",
+  "kind": "line",
+  "jp": "シロウトで……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2549_00280",
+  "kind": "line",
+  "jp": "……そういえば　あんたはなんで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2549_002a8",
+  "kind": "line",
+  "jp": "はじめたんだっけ　バトローリング？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2549_00300",
+  "kind": "line",
+  "jp": "前にいた　真丸中のせいとの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2549_00324",
+  "kind": "line",
+  "jp": "バトローリングを見て……だったっけ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2549_00350",
+  "kind": "line",
+  "jp": "あんな風に戦いたい　とか",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2549_00374",
+  "kind": "line",
+  "jp": "言ってたけど……今はどう？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2549_00398",
+  "kind": "line",
+  "jp": "マルスになったし",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2549_003b4",
+  "kind": "line",
+  "jp": "もうあのもくてきは　はたしちゃった？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2549_00400",
+  "kind": "line",
+  "jp": "もうバトローリングには",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2549_00420",
+  "kind": "line",
+  "jp": "満足しちゃったかな……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2549_00474",
+  "kind": "line",
+  "jp": "そうだよね　∴は",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2549_00490",
+  "kind": "line",
+  "jp": "まだまだ　ずっとバトローラーだよね！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2549_004c0",
+  "kind": "line",
+  "jp": "さあ　これからもがんばって行こ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2549_004ec",
+  "kind": "line",
+  "jp": "バトローラー　∴！！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

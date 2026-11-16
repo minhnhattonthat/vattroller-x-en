@@ -1,0 +1,680 @@
+[
+ {
+  "id": "e2496_000dc.0",
+  "kind": "title",
+  "jp": "バトローラージン",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2496_000dc.1",
+  "kind": "title",
+  "jp": "アレーナ編　第２話",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2496_00118",
+  "kind": "line",
+  "jp": "なぁ　コロナちゃん",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2496_00134",
+  "kind": "line",
+  "jp": "あと何回勝てば　シュウとあたる？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2496_0016c",
+  "kind": "line",
+  "jp": "え？　えーと　あと３回勝ち進めば",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2496_00198",
+  "kind": "line",
+  "jp": "シュウくんだけど……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2496_001b8",
+  "kind": "line",
+  "jp": "でもジンくん　それよりこの試合に",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2496_001e4",
+  "kind": "line",
+  "jp": "集中しないと∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2496_001fc",
+  "kind": "line",
+  "jp": "今度の相手",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2496_00210",
+  "kind": "line",
+  "jp": "さっき戦った人より強いよ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2496_00240",
+  "kind": "line",
+  "jp": "わかってるよ　コロナちゃん",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2496_00264",
+  "kind": "line",
+  "jp": "だいじょうぶさ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2496_002b0",
+  "kind": "line",
+  "jp": "オレ　ぜったいに勝つ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2496_002d0",
+  "kind": "line",
+  "jp": "シュウにあたるまでは　負けられない∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2496_0037c",
+  "kind": "line",
+  "jp": "ほら　心配しなくても",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2496_0039c",
+  "kind": "line",
+  "jp": "ちゃんと勝っただろ？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2496_003c8",
+  "kind": "line",
+  "jp": "そういえば　シュウはどうなってる？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2496_003f4",
+  "kind": "line",
+  "jp": "ちゃんと勝ってる？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2496_0041c",
+  "kind": "line",
+  "jp": "シュウくん？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2496_00434",
+  "kind": "line",
+  "jp": "うん　勝ち進んでるわよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2496_00454",
+  "kind": "line",
+  "jp": "あとリョウくんと……さっき会った",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2496_00480",
+  "kind": "line",
+  "jp": "トータくんも１回戦勝ったみたい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2496_004b4",
+  "kind": "line",
+  "jp": "へー　トータ勝ってるんだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2496_004d8",
+  "kind": "line",
+  "jp": "強そうには見えなかったけどな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2496_0050c",
+  "kind": "line",
+  "jp": "あ　トータくん",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2496_00524",
+  "kind": "line",
+  "jp": "いまちょうど向こうで試合中みたいよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2496_0055c",
+  "kind": "line",
+  "jp": "ほんと≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2496_00570",
+  "kind": "line",
+  "jp": "じゃあオレ　ちょっと見てくる∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2496_005c8",
+  "kind": "line",
+  "jp": "あっ　ちょっと　ジンくん？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2496_006d0",
+  "kind": "line",
+  "jp": "シュウ∇　おまえも来てたんだ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2496_00704",
+  "kind": "line",
+  "jp": "強いせんしゅの戦いを見るのは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2496_0072c",
+  "kind": "line",
+  "jp": "とうぜんのことだろう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2496_00760",
+  "kind": "line",
+  "jp": "トータって……強いのか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2496_007c0",
+  "kind": "line",
+  "jp": "……ああっ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2496_00830",
+  "kind": "line",
+  "jp": "トータせんしゅ　１回戦につづき",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2496_00858",
+  "kind": "line",
+  "jp": "はるかに大きな相手に　みごとな勝利∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2496_008b8",
+  "kind": "line",
+  "jp": "あっ　ジンくん∇　……それに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2496_008e0",
+  "kind": "line",
+  "jp": "このエリアナンバー１のシュウさんも∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2496_0091c",
+  "kind": "line",
+  "jp": "すごいな　トータ∇　あんなに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2496_00944",
+  "kind": "line",
+  "jp": "いろんなこうげきができるなんて……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2496_00970",
+  "kind": "line",
+  "jp": "アーム３つを組み合わせると",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2496_00994",
+  "kind": "line",
+  "jp": "ああいう風に戦えるんだな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2496_009c4",
+  "kind": "line",
+  "jp": "……１回戦とは全くちがうアームを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2496_009f0",
+  "kind": "line",
+  "jp": "セットしていたようだな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2496_00a24",
+  "kind": "line",
+  "jp": "えっ≡　そうなの？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2496_00a4c",
+  "kind": "line",
+  "jp": "相手にあわせてアームセットを組むのが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2496_00a7c",
+  "kind": "line",
+  "jp": "オイラの戦いかたですから",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2496_00aa0",
+  "kind": "line",
+  "jp": "せがひくくて　力もないオイラでも",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2496_00acc",
+  "kind": "line",
+  "jp": "こうやって頭を使えば勝てるです∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2496_00af8",
+  "kind": "line",
+  "jp": "オイラのマスターが教えてくれた",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2496_00b20",
+  "kind": "line",
+  "jp": "このやりかたは　かんぺきです∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2496_00b54",
+  "kind": "line",
+  "jp": "アームセットをくふうしてのバトル……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2496_00b84",
+  "kind": "line",
+  "jp": "こんな戦いかたも　あったなんて",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2496_00bac",
+  "kind": "line",
+  "jp": "すごいな∇　バトローリングって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2496_00bd4",
+  "kind": "line",
+  "jp": "やっぱりすごい∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2496_00bf0",
+  "kind": "line",
+  "jp": "トータ　おまえとバトルするのが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2496_00c18",
+  "kind": "line",
+  "jp": "楽しみだぜ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2496_00c3c",
+  "kind": "line",
+  "jp": "その時はオイラが勝たせてもらいますよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2496_00c6c",
+  "kind": "line",
+  "jp": "ジンくん用アームセットも考えてあるし",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2496_00c9c",
+  "kind": "line",
+  "jp": "オイラはゼッタイにグランディウスを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2496_00cc8",
+  "kind": "line",
+  "jp": "手に入れて　もっと強くなるです",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2496_00cf0",
+  "kind": "line",
+  "jp": "どうしてもたおしたい相手がいるから",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2496_00d1c",
+  "kind": "line",
+  "jp": "そのために……負けられないです∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2496_00de4",
+  "kind": "line",
+  "jp": "……そうか",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2496_00e2c",
+  "kind": "line",
+  "jp": "ライバルはシュウやリョウだけじゃ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2496_00e58",
+  "kind": "line",
+  "jp": "ないんだな　さすがはアレーナだぜ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2496_00e84",
+  "kind": "line",
+  "jp": "でも　オレだって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2496_00ea0",
+  "kind": "line",
+  "jp": "ぜったいに負けないからな∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

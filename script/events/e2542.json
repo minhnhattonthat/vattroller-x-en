@@ -1,0 +1,142 @@
+[
+ {
+  "id": "e2542_000a8",
+  "kind": "line",
+  "jp": "もはや　にげられないのである！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2542_000d0",
+  "kind": "line",
+  "jp": "かんねんしてもらうぞ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2542_000f0",
+  "kind": "line",
+  "jp": "大事なバトルがちかいのに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2542_00114",
+  "kind": "line",
+  "jp": "くやしいであろう　だがな……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2542_0015c",
+  "kind": "line",
+  "jp": "ここで負けるおまえは　さいしょから",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2542_00188",
+  "kind": "line",
+  "jp": "しかくがないということなのである！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2542_001b4",
+  "kind": "line",
+  "jp": "うらむのなら　力のない",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2542_001d4",
+  "kind": "line",
+  "jp": "自分をうらむのである！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2542_002b0",
+  "kind": "line",
+  "jp": "くっ！　思ったより強いであるな……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2542_002dc",
+  "kind": "line",
+  "jp": "∴",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2542_00310",
+  "kind": "line",
+  "jp": "……まぁいい　もくてきの大半は",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2542_00338",
+  "kind": "line",
+  "jp": "どうやらはたせたようであるからな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2542_00430",
+  "kind": "line",
+  "jp": "ここだったのね　∴",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2542_0044c",
+  "kind": "line",
+  "jp": "あいつら……いったい　何者……？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

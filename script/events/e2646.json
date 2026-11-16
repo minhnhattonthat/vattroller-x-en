@@ -1,0 +1,202 @@
+[
+ {
+  "id": "e2646_000d4",
+  "kind": "line",
+  "jp": "バトローリングの本が",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2646_000f4",
+  "kind": "line",
+  "jp": "たくさんならんでいる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2646_00154",
+  "kind": "line",
+  "jp": "バトリーグに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2646_0016c",
+  "kind": "line",
+  "jp": "出るんだってね　すごいや！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2646_00190",
+  "kind": "line",
+  "jp": "ぼくも勝飛中学にはいったら",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2646_001b4",
+  "kind": "line",
+  "jp": "ＶＲ部にはいることにするよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2646_00210",
+  "kind": "line",
+  "jp": "中学生になってもジムにかようんだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2646_0023c",
+  "kind": "line",
+  "jp": "え？　ＶＲ部？　う～んどうしよう？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2646_00268",
+  "kind": "line",
+  "jp": "強くなるなら　プレミアムジムだって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2646_00294",
+  "kind": "line",
+  "jp": "パパもいってたよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2646_002e4",
+  "kind": "line",
+  "jp": "ぼく　プレミアムジムにかよってるんだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2646_00314",
+  "kind": "line",
+  "jp": "え？　学校のＶＲ部にはいってるの？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2646_00340",
+  "kind": "line",
+  "jp": "そんなんで　強くなれるのかなぁ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2646_003c8",
+  "kind": "line",
+  "jp": "テレビをつけてみた",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2646_003e4",
+  "kind": "line",
+  "jp": "バトリーグのちゅうけいが　うつってる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2646_00478",
+  "kind": "line",
+  "jp": "テレビをつけてみた",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2646_00494",
+  "kind": "line",
+  "jp": "バトリーグのちゅうけいが　うつってる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2646_0050c",
+  "kind": "line",
+  "jp": "きれいな　タンスだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2646_00568",
+  "kind": "line",
+  "jp": "きれいな　タンスだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2646_005c4",
+  "kind": "line",
+  "jp": "きれいな　タンスだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ }
+]

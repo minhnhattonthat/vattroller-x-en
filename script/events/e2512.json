@@ -1,0 +1,642 @@
+[
+ {
+  "id": "e2512_000a8",
+  "kind": "line",
+  "jp": "オレたちロンダリンダを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2512_000c8",
+  "kind": "line",
+  "jp": "よびだしたのは　おまえだな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2512_000ec",
+  "kind": "line",
+  "jp": "たがいにレアアームをかけて",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2512_00110",
+  "kind": "line",
+  "jp": "バトルしたいってのは本当か？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2512_00144",
+  "kind": "line",
+  "jp": "そうです∇　オイラに勝てたら",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2512_0016c",
+  "kind": "line",
+  "jp": "オイラのレアアームをあげます",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2512_00194",
+  "kind": "line",
+  "jp": "そのかわり　そっちにはムゲンどうから",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2512_001c4",
+  "kind": "line",
+  "jp": "ぬすんだアームをかけてもらいます∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2512_001fc",
+  "kind": "line",
+  "jp": "レアアームのコレクターとして有名な",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2512_00228",
+  "kind": "line",
+  "jp": "おまえなら　相手としてふそくはないな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2512_00258",
+  "kind": "line",
+  "jp": "いいだろう　その勝負　受けるぜ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2512_00284",
+  "kind": "line",
+  "jp": "まずこっちはインテンションをかける∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2512_002e8",
+  "kind": "line",
+  "jp": "トータのあとをつけてみたら……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2512_00310",
+  "kind": "line",
+  "jp": "レアアームをかけて勝負だなんて……∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2512_00340",
+  "kind": "line",
+  "jp": "あんなおおぜい相手にムチャだよ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2512_0036c",
+  "kind": "line",
+  "jp": "どうするんだ……？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2512_003d8",
+  "kind": "line",
+  "jp": "くそっ　次はオレが相手だ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2512_00428",
+  "kind": "line",
+  "jp": "負けないですよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2512_00494",
+  "kind": "line",
+  "jp": "なんてヤツだ……オレたち相手に",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2512_004bc",
+  "kind": "line",
+  "jp": "全て勝つとは∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2512_004e0",
+  "kind": "line",
+  "jp": "……す　すごい∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2512_004fc",
+  "kind": "line",
+  "jp": "店のレアアームほとんどとりかえした∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2512_0052c",
+  "kind": "line",
+  "jp": "でも……まだドグレリックだけ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2512_00554",
+  "kind": "line",
+  "jp": "とりかえせてないよ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2512_00590",
+  "kind": "line",
+  "jp": "さいごはオレと勝負だ　トータ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2512_005b8",
+  "kind": "line",
+  "jp": "アームはグランディウスを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2512_005dc",
+  "kind": "line",
+  "jp": "かけさせてもらうぜ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2512_0060c",
+  "kind": "line",
+  "jp": "≡　ドグレリックじゃない？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2512_00630",
+  "kind": "line",
+  "jp": "なんてきたないヤツだ∇　いちばんの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2512_0065c",
+  "kind": "line",
+  "jp": "レアアームだから　かえさない気だな？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2512_00698",
+  "kind": "line",
+  "jp": "それじゃダメです",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2512_006b4",
+  "kind": "line",
+  "jp": "ドグレリックをかけてもらいます",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2512_006e8",
+  "kind": "line",
+  "jp": "ドグレリックだと≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2512_00704",
+  "kind": "line",
+  "jp": "なに考えてんだ？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2512_00720",
+  "kind": "line",
+  "jp": "たしかにあそこでぬすんだアームだが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2512_0074c",
+  "kind": "line",
+  "jp": "あんなゴミアームがほしいのか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2512_00780",
+  "kind": "line",
+  "jp": "……ええっ≡　あいつ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2512_007a0",
+  "kind": "line",
+  "jp": "なに言ってんだ？　ドグレリックがゴミ？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2512_007dc",
+  "kind": "line",
+  "jp": "ドグレリックなんて　どこにでもある",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2512_00808",
+  "kind": "line",
+  "jp": "大昔のアームだろ　１円にもならねぇぜ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2512_00838",
+  "kind": "line",
+  "jp": "おまえもアームコレクターなら",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2512_00860",
+  "kind": "line",
+  "jp": "オレのかけたヤツがレアとわかるはずだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2512_00890",
+  "kind": "line",
+  "jp": "それでもおまえは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2512_008ac",
+  "kind": "line",
+  "jp": "ドグレリックをかえせっていうのか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2512_008e4",
+  "kind": "line",
+  "jp": "そのドグレリックは　カナタさんが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2512_00910",
+  "kind": "line",
+  "jp": "バトローラーだった時に使ってたもの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2512_0093c",
+  "kind": "line",
+  "jp": "何度も修理して使いつづけた",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2512_00960",
+  "kind": "line",
+  "jp": "思い出のアームです∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2512_00980",
+  "kind": "line",
+  "jp": "カナタさんには　これいじょうない",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2512_009ac",
+  "kind": "line",
+  "jp": "大切なレアアームなんです∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2512_009dc",
+  "kind": "line",
+  "jp": "……∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2512_009f8",
+  "kind": "line",
+  "jp": "くだらねぇな∇　レアってのは強くて",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2512_00a24",
+  "kind": "line",
+  "jp": "じまんできて　高く売れるもんだ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2512_00a50",
+  "kind": "line",
+  "jp": "ドグレリックはかけてやる∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2512_00a74",
+  "kind": "line",
+  "jp": "だが　勝つのはオレだぜ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2512_00af0",
+  "kind": "line",
+  "jp": "ほーい　これでドグレリックも",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2512_00b18",
+  "kind": "line",
+  "jp": "いただきーっ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2512_00b30",
+  "kind": "line",
+  "jp": "それじゃ　オイラはこれで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2512_00b54",
+  "kind": "line",
+  "jp": "帰るですよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2512_00ba8",
+  "kind": "line",
+  "jp": "あいつの強さはレアがあるからじゃなく",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2512_00bd8",
+  "kind": "line",
+  "jp": "アームへのあいじょうの強さなのか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2512_00c04",
+  "kind": "line",
+  "jp": "なら　ただコレクションのために",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2512_00c2c",
+  "kind": "line",
+  "jp": "ぬすむオレは……くそっ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2512_00c5c",
+  "kind": "line",
+  "jp": "…………",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

@@ -1,0 +1,242 @@
+[
+ {
+  "id": "e2693_000d4",
+  "kind": "line",
+  "jp": "ねぇねぇ　ＶＲ部って",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2693_000f4",
+  "kind": "line",
+  "jp": "まだ入らせてもらえるのかなぁ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2693_00120",
+  "kind": "line",
+  "jp": "キミたちといっしょに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2693_00140",
+  "kind": "line",
+  "jp": "バトローリングをやってみたいの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2693_0019c",
+  "kind": "line",
+  "jp": "バトローリング？　もしやるなら",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2693_001c4",
+  "kind": "line",
+  "jp": "部活よりジムに入りたいなぁ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2693_00220",
+  "kind": "line",
+  "jp": "バトローリング？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2693_0023c",
+  "kind": "line",
+  "jp": "まあ　ちょっとはきょうみあるけど……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2693_002ac",
+  "kind": "line",
+  "jp": "やっぱりやる気とどりょくだよな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2693_002d4",
+  "kind": "line",
+  "jp": "バトローリングは！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2693_00324",
+  "kind": "line",
+  "jp": "バトローリングって　学校の部活でも",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2693_00350",
+  "kind": "line",
+  "jp": "強くなれるんだなぁ　びっくりだよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2693_003b0",
+  "kind": "line",
+  "jp": "ホクトやミナミがいってたとおりさ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2693_003dc",
+  "kind": "line",
+  "jp": "バトローリングなら　ジムにきまりだな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2693_00474",
+  "kind": "line",
+  "jp": "コマチちゃんのいうとおり",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2693_00498",
+  "kind": "line",
+  "jp": "バトローリングは　楽しくなくっちゃ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2693_004fc",
+  "kind": "line",
+  "jp": "いまのタクミさんやイカヅチくんって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2693_00528",
+  "kind": "line",
+  "jp": "ホントに楽しそうで　よかったわ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2693_00584",
+  "kind": "line",
+  "jp": "タクミさんやイカヅチくんって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2693_005ac",
+  "kind": "line",
+  "jp": "どうしてジムをやめたのかしら……？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2693_00618",
+  "kind": "line",
+  "jp": "そうじ用具が入っている",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2693_00678",
+  "kind": "line",
+  "jp": "じょうほうたんまつだ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2693_00698",
+  "kind": "line",
+  "jp": "天気よほうがひょうじされている",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2693_00700",
+  "kind": "line",
+  "jp": "じしょがたくさんならんでいる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 14,
+  "notes": ""
+ }
+]

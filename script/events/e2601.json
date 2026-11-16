@@ -1,0 +1,460 @@
+[
+ {
+  "id": "e2601_000bc",
+  "kind": "line",
+  "jp": "なによ　あんたもシュウさまに会いに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2601_000e8",
+  "kind": "line",
+  "jp": "こんなとこまで　来ちゃったわけ？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2601_00114",
+  "kind": "line",
+  "jp": "まあいいわ　かわいい部員のために",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2601_00140",
+  "kind": "line",
+  "jp": "あたしが　サインをもらってきてあげる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2601_0017c.0",
+  "kind": "choice",
+  "jp": "いらない",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2601_0017c.1",
+  "kind": "choice",
+  "jp": "よろしく",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2601_001bc",
+  "kind": "line",
+  "jp": "エンリョするんじゃないわよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2601_001e4",
+  "kind": "line",
+  "jp": "もらってくるったら　もらってくるの！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2601_00220",
+  "kind": "line",
+  "jp": "しょ……　しょうがないわね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2601_00244",
+  "kind": "line",
+  "jp": "たのまれたら　イヤとはいえないわ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2601_002ec",
+  "kind": "line",
+  "jp": "シュ……　シュウさま～",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2601_0030c",
+  "kind": "line",
+  "jp": "あたしにサインを……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2601_00384",
+  "kind": "line",
+  "jp": "キャッ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2601_003c0",
+  "kind": "line",
+  "jp": "シュウさんに　気やすく",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2601_003e0",
+  "kind": "line",
+  "jp": "近づくんじゃねえ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2601_00408",
+  "kind": "line",
+  "jp": "なによ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2601_0041c",
+  "kind": "line",
+  "jp": "あんたなんかに用はないっての",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2601_00464",
+  "kind": "line",
+  "jp": "∴",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2601_00470",
+  "kind": "line",
+  "jp": "あいつを　ふっとばしちゃえ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2601_004ac",
+  "kind": "line",
+  "jp": "面白いじゃねえか",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2601_004c8",
+  "kind": "line",
+  "jp": "できるもんなら　やってもらおうか∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2601_00574",
+  "kind": "line",
+  "jp": "い……今のは　ゆだんしただけだ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2601_005a0",
+  "kind": "line",
+  "jp": "次は……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2601_0061c",
+  "kind": "line",
+  "jp": "サインだったね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2601_00634",
+  "kind": "line",
+  "jp": "この色紙に書けばいいのかい？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2601_00668",
+  "kind": "line",
+  "jp": "は……はい！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2601_00680",
+  "kind": "line",
+  "jp": "コマチちゃんへ……って書いてください",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2601_006bc",
+  "kind": "line",
+  "jp": "ケッ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2601_00724",
+  "kind": "line",
+  "jp": "はい　これ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2601_00738",
+  "kind": "line",
+  "jp": "じゃあ　オレは練習があるから",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2601_0076c",
+  "kind": "line",
+  "jp": "ありがとうございました！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2601_0079c",
+  "kind": "line",
+  "jp": "キミとはなんどか会ってるね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2601_007c0",
+  "kind": "line",
+  "jp": "キミ……　なまえは？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2601_007ec",
+  "kind": "line",
+  "jp": "ハイ！　コマチです！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2601_00818",
+  "kind": "line",
+  "jp": "いや　となりのキミだよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2601_00854",
+  "kind": "line",
+  "jp": "ああ　こいつは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2601_0086c",
+  "kind": "line",
+  "jp": "∴です",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2601_0087c",
+  "kind": "line",
+  "jp": "ほら　あんたも",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2601_00894",
+  "kind": "line",
+  "jp": "ごあいさつしなさいよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2601_008c8",
+  "kind": "line",
+  "jp": "∴か",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2601_008d8",
+  "kind": "line",
+  "jp": "おぼえておこう……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2601_00910",
+  "kind": "line",
+  "jp": "テメー　さいのうねえよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2601_00930",
+  "kind": "line",
+  "jp": "さっさと　やめたほうが身のためだぜ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2601_009d8",
+  "kind": "line",
+  "jp": "ちょっと　なにやってるのよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2601_00a00",
+  "kind": "line",
+  "jp": "シュウさまの前で",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2601_00a1c",
+  "kind": "line",
+  "jp": "あたしに　はじをかかせないでよね！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

@@ -1,0 +1,540 @@
+[
+ {
+  "id": "e2661_0008c",
+  "kind": "line",
+  "jp": "なんだよー　じゃましないでくれよー",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 1,
+  "notes": ""
+ },
+ {
+  "id": "e2661_000ec",
+  "kind": "line",
+  "jp": "なんだよー　じゃましないでくれよー",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2661_00118",
+  "kind": "line",
+  "jp": "これやるから　あっちいって！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2661_0014c",
+  "kind": "line",
+  "jp": "Ｖメダルをもらった！！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2661_001d8",
+  "kind": "line",
+  "jp": "あん？　スイカなら食っちまったぜ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2661_00204",
+  "kind": "line",
+  "jp": "ごちそーさまでしたっと！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2661_0025c",
+  "kind": "line",
+  "jp": "たまんねー　ノドがかわいてたまんねー",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2661_0028c",
+  "kind": "line",
+  "jp": "おっ≡　おまえスイカもってんじゃん！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2661_002bc",
+  "kind": "line",
+  "jp": "スゲーほしい！　オレ　スゲーほしい！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2661_002ec",
+  "kind": "line",
+  "jp": "とっかえろ！　いいからとっかえろよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2661_0031c",
+  "kind": "line",
+  "jp": "ここのタワーのパンフレットとよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2661_00354",
+  "kind": "line",
+  "jp": "『タワーのパンフレット』をてにいれた",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2661_003c4",
+  "kind": "line",
+  "jp": "オレってさ　こうみえても",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2661_003e8",
+  "kind": "line",
+  "jp": "ビックな男なわけよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2661_00404",
+  "kind": "line",
+  "jp": "だから　おまえがビックなヤツだって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2661_00430",
+  "kind": "line",
+  "jp": "わかるわけよ　なかまってかんじ？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2661_00490",
+  "kind": "line",
+  "jp": "オレってさ　ビックだから",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2661_004b4",
+  "kind": "line",
+  "jp": "高いところがチョー好きなわけよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2661_004dc",
+  "kind": "line",
+  "jp": "なんつうの？　こう下々のものを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2661_00504",
+  "kind": "line",
+  "jp": "見まもってやってるってかんじ？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2661_0052c",
+  "kind": "line",
+  "jp": "ところでよ　あんたバトローラーだろ？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2661_0055c",
+  "kind": "line",
+  "jp": "チョービッグなオレが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2661_0057c",
+  "kind": "line",
+  "jp": "練習相手に　なってやってもいいぜ？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2661_005b4.0",
+  "kind": "choice",
+  "jp": "おねがいします",
+  "en": "",
+  "status": "new",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2661_005b4.1",
+  "kind": "choice",
+  "jp": "いまは　いいです",
+  "en": "",
+  "status": "new",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2661_00600",
+  "kind": "line",
+  "jp": "ビッグすぎて　びっくりすんなよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2661_0066c",
+  "kind": "line",
+  "jp": "お！　なかなか　やるじゃん！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2661_00694",
+  "kind": "line",
+  "jp": "まっ　オレってビッグだから　",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2661_006bc",
+  "kind": "line",
+  "jp": "なんつうの？　てかげんしたってわけよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2661_006f8",
+  "kind": "line",
+  "jp": "ビッグなオレに負けたからって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2661_00720",
+  "kind": "line",
+  "jp": "落ちこむんじゃねーよ　なんつうの？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2661_0074c",
+  "kind": "line",
+  "jp": "とうぜんの事ってかんじだからよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2661_00784",
+  "kind": "line",
+  "jp": "えんりょは　もったいないってかんじだぜ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2661_007b4",
+  "kind": "line",
+  "jp": "まっ　いいけどよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2661_00810",
+  "kind": "line",
+  "jp": "マーブルスタジアムでの試合を",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2661_00838",
+  "kind": "line",
+  "jp": "のぞこうと思ってるんだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2661_00858",
+  "kind": "line",
+  "jp": "でも　もうちょっとのところで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2661_00880",
+  "kind": "line",
+  "jp": "見られない　う～ん　ザンネン！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2661_008dc",
+  "kind": "line",
+  "jp": "見えるかな？　見えるかな？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2661_00900",
+  "kind": "line",
+  "jp": "えっ？　なにを見ているのかって？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2661_0092c",
+  "kind": "line",
+  "jp": "マーブルスタジアムでの試合が",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2661_00954",
+  "kind": "line",
+  "jp": "ここから見られないかと思ってさ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2661_009bc",
+  "kind": "line",
+  "jp": "わたし　さびしくなったら",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2661_009e0",
+  "kind": "line",
+  "jp": "ここにきて　海を見つめるの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2661_00a04",
+  "kind": "line",
+  "jp": "そして　元気になったら",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2661_00a24",
+  "kind": "line",
+  "jp": "マーブルスタジアムで試合を見るのよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2661_00a90",
+  "kind": "line",
+  "jp": "とおくまでよくみえる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2661_00af0",
+  "kind": "line",
+  "jp": "とおくまでよくみえる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2661_00b50",
+  "kind": "line",
+  "jp": "こわれてみえない",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2661_00bac",
+  "kind": "line",
+  "jp": "ここからグローブタウンが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2661_00bd0",
+  "kind": "line",
+  "jp": "よくみえる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2661_00c24",
+  "kind": "line",
+  "jp": "海がひろがっている",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2661_00c40",
+  "kind": "line",
+  "jp": "水平線のむこうは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2661_00c5c",
+  "kind": "line",
+  "jp": "なにがひろがっているのだろう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 14,
+  "notes": ""
+ }
+]

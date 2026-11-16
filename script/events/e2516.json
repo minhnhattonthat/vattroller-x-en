@@ -1,0 +1,542 @@
+[
+ {
+  "id": "e2516_00298",
+  "kind": "line",
+  "jp": "そうか　マールのゆうかいは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2516_002bc",
+  "kind": "line",
+  "jp": "失敗におわったか",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2516_002e4",
+  "kind": "line",
+  "jp": "もうしわけありません",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2516_00304",
+  "kind": "line",
+  "jp": "ですが　ねずみが４ひき",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2516_00324",
+  "kind": "line",
+  "jp": "こちらに　むかっているようで……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2516_00364",
+  "kind": "line",
+  "jp": "それは面白い",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2516_0037c",
+  "kind": "line",
+  "jp": "ガキのさつりくショーもまた",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2516_003a0",
+  "kind": "line",
+  "jp": "いっそう観客はもりあがる事だろう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2516_0046c",
+  "kind": "line",
+  "jp": "われら　しきょうせいが　おあいてするぞ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2516_0049c",
+  "kind": "line",
+  "jp": "ハッハッハッハッ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2516_00694",
+  "kind": "line",
+  "jp": "ここが　デスロールコロシアムか",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2516_006c8",
+  "kind": "line",
+  "jp": "なんだか　うすきみわるいですね～",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2516_00700",
+  "kind": "line",
+  "jp": "へっ　ちっとも　こわくなんか　ねぇぞ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2516_0073c",
+  "kind": "line",
+  "jp": "……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2516_00794",
+  "kind": "line",
+  "jp": "ぐぅひひひひ　よく　きたな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2516_007b8",
+  "kind": "line",
+  "jp": "オレに切りきざまれてぇのは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2516_007dc",
+  "kind": "line",
+  "jp": "どのガキだ　あぁ？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2516_007f8",
+  "kind": "line",
+  "jp": "そこのチビ　おまえなんかどうだ？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2516_00824",
+  "kind": "line",
+  "jp": "ぐぅひひひひ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2516_00848",
+  "kind": "line",
+  "jp": "う…………",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2516_00888",
+  "kind": "line",
+  "jp": "なにビビッてんだよ　しょうがねーな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2516_008b4",
+  "kind": "line",
+  "jp": "このドチビは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2516_008d8",
+  "kind": "line",
+  "jp": "ビ　ビビッてなんか………",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2516_00918",
+  "kind": "line",
+  "jp": "こわいもの知らずが　オレのとりえさ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2516_00944",
+  "kind": "line",
+  "jp": "先に行かせてもらうぜ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2516_00964",
+  "kind": "line",
+  "jp": "さあ　かかってきな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2516_0098c",
+  "kind": "line",
+  "jp": "おまえの　その目……　オレににてるな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2516_009bc",
+  "kind": "line",
+  "jp": "デスローラーになったほうがいいぜ？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2516_009f4",
+  "kind": "line",
+  "jp": "……なんだと？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2516_00a18",
+  "kind": "line",
+  "jp": "もてあましてるんだろ　その力を？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2516_00a44",
+  "kind": "line",
+  "jp": "いいぜぇ　デスロールは……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2516_00a68",
+  "kind": "line",
+  "jp": "おもいっきり　あばれられる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2516_00a8c",
+  "kind": "line",
+  "jp": "弱いヤツをいたぶるのは楽しいだろう？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2516_00abc",
+  "kind": "line",
+  "jp": "オレも　それでデスローラーになったんだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2516_00af8",
+  "kind": "line",
+  "jp": "へっ　てめーとオレがにてる……か",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2516_00b24",
+  "kind": "line",
+  "jp": "ふざけんじゃねぇ∇　弱い者イジメの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2516_00b50",
+  "kind": "line",
+  "jp": "てめーが　オレとにてる？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2516_00b74",
+  "kind": "line",
+  "jp": "バトローリングは　強いヤツと",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2516_00b9c",
+  "kind": "line",
+  "jp": "戦うからおもしれーんじゃねえか",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2516_00bc4",
+  "kind": "line",
+  "jp": "てめーみてーな　クズ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2516_00be4",
+  "kind": "line",
+  "jp": "オレが　たたきのめしてやるぜ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2516_00c20",
+  "kind": "line",
+  "jp": "リョウ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2516_00c44",
+  "kind": "line",
+  "jp": "デスロールコロシアムは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2516_00c64",
+  "kind": "line",
+  "jp": "ドロップポジションがない",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2516_00c88",
+  "kind": "line",
+  "jp": "おまえが　バトローラーとして",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2516_00cb0",
+  "kind": "line",
+  "jp": "勝つためには",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2516_00cc8",
+  "kind": "line",
+  "jp": "まずかべを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2516_00cdc",
+  "kind": "line",
+  "jp": "はかいしなければならない",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2516_00d0c",
+  "kind": "line",
+  "jp": "わかりました　シュウさん",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2516_00d4c",
+  "kind": "line",
+  "jp": "さあ　かかってきな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2516_00dd0",
+  "kind": "line",
+  "jp": "ぐぎゃあっ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2516_00df4",
+  "kind": "line",
+  "jp": "へっ　ジンのヤツにくらべたら",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2516_00e1c",
+  "kind": "line",
+  "jp": "ぜんぜんたいしたことなかったぜ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2516_00e50",
+  "kind": "line",
+  "jp": "やったな　リョウ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ }
+]

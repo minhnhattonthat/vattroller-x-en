@@ -1,0 +1,62 @@
+[
+ {
+  "id": "e2555_0004c",
+  "kind": "line",
+  "jp": "グローブさんのところへ行くけど",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2555_00074",
+  "kind": "line",
+  "jp": "じゅんびはいい？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2555_000d4",
+  "kind": "line",
+  "jp": "まだ？　おそいわねぇ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2555_000f4",
+  "kind": "line",
+  "jp": "とっととじゅんびしてきなさいよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2555_0012c",
+  "kind": "line",
+  "jp": "じゅんびができたら",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2555_00148",
+  "kind": "line",
+  "jp": "わたしに話してね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

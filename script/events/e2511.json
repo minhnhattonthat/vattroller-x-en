@@ -1,0 +1,262 @@
+[
+ {
+  "id": "e2511_0009c",
+  "kind": "line",
+  "jp": "こんにちは～　カナタさん",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2511_000c0",
+  "kind": "line",
+  "jp": "この前話したアーム……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2511_000e0",
+  "kind": "line",
+  "jp": "あれれ？　どーしたですか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2511_00104",
+  "kind": "line",
+  "jp": "なんか元気がないみたい……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2511_0013c",
+  "kind": "line",
+  "jp": "それが……なにものかに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2511_0015c",
+  "kind": "line",
+  "jp": "店のものを　全て",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2511_00178",
+  "kind": "line",
+  "jp": "ぬすまれてしまったんだ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2511_001b0",
+  "kind": "line",
+  "jp": "きっと『ロンダリンダ』だよ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2511_001d8",
+  "kind": "line",
+  "jp": "ＶＲショップせんもんのドロボーの∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2511_00210",
+  "kind": "line",
+  "jp": "それはありうるですね　最近",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2511_00234",
+  "kind": "line",
+  "jp": "この地区に来たってデータがあります",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2511_0026c",
+  "kind": "line",
+  "jp": "レアアームコレクターの少年たちの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2511_00298",
+  "kind": "line",
+  "jp": "グループだと聞いているけど……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2511_002cc",
+  "kind": "line",
+  "jp": "はい　気に入ったレアアームいがいは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2511_002f8",
+  "kind": "line",
+  "jp": "売ってしまうらしいです",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2511_00318",
+  "kind": "line",
+  "jp": "早くしないと",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2511_00330",
+  "kind": "line",
+  "jp": "とりもどせなくなっちゃうです∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2511_00364",
+  "kind": "line",
+  "jp": "子ども相手だから　なるべくなら",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2511_0038c",
+  "kind": "line",
+  "jp": "けいさつざたにはしたくないけど……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2511_003b8",
+  "kind": "line",
+  "jp": "でも　あのドグレリックは……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2511_003f4",
+  "kind": "line",
+  "jp": "兄ちゃん……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2511_00418",
+  "kind": "line",
+  "jp": "なら　オイラが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2511_00430",
+  "kind": "line",
+  "jp": "とりかえしてやります∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2511_0045c",
+  "kind": "line",
+  "jp": "えっ≡　でも　どうやって？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2511_0048c",
+  "kind": "line",
+  "jp": "そこはオイラにまかせといて∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2511_004b4",
+  "kind": "line",
+  "jp": "じゃあっ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

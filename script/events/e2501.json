@@ -1,0 +1,240 @@
+[
+ {
+  "id": "e2501_000a0.0",
+  "kind": "title",
+  "jp": "バトローラージン",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2501_000a0.1",
+  "kind": "title",
+  "jp": "アレーナ編　第６話",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2501_000dc",
+  "kind": "line",
+  "jp": "今度は弱肉強食のバトルロイヤル",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2501_00104",
+  "kind": "line",
+  "jp": "目にもの見せてやるぜ　ジン∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2501_00148",
+  "kind": "line",
+  "jp": "しかし　ジンはともかく",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2501_00168",
+  "kind": "line",
+  "jp": "てめーみたいなドチビまでのこるとはな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2501_00198",
+  "kind": "line",
+  "jp": "ボコボコにされる前に",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2501_001b8",
+  "kind": "line",
+  "jp": "きけんしたほうがいいんじゃねぇか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2501_001f0",
+  "kind": "line",
+  "jp": "バトルロイヤルを勝ちぬくには",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2501_00218",
+  "kind": "line",
+  "jp": "頭を使わないとダメです",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2501_00238",
+  "kind": "line",
+  "jp": "いせいがいいだけでは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2501_00258",
+  "kind": "line",
+  "jp": "まっさきにやられちゃうですよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2501_0028c",
+  "kind": "line",
+  "jp": "な　なんだと　てめぇっ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2501_002e4",
+  "kind": "line",
+  "jp": "よせよ　おまえら∇　決着は",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2501_00308",
+  "kind": "line",
+  "jp": "フィールドの上でつけようぜ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2501_0035c",
+  "kind": "line",
+  "jp": "横からうるせえぞ　チビ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2501_0038c",
+  "kind": "line",
+  "jp": "いせいがいいだけではダメですよー",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2501_003b8",
+  "kind": "line",
+  "jp": "ジンくん",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2501_003e8",
+  "kind": "line",
+  "jp": "な　なんだとー",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2501_00400",
+  "kind": "line",
+  "jp": "このーっ∇（どぷんすか）",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2501_00440",
+  "kind": "line",
+  "jp": "……やれやれ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2501_00464",
+  "kind": "line",
+  "jp": "これより決勝戦をはじめます",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2501_00488",
+  "kind": "line",
+  "jp": "せんしゅはフィールドへ　ご入場ください",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2501_004cc",
+  "kind": "line",
+  "jp": "……いよいよだな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

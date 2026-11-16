@@ -1,0 +1,292 @@
+[
+ {
+  "id": "e2639_000d4",
+  "kind": "line",
+  "jp": "あっ　∴せんしゅ≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2639_000f0",
+  "kind": "line",
+  "jp": "きょうの試合にでるんですか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2639_00118",
+  "kind": "line",
+  "jp": "いっしょに戦えて",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2639_00134",
+  "kind": "line",
+  "jp": "ボク　すごくこうえいです！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2639_0018c",
+  "kind": "line",
+  "jp": "ボクは　みらいのマルス……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2639_001b0",
+  "kind": "line",
+  "jp": "きみたちには　負けないぞ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2639_00214",
+  "kind": "line",
+  "jp": "くそぅ！　水虫でさえなければ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2639_0023c",
+  "kind": "line",
+  "jp": "オレサマが最強のバトローラーなのに！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2639_0026c",
+  "kind": "line",
+  "jp": "おまえら　運がいいぜ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2639_0028c",
+  "kind": "line",
+  "jp": "オレサマと戦わずにすんだんだからな！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2639_002f0",
+  "kind": "line",
+  "jp": "くそぅ！　ねんざさえしてなければ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2639_0031c",
+  "kind": "line",
+  "jp": "オレサマが最強のバトローラーなのに！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2639_0034c",
+  "kind": "line",
+  "jp": "おまえら　運がいいぜ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2639_0036c",
+  "kind": "line",
+  "jp": "オレサマと戦わずにすんだんだからな！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2639_003d0",
+  "kind": "line",
+  "jp": "くそぅ！　つき指さえしてなければ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2639_003fc",
+  "kind": "line",
+  "jp": "オレサマが最強のバトローラーなのに！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2639_0042c",
+  "kind": "line",
+  "jp": "おまえら　運がいいぜ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2639_0044c",
+  "kind": "line",
+  "jp": "オレサマと戦わずにすんだんだからな！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2639_004bc",
+  "kind": "line",
+  "jp": "せんしゅしか　はいれないようだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2639_00524",
+  "kind": "line",
+  "jp": "ただのゴミ箱だ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2639_0057c",
+  "kind": "line",
+  "jp": "ただのゴミ箱だ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2639_005d4",
+  "kind": "line",
+  "jp": "せんしゅしか　はいれないようだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2639_0063c",
+  "kind": "line",
+  "jp": "ほう　マルスをめざすとな……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2639_00664",
+  "kind": "line",
+  "jp": "強さのいみをはきちがえるでないぞ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2639_006c4",
+  "kind": "line",
+  "jp": "ほう　顔つきがかわったの……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2639_006ec",
+  "kind": "line",
+  "jp": "フォッフォ　じぶんではわかるまいて",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2639_0074c",
+  "kind": "line",
+  "jp": "強さってなんじゃろのう？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2639_00770",
+  "kind": "line",
+  "jp": "このトシでもこたえはでんわい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2639_007d8",
+  "kind": "line",
+  "jp": "Ｖドリンクのじはんきだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 14,
+  "notes": ""
+ }
+]

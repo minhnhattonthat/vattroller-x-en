@@ -1,0 +1,680 @@
+[
+ {
+  "id": "e2632_00188",
+  "kind": "line",
+  "jp": "自分にまけないためにも　こんじょうを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2632_001b8",
+  "kind": "line",
+  "jp": "きたえるひつようがあるんよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2632_00210",
+  "kind": "line",
+  "jp": "こんじょうをさえあれば　どんな敵でも",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2632_00240",
+  "kind": "line",
+  "jp": "おそれずに　むかっていけるんよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2632_0029c",
+  "kind": "line",
+  "jp": "このジムの　練習ほうしん？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2632_002c0",
+  "kind": "line",
+  "jp": "こんじょう　こんじょう　またこんじょう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2632_002f0",
+  "kind": "line",
+  "jp": "もひとつおまけに　ドこんじょう！　",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2632_0035c",
+  "kind": "line",
+  "jp": "もうないぞ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2632_003a4",
+  "kind": "line",
+  "jp": "なんだ？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2632_003b8",
+  "kind": "line",
+  "jp": "これが　ほしいのか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2632_003d8",
+  "kind": "line",
+  "jp": "……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2632_003e8",
+  "kind": "line",
+  "jp": "ま　そんなにほしいなら　やるよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2632_0041c",
+  "kind": "line",
+  "jp": "Ｖメダルをもらった！！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2632_004a8",
+  "kind": "line",
+  "jp": "こんじょうだけやなくって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2632_004cc",
+  "kind": "line",
+  "jp": "練習もしたほうがええのかなぁ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2632_00528",
+  "kind": "line",
+  "jp": "こんじょうをきたえるために",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2632_0054c",
+  "kind": "line",
+  "jp": "ねむいのをがまんしてるんや！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2632_00574",
+  "kind": "line",
+  "jp": "ううう……　ねむいよう……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2632_00598",
+  "kind": "line",
+  "jp": "こんじょう！　こん……じょう……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2632_005f8",
+  "kind": "line",
+  "jp": "こんじょうをきたえるために",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2632_0061c",
+  "kind": "line",
+  "jp": "トイレをがまんしてるんや！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2632_00640",
+  "kind": "line",
+  "jp": "ううう……　も　もれるよぉ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2632_00664",
+  "kind": "line",
+  "jp": "うう　こんじょう！　こんじょう！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2632_006d0",
+  "kind": "line",
+  "jp": "田万里村バトローリング大会",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2632_006f4",
+  "kind": "line",
+  "jp": "うけつけです　さんかしますか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2632_00740",
+  "kind": "line",
+  "jp": "がんばってください♪",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2632_007a0",
+  "kind": "line",
+  "jp": "優勝おめでとうございます",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2632_007c4",
+  "kind": "line",
+  "jp": "しょうひんのアームです",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2632_00818",
+  "kind": "line",
+  "jp": "また　さんかしてくださいね！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2632_0084c",
+  "kind": "line",
+  "jp": "ざんねんでした",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2632_00864",
+  "kind": "line",
+  "jp": "また　さんかしてくださいね！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2632_008b0",
+  "kind": "line",
+  "jp": "また　おこしください！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2632_00904",
+  "kind": "line",
+  "jp": "田万里村バトローリング大会",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2632_00928",
+  "kind": "line",
+  "jp": "うけつけです　さんかしますか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2632_00974",
+  "kind": "line",
+  "jp": "がんばってください♪",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2632_009d4",
+  "kind": "line",
+  "jp": "優勝おめでとうございます",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2632_009f8",
+  "kind": "line",
+  "jp": "しょうひんのアームです",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2632_00a4c",
+  "kind": "line",
+  "jp": "また　さんかしてくださいね！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2632_00a80",
+  "kind": "line",
+  "jp": "ざんねんでした",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2632_00a98",
+  "kind": "line",
+  "jp": "また　さんかしてくださいね！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2632_00ad8",
+  "kind": "line",
+  "jp": "また　おこしください！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2632_00b2c",
+  "kind": "line",
+  "jp": "田万里村バトローリング大会",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2632_00b50",
+  "kind": "line",
+  "jp": "うけつけです　さんかしますか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2632_00b9c",
+  "kind": "line",
+  "jp": "がんばってください♪",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2632_00bfc",
+  "kind": "line",
+  "jp": "優勝おめでとうございます",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2632_00c20",
+  "kind": "line",
+  "jp": "しょうひんのアームです",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2632_00c74",
+  "kind": "line",
+  "jp": "また　さんかしてくださいね！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2632_00ca8",
+  "kind": "line",
+  "jp": "ざんねんでした",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2632_00cc0",
+  "kind": "line",
+  "jp": "また　さんかしてくださいね！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2632_00d00",
+  "kind": "line",
+  "jp": "また　おこしください！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2632_00d60",
+  "kind": "line",
+  "jp": "お！　∴やないか∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2632_00d7c",
+  "kind": "line",
+  "jp": "どないしたんや？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2632_00d98",
+  "kind": "line",
+  "jp": "このわたいと　バトルしたいんか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2632_00dd0.0",
+  "kind": "choice",
+  "jp": "そうです",
+  "en": "",
+  "status": "new",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2632_00dd0.1",
+  "kind": "choice",
+  "jp": "ちがいます",
+  "en": "",
+  "status": "new",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2632_00e10",
+  "kind": "line",
+  "jp": "てかげんしまへんで∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2632_00e5c",
+  "kind": "line",
+  "jp": "たのしかったわ～　またバトルさそってや",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2632_00eb8",
+  "kind": "line",
+  "jp": "そうか～　ひまならまたよってな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2632_00f14",
+  "kind": "line",
+  "jp": "このジムのマスターは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 17,
+  "notes": ""
+ },
+ {
+  "id": "e2632_00f34",
+  "kind": "line",
+  "jp": "ワシューさっていうダス",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 17,
+  "notes": ""
+ },
+ {
+  "id": "e2632_00f54",
+  "kind": "line",
+  "jp": "きょうは家にいるみたいダスが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 17,
+  "notes": ""
+ },
+ {
+  "id": "e2632_00f7c",
+  "kind": "line",
+  "jp": "たまに　ココでおしえてくれるダスよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 17,
+  "notes": ""
+ },
+ {
+  "id": "e2632_00fe8",
+  "kind": "line",
+  "jp": "バトローリングの本がならんでいる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 18,
+  "notes": ""
+ },
+ {
+  "id": "e2632_01054",
+  "kind": "line",
+  "jp": "バトローリングの本がならんでいる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 19,
+  "notes": ""
+ },
+ {
+  "id": "e2632_010c0",
+  "kind": "line",
+  "jp": "バトローリングの本がならんでいる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 20,
+  "notes": ""
+ },
+ {
+  "id": "e2632_0112c",
+  "kind": "line",
+  "jp": "バトローリングの本がならんでいる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 21,
+  "notes": ""
+ },
+ {
+  "id": "e2632_01198",
+  "kind": "line",
+  "jp": "はいれないようだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 22,
+  "notes": ""
+ },
+ {
+  "id": "e2632_011f4",
+  "kind": "line",
+  "jp": "はいれないようだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 23,
+  "notes": ""
+ }
+]

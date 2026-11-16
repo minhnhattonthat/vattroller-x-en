@@ -1,0 +1,1272 @@
+[
+ {
+  "id": "e2490_000a8",
+  "kind": "line",
+  "jp": "へーっ　真丸町にも",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_000c4",
+  "kind": "line",
+  "jp": "こんなトコがあるんだねー",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_0010c",
+  "kind": "line",
+  "jp": "ピーーッ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_00170",
+  "kind": "line",
+  "jp": "ちょっと……ジンくん",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_00190",
+  "kind": "line",
+  "jp": "急ぎすぎ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_001fc",
+  "kind": "line",
+  "jp": "おっ　バトル中だ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_00238",
+  "kind": "line",
+  "jp": "……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_00254",
+  "kind": "line",
+  "jp": "おおっ　バカシブ∇　サムライみたい∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_00284",
+  "kind": "line",
+  "jp": "あれぞ　マスター∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_002c0",
+  "kind": "line",
+  "jp": "ね　ジンくんにぴったりでしょ？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_002e8",
+  "kind": "line",
+  "jp": "（じだいさくごなところとか）",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_00334",
+  "kind": "line",
+  "jp": "グレン　かくごはいいか≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_00358",
+  "kind": "line",
+  "jp": "今日こそはオマエをたおす∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_003e4",
+  "kind": "line",
+  "jp": "∇　スピードのケタがちがう∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_00418",
+  "kind": "line",
+  "jp": "言ったはずだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_00430",
+  "kind": "line",
+  "jp": "にどと来るなと",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_00494",
+  "kind": "line",
+  "jp": "あああっ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_004e4",
+  "kind": "line",
+  "jp": "ちきしょう　おぼえてやがれっ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_00538",
+  "kind": "line",
+  "jp": "なんてきりこみだ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_00558",
+  "kind": "line",
+  "jp": "いっしゅん本当に",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_00574",
+  "kind": "line",
+  "jp": "相手がきられたように見えた……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_0059c",
+  "kind": "line",
+  "jp": "それにあの足さばき……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_005bc",
+  "kind": "line",
+  "jp": "オーラと組み合わせた",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_005dc",
+  "kind": "line",
+  "jp": "すばやくなめらかな動き……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_00600",
+  "kind": "line",
+  "jp": "剣じゅつとオーラのゆうごう……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_00628",
+  "kind": "line",
+  "jp": "これがマルスに近づいたバトローラー∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_00674",
+  "kind": "line",
+  "jp": "マスター∇　弟子にしてください∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_006bc",
+  "kind": "line",
+  "jp": "なんだ　キサマは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_006d8",
+  "kind": "line",
+  "jp": "気やすくオレを　マスターなどと",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_00700",
+  "kind": "line",
+  "jp": "よばないでもらおう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_00738",
+  "kind": "line",
+  "jp": "ちょっと　まったーーっ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_00770",
+  "kind": "line",
+  "jp": "む……コロナか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_00818",
+  "kind": "line",
+  "jp": "なるほど",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_0082c",
+  "kind": "line",
+  "jp": "それで入門したいというわけか",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_00860",
+  "kind": "line",
+  "jp": "オレ　どうしても強くなりたいんです∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_00890",
+  "kind": "line",
+  "jp": "おねがいします　グレンマスター∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_008d0",
+  "kind": "line",
+  "jp": "マスター≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_008f0",
+  "kind": "line",
+  "jp": "グ……グレン……さん……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_00920",
+  "kind": "line",
+  "jp": "コロナから　聞いているな？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_00944",
+  "kind": "line",
+  "jp": "オレはかんたんには弟子はとらない",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_00970",
+  "kind": "line",
+  "jp": "もし　どうしてもというなら",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_00994",
+  "kind": "line",
+  "jp": "入門しけんを　うけてもらう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_00a64",
+  "kind": "line",
+  "jp": "そんな……シャークボールを≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_00a8c",
+  "kind": "line",
+  "jp": "上級者用練習アイテムでしょ≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_00ab4",
+  "kind": "line",
+  "jp": "バトローラー同様に動くから",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_00ad8",
+  "kind": "line",
+  "jp": "本物と戦うのと　かわらないじゃない∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_00b1c",
+  "kind": "line",
+  "jp": "だいじょうぶ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_00b34",
+  "kind": "line",
+  "jp": "そんなボールの　ひとつぐらい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_00b5c",
+  "kind": "line",
+  "jp": "すぐに落としてやるさ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_00b88",
+  "kind": "line",
+  "jp": "フッ　だれがひとつと言った？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_00bcc",
+  "kind": "line",
+  "jp": "≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_00be4",
+  "kind": "line",
+  "jp": "おまえの相手は　こいつら全てだ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_00c54",
+  "kind": "line",
+  "jp": "そんな∇　いくらなんでもムチャだよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_00c80",
+  "kind": "line",
+  "jp": "グレン兄ちゃん∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_00ca8",
+  "kind": "line",
+  "jp": "……おもしれーっ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_00cc4",
+  "kind": "line",
+  "jp": "やってみるよ　コロナちゃん",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_00cf4",
+  "kind": "line",
+  "jp": "こんなボールの１００コや２００コ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_00d20",
+  "kind": "line",
+  "jp": "うちおとすなんてわけないぜ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_00d54",
+  "kind": "line",
+  "jp": "いせいだけは　いいようだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0600",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_00d78",
+  "kind": "line",
+  "jp": "そのかくご　どのていどか",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_00d9c",
+  "kind": "line",
+  "jp": "見せてもらおう∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_00e54",
+  "kind": "line",
+  "jp": "シャークボールとは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_00e70",
+  "kind": "line",
+  "jp": "バトローリング用に　開発された",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_00e98",
+  "kind": "line",
+  "jp": "練習用のマシンだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_00eb4",
+  "kind": "line",
+  "jp": "アームは使ってこないが　",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_00ed8",
+  "kind": "line",
+  "jp": "ロールでこうげきしてくるぞ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_00efc",
+  "kind": "line",
+  "jp": "シャークボールは　アタックロールで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_00f28",
+  "kind": "line",
+  "jp": "こうげきするのがゆうこうだぞ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_00f50",
+  "kind": "line",
+  "jp": "そうさは　Ｌボタンと十字ボタンだ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_00f7c",
+  "kind": "line",
+  "jp": "では　いくぞ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_00fd8",
+  "kind": "line",
+  "jp": "思ったよりねばるが……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_00ff8",
+  "kind": "line",
+  "jp": "だが　ここからが本番だぞ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_0103c",
+  "kind": "line",
+  "jp": "グレン兄ちゃん　もうやめて∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_01064",
+  "kind": "line",
+  "jp": "なんでこんなに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_0107c",
+  "kind": "line",
+  "jp": "きびしいしけんをするの？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_010ac",
+  "kind": "line",
+  "jp": "ぶきをもつことで　弱き心はみだれる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_010d8",
+  "kind": "line",
+  "jp": "そんなヤツに　技を教えることはできん",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_01108",
+  "kind": "line",
+  "jp": "強さをもとめるものには",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_01128",
+  "kind": "line",
+  "jp": "心の強さもひつようだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_0115c",
+  "kind": "line",
+  "jp": "これは剣じゅつじゃなくスポーツだよ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_0118c",
+  "kind": "line",
+  "jp": "そんな考え方　おかしいよ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_011cc",
+  "kind": "line",
+  "jp": "ジンくん　もうやめて∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_011ec",
+  "kind": "line",
+  "jp": "ここでなくても",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_01204",
+  "kind": "line",
+  "jp": "ジンくんは強くなれるよ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_01234",
+  "kind": "line",
+  "jp": "だめだよ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_0124c",
+  "kind": "line",
+  "jp": "オレは剣じゅつとオーラを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_01270",
+  "kind": "line",
+  "jp": "ゆうごうさせて　マルスをめざすんだ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_012ac",
+  "kind": "line",
+  "jp": "ここじゃ　おわれないっ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_012dc",
+  "kind": "line",
+  "jp": "どうして……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_012f4",
+  "kind": "line",
+  "jp": "なぜそこまで　マルスにこだわるの≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_0132c",
+  "kind": "line",
+  "jp": "オレ……ずっとじいちゃんに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_01350",
+  "kind": "line",
+  "jp": "剣じゅつを習いたかったんだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_01380",
+  "kind": "line",
+  "jp": "え？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_0139c",
+  "kind": "line",
+  "jp": "だけどじいちゃんは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_013b8",
+  "kind": "line",
+  "jp": "おまえにはまだ早いって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_013d8",
+  "kind": "line",
+  "jp": "きそしか教えてくれなかった",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_013fc",
+  "kind": "line",
+  "jp": "そしてじいちゃんは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_01418",
+  "kind": "line",
+  "jp": "死ぬまえに言ったんだ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_01470",
+  "kind": "line",
+  "jp": "ジンよ　剣じゅつばかりにこだわるな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_0149c",
+  "kind": "line",
+  "jp": "なにかほかに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_014b4",
+  "kind": "line",
+  "jp": "夢中になれるものをさがしなさい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_014dc",
+  "kind": "line",
+  "jp": "そして　たくさんの人と出会いながら",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_01508",
+  "kind": "line",
+  "jp": "それをきわめていってみなさい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_01530",
+  "kind": "line",
+  "jp": "そうすれば　ワシがつたえたかった",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_0155c",
+  "kind": "line",
+  "jp": "おうぎにたどりつけるだろう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_015b0",
+  "kind": "line",
+  "jp": "……だからオレ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_015c8",
+  "kind": "line",
+  "jp": "夢中になれたバトローリングを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_015f0",
+  "kind": "line",
+  "jp": "きわめたいんだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_01614",
+  "kind": "line",
+  "jp": "だからオレは……マルスになる∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_01660",
+  "kind": "line",
+  "jp": "さあ　いくらでも来い∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_01680",
+  "kind": "line",
+  "jp": "全部たたきおとしてやる∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_016b8",
+  "kind": "line",
+  "jp": "いいか　ジン　シャークボールは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_016e0",
+  "kind": "line",
+  "jp": "アタックロールでこうげきしてくる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_0170c",
+  "kind": "line",
+  "jp": "うまくバウンダーで　はじきながら",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_01738",
+  "kind": "line",
+  "jp": "たたきおとすんだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_01754",
+  "kind": "line",
+  "jp": "オーラのしょうひをおさえて",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_01778",
+  "kind": "line",
+  "jp": "かくじつにシャークボールにヒットさせろ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_01834",
+  "kind": "line",
+  "jp": "すごい……クリアしちゃった……∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_0186c",
+  "kind": "line",
+  "jp": "なんてやつだ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_01888",
+  "kind": "line",
+  "jp": "ギリギリのふちから　よみがえる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_018b0",
+  "kind": "line",
+  "jp": "このねばり強さ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_018d8",
+  "kind": "line",
+  "jp": "かくごしろよ　おまえを一人前の",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_01900",
+  "kind": "line",
+  "jp": "バトローラーにしてやるからな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_01934",
+  "kind": "line",
+  "jp": "グレン兄ちゃん∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_0195c",
+  "kind": "line",
+  "jp": "グレンさん∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_01980",
+  "kind": "line",
+  "jp": "バカヤロウ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2490_01998",
+  "kind": "line",
+  "jp": "マスターとよべ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

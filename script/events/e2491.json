@@ -1,0 +1,230 @@
+[
+ {
+  "id": "e2491_000bc.0",
+  "kind": "title",
+  "jp": "バトローラージン",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2491_000bc.1",
+  "kind": "title",
+  "jp": "修行編　第２話",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2491_00220",
+  "kind": "line",
+  "jp": "おおーっ∇　リョウもシュウさんも",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2491_0024c",
+  "kind": "line",
+  "jp": "気合入ってんなーっ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2491_00288",
+  "kind": "line",
+  "jp": "そりゃあ２人ともマーブルアレーナに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2491_002b4",
+  "kind": "line",
+  "jp": "出場するんだ　気合も入るさ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2491_002d8",
+  "kind": "line",
+  "jp": "それにあれだろ？　あのジンってやつ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2491_00320",
+  "kind": "line",
+  "jp": "あいつ？　２人が気にするほど",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2491_00348",
+  "kind": "line",
+  "jp": "すごいやつだったっけ？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2491_0037c",
+  "kind": "line",
+  "jp": "さあね　まぁなんにせよ　この２人が",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2491_003a8",
+  "kind": "line",
+  "jp": "優勝こうほなのはまちがいないな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2491_003ec",
+  "kind": "line",
+  "jp": "…………",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2491_0040c",
+  "kind": "line",
+  "jp": "へっへーん　ざんねんでした",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2491_00430",
+  "kind": "line",
+  "jp": "アレーナで優勝するのは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2491_00450",
+  "kind": "line",
+  "jp": "このトータさまなのでしたー",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2491_00488",
+  "kind": "line",
+  "jp": "しょうひんのアームは　ゼッタイ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2491_004b0",
+  "kind": "line",
+  "jp": "オイラがもらうんだもんね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2491_004f8",
+  "kind": "line",
+  "jp": "まあ　ようちゅういはあの２人だから",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2491_00524",
+  "kind": "line",
+  "jp": "マークしといて　大せいかいです∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2491_0055c",
+  "kind": "line",
+  "jp": "それにしても　あの２人が",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2491_00580",
+  "kind": "line",
+  "jp": "いしきするほどの相手って……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2491_005b4",
+  "kind": "line",
+  "jp": "ま　どーせたいしたことない",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2491_005d8",
+  "kind": "line",
+  "jp": "やつだろうけどね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

@@ -1,0 +1,290 @@
+[
+ {
+  "id": "e2493_0008c.0",
+  "kind": "title",
+  "jp": "バトローラージン",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2493_0008c.1",
+  "kind": "title",
+  "jp": "アレーナ編　第１話",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2493_000c8",
+  "kind": "line",
+  "jp": "うわっ　すごい人だなぁ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2493_000f4",
+  "kind": "line",
+  "jp": "そりゃあ　バトローリングは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2493_00118",
+  "kind": "line",
+  "jp": "人気スポーツだもの∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2493_00138",
+  "kind": "line",
+  "jp": "このマーブルアレーナは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2493_00158",
+  "kind": "line",
+  "jp": "有力なせんしゅが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2493_00174",
+  "kind": "line",
+  "jp": "おおぜいさんかしてるし",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2493_001a8",
+  "kind": "line",
+  "jp": "それって　強いヤツが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2493_001c8",
+  "kind": "line",
+  "jp": "いっぱいいるってこと？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2493_001f4",
+  "kind": "line",
+  "jp": "うん　まぁそういうことかな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2493_00218",
+  "kind": "line",
+  "jp": "アレーナでうでをためしたい人とか……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2493_0027c",
+  "kind": "line",
+  "jp": "……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2493_00364",
+  "kind": "line",
+  "jp": "ほら　あの女の人が",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2493_00380",
+  "kind": "line",
+  "jp": "この大会のしゅさい者の　マールはかせ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2493_003bc",
+  "kind": "line",
+  "jp": "マール・バトローリング研究所……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2493_003e8",
+  "kind": "line",
+  "jp": "Ｍ－ＶＬ（マーブル）の所長なんだけど",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2493_00418",
+  "kind": "line",
+  "jp": "そこで開発した　新しいアームが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2493_00440",
+  "kind": "line",
+  "jp": "この大会の　優勝しょうひんなの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2493_00468",
+  "kind": "line",
+  "jp": "その新アーム目当てでさんかしてる人も",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2493_00498",
+  "kind": "line",
+  "jp": "ずいぶんいるみたい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2493_004e4",
+  "kind": "line",
+  "jp": "ほんとだ　ビリビリ感じるよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2493_00508",
+  "kind": "line",
+  "jp": "みんな　すごいきはくだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2493_00528",
+  "kind": "line",
+  "jp": "へへっ　ワクワクしてきた∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2493_0054c",
+  "kind": "line",
+  "jp": "早く　バトルはじまらないかなぁ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2493_00588",
+  "kind": "line",
+  "jp": "ジンくん　もえてるね∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2493_005a8",
+  "kind": "line",
+  "jp": "でも　試合まではまだ時間が……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2493_005e4",
+  "kind": "line",
+  "jp": "そうだ∇　しょうひんのアーム",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2493_0060c",
+  "kind": "line",
+  "jp": "ちょっと見にいってみようか",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

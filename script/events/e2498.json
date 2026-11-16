@@ -1,0 +1,450 @@
+[
+ {
+  "id": "e2498_00078.0",
+  "kind": "title",
+  "jp": "バトローラージン",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2498_00078.1",
+  "kind": "title",
+  "jp": "アレーナ編　第４話",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2498_000b4",
+  "kind": "line",
+  "jp": "ジンくん　試合つづきで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2498_000d4",
+  "kind": "line",
+  "jp": "つかれてない？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2498_000f8",
+  "kind": "line",
+  "jp": "へいきへいき　それどころか",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2498_0011c",
+  "kind": "line",
+  "jp": "面白くって元気が出てきたよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2498_00140",
+  "kind": "line",
+  "jp": "さあ　次はどんな相手と",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2498_00160",
+  "kind": "line",
+  "jp": "バトルできるのかな？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2498_001b0",
+  "kind": "line",
+  "jp": "やっぱり勝ち上がってきたですね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2498_001d8",
+  "kind": "line",
+  "jp": "ジンくん∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2498_00220",
+  "kind": "line",
+  "jp": "ええっ≡　次の相手って",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2498_00240",
+  "kind": "line",
+  "jp": "トータなのか≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2498_00274",
+  "kind": "line",
+  "jp": "ジンくん",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2498_00288",
+  "kind": "line",
+  "jp": "トータくんは　強敵だよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2498_002c4",
+  "kind": "line",
+  "jp": "わかってるよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2498_002dc",
+  "kind": "line",
+  "jp": "さっき試合を見た",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2498_00324",
+  "kind": "line",
+  "jp": "あの　へんげんじざいのこうげき……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2498_00350",
+  "kind": "line",
+  "jp": "ちょっと　てこずりそうだな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2498_00380",
+  "kind": "line",
+  "jp": "よこくどおり　ジンくん用の",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2498_003a4",
+  "kind": "line",
+  "jp": "アームセットで行きますよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2498_003c8",
+  "kind": "line",
+  "jp": "この勝負　かるく勝たせてもらうけど",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2498_003f4",
+  "kind": "line",
+  "jp": "悪く思わないでくださいね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2498_00424",
+  "kind": "line",
+  "jp": "へへっ　オレはそう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2498_00440",
+  "kind": "line",
+  "jp": "けいさんどおりには行かないぜ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2498_004d0",
+  "kind": "line",
+  "jp": "そんな……オイラのアームセットが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2498_004fc",
+  "kind": "line",
+  "jp": "負けるなんて……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2498_0052c",
+  "kind": "line",
+  "jp": "どうやら　まだまだマークが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2498_00550",
+  "kind": "line",
+  "jp": "あまかったようです　見くびっていたです",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2498_00580",
+  "kind": "line",
+  "jp": "でも　いまの戦いをさんこうに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2498_005a8",
+  "kind": "line",
+  "jp": "決勝ではゼッタイ負けません∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2498_00618",
+  "kind": "line",
+  "jp": "コロナちゃん　トータは負けたのに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2498_00644",
+  "kind": "line",
+  "jp": "決勝出れるの？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2498_00668",
+  "kind": "line",
+  "jp": "この大会のルールだと　いちど負けても",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2498_00698",
+  "kind": "line",
+  "jp": "ポイントが多ければ　決勝に行けるのよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2498_006c8",
+  "kind": "line",
+  "jp": "トータくんも　あとの試合を",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2498_006ec",
+  "kind": "line",
+  "jp": "がんばれば　出れるかもね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2498_0071c",
+  "kind": "line",
+  "jp": "そっかー　またトータと",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2498_0073c",
+  "kind": "line",
+  "jp": "戦えるかもしれないんだ　楽しみだな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2498_00774",
+  "kind": "line",
+  "jp": "ジンくんはぜんぶ勝ってるから",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2498_0079c",
+  "kind": "line",
+  "jp": "次で負けても決勝に行けるかもよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2498_007d0",
+  "kind": "line",
+  "jp": "負けないよ　ぜったいに∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2498_007f4",
+  "kind": "line",
+  "jp": "やっとここまで来たんだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2498_00820",
+  "kind": "line",
+  "jp": "あ……そうか　次の相手は……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2498_0086c",
+  "kind": "line",
+  "jp": "シュウ∇　いよいよおまえと戦える",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2498_00898",
+  "kind": "line",
+  "jp": "こんどはオレが勝つからな∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

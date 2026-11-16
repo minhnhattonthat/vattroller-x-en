@@ -1,0 +1,1356 @@
+[
+ {
+  "id": "e2662_00194",
+  "kind": "line",
+  "jp": "キミもここの大会にさんかしてるの？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2662_001c0",
+  "kind": "line",
+  "jp": "じゃあ　せいいっぱい応援するよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2662_00220",
+  "kind": "line",
+  "jp": "応援しているせんしゅのバトルでは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2662_0024c",
+  "kind": "line",
+  "jp": "声がかれるまで　さけんでしまうんだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2662_00278",
+  "kind": "line",
+  "jp": "おかげで　のどがガラガラだよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2662_002e0",
+  "kind": "line",
+  "jp": "そのうち　中学生のマルスが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2662_00304",
+  "kind": "line",
+  "jp": "たんじょうするかもしれないぜ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2662_0032c",
+  "kind": "line",
+  "jp": "せだいこうたいは　かくじつに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2662_00354",
+  "kind": "line",
+  "jp": "すすんでるんだからな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2662_003a8",
+  "kind": "line",
+  "jp": "この間の大会で　だれがゆうしょうした",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2662_003d8",
+  "kind": "line",
+  "jp": "と思う？　なんと中学生だぜ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2662_00400",
+  "kind": "line",
+  "jp": "バトローリングの　せだいこうたいは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2662_0042c",
+  "kind": "line",
+  "jp": "かくじつにすすんでるってことだよな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2662_00498",
+  "kind": "line",
+  "jp": "マーブルアレーナのことききたいですか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2662_004ec",
+  "kind": "line",
+  "jp": "マーブルアレーナは３回勝ちぬくと",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2662_00518",
+  "kind": "line",
+  "jp": "優勝することが　できます",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2662_0053c",
+  "kind": "line",
+  "jp": "優勝すると　ごうかしょうひんが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2662_00564",
+  "kind": "line",
+  "jp": "もらえますよ　がんばってくださいね∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2662_005c8",
+  "kind": "line",
+  "jp": "マーブルアレーナのことききたいですか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2662_0061c",
+  "kind": "line",
+  "jp": "マーブルアレーナは３回勝ちぬくと",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2662_00648",
+  "kind": "line",
+  "jp": "優勝することが　できます",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2662_0066c",
+  "kind": "line",
+  "jp": "優勝すると　ごうかしょうひんが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2662_00694",
+  "kind": "line",
+  "jp": "もらえますよ　がんばってくださいね∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2662_006f8",
+  "kind": "line",
+  "jp": "マーブルアレーナは　おやすみ中です",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2662_00724",
+  "kind": "line",
+  "jp": "また　おこしくださいませ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2662_00788",
+  "kind": "line",
+  "jp": "マーブルアレーナうけつけです",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2662_007b0",
+  "kind": "line",
+  "jp": "さんかしますか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2662_007f0",
+  "kind": "line",
+  "jp": "がんばってください♪",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2662_00850",
+  "kind": "line",
+  "jp": "次の試合に進む前に",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2662_0086c",
+  "kind": "line",
+  "jp": "アームセットしてください",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2662_008a4.0",
+  "kind": "choice",
+  "jp": "アームセットしゅうりょう",
+  "en": "",
+  "status": "new",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2662_008a4.1",
+  "kind": "choice",
+  "jp": "アームセットをつづける",
+  "en": "",
+  "status": "new",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2662_00908",
+  "kind": "line",
+  "jp": "がんばってください！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2662_00968",
+  "kind": "line",
+  "jp": "次の試合に進む前に",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2662_00984",
+  "kind": "line",
+  "jp": "アームセットしてください",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2662_009bc.0",
+  "kind": "choice",
+  "jp": "アームセットしゅうりょう",
+  "en": "",
+  "status": "new",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2662_009bc.1",
+  "kind": "choice",
+  "jp": "アームセットをつづける",
+  "en": "",
+  "status": "new",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2662_00a20",
+  "kind": "line",
+  "jp": "がんばってください！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2662_00a80",
+  "kind": "line",
+  "jp": "優勝おめでとうございます",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2662_00aa4",
+  "kind": "line",
+  "jp": "しょうひんのアームです",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2662_00af8",
+  "kind": "line",
+  "jp": "また　さんかしてくださいね！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2662_00b2c",
+  "kind": "line",
+  "jp": "ざんねんでした",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2662_00b44",
+  "kind": "line",
+  "jp": "また　さんかしてくださいね！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2662_00b78",
+  "kind": "line",
+  "jp": "ざんねんでした",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2662_00b90",
+  "kind": "line",
+  "jp": "また　さんかしてくださいね！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2662_00bc4",
+  "kind": "line",
+  "jp": "ざんねんでした",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2662_00bdc",
+  "kind": "line",
+  "jp": "また　さんかしてくださいね！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2662_00c1c",
+  "kind": "line",
+  "jp": "また　おこしください！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2662_00c70",
+  "kind": "line",
+  "jp": "マーブルアレーナうけつけです",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2662_00c98",
+  "kind": "line",
+  "jp": "さんかしますか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2662_00cd8",
+  "kind": "line",
+  "jp": "がんばってください♪",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2662_00d38",
+  "kind": "line",
+  "jp": "次の試合に進む前に",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2662_00d54",
+  "kind": "line",
+  "jp": "アームセットしてください",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2662_00d8c.0",
+  "kind": "choice",
+  "jp": "アームセットしゅうりょう",
+  "en": "",
+  "status": "new",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2662_00d8c.1",
+  "kind": "choice",
+  "jp": "アームセットをつづける",
+  "en": "",
+  "status": "new",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2662_00df0",
+  "kind": "line",
+  "jp": "がんばってください！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2662_00e50",
+  "kind": "line",
+  "jp": "次の試合に進む前に",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2662_00e6c",
+  "kind": "line",
+  "jp": "アームセットをしてください",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2662_00ea4.0",
+  "kind": "choice",
+  "jp": "アームセットしゅうりょう",
+  "en": "",
+  "status": "new",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2662_00ea4.1",
+  "kind": "choice",
+  "jp": "アームセットをつづける",
+  "en": "",
+  "status": "new",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2662_00f08",
+  "kind": "line",
+  "jp": "がんばってください",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2662_00f64",
+  "kind": "line",
+  "jp": "優勝おめでとうございます",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2662_00f88",
+  "kind": "line",
+  "jp": "しょうひんのアームです",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2662_00fdc",
+  "kind": "line",
+  "jp": "また　さんかしてくださいね！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2662_01010",
+  "kind": "line",
+  "jp": "ざんねんでした",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2662_01028",
+  "kind": "line",
+  "jp": "また　さんかしてくださいね！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2662_0105c",
+  "kind": "line",
+  "jp": "ざんねんでした",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2662_01074",
+  "kind": "line",
+  "jp": "また　さんかしてくださいね！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2662_010a8",
+  "kind": "line",
+  "jp": "ざんねんでした",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2662_010c0",
+  "kind": "line",
+  "jp": "また　さんかしてくださいね！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2662_01100",
+  "kind": "line",
+  "jp": "また　おこしください！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2662_01154",
+  "kind": "line",
+  "jp": "マーブルアレーナうけつけです",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2662_0117c",
+  "kind": "line",
+  "jp": "さんかしますか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2662_011bc",
+  "kind": "line",
+  "jp": "がんばってください♪",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2662_0121c",
+  "kind": "line",
+  "jp": "次の試合に進む前に",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2662_01238",
+  "kind": "line",
+  "jp": "アームセットしてください",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2662_01270.0",
+  "kind": "choice",
+  "jp": "アームセットしゅうりょう",
+  "en": "",
+  "status": "new",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2662_01270.1",
+  "kind": "choice",
+  "jp": "アームセットをつづける",
+  "en": "",
+  "status": "new",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2662_012d4",
+  "kind": "line",
+  "jp": "がんばってください！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2662_01334",
+  "kind": "line",
+  "jp": "次の試合に進む前に",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2662_01350",
+  "kind": "line",
+  "jp": "アームセットしてください",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2662_01388.0",
+  "kind": "choice",
+  "jp": "アームセットしゅうりょう",
+  "en": "",
+  "status": "new",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2662_01388.1",
+  "kind": "choice",
+  "jp": "アームセットをつづける",
+  "en": "",
+  "status": "new",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2662_013ec",
+  "kind": "line",
+  "jp": "がんばってください！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2662_0144c",
+  "kind": "line",
+  "jp": "優勝おめでとうございます",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2662_01470",
+  "kind": "line",
+  "jp": "しょうひんのアームです",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2662_014c4",
+  "kind": "line",
+  "jp": "また　さんかしてくださいね！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2662_014f8",
+  "kind": "line",
+  "jp": "ざんねんでした",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2662_01510",
+  "kind": "line",
+  "jp": "また　さんかしてくださいね！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2662_01544",
+  "kind": "line",
+  "jp": "ざんねんでした",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2662_0155c",
+  "kind": "line",
+  "jp": "また　さんかしてくださいね！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2662_01590",
+  "kind": "line",
+  "jp": "ざんねんでした",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2662_015a8",
+  "kind": "line",
+  "jp": "また　さんかしてくださいね！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2662_015e8",
+  "kind": "line",
+  "jp": "また　おこしください！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2662_0163c",
+  "kind": "line",
+  "jp": "マーブルアレーナうけつけです",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2662_01664",
+  "kind": "line",
+  "jp": "さんかしますか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2662_016a4",
+  "kind": "line",
+  "jp": "がんばってください♪",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2662_01704",
+  "kind": "line",
+  "jp": "次の試合に進む前に",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2662_01720",
+  "kind": "line",
+  "jp": "アームセットしてください",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2662_01758.0",
+  "kind": "choice",
+  "jp": "アームセットしゅうりょう",
+  "en": "",
+  "status": "new",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2662_01758.1",
+  "kind": "choice",
+  "jp": "アームセットをつづける",
+  "en": "",
+  "status": "new",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2662_017bc",
+  "kind": "line",
+  "jp": "がんばってください！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2662_0181c",
+  "kind": "line",
+  "jp": "次の試合に進む前に",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2662_01838",
+  "kind": "line",
+  "jp": "アームセットをしてください",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2662_01870.0",
+  "kind": "choice",
+  "jp": "アームセットしゅうりょう",
+  "en": "",
+  "status": "new",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2662_01870.1",
+  "kind": "choice",
+  "jp": "アームセットをつづける",
+  "en": "",
+  "status": "new",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2662_018d4",
+  "kind": "line",
+  "jp": "がんばってください",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2662_01930",
+  "kind": "line",
+  "jp": "優勝おめでとうございます",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2662_01954",
+  "kind": "line",
+  "jp": "しょうひんのアームです",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2662_019a8",
+  "kind": "line",
+  "jp": "また　さんかしてくださいね！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2662_019dc",
+  "kind": "line",
+  "jp": "ざんねんでした",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2662_019f4",
+  "kind": "line",
+  "jp": "また　さんかしてくださいね！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2662_01a28",
+  "kind": "line",
+  "jp": "ざんねんでした",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2662_01a40",
+  "kind": "line",
+  "jp": "また　さんかしてくださいね！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2662_01a74",
+  "kind": "line",
+  "jp": "ざんねんでした",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2662_01a8c",
+  "kind": "line",
+  "jp": "また　さんかしてくださいね！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2662_01acc",
+  "kind": "line",
+  "jp": "また　おこしください！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2662_01b54",
+  "kind": "line",
+  "jp": "アームセットをくふうして",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 17,
+  "notes": ""
+ },
+ {
+  "id": "e2662_01b78",
+  "kind": "line",
+  "jp": "バトルのじゅんびをしているの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 17,
+  "notes": ""
+ },
+ {
+  "id": "e2662_01bd4",
+  "kind": "line",
+  "jp": "あいてにあわせて　アームセットを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 18,
+  "notes": ""
+ },
+ {
+  "id": "e2662_01c00",
+  "kind": "line",
+  "jp": "へんこうしているの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 18,
+  "notes": ""
+ },
+ {
+  "id": "e2662_01c1c",
+  "kind": "line",
+  "jp": "きょうは　まけられないしあいだから",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 18,
+  "notes": ""
+ },
+ {
+  "id": "e2662_01c48",
+  "kind": "line",
+  "jp": "カンペキなさくせんをたててるのよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 18,
+  "notes": ""
+ },
+ {
+  "id": "e2662_01cb4",
+  "kind": "line",
+  "jp": "おまえもこの大会にさんかするのか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 19,
+  "notes": ""
+ },
+ {
+  "id": "e2662_01ce0",
+  "kind": "line",
+  "jp": "やめてくれ！　オレは中学生とは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 19,
+  "notes": ""
+ },
+ {
+  "id": "e2662_01d08",
+  "kind": "line",
+  "jp": "あいしょうがわるいみたいなんだッ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 19,
+  "notes": ""
+ },
+ {
+  "id": "e2662_01d68",
+  "kind": "line",
+  "jp": "このあいだ負けてから　山にこもって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 20,
+  "notes": ""
+ },
+ {
+  "id": "e2662_01d94",
+  "kind": "line",
+  "jp": "しゅぎょうしてきたんだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 20,
+  "notes": ""
+ },
+ {
+  "id": "e2662_01db4",
+  "kind": "line",
+  "jp": "もう中学生には　まけないぞーッ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 20,
+  "notes": ""
+ },
+ {
+  "id": "e2662_01fa0",
+  "kind": "line",
+  "jp": "マーブルアレーナを見て",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 25,
+  "notes": ""
+ },
+ {
+  "id": "e2662_01fc0",
+  "kind": "line",
+  "jp": "バトローラーになろうと思ったの？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 25,
+  "notes": ""
+ },
+ {
+  "id": "e2662_01fec",
+  "kind": "line",
+  "jp": "すごい　夢がじつげんしたのね！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 25,
+  "notes": ""
+ },
+ {
+  "id": "e2662_02014",
+  "kind": "line",
+  "jp": "よかったわね！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 25,
+  "notes": ""
+ },
+ {
+  "id": "e2662_02060",
+  "kind": "line",
+  "jp": "バトリーグとはべつに　かく地で",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 26,
+  "notes": ""
+ },
+ {
+  "id": "e2662_02088",
+  "kind": "line",
+  "jp": "バトローリングの大会がひらかれてるの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 26,
+  "notes": ""
+ },
+ {
+  "id": "e2662_020b8",
+  "kind": "line",
+  "jp": "その中でも　マーブルアレーナは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 26,
+  "notes": ""
+ },
+ {
+  "id": "e2662_020e0",
+  "kind": "line",
+  "jp": "もっとも大きなもののひとつよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 26,
+  "notes": ""
+ }
+]

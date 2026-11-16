@@ -1,0 +1,132 @@
+[
+ {
+  "id": "e2559_000a4",
+  "kind": "line",
+  "jp": "うまくしのびこめたわね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2559_000d8",
+  "kind": "line",
+  "jp": "けど　コロナちゃんは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2559_000f8",
+  "kind": "line",
+  "jp": "なぐりこみ反対じゃなかったの？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2559_0012c",
+  "kind": "line",
+  "jp": "だってジンくんが心配で……とても",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2559_00158",
+  "kind": "line",
+  "jp": "１人でまってなんかいられないわよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2559_00184",
+  "kind": "line",
+  "jp": "それになぐりこみじゃなくて",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2559_001a8",
+  "kind": "line",
+  "jp": "しょうこさがしでしょ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2559_001d4",
+  "kind": "line",
+  "jp": "まあ　おおぜいのほうが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2559_001f4",
+  "kind": "line",
+  "jp": "さがしやすいから　ありがたいけど",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2559_0022c",
+  "kind": "line",
+  "jp": "でも　いほうアームって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2559_0024c",
+  "kind": "line",
+  "jp": "どのへんにおいてあるんだろ？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2559_00280",
+  "kind": "line",
+  "jp": "そんなの知らないわよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2559_002a0",
+  "kind": "line",
+  "jp": "とにかくあやしいとこをさがすのよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

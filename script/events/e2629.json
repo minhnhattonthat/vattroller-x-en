@@ -1,0 +1,182 @@
+[
+ {
+  "id": "e2629_00044",
+  "kind": "line",
+  "jp": "ヘクサ社からの仕事が　ぱったり",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2629_0006c",
+  "kind": "line",
+  "jp": "止まってしまったんだ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2629_00090",
+  "kind": "line",
+  "jp": "ああ　どうしたらいいんだろう……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2629_000f0",
+  "kind": "line",
+  "jp": "ヘクサ社と　とりひきをはじめてね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 1,
+  "notes": ""
+ },
+ {
+  "id": "e2629_0011c",
+  "kind": "line",
+  "jp": "おかげでおおいそがしさ　ガッハッハ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 1,
+  "notes": ""
+ },
+ {
+  "id": "e2629_001b4",
+  "kind": "line",
+  "jp": "ええ？　商品がとどかない？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2629_001d8",
+  "kind": "line",
+  "jp": "うちのせいじゃないですよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2629_001fc",
+  "kind": "line",
+  "jp": "まったく　クレームのでんわ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2629_00220",
+  "kind": "line",
+  "jp": "ばっかりだよ　いやになっちゃうなぁ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2629_002b8",
+  "kind": "line",
+  "jp": "ヘクサ社って　どうしてこんなに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2629_002e0",
+  "kind": "line",
+  "jp": "書るいばっかりつくらせるのかしら？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2629_0030c",
+  "kind": "line",
+  "jp": "ああ　いそがしい　いそがしい！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2629_0039c",
+  "kind": "line",
+  "jp": "なんか　ムチャクチャいそがしい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2629_003c4",
+  "kind": "line",
+  "jp": "会社　かわろうかなぁ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2629_004b8",
+  "kind": "line",
+  "jp": "こんげつのひょうご",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2629_004d4",
+  "kind": "line",
+  "jp": "なにがなんでも　うりまくれ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2629_0052c",
+  "kind": "line",
+  "jp": "こんげつのひょうご",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2629_00548",
+  "kind": "line",
+  "jp": "きょうもあしたも　うりまくれ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ }
+]

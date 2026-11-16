@@ -1,0 +1,130 @@
+[
+ {
+  "id": "e2539_00044",
+  "kind": "line",
+  "jp": "どうじゃ　気はかわったか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2539_00074.0",
+  "kind": "choice",
+  "jp": "まだです",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2539_00074.1",
+  "kind": "choice",
+  "jp": "さんかします∇",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2539_000b8",
+  "kind": "line",
+  "jp": "まあムリにとは言わんが……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2539_000dc",
+  "kind": "line",
+  "jp": "ざんねんじゃのう……ムニャ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2539_00100",
+  "kind": "line",
+  "jp": "じゃが　せんばつまではまだ日がある",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2539_0012c",
+  "kind": "line",
+  "jp": "気がかわったら　いつでも来るがよい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2539_00164",
+  "kind": "line",
+  "jp": "よかろう　おぬしのせんばつバトル",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2539_00190",
+  "kind": "line",
+  "jp": "ちょうせんをみとめよう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2539_001b0",
+  "kind": "line",
+  "jp": "……と言いたいとこじゃが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2539_001d4",
+  "kind": "line",
+  "jp": "その前に１つバトルしてもらわんとな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2539_00260",
+  "kind": "line",
+  "jp": "つくえの中に　『グローブごろく』がある",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 1,
+  "notes": ""
+ },
+ {
+  "id": "e2539_002c4",
+  "kind": "line",
+  "jp": "Ｖメダルを見つけた！！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ }
+]

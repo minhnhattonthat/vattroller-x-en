@@ -1,0 +1,132 @@
+[
+ {
+  "id": "e2664_0035c",
+  "kind": "line",
+  "jp": "ううむ　飛び入りさんかしたいのぉ……　",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2664_0038c",
+  "kind": "line",
+  "jp": "バトローラーに　ねんれいせいげんは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2664_003b8",
+  "kind": "line",
+  "jp": "はあったかのぉ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2664_00408",
+  "kind": "line",
+  "jp": "あつい！　あついぞ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2664_00428",
+  "kind": "line",
+  "jp": "バトローラーたちの　戦いのじょうねつ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2664_00458",
+  "kind": "line",
+  "jp": "そのオーラが　ムンムンじゃあっ！！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2664_004c4",
+  "kind": "line",
+  "jp": "もうそろそろ　かえってしゅくだいを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2664_004f0",
+  "kind": "line",
+  "jp": "やらなきゃいけないの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2664_00510",
+  "kind": "line",
+  "jp": "でも　試合を見ていたいなぁ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2664_0056c",
+  "kind": "line",
+  "jp": "おトイレにいきたい……　",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2664_00590",
+  "kind": "line",
+  "jp": "でも　試合を見ていたいの……　",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2664_005f8",
+  "kind": "line",
+  "jp": "女の子のバトローラーはいいね！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2664_00620",
+  "kind": "line",
+  "jp": "試合に花がさくようだよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 15,
+  "notes": ""
+ }
+]

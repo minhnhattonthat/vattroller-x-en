@@ -1,0 +1,250 @@
+[
+ {
+  "id": "e2486_000a0.0",
+  "kind": "title",
+  "jp": "バトローラージン",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2486_000a0.1",
+  "kind": "title",
+  "jp": "げきとう編　第２話",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2486_000dc",
+  "kind": "line",
+  "jp": "ジンくん∇　オーラを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2486_000fc",
+  "kind": "line",
+  "jp": "使いこなせてないのに　ムチャだよ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2486_00148",
+  "kind": "line",
+  "jp": "ジンくんは　まだ半分しか",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2486_0016c",
+  "kind": "line",
+  "jp": "バトローリングを知らないんだよ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2486_001b4",
+  "kind": "line",
+  "jp": "オーラがうまく使えなくても",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2486_001d8",
+  "kind": "line",
+  "jp": "剣じゅつだけで十分さ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2486_00214",
+  "kind": "line",
+  "jp": "きょうみがあるのは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2486_00230",
+  "kind": "line",
+  "jp": "アーマレットだけだが……いいだろう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2486_00290",
+  "kind": "line",
+  "jp": "キミの力も",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2486_002a4",
+  "kind": "line",
+  "jp": "もういちど見せてもらおうか",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2486_002c8",
+  "kind": "line",
+  "jp": "バトルは　かまわないが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2486_002e8",
+  "kind": "line",
+  "jp": "だが　勝負にならないよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2486_00308",
+  "kind": "line",
+  "jp": "まだ　キミはオーラを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2486_00328",
+  "kind": "line",
+  "jp": "使いこなせてないそうじゃないか",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2486_0035c",
+  "kind": "line",
+  "jp": "ジンくん∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2486_00370",
+  "kind": "line",
+  "jp": "もし　ヒールロールになっても",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2486_00398",
+  "kind": "line",
+  "jp": "十字ボタンでそうさして",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2486_003b8",
+  "kind": "line",
+  "jp": "ドロップを　ふせげるのよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2486_003dc",
+  "kind": "line",
+  "jp": "Ｌボタンをおしながらだと",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2486_00400",
+  "kind": "line",
+  "jp": "オーラをつかうけど　早く動いて",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2486_00428",
+  "kind": "line",
+  "jp": "にげることができるからね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2486_00468",
+  "kind": "line",
+  "jp": "うん∇　わかったよ　コロナちゃん∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2486_004b0",
+  "kind": "line",
+  "jp": "よーし∇　いくぞ　シュウ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

@@ -1,0 +1,260 @@
+[
+ {
+  "id": "e2497_00080.0",
+  "kind": "title",
+  "jp": "バトローラージン",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2497_00080.1",
+  "kind": "title",
+  "jp": "アレーナ編　第３話",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2497_000fc",
+  "kind": "line",
+  "jp": "ジンくん　おそいよ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2497_0011c",
+  "kind": "line",
+  "jp": "もう試合が始まっちゃう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2497_00150",
+  "kind": "line",
+  "jp": "ごめんごめん",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2497_00168",
+  "kind": "line",
+  "jp": "トータとかと話してたからさ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2497_00198",
+  "kind": "line",
+  "jp": "へっ　ようやく来たかよ　ジン∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2497_00200",
+  "kind": "line",
+  "jp": "リョウ∇　今度の相手は",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2497_00220",
+  "kind": "line",
+  "jp": "おまえだったのか∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2497_00248",
+  "kind": "line",
+  "jp": "おまえには　この前のかりを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2497_0026c",
+  "kind": "line",
+  "jp": "かえしたくてウズウズしてたんだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2497_00294",
+  "kind": "line",
+  "jp": "あれからしっかりきたえたからな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2497_002bc",
+  "kind": "line",
+  "jp": "もうあの時みたいなヘマはしないぜ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2497_002e8",
+  "kind": "line",
+  "jp": "ギタギタにぶったおしてやる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2497_0030c",
+  "kind": "line",
+  "jp": "かくごしな∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2497_00330",
+  "kind": "line",
+  "jp": "オレだって　マスターにならって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2497_00358",
+  "kind": "line",
+  "jp": "強くなったんだ　負けないぞ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2497_00388",
+  "kind": "line",
+  "jp": "勝負だ　リョウ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0600",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2497_00404",
+  "kind": "line",
+  "jp": "また負けかっ　クソッ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2497_00448",
+  "kind": "line",
+  "jp": "……たしかに　おまえ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2497_00468",
+  "kind": "line",
+  "jp": "少しは強くなったみたいだな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2497_0048c",
+  "kind": "line",
+  "jp": "だが　調子にのるんじゃねぇぞ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2497_004b4",
+  "kind": "line",
+  "jp": "おまえじゃ　シュウさんには勝てねぇ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2497_00528",
+  "kind": "line",
+  "jp": "リョウくん　強くなってたね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2497_00558",
+  "kind": "line",
+  "jp": "うん　次に戦う時が",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2497_00574",
+  "kind": "line",
+  "jp": "楽しみだな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

@@ -1,0 +1,192 @@
+[
+ {
+  "id": "e2692_000d4",
+  "kind": "line",
+  "jp": "アルファベットがよめない！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2692_000f8",
+  "kind": "line",
+  "jp": "あした　テストなのに～",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2692_0014c",
+  "kind": "line",
+  "jp": "漢字がアタマにはいらない！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2692_00170",
+  "kind": "line",
+  "jp": "あした　テストなのに～",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2692_001c4",
+  "kind": "line",
+  "jp": "数学の公式がおぼえられない！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2692_001ec",
+  "kind": "line",
+  "jp": "あした　テストなのに～",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2692_0024c",
+  "kind": "line",
+  "jp": "こんど　ひとりで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2692_00268",
+  "kind": "line",
+  "jp": "大会にさんかするんだ～",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2692_00288",
+  "kind": "line",
+  "jp": "わたしも　せいちょうしたのよ？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2692_002e4",
+  "kind": "line",
+  "jp": "こんど　おかあさんに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2692_00304",
+  "kind": "line",
+  "jp": "グローブスタジアムに　連れて行って",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2692_00330",
+  "kind": "line",
+  "jp": "もらうんだ～",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2692_0037c",
+  "kind": "line",
+  "jp": "こんど　おかあさんに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2692_0039c",
+  "kind": "line",
+  "jp": "グローブデパートに　連れて行って",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2692_003c8",
+  "kind": "line",
+  "jp": "もらうんだ～",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2692_00420",
+  "kind": "line",
+  "jp": "そうじ用具が入っている",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2692_00480",
+  "kind": "line",
+  "jp": "じょうほうたんまつだ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2692_004a0",
+  "kind": "line",
+  "jp": "天気よほうがひょうじされている",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2692_00508",
+  "kind": "line",
+  "jp": "数学の本がぎっしりだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ }
+]

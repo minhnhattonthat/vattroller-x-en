@@ -1,0 +1,110 @@
+[
+ {
+  "id": "e2499_00064.0",
+  "kind": "title",
+  "jp": "バトローラージン",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2499_00064.1",
+  "kind": "title",
+  "jp": "アレーナ編　第５話",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2499_000a8",
+  "kind": "line",
+  "jp": "やくそくどおり　勝ちのこってきたぞ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2499_000d4",
+  "kind": "line",
+  "jp": "シュウ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2499_000f4",
+  "kind": "line",
+  "jp": "本当に強くなったな　ジン",
+  "en": "",
+  "status": "new",
+  "flags": "0x0600",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2499_00118",
+  "kind": "line",
+  "jp": "あの時のキミはバトローラーでは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2499_00140",
+  "kind": "line",
+  "jp": "なかったが　いまはちがう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2499_00164",
+  "kind": "line",
+  "jp": "いまこそ　バトローラー・ジンと",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2499_0018c",
+  "kind": "line",
+  "jp": "バトローラー・シュウの決着をつけよう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2499_001c8",
+  "kind": "line",
+  "jp": "ああ　今日こそおまえを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2499_001e8",
+  "kind": "line",
+  "jp": "ドロップしてやるぜ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

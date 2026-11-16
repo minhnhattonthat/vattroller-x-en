@@ -1,0 +1,42 @@
+[
+ {
+  "id": "e2670_00044",
+  "kind": "line",
+  "jp": "ピィ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2670_00094",
+  "kind": "line",
+  "jp": "もう　何もおちていない",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 1,
+  "notes": ""
+ },
+ {
+  "id": "e2670_000e8",
+  "kind": "line",
+  "jp": "何か　光るものがおちている……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2670_00110",
+  "kind": "line",
+  "jp": "Ｖメダルを見つけた！！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0600",
+  "script": 2,
+  "notes": ""
+ }
+]

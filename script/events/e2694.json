@@ -1,0 +1,210 @@
+[
+ {
+  "id": "e2694_000d4",
+  "kind": "line",
+  "jp": "あら　だれかとおもえば",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2694_000f4",
+  "kind": "line",
+  "jp": "∴じゃない",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2694_00108",
+  "kind": "line",
+  "jp": "なにか用かしら？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2694_00130.0",
+  "kind": "choice",
+  "jp": "なんでもない",
+  "en": "",
+  "status": "new",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2694_00130.1",
+  "kind": "choice",
+  "jp": "バトルしよう",
+  "en": "",
+  "status": "new",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2694_00178",
+  "kind": "line",
+  "jp": "もう　なんですの∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2694_001a8",
+  "kind": "line",
+  "jp": "せいと会のしごとで　いそがしいのよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2694_001d4",
+  "kind": "line",
+  "jp": "話しかけないでくださいません？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2694_00208",
+  "kind": "line",
+  "jp": "わたくしと練習試合がしたいのね？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2694_00234",
+  "kind": "line",
+  "jp": "いいわ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2694_00244",
+  "kind": "line",
+  "jp": "ただし　てかげんしませんことよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2694_002a8",
+  "kind": "line",
+  "jp": "用がすんだら　とっととお帰り",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2694_002d0",
+  "kind": "line",
+  "jp": "わたくし　せいと会のしごとで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2694_002f8",
+  "kind": "line",
+  "jp": "いそがしいのよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2694_00344",
+  "kind": "line",
+  "jp": "せいと会のしごとって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2694_00364",
+  "kind": "line",
+  "jp": "たいへんだ～",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2694_003bc",
+  "kind": "line",
+  "jp": "らくがきばかりだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2694_00418",
+  "kind": "line",
+  "jp": "しょるいがやまづみだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2694_00478",
+  "kind": "line",
+  "jp": "しょるいがやまづみだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2694_004d8",
+  "kind": "line",
+  "jp": "ことわざひゃくせんＶＲへん",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2694_0053c",
+  "kind": "line",
+  "jp": "ためになるマメちしき　だい１かん",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ }
+]

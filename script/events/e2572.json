@@ -1,0 +1,112 @@
+[
+ {
+  "id": "e2572_00094",
+  "kind": "line",
+  "jp": "またまた　勝負だ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2572_00120",
+  "kind": "line",
+  "jp": "ムム！　強くなったな！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2572_0015c",
+  "kind": "line",
+  "jp": "そんなんじゃ　ダメダメ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2572_00180",
+  "kind": "line",
+  "jp": "でなおして　きなさい！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2572_001e0",
+  "kind": "line",
+  "jp": "グローブ公園へ行け",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2572_002cc",
+  "kind": "line",
+  "jp": "あはははは　ノコノコあらわれおって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 1,
+  "notes": ""
+ },
+ {
+  "id": "e2572_00314",
+  "kind": "line",
+  "jp": "勝負！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 1,
+  "notes": ""
+ },
+ {
+  "id": "e2572_00384",
+  "kind": "line",
+  "jp": "ムム！　なかなかやるな！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 1,
+  "notes": ""
+ },
+ {
+  "id": "e2572_003c4",
+  "kind": "line",
+  "jp": "そんなんじゃ　ダメダメ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 1,
+  "notes": ""
+ },
+ {
+  "id": "e2572_003e8",
+  "kind": "line",
+  "jp": "でなおして　きなさい！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 1,
+  "notes": ""
+ },
+ {
+  "id": "e2572_00448",
+  "kind": "line",
+  "jp": "グローブ公園へ行け",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 1,
+  "notes": ""
+ }
+]

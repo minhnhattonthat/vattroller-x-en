@@ -1,0 +1,190 @@
+[
+ {
+  "id": "e2593_0006c",
+  "kind": "line",
+  "jp": "ぎょうさん　集まっとるから",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2593_00090",
+  "kind": "line",
+  "jp": "休けいは　いっさいあらへんで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2593_000b8",
+  "kind": "line",
+  "jp": "ぶっとおしで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2593_000d0",
+  "kind": "line",
+  "jp": "転がりつづけるんや～！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2593_00148.0",
+  "kind": "choice",
+  "jp": "アームセットをしゅうりょうする",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2593_00148.1",
+  "kind": "choice",
+  "jp": "アームセットをつづける",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2593_001b0",
+  "kind": "line",
+  "jp": "はぁ……　はぁ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2593_001cc",
+  "kind": "line",
+  "jp": "つぎ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2593_0022c",
+  "kind": "line",
+  "jp": "∴　やるやんけ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2593_00248",
+  "kind": "line",
+  "jp": "あとは　わい１人でも　",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2593_00268",
+  "kind": "line",
+  "jp": "なんとかできるわ　ありがとな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2593_00290",
+  "kind": "line",
+  "jp": "こいつは　ほんの気持ちや",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2593_002b4",
+  "kind": "line",
+  "jp": "エンリョせんと　とっといてくれ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2593_0032c",
+  "kind": "line",
+  "jp": "アカン……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2593_00340",
+  "kind": "line",
+  "jp": "もうギブアップや……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2593_00360",
+  "kind": "line",
+  "jp": "わいも　おまえも",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2593_0037c",
+  "kind": "line",
+  "jp": "まだまだコンジョウが　足らへんな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2593_003a8",
+  "kind": "line",
+  "jp": "また　１から",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2593_003c0",
+  "kind": "line",
+  "jp": "きたえなおしや！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

@@ -1,0 +1,380 @@
+[
+ {
+  "id": "e2685_000c8",
+  "kind": "line",
+  "jp": "ワタシハ　バトローリングヲ　ベンキョウ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2685_000f8",
+  "kind": "line",
+  "jp": "スルタメニ　トオクノマチカラ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2685_00120",
+  "kind": "line",
+  "jp": "ヤッテキタヨ　キミ　バトローラー？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2685_00158.0",
+  "kind": "choice",
+  "jp": "はい　そうです",
+  "en": "",
+  "status": "new",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2685_00158.1",
+  "kind": "choice",
+  "jp": "いいえ　ちがいます",
+  "en": "",
+  "status": "new",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2685_001a4",
+  "kind": "line",
+  "jp": "ヤハリ　ソウダッタデスネ　ワタシノ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2685_001d0",
+  "kind": "line",
+  "jp": "レンシュウ　ツキアッテクダサイマセ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2685_00228",
+  "kind": "line",
+  "jp": "サスガダネ　レベルタカイヨ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2685_0024c",
+  "kind": "line",
+  "jp": "ベンキョウニナリマシタ　アリガトネ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2685_00284",
+  "kind": "line",
+  "jp": "チガウノデスカ？　ザンネンネ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2685_002ec",
+  "kind": "line",
+  "jp": "いらっしゃい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2685_00344",
+  "kind": "line",
+  "jp": "町によって　Ｖポンの中身もちがうのよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2685_00374",
+  "kind": "line",
+  "jp": "だから　わたしは　いろんな所のＶポンを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2685_003a4",
+  "kind": "line",
+  "jp": "さがしてるのよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2685_0048c",
+  "kind": "line",
+  "jp": "たくさんのみものが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2685_004a8",
+  "kind": "line",
+  "jp": "ならんでいる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2685_00500",
+  "kind": "line",
+  "jp": "たくさんのみものが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2685_0051c",
+  "kind": "line",
+  "jp": "ならんでいる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2685_00574",
+  "kind": "line",
+  "jp": "たくさんのしょうひんが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2685_00594",
+  "kind": "line",
+  "jp": "ならんでいる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2685_005ec",
+  "kind": "line",
+  "jp": "たくさんのしょうひんが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2685_0060c",
+  "kind": "line",
+  "jp": "ならんでいる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2685_00664",
+  "kind": "line",
+  "jp": "たくさんのみものが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2685_00680",
+  "kind": "line",
+  "jp": "ならんでいる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2685_006d8",
+  "kind": "line",
+  "jp": "たくさんのみものが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2685_006f4",
+  "kind": "line",
+  "jp": "ならんでいる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2685_0074c",
+  "kind": "line",
+  "jp": "たくさんのしょうひんが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2685_0076c",
+  "kind": "line",
+  "jp": "ならんでいる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2685_007c4",
+  "kind": "line",
+  "jp": "たくさんのしょうひんが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2685_007e4",
+  "kind": "line",
+  "jp": "ならんでいる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2685_0083c",
+  "kind": "line",
+  "jp": "バトローリングかんけいの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2685_00860",
+  "kind": "line",
+  "jp": "ざっしがならんでいる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2685_008c0",
+  "kind": "line",
+  "jp": "バトローリングかんけいの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2685_008e4",
+  "kind": "line",
+  "jp": "ざっしがならんでいる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2685_00944",
+  "kind": "line",
+  "jp": "バトローリングかんけいの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 17,
+  "notes": ""
+ },
+ {
+  "id": "e2685_00968",
+  "kind": "line",
+  "jp": "ざっしがならんでいる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 17,
+  "notes": ""
+ },
+ {
+  "id": "e2685_009c8",
+  "kind": "line",
+  "jp": "バトローリングかんけいの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 18,
+  "notes": ""
+ },
+ {
+  "id": "e2685_009ec",
+  "kind": "line",
+  "jp": "ざっしがならんでいる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 18,
+  "notes": ""
+ }
+]

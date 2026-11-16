@@ -1,0 +1,230 @@
+[
+ {
+  "id": "e2705_000d4",
+  "kind": "line",
+  "jp": "みかけない顔だな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2705_000f0",
+  "kind": "line",
+  "jp": "真丸中のせいとだっけ？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2705_00144",
+  "kind": "line",
+  "jp": "あれ？　あんたも",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2705_00160",
+  "kind": "line",
+  "jp": "ウワサを聞いてきたの？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2705_00180",
+  "kind": "line",
+  "jp": "真丸中に　シュウさまが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2705_001a0",
+  "kind": "line",
+  "jp": "来るっていうウワサよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2705_001c0",
+  "kind": "line",
+  "jp": "せいとにまぎれて　あたしたちも",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2705_001e8",
+  "kind": "line",
+  "jp": "シュウさまの応援をするのよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2705_00210",
+  "kind": "line",
+  "jp": "あんたも　つきあわない？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2705_00240.0",
+  "kind": "choice",
+  "jp": "はい",
+  "en": "",
+  "status": "new",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2705_00240.1",
+  "kind": "choice",
+  "jp": "えんりょします",
+  "en": "",
+  "status": "new",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2705_00280",
+  "kind": "line",
+  "jp": "じゃあ　いくわよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2705_002a8",
+  "kind": "line",
+  "jp": "まったく　つきあい悪いわね！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2705_002d0",
+  "kind": "line",
+  "jp": "まぁ　いいわ　気がかわったら",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2705_002f8",
+  "kind": "line",
+  "jp": "また　来るのよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2705_00368",
+  "kind": "line",
+  "jp": "え～　今日はバトローリングの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2705_00390",
+  "kind": "line",
+  "jp": "れきしを勉強しましょう～",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2705_003b4",
+  "kind": "line",
+  "jp": "むにゃ　むにゃ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2705_0040c",
+  "kind": "line",
+  "jp": "あの先生　",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2705_00420",
+  "kind": "line",
+  "jp": "ねながら　じゅぎょうしてるよ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2705_0048c",
+  "kind": "line",
+  "jp": "そうじ用具が　入っている",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2705_004f0",
+  "kind": "line",
+  "jp": "じょうほうたんまつだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2705_00550",
+  "kind": "line",
+  "jp": "れきしの本が　ならんでいる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ }
+]

@@ -1,0 +1,540 @@
+[
+ {
+  "id": "e2562_0021c",
+  "kind": "line",
+  "jp": "あーあ　何だかんだで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2562_0023c",
+  "kind": "line",
+  "jp": "つかれちゃったわねぇ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2562_0025c",
+  "kind": "line",
+  "jp": "けっきょく　しのびこんだことで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2562_00284",
+  "kind": "line",
+  "jp": "すっごくおこられちゃったし……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2562_002b8",
+  "kind": "line",
+  "jp": "それはしかたないと思うけど……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2562_002ec",
+  "kind": "line",
+  "jp": "でも　トウドウのヤツを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2562_0030c",
+  "kind": "line",
+  "jp": "やっつけられてよかったな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2562_00330",
+  "kind": "line",
+  "jp": "あのジムも　社長が代わって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2562_00354",
+  "kind": "line",
+  "jp": "前のままつづけられるみたいだし",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2562_00388",
+  "kind": "line",
+  "jp": "うん……これでお兄ちゃんも",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2562_003ac",
+  "kind": "line",
+  "jp": "安心してバトローリングできるよね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2562_003f4",
+  "kind": "line",
+  "jp": "あっ∇　そういえば",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2562_00410",
+  "kind": "line",
+  "jp": "いろいろあって　わすれてた∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2562_00438",
+  "kind": "line",
+  "jp": "オレ　∴ともういちど",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2562_00458",
+  "kind": "line",
+  "jp": "勝負するやくそくだったよな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2562_0047c",
+  "kind": "line",
+  "jp": "今からやろうぜ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2562_00498",
+  "kind": "line",
+  "jp": "バトローリング∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2562_004c0.0",
+  "kind": "choice",
+  "jp": "うん　やろう！",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2562_004c0.1",
+  "kind": "choice",
+  "jp": "でも　つかれてない？",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2562_00510",
+  "kind": "line",
+  "jp": "そうこなくっちゃ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2562_0052c",
+  "kind": "line",
+  "jp": "よーし　こんどは負けないぞっ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2562_00560",
+  "kind": "line",
+  "jp": "ぜんぜん！　バトローリングやるなら",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2562_0058c",
+  "kind": "line",
+  "jp": "つかれなんかふっとんじゃうよ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2562_005d4",
+  "kind": "line",
+  "jp": "ちょっとまった！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2562_0072c",
+  "kind": "line",
+  "jp": "お兄ちゃん！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2562_00744",
+  "kind": "line",
+  "jp": "それにタクミとイカヅチも……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2562_00778",
+  "kind": "line",
+  "jp": "そいつとはオレも勝負するやくそくだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2562_007a4",
+  "kind": "line",
+  "jp": "おまえは　オレのあとにしてもらおう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2562_007dc",
+  "kind": "line",
+  "jp": "ボクもひさしぶりに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2562_007f8",
+  "kind": "line",
+  "jp": "戦ってみたいですね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2562_00820",
+  "kind": "line",
+  "jp": "わいもマルスをめざしとるんや",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2562_00848",
+  "kind": "line",
+  "jp": "なかまとはいえ　勝負はするで！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2562_008b0",
+  "kind": "line",
+  "jp": "ジン∇　てめぇ　何ぬけがけしてんだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2562_008dc",
+  "kind": "line",
+  "jp": "バトリーグのトップランカーだぞ≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2562_009ec",
+  "kind": "line",
+  "jp": "そんなすげぇヤツにふさわしい相手は",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2562_00a18",
+  "kind": "line",
+  "jp": "シュウさんとオレって決まってんだよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2562_00a50",
+  "kind": "line",
+  "jp": "中学生にして　マルスとも戦った",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2562_00a78",
+  "kind": "line",
+  "jp": "天才バトローラー……うでがなるな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2562_00ab0",
+  "kind": "line",
+  "jp": "おっと！　ちょうせんするのはこの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2562_00adc",
+  "kind": "line",
+  "jp": "トータさまです　ぜったい負けないです∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2562_00b18",
+  "kind": "line",
+  "jp": "ちょ　ちょっとまてよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2562_00b38",
+  "kind": "line",
+  "jp": "……じゃあ　こうしよう∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2562_00b5c",
+  "kind": "line",
+  "jp": "だれがこいつと戦うか",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2562_00b7c",
+  "kind": "line",
+  "jp": "バトローリングで決めようぜ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2562_00bb0",
+  "kind": "line",
+  "jp": "くすっ　ジンくんったら……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2562_00bd4",
+  "kind": "line",
+  "jp": "それにみんなも……とっても楽しそう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2562_00c0c",
+  "kind": "line",
+  "jp": "そりゃあそうよ　だって……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2562_00c30",
+  "kind": "line",
+  "jp": "やっぱバトローリングは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2562_00c50",
+  "kind": "line",
+  "jp": "楽しくなくっちゃ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2562_00c78",
+  "kind": "line",
+  "jp": "よーし　それじゃみんな　行くぞーっ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2562_00cd4",
+  "kind": "line",
+  "jp": "レッツ　エンジョイ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2562_00cf0",
+  "kind": "line",
+  "jp": "バトローリング∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2562_00d48",
+  "kind": "line",
+  "jp": "アーマレット『ファイバード』が",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2562_00d70",
+  "kind": "line",
+  "jp": "使えるようになりました∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

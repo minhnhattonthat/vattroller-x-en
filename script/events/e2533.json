@@ -1,0 +1,578 @@
+[
+ {
+  "id": "e2533_000e4",
+  "kind": "line",
+  "jp": "おやおや　こんなところで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2533_00108",
+  "kind": "line",
+  "jp": "なにしとるんじゃ？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2533_00124",
+  "kind": "line",
+  "jp": "イベント会場は向こうじゃぞ？　まぁ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2533_00150",
+  "kind": "line",
+  "jp": "マルスはもう引っこんだがの……ムニャ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2533_0018c.0",
+  "kind": "choice",
+  "jp": "まよってしまって",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2533_0018c.1",
+  "kind": "choice",
+  "jp": "あなたもマルスを見に？",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2533_001e0",
+  "kind": "line",
+  "jp": "ほほう　それならわしがあんないするぞ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2533_00210",
+  "kind": "line",
+  "jp": "ここにはくわしいんでな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2533_00244",
+  "kind": "line",
+  "jp": "……そういえばおぬし　さっきハヤテと",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2533_00274",
+  "kind": "line",
+  "jp": "戦った子たちの１人じゃな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2533_00298",
+  "kind": "line",
+  "jp": "ひょひょひょ　おぼえちょるよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2533_002c0",
+  "kind": "line",
+  "jp": "おぬし　いい目をしとったからの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2533_002e8",
+  "kind": "line",
+  "jp": "バトローリングが心からすきな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2533_00310",
+  "kind": "line",
+  "jp": "そういう目じゃ……ムニャ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2533_00340",
+  "kind": "line",
+  "jp": "ひょひょひょ　わしはどちらかといえば",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2533_00370",
+  "kind": "line",
+  "jp": "子どもたちのほうかのぅ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2533_0039c",
+  "kind": "line",
+  "jp": "バトローリングがすきでたまらない",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2533_003c8",
+  "kind": "line",
+  "jp": "そんな子どもたち……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2533_003e8",
+  "kind": "line",
+  "jp": "かれらの　かがやくようなさいのうを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2533_00414",
+  "kind": "line",
+  "jp": "見るのがだいすきなんじゃよ……ムニャ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2533_00444",
+  "kind": "line",
+  "jp": "もちろんおぬしも　そんな子どもの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2533_00470",
+  "kind": "line",
+  "jp": "ひとりじゃな　ひょひょひょ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2533_004a4",
+  "kind": "line",
+  "jp": "ついてきなされ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2533_00540",
+  "kind": "line",
+  "jp": "ここをまっすぐ行けば出口じゃが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2533_00568",
+  "kind": "line",
+  "jp": "……おお　そうじゃ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2533_00588",
+  "kind": "line",
+  "jp": "おぬし　ちょっとここでまってると",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2533_005b4",
+  "kind": "line",
+  "jp": "ええことがあるかもの……ムニャ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2533_005f8",
+  "kind": "line",
+  "jp": "じゃあ　またな……ムニャ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2533_00684",
+  "kind": "line",
+  "jp": "おや　キミは……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2533_006a0",
+  "kind": "line",
+  "jp": "さっき　さいごに戦ったチームの１人だね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2533_006e4",
+  "kind": "line",
+  "jp": "おぼえてるのかって？　もちろん！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2533_00710",
+  "kind": "line",
+  "jp": "キミたちはなかなか強かったからね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2533_0073c",
+  "kind": "line",
+  "jp": "とくにキミはいんしょうにのこってるよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2533_0076c",
+  "kind": "line",
+  "jp": "いずれまたどこかで……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2533_00798",
+  "kind": "line",
+  "jp": "もしかしたらバトリーグの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2533_007bc",
+  "kind": "line",
+  "jp": "フィールドで　また戦えるかもな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2533_007f0.0",
+  "kind": "choice",
+  "jp": "はい！　必ず！",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2533_007f0.1",
+  "kind": "choice",
+  "jp": "できれば……",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2533_00838",
+  "kind": "line",
+  "jp": "うん　いい返事だ　キミならきっと",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2533_00864",
+  "kind": "line",
+  "jp": "ぼくのところまで来れるよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2533_00894",
+  "kind": "line",
+  "jp": "キミならきっとできるさ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2533_008b4",
+  "kind": "line",
+  "jp": "ぼくがほしょうするよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2533_008e0",
+  "kind": "line",
+  "jp": "またな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2533_00968",
+  "kind": "line",
+  "jp": "あ　いた！　あんたこんなとこで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2533_00990",
+  "kind": "line",
+  "jp": "なにまいごになってんのよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2533_009d8",
+  "kind": "line",
+  "jp": "……なに　ぼーっとしてんのよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2533_00a00",
+  "kind": "line",
+  "jp": "なんかあったの？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2533_00a30",
+  "kind": "line",
+  "jp": "まぁいいわ　とにかく帰ったら",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2533_00a58",
+  "kind": "line",
+  "jp": "すぐにバトローリングするわよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2533_00a80",
+  "kind": "line",
+  "jp": "あこがれのマルスを見て　みんな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2533_00aa8",
+  "kind": "line",
+  "jp": "もえてるのよ　さあ　レッツゴー！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2533_00b58",
+  "kind": "line",
+  "jp": "…………",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2533_00b6c",
+  "kind": "line",
+  "jp": "∴……はじめて会った時は",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2533_00b90",
+  "kind": "line",
+  "jp": "シロウトにしちゃ強いというだけだった",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2533_00bc0",
+  "kind": "line",
+  "jp": "しかし　今日のバトル……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2533_00be4",
+  "kind": "line",
+  "jp": "マルスも気にかけるほどになっている",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2533_00c10",
+  "kind": "line",
+  "jp": "どういうことだ？　学校の部活なんか",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2533_00c3c",
+  "kind": "line",
+  "jp": "やってるヤツが……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

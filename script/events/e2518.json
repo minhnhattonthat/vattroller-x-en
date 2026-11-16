@@ -1,0 +1,572 @@
+[
+ {
+  "id": "e2518_002c0",
+  "kind": "line",
+  "jp": "∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2518_00318",
+  "kind": "line",
+  "jp": "あっ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2518_00384",
+  "kind": "line",
+  "jp": "ぎゃあー∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2518_00398",
+  "kind": "line",
+  "jp": "助けてくれ～っ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2518_003f8",
+  "kind": "line",
+  "jp": "弱いものには　用はない……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2518_00440",
+  "kind": "line",
+  "jp": "あっ　あなたは∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2518_00468",
+  "kind": "line",
+  "jp": "マスター∇　どうしてそんなところに∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2518_004a4",
+  "kind": "line",
+  "jp": "マスターだって≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2518_004c0",
+  "kind": "line",
+  "jp": "それってたしか…",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2518_004e8",
+  "kind": "line",
+  "jp": "シュウとリョウか　おれは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2518_0050c",
+  "kind": "line",
+  "jp": "おまえたちが知ってるマスターではない",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2518_0053c",
+  "kind": "line",
+  "jp": "デスローラーレイオンだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2518_00568",
+  "kind": "line",
+  "jp": "マスター∇　目をさましてください",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2518_00594",
+  "kind": "line",
+  "jp": "あなたは　そんな人ではないはずだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2518_005cc",
+  "kind": "line",
+  "jp": "人は戦い　きずつけあうもの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2518_005f0",
+  "kind": "line",
+  "jp": "戦うのは　人のほんのうなのだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2518_00618",
+  "kind": "line",
+  "jp": "ならばわたしは　それにしたがうのみ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2518_00648",
+  "kind": "line",
+  "jp": "シュウよ　これがげんじつだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2518_00678",
+  "kind": "line",
+  "jp": "いぜんマスターは　こう言った……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2518_006a4",
+  "kind": "line",
+  "jp": "戦いをもとめる心は",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2518_006c0",
+  "kind": "line",
+  "jp": "スポーツという　ルールのある",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2518_006e8",
+  "kind": "line",
+  "jp": "安全な戦いへ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2518_00700",
+  "kind": "line",
+  "jp": "みちびくことができると",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2518_00720",
+  "kind": "line",
+  "jp": "あれはまちがいだったのか……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2518_00748",
+  "kind": "line",
+  "jp": "人は本のうのまま　戦うしかないのか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2518_00794",
+  "kind": "line",
+  "jp": "しっかりしてくれ　シュウさん∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2518_007bc",
+  "kind": "line",
+  "jp": "オレはケンカばかりの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2518_007dc",
+  "kind": "line",
+  "jp": "どーしよーもねえヤツだ　だけどよ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2518_0080c",
+  "kind": "line",
+  "jp": "がんばればいつか",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2518_00828",
+  "kind": "line",
+  "jp": "シュウさんみたいに戦える……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2518_00850",
+  "kind": "line",
+  "jp": "そう思ってきたんだ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2518_00870",
+  "kind": "line",
+  "jp": "シュウさんはりっぱに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2518_00890",
+  "kind": "line",
+  "jp": "マスターの教えどおりだ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2518_008b4",
+  "kind": "line",
+  "jp": "なにもまちがってねぇ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2518_008e0",
+  "kind": "line",
+  "jp": "……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2518_008f0",
+  "kind": "line",
+  "jp": "そうだな　マスターレイオンの教えは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2518_0091c",
+  "kind": "line",
+  "jp": "オレの中にある",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2518_00934",
+  "kind": "line",
+  "jp": "そのオレが勝つことが　マスターの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2518_00960",
+  "kind": "line",
+  "jp": "教えの正しさの　なによりのあかしだ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2518_00990",
+  "kind": "line",
+  "jp": "もうオレはまよわない　このバトルに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2518_009bc",
+  "kind": "line",
+  "jp": "勝ち　マスターを病からすくう∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2518_00a00",
+  "kind": "line",
+  "jp": "さぁ　たっぷりたのしませてくれ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2518_00acc",
+  "kind": "line",
+  "jp": "うう……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2518_00afc",
+  "kind": "line",
+  "jp": "マスター∇　",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2518_00b20",
+  "kind": "line",
+  "jp": "シュウ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2518_00b34",
+  "kind": "line",
+  "jp": "めいわくをかけてしまったな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2518_00b58",
+  "kind": "line",
+  "jp": "本当に強くなった…",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2518_00b80",
+  "kind": "line",
+  "jp": "正気にもどったんですか∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2518_00bb0",
+  "kind": "line",
+  "jp": "キミとリョウ……　２人のおかげだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2518_00bdc",
+  "kind": "line",
+  "jp": "しばらく見ないうちに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2518_00bfc",
+  "kind": "line",
+  "jp": "キミたちは　わたしなんかとっくに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2518_00c28",
+  "kind": "line",
+  "jp": "おいぬいてしまった……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2518_00c48",
+  "kind": "line",
+  "jp": "もう　わたしが教えることはないな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2518_00cac",
+  "kind": "line",
+  "jp": "いいえ　マスター",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2518_00cc8",
+  "kind": "line",
+  "jp": "オレなんかまだまだです",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2518_00ce8",
+  "kind": "line",
+  "jp": "また　リョウともども",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2518_00d08",
+  "kind": "line",
+  "jp": "よろしくおねがいします",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ }
+]

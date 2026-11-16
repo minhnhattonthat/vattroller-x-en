@@ -1,0 +1,172 @@
+[
+ {
+  "id": "e2666_000d4",
+  "kind": "line",
+  "jp": "アームセットをどうするかって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2666_000fc",
+  "kind": "line",
+  "jp": "なかなか　なやみどころだよな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2666_00124",
+  "kind": "line",
+  "jp": "キミは　どうしているんだい？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2666_00180",
+  "kind": "line",
+  "jp": "アーマレットに組みこむ　３つの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2666_001a8",
+  "kind": "line",
+  "jp": "アームをどうするか　なやんでるんだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2666_001d4",
+  "kind": "line",
+  "jp": "バランスがだいじなのかな？　とくいな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2666_00204",
+  "kind": "line",
+  "jp": "ポイントをのばすのがいいのかな？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2666_00270",
+  "kind": "line",
+  "jp": "きれいな　タンスだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2666_002c0",
+  "kind": "line",
+  "jp": "おしゃれなふくの上に　光るものが……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2666_002f0",
+  "kind": "line",
+  "jp": "Ｖメダルを見つけた！！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0600",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2666_00398",
+  "kind": "line",
+  "jp": "テレビをつけてみた",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2666_003b4",
+  "kind": "line",
+  "jp": "バトリーグのちゅうけいが　はじまった",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2666_00448",
+  "kind": "line",
+  "jp": "テレビをつけてみた",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2666_00464",
+  "kind": "line",
+  "jp": "バトリーグのちゅうけいが　はじまった",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2666_004dc",
+  "kind": "line",
+  "jp": "きれいな　タンスだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2666_00538",
+  "kind": "line",
+  "jp": "きれいな　タンスだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2666_00594",
+  "kind": "line",
+  "jp": "きれいな　タンスだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ }
+]

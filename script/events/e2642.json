@@ -1,0 +1,292 @@
+[
+ {
+  "id": "e2642_000ec",
+  "kind": "line",
+  "jp": "タクミちゃんも　マルスをめざして",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2642_00118",
+  "kind": "line",
+  "jp": "ほんかくてきにがんばるって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2642_0013c",
+  "kind": "line",
+  "jp": "あんな楽しそうなタクミちゃん",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2642_00164",
+  "kind": "line",
+  "jp": "見たことがないわ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2642_00180",
+  "kind": "line",
+  "jp": "みんなあなたのおかげね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2642_001a0",
+  "kind": "line",
+  "jp": "どうもありがとう！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2642_001f0",
+  "kind": "line",
+  "jp": "タクミちゃんったら　さいきん",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2642_00218",
+  "kind": "line",
+  "jp": "学校にいくのが　すごくたのしそうなの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2642_00248",
+  "kind": "line",
+  "jp": "ひょっとして　ガールフレンドが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2642_00270",
+  "kind": "line",
+  "jp": "できたんじゃないかしら≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2642_002c8",
+  "kind": "line",
+  "jp": "おそうじ　おそうじ　たのしいなっと",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2642_002f4",
+  "kind": "line",
+  "jp": "ルンルン！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2642_00308",
+  "kind": "line",
+  "jp": "でも　タクミちゃんはキレイずきだから",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2642_00338",
+  "kind": "line",
+  "jp": "おそうじのしがいがないわぁ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2642_003a0",
+  "kind": "line",
+  "jp": "ゴミばこの中は　からっぽだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2642_003f8",
+  "kind": "line",
+  "jp": "ゴミばこの中に　光るものが……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2642_00420",
+  "kind": "line",
+  "jp": "Ｖメダルを見つけた！！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0600",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2642_004d4",
+  "kind": "line",
+  "jp": "え？　いやだなぁ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2642_004f0",
+  "kind": "line",
+  "jp": "ぼくだってマンガぐらいよみますよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2642_0051c",
+  "kind": "line",
+  "jp": "てつがく書のつぎに　すきな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2642_00540",
+  "kind": "line",
+  "jp": "ジャンルなんですから",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2642_00594",
+  "kind": "line",
+  "jp": "家にあそびにきてくれてありがとう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2642_005c0",
+  "kind": "line",
+  "jp": "どうぞ　ゆっくりしていってください",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2642_005ec",
+  "kind": "line",
+  "jp": "バトローリングの本も　いろいろそろえ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2642_0061c",
+  "kind": "line",
+  "jp": "てあります　おかししましょうか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2642_00648",
+  "kind": "line",
+  "jp": "バトローリングをだいざいにした",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2642_00670",
+  "kind": "line",
+  "jp": "マンガもありますよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2642_006d8",
+  "kind": "line",
+  "jp": "ほのおのゴロゴロ戦士バトレンジャー",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2642_00704",
+  "kind": "line",
+  "jp": "ひみつずかん　ぜん２０かんセット",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ }
+]

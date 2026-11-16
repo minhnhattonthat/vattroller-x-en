@@ -1,0 +1,112 @@
+[
+ {
+  "id": "e2671_0023c",
+  "kind": "line",
+  "jp": "きちんと　せいりされている",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2671_00294",
+  "kind": "line",
+  "jp": "たんすの中に　光るものが……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2671_002bc",
+  "kind": "line",
+  "jp": "Ｖメダルを見つけた！！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0600",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2671_00348",
+  "kind": "line",
+  "jp": "ジンのようふくが　たたんである",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2671_003b0",
+  "kind": "line",
+  "jp": "きれいなタンスだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2671_0040c",
+  "kind": "line",
+  "jp": "この先は　剣じゅつどうじょうみたいだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2671_0047c",
+  "kind": "line",
+  "jp": "この先は　剣じゅつどうじょうみたいだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2671_00508",
+  "kind": "line",
+  "jp": "テレビをつけてみた",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2671_00524",
+  "kind": "line",
+  "jp": "バトリーグのちゅうけいが　うつっている",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2671_005b8",
+  "kind": "line",
+  "jp": "テレビをつけてみた",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2671_005d4",
+  "kind": "line",
+  "jp": "バトリーグのちゅうけいが　うつっている",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 14,
+  "notes": ""
+ }
+]

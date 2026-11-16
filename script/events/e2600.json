@@ -1,0 +1,422 @@
+[
+ {
+  "id": "e2600_0009c",
+  "kind": "line",
+  "jp": "はぁ……はぁ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2600_000c4",
+  "kind": "line",
+  "jp": "どうした……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2600_000dc",
+  "kind": "line",
+  "jp": "もうヘバったのか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2600_00104",
+  "kind": "line",
+  "jp": "ま……まだやれます∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2600_00138",
+  "kind": "line",
+  "jp": "そこにいるのは　だれだ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2600_001e0",
+  "kind": "line",
+  "jp": "あ……あたしたちは　その……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2600_00208",
+  "kind": "line",
+  "jp": "バトローリングの　練習に……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2600_0023c",
+  "kind": "line",
+  "jp": "見えすいたウソはやめろ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2600_00260",
+  "kind": "line",
+  "jp": "ここはオレたちが　かしきってるんだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2600_00298",
+  "kind": "line",
+  "jp": "キミたちも　たしか",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2600_002b4",
+  "kind": "line",
+  "jp": "バトローラーじゃなかったか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2600_002e8",
+  "kind": "line",
+  "jp": "は……はい！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2600_00300",
+  "kind": "line",
+  "jp": "そうです！　そうなんです！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2600_00330",
+  "kind": "line",
+  "jp": "よかったら　オレたちに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2600_00350",
+  "kind": "line",
+  "jp": "ちょっとつきあってもらえるかな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2600_00378",
+  "kind": "line",
+  "jp": "すこし　ウデまえを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2600_00394",
+  "kind": "line",
+  "jp": "ひろうしてもらいたいんだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2600_003d4",
+  "kind": "line",
+  "jp": "シュウさん∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2600_003f8",
+  "kind": "line",
+  "jp": "つ……つきあいます！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2600_00418",
+  "kind": "line",
+  "jp": "おつきあいしますとも！！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2600_00488",
+  "kind": "line",
+  "jp": "いい？　あんた　あたしに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2600_004ac",
+  "kind": "line",
+  "jp": "ハジかかせるんじゃないわよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2600_00598",
+  "kind": "line",
+  "jp": "なかなか　いいウデをしているな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2600_005c0",
+  "kind": "line",
+  "jp": "先がたのしみだよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2600_005f8",
+  "kind": "line",
+  "jp": "あたしにハジかかせるなとは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2600_0061c",
+  "kind": "line",
+  "jp": "言ったけど……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2600_00634",
+  "kind": "line",
+  "jp": "シュウさまに勝って　どうすんのよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2600_00674",
+  "kind": "line",
+  "jp": "ヘッ　いい気になるんじゃねえぞ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2600_0069c",
+  "kind": "line",
+  "jp": "シュウさんも　オレも",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2600_006bc",
+  "kind": "line",
+  "jp": "軽くながしただけだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2600_006f4",
+  "kind": "line",
+  "jp": "シュウさまは　ともかく",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2600_00714",
+  "kind": "line",
+  "jp": "あんたには　負けてないわよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2600_00750",
+  "kind": "line",
+  "jp": "なにっ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2600_00780",
+  "kind": "line",
+  "jp": "リョウ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2600_00794",
+  "kind": "line",
+  "jp": "それくらいにしておけ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2600_007d0",
+  "kind": "line",
+  "jp": "これは　つきあってくれた礼だ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2600_007f8",
+  "kind": "line",
+  "jp": "うけとってくれ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2600_00844",
+  "kind": "line",
+  "jp": "いい練習になったよ　ありがとう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2600_00878",
+  "kind": "line",
+  "jp": "おまえらじゃ　練習の",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2600_00898",
+  "kind": "line",
+  "jp": "役にも立たねえよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2600_008b4",
+  "kind": "line",
+  "jp": "もっと　他で",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2600_008cc",
+  "kind": "line",
+  "jp": "ウデをみがいてくるんだな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

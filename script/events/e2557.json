@@ -1,0 +1,240 @@
+[
+ {
+  "id": "e2557_00094",
+  "kind": "line",
+  "jp": "このままじっとまってろなんて……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2557_000c0",
+  "kind": "line",
+  "jp": "とてもそんなことできないぜ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2557_000e8",
+  "kind": "line",
+  "jp": "あのトウドウが悪者なんだろ？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2557_00110",
+  "kind": "line",
+  "jp": "オレたちで行ってやっつけちゃおうぜ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2557_0014c",
+  "kind": "line",
+  "jp": "いいこと言うわね　あんた！　よ～し",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2557_00178",
+  "kind": "line",
+  "jp": "さっそくみんなでなぐりこみよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2557_001ac",
+  "kind": "line",
+  "jp": "ちょ……ちょっと　２人とも∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2557_001e0.0",
+  "kind": "choice",
+  "jp": "あとでおこられると思う",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2557_001e0.1",
+  "kind": "choice",
+  "jp": "せめてしょうこをさがそう",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2557_0023c",
+  "kind": "line",
+  "jp": "おじけづいたの≡　大人がこわくて",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2557_00268",
+  "kind": "line",
+  "jp": "バトローリングはできないわよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2557_00290",
+  "kind": "line",
+  "jp": "……とは言うものの　たしかになにか",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2557_002bc",
+  "kind": "line",
+  "jp": "いいわけはほしいわねぇ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2557_002f0",
+  "kind": "line",
+  "jp": "そうだ！　いほうアームのしょうこを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2557_0031c",
+  "kind": "line",
+  "jp": "とりに行くってのはどう？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2557_0034c",
+  "kind": "line",
+  "jp": "いいな！　それならきっと",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2557_00370",
+  "kind": "line",
+  "jp": "もんくは言われないぞ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2557_0039c",
+  "kind": "line",
+  "jp": "言われない……のかなぁ？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2557_003cc",
+  "kind": "line",
+  "jp": "ああ……なるほど　頭いいわね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2557_003f4",
+  "kind": "line",
+  "jp": "しょうこさえあれば　もんくないんだし",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2557_00430",
+  "kind": "line",
+  "jp": "しょうこってつまり　いほうアームを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2557_0045c",
+  "kind": "line",
+  "jp": "見つけてもちだせばいいんだな？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2557_00490",
+  "kind": "line",
+  "jp": "じゃ　いちおう夜をまって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2557_004b4",
+  "kind": "line",
+  "jp": "行きましょう　決まりね！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

@@ -1,0 +1,602 @@
+[
+ {
+  "id": "e2561_00108",
+  "kind": "line",
+  "jp": "ガキが調子にのりやがって！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2561_0012c",
+  "kind": "line",
+  "jp": "もう手かげんはなしだ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2561_0014c",
+  "kind": "line",
+  "jp": "このアームの本当の力を見せてやる！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2561_00220",
+  "kind": "line",
+  "jp": "……！　ウェストの時よりもすごい！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2561_0024c",
+  "kind": "line",
+  "jp": "ヤ　ヤバいわよ　∴！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2561_002e8",
+  "kind": "line",
+  "jp": "きゃあっ！！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2561_0033c",
+  "kind": "line",
+  "jp": "なによ！　はなしなさいよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2561_0042c",
+  "kind": "line",
+  "jp": "なにすんだよ∇　はなせよー∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2561_00468",
+  "kind": "line",
+  "jp": "あとは　おまえ１人だ　∴！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2561_0048c",
+  "kind": "line",
+  "jp": "バトローリングのすべてを手にするため",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2561_004bc",
+  "kind": "line",
+  "jp": "おまえには消えてもらうっ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2561_004ec",
+  "kind": "line",
+  "jp": "……と言っても　このままじゃつまらんな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2561_0051c",
+  "kind": "line",
+  "jp": "そうだ　このアームのいりょくを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2561_00544",
+  "kind": "line",
+  "jp": "見せつけるために",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2561_00560",
+  "kind": "line",
+  "jp": "ちょっとしたゲームをしよう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2561_00584",
+  "kind": "line",
+  "jp": "５ポイントとったら勝ち　という",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2561_005ac",
+  "kind": "line",
+  "jp": "ルールのサバイバルデスマッチだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2561_005d4",
+  "kind": "line",
+  "jp": "おまえとジン　２人がかりでかかって来い",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2561_00604",
+  "kind": "line",
+  "jp": "まあ　このアームの前では",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2561_00628",
+  "kind": "line",
+  "jp": "何人かかってこようが　ムダだがな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2561_00654",
+  "kind": "line",
+  "jp": "せいぜいがんばって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2561_00670",
+  "kind": "line",
+  "jp": "オレを楽しませてくれ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2561_006ac",
+  "kind": "line",
+  "jp": "∴∇　こんなふざけたヤツ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2561_006d0",
+  "kind": "line",
+  "jp": "ぶったおそう∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2561_006e8",
+  "kind": "line",
+  "jp": "オレたち２人なら　きっとできる∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2561_00720",
+  "kind": "line",
+  "jp": "バカめが！　ガキ２人で何が出来る！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2561_0074c",
+  "kind": "line",
+  "jp": "まとめて　たたきつぶしてやるっ！！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2561_00870",
+  "kind": "line",
+  "jp": "バ　バカな……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2561_00888",
+  "kind": "line",
+  "jp": "このぼうそうしたアームは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2561_008ac",
+  "kind": "line",
+  "jp": "パワーが１０ばいいじょう……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2561_008d4",
+  "kind": "line",
+  "jp": "それを　たった２人で",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2561_008f4",
+  "kind": "line",
+  "jp": "うちやぶるなんて……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2561_00920",
+  "kind": "line",
+  "jp": "へへっ　ただの２人じゃないさ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2561_00948",
+  "kind": "line",
+  "jp": "オレたちは　最強タッグだぜ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2561_0097c",
+  "kind": "line",
+  "jp": "フッ　しかしこちらには　ヒトジチが……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2561_009ec",
+  "kind": "line",
+  "jp": "あれ≡　ヒトジチが……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2561_00a70",
+  "kind": "line",
+  "jp": "ヒトジチってだれのこと？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2561_00ab0",
+  "kind": "line",
+  "jp": "だれって……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2561_00aec",
+  "kind": "line",
+  "jp": "お　おまえたち　なぜそこに≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2561_00b34",
+  "kind": "line",
+  "jp": "く　くそっ！　だれか！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2561_00b54",
+  "kind": "line",
+  "jp": "出てきて　こいつらをやっつけろ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2561_00bf0",
+  "kind": "line",
+  "jp": "だれも出てきやせんよ　トウドウ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2561_00c44",
+  "kind": "line",
+  "jp": "グ　グローブ≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2561_00c68",
+  "kind": "line",
+  "jp": "ちょうさをさせてたら　子どもたちが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2561_00c94",
+  "kind": "line",
+  "jp": "しのびこんだと聞いたのでな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2561_00cc4",
+  "kind": "line",
+  "jp": "あんまりムチャをするもんでないぞ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2561_00cf0",
+  "kind": "line",
+  "jp": "ぼうずども……ムニャ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2561_00d1c",
+  "kind": "line",
+  "jp": "へへへ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2561_00d3c",
+  "kind": "line",
+  "jp": "じゃが　これでいほうアームを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2561_00d64",
+  "kind": "line",
+  "jp": "おぬしが使ってることが明らかになった",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2561_00d94",
+  "kind": "line",
+  "jp": "おぬしはもう終わりじゃ　トウドウ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2561_00dc0",
+  "kind": "line",
+  "jp": "かんねんするんじゃな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2561_00df4",
+  "kind": "line",
+  "jp": "……くそっ！　バトローリングを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2561_00e1c",
+  "kind": "line",
+  "jp": "わがものにするやぼうがこんなガキに！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2561_00e68",
+  "kind": "line",
+  "jp": "なに言ってんだよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2561_00e84",
+  "kind": "line",
+  "jp": "そんなのムリに決まってるだろ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2561_00eac",
+  "kind": "line",
+  "jp": "バトローリングは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2561_00ec8",
+  "kind": "line",
+  "jp": "オレたちみんなのものなんだからさ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2561_00f00",
+  "kind": "line",
+  "jp": "そうじゃ　子どもたちの言うとおり……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2561_00f30",
+  "kind": "line",
+  "jp": "バトローリングはみんなのものなんじゃ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

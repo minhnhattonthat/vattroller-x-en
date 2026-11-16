@@ -1,0 +1,212 @@
+[
+ {
+  "id": "e2531_000f8",
+  "kind": "line",
+  "jp": "さすが　マルスが来るだけあって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2531_00120",
+  "kind": "line",
+  "jp": "にぎわってますね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2531_00158",
+  "kind": "line",
+  "jp": "さっきプレミアムジムの人たちも",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2531_00180",
+  "kind": "line",
+  "jp": "見かけたわよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2531_001b4",
+  "kind": "line",
+  "jp": "お兄ちゃん　ハヤテみたいなマルスに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2531_001e0",
+  "kind": "line",
+  "jp": "なりたいってよく言ってるもんね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2531_00214",
+  "kind": "line",
+  "jp": "おおっ　出てきたで！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2531_00250",
+  "kind": "line",
+  "jp": "……おまたせしました　バトリーグの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2531_0027c",
+  "kind": "line",
+  "jp": "ムテキのマルス　ハヤテせんしゅです！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2531_00348",
+  "kind": "line",
+  "jp": "……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2531_00364",
+  "kind": "line",
+  "jp": "あれが　しじょうさいきょうとも",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2531_0038c",
+  "kind": "line",
+  "jp": "うわさされる　ハヤテせんしゅ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2531_003c4",
+  "kind": "line",
+  "jp": "生マルスよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2531_003dc",
+  "kind": "line",
+  "jp": "ああ　かんげきだわ～！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2531_00408",
+  "kind": "line",
+  "jp": "さすが　かっこええなぁ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2531_00428",
+  "kind": "line",
+  "jp": "わいが女やったら　ほれとるとこや！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2531_00460",
+  "kind": "line",
+  "jp": "さあ　マルスと戦ってみたい人は",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2531_00488",
+  "kind": "line",
+  "jp": "元気よく手をあげてください",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2531_004b8",
+  "kind": "line",
+  "jp": "！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2531_004d0",
+  "kind": "line",
+  "jp": "来たで！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2531_004f0",
+  "kind": "line",
+  "jp": "はいはいはいっ！！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ }
+]

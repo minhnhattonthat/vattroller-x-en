@@ -1,0 +1,602 @@
+[
+ {
+  "id": "e2517_00300",
+  "kind": "line",
+  "jp": "ぐぅぎゃー∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2517_00354",
+  "kind": "line",
+  "jp": "ガキ相手にゆだんしやがって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2517_00378",
+  "kind": "line",
+  "jp": "まったく　ぶざまなヤツだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2517_0039c",
+  "kind": "line",
+  "jp": "オレはこいつのようにはいかないぜ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2517_003c8",
+  "kind": "line",
+  "jp": "次の相手は　どいつだ　ガキども∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2517_003f4",
+  "kind": "line",
+  "jp": "なんだったら　全員で",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2517_00414",
+  "kind": "line",
+  "jp": "かかってきてもいいぜ？　ぐひひひひ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2517_00478",
+  "kind": "line",
+  "jp": "今度はボクが行くです",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2517_004a4",
+  "kind": "line",
+  "jp": "おいおい　だいじょうぶかよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2517_004c8",
+  "kind": "line",
+  "jp": "ビビッてんじゃねーか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2517_00504",
+  "kind": "line",
+  "jp": "平気です　リョウくんのおかげで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2517_0052c",
+  "kind": "line",
+  "jp": "おちつきました",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2517_00544",
+  "kind": "line",
+  "jp": "フンイキにのまれてるボクらのため",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2517_00570",
+  "kind": "line",
+  "jp": "先に出てくれたんですよね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2517_005a8",
+  "kind": "line",
+  "jp": "な　なに勝手なこと言ってんだよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2517_005d0",
+  "kind": "line",
+  "jp": "このドチビが∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2517_0060c",
+  "kind": "line",
+  "jp": "あーっ　リョウのヤツ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2517_0062c",
+  "kind": "line",
+  "jp": "てれてやんの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2517_00660",
+  "kind": "line",
+  "jp": "てれてねーっ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2517_006bc",
+  "kind": "line",
+  "jp": "このトータさまが相手ですよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2517_006ec",
+  "kind": "line",
+  "jp": "前にも　おまえみたいなヤツと戦ったが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2517_0071c",
+  "kind": "line",
+  "jp": "そいつも口だけだったな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2517_0073c",
+  "kind": "line",
+  "jp": "トホとかいうヤツだったぜ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2517_00760",
+  "kind": "line",
+  "jp": "トータくん",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2517_00790",
+  "kind": "line",
+  "jp": "なぜ　ぼくのなまえを知ってるですか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2517_007c0",
+  "kind": "line",
+  "jp": "それに　マスターも",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2517_007e8",
+  "kind": "line",
+  "jp": "いくらトリッキーな　おまえのマスターも",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2517_00818",
+  "kind": "line",
+  "jp": "まさか　ドロップできないとは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2517_00840",
+  "kind": "line",
+  "jp": "思ってなかったようだな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2517_00860",
+  "kind": "line",
+  "jp": "意表をつかれてうろたえる様は",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2517_00888",
+  "kind": "line",
+  "jp": "たまらなかったぜ　ぐひひひひ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2517_008bc",
+  "kind": "line",
+  "jp": "マスターを　おおけがさせたのは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2517_008e4",
+  "kind": "line",
+  "jp": "おまえだったのですね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2517_00904",
+  "kind": "line",
+  "jp": "ルールを教えないなんて　あくまめ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2517_00930",
+  "kind": "line",
+  "jp": "勝つために　手だんをえらばないのか",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2517_0095c",
+  "kind": "line",
+  "jp": "ゆるせないです∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2517_00984",
+  "kind": "line",
+  "jp": "勝つために手だんをえらばない？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2517_009ac",
+  "kind": "line",
+  "jp": "ちがうな　オレは相手にとって最悪の",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2517_009d8",
+  "kind": "line",
+  "jp": "手だんをえらぶぜ　トータくん",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2517_00a00",
+  "kind": "line",
+  "jp": "おまえの　アームリストは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2517_00a24",
+  "kind": "line",
+  "jp": "すべて　ぶんせきずみだ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2517_00a48",
+  "kind": "line",
+  "jp": "これで　勝ち目はないってことだな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2517_00a74",
+  "kind": "line",
+  "jp": "ぐひひひひひ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2517_00a98",
+  "kind": "line",
+  "jp": "トータ　だいじょうぶか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2517_00ad8",
+  "kind": "line",
+  "jp": "だいじょうぶです　ジンくん",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2517_00afc",
+  "kind": "line",
+  "jp": "オイラには　おくの手がありますので",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2517_00b44",
+  "kind": "line",
+  "jp": "マスターのかたき　とってみせます∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2517_00bb4",
+  "kind": "line",
+  "jp": "ぐっ　くそ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2517_00bcc",
+  "kind": "line",
+  "jp": "なっ　なんなんだ　そのアームは……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2517_00c14",
+  "kind": "line",
+  "jp": "やったなトータ∇　バウンダーが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2517_00c3c",
+  "kind": "line",
+  "jp": "剣になるアームなんてすごいぜ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2517_00c70",
+  "kind": "line",
+  "jp": "……しかし　ちょっとまてよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2517_00c94",
+  "kind": "line",
+  "jp": "それってもしかすると",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2517_00cc0",
+  "kind": "line",
+  "jp": "それは『グランディウス』だ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2517_00cf0",
+  "kind": "line",
+  "jp": "ええっ≡　マーブルアレーナの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2517_00d18",
+  "kind": "line",
+  "jp": "しょうひんの？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2517_00d3c",
+  "kind": "line",
+  "jp": "すいません",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2517_00d50",
+  "kind": "line",
+  "jp": "コロシアムでの戦いに　役立つと思って",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2517_00d80",
+  "kind": "line",
+  "jp": "かりてきました……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2517_00da8",
+  "kind": "line",
+  "jp": "……やれやれ　ちゃっかりしたヤツだぜ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ }
+]

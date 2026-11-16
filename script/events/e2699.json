@@ -1,0 +1,362 @@
+[
+ {
+  "id": "e2699_000d4",
+  "kind": "line",
+  "jp": "チミも　マルスとかっていうのに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2699_000fc",
+  "kind": "line",
+  "jp": "はやくなってくれんかね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2699_0011c",
+  "kind": "line",
+  "jp": "そうすれば　勝飛中は",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2699_0013c",
+  "kind": "line",
+  "jp": "いちやく有名になるからのぉ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2699_00198",
+  "kind": "line",
+  "jp": "真丸中に負けないように",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2699_001b8",
+  "kind": "line",
+  "jp": "うちもバトローリングに力をいれねば！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2699_001e8",
+  "kind": "line",
+  "jp": "あ～　チミも",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2699_00200",
+  "kind": "line",
+  "jp": "ドドンッとがんばってくれたまえよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2699_00260",
+  "kind": "line",
+  "jp": "真丸中のせいとがマーブルアレーナで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2699_0028c",
+  "kind": "line",
+  "jp": "大かつやくしたそうじゃぞ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2699_002b0",
+  "kind": "line",
+  "jp": "なんともうらやましい話じゃ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2699_00318",
+  "kind": "line",
+  "jp": "スポーツもお勉強も　トップクラスね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2699_00344",
+  "kind": "line",
+  "jp": "そのちょうしで　がんばってね！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2699_003a0",
+  "kind": "line",
+  "jp": "スポーツもお勉強も　それぞれ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2699_003c8",
+  "kind": "line",
+  "jp": "がんばっているみたいね　エライわぁ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2699_00428",
+  "kind": "line",
+  "jp": "スポーツも大事だけど",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2699_00448",
+  "kind": "line",
+  "jp": "お勉強も大事だから　がんばってね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2699_004b4",
+  "kind": "line",
+  "jp": "すごいなオマエたち　いまやＶＲ部は",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2699_004e0",
+  "kind": "line",
+  "jp": "うちの学校のじまんだよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2699_00538",
+  "kind": "line",
+  "jp": "ＶＲ部のこもんって　校長先生",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2699_00560",
+  "kind": "line",
+  "jp": "だったんだな　いやビックリしたよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2699_005c0",
+  "kind": "line",
+  "jp": "えっ？　ＶＲ部にはいったって？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2699_005e8",
+  "kind": "line",
+  "jp": "そんなのうちの学校にあったっけ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2699_00650",
+  "kind": "line",
+  "jp": "あなたのバトリーグの試合",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2699_00674",
+  "kind": "line",
+  "jp": "クラス中で　応援にいくつもりよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2699_0069c",
+  "kind": "line",
+  "jp": "がんばってね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2699_006e8",
+  "kind": "line",
+  "jp": "あなたが　勝飛中をすきになってくれて",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2699_00718",
+  "kind": "line",
+  "jp": "先生　とってもうれしいわ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2699_00770",
+  "kind": "line",
+  "jp": "お友だちがいっぱいできて",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2699_00794",
+  "kind": "line",
+  "jp": "部活も楽しそうね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2699_007b0",
+  "kind": "line",
+  "jp": "よかった",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2699_007c4",
+  "kind": "line",
+  "jp": "先生もうれしいわ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2699_00814",
+  "kind": "line",
+  "jp": "てんこうしてきてすぐに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2699_00834",
+  "kind": "line",
+  "jp": "お友だちができたみたいね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2699_00858",
+  "kind": "line",
+  "jp": "よかった",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2699_0086c",
+  "kind": "line",
+  "jp": "先生　心配していたのよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 14,
+  "notes": ""
+ }
+]

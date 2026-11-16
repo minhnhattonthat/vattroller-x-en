@@ -1,0 +1,700 @@
+[
+ {
+  "id": "e2564_000e0",
+  "kind": "line",
+  "jp": "ホホホホホ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2564_000f8",
+  "kind": "line",
+  "jp": "口ほどにも　ありませんわ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2564_00128",
+  "kind": "line",
+  "jp": "戦利品として　オーラメイトを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2564_00150",
+  "kind": "line",
+  "jp": "もらっていくよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2564_00174",
+  "kind": "line",
+  "jp": "くっ　くそっ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2564_00294",
+  "kind": "line",
+  "jp": "何があったんですか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2564_002d0",
+  "kind": "line",
+  "jp": "なっ　なんでもあらへん……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2564_002f4",
+  "kind": "line",
+  "jp": "ホクトとミナミが来よったから",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2564_0031c",
+  "kind": "line",
+  "jp": "ちょっと　遊んでやっただけや……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2564_00354",
+  "kind": "line",
+  "jp": "オーラメイトが部室から",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2564_00374",
+  "kind": "line",
+  "jp": "なくなってたけど",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2564_00390",
+  "kind": "line",
+  "jp": "まさか　あいつらが持ってったの？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2564_003bc",
+  "kind": "line",
+  "jp": "そうなんでしょ≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2564_003e4",
+  "kind": "line",
+  "jp": "かれらと勝負したんですね……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2564_0040c",
+  "kind": "line",
+  "jp": "いったいなぜ？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2564_00440",
+  "kind": "line",
+  "jp": "……あいつらが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2564_00458",
+  "kind": "line",
+  "jp": "気にいらんかっただけや",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2564_00478",
+  "kind": "line",
+  "jp": "それだけのことや……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2564_004a4",
+  "kind": "line",
+  "jp": "イカヅチのバカ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2564_004c0",
+  "kind": "line",
+  "jp": "ねぇ　∴もそう思うでしょ？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2564_004f0.0",
+  "kind": "choice",
+  "jp": "タクミのためでは？",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2564_004f0.1",
+  "kind": "choice",
+  "jp": "イカヅチが悪い",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2564_0054c",
+  "kind": "line",
+  "jp": "タクミのためなんかやない",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2564_00570",
+  "kind": "line",
+  "jp": "わいが　勝手にやったことや！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2564_005b4",
+  "kind": "line",
+  "jp": "せや……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2564_005c8",
+  "kind": "line",
+  "jp": "わいが　勝手にやったことや",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2564_00608",
+  "kind": "line",
+  "jp": "勝手にやったでは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2564_00624",
+  "kind": "line",
+  "jp": "すまされないでしょう！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2564_00650",
+  "kind": "line",
+  "jp": "フン！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2564_006cc",
+  "kind": "line",
+  "jp": "ちょっと　待ちなさいよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2564_00704",
+  "kind": "line",
+  "jp": "……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2564_00758",
+  "kind": "line",
+  "jp": "イカヅチのことは放っておきましょう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2564_00784",
+  "kind": "line",
+  "jp": "すこし　頭をひやしたほうがいい……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2564_007b0",
+  "kind": "line",
+  "jp": "練習しましょう∴",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2564_008b0",
+  "kind": "line",
+  "jp": "ホホホ！　タクミのうでまえも",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2564_008d8",
+  "kind": "line",
+  "jp": "地におちましたわねぇ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2564_008f8",
+  "kind": "line",
+  "jp": "そんなシロートどうぜんの子に",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2564_00920",
+  "kind": "line",
+  "jp": "負けてしまうなんて　オホホホホ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2564_00958",
+  "kind": "line",
+  "jp": "うでは　まだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2564_00970",
+  "kind": "line",
+  "jp": "ニブっていないようだね　タクミ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2564_00998",
+  "kind": "line",
+  "jp": "それでこそ　わたしに勝った男と",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2564_009c0",
+  "kind": "line",
+  "jp": "いうものだ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2564_00a04",
+  "kind": "line",
+  "jp": "あーっ　あんたたち　オーラメイト",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2564_00a30",
+  "kind": "line",
+  "jp": "返しなさいよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2564_00a6c",
+  "kind": "line",
+  "jp": "いくらレディの言葉でも",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2564_00a8c",
+  "kind": "line",
+  "jp": "これは　返せないよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2564_00ac4",
+  "kind": "line",
+  "jp": "われわれの　戦利品だからね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2564_00af4",
+  "kind": "line",
+  "jp": "ホホホ　けっさくでしたわ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2564_00b18",
+  "kind": "line",
+  "jp": "あの時のイカヅチときたら……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2564_00b40",
+  "kind": "line",
+  "jp": "ちょっと　タクミの悪口を",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2564_00b64",
+  "kind": "line",
+  "jp": "言ったくらいで　カッとなって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2564_00ba8",
+  "kind": "line",
+  "jp": "ぼくの　悪口？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2564_00bcc",
+  "kind": "line",
+  "jp": "これを　取り返したかったら",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2564_00bf0",
+  "kind": "line",
+  "jp": "われわれと　戦うんだね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2564_00c1c",
+  "kind": "line",
+  "jp": "もちろん　わたくしたちに負けたら",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2564_00c48",
+  "kind": "line",
+  "jp": "ジムに　もどって来るんですのよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2564_00c7c",
+  "kind": "line",
+  "jp": "何　勝手なこと言ってんのよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2564_00cb0",
+  "kind": "line",
+  "jp": "いいでしょう……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2564_00ccc",
+  "kind": "line",
+  "jp": "うけてたちます！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2564_00ce8",
+  "kind": "line",
+  "jp": "ふたりは　手を出さないでください！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2564_00d30",
+  "kind": "line",
+  "jp": "ちょっと……タクミ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2564_00d5c",
+  "kind": "line",
+  "jp": "あんた　はやく",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2564_00d74",
+  "kind": "line",
+  "jp": "イカヅチさがしてきてちょうだい∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2564_00f08",
+  "kind": "line",
+  "jp": "……なんや　∴か",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2564_00f24",
+  "kind": "line",
+  "jp": "わいは　あやまらんからな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2564_00f64",
+  "kind": "line",
+  "jp": "……どないしたんや",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2564_00f80",
+  "kind": "line",
+  "jp": "そないに　あわててからに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2564_00fa4",
+  "kind": "line",
+  "jp": "まさか……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2564_00fb8",
+  "kind": "line",
+  "jp": "また　あいつらが！！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2564_00fec",
+  "kind": "line",
+  "jp": "タクミーーーー！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

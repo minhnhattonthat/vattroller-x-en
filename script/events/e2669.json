@@ -1,0 +1,62 @@
+[
+ {
+  "id": "e2669_000d4",
+  "kind": "line",
+  "jp": "ハンニバル社に",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2669_000ec",
+  "kind": "line",
+  "jp": "しょうひんをとどけなきゃ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2669_00110",
+  "kind": "line",
+  "jp": "いそげ　いそげ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2669_00168",
+  "kind": "line",
+  "jp": "はやくしないと　たくさん",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2669_0018c",
+  "kind": "line",
+  "jp": "おこられちゃうわ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2669_001a8",
+  "kind": "line",
+  "jp": "いそがなきゃ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ }
+]

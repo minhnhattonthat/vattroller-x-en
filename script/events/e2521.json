@@ -1,0 +1,904 @@
+[
+ {
+  "id": "e2521_00084",
+  "kind": "line",
+  "jp": "そういえばあんたって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_000a4",
+  "kind": "line",
+  "jp": "どれくらいのうでまえなの？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_000e4",
+  "kind": "line",
+  "jp": "……ええっ≡　今日が初めて？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_00120",
+  "kind": "line",
+  "jp": "へぇ～　そんなんでよくこんな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_00148",
+  "kind": "line",
+  "jp": "人のいない部に　はいる気になったわね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_00178",
+  "kind": "line",
+  "jp": "でも　そのすごいやる気",
+  "en": "",
+  "status": "new",
+  "flags": "0x0400",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_00198",
+  "kind": "line",
+  "jp": "あたしてきには　大オッケーよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_001c0",
+  "kind": "line",
+  "jp": "じゃあ……どこからせつめいしようかな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0400",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_001f0",
+  "kind": "line",
+  "jp": "あんた　戦いかたは　わかるの？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_00224.0",
+  "kind": "choice",
+  "jp": "わからない",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_00224.1",
+  "kind": "choice",
+  "jp": "わかる",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_00260",
+  "kind": "line",
+  "jp": "まー　口であれこれいうより",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_00284",
+  "kind": "line",
+  "jp": "バトルしてみたほうがわかるでしょ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_002b0",
+  "kind": "line",
+  "jp": "でも　手かげんはしないからね！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0400",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_002d8",
+  "kind": "line",
+  "jp": "さあ　かかってきなさい！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_002fc",
+  "kind": "line",
+  "jp": "わかってるんなら",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_00318",
+  "kind": "line",
+  "jp": "とりあえず　バトルはできるわね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_00340",
+  "kind": "line",
+  "jp": "じゃあ　さっそくバトローリング",
+  "en": "",
+  "status": "new",
+  "flags": "0x0400",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_00368",
+  "kind": "line",
+  "jp": "行くわよ！　かかってきなさい！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_003e0",
+  "kind": "line",
+  "jp": "むむむ　手かげんしたとはいえ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_00408",
+  "kind": "line",
+  "jp": "このコマチさまに勝つなんて……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_00430",
+  "kind": "line",
+  "jp": "あんたって　さいのうあるのかもね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0400",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_0045c",
+  "kind": "line",
+  "jp": "たのもしいじゃない",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_0047c",
+  "kind": "line",
+  "jp": "まぁ　あたしが勝つのはとうぜんだけど",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_004ac",
+  "kind": "line",
+  "jp": "あんたも初めてにしちゃ　やるじゃない",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_004dc",
+  "kind": "line",
+  "jp": "もしかして　さいのうあるのかもね～",
+  "en": "",
+  "status": "new",
+  "flags": "0x0600",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_0051c",
+  "kind": "line",
+  "jp": "あ　そうだ！　Ｖポイントや",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_00540",
+  "kind": "line",
+  "jp": "Ｖスキルのことは知ってる？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_00564",
+  "kind": "line",
+  "jp": "知らないなら　そのせつめいも",
+  "en": "",
+  "status": "new",
+  "flags": "0x0400",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_0058c",
+  "kind": "line",
+  "jp": "しておかないとねー",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_005b4.0",
+  "kind": "choice",
+  "jp": "知らない",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_005b4.1",
+  "kind": "choice",
+  "jp": "知ってる",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_005f4",
+  "kind": "line",
+  "jp": "Ｖポイントはバトローリングポイントの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_00624",
+  "kind": "line",
+  "jp": "りゃくしたもので",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_00640",
+  "kind": "line",
+  "jp": "バトローリングすると",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_00660",
+  "kind": "line",
+  "jp": "もらえるポイントよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_0067c",
+  "kind": "line",
+  "jp": "ポイントがたまると",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_00698",
+  "kind": "line",
+  "jp": "ショップでかいものできるの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_006bc",
+  "kind": "line",
+  "jp": "Ｖスキルは　けいけんをつむことで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_006e8",
+  "kind": "line",
+  "jp": "おぼえる　『のうりょく』なの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_00710",
+  "kind": "line",
+  "jp": "たくさんけいけんつめば",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_00730",
+  "kind": "line",
+  "jp": "いろんなのうりょくのＶスキルを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_00758",
+  "kind": "line",
+  "jp": "おぼえることができるのよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_00788",
+  "kind": "line",
+  "jp": "で　初めてのバトローリング",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_007ac",
+  "kind": "line",
+  "jp": "どうだった？　楽しかった？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_007f4",
+  "kind": "line",
+  "jp": "うん　よかった",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_0080c",
+  "kind": "line",
+  "jp": "やっぱ　バトローリングは楽しくないとね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_00850",
+  "kind": "line",
+  "jp": "じゃあ　これからふたりで　勝飛中",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_0087c",
+  "kind": "line",
+  "jp": "バトローリング部を　もりあげてくわよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_008ac",
+  "kind": "line",
+  "jp": "部員をふやして　大会とかにも出て",
+  "en": "",
+  "status": "new",
+  "flags": "0x0400",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_008d8",
+  "kind": "line",
+  "jp": "アームやツールもそろえないとね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_0091c",
+  "kind": "line",
+  "jp": "……あ　そうだ！　あんた　せいと会室",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_0094c",
+  "kind": "line",
+  "jp": "行って　部の予算たのんできてよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_00988.0",
+  "kind": "choice",
+  "jp": "ひきうける",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_00988.1",
+  "kind": "choice",
+  "jp": "部長が行くべきじゃ？",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_009e4",
+  "kind": "line",
+  "jp": "うん　いいへんじ！　ああ　やっぱり",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_00a10",
+  "kind": "line",
+  "jp": "スナオなヒラ部員がいるのっていいわ～",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_00a40",
+  "kind": "line",
+  "jp": "せいと会長のタクミは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_00a60",
+  "kind": "line",
+  "jp": "まじめなタイプが　すきだから",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_00a88",
+  "kind": "line",
+  "jp": "そのちょうしで行ってね！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_00ad8",
+  "kind": "line",
+  "jp": "あたしじゃまずいのよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_00af8",
+  "kind": "line",
+  "jp": "ついさっきもたのみに行って",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_00b1c",
+  "kind": "line",
+  "jp": "口げんかしたばかりだから",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_00b40",
+  "kind": "line",
+  "jp": "それに　あんた見た目まじめそうだから",
+  "en": "",
+  "status": "new",
+  "flags": "0x0400",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_00b70",
+  "kind": "line",
+  "jp": "せいと会長のタクミも　だまされるわ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_00bc0",
+  "kind": "line",
+  "jp": "それじゃ　これからいっしょに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_00be8",
+  "kind": "line",
+  "jp": "がんばろっ！　エイエイオーッ！！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_00c30",
+  "kind": "line",
+  "jp": "そうそう　あんた『きろく』は",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_00c58",
+  "kind": "line",
+  "jp": "こまめにしなさいね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_00c74",
+  "kind": "line",
+  "jp": "『きろく』のやり方はわかる？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_00c9c",
+  "kind": "line",
+  "jp": "ほら　ＳＴＡＲＴボタンおすと出来る",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_00cc8",
+  "kind": "line",
+  "jp": "アレよ　アレ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_00cec.0",
+  "kind": "choice",
+  "jp": "わからない",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_00cec.1",
+  "kind": "choice",
+  "jp": "わかる",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_00d28",
+  "kind": "line",
+  "jp": "あら　知らないのね　えっと",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_00d4c",
+  "kind": "line",
+  "jp": "『アーマレット』を開くと",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_00d70",
+  "kind": "line",
+  "jp": "自分のじょうほうが　見れるのよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_00d98",
+  "kind": "line",
+  "jp": "『だいじなもの』で自分がもっている",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_00dc4",
+  "kind": "line",
+  "jp": "大切なアイテムを　見ることができるの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_00df4",
+  "kind": "line",
+  "jp": "『せってい』で　自分のあいさつや",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_00e20",
+  "kind": "line",
+  "jp": "かちセリフを　決めなおしたり",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_00e48",
+  "kind": "line",
+  "jp": "メッセージスピードをかえたりできるの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_00e78",
+  "kind": "line",
+  "jp": "『きろく』で　これまでのかつやくを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_00ea4",
+  "kind": "line",
+  "jp": "セーブできるのよ　わかった？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_00ecc",
+  "kind": "line",
+  "jp": "忘れないようにするのよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_00f64",
+  "kind": "line",
+  "jp": "そうさのせつめいです",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_00f84",
+  "kind": "line",
+  "jp": "十字ボタンで移動できます",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_00fa8",
+  "kind": "line",
+  "jp": "ＡボタンかＬボタンで　話したり",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_00fd0",
+  "kind": "line",
+  "jp": "調べたりできます",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_00fec",
+  "kind": "line",
+  "jp": "ＳＴＡＲＴボタンで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2521_01008",
+  "kind": "line",
+  "jp": "メニューを開くことができます",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

@@ -1,0 +1,182 @@
+[
+ {
+  "id": "e2489_00094",
+  "kind": "line",
+  "jp": "リョウのヤツ　バカにしやがってー∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2489_000cc",
+  "kind": "line",
+  "jp": "こーなったら　いっこくも早く",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2489_000f4",
+  "kind": "line",
+  "jp": "マスターを決めなくちゃ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2489_00120",
+  "kind": "line",
+  "jp": "うーん……じつは　知りあいで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2489_00148",
+  "kind": "line",
+  "jp": "すごいマスターがいるんだけど",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2489_0017c",
+  "kind": "line",
+  "jp": "えっ？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2489_00198",
+  "kind": "line",
+  "jp": "とってもきびしい人だから",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2489_001bc",
+  "kind": "line",
+  "jp": "おすすめはできないの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2489_001dc",
+  "kind": "line",
+  "jp": "……でもジンくんにはぴったりかも",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2489_00208",
+  "kind": "line",
+  "jp": "その人も剣じゅつからバトローリングに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2489_00238",
+  "kind": "line",
+  "jp": "転向したの　ジンくんとおんなじで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2489_00264",
+  "kind": "line",
+  "jp": "それに　ケガでリタイアするまでは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2489_00290",
+  "kind": "line",
+  "jp": "マルスかくじつっていわれてたんだよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2489_002d8",
+  "kind": "line",
+  "jp": "そのマスターの名は　グレン∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2489_00314",
+  "kind": "line",
+  "jp": "マスター　グレン……∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2489_00350",
+  "kind": "line",
+  "jp": "よーし∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2489_00364",
+  "kind": "line",
+  "jp": "オレ　そのマスターに会いに行って",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2489_00390",
+  "kind": "line",
+  "jp": "弟子入りする∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

@@ -1,0 +1,420 @@
+[
+ {
+  "id": "e2548_0013c",
+  "kind": "line",
+  "jp": "やったぁ！　まさかホントに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2548_00160",
+  "kind": "line",
+  "jp": "マルスに勝っちゃうなんて！　すごい！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2548_0019c",
+  "kind": "line",
+  "jp": "すげぇバトルやったな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2548_001bc",
+  "kind": "line",
+  "jp": "体がふるえたわ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2548_001e4",
+  "kind": "line",
+  "jp": "マルス　おめでとうございます",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2548_0020c",
+  "kind": "line",
+  "jp": "キミはボクらのほこりですよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2548_0023c",
+  "kind": "line",
+  "jp": "強くなったな……だがオレも負けない！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2548_0026c",
+  "kind": "line",
+  "jp": "こんど　また勝負してくれ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2548_002b4",
+  "kind": "line",
+  "jp": "おめでとう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2548_002c8",
+  "kind": "line",
+  "jp": "マルスの名はキミのものだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2548_002ec",
+  "kind": "line",
+  "jp": "本当に　いいバトルだった",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2548_00310",
+  "kind": "line",
+  "jp": "負けはしたものの　ぼくは満足してるよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2548_0034c.0",
+  "kind": "choice",
+  "jp": "ギリギリの勝利でした",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2548_0034c.1",
+  "kind": "choice",
+  "jp": "また　戦いましょう",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2548_003a0",
+  "kind": "line",
+  "jp": "そうだね　ぼくらの力はごかくだった",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2548_003cc",
+  "kind": "line",
+  "jp": "どちらが勝ってもおかしくない……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2548_003f8",
+  "kind": "line",
+  "jp": "だけど　そのギリギリのところで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2548_00420",
+  "kind": "line",
+  "jp": "勝利をつかめる　それが強さなんだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2548_0044c",
+  "kind": "line",
+  "jp": "ぼくもまた　がんばるよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2548_0046c",
+  "kind": "line",
+  "jp": "次に戦う時　勝利をつかめるように",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2548_004a4",
+  "kind": "line",
+  "jp": "ああ　もういちど戦おう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2548_004d0",
+  "kind": "line",
+  "jp": "これは　今日のきねんに　君にあげよう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2548_00558",
+  "kind": "line",
+  "jp": "そしてマルスのキミは立ち止まっては",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2548_00584",
+  "kind": "line",
+  "jp": "いけない　マルスはゴールじゃない",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2548_005b0",
+  "kind": "line",
+  "jp": "すべてのバトローラーの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2548_005d0",
+  "kind": "line",
+  "jp": "もくひょうとして　さらに強くなれ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2548_005fc",
+  "kind": "line",
+  "jp": "どこまでも高くかけあがれ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2548_00620",
+  "kind": "line",
+  "jp": "わかきマルス！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2548_00690",
+  "kind": "line",
+  "jp": "おしかったわね　もうちょっとで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2548_006b8",
+  "kind": "line",
+  "jp": "マルスに勝てるとこだったのに！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2548_006ec",
+  "kind": "line",
+  "jp": "わいにはあんなバトルはとてもできんわ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2548_0071c",
+  "kind": "line",
+  "jp": "ほんまに　おまえはすげぇな！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2548_00750",
+  "kind": "line",
+  "jp": "ざんねんでしたね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2548_0076c",
+  "kind": "line",
+  "jp": "でも　キミはボクらのほこりですよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2548_007a4",
+  "kind": "line",
+  "jp": "マルスとおまえ……２人はオレの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2548_007cc",
+  "kind": "line",
+  "jp": "もくひょうだ！　また勝負してくれ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2548_00824",
+  "kind": "line",
+  "jp": "いいバトルだったよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2548_00840",
+  "kind": "line",
+  "jp": "ありがとう　とても楽しかった",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2548_00868",
+  "kind": "line",
+  "jp": "本当に　バトローラーのちょうてんを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2548_00894",
+  "kind": "line",
+  "jp": "きめるのにふさわしい戦いだったよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2548_008c0",
+  "kind": "line",
+  "jp": "また　対戦できるのを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2548_008e0",
+  "kind": "line",
+  "jp": "たのしみにしてるよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

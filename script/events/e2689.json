@@ -1,0 +1,462 @@
+[
+ {
+  "id": "e2689_000d4",
+  "kind": "line",
+  "jp": "コマチって　ああみえて",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2689_000f4",
+  "kind": "line",
+  "jp": "とてもカワイらしいところがあるのよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2689_00120",
+  "kind": "line",
+  "jp": "これ　ホントよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2689_0016c",
+  "kind": "line",
+  "jp": "コマチって　ああみえて",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2689_0018c",
+  "kind": "line",
+  "jp": "とてもやさしい子なのよ　たぶん……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2689_001ec",
+  "kind": "line",
+  "jp": "コマチがみんなにやる気を出させるって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2689_0021c",
+  "kind": "line",
+  "jp": "スタミナりょうりをよういしてたわよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2689_00248",
+  "kind": "line",
+  "jp": "あんたたちも　さいなんね……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2689_00270",
+  "kind": "line",
+  "jp": "おくすり　もってる？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2689_00354",
+  "kind": "line",
+  "jp": "聞いたで！　コマチがりょうりを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2689_0037c",
+  "kind": "line",
+  "jp": "作ってるんやて？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2689_00398",
+  "kind": "line",
+  "jp": "わ　わいは　はらいっぱいやさかい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2689_003c4",
+  "kind": "line",
+  "jp": "エンリョさせてもらうわ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2689_003f4",
+  "kind": "line",
+  "jp": "ぼ……ぼくも　外で食事するなって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2689_00420",
+  "kind": "line",
+  "jp": "ママに言われてるんですよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2689_00480",
+  "kind": "line",
+  "jp": "何よ　あんたたち！　あたしの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2689_004a8",
+  "kind": "line",
+  "jp": "手りょうりが　食べられないっての？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2689_00500",
+  "kind": "line",
+  "jp": "せやかて",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2689_00514",
+  "kind": "line",
+  "jp": "なんやヘンなニオイがただよっとるで！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2689_00544",
+  "kind": "line",
+  "jp": "いったい　なに入れたら",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2689_00564",
+  "kind": "line",
+  "jp": "そんなニオイになるんや？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2689_00594",
+  "kind": "line",
+  "jp": "うるさいわね！　まごころとか",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2689_005bc",
+  "kind": "line",
+  "jp": "あいじょうとか……　いろいろよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2689_005f4",
+  "kind": "line",
+  "jp": "しゅうねんとか",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2689_0060c",
+  "kind": "line",
+  "jp": "おんねんのような気が……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2689_0064c",
+  "kind": "line",
+  "jp": "お！　∴",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2689_00660",
+  "kind": "line",
+  "jp": "ええとこにおった！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2689_0067c",
+  "kind": "line",
+  "jp": "ほんまは　めっちゃ食いたいけど",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2689_006a4",
+  "kind": "line",
+  "jp": "ぜんぶ　おまえにやるわ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2689_006e4",
+  "kind": "line",
+  "jp": "右に同じ……！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2689_007b0",
+  "kind": "line",
+  "jp": "にがさないわよ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2689_007cc",
+  "kind": "line",
+  "jp": "力ずくでも　食べさせるんだから！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2689_008b8",
+  "kind": "line",
+  "jp": "あんたたちのために　心こめて",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2689_008e0",
+  "kind": "line",
+  "jp": "作ったのに……　うっうっ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2689_0091c",
+  "kind": "line",
+  "jp": "こ……コマチさん",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2689_00938",
+  "kind": "line",
+  "jp": "泣かないでください！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2689_00964",
+  "kind": "line",
+  "jp": "こ……こんなもん",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2689_00980",
+  "kind": "line",
+  "jp": "わいが　いくらでも食うたるわ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2689_00a00",
+  "kind": "line",
+  "jp": "コマチって　ああみえて",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2689_00a20",
+  "kind": "line",
+  "jp": "とても女の子らしいところもあるのよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2689_00a4c",
+  "kind": "line",
+  "jp": "たぶん　ね……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2689_00aa4",
+  "kind": "line",
+  "jp": "そうじ用具が入っている",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2689_00b04",
+  "kind": "line",
+  "jp": "じょうほうたんまつだ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2689_00b24",
+  "kind": "line",
+  "jp": "天気よほうがひょうじされている",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2689_00b8c",
+  "kind": "line",
+  "jp": "バトローラーＸのたんこうぼんが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2689_00bb4",
+  "kind": "line",
+  "jp": "ならべられている",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ }
+]

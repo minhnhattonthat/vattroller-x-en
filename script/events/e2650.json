@@ -1,0 +1,406 @@
+[
+ {
+  "id": "e2650_00188",
+  "kind": "line",
+  "jp": "ゴロゴロねるのもスキだけど",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2650_001ac",
+  "kind": "line",
+  "jp": "バトローリングでゴロゴロも大スキさ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2650_001dc",
+  "kind": "line",
+  "jp": "それ　ゴロゴロ！　ゴロゴロ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2650_00238",
+  "kind": "line",
+  "jp": "ゴロゴロするのがスキだっていったら",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2650_00264",
+  "kind": "line",
+  "jp": "このジムをしょうかいされたんだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2650_0028c",
+  "kind": "line",
+  "jp": "ボクは　ゴロゴロねるのが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2650_002b0",
+  "kind": "line",
+  "jp": "スキなんだけどなぁ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2650_00310",
+  "kind": "line",
+  "jp": "よう　∴じゃねぇか",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2650_0032c",
+  "kind": "line",
+  "jp": "なに　オレとバトルしてぇのか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2650_00360.0",
+  "kind": "choice",
+  "jp": "おねがいします",
+  "en": "",
+  "status": "new",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2650_00360.1",
+  "kind": "choice",
+  "jp": "ちがいます",
+  "en": "",
+  "status": "new",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2650_003a4",
+  "kind": "line",
+  "jp": "てかげんしねぇぜ　かかってきな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2650_003f8",
+  "kind": "line",
+  "jp": "いいあせかかせてもらったぜ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2650_00420",
+  "kind": "line",
+  "jp": "ありがとよ∇　∴",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2650_0044c",
+  "kind": "line",
+  "jp": "気がかわったら　またこえかけてくれよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2650_004bc",
+  "kind": "line",
+  "jp": "バトローリングの本が　ならんでる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2650_00528",
+  "kind": "line",
+  "jp": "バトローリングの本が　ならんでる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2650_00594",
+  "kind": "line",
+  "jp": "バトローリングの本が　ならんでる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2650_00600",
+  "kind": "line",
+  "jp": "バトローリングの本が　ならんでる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2650_0066c",
+  "kind": "line",
+  "jp": "はいれないようだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2650_006c8",
+  "kind": "line",
+  "jp": "はいれないようだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2650_0072c",
+  "kind": "line",
+  "jp": "お！　おまえ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2650_00744",
+  "kind": "line",
+  "jp": "オレと練習してくれるか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2650_00774.0",
+  "kind": "choice",
+  "jp": "いやです",
+  "en": "",
+  "status": "new",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2650_00774.1",
+  "kind": "choice",
+  "jp": "よろこんで",
+  "en": "",
+  "status": "new",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2650_007b4",
+  "kind": "line",
+  "jp": "また　こえかけてくれ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2650_007e0",
+  "kind": "line",
+  "jp": "ぜんりょくで　いくぜ～！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2650_00830",
+  "kind": "line",
+  "jp": "たのしかったぜ　ありがとよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2650_00898",
+  "kind": "line",
+  "jp": "ちょっと～　ヒマなら",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2650_008b8",
+  "kind": "line",
+  "jp": "わたしと　練習してくれない？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2650_008ec.0",
+  "kind": "choice",
+  "jp": "いいよ",
+  "en": "",
+  "status": "new",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2650_008ec.1",
+  "kind": "choice",
+  "jp": "いやです",
+  "en": "",
+  "status": "new",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2650_00928",
+  "kind": "line",
+  "jp": "よろしくおねがいしま～す",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2650_0098c",
+  "kind": "line",
+  "jp": "へ～　なかなか強いのね！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2650_009b0",
+  "kind": "line",
+  "jp": "また　こんどバトルしようね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2650_009e0",
+  "kind": "line",
+  "jp": "へ～　いがいと弱いのね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2650_00a00",
+  "kind": "line",
+  "jp": "また　つきあってね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2650_00a28",
+  "kind": "line",
+  "jp": "え～　かんじわるい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2650_00a84",
+  "kind": "line",
+  "jp": "ここは　勝飛ジムよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2650_00aa0",
+  "kind": "line",
+  "jp": "まんげつのアサマさんが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2650_00ac0",
+  "kind": "line",
+  "jp": "よく教えてくれてるのよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 16,
+  "notes": ""
+ }
+]

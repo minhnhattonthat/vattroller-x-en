@@ -1,0 +1,432 @@
+[
+ {
+  "id": "e2589_000a8",
+  "kind": "line",
+  "jp": "ほお……　部活で",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2589_000c4",
+  "kind": "line",
+  "jp": "バトローリングをねえ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2589_000e4",
+  "kind": "line",
+  "jp": "ちょっと　戦ってるところを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2589_00108",
+  "kind": "line",
+  "jp": "見せてもらえるかい？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2589_00194",
+  "kind": "line",
+  "jp": "その役目……　わたくしたちのほうが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2589_001c0",
+  "kind": "line",
+  "jp": "ふさわしくってよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2589_00218",
+  "kind": "line",
+  "jp": "そう！　びぼうと強さをかねそなえた",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2589_00244",
+  "kind": "line",
+  "jp": "われわれに　まかせたまえ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2589_00284",
+  "kind": "line",
+  "jp": "キミたちも　オーディションに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2589_002ac",
+  "kind": "line",
+  "jp": "さんかしたいのかね？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2589_002cc",
+  "kind": "line",
+  "jp": "ちょうどよかった",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2589_002e8",
+  "kind": "line",
+  "jp": "みんなで　戦ってもらおう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2589_00384",
+  "kind": "line",
+  "jp": "そ　そんな……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2589_0039c",
+  "kind": "line",
+  "jp": "わたくしのえいがデビューが……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2589_003d0",
+  "kind": "line",
+  "jp": "これは　なにかのまちがいだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2589_003f4",
+  "kind": "line",
+  "jp": "そうだ夢だ　夢にちがいない……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2589_00428",
+  "kind": "line",
+  "jp": "フフフ　えいがかいは　やはり",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2589_00450",
+  "kind": "line",
+  "jp": "わたしをひつようとしているようだな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2589_00488",
+  "kind": "line",
+  "jp": "ちょう美人バトローラーの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2589_004ac",
+  "kind": "line",
+  "jp": "デビューですわ　ホホホホ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2589_004dc",
+  "kind": "line",
+  "jp": "これぞ　バトローリング！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2589_00500",
+  "kind": "line",
+  "jp": "すばらしい　動きだったよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2589_00524",
+  "kind": "line",
+  "jp": "キミたち　ぜんいん",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2589_00540",
+  "kind": "line",
+  "jp": "さいようだ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2589_005a4",
+  "kind": "line",
+  "jp": "さすがカントク　わたしたちの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2589_005cc",
+  "kind": "line",
+  "jp": "かれいな戦いにカンドーしたようですね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2589_005fc",
+  "kind": "line",
+  "jp": "これでわたしのびぼうを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2589_0061c",
+  "kind": "line",
+  "jp": "全世界の人たちに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2589_00638",
+  "kind": "line",
+  "jp": "つたえることができるというものです！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2589_00674",
+  "kind": "line",
+  "jp": "ホホ！　えいがをみた世界中の男の子は",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2589_006a4",
+  "kind": "line",
+  "jp": "みんなわたくしにこいするでしょうね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2589_006d0",
+  "kind": "line",
+  "jp": "まあ　それもしかたがないですわ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2589_006f8",
+  "kind": "line",
+  "jp": "わたくしの美しさの前では！　ホホホ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2589_00744",
+  "kind": "line",
+  "jp": "とくにかがやいてたキミには",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2589_00768",
+  "kind": "line",
+  "jp": "これを　つけてもらおう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2589_00854",
+  "kind": "line",
+  "jp": "で　どうだったのよ？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2589_00874",
+  "kind": "line",
+  "jp": "えいが　こうかいされたんでしょ？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2589_008ac",
+  "kind": "line",
+  "jp": "それが　どうも……　スタントマンの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2589_008d8",
+  "kind": "line",
+  "jp": "オーディションだったみたいで……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2589_00910",
+  "kind": "line",
+  "jp": "ぜんぶ　ＣＧで顔を",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2589_0092c",
+  "kind": "line",
+  "jp": "さしかえられてましたの……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2589_00964",
+  "kind": "line",
+  "jp": "わたしの　えいがデビューが！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2589_0098c",
+  "kind": "line",
+  "jp": "ノォーーーーーーーーーーーーッ！！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

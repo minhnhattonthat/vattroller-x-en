@@ -1,0 +1,72 @@
+[
+ {
+  "id": "e2624_00348",
+  "kind": "line",
+  "jp": "りっぱな　かんよう植物だ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2624_003a0",
+  "kind": "line",
+  "jp": "りっぱな　かんよう植物だ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2624_003c4",
+  "kind": "line",
+  "jp": "はちの中に　キラリと光る何かがある",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2624_003f0",
+  "kind": "line",
+  "jp": "Ｖメダルを見つけた！！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0600",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2624_0047c",
+  "kind": "line",
+  "jp": "りっぱな　かんよう植物だ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2624_004e0",
+  "kind": "line",
+  "jp": "りっぱな　かんよう植物だ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2624_00544",
+  "kind": "line",
+  "jp": "りっぱな　かんよう植物だ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 14,
+  "notes": ""
+ }
+]

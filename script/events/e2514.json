@@ -1,0 +1,292 @@
+[
+ {
+  "id": "e2514_000a8",
+  "kind": "line",
+  "jp": "これで決勝に出場する",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2514_000c8",
+  "kind": "line",
+  "jp": "４せんしゅが決まりました∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2514_000f8",
+  "kind": "line",
+  "jp": "たったいま　はげしいバトルに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2514_00120",
+  "kind": "line",
+  "jp": "勝利したジンくん∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2514_00150",
+  "kind": "line",
+  "jp": "おしくも敗れたものの　ここまでは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2514_0017c",
+  "kind": "line",
+  "jp": "かんぺきに勝ってきたシュウくん∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2514_001bc",
+  "kind": "line",
+  "jp": "あらあらしいこうげきで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2514_001dc",
+  "kind": "line",
+  "jp": "相手を打ち負かしてきたリョウくん∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2514_0021c",
+  "kind": "line",
+  "jp": "たさいなアームセットで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2514_0023c",
+  "kind": "line",
+  "jp": "トリッキーなバトルをするトータくん∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2514_00278",
+  "kind": "line",
+  "jp": "なみいる大人たちをしりぞけ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2514_0029c",
+  "kind": "line",
+  "jp": "この子どもたちが決勝をたたかいます∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2514_002e0",
+  "kind": "line",
+  "jp": "オレたち４人で決勝……∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2514_00330",
+  "kind": "line",
+  "jp": "決勝はバトルロイヤルだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2514_00350",
+  "kind": "line",
+  "jp": "自分いがいのすべてが　敵になる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2514_00378",
+  "kind": "line",
+  "jp": "いちど勝ったからって　ゆだんすると",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2514_003a4",
+  "kind": "line",
+  "jp": "足元をすくわれるぞ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2514_00434",
+  "kind": "line",
+  "jp": "１対１でもたいへんだったのに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2514_0045c",
+  "kind": "line",
+  "jp": "３人すべてが敵……か",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2514_0047c",
+  "kind": "line",
+  "jp": "でも　せっかくここまで来たんだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2514_004a4",
+  "kind": "line",
+  "jp": "ぜったいに勝って優勝してやる∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2514_004fc",
+  "kind": "line",
+  "jp": "おどろいたわね　決勝にのこったのが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2514_00528",
+  "kind": "line",
+  "jp": "４人ともこどもなんて",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2514_00548",
+  "kind": "line",
+  "jp": "この中では　やはり本命は",
+  "en": "",
+  "status": "new",
+  "flags": "0x0400",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2514_0056c",
+  "kind": "line",
+  "jp": "あんていした強さをもつシュウくん……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2514_0059c",
+  "kind": "line",
+  "jp": "けれど４人のさはわずかだわ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2514_005c0",
+  "kind": "line",
+  "jp": "だれが勝ってもおかしくない",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2514_005e4",
+  "kind": "line",
+  "jp": "そして　このたたかいに勝った者に",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2514_00610",
+  "kind": "line",
+  "jp": "バトローリングのみらいがたくされる……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

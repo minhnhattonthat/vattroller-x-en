@@ -1,0 +1,870 @@
+[
+ {
+  "id": "e2538_00108",
+  "kind": "line",
+  "jp": "……お兄ちゃん！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2538_00144",
+  "kind": "line",
+  "jp": "…………",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2538_00174",
+  "kind": "line",
+  "jp": "プレミアムジムもよばれてたんやな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2538_001a0",
+  "kind": "line",
+  "jp": "しかし　ライバとマスターウェストは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2538_001cc",
+  "kind": "line",
+  "jp": "わかるけど　あのオッサンは　だれや？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2538_00228",
+  "kind": "line",
+  "jp": "ヘクサ社の社長　トウドウですよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2538_00250",
+  "kind": "line",
+  "jp": "プレミアムジムのけいえいしゃです",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2538_0027c",
+  "kind": "line",
+  "jp": "ボクはジムで　何回か",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2538_0029c",
+  "kind": "line",
+  "jp": "顔を見かけたことがあります",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2538_002dc",
+  "kind": "line",
+  "jp": "グローブのおじいさんより",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2538_00300",
+  "kind": "line",
+  "jp": "よっぽど社長っぽいわねぇ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2538_00330",
+  "kind": "line",
+  "jp": "どこがや……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2538_00370",
+  "kind": "line",
+  "jp": "学校のバトローリング部……ですか",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2538_0039c",
+  "kind": "line",
+  "jp": "わかりませんな　グローブ社長",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2538_003c4",
+  "kind": "line",
+  "jp": "なぜ　かれらを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2538_003dc",
+  "kind": "line",
+  "jp": "よぶひつようがあるので？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2538_0041c",
+  "kind": "line",
+  "jp": "わしがふさわしいと思ったからじゃが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2538_00448",
+  "kind": "line",
+  "jp": "それではふまんかな？　……ムニャ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2538_004a0",
+  "kind": "line",
+  "jp": "いえ　ふまんはありませんよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2538_004c4",
+  "kind": "line",
+  "jp": "りかいは　できませんが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2538_00500",
+  "kind": "line",
+  "jp": "話が　よくわからないのですが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2538_00528",
+  "kind": "line",
+  "jp": "これは　どういうことなんですか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2538_00574",
+  "kind": "line",
+  "jp": "みんなは　バトリーグは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2538_00594",
+  "kind": "line",
+  "jp": "知ってるわね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2538_005d8",
+  "kind": "line",
+  "jp": "バトローリングのプロリーグでしょ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2538_00604",
+  "kind": "line",
+  "jp": "とーぜん知ってるわよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2538_00630",
+  "kind": "line",
+  "jp": "さらにくわしくいえば　マルスの地位を",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2538_00660",
+  "kind": "line",
+  "jp": "めざして戦う　プロリーグですね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2538_00688",
+  "kind": "line",
+  "jp": "戦いを勝ちぬいた　ただ１人だけが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2538_006b4",
+  "kind": "line",
+  "jp": "マルスにちょうせんできる……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2538_006e8",
+  "kind": "line",
+  "jp": "で　その　バトリーグが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2538_00708",
+  "kind": "line",
+  "jp": "どないしたんや？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2538_00730",
+  "kind": "line",
+  "jp": "実は　ある理由からバトリーグの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2538_00758",
+  "kind": "line",
+  "jp": "さんかわくが１つあいたの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2538_0077c",
+  "kind": "line",
+  "jp": "なので　リーグに新たにさんかする",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2538_007a8",
+  "kind": "line",
+  "jp": "せんしゅを　今さがしてるらしいのよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2538_007f4",
+  "kind": "line",
+  "jp": "もしかして　あたしたちもその",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2538_0081c",
+  "kind": "line",
+  "jp": "こうほしゃの１人ってこと？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2538_0085c",
+  "kind": "line",
+  "jp": "そういうことよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2538_00874",
+  "kind": "line",
+  "jp": "今から　２週間後に",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2538_00890",
+  "kind": "line",
+  "jp": "せんばつのバトルがおこなわれます",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2538_008bc",
+  "kind": "line",
+  "jp": "このバトルに勝てば",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2538_008d8",
+  "kind": "line",
+  "jp": "バトリーグへの出場がみとめられます",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2538_00938",
+  "kind": "line",
+  "jp": "中学生のボクたちが……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2538_00958",
+  "kind": "line",
+  "jp": "バトローリングのプロリーグに≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2538_009a4",
+  "kind": "line",
+  "jp": "くだらん！　われわれがもっとも",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2538_009cc",
+  "kind": "line",
+  "jp": "ふさわしいのはわかりきったことである",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2538_009fc",
+  "kind": "line",
+  "jp": "それを　せんばつバトルなどおこない",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2538_00a28",
+  "kind": "line",
+  "jp": "学校のクラブまでさんかさせるとは！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2538_00a80",
+  "kind": "line",
+  "jp": "それほどまでに　じしんがあるのなら",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2538_00aac",
+  "kind": "line",
+  "jp": "せんばつバトルなど楽勝じゃろう？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2538_00ad8",
+  "kind": "line",
+  "jp": "ならば　それでもんだいは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2538_00afc",
+  "kind": "line",
+  "jp": "ないと思うがの……ムニャ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2538_00b5c",
+  "kind": "line",
+  "jp": "オレはかまわない",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2538_00b78",
+  "kind": "line",
+  "jp": "どうせ勝つのはオレだ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2538_00b9c",
+  "kind": "line",
+  "jp": "とくに∴",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2538_00bb0",
+  "kind": "line",
+  "jp": "おまえには　ぜったいに負けない……！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2538_00cb0",
+  "kind": "line",
+  "jp": "……ところで　今回さんかわくが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2538_00cd8",
+  "kind": "line",
+  "jp": "あいたのは　せんしゅのケガのせいじゃ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2538_00d08",
+  "kind": "line",
+  "jp": "そのケガは試合ではなく　ふくめんの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2538_00d34",
+  "kind": "line",
+  "jp": "バトローラーにおそわれたらしい……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2538_00d7c",
+  "kind": "line",
+  "jp": "だれとも知れぬ　バトローラーに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2538_00da4",
+  "kind": "line",
+  "jp": "負けるとは　なさけないヤツであるな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2538_00dd0",
+  "kind": "line",
+  "jp": "そんなせんしゅには　さいしょから",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2538_00dfc",
+  "kind": "line",
+  "jp": "バトリーグに出るしかくなどない！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2538_00e74",
+  "kind": "line",
+  "jp": "さて……まだ　かんじんなことを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2538_00e9c",
+  "kind": "line",
+  "jp": "聞いていなかったのぅ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2538_00ebc",
+  "kind": "line",
+  "jp": "おぬしらは　バトリーグに出るための",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2538_00ee8",
+  "kind": "line",
+  "jp": "せんばつバトル　ちょうせんするかの？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2538_00f78",
+  "kind": "line",
+  "jp": "もちろんよ！　あたりまえじゃない！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2538_00fb8",
+  "kind": "line",
+  "jp": "ちょうせんするかちは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2538_00fd8",
+  "kind": "line",
+  "jp": "十分にありますね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2538_01000",
+  "kind": "line",
+  "jp": "バトリーグの出場はわいがいただくで！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2538_0104c",
+  "kind": "line",
+  "jp": "∴　おぬしはどうじゃ？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2538_0106c",
+  "kind": "line",
+  "jp": "ちょうせんするかの？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2538_01098.0",
+  "kind": "choice",
+  "jp": "えんりょします",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2538_01098.1",
+  "kind": "choice",
+  "jp": "もちろん∇",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2538_010ec",
+  "kind": "line",
+  "jp": "ええっ≡　なんでよ　∴",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2538_0110c",
+  "kind": "line",
+  "jp": "こんなチャンスないわよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2538_0113c",
+  "kind": "line",
+  "jp": "まあムリにとは言わんが……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2538_01160",
+  "kind": "line",
+  "jp": "ざんねんじゃのう……ムニャ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2538_01184",
+  "kind": "line",
+  "jp": "じゃが　せんばつまではまだ日がある",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2538_011b0",
+  "kind": "line",
+  "jp": "気がかわったら　いつでも来るがよい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2538_01208",
+  "kind": "line",
+  "jp": "よかろう　おぬしらのせんばつバトル",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2538_01234",
+  "kind": "line",
+  "jp": "ちょうせんをみとめよう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2538_01254",
+  "kind": "line",
+  "jp": "……と言いたいとこじゃが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2538_01278",
+  "kind": "line",
+  "jp": "その前に１つバトルしてもらわんとな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

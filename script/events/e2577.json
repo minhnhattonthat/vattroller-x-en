@@ -1,0 +1,292 @@
+[
+ {
+  "id": "e2577_00080",
+  "kind": "line",
+  "jp": "どや？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2577_00090",
+  "kind": "line",
+  "jp": "海はええやろ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2577_000cc",
+  "kind": "line",
+  "jp": "わいは　ときどきここに来て",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2577_000f0",
+  "kind": "line",
+  "jp": "センチメートルに　なっとるんや",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2577_00118",
+  "kind": "line",
+  "jp": "おまえも　そろそろ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2577_00134",
+  "kind": "line",
+  "jp": "青春のモヤモヤになやむ　お年ごろや",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2577_00160",
+  "kind": "line",
+  "jp": "そのモヤモヤを　ここで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2577_00180",
+  "kind": "line",
+  "jp": "ぶつけたったらええねん",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2577_001a0",
+  "kind": "line",
+  "jp": "それが　青春やぁっ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2577_001f4",
+  "kind": "line",
+  "jp": "今から　ピンをこわす　とっくんや！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2577_00220",
+  "kind": "line",
+  "jp": "負けへんで！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2577_002c8",
+  "kind": "line",
+  "jp": "おまえのモヤモヤ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2577_002e4",
+  "kind": "line",
+  "jp": "たしかに　見せてもらったで！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2577_0030c",
+  "kind": "line",
+  "jp": "これは　あせとなみだのけっしょうや！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2577_0033c",
+  "kind": "line",
+  "jp": "とっとけ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2577_003b8",
+  "kind": "line",
+  "jp": "ガッハッハ　わいのモヤモヤのほうが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2577_003e4",
+  "kind": "line",
+  "jp": "上やったみたいやな！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2577_00428",
+  "kind": "line",
+  "jp": "おっと　このとっくんのシメを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2577_00450",
+  "kind": "line",
+  "jp": "忘れとったわ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2577_00468",
+  "kind": "line",
+  "jp": "わいといっしょに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2577_00484",
+  "kind": "line",
+  "jp": "海にむかって　大声でさけぶんや",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2577_004e0",
+  "kind": "line",
+  "jp": "青い海の　バカやろー！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2577_00500",
+  "kind": "line",
+  "jp": "青春の　バカやろー！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2577_00544",
+  "kind": "line",
+  "jp": "どや！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2577_00554",
+  "kind": "line",
+  "jp": "気持ちええやろ？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2577_005a4",
+  "kind": "line",
+  "jp": "ついでに　タクミもバカやろー！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2577_005cc",
+  "kind": "line",
+  "jp": "数学の　バカやろー！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2577_00600",
+  "kind": "line",
+  "jp": "よっしゃ　気合いがのってきたで！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2577_0062c",
+  "kind": "line",
+  "jp": "ピーマンの　バカやろ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

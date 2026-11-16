@@ -1,0 +1,342 @@
+[
+ {
+  "id": "e2566_0009c",
+  "kind": "line",
+  "jp": "ここで　もくげきした人が",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2566_000c0",
+  "kind": "line",
+  "jp": "いるらしいんですけど……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2566_000f0",
+  "kind": "line",
+  "jp": "なによ　いないじゃない……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2566_00114",
+  "kind": "line",
+  "jp": "わたくしに　おそれをなしたのね！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2566_00168",
+  "kind": "line",
+  "jp": "ひぃええええええええ～っ！！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2566_00200",
+  "kind": "line",
+  "jp": "あっ　ミナミさん……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2566_00220",
+  "kind": "line",
+  "jp": "こうなったら",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2566_00238",
+  "kind": "line",
+  "jp": "われわれで　やるしかありません",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2566_00280",
+  "kind": "line",
+  "jp": "練習場に追いこんで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2566_0029c",
+  "kind": "line",
+  "jp": "一気に　たいじしましょう！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2566_00388",
+  "kind": "line",
+  "jp": "やけに手ごたえがなかった……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2566_003dc",
+  "kind": "line",
+  "jp": "やはり　本物のゆうれい……？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2566_00458",
+  "kind": "line",
+  "jp": "ホホホホホ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2566_0049c",
+  "kind": "line",
+  "jp": "ゆうれいなんて　ウソよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2566_004c0",
+  "kind": "line",
+  "jp": "ぜんぶ　この子のしわざでしたの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2566_00504",
+  "kind": "line",
+  "jp": "あ～あ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2566_00518",
+  "kind": "line",
+  "jp": "ぜんぶ　やられちゃった",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2566_00538",
+  "kind": "line",
+  "jp": "せっかく　くろうして",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2566_00558",
+  "kind": "line",
+  "jp": "つくったのに……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2566_00590",
+  "kind": "line",
+  "jp": "ひとをおどかして　よろこぶなんて",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2566_005bc",
+  "kind": "line",
+  "jp": "かんしんしませんね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2566_005d8",
+  "kind": "line",
+  "jp": "イタズラするのなら　もっと",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2566_005fc",
+  "kind": "line",
+  "jp": "たのしく笑えるようなものにしなさい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2566_00634",
+  "kind": "line",
+  "jp": "ごめんなさい……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2566_0066c",
+  "kind": "line",
+  "jp": "わたくしは　始めから",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2566_0068c",
+  "kind": "line",
+  "jp": "イタズラだと　気づいていましたわ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2566_006c4",
+  "kind": "line",
+  "jp": "しかし　あのユウレイは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2566_006e4",
+  "kind": "line",
+  "jp": "よくできていましたね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2566_00704",
+  "kind": "line",
+  "jp": "まるで本物みたいでしたよ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2566_007fc",
+  "kind": "line",
+  "jp": "あの子……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2566_00810",
+  "kind": "line",
+  "jp": "どこに行ったんですの？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2566_0084c",
+  "kind": "line",
+  "jp": "みんな……また……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2566_00868",
+  "kind": "line",
+  "jp": "あそんでね……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2566_008b0",
+  "kind": "line",
+  "jp": "ひぃええええええええ～っ！！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

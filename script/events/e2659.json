@@ -1,0 +1,312 @@
+[
+ {
+  "id": "e2659_00188",
+  "kind": "line",
+  "jp": "このあいだ　となり町の子に",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2659_001ac",
+  "kind": "line",
+  "jp": "コテンパンにやられてね……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2659_001d0",
+  "kind": "line",
+  "jp": "練習がまだたりないってことかな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2659_0022c",
+  "kind": "line",
+  "jp": "もっと強くなるために　べつのジムに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2659_00258",
+  "kind": "line",
+  "jp": "練習にでかけようかな……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2659_002bc",
+  "kind": "line",
+  "jp": "強くなるほうほうは　人それぞれって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2659_002e8",
+  "kind": "line",
+  "jp": "ことなのかな？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2659_00300",
+  "kind": "line",
+  "jp": "あの人も　たまにはいいこというね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2659_00360",
+  "kind": "line",
+  "jp": "う～ん……　あの人　すごいきあい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2659_0038c",
+  "kind": "line",
+  "jp": "だけど　あれじゃ勝てないと思うな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2659_003f8",
+  "kind": "line",
+  "jp": "バトローリングとは……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2659_00418",
+  "kind": "line",
+  "jp": "いや　キミにそれを言う",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2659_00438",
+  "kind": "line",
+  "jp": "ひつようはない！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2659_00454",
+  "kind": "line",
+  "jp": "キミの進んだ道",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2659_0046c",
+  "kind": "line",
+  "jp": "それこそがバトローリングだッ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2659_004c8",
+  "kind": "line",
+  "jp": "バトローリングとは　ちえと勇気！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2659_004f4",
+  "kind": "line",
+  "jp": "それさえあれば　なんとかなーる！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2659_00520",
+  "kind": "line",
+  "jp": "勇気と男気と根気と病気！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2659_00544",
+  "kind": "line",
+  "jp": "それがバトローリングだッ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2659_005a8",
+  "kind": "line",
+  "jp": "え　ええと　とにかく……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2659_005cc",
+  "kind": "line",
+  "jp": "それが　バトローリングなんだよっ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2659_0062c",
+  "kind": "line",
+  "jp": "ゆうきと　おとこぎと　こんきと……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2659_00658",
+  "kind": "line",
+  "jp": "びょうきはキライだから　ナシ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2659_00680",
+  "kind": "line",
+  "jp": "とにかく　それが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2659_0069c",
+  "kind": "line",
+  "jp": "バトローリングなんだよっ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2659_00700",
+  "kind": "line",
+  "jp": "バトローリングの本が　ならんでる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2659_0076c",
+  "kind": "line",
+  "jp": "バトローリングの本が　ならんでる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2659_007d8",
+  "kind": "line",
+  "jp": "バトローリングの本が　ならんでる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2659_00844",
+  "kind": "line",
+  "jp": "バトローリングの本が　ならんでる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2659_008b0",
+  "kind": "line",
+  "jp": "はいれないようだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 17,
+  "notes": ""
+ },
+ {
+  "id": "e2659_0090c",
+  "kind": "line",
+  "jp": "はいれないようだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 18,
+  "notes": ""
+ }
+]

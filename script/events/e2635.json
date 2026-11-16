@@ -1,0 +1,302 @@
+[
+ {
+  "id": "e2635_000d4",
+  "kind": "line",
+  "jp": "ほんに　お天気がよくて",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2635_000f4",
+  "kind": "line",
+  "jp": "作物が　たくさんみのっておりますらい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2635_00158",
+  "kind": "line",
+  "jp": "なんや　スイカまで　えらいほうさくで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2635_00188",
+  "kind": "line",
+  "jp": "こまってしまうぐらいですらい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2635_001e4",
+  "kind": "line",
+  "jp": "ことしは　作物が　ほうさくですらい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2635_00210",
+  "kind": "line",
+  "jp": "ほんに　うれしいことですらい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2635_00278",
+  "kind": "line",
+  "jp": "ワカメパワーで　頭の毛も",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2635_0029c",
+  "kind": "line",
+  "jp": "ツヤツヤぞい！　ビューチィフルぞい！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2635_00300",
+  "kind": "line",
+  "jp": "頭のてっぺんがスースーして",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2635_00324",
+  "kind": "line",
+  "jp": "なんだかさびしいぞい……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2635_00348",
+  "kind": "line",
+  "jp": "ミネラルたっぷりのワカメでも",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2635_00370",
+  "kind": "line",
+  "jp": "ぞんぶんに食したいところじゃが……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2635_003a8",
+  "kind": "line",
+  "jp": "おお≡　おぬしがもっておるのは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2635_003d0",
+  "kind": "line",
+  "jp": "まさにそのワカメ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2635_003ec",
+  "kind": "line",
+  "jp": "よし！　おぬしには　これをゆずるぞい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2635_0041c",
+  "kind": "line",
+  "jp": "だいだいつたわる　カッパの手ぞい！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2635_00448",
+  "kind": "line",
+  "jp": "ほれ　ワカメとこうかんぞ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2635_0046c",
+  "kind": "line",
+  "jp": "はようこっちにかしてみ！　ほれ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2635_004a4",
+  "kind": "line",
+  "jp": "『カッパの手』をてにいれた",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2635_00508",
+  "kind": "line",
+  "jp": "頭のてっぺんがスースーして",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2635_0052c",
+  "kind": "line",
+  "jp": "なんだかさびしいぞい……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2635_00550",
+  "kind": "line",
+  "jp": "ミネラルたっぷりのワカメでも",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2635_00578",
+  "kind": "line",
+  "jp": "ぞんぶんに食したいところじゃが……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2635_00600",
+  "kind": "line",
+  "jp": "テレビをつけてみた",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2635_0061c",
+  "kind": "line",
+  "jp": "天気よほうが　うつってる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2635_00688",
+  "kind": "line",
+  "jp": "ようふくタンスだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2635_006e4",
+  "kind": "line",
+  "jp": "ようふくタンスだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2635_00740",
+  "kind": "line",
+  "jp": "のうぎょうの本がならんでいる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2635_007c4",
+  "kind": "line",
+  "jp": "テレビをつけてみた",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2635_007e0",
+  "kind": "line",
+  "jp": "天気よほうが　うつってる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ }
+]

@@ -1,0 +1,680 @@
+[
+ {
+  "id": "e2591_0011c",
+  "kind": "line",
+  "jp": "シュウさまに　手あみのマフラー",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2591_00144",
+  "kind": "line",
+  "jp": "あんであげようと　思ってんの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2591_00178",
+  "kind": "line",
+  "jp": "あたしも　なかなか",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2591_00194",
+  "kind": "line",
+  "jp": "女らしいとこあるでしょ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2591_001c8",
+  "kind": "line",
+  "jp": "オーホッホ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2591_00230",
+  "kind": "line",
+  "jp": "笑わせてくれますわね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2591_00250",
+  "kind": "line",
+  "jp": "エレガントさのカケラもない女が",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2591_00278",
+  "kind": "line",
+  "jp": "あみものですって？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2591_002ec",
+  "kind": "line",
+  "jp": "なにさ……　じゃああんたは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2591_00310",
+  "kind": "line",
+  "jp": "あみものできるっていうの？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2591_00340",
+  "kind": "line",
+  "jp": "ハッハッハ　いいしつもんだね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2591_00368",
+  "kind": "line",
+  "jp": "ミス・コマチ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2591_00380",
+  "kind": "line",
+  "jp": "前に　チャレンジしようとして",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2591_003a8",
+  "kind": "line",
+  "jp": "からまったことなら……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2591_003dc",
+  "kind": "line",
+  "jp": "お……おだまりなさい！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2591_00420",
+  "kind": "line",
+  "jp": "わたくしは　女らしさのカタマリですわ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2591_00450",
+  "kind": "line",
+  "jp": "おりょうりだって　お茶だって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2591_00478",
+  "kind": "line",
+  "jp": "さらりと　こなしてみせますわ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2591_0052c",
+  "kind": "line",
+  "jp": "お兄さま　わたくしとあの子の",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2591_00554",
+  "kind": "line",
+  "jp": "どちらが女らしいか　おっしゃって！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2591_0058c",
+  "kind": "line",
+  "jp": "身内だからって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2591_005a4",
+  "kind": "line",
+  "jp": "ひいきはナシだからね！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2591_005e0",
+  "kind": "line",
+  "jp": "どっちかというと……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2591_00600",
+  "kind": "line",
+  "jp": "わたしは　ああいう子のほうが……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2591_00640",
+  "kind": "line",
+  "jp": "なっ　なんですって∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2591_00674",
+  "kind": "line",
+  "jp": "ホクトは　あんがい正直なのね～",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2591_006b8",
+  "kind": "line",
+  "jp": "∴はあたしと　あの子と",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2591_006d8",
+  "kind": "line",
+  "jp": "どっちが　女らしいと　おもう？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2591_0070c.0",
+  "kind": "choice",
+  "jp": "あの子のほう",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2591_0070c.1",
+  "kind": "choice",
+  "jp": "もちろん　コマチ",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2591_00768",
+  "kind": "line",
+  "jp": "ウキー　なんですって∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2591_007a4",
+  "kind": "line",
+  "jp": "え？　ほんと？？　",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2591_007c0",
+  "kind": "line",
+  "jp": "って　なに顔を　ひきつらせてんのよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2591_00868",
+  "kind": "line",
+  "jp": "えっ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2591_00878",
+  "kind": "line",
+  "jp": "わたしが　どうかしたんですか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2591_008b4",
+  "kind": "line",
+  "jp": "こんなのの　どこが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2591_008d0",
+  "kind": "line",
+  "jp": "女らしいって　おっしゃるの？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2591_0091c",
+  "kind": "line",
+  "jp": "そうよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2591_00930",
+  "kind": "line",
+  "jp": "タダのぶりぶりブリっ子じゃない",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2591_0096c",
+  "kind": "line",
+  "jp": "わ……わたし",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2591_00984",
+  "kind": "line",
+  "jp": "ブリっ子なんかじゃないもん！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2591_009d4",
+  "kind": "line",
+  "jp": "ミ……ミナミも　ミス・コマチも",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2591_009fc",
+  "kind": "line",
+  "jp": "もういいじゃないか",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2591_00a18",
+  "kind": "line",
+  "jp": "みんな　女らしいってことで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2591_00a3c",
+  "kind": "line",
+  "jp": "なかよくやろうよ……ね？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2591_00a94",
+  "kind": "line",
+  "jp": "うるさい！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2591_00abc",
+  "kind": "line",
+  "jp": "こうなったら　だれが女らしいか",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2591_00ae4",
+  "kind": "line",
+  "jp": "バトローリングで　勝負ですわ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2591_00b20",
+  "kind": "line",
+  "jp": "うけてたとうじゃない！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2591_00b54",
+  "kind": "line",
+  "jp": "わたしも　ブリっ子なんて言われて",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2591_00b80",
+  "kind": "line",
+  "jp": "だまってられないわ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2591_00bbc",
+  "kind": "line",
+  "jp": "かのじょたちを　止めてくれたまえ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2591_00c98",
+  "kind": "line",
+  "jp": "よ……よく　かのじょたちを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2591_00cbc",
+  "kind": "line",
+  "jp": "止めてくれたね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2591_00cd4",
+  "kind": "line",
+  "jp": "これは　わたしからの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2591_00cf4",
+  "kind": "line",
+  "jp": "ほんのささやかなお礼だ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2591_00d50",
+  "kind": "line",
+  "jp": "コロナって　言ったっけ？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2591_00d74",
+  "kind": "line",
+  "jp": "あんた　なかなかやるじゃない",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2591_00da8",
+  "kind": "line",
+  "jp": "わたくしも　あやまりますわ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2591_00dd8",
+  "kind": "line",
+  "jp": "ううん　わたしのほうこそ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2591_00dfc",
+  "kind": "line",
+  "jp": "カッとなって　ごめんなさい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2591_00e2c",
+  "kind": "line",
+  "jp": "ねえ　ケーキでも食べてかえろうよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2591_00e64",
+  "kind": "line",
+  "jp": "良いていあんですわね　",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2591_00e84",
+  "kind": "line",
+  "jp": "まあ　今日だけは　",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2591_00ea0",
+  "kind": "line",
+  "jp": "なかよくしても　よろしくてよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2591_00ed4",
+  "kind": "line",
+  "jp": "わたし　おいしいお店　知ってますよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2591_00f34",
+  "kind": "line",
+  "jp": "アーマレット『エンジェラン』が",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2591_00f5c",
+  "kind": "line",
+  "jp": "使えるようになりました∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

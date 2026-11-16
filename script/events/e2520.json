@@ -1,0 +1,750 @@
+[
+ {
+  "id": "e2520_00078",
+  "kind": "line",
+  "jp": "す　すごい∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2520_00090",
+  "kind": "line",
+  "jp": "同じ中学生なのに……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2520_000b0",
+  "kind": "line",
+  "jp": "これが　バトローリング≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2520_000d4",
+  "kind": "line",
+  "jp": "これが……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2520_000e8",
+  "kind": "line",
+  "jp": "なんて　はげしい……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2520_00108",
+  "kind": "line",
+  "jp": "でも　みんな　とても楽しそう……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2520_00134",
+  "kind": "line",
+  "jp": "バトローラーどうしが戦う",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2520_00158",
+  "kind": "line",
+  "jp": "バトローリングかぁ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2520_00178",
+  "kind": "line",
+  "jp": "よ～し……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2520_001cc",
+  "kind": "line",
+  "jp": "真丸中から転校してきて",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2520_001ec",
+  "kind": "line",
+  "jp": "今日から　この『勝飛中』に",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2520_00210",
+  "kind": "line",
+  "jp": "かようことになった　∴",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2520_00230",
+  "kind": "line",
+  "jp": "最近知った　バトローリングという",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2520_0025c",
+  "kind": "line",
+  "jp": "スポーツを　始めるために",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2520_00280",
+  "kind": "line",
+  "jp": "バトローリング部をたずねることに……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2520_00344",
+  "kind": "line",
+  "jp": "キミも　バトローリング部に",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2520_00368",
+  "kind": "line",
+  "jp": "入部しよう！　コマチ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2520_0043c",
+  "kind": "line",
+  "jp": "だれも　いないのかな……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2520_0046c.0",
+  "kind": "choice",
+  "jp": "アームにさわってみる",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2520_0046c.1",
+  "kind": "choice",
+  "jp": "部室でくつろぐ",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2520_00568",
+  "kind": "line",
+  "jp": "ババーーッと　バト　バト",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2520_0058c",
+  "kind": "line",
+  "jp": "バトローリ～ング♪",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2520_005a8",
+  "kind": "line",
+  "jp": "ロールで　どっかん",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2520_005c4",
+  "kind": "line",
+  "jp": "ドロップだー♪",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2520_005f8",
+  "kind": "line",
+  "jp": "あーあ　まったくタクミってば",
+  "en": "",
+  "status": "new",
+  "flags": "0x0400",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2520_00620",
+  "kind": "line",
+  "jp": "わからずや∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2520_0067c",
+  "kind": "line",
+  "jp": "部員があたし１人だから",
+  "en": "",
+  "status": "new",
+  "flags": "0x0400",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2520_0069c",
+  "kind": "line",
+  "jp": "部の予算は出せないなんて∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2520_006c0",
+  "kind": "line",
+  "jp": "あんたもそう思うでしょ　ねぇ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0600",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2520_0070c",
+  "kind": "line",
+  "jp": "……って",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2520_00720",
+  "kind": "line",
+  "jp": "だ　だれよ　あんた∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2520_00788",
+  "kind": "line",
+  "jp": "ああっ∇　うちの部のアームを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0400",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2520_007b0",
+  "kind": "line",
+  "jp": "持ってるなんて……ドロボー≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2520_007d8",
+  "kind": "line",
+  "jp": "ただでさえ数少ないアームを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0400",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2520_007fc",
+  "kind": "line",
+  "jp": "ぬすませる　わけにはいかないわよ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2520_00828",
+  "kind": "line",
+  "jp": "かくご∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2520_00880",
+  "kind": "line",
+  "jp": "どう≡　勝飛中バトローリング部の",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2520_008ac",
+  "kind": "line",
+  "jp": "１年生部長　コマチさまを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2520_008d0",
+  "kind": "line",
+  "jp": "あまく見るんじゃないわよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2520_00910",
+  "kind": "line",
+  "jp": "……え？　なに？　ちょっと見たかった",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2520_00940",
+  "kind": "line",
+  "jp": "だけで　ドロボーじゃない？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2520_00964",
+  "kind": "line",
+  "jp": "たしかにドロボーって　顔でもないけど",
+  "en": "",
+  "status": "new",
+  "flags": "0x0400",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2520_00994",
+  "kind": "line",
+  "jp": "……どこかで見たような気もするわね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2520_009c0",
+  "kind": "line",
+  "jp": "とにかくドロボーじゃなきゃ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2520_009e4",
+  "kind": "line",
+  "jp": "なにしに来たの？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2520_00a00",
+  "kind": "line",
+  "jp": "入部ってわけでもないでしょ？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2520_00a34",
+  "kind": "line",
+  "jp": "うちの部室で　なに自分ちみたいに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0400",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2520_00a60",
+  "kind": "line",
+  "jp": "くつろいじゃってんのよ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2520_00a84",
+  "kind": "line",
+  "jp": "わかった∇　部室をほしがってる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0400",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2520_00aac",
+  "kind": "line",
+  "jp": "ほかの部のれんちゅうね∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2520_00ad0",
+  "kind": "line",
+  "jp": "なにがあっても",
+  "en": "",
+  "status": "new",
+  "flags": "0x0400",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2520_00ae8",
+  "kind": "line",
+  "jp": "ここはわたさないわよ∇　かくご∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2520_00b4c",
+  "kind": "line",
+  "jp": "どう≡　勝飛中バトローリング部の",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2520_00b78",
+  "kind": "line",
+  "jp": "１年生部長　コマチさまを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2520_00b9c",
+  "kind": "line",
+  "jp": "あまく見るんじゃないわよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2520_00bdc",
+  "kind": "line",
+  "jp": "……え？　なに？　だれもいないから",
+  "en": "",
+  "status": "new",
+  "flags": "0x0400",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2520_00c08",
+  "kind": "line",
+  "jp": "まってただけ？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2520_00c20",
+  "kind": "line",
+  "jp": "つまり　あたしに用？　でもあんたって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0400",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2520_00c50",
+  "kind": "line",
+  "jp": "べつに知り合いじゃないよね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2520_00c74",
+  "kind": "line",
+  "jp": "とにかく　あたしになんの用よ？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0400",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2520_00c9c",
+  "kind": "line",
+  "jp": "入部しにってわけでもないんでしょ？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2520_00cdc",
+  "kind": "line",
+  "jp": "え？　ホントに入部≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2520_00cfc",
+  "kind": "line",
+  "jp": "ホントにホント≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2520_00d2c",
+  "kind": "line",
+  "jp": "やったぁ∇　あんた　えらい∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2520_00d68",
+  "kind": "line",
+  "jp": "今　世界で一番いいヤツよ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2520_00d8c",
+  "kind": "line",
+  "jp": "これで∇　これでやっと",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2520_00dc8",
+  "kind": "line",
+  "jp": "いつでもバトローリングができるわ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2520_00df4",
+  "kind": "line",
+  "jp": "それに　部員ふえたから予算も",
+  "en": "",
+  "status": "new",
+  "flags": "0x0400",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2520_00e1c",
+  "kind": "line",
+  "jp": "どうどうともらえるし……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2520_00e40",
+  "kind": "line",
+  "jp": "それに　あたしは部長だから",
+  "en": "",
+  "status": "new",
+  "flags": "0x0400",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2520_00e64",
+  "kind": "line",
+  "jp": "部員をこきつかったりしちゃったり……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2520_00ec0",
+  "kind": "line",
+  "jp": "まぁ　ともかくさっそく",
+  "en": "",
+  "status": "new",
+  "flags": "0x0400",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2520_00ee0",
+  "kind": "line",
+  "jp": "バトローリングしよ∇　",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2520_00f00",
+  "kind": "line",
+  "jp": "ああ　ひっさしっぶりっ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2520_00f8c",
+  "kind": "line",
+  "jp": "ほらほら　はやくはやく∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

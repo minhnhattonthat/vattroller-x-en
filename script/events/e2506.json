@@ -1,0 +1,828 @@
+[
+ {
+  "id": "e2506_000dc",
+  "kind": "line",
+  "jp": "リョウ……∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2506_00108",
+  "kind": "line",
+  "jp": "さすがだな　リョウ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2506_00124",
+  "kind": "line",
+  "jp": "うわさどおりのヤツだぜ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2506_00150",
+  "kind": "line",
+  "jp": "へぇ　オレのこと知ってんのかい？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2506_00188",
+  "kind": "line",
+  "jp": "ああ　前からオレは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2506_001a4",
+  "kind": "line",
+  "jp": "オマエをなかまにしたいと思ってたんだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2506_001d4",
+  "kind": "line",
+  "jp": "ぐうぜんとはいえ　レイナのことは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2506_00200",
+  "kind": "line",
+  "jp": "いいきっかけになったぜ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2506_00220",
+  "kind": "line",
+  "jp": "オマエが　なかまになれば",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2506_00244",
+  "kind": "line",
+  "jp": "チームはもっと強くなる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2506_00264",
+  "kind": "line",
+  "jp": "オマエだって　オレたちとツルめば",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2506_00290",
+  "kind": "line",
+  "jp": "いい思いができるぜ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2506_002b8",
+  "kind": "line",
+  "jp": "リョウ　ダメよ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2506_002d4",
+  "kind": "line",
+  "jp": "こんなヤツらのなかまになっちゃ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2506_0030c",
+  "kind": "line",
+  "jp": "うるせぇ∇　だまりやがれ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2506_00364",
+  "kind": "line",
+  "jp": "キャ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2506_00390",
+  "kind": "line",
+  "jp": "さあ　リョウ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2506_003a8",
+  "kind": "line",
+  "jp": "いっしょに楽しくやろうぜ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2506_003d8.0",
+  "kind": "choice",
+  "jp": "いいぜ",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2506_003d8.1",
+  "kind": "choice",
+  "jp": "やなこった",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2506_00414",
+  "kind": "line",
+  "jp": "……ああ　いいぜ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2506_00430",
+  "kind": "line",
+  "jp": "そこまで言うんならな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2506_0045c",
+  "kind": "line",
+  "jp": "リョウ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2506_0047c",
+  "kind": "line",
+  "jp": "へへっ　オマエは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2506_00498",
+  "kind": "line",
+  "jp": "りこうなヤツだ　かんげいするぜ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2506_004cc",
+  "kind": "line",
+  "jp": "……そのかわり　リーダーはオレが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2506_004f8",
+  "kind": "line",
+  "jp": "やらせてもらうぜ　いちばん強いからな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2506_00528",
+  "kind": "line",
+  "jp": "そして　最初のめいれいは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2506_0054c",
+  "kind": "line",
+  "jp": "チームかいさんだ　もんくはねぇな≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2506_00584",
+  "kind": "line",
+  "jp": "な　なんだとっ≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2506_005a0",
+  "kind": "line",
+  "jp": "てめぇ　ふざけやがって∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2506_005d0",
+  "kind": "line",
+  "jp": "……ふん　オレはだれとも",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2506_005f4",
+  "kind": "line",
+  "jp": "ツルむ気はねーよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2506_00610",
+  "kind": "line",
+  "jp": "それが　自由にやめられねーような",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2506_0063c",
+  "kind": "line",
+  "jp": "うっとおしいチームなら　なおさらだぜ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2506_00678",
+  "kind": "line",
+  "jp": "てめぇ……オレのさそいを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2506_0069c",
+  "kind": "line",
+  "jp": "ことわるってのか≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2506_006c4",
+  "kind": "line",
+  "jp": "バカなヤツだ∇　これでてめぇの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2506_006ec",
+  "kind": "line",
+  "jp": "うんめいは決まったぜ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2506_0070c",
+  "kind": "line",
+  "jp": "かくごしな∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2506_00724",
+  "kind": "line",
+  "jp": "ボコボコにしてやる∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2506_00750",
+  "kind": "line",
+  "jp": "へっ　してもらおうじゃねぇか",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2506_00778",
+  "kind": "line",
+  "jp": "できるもんならな∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2506_007f0",
+  "kind": "line",
+  "jp": "くっ……な　なんて",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2506_0080c",
+  "kind": "line",
+  "jp": "つえぇヤツなんだ……∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2506_00860",
+  "kind": "line",
+  "jp": "バーカ　てめぇが弱すぎんだよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2506_00894",
+  "kind": "line",
+  "jp": "リ　リーダーがやられた∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2506_008b8",
+  "kind": "line",
+  "jp": "もうダメだ　にげろーーっ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2506_00968",
+  "kind": "line",
+  "jp": "へっ　カタマリがこわくて",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2506_0098c",
+  "kind": "line",
+  "jp": "まとまってただけかよ　なさけねー",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2506_009d4",
+  "kind": "line",
+  "jp": "チームはなくなっちまったから",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2506_009fc",
+  "kind": "line",
+  "jp": "これでおめーも自由だろ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2506_00a1c",
+  "kind": "line",
+  "jp": "オレは行くぜ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2506_00a34",
+  "kind": "line",
+  "jp": "じゃあな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2506_00a54",
+  "kind": "line",
+  "jp": "…………",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2506_00a84",
+  "kind": "line",
+  "jp": "あ……リョウ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2506_00ab8",
+  "kind": "line",
+  "jp": "ああ？　まだなんか用か？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2506_00ae8",
+  "kind": "line",
+  "jp": "その……あたし……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2506_00b04",
+  "kind": "line",
+  "jp": "…………",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2506_00b18",
+  "kind": "line",
+  "jp": "…………",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2506_00b2c",
+  "kind": "line",
+  "jp": "…………なんでもないよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2506_00b4c",
+  "kind": "line",
+  "jp": "ありがとね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2506_00b6c",
+  "kind": "line",
+  "jp": "へっ　べつにたいしたことは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2506_00b90",
+  "kind": "line",
+  "jp": "してねーよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2506_00bd0",
+  "kind": "line",
+  "jp": "あんたとツルみたい……なんて",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2506_00bf8",
+  "kind": "line",
+  "jp": "いえるわけないよね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2506_00c14",
+  "kind": "line",
+  "jp": "でも　そんな自由なあんたを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2506_00c38",
+  "kind": "line",
+  "jp": "ずっと応援してるよ　リョウ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2506_00d04",
+  "kind": "line",
+  "jp": "なんだ　おめーら",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2506_00d34",
+  "kind": "line",
+  "jp": "リョウくん　かっこいいわ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2506_00d6c",
+  "kind": "line",
+  "jp": "てめーら　見てやがったのか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2506_00da8",
+  "kind": "line",
+  "jp": "リョウ　バカシブ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2506_00de0",
+  "kind": "line",
+  "jp": "て　てめぇ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2506_00e04",
+  "kind": "line",
+  "jp": "あっ　リョウが　おこった∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2506_00e28",
+  "kind": "line",
+  "jp": "にげるぞ　ムチャピー",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2506_00e54",
+  "kind": "line",
+  "jp": "ピー∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2506_00e70",
+  "kind": "line",
+  "jp": "ジン　まちやがれ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2506_00f50",
+  "kind": "line",
+  "jp": "……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2506_00f64.0",
+  "kind": "title",
+  "jp": "バトローラーリョウ",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2506_00f64.1",
+  "kind": "title",
+  "jp": "番外編　終",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2506_00fac",
+  "kind": "line",
+  "jp": "アーマレット『ライオネル』が",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2506_00fd4",
+  "kind": "line",
+  "jp": "使えるようになりました∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2506_01028",
+  "kind": "line",
+  "jp": "記録が　しゅうりょうしました",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

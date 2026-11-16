@@ -1,0 +1,512 @@
+[
+ {
+  "id": "e2580_00108",
+  "kind": "line",
+  "jp": "どこいったのかしら……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 1,
+  "notes": ""
+ },
+ {
+  "id": "e2580_00134",
+  "kind": "line",
+  "jp": "ニャーッ！！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 1,
+  "notes": ""
+ },
+ {
+  "id": "e2580_00178",
+  "kind": "line",
+  "jp": "コダマのなきごえだわ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 1,
+  "notes": ""
+ },
+ {
+  "id": "e2580_001d8",
+  "kind": "line",
+  "jp": "ちょっと　あんた",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 1,
+  "notes": ""
+ },
+ {
+  "id": "e2580_001f4",
+  "kind": "line",
+  "jp": "うちのコダマに　なにしてんのよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 1,
+  "notes": ""
+ },
+ {
+  "id": "e2580_00234",
+  "kind": "line",
+  "jp": "いや　オレは……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 1,
+  "notes": ""
+ },
+ {
+  "id": "e2580_00264",
+  "kind": "line",
+  "jp": "ネコをいじめるようなヤツは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 1,
+  "notes": ""
+ },
+ {
+  "id": "e2580_00288",
+  "kind": "line",
+  "jp": "もんどうむようよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 1,
+  "notes": ""
+ },
+ {
+  "id": "e2580_002a4",
+  "kind": "line",
+  "jp": "あたしが　ケチョンケチョンに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 1,
+  "notes": ""
+ },
+ {
+  "id": "e2580_002cc",
+  "kind": "line",
+  "jp": "やっつけてやるわ！　いくわよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 1,
+  "notes": ""
+ },
+ {
+  "id": "e2580_00394",
+  "kind": "line",
+  "jp": "ニャ　ニャー！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 1,
+  "notes": ""
+ },
+ {
+  "id": "e2580_003e0",
+  "kind": "line",
+  "jp": "これですむとおもったら　大まちがいよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 1,
+  "notes": ""
+ },
+ {
+  "id": "e2580_00410",
+  "kind": "line",
+  "jp": "かくごしなさい！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 1,
+  "notes": ""
+ },
+ {
+  "id": "e2580_00458",
+  "kind": "line",
+  "jp": "まって！　その人は　ネコちゃんを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 1,
+  "notes": ""
+ },
+ {
+  "id": "e2580_00484",
+  "kind": "line",
+  "jp": "いじめてなんかいないわよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 1,
+  "notes": ""
+ },
+ {
+  "id": "e2580_004b4",
+  "kind": "line",
+  "jp": "そのネコちゃんは　高いところにあがって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 1,
+  "notes": ""
+ },
+ {
+  "id": "e2580_004e4",
+  "kind": "line",
+  "jp": "おりられなくなっていたの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 1,
+  "notes": ""
+ },
+ {
+  "id": "e2580_00508",
+  "kind": "line",
+  "jp": "かれは　それを助けようと",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 1,
+  "notes": ""
+ },
+ {
+  "id": "e2580_0052c",
+  "kind": "line",
+  "jp": "していただけなのよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 1,
+  "notes": ""
+ },
+ {
+  "id": "e2580_00564",
+  "kind": "line",
+  "jp": "それ　ホント？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 1,
+  "notes": ""
+ },
+ {
+  "id": "e2580_00588",
+  "kind": "line",
+  "jp": "ニャー！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 1,
+  "notes": ""
+ },
+ {
+  "id": "e2580_005f0",
+  "kind": "line",
+  "jp": "でも　キミ　けっこう強いよな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 1,
+  "notes": ""
+ },
+ {
+  "id": "e2580_00618",
+  "kind": "line",
+  "jp": "オレ　びっくりしたよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 1,
+  "notes": ""
+ },
+ {
+  "id": "e2580_00638",
+  "kind": "line",
+  "jp": "おまえとのバトローリング",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 1,
+  "notes": ""
+ },
+ {
+  "id": "e2580_0065c",
+  "kind": "line",
+  "jp": "すごく楽しかったよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 1,
+  "notes": ""
+ },
+ {
+  "id": "e2580_00678",
+  "kind": "line",
+  "jp": "今度やるときは　負けないぞ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 1,
+  "notes": ""
+ },
+ {
+  "id": "e2580_006bc",
+  "kind": "line",
+  "jp": "それじゃ　わたしたち",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 1,
+  "notes": ""
+ },
+ {
+  "id": "e2580_006dc",
+  "kind": "line",
+  "jp": "練習があるからこれで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 1,
+  "notes": ""
+ },
+ {
+  "id": "e2580_006fc",
+  "kind": "line",
+  "jp": "バイバイ　ネコちゃん",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 1,
+  "notes": ""
+ },
+ {
+  "id": "e2580_00794",
+  "kind": "line",
+  "jp": "しっぱい　しっぱい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 1,
+  "notes": ""
+ },
+ {
+  "id": "e2580_007b0",
+  "kind": "line",
+  "jp": "もっとちゃんとたしかめないとね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 1,
+  "notes": ""
+ },
+ {
+  "id": "e2580_007d8",
+  "kind": "line",
+  "jp": "さ　あたしたちも　かえって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 1,
+  "notes": ""
+ },
+ {
+  "id": "e2580_007fc",
+  "kind": "line",
+  "jp": "練習よ　練習！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 1,
+  "notes": ""
+ },
+ {
+  "id": "e2580_00844",
+  "kind": "line",
+  "jp": "だいじょうぶか",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 1,
+  "notes": ""
+ },
+ {
+  "id": "e2580_0085c",
+  "kind": "line",
+  "jp": "ケガとかしなかったか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 1,
+  "notes": ""
+ },
+ {
+  "id": "e2580_00888",
+  "kind": "line",
+  "jp": "敵のなさけなんかうけるもんですか！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 1,
+  "notes": ""
+ },
+ {
+  "id": "e2580_008e0",
+  "kind": "line",
+  "jp": "敵なんかじゃないわ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 1,
+  "notes": ""
+ },
+ {
+  "id": "e2580_008fc",
+  "kind": "line",
+  "jp": "そのネコちゃんは　高いところにあがって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 1,
+  "notes": ""
+ },
+ {
+  "id": "e2580_0092c",
+  "kind": "line",
+  "jp": "おりられなくなっていたの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 1,
+  "notes": ""
+ },
+ {
+  "id": "e2580_00950",
+  "kind": "line",
+  "jp": "かれは　それを助けようと",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 1,
+  "notes": ""
+ },
+ {
+  "id": "e2580_00974",
+  "kind": "line",
+  "jp": "していただけなのよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 1,
+  "notes": ""
+ },
+ {
+  "id": "e2580_009b4",
+  "kind": "line",
+  "jp": "そ　そうだったの！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 1,
+  "notes": ""
+ },
+ {
+  "id": "e2580_009d0",
+  "kind": "line",
+  "jp": "あたしったら　はやがてんで……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 1,
+  "notes": ""
+ },
+ {
+  "id": "e2580_00a14",
+  "kind": "line",
+  "jp": "どうもゴメンなさい！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 1,
+  "notes": ""
+ },
+ {
+  "id": "e2580_00a40",
+  "kind": "line",
+  "jp": "気にすんなよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 1,
+  "notes": ""
+ },
+ {
+  "id": "e2580_00a58",
+  "kind": "line",
+  "jp": "今度はちゃんとした形で戦おうぜ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 1,
+  "notes": ""
+ },
+ {
+  "id": "e2580_00a80",
+  "kind": "line",
+  "jp": "おまえたちとの　バトローリング",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 1,
+  "notes": ""
+ },
+ {
+  "id": "e2580_00aa8",
+  "kind": "line",
+  "jp": "すっごく楽しかったしな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 1,
+  "notes": ""
+ },
+ {
+  "id": "e2580_00ad4",
+  "kind": "line",
+  "jp": "それじゃ　わたしたち",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 1,
+  "notes": ""
+ },
+ {
+  "id": "e2580_00af4",
+  "kind": "line",
+  "jp": "練習があるからこれで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 1,
+  "notes": ""
+ },
+ {
+  "id": "e2580_00b14",
+  "kind": "line",
+  "jp": "バイバイ　ネコちゃん",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 1,
+  "notes": ""
+ }
+]

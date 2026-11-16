@@ -1,0 +1,530 @@
+[
+ {
+  "id": "e2534_00044",
+  "kind": "line",
+  "jp": "おっ　全員そろったか！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2534_00064",
+  "kind": "line",
+  "jp": "じゃあ　いっちょバトル行くで！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2534_00098",
+  "kind": "line",
+  "jp": "じゅんびはええか？　∴",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2534_000c4.0",
+  "kind": "choice",
+  "jp": "うん",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2534_000c4.1",
+  "kind": "choice",
+  "jp": "まだ",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2534_000fc",
+  "kind": "line",
+  "jp": "よっしゃ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2534_00190",
+  "kind": "line",
+  "jp": "なんや　まだかいな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2534_001ac",
+  "kind": "line",
+  "jp": "まってるで∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2534_001f4",
+  "kind": "line",
+  "jp": "ずいぶんはりきってますね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2534_00218",
+  "kind": "line",
+  "jp": "イカヅチ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2534_00250",
+  "kind": "line",
+  "jp": "あったりまえや！　マルスとバトル",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2534_0027c",
+  "kind": "line",
+  "jp": "してから　もういてもたってもいられん",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2534_002c0",
+  "kind": "line",
+  "jp": "まぁ　それはボクも",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2534_002dc",
+  "kind": "line",
+  "jp": "同じですけどね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2534_00320",
+  "kind": "line",
+  "jp": "マルスの戦いは　ボクのりそうで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2534_00348",
+  "kind": "line",
+  "jp": "ああなるには　もっとがんばらないと！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2534_00384",
+  "kind": "line",
+  "jp": "なんだか　うちの部も",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2534_003a4",
+  "kind": "line",
+  "jp": "もりあがってきたわね～！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2534_003f8",
+  "kind": "line",
+  "jp": "……∴はいるか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2534_00450",
+  "kind": "line",
+  "jp": "お兄ちゃん？　なにしに来たのよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2534_00484",
+  "kind": "line",
+  "jp": "今せっかくもりあがってんだから",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2534_004ac",
+  "kind": "line",
+  "jp": "ジムがどーした言うのはやめてよね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2534_004f8",
+  "kind": "line",
+  "jp": "用がおわれば出て行くさ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2534_00518",
+  "kind": "line",
+  "jp": "∴……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2534_00534",
+  "kind": "line",
+  "jp": "オレと戦ってもらおう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2534_00554",
+  "kind": "line",
+  "jp": "１対１の　しんけん勝負だ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2534_00610",
+  "kind": "line",
+  "jp": "まけちゃいましたけど",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2534_00630",
+  "kind": "line",
+  "jp": "べんきょうになりましたね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2534_006bc",
+  "kind": "line",
+  "jp": "さすが　マルスだったわね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2534_006e0",
+  "kind": "line",
+  "jp": "あんたも　がんばりなさいよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2534_00810",
+  "kind": "line",
+  "jp": "バトローリングかんけいの本が",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2534_00838",
+  "kind": "line",
+  "jp": "ならんでいる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2534_00890",
+  "kind": "line",
+  "jp": "カギが　かかっている",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2534_008f0",
+  "kind": "line",
+  "jp": "ロッカーの中が　ごちゃごちゃしてる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2534_0091c",
+  "kind": "line",
+  "jp": "だれの　ロッカーだろう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2534_00970",
+  "kind": "line",
+  "jp": "Ｖメダルをみつけた！！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2534_009fc",
+  "kind": "line",
+  "jp": "コマチのロッカーのようだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2534_00a20",
+  "kind": "line",
+  "jp": "チョコやおかしが　ぎっしりつまってる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2534_00a90",
+  "kind": "line",
+  "jp": "コマチのやぼう　その１",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2534_00ab0",
+  "kind": "line",
+  "jp": "ＶＲ部を正式な部にする∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2534_00ad4",
+  "kind": "line",
+  "jp": "コマチのやぼう　その２",
+  "en": "",
+  "status": "new",
+  "flags": "0x0600",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2534_00af4",
+  "kind": "line",
+  "jp": "プレミアムジムにまけないくらいの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2534_00b20",
+  "kind": "line",
+  "jp": "せつびを買える予算をとる∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2534_00b44",
+  "kind": "line",
+  "jp": "コマチのやぼう　その３",
+  "en": "",
+  "status": "new",
+  "flags": "0x0600",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2534_00b64",
+  "kind": "line",
+  "jp": "クラブフォースから　マルスを出す∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2534_00b90",
+  "kind": "line",
+  "jp": "∴　がんばれ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2534_00bdc",
+  "kind": "line",
+  "jp": "コマチのやぼう　その１",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2534_00bfc",
+  "kind": "line",
+  "jp": "ＶＲ部を正式な部にする∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2534_00c20",
+  "kind": "line",
+  "jp": "コマチのやぼう　その２",
+  "en": "",
+  "status": "new",
+  "flags": "0x0600",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2534_00c40",
+  "kind": "line",
+  "jp": "プレミアムジムにまけないくらいの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2534_00c6c",
+  "kind": "line",
+  "jp": "せつびを買える予算をとる∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2534_00cc4",
+  "kind": "line",
+  "jp": "コマチのやぼう　その１",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2534_00ce4",
+  "kind": "line",
+  "jp": "ＶＲ部を正式な部にする∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 15,
+  "notes": ""
+ }
+]

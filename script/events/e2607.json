@@ -1,0 +1,620 @@
+[
+ {
+  "id": "e2607_00468",
+  "kind": "line",
+  "jp": "あなたも　バトローラーなの？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 17,
+  "notes": ""
+ },
+ {
+  "id": "e2607_00490",
+  "kind": "line",
+  "jp": "強かったら　けっこんしてもいいよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 17,
+  "notes": ""
+ },
+ {
+  "id": "e2607_004bc",
+  "kind": "line",
+  "jp": "あっ　でも　ダーリンのジンくんに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 17,
+  "notes": ""
+ },
+ {
+  "id": "e2607_004e8",
+  "kind": "line",
+  "jp": "バトローリングでかったらねヽ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 17,
+  "notes": ""
+ },
+ {
+  "id": "e2607_00544",
+  "kind": "line",
+  "jp": "あたし　決めたの！　大きくなったら",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 18,
+  "notes": ""
+ },
+ {
+  "id": "e2607_00570",
+  "kind": "line",
+  "jp": "ジンくんのおよめさんになるの！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 18,
+  "notes": ""
+ },
+ {
+  "id": "e2607_00598",
+  "kind": "line",
+  "jp": "だって　ジンくんって　バトリーグの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 18,
+  "notes": ""
+ },
+ {
+  "id": "e2607_005c4",
+  "kind": "line",
+  "jp": "試合で　ゆうしょうしたんだよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 18,
+  "notes": ""
+ },
+ {
+  "id": "e2607_0062c",
+  "kind": "line",
+  "jp": "マーブルアレーナにむけて",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 19,
+  "notes": ""
+ },
+ {
+  "id": "e2607_00650",
+  "kind": "line",
+  "jp": "どのジムでも練習に　ねつがはいるね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 19,
+  "notes": ""
+ },
+ {
+  "id": "e2607_006b0",
+  "kind": "line",
+  "jp": "この町は　バトローリングがさかんでな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 20,
+  "notes": ""
+ },
+ {
+  "id": "e2607_006e0",
+  "kind": "line",
+  "jp": "ジムがみっつもあるだろう？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 20,
+  "notes": ""
+ },
+ {
+  "id": "e2607_00704",
+  "kind": "line",
+  "jp": "どこも　プレミアムジムなんかに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 20,
+  "notes": ""
+ },
+ {
+  "id": "e2607_0072c",
+  "kind": "line",
+  "jp": "まけない　いいジムばかりだよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 20,
+  "notes": ""
+ },
+ {
+  "id": "e2607_00794",
+  "kind": "line",
+  "jp": "海って　いいよな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 21,
+  "notes": ""
+ },
+ {
+  "id": "e2607_007f0",
+  "kind": "line",
+  "jp": "ボクが　イチバンすきなアーマレットは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 22,
+  "notes": ""
+ },
+ {
+  "id": "e2607_00820",
+  "kind": "line",
+  "jp": "シュウくんのドラグーンかな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 22,
+  "notes": ""
+ },
+ {
+  "id": "e2607_00844",
+  "kind": "line",
+  "jp": "すごくカッコいいよね！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 22,
+  "notes": ""
+ },
+ {
+  "id": "e2607_00898",
+  "kind": "line",
+  "jp": "キミもバトローラー？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 23,
+  "notes": ""
+ },
+ {
+  "id": "e2607_008b8",
+  "kind": "line",
+  "jp": "どんなアーマレットをもっているの？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 23,
+  "notes": ""
+ },
+ {
+  "id": "e2607_008e4",
+  "kind": "line",
+  "jp": "アーマレットって　人によって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 23,
+  "notes": ""
+ },
+ {
+  "id": "e2607_0090c",
+  "kind": "line",
+  "jp": "しゅるいがちがうから　面白いよね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 23,
+  "notes": ""
+ },
+ {
+  "id": "e2607_00978",
+  "kind": "line",
+  "jp": "ここはバトローリングがさかんな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 24,
+  "notes": ""
+ },
+ {
+  "id": "e2607_009a0",
+  "kind": "line",
+  "jp": "真丸町北だよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 24,
+  "notes": ""
+ },
+ {
+  "id": "e2607_009f8",
+  "kind": "line",
+  "jp": "ここはバトローリングが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 25,
+  "notes": ""
+ },
+ {
+  "id": "e2607_00a18",
+  "kind": "line",
+  "jp": "さかんな町なんですね　気に入ったわ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 25,
+  "notes": ""
+ },
+ {
+  "id": "e2607_00a44",
+  "kind": "line",
+  "jp": "むすこを　バトローラーにしたいから",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 25,
+  "notes": ""
+ },
+ {
+  "id": "e2607_00a70",
+  "kind": "line",
+  "jp": "ここにひっこすことにきめたわ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 25,
+  "notes": ""
+ },
+ {
+  "id": "e2607_00acc",
+  "kind": "line",
+  "jp": "ひっこしがしたくて",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 26,
+  "notes": ""
+ },
+ {
+  "id": "e2607_00ae8",
+  "kind": "line",
+  "jp": "この町まで　家をさがしに来たんです",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 26,
+  "notes": ""
+ },
+ {
+  "id": "e2607_00b14",
+  "kind": "line",
+  "jp": "ここは住みやすそうな町ですけど",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 26,
+  "notes": ""
+ },
+ {
+  "id": "e2607_00b3c",
+  "kind": "line",
+  "jp": "やちんが高くって　まよってるんです",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 26,
+  "notes": ""
+ },
+ {
+  "id": "e2607_00ba8",
+  "kind": "line",
+  "jp": "ワタシのカレシ　バトローラーじゃ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 27,
+  "notes": ""
+ },
+ {
+  "id": "e2607_00bd4",
+  "kind": "line",
+  "jp": "なかったのよぉ！　ひど～い！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 27,
+  "notes": ""
+ },
+ {
+  "id": "e2607_00bfc",
+  "kind": "line",
+  "jp": "家でゴロゴロするのが　とくい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 27,
+  "notes": ""
+ },
+ {
+  "id": "e2607_00c24",
+  "kind": "line",
+  "jp": "だったから　しんようしたのに～！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 27,
+  "notes": ""
+ },
+ {
+  "id": "e2607_00c84",
+  "kind": "line",
+  "jp": "ワタシのカレシって　バトローラーよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 28,
+  "notes": ""
+ },
+ {
+  "id": "e2607_00cb0",
+  "kind": "line",
+  "jp": "マルスに勝ったことも　あるんだって！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 28,
+  "notes": ""
+ },
+ {
+  "id": "e2607_00ce0",
+  "kind": "line",
+  "jp": "ワタシのじまんのカレシなの！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 28,
+  "notes": ""
+ },
+ {
+  "id": "e2607_0115c",
+  "kind": "line",
+  "jp": "ここは　マーブルスタジアムよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 40,
+  "notes": ""
+ },
+ {
+  "id": "e2607_01184",
+  "kind": "line",
+  "jp": "わたしも　アレーナにさんかするのよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 40,
+  "notes": ""
+ },
+ {
+  "id": "e2607_011e4",
+  "kind": "line",
+  "jp": "第２回戦は　ココ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 41,
+  "notes": ""
+ },
+ {
+  "id": "e2607_01200",
+  "kind": "line",
+  "jp": "『マーブルスタジアム』よ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 41,
+  "notes": ""
+ },
+ {
+  "id": "e2607_012c4",
+  "kind": "line",
+  "jp": "∴ちゃんが今のところ　１位ね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 41,
+  "notes": ""
+ },
+ {
+  "id": "e2607_012f8",
+  "kind": "line",
+  "jp": "∴ちゃんも",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 41,
+  "notes": ""
+ },
+ {
+  "id": "e2607_0130c",
+  "kind": "line",
+  "jp": "よくがんばっているわね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 41,
+  "notes": ""
+ },
+ {
+  "id": "e2607_01338",
+  "kind": "line",
+  "jp": "先に　ドロップされたら負けよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 41,
+  "notes": ""
+ },
+ {
+  "id": "e2607_01360",
+  "kind": "line",
+  "jp": "心して　転がりなさい！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 41,
+  "notes": ""
+ },
+ {
+  "id": "e2607_013d0",
+  "kind": "line",
+  "jp": "みんな　よくがんばったわ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 41,
+  "notes": ""
+ },
+ {
+  "id": "e2607_01408",
+  "kind": "line",
+  "jp": "今回も　∴ちゃんが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 41,
+  "notes": ""
+ },
+ {
+  "id": "e2607_01424",
+  "kind": "line",
+  "jp": "１位ね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 41,
+  "notes": ""
+ },
+ {
+  "id": "e2607_01440",
+  "kind": "line",
+  "jp": "みんな　よくがんばったわ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 41,
+  "notes": ""
+ },
+ {
+  "id": "e2607_01470",
+  "kind": "line",
+  "jp": "第３戦の会場は　光円寺町よ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 41,
+  "notes": ""
+ },
+ {
+  "id": "e2607_01494",
+  "kind": "line",
+  "jp": "まだまだ　転がるわよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 41,
+  "notes": ""
+ },
+ {
+  "id": "e2607_01508",
+  "kind": "line",
+  "jp": "ここは　マーブルスタジアムよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 42,
+  "notes": ""
+ },
+ {
+  "id": "e2607_015c0",
+  "kind": "line",
+  "jp": "あっ　キミキミ　ココには　",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 45,
+  "notes": ""
+ },
+ {
+  "id": "e2607_015e4",
+  "kind": "line",
+  "jp": "今は　入らないほうがいいよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 45,
+  "notes": ""
+ },
+ {
+  "id": "e2607_01608",
+  "kind": "line",
+  "jp": "ジムあらしが　きてるんだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 45,
+  "notes": ""
+ },
+ {
+  "id": "e2607_01638.0",
+  "kind": "choice",
+  "jp": "入る",
+  "en": "",
+  "status": "new",
+  "script": 45,
+  "notes": ""
+ },
+ {
+  "id": "e2607_01638.1",
+  "kind": "choice",
+  "jp": "入らない",
+  "en": "",
+  "status": "new",
+  "script": 45,
+  "notes": ""
+ },
+ {
+  "id": "e2607_01674",
+  "kind": "line",
+  "jp": "どうなっても　知らないぞ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 45,
+  "notes": ""
+ },
+ {
+  "id": "e2607_016b8",
+  "kind": "line",
+  "jp": "それは　かしこいせんたくだよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 45,
+  "notes": ""
+ }
+]

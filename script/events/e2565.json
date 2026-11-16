@@ -1,0 +1,312 @@
+[
+ {
+  "id": "e2565_000c8",
+  "kind": "line",
+  "jp": "さすがのあなたも",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2565_000e4",
+  "kind": "line",
+  "jp": "ふたり相手じゃ　つらそうね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2565_00140",
+  "kind": "line",
+  "jp": "そろそろ　とどめを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2565_0015c",
+  "kind": "line",
+  "jp": "さしてあげようかな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2565_00210",
+  "kind": "line",
+  "jp": "ちょっと待ったーっ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2565_00250",
+  "kind": "line",
+  "jp": "ひっこんでてください",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2565_00270",
+  "kind": "line",
+  "jp": "これは　ぼくの戦いです！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2565_002b0",
+  "kind": "line",
+  "jp": "そっちこそ　ひっこんどれ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2565_002d4",
+  "kind": "line",
+  "jp": "もともと　わいのケンカや！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2565_00304",
+  "kind": "line",
+  "jp": "ぼくが！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2565_0032c",
+  "kind": "line",
+  "jp": "わいが！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2565_00354",
+  "kind": "line",
+  "jp": "ちょっと　わたくしたちのことを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2565_0037c",
+  "kind": "line",
+  "jp": "お忘れじゃなくって？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2565_003c8",
+  "kind": "line",
+  "jp": "うるさい！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2565_003e8",
+  "kind": "line",
+  "jp": "やかましい！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2565_004d4",
+  "kind": "line",
+  "jp": "や　やくそくどおり",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2565_004f0",
+  "kind": "line",
+  "jp": "これは　返すよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2565_00528",
+  "kind": "line",
+  "jp": "まだ　あきらめたわけじゃ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2565_0054c",
+  "kind": "line",
+  "jp": "ありませんからね！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2565_00568",
+  "kind": "line",
+  "jp": "おぼえておきなさい　みなさん！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2565_00608",
+  "kind": "line",
+  "jp": "まったく　よけいなことを……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2565_0063c",
+  "kind": "line",
+  "jp": "なに　ゆうとんねん！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2565_0065c",
+  "kind": "line",
+  "jp": "おまえヘロヘロやったやんけ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2565_00690",
+  "kind": "line",
+  "jp": "ったく　あのふたり",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2565_006ac",
+  "kind": "line",
+  "jp": "なかがいいんだか　悪いんだか……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2565_006f8",
+  "kind": "line",
+  "jp": "そうそう　これは　さっきの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2565_0071c",
+  "kind": "line",
+  "jp": "ごほうびに　あげましょう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2565_0076c",
+  "kind": "line",
+  "jp": "なんや　わいには",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2565_00788",
+  "kind": "line",
+  "jp": "なんもなしかい！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2565_007c0",
+  "kind": "line",
+  "jp": "なに言ってるんですか！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2565_007e0",
+  "kind": "line",
+  "jp": "だいたいキミが……！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

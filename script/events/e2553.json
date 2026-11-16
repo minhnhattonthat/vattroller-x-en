@@ -1,0 +1,642 @@
+[
+ {
+  "id": "e2553_001a0",
+  "kind": "line",
+  "jp": "お兄ちゃん！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2553_001d4",
+  "kind": "line",
+  "jp": "フン　だれかと思えば　バトリーグの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2553_00200",
+  "kind": "line",
+  "jp": "トップランカーが　なんの用ですか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2553_0022c",
+  "kind": "line",
+  "jp": "わたしのあたらしいジムに入るのなら",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2553_00258",
+  "kind": "line",
+  "jp": "かんげいしますよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2553_00274",
+  "kind": "line",
+  "jp": "それとも　道場やぶりですか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2553_0029c",
+  "kind": "line",
+  "jp": "それでもこっちはかまいませんが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2553_002c4",
+  "kind": "line",
+  "jp": "トップランカーをたおしたとなれば",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2553_002f0",
+  "kind": "line",
+  "jp": "あらたなジムのいいせんでんになります",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2553_00334",
+  "kind": "line",
+  "jp": "∴！　そんなヤツら",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2553_00350",
+  "kind": "line",
+  "jp": "やっつけちゃえ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2553_00380",
+  "kind": "line",
+  "jp": "ま　まて……気をつけろ　ヤツら",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2553_003a8",
+  "kind": "line",
+  "jp": "いほうなアームを使っているようだ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2553_003f4",
+  "kind": "line",
+  "jp": "ルールいはんのアームを≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2553_00418",
+  "kind": "line",
+  "jp": "そんな　ズルじゃないの！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2553_00448",
+  "kind": "line",
+  "jp": "なんであろうと　勝てばいいんですよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2553_00474",
+  "kind": "line",
+  "jp": "さあ　かくご！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2553_004f8",
+  "kind": "line",
+  "jp": "たのもー∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2553_0050c",
+  "kind": "line",
+  "jp": "ここに入れば　強いバトローラーと",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2553_00538",
+  "kind": "line",
+  "jp": "いっぱいバトルできるって……ありゃ？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2553_00594",
+  "kind": "line",
+  "jp": "∴じゃん",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2553_005a8",
+  "kind": "line",
+  "jp": "何でここにいんの？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2553_005e8",
+  "kind": "line",
+  "jp": "ジンくん……な　なんかみょうに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2553_00610",
+  "kind": "line",
+  "jp": "ふんいき悪いみたいだけど……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2553_00644",
+  "kind": "line",
+  "jp": "実はへんなヤツらが　道場やぶりに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2553_00670",
+  "kind": "line",
+  "jp": "なぐりこんできましてね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2553_00690",
+  "kind": "line",
+  "jp": "１人はたいじしたもののしつこくて……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2553_006c0",
+  "kind": "line",
+  "jp": "ジンくん　相手をしてくれませんか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2553_00708",
+  "kind": "line",
+  "jp": "なに言ってんのよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2553_00724",
+  "kind": "line",
+  "jp": "悪いのはそっちじゃない！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2553_00754",
+  "kind": "line",
+  "jp": "フン　わたしは一流の会社の",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2553_00778",
+  "kind": "line",
+  "jp": "社長ですよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2553_0078c",
+  "kind": "line",
+  "jp": "あんな子どもと　どちらが本当のことを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2553_007bc",
+  "kind": "line",
+  "jp": "言ってるかは　すぐわかるでしょう？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2553_0081c",
+  "kind": "line",
+  "jp": "う～～～～ん……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2553_00874",
+  "kind": "line",
+  "jp": "なんだかよくわかんないけど",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2553_00898",
+  "kind": "line",
+  "jp": "オレはこっちにつくぞ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2553_008b8",
+  "kind": "line",
+  "jp": "∴とは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2553_008c8",
+  "kind": "line",
+  "jp": "バトローリングをやった！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2553_008ec",
+  "kind": "line",
+  "jp": "だからウソつくヤツじゃないってわかる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2553_00928",
+  "kind": "line",
+  "jp": "チッ！　このガキめ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2553_00948",
+  "kind": "line",
+  "jp": "なら　おまえもわたしの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2553_00968",
+  "kind": "line",
+  "jp": "アームのえじきに　なってもらおうか！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2553_00998",
+  "kind": "line",
+  "jp": "こいつをかんせいさせるには　まだまだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2553_009c8",
+  "kind": "line",
+  "jp": "えものがひつようなんでな……やれ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2553_00a2c",
+  "kind": "line",
+  "jp": "うわっ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2553_00aec",
+  "kind": "line",
+  "jp": "ジャマものはこれでよし……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2553_00b10",
+  "kind": "line",
+  "jp": "さあ　おまえらのばんだ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2553_00c08",
+  "kind": "line",
+  "jp": "くっ……さすがはバトリーグの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2553_00c30",
+  "kind": "line",
+  "jp": "トップランカーだけはある",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2553_00c54",
+  "kind": "line",
+  "jp": "おいっ！　ジンの方はどうなった！？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0600",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2553_00ccc",
+  "kind": "line",
+  "jp": "何だ　こいつら",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2553_00ce4",
+  "kind": "line",
+  "jp": "いがいとたいしたことないな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2553_00d64",
+  "kind": "line",
+  "jp": "ガキが……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2553_00d78",
+  "kind": "line",
+  "jp": "どいつもこいつも……！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2553_00d98",
+  "kind": "line",
+  "jp": "だが　こっちのバトローラーは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2553_00dc0",
+  "kind": "line",
+  "jp": "まだいる　いつまで戦えるかな？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2553_00eb4",
+  "kind": "line",
+  "jp": "へっ　そんなヤツら",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2553_00ed0",
+  "kind": "line",
+  "jp": "いくらでもやっつけてやるぜ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2553_00f04",
+  "kind": "line",
+  "jp": "∴！　お兄ちゃんが！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2553_00f40",
+  "kind": "line",
+  "jp": "うわ　あいつのケガ　ひでぇな……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2553_00f6c",
+  "kind": "line",
+  "jp": "ほっとくわけにはいかないぞ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2553_00f90",
+  "kind": "line",
+  "jp": "くそっ　今日のとこは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2553_00fb0",
+  "kind": "line",
+  "jp": "引き上げるしかないか∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

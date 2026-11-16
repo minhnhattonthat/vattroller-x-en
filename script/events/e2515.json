@@ -1,0 +1,892 @@
+[
+ {
+  "id": "e2515_00104",
+  "kind": "line",
+  "jp": "もうしわけないですが……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2515_00128",
+  "kind": "line",
+  "jp": "いっしょに来ていただきます……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2515_0015c",
+  "kind": "line",
+  "jp": "けいびをよびますよ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2515_00188",
+  "kind": "line",
+  "jp": "ムダですよ…",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2515_001a0",
+  "kind": "line",
+  "jp": "みなさんねむっていただいてますので",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2515_001cc",
+  "kind": "line",
+  "jp": "さあ　くるのです…",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2515_00250",
+  "kind": "line",
+  "jp": "ん？　なんだ？　てめぇ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2515_002c0",
+  "kind": "line",
+  "jp": "マールはかせ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2515_002d8",
+  "kind": "line",
+  "jp": "まさかおまえら……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2515_002f4",
+  "kind": "line",
+  "jp": "ハンニバルの手下か？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2515_00354",
+  "kind": "line",
+  "jp": "なんなんだ　おまえらは≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2515_00384",
+  "kind": "line",
+  "jp": "なんだか　わかりませんが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2515_003a8",
+  "kind": "line",
+  "jp": "きっと　あいつら　悪者ですよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2515_003dc",
+  "kind": "line",
+  "jp": "われわれに　さからうと……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2515_00400",
+  "kind": "line",
+  "jp": "いたい目にあいますよ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2515_00430",
+  "kind": "line",
+  "jp": "それは　おまえたちのほうだ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2515_00458",
+  "kind": "line",
+  "jp": "マールはかせを助けるぞ∇リョウ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2515_0048c",
+  "kind": "line",
+  "jp": "はい　シュウさん",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2515_004b4",
+  "kind": "line",
+  "jp": "オレたちもてつだうぜ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2515_00588",
+  "kind": "line",
+  "jp": "とんだ　じゃまがはいりましたね……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2515_005b4",
+  "kind": "line",
+  "jp": "ここはいったんひきあげますか……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2515_0067c",
+  "kind": "line",
+  "jp": "なんだったんだ　あいつら",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2515_006a0",
+  "kind": "line",
+  "jp": "なぁ　シュウ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2515_006b8",
+  "kind": "line",
+  "jp": "おまえ　なにか知ってるんじゃないか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2515_00734",
+  "kind": "line",
+  "jp": "どういう事なんですか∇シュウさん",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2515_0076c",
+  "kind": "line",
+  "jp": "……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2515_00788",
+  "kind": "line",
+  "jp": "ハンニバルは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2515_007a0",
+  "kind": "line",
+  "jp": "『ハンニバル社』の社長で",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2515_007c4",
+  "kind": "line",
+  "jp": "バトローリングを殺し合いの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2515_007e8",
+  "kind": "line",
+  "jp": "みせものに利用している",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2515_00808",
+  "kind": "line",
+  "jp": "『デスロールコロシアム』を",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2515_0082c",
+  "kind": "line",
+  "jp": "しゅさいしているの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2515_00854",
+  "kind": "line",
+  "jp": "ハンニバル社ですか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2515_00874",
+  "kind": "line",
+  "jp": "グローブ社の子会社で",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2515_00894",
+  "kind": "line",
+  "jp": "アームやツールを開発してる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2515_008c4",
+  "kind": "line",
+  "jp": "それは表の顔だ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2515_008e0",
+  "kind": "line",
+  "jp": "うらではひどいことをしている",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2515_00908",
+  "kind": "line",
+  "jp": "デスロールとは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2515_00920",
+  "kind": "line",
+  "jp": "相手をドロップせずに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2515_00940",
+  "kind": "line",
+  "jp": "かんぷなきまでに打ちのめして",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2515_00968",
+  "kind": "line",
+  "jp": "ＫＯさせるという",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2515_00984",
+  "kind": "line",
+  "jp": "ざんこくなルールなんだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2515_009b0",
+  "kind": "line",
+  "jp": "デスロールでは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2515_009c8",
+  "kind": "line",
+  "jp": "とうそうほんのうをひきだされ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2515_009f0",
+  "kind": "line",
+  "jp": "りせいを失い",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2515_00a08",
+  "kind": "line",
+  "jp": "どちらかが死ぬまで　バトルをするの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2515_00a34",
+  "kind": "line",
+  "jp": "カレらは『デスローラー』とよばれ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2515_00a60",
+  "kind": "line",
+  "jp": "血にうえた観客たちに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2515_00a80",
+  "kind": "line",
+  "jp": "殺しあいをみせているのよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2515_00ab0",
+  "kind": "line",
+  "jp": "でも　なぜハンニバルが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2515_00ad0",
+  "kind": "line",
+  "jp": "マールはかせを　おそうのですか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2515_00b08",
+  "kind": "line",
+  "jp": "マールはかせは　あいつらを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2515_00b2c",
+  "kind": "line",
+  "jp": "とめようとしてたんだ　",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2515_00b58",
+  "kind": "line",
+  "jp": "それでやつらは　はかせを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2515_00b7c",
+  "kind": "line",
+  "jp": "ゆうかいしようと　してたのか",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2515_00bb0",
+  "kind": "line",
+  "jp": "それだけではない",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2515_00bcc",
+  "kind": "line",
+  "jp": "オレとはかせは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2515_00be4",
+  "kind": "line",
+  "jp": "うでのあるバトローラーやマスターを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2515_00c10",
+  "kind": "line",
+  "jp": "たくみにかんゆう　ゆうかいして",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2515_00c38",
+  "kind": "line",
+  "jp": "デスローラーに仕立てていることを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2515_00c64",
+  "kind": "line",
+  "jp": "つきとめたのだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2515_00c98",
+  "kind": "line",
+  "jp": "じゃあ　おれたちのマスター",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2515_00cbc",
+  "kind": "line",
+  "jp": "レイオンが行方知れずなのは……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2515_00cf0",
+  "kind": "line",
+  "jp": "ああ　ハンニバル社のいんぼうに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2515_00d18",
+  "kind": "line",
+  "jp": "まきこまれたにちがいないと",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2515_00d3c",
+  "kind": "line",
+  "jp": "オレは思っている",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2515_00d64",
+  "kind": "line",
+  "jp": "くそ∇　あいつらゆるせねぇ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2515_00d94",
+  "kind": "line",
+  "jp": "ゆくえふめいだったボクのマスターが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2515_00dc0",
+  "kind": "line",
+  "jp": "大けがを負わされて帰ってきたです",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2515_00dec",
+  "kind": "line",
+  "jp": "それも　やつらのせいだったのですね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2515_00e18",
+  "kind": "line",
+  "jp": "ゆるせないです∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2515_00e40",
+  "kind": "line",
+  "jp": "こうなったら　ぐずぐずしてられない",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2515_00e6c",
+  "kind": "line",
+  "jp": "今から　ハンニバルの所に",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2515_00e90",
+  "kind": "line",
+  "jp": "のりこもうと思うのだが……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2515_00ec0",
+  "kind": "line",
+  "jp": "やりましょう　シュウさん",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2515_00ef0",
+  "kind": "line",
+  "jp": "ボクも行くです",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2515_00f14",
+  "kind": "line",
+  "jp": "ハンニバル……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2515_00f2c",
+  "kind": "line",
+  "jp": "オレも　行くぜ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2515_00f54",
+  "kind": "line",
+  "jp": "これはオレたちの手でけりをつける",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2515_00f80",
+  "kind": "line",
+  "jp": "かんけいないてめーはすっこんでろ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2515_00fb8",
+  "kind": "line",
+  "jp": "バトローリングはこんなに楽しいのに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2515_00fe4",
+  "kind": "line",
+  "jp": "それを殺しあいにするヤツなんて∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2515_01010",
+  "kind": "line",
+  "jp": "オレ　そいつをゆるせない∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2515_01040",
+  "kind": "line",
+  "jp": "……わかったわ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2515_01058",
+  "kind": "line",
+  "jp": "あなたたち４人にまかせます",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2515_0107c",
+  "kind": "line",
+  "jp": "ハンニバルとデスローラーは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2515_010a0",
+  "kind": "line",
+  "jp": "デスロールコロシアムにいるわ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2515_010d4",
+  "kind": "line",
+  "jp": "よーし∇　行くぞ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2515_010f0",
+  "kind": "line",
+  "jp": "デスロールコロシアムへ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

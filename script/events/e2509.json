@@ -1,0 +1,150 @@
+[
+ {
+  "id": "e2509_00080.0",
+  "kind": "title",
+  "jp": "バトローラートータ",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2509_00080.1",
+  "kind": "title",
+  "jp": "番外編",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2509_00144",
+  "kind": "line",
+  "jp": "またまたオイラの勝ちですね～",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2509_0016c",
+  "kind": "line",
+  "jp": "アオイはもう少し　頭使って",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2509_00190",
+  "kind": "line",
+  "jp": "バトルしないと　勝てないですよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2509_001d4",
+  "kind": "line",
+  "jp": "ふん　なんだい　えらそうに∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2509_00210",
+  "kind": "line",
+  "jp": "そんな強いレアアームをたくさん",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2509_00238",
+  "kind": "line",
+  "jp": "もってれば　勝ってあたりまえだよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2509_0028c",
+  "kind": "line",
+  "jp": "やぁ　トータくん",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2509_002a8",
+  "kind": "line",
+  "jp": "いつも弟と遊んでくれてありがとう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2509_002e8",
+  "kind": "line",
+  "jp": "あっ　カナタさん",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2509_00304",
+  "kind": "line",
+  "jp": "こんにちはです",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2509_00328",
+  "kind": "line",
+  "jp": "こないだあずかったアーム",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2509_0034c",
+  "kind": "line",
+  "jp": "修理できたから　店においでよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2509_00380",
+  "kind": "line",
+  "jp": "はい∇　今すぐ行くです∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

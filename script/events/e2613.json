@@ -1,0 +1,980 @@
+[
+ {
+  "id": "e2613_00194",
+  "kind": "line",
+  "jp": "今シーズンの　バトリーグは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2613_001b8",
+  "kind": "line",
+  "jp": "しゅうりょうしました",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2613_0020c",
+  "kind": "line",
+  "jp": "バトリーグ　うけつけです",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2613_00230",
+  "kind": "line",
+  "jp": "じゅんびはいいですか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2613_00274",
+  "kind": "line",
+  "jp": "がんばってください♪",
+  "en": "",
+  "status": "new",
+  "flags": "0x0600",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2613_002f8",
+  "kind": "line",
+  "jp": "優勝おめでとうございます",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2613_0031c",
+  "kind": "line",
+  "jp": "バトリーグ１位の∴さんには",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2613_00340",
+  "kind": "line",
+  "jp": "『マルスパス』がおくられます！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2613_00374",
+  "kind": "line",
+  "jp": "『マルスパス』をてにいれた",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2613_003b4",
+  "kind": "line",
+  "jp": "マルスが『界天島』の界天コロシアムで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2613_003e4",
+  "kind": "line",
+  "jp": "∴さんを　待っています",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2613_00404",
+  "kind": "line",
+  "jp": "がんばってくださいね♪",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2613_00494",
+  "kind": "line",
+  "jp": "今シーズンのバトリーグは　これで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2613_004c0",
+  "kind": "line",
+  "jp": "しゅうりょうです　次回のチャレンジを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2613_004f0",
+  "kind": "line",
+  "jp": "おまちしています",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2613_00518",
+  "kind": "line",
+  "jp": "また　おこしください！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2613_0056c",
+  "kind": "line",
+  "jp": "バトリーグさんかうけつけです",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2613_00594",
+  "kind": "line",
+  "jp": "プロの方しか　さんかできません",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2613_005bc",
+  "kind": "line",
+  "jp": "エントリーしますか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2613_00600",
+  "kind": "line",
+  "jp": "リーグパスを　かくにんします",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2613_00628",
+  "kind": "line",
+  "jp": "しょうしょうおまちください",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2613_0064c",
+  "kind": "line",
+  "jp": "……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2613_0065c",
+  "kind": "line",
+  "jp": "かくにんしました！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2613_00678",
+  "kind": "line",
+  "jp": "エントリーもかんりょうしてます",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2613_006a0",
+  "kind": "line",
+  "jp": "向かいのカウンターで　対戦相手と",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2613_006cc",
+  "kind": "line",
+  "jp": "ランキングを　かくにんしてください",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2613_006f8",
+  "kind": "line",
+  "jp": "じゅんびが出来ましたら　こちらの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2613_00724",
+  "kind": "line",
+  "jp": "カウンターまで　おこしください！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2613_00770",
+  "kind": "line",
+  "jp": "また　おこしください！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2613_007c4",
+  "kind": "line",
+  "jp": "ここは　バトリーグのうけつけです",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2613_007f0",
+  "kind": "line",
+  "jp": "プロのかたしかさんかできません",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2613_00858",
+  "kind": "line",
+  "jp": "バトリーグの順位表です！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2613_0088c",
+  "kind": "line",
+  "jp": "がんばってください♪",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2613_008e0",
+  "kind": "line",
+  "jp": "バトリーグさんか手つづきを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2613_00904",
+  "kind": "line",
+  "jp": "してください",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2613_0095c",
+  "kind": "line",
+  "jp": "あなたもバトリーグに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2613_0097c",
+  "kind": "line",
+  "jp": "さんかしてるせんしゅなの？　",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2613_009a4",
+  "kind": "line",
+  "jp": "じゃあ　わたしも",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2613_009c0",
+  "kind": "line",
+  "jp": "応援させてもらうわ　がんばってね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2613_00a20",
+  "kind": "line",
+  "jp": "さっきのはとてもいい試合だったわ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2613_00a4c",
+  "kind": "line",
+  "jp": "まだ　ハイライトシーンが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2613_00a70",
+  "kind": "line",
+  "jp": "まぶたのうらにやきついているもの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2613_00ad0",
+  "kind": "line",
+  "jp": "もうすぐ試合がはじまるっていう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2613_00af8",
+  "kind": "line",
+  "jp": "このドキドキ感が　たまらないわね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2613_00c24",
+  "kind": "line",
+  "jp": "ねえ　キミはバトリーグでは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2613_00c48",
+  "kind": "line",
+  "jp": "どこのチームを　応援しているの？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2613_00c74",
+  "kind": "line",
+  "jp": "えっ？　クラブフォース？　ああ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2613_00c9c",
+  "kind": "line",
+  "jp": "さいきんよく名前をきくチームだね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2613_00cfc",
+  "kind": "line",
+  "jp": "キミもバトリーグのファン？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 17,
+  "notes": ""
+ },
+ {
+  "id": "e2613_00d20",
+  "kind": "line",
+  "jp": "ボクもなんだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 17,
+  "notes": ""
+ },
+ {
+  "id": "e2613_00d38",
+  "kind": "line",
+  "jp": "ねえ　どこのチームを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 17,
+  "notes": ""
+ },
+ {
+  "id": "e2613_00d58",
+  "kind": "line",
+  "jp": "応援しているの？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 17,
+  "notes": ""
+ },
+ {
+  "id": "e2613_00da8",
+  "kind": "line",
+  "jp": "キミもバトリーグのファン？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 18,
+  "notes": ""
+ },
+ {
+  "id": "e2613_00dcc",
+  "kind": "line",
+  "jp": "ボクもなんだよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 18,
+  "notes": ""
+ },
+ {
+  "id": "e2613_00ee8",
+  "kind": "line",
+  "jp": "マルスがあいてだからって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 21,
+  "notes": ""
+ },
+ {
+  "id": "e2613_00f0c",
+  "kind": "line",
+  "jp": "きんちょうすることないからね！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 21,
+  "notes": ""
+ },
+ {
+  "id": "e2613_00f34",
+  "kind": "line",
+  "jp": "ババーンとおもいっきり",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 21,
+  "notes": ""
+ },
+ {
+  "id": "e2613_00f54",
+  "kind": "line",
+  "jp": "楽しんでおいでよ！　がんばってね！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 21,
+  "notes": ""
+ },
+ {
+  "id": "e2613_00fc0",
+  "kind": "line",
+  "jp": "ええか　ようきけや！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 22,
+  "notes": ""
+ },
+ {
+  "id": "e2613_00fe0",
+  "kind": "line",
+  "jp": "バトローリングは　たましいの勝負や！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 22,
+  "notes": ""
+ },
+ {
+  "id": "e2613_01010",
+  "kind": "line",
+  "jp": "おまえのたましいは　けっして",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 22,
+  "notes": ""
+ },
+ {
+  "id": "e2613_01038",
+  "kind": "line",
+  "jp": "マルスにおとるもんやない！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 22,
+  "notes": ""
+ },
+ {
+  "id": "e2613_0105c",
+  "kind": "line",
+  "jp": "それは　いっしょに戦ってきた",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 22,
+  "notes": ""
+ },
+ {
+  "id": "e2613_01084",
+  "kind": "line",
+  "jp": "わいがイチバンよーわかっとる！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 22,
+  "notes": ""
+ },
+ {
+  "id": "e2613_010ac",
+  "kind": "line",
+  "jp": "せやから……　かならず勝って",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 22,
+  "notes": ""
+ },
+ {
+  "id": "e2613_010d4",
+  "kind": "line",
+  "jp": "かえってくるんやで　∴！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 22,
+  "notes": ""
+ },
+ {
+  "id": "e2613_01138",
+  "kind": "line",
+  "jp": "マルスとのバトルは　界天島の",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 23,
+  "notes": ""
+ },
+ {
+  "id": "e2613_01160",
+  "kind": "line",
+  "jp": "界天コロシアムでおこなわれます",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 23,
+  "notes": ""
+ },
+ {
+  "id": "e2613_01188",
+  "kind": "line",
+  "jp": "バトローラーなら　だれもがあこがれる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 23,
+  "notes": ""
+ },
+ {
+  "id": "e2613_011b8",
+  "kind": "line",
+  "jp": "あの場所にいけるなんて……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 23,
+  "notes": ""
+ },
+ {
+  "id": "e2613_011dc",
+  "kind": "line",
+  "jp": "しょうじきな話　すこしキミが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 23,
+  "notes": ""
+ },
+ {
+  "id": "e2613_01204",
+  "kind": "line",
+  "jp": "うらやましいですね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 23,
+  "notes": ""
+ },
+ {
+  "id": "e2613_01220",
+  "kind": "line",
+  "jp": "キミの勝利をしんじていますよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 23,
+  "notes": ""
+ },
+ {
+  "id": "e2613_01248",
+  "kind": "line",
+  "jp": "∴　がんばってきてください",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 23,
+  "notes": ""
+ },
+ {
+  "id": "e2613_012ac",
+  "kind": "line",
+  "jp": "ここはグローブスタジアムです",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 24,
+  "notes": ""
+ },
+ {
+  "id": "e2613_012d4",
+  "kind": "line",
+  "jp": "バトリーグの事を知りたいですか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 24,
+  "notes": ""
+ },
+ {
+  "id": "e2613_0130c.0",
+  "kind": "choice",
+  "jp": "知りたいです",
+  "en": "",
+  "status": "new",
+  "script": 24,
+  "notes": ""
+ },
+ {
+  "id": "e2613_0130c.1",
+  "kind": "choice",
+  "jp": "いえ　べつに",
+  "en": "",
+  "status": "new",
+  "script": 24,
+  "notes": ""
+ },
+ {
+  "id": "e2613_01354",
+  "kind": "line",
+  "jp": "バトリーグとはバトローリングの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 24,
+  "notes": ""
+ },
+ {
+  "id": "e2613_0137c",
+  "kind": "line",
+  "jp": "プロリーグの事です",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 24,
+  "notes": ""
+ },
+ {
+  "id": "e2613_01398",
+  "kind": "line",
+  "jp": "１０戦たたかいポイントがいちばん",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 24,
+  "notes": ""
+ },
+ {
+  "id": "e2613_013c4",
+  "kind": "line",
+  "jp": "たかいせんしゅが１位となります",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 24,
+  "notes": ""
+ },
+ {
+  "id": "e2613_013ec",
+  "kind": "line",
+  "jp": "ポイントは　１回の試合で",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 24,
+  "notes": ""
+ },
+ {
+  "id": "e2613_01410",
+  "kind": "line",
+  "jp": "１位になると３ポイント",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 24,
+  "notes": ""
+ },
+ {
+  "id": "e2613_01430",
+  "kind": "line",
+  "jp": "２位だと２ポイント",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 24,
+  "notes": ""
+ },
+ {
+  "id": "e2613_0144c",
+  "kind": "line",
+  "jp": "３位だと１ポイント",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 24,
+  "notes": ""
+ },
+ {
+  "id": "e2613_01468",
+  "kind": "line",
+  "jp": "４位だと０ポイントに　なるんです",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 24,
+  "notes": ""
+ },
+ {
+  "id": "e2613_01494",
+  "kind": "line",
+  "jp": "１位のせんしゅはなんと！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 24,
+  "notes": ""
+ },
+ {
+  "id": "e2613_014b8",
+  "kind": "line",
+  "jp": "あの「マルス」にちょうせんできる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 24,
+  "notes": ""
+ },
+ {
+  "id": "e2613_014e4",
+  "kind": "line",
+  "jp": "けんりをかくとくできるのです∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 24,
+  "notes": ""
+ },
+ {
+  "id": "e2613_0150c",
+  "kind": "line",
+  "jp": "わかったかな？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 24,
+  "notes": ""
+ },
+ {
+  "id": "e2613_01530",
+  "kind": "line",
+  "jp": "またのおこしを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 24,
+  "notes": ""
+ },
+ {
+  "id": "e2613_01588",
+  "kind": "line",
+  "jp": "Ｖコーヒーのじはんきだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 25,
+  "notes": ""
+ },
+ {
+  "id": "e2613_015e8",
+  "kind": "line",
+  "jp": "Ｖコーヒーのじはんきだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 26,
+  "notes": ""
+ },
+ {
+  "id": "e2613_01648",
+  "kind": "line",
+  "jp": "きみもマルスにちょうせんだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 27,
+  "notes": ""
+ },
+ {
+  "id": "e2613_0166c",
+  "kind": "line",
+  "jp": "バトリーグかいさい中",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 27,
+  "notes": ""
+ },
+ {
+  "id": "e2613_016cc",
+  "kind": "line",
+  "jp": "バトリーグの　パンフレットが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 28,
+  "notes": ""
+ },
+ {
+  "id": "e2613_016f4",
+  "kind": "line",
+  "jp": "ならんでいる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 28,
+  "notes": ""
+ }
+]

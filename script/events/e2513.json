@@ -1,0 +1,230 @@
+[
+ {
+  "id": "e2513_00080",
+  "kind": "line",
+  "jp": "ぬすまれていたレアアーム",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2513_000a4",
+  "kind": "line",
+  "jp": "とりかえしてきたです∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2513_000d0",
+  "kind": "line",
+  "jp": "ありがとう　トータくん……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2513_000f4",
+  "kind": "line",
+  "jp": "ほんとうに助かったよ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2513_00120",
+  "kind": "line",
+  "jp": "えへへっ　そんなにたいへんでも",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2513_00148",
+  "kind": "line",
+  "jp": "なかったですよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2513_00160",
+  "kind": "line",
+  "jp": "でもちょっとつかれたから",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2513_00184",
+  "kind": "line",
+  "jp": "オイラ　今日は帰りますね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2513_00214",
+  "kind": "line",
+  "jp": "アオイ∇　見てくれよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2513_00234",
+  "kind": "line",
+  "jp": "アームがぜんぶ帰ってきた∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2513_00258",
+  "kind": "line",
+  "jp": "トータくんがとりかえしてきて",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2513_00280",
+  "kind": "line",
+  "jp": "くれたんだ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2513_002a4",
+  "kind": "line",
+  "jp": "うん……トータさんって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2513_002c4",
+  "kind": "line",
+  "jp": "ほんとにすごいよね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2513_002ec",
+  "kind": "line",
+  "jp": "おや？　アオイもトータくんの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2513_00314",
+  "kind": "line",
+  "jp": "すごさがわかるようになったかな？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2513_0034c",
+  "kind": "line",
+  "jp": "うん∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2513_0035c",
+  "kind": "line",
+  "jp": "それでね　兄ちゃん……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2513_0037c",
+  "kind": "line",
+  "jp": "直してほしいアームが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2513_0039c",
+  "kind": "line",
+  "jp": "あるんだけどさ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2513_003bc.0",
+  "kind": "title",
+  "jp": "バトローラートータ",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2513_003bc.1",
+  "kind": "title",
+  "jp": "番外編　終",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2513_0040c",
+  "kind": "line",
+  "jp": "記録が　しゅうりょうしました",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

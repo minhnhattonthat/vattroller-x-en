@@ -1,0 +1,282 @@
+[
+ {
+  "id": "e2626_00188",
+  "kind": "line",
+  "jp": "プレミアムジムがなくなったので",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2626_001b0",
+  "kind": "line",
+  "jp": "こっちへもどってきたんだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2626_001d4",
+  "kind": "line",
+  "jp": "やっぱり　このジムのほうが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2626_001f8",
+  "kind": "line",
+  "jp": "アットホームでボクはスキだなぁ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2626_00288",
+  "kind": "line",
+  "jp": "しんきいってん！　マルスを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2626_002ac",
+  "kind": "line",
+  "jp": "もくひょうにして　ここでがんばります",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2626_00344",
+  "kind": "line",
+  "jp": "やっぱり強さだけをおいもとめた",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2626_0036c",
+  "kind": "line",
+  "jp": "プレミアムジムって　ヘンだったのね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2626_00398",
+  "kind": "line",
+  "jp": "わたしも　いろいろとはんせいして",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2626_003c4",
+  "kind": "line",
+  "jp": "いるのよ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2626_00444",
+  "kind": "line",
+  "jp": "プレミアムジムがつぶれて",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2626_00468",
+  "kind": "line",
+  "jp": "みんなが　もどってきてくれたんだ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2626_00494",
+  "kind": "line",
+  "jp": "よーし！　マルスになれるような",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2626_004bc",
+  "kind": "line",
+  "jp": "りっぱなせんしゅをそだててやるぞ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2626_0051c",
+  "kind": "line",
+  "jp": "プレミアムジムは　ゆうしゅうなものを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2626_0054c",
+  "kind": "line",
+  "jp": "あちこちのジムからひきぬいているんだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2626_005b0",
+  "kind": "line",
+  "jp": "プレミアムジムができてから",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2626_005d4",
+  "kind": "line",
+  "jp": "うちは　ヒマでヒマでしょうがないよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2626_00600",
+  "kind": "line",
+  "jp": "ゆうしゅうなせんしゅは　みんな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2626_00628",
+  "kind": "line",
+  "jp": "あっちに　ひきぬかれてしまったからね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2626_00698",
+  "kind": "line",
+  "jp": "バトローリングの本がならんでいる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2626_006f8",
+  "kind": "line",
+  "jp": "本になにかが　はさまれている",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2626_00720",
+  "kind": "line",
+  "jp": "Ｖメダルを見つけた！！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0600",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2626_007ac",
+  "kind": "line",
+  "jp": "バトローリングの本がならんでいる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2626_00818",
+  "kind": "line",
+  "jp": "バトローリングの本がならんでいる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 17,
+  "notes": ""
+ },
+ {
+  "id": "e2626_00884",
+  "kind": "line",
+  "jp": "バトローリングの本がならんでいる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 18,
+  "notes": ""
+ },
+ {
+  "id": "e2626_008f0",
+  "kind": "line",
+  "jp": "はいれないようだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 19,
+  "notes": ""
+ },
+ {
+  "id": "e2626_0094c",
+  "kind": "line",
+  "jp": "はいれないようだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 20,
+  "notes": ""
+ }
+]

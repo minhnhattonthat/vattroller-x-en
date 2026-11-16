@@ -1,0 +1,1346 @@
+[
+ {
+  "id": "e2529_00148",
+  "kind": "line",
+  "jp": "…………",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_00188",
+  "kind": "line",
+  "jp": "ふ　ふん！　べつにうらやましく",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_001b0",
+  "kind": "line",
+  "jp": "なんかないわよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_001d8",
+  "kind": "line",
+  "jp": "ちょっと　せつびがよくて",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_001fc",
+  "kind": "line",
+  "jp": "人が多いだけじゃない！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_00238",
+  "kind": "line",
+  "jp": "ちょっとなんて　ひかえめな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_0025c",
+  "kind": "line",
+  "jp": "レベルやないと　思うんやけどな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_00290",
+  "kind": "line",
+  "jp": "あらためて見ると　このジムは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_002b8",
+  "kind": "line",
+  "jp": "本当にお金がかかってますね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_002f8",
+  "kind": "line",
+  "jp": "ヘクサ社でしたっけ？　やはり会社が",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_00324",
+  "kind": "line",
+  "jp": "けいえいしてると　ちがいますね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_00370",
+  "kind": "line",
+  "jp": "あんたたち　なに感心してんの！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_00398",
+  "kind": "line",
+  "jp": "敵なんだから　悪口言いなさいよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_00464",
+  "kind": "line",
+  "jp": "悪口などムリというものだよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_00488",
+  "kind": "line",
+  "jp": "なにしろ　このジムはすばらしすぎる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_004b4",
+  "kind": "line",
+  "jp": "この　わたしのようにね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_004e0",
+  "kind": "line",
+  "jp": "そちらのかたなんて　目を丸くして",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_0050c",
+  "kind": "line",
+  "jp": "おられるわね　ホホホ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_00548",
+  "kind": "line",
+  "jp": "∴！　マヌケな顔して",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_00568",
+  "kind": "line",
+  "jp": "見回してるんじゃないわよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_005c4",
+  "kind": "line",
+  "jp": "なんだ　みょうな声がすると思ったら",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_005f0",
+  "kind": "line",
+  "jp": "おまえか　コマチ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_0060c",
+  "kind": "line",
+  "jp": "みんなそろって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_00624",
+  "kind": "line",
+  "jp": "ジムに入れてもらいにでも来たか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_0066c",
+  "kind": "line",
+  "jp": "じょうだんじゃない！　あたしたちは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_00698",
+  "kind": "line",
+  "jp": "あんたらと　けっちゃくつけに来たの！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_006d4",
+  "kind": "line",
+  "jp": "いつもいつも　ジムがいい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_006f8",
+  "kind": "line",
+  "jp": "部活はダメって　しつっこいのよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_00738",
+  "kind": "line",
+  "jp": "ジムじゃなくっても　ちゃーんと",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_00760",
+  "kind": "line",
+  "jp": "バトローリングできるって　見せたげる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_007a4",
+  "kind": "line",
+  "jp": "さあ　あんたたち　勝負よ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_007d4",
+  "kind": "line",
+  "jp": "まぁ　コマチのことだから",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_007f8",
+  "kind": "line",
+  "jp": "そんなとこだろうと思ったが……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_0083c",
+  "kind": "line",
+  "jp": "しかし　勝負と言われてもなぁ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_00874",
+  "kind": "line",
+  "jp": "そうですわ　レベルがちがいすぎて",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_008a0",
+  "kind": "line",
+  "jp": "とてもたたかいになりません",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_008d0",
+  "kind": "line",
+  "jp": "だがわたしたちの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_008ec",
+  "kind": "line",
+  "jp": "かれいなバトローリングを見るのも",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_00918",
+  "kind": "line",
+  "jp": "べんきょうになるはず",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_00970",
+  "kind": "line",
+  "jp": "ここは相手になってあげるのが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_00998",
+  "kind": "line",
+  "jp": "親切というものでしょう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_009c4",
+  "kind": "line",
+  "jp": "そうね　すこしはなさけを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_009e8",
+  "kind": "line",
+  "jp": "かけてあげないと　かわいそうですわね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_00a50",
+  "kind": "line",
+  "jp": "では　わたくしたちが相手になって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_00a7c",
+  "kind": "line",
+  "jp": "さしあげますわ　かんしゃなさい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_00ab8",
+  "kind": "line",
+  "jp": "……ほんっと　ここのれんちゅうは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_00ae4",
+  "kind": "line",
+  "jp": "いちいちはらたつわね～",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_00b18",
+  "kind": "line",
+  "jp": "まぁいいわ　とにかく",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_00b38",
+  "kind": "line",
+  "jp": "タッグでバトルってことね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_00b78",
+  "kind": "line",
+  "jp": "∴！　あんたもでなさい！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_00bc0.0",
+  "kind": "choice",
+  "jp": "うん",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_00bc0.1",
+  "kind": "choice",
+  "jp": "えんりょします",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_00c00",
+  "kind": "line",
+  "jp": "うん　いい返事！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_00c1c",
+  "kind": "line",
+  "jp": "じゃあ　いっしょにバトル行くわよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_00c54",
+  "kind": "line",
+  "jp": "え≡　自分じゃなくタクミか",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_00c78",
+  "kind": "line",
+  "jp": "イカヅチを　だって？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_00c98",
+  "kind": "line",
+  "jp": "なに弱気なこと　言ってんのよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_00cc0",
+  "kind": "line",
+  "jp": "バトローリングは気合よ！　気力よ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_00d00",
+  "kind": "line",
+  "jp": "それから　えーと……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_00d20",
+  "kind": "line",
+  "jp": "……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_00d30",
+  "kind": "line",
+  "jp": "勇気とかそのへんよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_00d5c",
+  "kind": "line",
+  "jp": "とにかく　そんな弱気はゆるせないわ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_00d88",
+  "kind": "line",
+  "jp": "今回はぜったい戦ってもらうから！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_00dc0",
+  "kind": "line",
+  "jp": "このジムできたえたわたしたちが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_00de8",
+  "kind": "line",
+  "jp": "負けるりゆうはどこにもありません",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_00e14",
+  "kind": "line",
+  "jp": "そしてあなたも知るのです　このジムに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_00e44",
+  "kind": "line",
+  "jp": "入ることが　すなわち勝利だと！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_00ed0",
+  "kind": "line",
+  "jp": "な……そんなバカな　このわたしが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_00efc",
+  "kind": "line",
+  "jp": "バトローリング部などに負けるなんて！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_00f2c",
+  "kind": "line",
+  "jp": "ありえない！　こんなこと……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_00f54",
+  "kind": "line",
+  "jp": "はっ　まさかキミはサソリ座か≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_00f88.0",
+  "kind": "choice",
+  "jp": "そうです",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_00f88.1",
+  "kind": "choice",
+  "jp": "ちがいます",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_00fc8",
+  "kind": "line",
+  "jp": "やはりそうか……今日はサソリ座とは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_00ff4",
+  "kind": "line",
+  "jp": "あいしょうが悪い　だから負けたんだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_0102c",
+  "kind": "line",
+  "jp": "やはりそうか……今日はわたしの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_01054",
+  "kind": "line",
+  "jp": "サソリ座はうんせいがさいあく",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_0107c",
+  "kind": "line",
+  "jp": "だから負けたんだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_010b4",
+  "kind": "line",
+  "jp": "すまないミナミ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_010cc",
+  "kind": "line",
+  "jp": "わたしがふうんなせいで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_010ec",
+  "kind": "line",
+  "jp": "おまえにまで　めいわくを……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_01130",
+  "kind": "line",
+  "jp": "いいえ兄さん　わたくしがフォロー",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_0115c",
+  "kind": "line",
+  "jp": "できなかったせいです",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_011a0",
+  "kind": "line",
+  "jp": "でも　兄さんのうんが悪い時をねらって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_011d0",
+  "kind": "line",
+  "jp": "戦うとは……ひきょうな人ですわ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_01210",
+  "kind": "line",
+  "jp": "……おまえらがラッキーな時を",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_01238",
+  "kind": "line",
+  "jp": "いちど見てみたいわ　ほんま",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_01270",
+  "kind": "line",
+  "jp": "どう　お兄ちゃん！　部活でもりっぱに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_012a0",
+  "kind": "line",
+  "jp": "バトローリングできるんだから！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_012d4",
+  "kind": "line",
+  "jp": "まぁ　あいつらが相手だからな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_012fc",
+  "kind": "line",
+  "jp": "勝ててもふしぎじゃない",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_01358",
+  "kind": "line",
+  "jp": "しかし　たしかに∴は",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_01378",
+  "kind": "line",
+  "jp": "いいバトルだった……それだけにおしい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_013b4",
+  "kind": "line",
+  "jp": "あれほどの力があるのなら",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_013d8",
+  "kind": "line",
+  "jp": "ここできたえれば　もっと強くなるはず",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_0141c",
+  "kind": "line",
+  "jp": "お兄ちゃん　ほんとしつこいわね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_01444",
+  "kind": "line",
+  "jp": "こんなジムに入るひつようなんか……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_014b8",
+  "kind": "line",
+  "jp": "いいや！　ライバの言うとおりである！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_0152c",
+  "kind": "line",
+  "jp": "マスターウェスト！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_01554",
+  "kind": "line",
+  "jp": "い　今のバトルは　うんが悪く",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_0157c",
+  "kind": "line",
+  "jp": "サソリ座が……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_015b0",
+  "kind": "line",
+  "jp": "いいわけは聞かぁん！　勝負には",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_015d8",
+  "kind": "line",
+  "jp": "つねに勝てと　教えたはずであるぞ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_01604",
+  "kind": "line",
+  "jp": "このプレミアムジムの名を広めるため",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_01630",
+  "kind": "line",
+  "jp": "どんなことをしてでも勝てと！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_01674",
+  "kind": "line",
+  "jp": "それをおまえらは……たるんどる！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_016a0",
+  "kind": "line",
+  "jp": "うでたてふせ　５００回である！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_016e4",
+  "kind": "line",
+  "jp": "ひいっ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_0177c",
+  "kind": "line",
+  "jp": "さて……ライバの言ったとおり",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_017a4",
+  "kind": "line",
+  "jp": "おまえはきたえれば　もっと強くなるな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_017d4",
+  "kind": "line",
+  "jp": "このジムに入れ！　わたしにしたがえば",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_01804",
+  "kind": "line",
+  "jp": "だれにも負けないようにしてやる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_01840.0",
+  "kind": "choice",
+  "jp": "その気はない",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_01840.1",
+  "kind": "choice",
+  "jp": "ここでは楽しくできない",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_01898",
+  "kind": "line",
+  "jp": "なんだと？　おまえは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_018b8",
+  "kind": "line",
+  "jp": "強くなりたくないのであるか≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_018ec",
+  "kind": "line",
+  "jp": "楽しくだと？　なにをフヌケたことを！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_0191c",
+  "kind": "line",
+  "jp": "そんなあまえた考えで　強くなれると",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_01948",
+  "kind": "line",
+  "jp": "思っているであるか≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_01984",
+  "kind": "line",
+  "jp": "楽しくバトローリングするのが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_019ac",
+  "kind": "line",
+  "jp": "うちの部のやりかたなのよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_019d0",
+  "kind": "line",
+  "jp": "それでもちゃんと強くなれるって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_019f8",
+  "kind": "line",
+  "jp": "今さっきの勝負でわかったでしょ？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_01a24",
+  "kind": "line",
+  "jp": "わかったら　もううちの部のこと",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_01a4c",
+  "kind": "line",
+  "jp": "バカにするんじゃないわよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_01b2c",
+  "kind": "line",
+  "jp": "あんな部で　強くなるだと？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_01b50",
+  "kind": "line",
+  "jp": "フン　バカな……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_01c64",
+  "kind": "line",
+  "jp": "それでは　ぼくは部室にもどります",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_01cbc",
+  "kind": "line",
+  "jp": "ところで　キミのさっきのバトルは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_01ce8",
+  "kind": "line",
+  "jp": "ほんとうにいい戦いでしたね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_01d0c",
+  "kind": "line",
+  "jp": "コマチさんのこだわる　楽しい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_01d34",
+  "kind": "line",
+  "jp": "バトローリングという意味……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_01d5c",
+  "kind": "line",
+  "jp": "それが　少しわかった気がします",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_01d84",
+  "kind": "line",
+  "jp": "ぼくが　クラブフォースに入ったのは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2529_01db0",
+  "kind": "line",
+  "jp": "どうやら　せいかいだったようですね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

@@ -1,0 +1,1280 @@
+[
+ {
+  "id": "e2544_00108",
+  "kind": "line",
+  "jp": "２人とも　せいせいどうどうと",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_00130",
+  "kind": "line",
+  "jp": "戦うがよい……ムニャ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_0015c",
+  "kind": "line",
+  "jp": "コマチたちは　アーマレットをこわして",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_0018c",
+  "kind": "line",
+  "jp": "さんかできなかったそうだな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_001b0",
+  "kind": "line",
+  "jp": "気のどくだとは思うが……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_001f4",
+  "kind": "line",
+  "jp": "気のどくなことはない！　試合の",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_0021c",
+  "kind": "line",
+  "jp": "外でも　負けるのが悪いのである！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_00248",
+  "kind": "line",
+  "jp": "負けた者には　何もない！　勝って",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_00274",
+  "kind": "line",
+  "jp": "ともにえいこうをつかむのである！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_002bc",
+  "kind": "line",
+  "jp": "そうだ　オレは強くなった",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_002e0",
+  "kind": "line",
+  "jp": "あたらしいアームも手に入れた",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_0031c",
+  "kind": "line",
+  "jp": "オレはおまえに勝てるはずだ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_00344",
+  "kind": "line",
+  "jp": "いや　ぜったいに勝ってやる！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_00414",
+  "kind": "line",
+  "jp": "バカな！　ライバがあんな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_00438",
+  "kind": "line",
+  "jp": "部活のれんちゅうに負けた≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_0045c",
+  "kind": "line",
+  "jp": "勝つために　考えられる手は",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_00480",
+  "kind": "line",
+  "jp": "すべてうったはず！　なぜであるか≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_004b8",
+  "kind": "line",
+  "jp": "くそっ！　まだ足りないというのか！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_004e4",
+  "kind": "line",
+  "jp": "もっと強さがひつようなのか！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_0050c",
+  "kind": "line",
+  "jp": "なんとしても……なんとしても",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_00534",
+  "kind": "line",
+  "jp": "あいつに勝ちたい……！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_00560",
+  "kind": "line",
+  "jp": "お兄ちゃん……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_00584",
+  "kind": "line",
+  "jp": "勝負はついた　これでバトリーグへの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_005b0",
+  "kind": "line",
+  "jp": "出場は……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_00610",
+  "kind": "line",
+  "jp": "…………≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_00638",
+  "kind": "line",
+  "jp": "お兄ちゃん≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_0065c",
+  "kind": "line",
+  "jp": "な　なんだ　これは……！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_00680",
+  "kind": "line",
+  "jp": "ぐおおおおおっ！！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_00774",
+  "kind": "line",
+  "jp": "ラ　ライバくん∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_00790",
+  "kind": "line",
+  "jp": "止まりなさ……きゃ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_00804",
+  "kind": "line",
+  "jp": "やめろ　ライバくん！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_00854",
+  "kind": "line",
+  "jp": "ダメだ……かんぜんにぼうそうしてる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_00880",
+  "kind": "line",
+  "jp": "グローブさん　下がっててください",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_008f0",
+  "kind": "line",
+  "jp": "こんなきけんなアームを使わせるとは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_0091c",
+  "kind": "line",
+  "jp": "どういうつもりですか　ウェストさん！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_00958",
+  "kind": "line",
+  "jp": "きけん？　マルスともあろうものが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_00984",
+  "kind": "line",
+  "jp": "何をフヌケたことを！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_009b0",
+  "kind": "line",
+  "jp": "勝ってこその勝負　勝ってこその",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_009d8",
+  "kind": "line",
+  "jp": "バトローリングであろうが≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_009fc",
+  "kind": "line",
+  "jp": "勝つためにもとめた　強い力である！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_00a28",
+  "kind": "line",
+  "jp": "何が悪い！　何がおかしい！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_00a4c",
+  "kind": "line",
+  "jp": "プレミアムジムこそがバトリーグに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_00a78",
+  "kind": "line",
+  "jp": "マルスにふさわしいことを見るである！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_00ac4",
+  "kind": "line",
+  "jp": "くっ　敵は２人か……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_00b04",
+  "kind": "line",
+  "jp": "そうか　こちらにはたのもしい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_00b2c",
+  "kind": "line",
+  "jp": "味方がいたな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_00b50",
+  "kind": "line",
+  "jp": "マルスであろうとわたしには勝てぬ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_00b7c",
+  "kind": "line",
+  "jp": "まして　中学生のガキではな！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_00bb0",
+  "kind": "line",
+  "jp": "ちがう！　あやまった力に",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_00bd4",
+  "kind": "line",
+  "jp": "勝利などない！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_00bec",
+  "kind": "line",
+  "jp": "それをわからせてやろう！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_00c10",
+  "kind": "line",
+  "jp": "行くぞ　∴！！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_00cdc",
+  "kind": "line",
+  "jp": "ぐわっ！　な　なぜであるか……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_00d10",
+  "kind": "line",
+  "jp": "言ったはずだ　あやまった力には",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_00d38",
+  "kind": "line",
+  "jp": "勝利などないと",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_00d90",
+  "kind": "line",
+  "jp": "オ……オレは　いったい……？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_00db8",
+  "kind": "line",
+  "jp": "アームの力にのみこまれたのか……？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_00de4",
+  "kind": "line",
+  "jp": "強くなりたい　勝ちたい　",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_00e08",
+  "kind": "line",
+  "jp": "その一心で……それがこんなことに……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_00e44",
+  "kind": "line",
+  "jp": "しっかりしてよ　お兄ちゃん！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_00e6c",
+  "kind": "line",
+  "jp": "お兄ちゃんは　あんなバトルがしたくて",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_00e9c",
+  "kind": "line",
+  "jp": "強くなろうとしたの≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_00ec8",
+  "kind": "line",
+  "jp": "！！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_00ed8",
+  "kind": "line",
+  "jp": "そうだ　オレはまんぞくできる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_00f00",
+  "kind": "line",
+  "jp": "あついバトルがしたくて……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_00f24",
+  "kind": "line",
+  "jp": "それがいつのまにか　勝つこと",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_00f4c",
+  "kind": "line",
+  "jp": "強くなることだけをめざしていた……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_00f78",
+  "kind": "line",
+  "jp": "しかし　そんな強さはまちがっている",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_00fa4",
+  "kind": "line",
+  "jp": "……オレは弱いままだったんだな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_00fd8",
+  "kind": "line",
+  "jp": "すまない　オレの弱さが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_00ff8",
+  "kind": "line",
+  "jp": "みんなにめいわくをかけてしまった",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_01030.0",
+  "kind": "choice",
+  "jp": "キミのせいじゃないよ",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_01030.1",
+  "kind": "choice",
+  "jp": "これからは強くなれるよ",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_01088",
+  "kind": "line",
+  "jp": "そうだな　あんなきけんなアームを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_010b4",
+  "kind": "line",
+  "jp": "使わせたウェストがいちばん悪い",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_010dc",
+  "kind": "line",
+  "jp": "キミはぼうそうして　正気を",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_01100",
+  "kind": "line",
+  "jp": "うしなっていた　気にすることはないよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_0113c",
+  "kind": "line",
+  "jp": "いや　オレが正しい強さを持っていれば",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_0116c",
+  "kind": "line",
+  "jp": "力にのみこまれてのぼうそうはなかった",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_0119c",
+  "kind": "line",
+  "jp": "なぐさめてくれるのはうれしいが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_011c4",
+  "kind": "line",
+  "jp": "これはオレのせきにんだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_011f0",
+  "kind": "line",
+  "jp": "もちろん　キミにも",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_0120c",
+  "kind": "line",
+  "jp": "はんせいすべきところはある",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_01230",
+  "kind": "line",
+  "jp": "だが　まちがいやしっぱいは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_01254",
+  "kind": "line",
+  "jp": "だれにだってあることじゃないか",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_0127c",
+  "kind": "line",
+  "jp": "大事なのは　そこからなにを学ぶか",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_012a8",
+  "kind": "line",
+  "jp": "……なんじゃないか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_012d4",
+  "kind": "line",
+  "jp": "∴……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_012f0",
+  "kind": "line",
+  "jp": "おぬしはそのことを知った……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_01318",
+  "kind": "line",
+  "jp": "これからは正しい強さをもてるじゃろう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_01370",
+  "kind": "line",
+  "jp": "さて　ごちゃごちゃとしてしまったが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_0139c",
+  "kind": "line",
+  "jp": "これをわたさねばならんな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_013cc",
+  "kind": "line",
+  "jp": "これはバトリーグにさんかすることを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_013f8",
+  "kind": "line",
+  "jp": "みとめられたあかしじゃ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_0142c",
+  "kind": "line",
+  "jp": "『バトリーグさんかパス』をてにいれた！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_01484",
+  "kind": "line",
+  "jp": "そうやった！　すげぇな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_014a4",
+  "kind": "line",
+  "jp": "ついに∴がやったで！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_014d0",
+  "kind": "line",
+  "jp": "ボクらもこれから",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_014ec",
+  "kind": "line",
+  "jp": "がんばらないといけませんね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_0152c",
+  "kind": "line",
+  "jp": "そしてライバ　おぬしにも",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_01550",
+  "kind": "line",
+  "jp": "同じものをわたさねばな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_0158c",
+  "kind": "line",
+  "jp": "え……？　しかしこれは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_015ac",
+  "kind": "line",
+  "jp": "バトリーグの……どうしてオレに？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_015e4",
+  "kind": "line",
+  "jp": "じつはもう１人　つごうでリーグを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_01610",
+  "kind": "line",
+  "jp": "やめるせんしゅが出たのよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_01640",
+  "kind": "line",
+  "jp": "じゃが　さっきまでのおぬしなら",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_01668",
+  "kind": "line",
+  "jp": "これをわたすつもりはなかった",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_01690",
+  "kind": "line",
+  "jp": "なにが強さなのかを知った　本当の",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_016bc",
+  "kind": "line",
+  "jp": "バトローラーこそ　しかくがあるのじゃ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_016f8",
+  "kind": "line",
+  "jp": "本当の　バトローラー……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_01728",
+  "kind": "line",
+  "jp": "よかったね　お兄ちゃん……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_0174c",
+  "kind": "line",
+  "jp": "ありがとう　あんたのおかげよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_01774",
+  "kind": "line",
+  "jp": "∴……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_017b4",
+  "kind": "line",
+  "jp": "ウェストはしっぱいしたか……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_017dc",
+  "kind": "line",
+  "jp": "たいしたことのない男だな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_01800",
+  "kind": "line",
+  "jp": "しかし　あのアームの力が",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_01824",
+  "kind": "line",
+  "jp": "かいまみえたのは　しゅうかくだったな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_01880",
+  "kind": "line",
+  "jp": "見てるがいい　いつかバトローリングの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_018b0",
+  "kind": "line",
+  "jp": "すべてを　わたしは手にしてみせる！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_018f8",
+  "kind": "line",
+  "jp": "フフフフフ　ハハハハハハ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_0196c",
+  "kind": "line",
+  "jp": "これでいよいよキミも",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_0198c",
+  "kind": "line",
+  "jp": "バトリーグのせんしゅだな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_019b0",
+  "kind": "line",
+  "jp": "強敵ぞろいのバトリーグで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_019d4",
+  "kind": "line",
+  "jp": "勝ちぬかないとマルスとは戦えない",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_01a00",
+  "kind": "line",
+  "jp": "だが　ぼくは待っているよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_01a24",
+  "kind": "line",
+  "jp": "キミがそこまでのぼってくるのを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_01aec",
+  "kind": "line",
+  "jp": "アーマレット『ファルコーン』が",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2544_01b14",
+  "kind": "line",
+  "jp": "使えるようになりました∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

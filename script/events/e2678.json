@@ -1,0 +1,202 @@
+[
+ {
+  "id": "e2678_000d4",
+  "kind": "line",
+  "jp": "勉強のいきぬきに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2678_000f0",
+  "kind": "line",
+  "jp": "バトローリングをはじめたんだ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2678_00118",
+  "kind": "line",
+  "jp": "スッキリして　勉強のこうりつも",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2678_00140",
+  "kind": "line",
+  "jp": "グッとアップしたんだよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2678_00198",
+  "kind": "line",
+  "jp": "えっ？　バトローリングだって？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2678_001c0",
+  "kind": "line",
+  "jp": "ダメダメ　もうすぐじゅけんだから",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2678_001ec",
+  "kind": "line",
+  "jp": "遊んでるヒマはないんだよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2678_00250",
+  "kind": "line",
+  "jp": "勉強の本と本の間に",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2678_0026c",
+  "kind": "line",
+  "jp": "バトローリングのざっしもはさまってた",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2678_002dc",
+  "kind": "line",
+  "jp": "勉強の本がぎっしりつまっている",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2678_00360",
+  "kind": "line",
+  "jp": "テレビをつけてみた",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2678_0037c",
+  "kind": "line",
+  "jp": "教育番組がはじまった",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2678_00400",
+  "kind": "line",
+  "jp": "テレビをつけてみた",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2678_0041c",
+  "kind": "line",
+  "jp": "教育番組がはじまった",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2678_00484",
+  "kind": "line",
+  "jp": "バトローリングの　ユニホームが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2678_004ac",
+  "kind": "line",
+  "jp": "しまわれている",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2678_00504",
+  "kind": "line",
+  "jp": "勉強道具といっしょに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2678_00524",
+  "kind": "line",
+  "jp": "アーマレットが　はいっている",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2678_0058c",
+  "kind": "line",
+  "jp": "バトローリングの　ユニホームが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2678_005b4",
+  "kind": "line",
+  "jp": "しまわれている",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ }
+]

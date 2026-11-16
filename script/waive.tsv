@@ -1,0 +1,10 @@
+# Ranges (hex, end exclusive) where SJIS-looking runs are known non-text. text.py check skips uncovered runs here.
+# Each was looked at by hand (phase 4 sweep, 2026-11-17); a new uncovered run inside a range is NOT re-reported, so
+# keep ranges tight and add a reason.
+01C140	01C700	byte ramps 0x3A../0x7C 0x7D 0x7E 0x7F 0x80 0x81 0x84.. (curve/brightness tables), read as ＞ヤ
+020000	071000	ARM/Thumb code: instruction bytes (E5 82 B0 = 犇げ, literal pools); every pointered string in this range is extracted
+07AA80	07AAE0	monotonic byte table 0x61 0x63 0x65 ... (sine/ease ramp)
+07BC30	07BD60	byte index tables 0x98 0x99 0x9A 0x9B 0x80.. (tile maps)
+0C0000	0E0000	compressed graphics / tile and map data (no pointered strings; kana-looking runs are pixel bytes)
+0E0B60	0E1840	link-cable image code and tables
+0F0600	0F0680	same ramp table as 07AA80 (copy inside the link-cable image)

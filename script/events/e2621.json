@@ -1,0 +1,352 @@
+[
+ {
+  "id": "e2621_00284",
+  "kind": "line",
+  "jp": "このデパートは　レアアイテムが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2621_002ac",
+  "kind": "line",
+  "jp": "じゅうじつしているから　好きなのよね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2621_00310",
+  "kind": "line",
+  "jp": "さすが　グローブ社がけいえいする",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2621_0033c",
+  "kind": "line",
+  "jp": "デパートよね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2621_00354",
+  "kind": "line",
+  "jp": "レアアイテムも　ほかより",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2621_00378",
+  "kind": "line",
+  "jp": "じゅうじつしているわ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2621_003d8",
+  "kind": "line",
+  "jp": "この服なら　アタシ　３キロぐらい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2621_00404",
+  "kind": "line",
+  "jp": "やせてみえないかしら？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2621_00458",
+  "kind": "line",
+  "jp": "ジムにきていく　ふくをさがしているの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2621_00488",
+  "kind": "line",
+  "jp": "スッキリとやせてみえるふくが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2621_004b0",
+  "kind": "line",
+  "jp": "いいんだけど　なかなかないわねぇ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2621_00514",
+  "kind": "line",
+  "jp": "ジムにきていく　ふくをさがしているの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2621_00544",
+  "kind": "line",
+  "jp": "どんなのが　アタシににあうかしらね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2621_005b0",
+  "kind": "line",
+  "jp": "こんど　バトリーグをいっしょに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2621_005d8",
+  "kind": "line",
+  "jp": "見にいきませんか！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2621_005f4",
+  "kind": "line",
+  "jp": "……練習だと",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2621_0060c",
+  "kind": "line",
+  "jp": "うまくいえるんだけどなぁ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2621_00668",
+  "kind": "line",
+  "jp": "レジの店員さん　かっこいいなぁ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2621_00694",
+  "kind": "line",
+  "jp": "デートにさそいたいなぁ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2621_006ec",
+  "kind": "line",
+  "jp": "あのレジの店員さん　かっこいいよね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2621_00718",
+  "kind": "line",
+  "jp": "一目ぼれしちゃった　……ぽっ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2621_00780",
+  "kind": "line",
+  "jp": "バトローリングのユニフォームが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 17,
+  "notes": ""
+ },
+ {
+  "id": "e2621_007a8",
+  "kind": "line",
+  "jp": "ならんでいる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 17,
+  "notes": ""
+ },
+ {
+  "id": "e2621_00800",
+  "kind": "line",
+  "jp": "バトローリングのユニフォームが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 18,
+  "notes": ""
+ },
+ {
+  "id": "e2621_00828",
+  "kind": "line",
+  "jp": "ならんでいる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 18,
+  "notes": ""
+ },
+ {
+  "id": "e2621_00880",
+  "kind": "line",
+  "jp": "バトローリングのユニフォームが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 19,
+  "notes": ""
+ },
+ {
+  "id": "e2621_008a8",
+  "kind": "line",
+  "jp": "ならんでいる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 19,
+  "notes": ""
+ },
+ {
+  "id": "e2621_00900",
+  "kind": "line",
+  "jp": "バトローリングのユニフォームが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 20,
+  "notes": ""
+ },
+ {
+  "id": "e2621_00928",
+  "kind": "line",
+  "jp": "ならんでいる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 20,
+  "notes": ""
+ },
+ {
+  "id": "e2621_00980",
+  "kind": "line",
+  "jp": "バトローリングのユニフォームが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 21,
+  "notes": ""
+ },
+ {
+  "id": "e2621_009a8",
+  "kind": "line",
+  "jp": "ならんでいる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 21,
+  "notes": ""
+ },
+ {
+  "id": "e2621_00a00",
+  "kind": "line",
+  "jp": "バトローリングのユニフォームが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 22,
+  "notes": ""
+ },
+ {
+  "id": "e2621_00a28",
+  "kind": "line",
+  "jp": "ならんでいる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 22,
+  "notes": ""
+ },
+ {
+  "id": "e2621_00a80",
+  "kind": "line",
+  "jp": "バトローリングのユニフォームが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 23,
+  "notes": ""
+ },
+ {
+  "id": "e2621_00aa8",
+  "kind": "line",
+  "jp": "ならんでいる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 23,
+  "notes": ""
+ }
+]

@@ -1,0 +1,440 @@
+[
+ {
+  "id": "e2488_000bc.0",
+  "kind": "title",
+  "jp": "バトローラージン",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2488_000bc.1",
+  "kind": "title",
+  "jp": "修行編　第１話",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2488_00114",
+  "kind": "line",
+  "jp": "けっこーあるもんなんだなぁ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2488_00138",
+  "kind": "line",
+  "jp": "バトローリングのジムって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2488_00188",
+  "kind": "line",
+  "jp": "そりゃあ　人気スポーツだからね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2488_001bc",
+  "kind": "line",
+  "jp": "でもなんか　ものたりないなー",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2488_001e4",
+  "kind": "line",
+  "jp": "オレ　どんなマスターにならおうかな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2488_0021c",
+  "kind": "line",
+  "jp": "……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2488_002cc",
+  "kind": "line",
+  "jp": "あれ？　あいつ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2488_00304",
+  "kind": "line",
+  "jp": "へっ　弱いものイジメは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2488_00324",
+  "kind": "line",
+  "jp": "いけねーなー",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2488_00348",
+  "kind": "line",
+  "jp": "ひーーーっ　もうしませんから",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2488_00370",
+  "kind": "line",
+  "jp": "ゆるしてーーーっ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2488_003c8",
+  "kind": "line",
+  "jp": "ひーーーっ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2488_0049c",
+  "kind": "line",
+  "jp": "まだケンカばっか　してんだな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2488_00508",
+  "kind": "line",
+  "jp": "あっ　テメーらは　ジンとコロナ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2488_00568",
+  "kind": "line",
+  "jp": "みー",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2488_00594",
+  "kind": "line",
+  "jp": "あれ？　リョウくん",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2488_005b0",
+  "kind": "line",
+  "jp": "もしかして　ネコ助けてたとか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2488_005ec",
+  "kind": "line",
+  "jp": "うそっ　すこしいいヤツ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2488_00624",
+  "kind": "line",
+  "jp": "う　うるせー∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2488_006e4",
+  "kind": "line",
+  "jp": "そういやオメーも",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2488_00700",
+  "kind": "line",
+  "jp": "マーブルアレーナ　出るんだってな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2488_00750",
+  "kind": "line",
+  "jp": "おう∇　まってろよ　シュウ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2488_00774",
+  "kind": "line",
+  "jp": "今度こそ　たおしてやるからな∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2488_007a8",
+  "kind": "line",
+  "jp": "あっはっは　シュウさんは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2488_007cc",
+  "kind": "line",
+  "jp": "オメーなんか　相手にしちゃいねーよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2488_0081c",
+  "kind": "line",
+  "jp": "シュウさんの目は　ずーっと上の",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2488_00844",
+  "kind": "line",
+  "jp": "マルスを見つめているんだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2488_00874",
+  "kind": "line",
+  "jp": "？　なんだよマルスって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2488_008a8",
+  "kind": "line",
+  "jp": "マルスっていうのは　バトローリング",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2488_008d4",
+  "kind": "line",
+  "jp": "公式リーグのチャンピオンのこと",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2488_008fc",
+  "kind": "line",
+  "jp": "みんなから　そんけいされる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2488_00920",
+  "kind": "line",
+  "jp": "名実ともに　最高のそんざいなんだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2488_00968",
+  "kind": "line",
+  "jp": "へえ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2488_0097c",
+  "kind": "line",
+  "jp": "じゃあバトローリングを　きわめるのは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2488_009ac",
+  "kind": "line",
+  "jp": "マルスになるってことか",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2488_009e8",
+  "kind": "line",
+  "jp": "じゃ　オレ……マルスをめざす∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2488_00a10",
+  "kind": "line",
+  "jp": "シュウをたおして　大会ゆうしょうして",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2488_00a40",
+  "kind": "line",
+  "jp": "ゆくゆくはマルスになる∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2488_00a70",
+  "kind": "line",
+  "jp": "へっ　マルスがどれほど遠いか",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2488_00a98",
+  "kind": "line",
+  "jp": "知らねーから言えるセリフだな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2488_00ae4",
+  "kind": "line",
+  "jp": "てめーは何も",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2488_00afc",
+  "kind": "line",
+  "jp": "わかっちゃいねぇ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

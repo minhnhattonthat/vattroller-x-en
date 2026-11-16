@@ -1,0 +1,382 @@
+[
+ {
+  "id": "e2570_000a8",
+  "kind": "line",
+  "jp": "コダマ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2570_000f0",
+  "kind": "line",
+  "jp": "ホホホホホ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2570_00108",
+  "kind": "line",
+  "jp": "飛んで火にいる夏の虫とは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2570_0012c",
+  "kind": "line",
+  "jp": "あなたたちのことですわ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2570_00174",
+  "kind": "line",
+  "jp": "自分たちの実力を",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2570_00190",
+  "kind": "line",
+  "jp": "わからせて　あげますよ　レディ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2570_001e4",
+  "kind": "line",
+  "jp": "ムムム……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2570_00280",
+  "kind": "line",
+  "jp": "や　やられた～",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2570_002a4",
+  "kind": "line",
+  "jp": "ホーッホッホッホッホ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2570_002d0",
+  "kind": "line",
+  "jp": "あんたたち……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2570_002e8",
+  "kind": "line",
+  "jp": "よくもやってくれたわね！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2570_0030c",
+  "kind": "line",
+  "jp": "いくら　あたしたちに勝てないからって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2570_0033c",
+  "kind": "line",
+  "jp": "ネコジチまでとるなんて！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2570_0037c",
+  "kind": "line",
+  "jp": "ネコジチ？　ちょっと待ってくれ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2570_003a8",
+  "kind": "line",
+  "jp": "一体　何のことだか……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2570_003d4",
+  "kind": "line",
+  "jp": "コダマのかわりに　ギッタンギッタンに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2570_00404",
+  "kind": "line",
+  "jp": "ひっかいてやるわ！！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2570_00444",
+  "kind": "line",
+  "jp": "な……何だか　よくわからないけど",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2570_00470",
+  "kind": "line",
+  "jp": "これで　ゆるしてくれないか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2570_004f4",
+  "kind": "line",
+  "jp": "そんなもんで　あたしの気が",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2570_00518",
+  "kind": "line",
+  "jp": "おさまるとでも思ってるの≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2570_00548",
+  "kind": "line",
+  "jp": "ナナ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2570_00568",
+  "kind": "line",
+  "jp": "キーーー！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2570_005c4",
+  "kind": "line",
+  "jp": "ギャーッ！！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2570_00678",
+  "kind": "line",
+  "jp": "なによ　あのムササビ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2570_0069c",
+  "kind": "line",
+  "jp": "あんたの新しい友だち？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2570_006c8",
+  "kind": "line",
+  "jp": "ニャ～♪",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2570_006e8",
+  "kind": "line",
+  "jp": "あんた　もしかして",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2570_00704",
+  "kind": "line",
+  "jp": "その子と　ここであそんでただけ？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2570_0073c",
+  "kind": "line",
+  "jp": "ニャ～ン♪",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2570_0076c",
+  "kind": "line",
+  "jp": "…………",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2570_00780",
+  "kind": "line",
+  "jp": "……………………",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2570_00830",
+  "kind": "line",
+  "jp": "今日は　このへんに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2570_0084c",
+  "kind": "line",
+  "jp": "しといてあげるわ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2570_00898",
+  "kind": "line",
+  "jp": "ちょっ　ちょっと待ちたまえ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2570_008bc",
+  "kind": "line",
+  "jp": "ミス・コマチ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2570_008f4",
+  "kind": "line",
+  "jp": "さあ　帰るわよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2570_00968",
+  "kind": "line",
+  "jp": "ミス・コマチーーーーーーーーーっ！！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

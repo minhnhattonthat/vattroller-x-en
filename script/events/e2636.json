@@ -1,0 +1,192 @@
+[
+ {
+  "id": "e2636_000d4",
+  "kind": "line",
+  "jp": "ワシューさんは　いまでも",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2636_000f8",
+  "kind": "line",
+  "jp": "ほんにカッコいいバアさまじゃわい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2636_00158",
+  "kind": "line",
+  "jp": "わしゃ　じつはワシューさんに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2636_00180",
+  "kind": "line",
+  "jp": "ほれとったんじゃ　フガフガ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2636_001d8",
+  "kind": "line",
+  "jp": "わかいときの　ワシューさんは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2636_00200",
+  "kind": "line",
+  "jp": "それはそれはカッコよかったわい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2636_00268",
+  "kind": "line",
+  "jp": "本がたくさんならんでいる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2636_002e8",
+  "kind": "line",
+  "jp": "テレビをつけてみた",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2636_00304",
+  "kind": "line",
+  "jp": "バトリーグのちゅうけいが　",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2636_00328",
+  "kind": "line",
+  "jp": "ほうそうされている",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2636_003a8",
+  "kind": "line",
+  "jp": "テレビをつけてみた",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2636_003c4",
+  "kind": "line",
+  "jp": "バトリーグのちゅうけいが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2636_003e8",
+  "kind": "line",
+  "jp": "ほうそうされている",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2636_0044c",
+  "kind": "line",
+  "jp": "バトローリングのユニフォームが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2636_00474",
+  "kind": "line",
+  "jp": "しまわれている",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2636_004cc",
+  "kind": "line",
+  "jp": "バトローリングのユニフォームが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2636_004f4",
+  "kind": "line",
+  "jp": "きちんとしまわれている",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2636_00554",
+  "kind": "line",
+  "jp": "おしゃれなふくが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2636_00570",
+  "kind": "line",
+  "jp": "きちんとしまわれている",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ }
+]

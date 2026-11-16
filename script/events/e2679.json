@@ -1,0 +1,262 @@
+[
+ {
+  "id": "e2679_000c8",
+  "kind": "line",
+  "jp": "なにか面白いもの　ないかしら？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2679_000f0",
+  "kind": "line",
+  "jp": "とくにようがなくても　コンビニには",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2679_0011c",
+  "kind": "line",
+  "jp": "１日１回　よらないとおちつかないわ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2679_0017c",
+  "kind": "line",
+  "jp": "グローブ社にかんけいないアイテムとか",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2679_001ac",
+  "kind": "line",
+  "jp": "でてることもあるし……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2679_001cc",
+  "kind": "line",
+  "jp": "コンビニも　まめにチェックして",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2679_001f4",
+  "kind": "line",
+  "jp": "おいたほうがいいわよね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2679_00254",
+  "kind": "line",
+  "jp": "いらっしゃいませ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2679_00340",
+  "kind": "line",
+  "jp": "たくさんのみものが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2679_0035c",
+  "kind": "line",
+  "jp": "ならんでいる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2679_003b4",
+  "kind": "line",
+  "jp": "たくさんのみものが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2679_003d0",
+  "kind": "line",
+  "jp": "ならんでいる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2679_00428",
+  "kind": "line",
+  "jp": "たくさんのしょうひんが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2679_00448",
+  "kind": "line",
+  "jp": "ならんでいる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2679_004a0",
+  "kind": "line",
+  "jp": "たくさんのしょうひんが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2679_004c0",
+  "kind": "line",
+  "jp": "ならんでいる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2679_00518",
+  "kind": "line",
+  "jp": "よ～し　今日もＶポンで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2679_00538",
+  "kind": "line",
+  "jp": "レアアームを　ゲットしちゃおう！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2679_005a4",
+  "kind": "line",
+  "jp": "バトローリングかんけいの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2679_005c8",
+  "kind": "line",
+  "jp": "ざっしがならんでいる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2679_00628",
+  "kind": "line",
+  "jp": "バトローリングかんけいの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2679_0064c",
+  "kind": "line",
+  "jp": "ざっしがならんでいる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2679_006ac",
+  "kind": "line",
+  "jp": "バトローリングかんけいの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2679_006d0",
+  "kind": "line",
+  "jp": "ざっしがならんでいる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2679_00730",
+  "kind": "line",
+  "jp": "バトローリングかんけいの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2679_00754",
+  "kind": "line",
+  "jp": "ざっしがならんでいる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 15,
+  "notes": ""
+ }
+]

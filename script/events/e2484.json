@@ -1,0 +1,172 @@
+[
+ {
+  "id": "e2484_00094",
+  "kind": "line",
+  "jp": "ぐあっ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2484_00168",
+  "kind": "line",
+  "jp": "おお……　さすがシュウさんだ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2484_00190",
+  "kind": "line",
+  "jp": "あのリョウをあっさりと……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2484_001d0",
+  "kind": "line",
+  "jp": "リョウ　おまえは　オレより弱いな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2484_00208",
+  "kind": "line",
+  "jp": "は　はい…",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2484_00228",
+  "kind": "line",
+  "jp": "真丸中のやつらよりは　強い",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2484_0024c",
+  "kind": "line",
+  "jp": "だが　あのジンよりは…？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2484_0027c",
+  "kind": "line",
+  "jp": "…",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2484_00294",
+  "kind": "line",
+  "jp": "強さとは　そうたいてきなものだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2484_002bc",
+  "kind": "line",
+  "jp": "勝負にこだわって　ひつよういじょうに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2484_002ec",
+  "kind": "line",
+  "jp": "他人に　かんしょうするな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2484_00334",
+  "kind": "line",
+  "jp": "おまえの実力は　オレもみとめる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2484_0035c",
+  "kind": "line",
+  "jp": "自分をみがけ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2484_003ac",
+  "kind": "line",
+  "jp": "シュウさん……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2484_003f4",
+  "kind": "line",
+  "jp": "それにしても　あのジンのアーマレット",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2484_00424",
+  "kind": "line",
+  "jp": "……気になるな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2484_00448",
+  "kind": "line",
+  "jp": "あのアーマレットは　まさか……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

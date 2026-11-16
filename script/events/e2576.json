@@ -1,0 +1,828 @@
+[
+ {
+  "id": "e2576_000bc",
+  "kind": "line",
+  "jp": "なんや　これ？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2576_000d4",
+  "kind": "line",
+  "jp": "ビンに手紙が　入っとる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2576_00100",
+  "kind": "line",
+  "jp": "これは……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2576_00114",
+  "kind": "line",
+  "jp": "ボトルメールってヤツですね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2576_00144",
+  "kind": "line",
+  "jp": "へぇ～　今どきめずらしいわね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2576_0016c",
+  "kind": "line",
+  "jp": "わたしも昔は……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2576_0019c",
+  "kind": "line",
+  "jp": "……ッ≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2576_001bc",
+  "kind": "line",
+  "jp": "面白そうじゃない♪",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2576_001d8",
+  "kind": "line",
+  "jp": "開けて　読んじゃおうよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2576_00208",
+  "kind": "line",
+  "jp": "や……やめなさい！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2576_00224",
+  "kind": "line",
+  "jp": "人の手紙を読むのは　よくないわ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2576_00268",
+  "kind": "line",
+  "jp": "いえ　本来ボトルメールというものは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2576_00294",
+  "kind": "line",
+  "jp": "拾った人が　読むものであって……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2576_002cc",
+  "kind": "line",
+  "jp": "と……とにかく　これは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2576_002ec",
+  "kind": "line",
+  "jp": "わたしが　あずかります！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2576_0032c",
+  "kind": "line",
+  "jp": "ズル～イ！　そんなこと言って",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2576_00354",
+  "kind": "line",
+  "jp": "１人で　読むつもりなんでしょ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2576_00398",
+  "kind": "line",
+  "jp": "わいが　拾ったんや！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2576_003b8",
+  "kind": "line",
+  "jp": "わいにも読むケンリあるやろ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2576_003f4",
+  "kind": "line",
+  "jp": "ダメ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2576_00404",
+  "kind": "line",
+  "jp": "力ずくでも　読ませるもんですか！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2576_00454",
+  "kind": "line",
+  "jp": "∴も　読みたいでしょう？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2576_00484.0",
+  "kind": "choice",
+  "jp": "読みたくない",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2576_00484.1",
+  "kind": "choice",
+  "jp": "読みたい",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2576_004c8",
+  "kind": "line",
+  "jp": "なによ　あんた　向こうの味方なの？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2576_004f4",
+  "kind": "line",
+  "jp": "いいわよ！　",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2576_00518",
+  "kind": "line",
+  "jp": "∴ちゃん　先生といっしょに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2576_0053c",
+  "kind": "line",
+  "jp": "ボトルメールを　まもるのよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2576_0057c",
+  "kind": "line",
+  "jp": "そうよね！　そうよね！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2576_005c4",
+  "kind": "line",
+  "jp": "力ずくでも",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2576_005d8",
+  "kind": "line",
+  "jp": "読んでみせるわよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2576_00608.0",
+  "kind": "choice",
+  "jp": "アームセットしゅうりょう",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2576_00608.1",
+  "kind": "choice",
+  "jp": "アームセットをつづける",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2576_00718",
+  "kind": "line",
+  "jp": "ハアハア……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2576_00730",
+  "kind": "line",
+  "jp": "読ませる……もんですか……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2576_00760",
+  "kind": "line",
+  "jp": "気づいて　マルスさま……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2576_00784",
+  "kind": "line",
+  "jp": "日ごとつのる　あなたへの思い",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2576_007ac",
+  "kind": "line",
+  "jp": "だけど悲しいかな　わたしは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2576_007d0",
+  "kind": "line",
+  "jp": "たんなるギャラリーの１人",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2576_007f4",
+  "kind": "line",
+  "jp": "いくらさけんでも　その声は",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2576_00818",
+  "kind": "line",
+  "jp": "あなたへの声援に　かき消される",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2576_00840",
+  "kind": "line",
+  "jp": "だから　この思い",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2576_0085c",
+  "kind": "line",
+  "jp": "そっと海に　たくします",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2576_0087c",
+  "kind": "line",
+  "jp": "いつの日か　あなたへ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2576_0089c",
+  "kind": "line",
+  "jp": "とどくことをいのって……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2576_008c0",
+  "kind": "line",
+  "jp": "ディア　マルス",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2576_008d8",
+  "kind": "line",
+  "jp": "フロム　スズカ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2576_00920",
+  "kind": "line",
+  "jp": "スズカ≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2576_00960",
+  "kind": "line",
+  "jp": "キャーッ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2576_00974",
+  "kind": "line",
+  "jp": "いつの間に　手紙が≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2576_009a0",
+  "kind": "line",
+  "jp": "さっきのバトローリング時に",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2576_009c4",
+  "kind": "line",
+  "jp": "ビンが　われてたんですね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2576_009f4",
+  "kind": "line",
+  "jp": "これって　先生の手紙だったの？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2576_00a28",
+  "kind": "line",
+  "jp": "わかき日のよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2576_00a40",
+  "kind": "line",
+  "jp": "わかき日の！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2576_00a64",
+  "kind": "line",
+  "jp": "ほら　これあげるから",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2576_00a84",
+  "kind": "line",
+  "jp": "みんな　忘れちゃいましょうね♪",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2576_00ad8",
+  "kind": "line",
+  "jp": "でも　どうして",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2576_00af0",
+  "kind": "line",
+  "jp": "海に流れていかず　こんなところに？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2576_00b28",
+  "kind": "line",
+  "jp": "たぶん　岩場にでも",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2576_00b44",
+  "kind": "line",
+  "jp": "引っかかってたんでしょう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2576_00b68",
+  "kind": "line",
+  "jp": "一生引っかかってて",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2576_00b84",
+  "kind": "line",
+  "jp": "ほしかったけど……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2576_00bb4",
+  "kind": "line",
+  "jp": "そんなことないわ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2576_00bd0",
+  "kind": "line",
+  "jp": "この手紙　とってもステキだもん",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2576_00c14",
+  "kind": "line",
+  "jp": "コマチちゃん！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2576_00c2c",
+  "kind": "line",
+  "jp": "あなたも　分かってくれる≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2576_00c5c",
+  "kind": "line",
+  "jp": "もちろん！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2576_00c70",
+  "kind": "line",
+  "jp": "わかりまくっちゃう！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2576_00c90",
+  "kind": "line",
+  "jp": "シュウ様にとどかぬ　この思い！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2576_00cb8",
+  "kind": "line",
+  "jp": "とどけたい！　とどいてほしい！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2576_00cec",
+  "kind": "line",
+  "jp": "ああ！　コマチちゃん！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2576_00da8",
+  "kind": "line",
+  "jp": "こ……これは　あのときのカレへの？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2576_00df4",
+  "kind": "line",
+  "jp": "あっちは年上のあの人？　……ハッ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2576_00e4c",
+  "kind": "line",
+  "jp": "面白そうですね……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2576_00e74",
+  "kind": "line",
+  "jp": "せやな……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2576_00ea4",
+  "kind": "line",
+  "jp": "コ……コマチちゃんは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2576_00ec4",
+  "kind": "line",
+  "jp": "先生の味方よね？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2576_00f00",
+  "kind": "line",
+  "jp": "あたしは　いちずよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2576_00f1c",
+  "kind": "line",
+  "jp": "先生とはちがうわ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2576_00f50",
+  "kind": "line",
+  "jp": "……　……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2576_00f88",
+  "kind": "line",
+  "jp": "こ……こうなったら",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2576_00fa4",
+  "kind": "line",
+  "jp": "てつやで　勝負よ！！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

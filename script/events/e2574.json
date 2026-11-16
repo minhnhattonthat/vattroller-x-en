@@ -1,0 +1,422 @@
+[
+ {
+  "id": "e2574_000a4",
+  "kind": "line",
+  "jp": "よくぞ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2574_000b4",
+  "kind": "line",
+  "jp": "ここまで　たどりついたな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2574_000e4",
+  "kind": "line",
+  "jp": "やくそくどおり　みんなに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2574_00108",
+  "kind": "line",
+  "jp": "会わせてやろう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2574_0012c",
+  "kind": "line",
+  "jp": "なんて言っても　もう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2574_0014c",
+  "kind": "line",
+  "jp": "バレバレですよね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2574_001f0",
+  "kind": "line",
+  "jp": "ちょっと　タクミ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2574_0020c",
+  "kind": "line",
+  "jp": "もっと　引っぱりなさいよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2574_0024c",
+  "kind": "line",
+  "jp": "せや！　こっからが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2574_00268",
+  "kind": "line",
+  "jp": "おもろいとこやったのに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2574_00294",
+  "kind": "line",
+  "jp": "いや　だって……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2574_002b0",
+  "kind": "line",
+  "jp": "もうバレてますって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2574_002d8",
+  "kind": "line",
+  "jp": "……コホン！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2574_002f0",
+  "kind": "line",
+  "jp": "あ～　えっと……イカヅチ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2574_00320",
+  "kind": "line",
+  "jp": "え～っ　なんでわいやねん……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2574_00348",
+  "kind": "line",
+  "jp": "タクミたのむわ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2574_0036c",
+  "kind": "line",
+  "jp": "だましてて　すいません……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2574_00390",
+  "kind": "line",
+  "jp": "おどかすつもりは　なかったんですけど",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2574_003dc",
+  "kind": "line",
+  "jp": "ボクが　もう１度",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2574_003f8",
+  "kind": "line",
+  "jp": "バトローリングを始めたのも……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2574_0043c",
+  "kind": "line",
+  "jp": "わいが　部活の",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2574_00454",
+  "kind": "line",
+  "jp": "楽しさを知ることができたんも……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2574_0049c",
+  "kind": "line",
+  "jp": "みんな　あんたのおかげってことで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2574_004c8",
+  "kind": "line",
+  "jp": "何かお礼をしようって思ったわけ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2574_004f0",
+  "kind": "line",
+  "jp": "でも　ただお礼するだけじゃ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2574_00514",
+  "kind": "line",
+  "jp": "面白くないからって……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2574_00550",
+  "kind": "line",
+  "jp": "そう言いだしたのは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2574_0056c",
+  "kind": "line",
+  "jp": "コマチさんじゃないですか……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2574_005b0",
+  "kind": "line",
+  "jp": "とにかく　あたしたちが言いたいのは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2574_005dc",
+  "kind": "line",
+  "jp": "バトリーグ　がんばれってことよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2574_00610",
+  "kind": "line",
+  "jp": "おまえのバトローリングには",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2574_00634",
+  "kind": "line",
+  "jp": "人をひきつける　力があるんや",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2574_0065c",
+  "kind": "line",
+  "jp": "それを　他のヤツらにも",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2574_0067c",
+  "kind": "line",
+  "jp": "見せつけたれ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2574_006a0",
+  "kind": "line",
+  "jp": "それでは　バトリーグで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2574_006c0",
+  "kind": "line",
+  "jp": "役に立ちそうな　うんちくを……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2574_0070c",
+  "kind": "line",
+  "jp": "マメちしきなんか　いらないわよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2574_00754",
+  "kind": "line",
+  "jp": "あんたは　十分強いんだから",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2574_00778",
+  "kind": "line",
+  "jp": "負けて帰ったら",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2574_00790",
+  "kind": "line",
+  "jp": "しょうちしないからね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2574_00800",
+  "kind": "line",
+  "jp": "さあ　和がししかないけど",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2574_00824",
+  "kind": "line",
+  "jp": "たんと　食ってくれ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

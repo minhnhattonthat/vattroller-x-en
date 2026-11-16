@@ -1,0 +1,520 @@
+[
+ {
+  "id": "e2691_000d4",
+  "kind": "line",
+  "jp": "トイレの手とか　夜のかいだんとか……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2691_00104",
+  "kind": "line",
+  "jp": "学校ってどうしてこわい話がおおいの？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2691_00168",
+  "kind": "line",
+  "jp": "アタシ　こわい話ってにがてなのよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2691_00194",
+  "kind": "line",
+  "jp": "だから　話さないでね　ね　ね！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2691_001f0",
+  "kind": "line",
+  "jp": "ねえ聞いた？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2691_00208",
+  "kind": "line",
+  "jp": "ポルターガイストのウワサ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2691_0022c",
+  "kind": "line",
+  "jp": "こわいわよね～",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2691_00244",
+  "kind": "line",
+  "jp": "学校にきたくなくなっちゃう！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2691_00320",
+  "kind": "line",
+  "jp": "∴もききましたか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2691_0033c",
+  "kind": "line",
+  "jp": "ポルターガイストのうわさ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2691_0036c.0",
+  "kind": "choice",
+  "jp": "ポルターガイスト？",
+  "en": "",
+  "status": "new",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2691_0036c.1",
+  "kind": "choice",
+  "jp": "ポルターがイスと？",
+  "en": "",
+  "status": "new",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2691_003bc",
+  "kind": "line",
+  "jp": "ポルターガイストというのは……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2691_003e4",
+  "kind": "line",
+  "jp": "タクミ！　せつめいしてあげなさい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2691_0042c",
+  "kind": "line",
+  "jp": "そうそう！　ＦＢＩそうさかんの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2691_00454",
+  "kind": "line",
+  "jp": "ポルダーさんが……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2691_00470",
+  "kind": "line",
+  "jp": "うちゅうから来たイスと",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2691_00490",
+  "kind": "line",
+  "jp": "あんなことや　こんなことを……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2691_004b8",
+  "kind": "line",
+  "jp": "……って　ぜんぜん",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2691_004d4",
+  "kind": "line",
+  "jp": "ちがいますわ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2691_00508",
+  "kind": "line",
+  "jp": "ポルターガイストというのは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2691_0052c",
+  "kind": "line",
+  "jp": "しんれいげんしょうのひとつです",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2691_00554",
+  "kind": "line",
+  "jp": "だれもさわっていないのに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2691_00578",
+  "kind": "line",
+  "jp": "物がういたり　うごいたりするんですよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2691_005b4",
+  "kind": "line",
+  "jp": "それでせいとたちが　大さわぎして",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2691_005e0",
+  "kind": "line",
+  "jp": "せいと会で調べることになったんです",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2691_00628",
+  "kind": "line",
+  "jp": "そ……そんな話",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2691_00640",
+  "kind": "line",
+  "jp": "きっと　デタラメですわ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2691_00664",
+  "kind": "line",
+  "jp": "わざわざ　わたくしたちが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2691_00688",
+  "kind": "line",
+  "jp": "行くほどのことでは……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2691_006c4",
+  "kind": "line",
+  "jp": "ぼくは　きょうみありますね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2691_006e8",
+  "kind": "line",
+  "jp": "この世には　まだまだカガクでは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2691_00710",
+  "kind": "line",
+  "jp": "わからないことがあります",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2691_00734",
+  "kind": "line",
+  "jp": "そういうものこそ　",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2691_00750",
+  "kind": "line",
+  "jp": "りせいをもって　けんきゅうするべきです",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2691_0078c",
+  "kind": "line",
+  "jp": "だったら　あなた",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2691_007a8",
+  "kind": "line",
+  "jp": "ひとりで……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2691_007d4",
+  "kind": "line",
+  "jp": "ダメダメ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2691_007e8",
+  "kind": "line",
+  "jp": "キミもふく会長なんですから",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2691_00828",
+  "kind": "line",
+  "jp": "だったら　∴",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2691_00864",
+  "kind": "line",
+  "jp": "あなたも来なさい！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2691_00894",
+  "kind": "line",
+  "jp": "いいわね！　これはメイレイよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2691_00918",
+  "kind": "line",
+  "jp": "学校って　こわい話がおおいでしょ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2691_00944",
+  "kind": "line",
+  "jp": "どうしてだと思う？　ねえ　ねえ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2691_009ac",
+  "kind": "line",
+  "jp": "あのこ……にがてって言うけど",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2691_009d4",
+  "kind": "line",
+  "jp": "いっつも　こわいはなし",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2691_009f4",
+  "kind": "line",
+  "jp": "するんだよね～　ブルブル",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2691_00a58",
+  "kind": "line",
+  "jp": "あけないでくれよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2691_00a74",
+  "kind": "line",
+  "jp": "かくれんぼ　してるんだからさ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2691_00adc",
+  "kind": "line",
+  "jp": "じょうほうたんまつだ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2691_00afc",
+  "kind": "line",
+  "jp": "明日のじかんわりが　ひょうじされてる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2691_00b6c",
+  "kind": "line",
+  "jp": "じしょがたくさんならんでいる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ }
+]

@@ -1,0 +1,410 @@
+[
+ {
+  "id": "e2674_0011c",
+  "kind": "line",
+  "jp": "真丸町南バトローリング大会",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2674_00140",
+  "kind": "line",
+  "jp": "うけつけです　さんかしますか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2674_0018c",
+  "kind": "line",
+  "jp": "がんばってください♪",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2674_001ec",
+  "kind": "line",
+  "jp": "優勝おめでとうございます",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2674_00210",
+  "kind": "line",
+  "jp": "しょうひんのアームです",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2674_00264",
+  "kind": "line",
+  "jp": "また　さんかしてださいね！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2674_00294",
+  "kind": "line",
+  "jp": "ざんねんでした",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2674_002ac",
+  "kind": "line",
+  "jp": "また　さんかしてくださいね！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2674_002f8",
+  "kind": "line",
+  "jp": "また　おこしください！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2674_0034c",
+  "kind": "line",
+  "jp": "真丸町南バトローリング大会",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2674_00370",
+  "kind": "line",
+  "jp": "うけつけです　さんかしますか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2674_003bc",
+  "kind": "line",
+  "jp": "がんばってください♪",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2674_0041c",
+  "kind": "line",
+  "jp": "優勝おめでとうございます",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2674_00440",
+  "kind": "line",
+  "jp": "しょうひんのアームです",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2674_00494",
+  "kind": "line",
+  "jp": "また　さんかしてくださいね！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2674_004c8",
+  "kind": "line",
+  "jp": "ざんねんでした",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2674_004e0",
+  "kind": "line",
+  "jp": "また　さんかしてくださいね！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2674_00520",
+  "kind": "line",
+  "jp": "また　おこしください！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2674_00574",
+  "kind": "line",
+  "jp": "真丸町南バトローリング大会",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2674_00598",
+  "kind": "line",
+  "jp": "うけつけです　さんかしますか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2674_005e4",
+  "kind": "line",
+  "jp": "がんばってください♪",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2674_00644",
+  "kind": "line",
+  "jp": "優勝おめでとうございます",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2674_00668",
+  "kind": "line",
+  "jp": "しょうひんのアームです",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2674_006bc",
+  "kind": "line",
+  "jp": "また　さんかしてくださいね！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2674_006f0",
+  "kind": "line",
+  "jp": "ざんねんでした",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2674_00708",
+  "kind": "line",
+  "jp": "また　さんかしてくださいね！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2674_00748",
+  "kind": "line",
+  "jp": "また　おこしください！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2674_007e4",
+  "kind": "line",
+  "jp": "大会たのしみだよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2674_00800",
+  "kind": "line",
+  "jp": "おじさんは　まけてばかりだけどね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2674_0082c",
+  "kind": "line",
+  "jp": "どうだい　練習してくれないかね？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2674_00864.0",
+  "kind": "choice",
+  "jp": "いいですよ",
+  "en": "",
+  "status": "new",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2674_00864.1",
+  "kind": "choice",
+  "jp": "いそがしいです",
+  "en": "",
+  "status": "new",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2674_008a8",
+  "kind": "line",
+  "jp": "おお　ありがとう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2674_008c4",
+  "kind": "line",
+  "jp": "さっそく　練習しよう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2674_00910",
+  "kind": "line",
+  "jp": "ありがとう　いいバトルだったよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2674_00938",
+  "kind": "line",
+  "jp": "わたしも　キミみたいに強くなりたいよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2674_00974",
+  "kind": "line",
+  "jp": "そうか　ひまになったら",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2674_00994",
+  "kind": "line",
+  "jp": "練習あいてになってくれよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2674_009f8",
+  "kind": "line",
+  "jp": "真丸町のバトローリング大会は",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2674_00a20",
+  "kind": "line",
+  "jp": "レベルが高いのよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2674_00a3c",
+  "kind": "line",
+  "jp": "あなた　だいじょうぶ？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ }
+]

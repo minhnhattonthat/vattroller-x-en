@@ -1,0 +1,458 @@
+[
+ {
+  "id": "e2588_000a0",
+  "kind": "line",
+  "jp": "てめえか？　最近　あちこちのジムで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2588_000cc",
+  "kind": "line",
+  "jp": "あばれまわってるってヤツは……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2588_000f4",
+  "kind": "line",
+  "jp": "うちのジムに来るとは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2588_00114",
+  "kind": "line",
+  "jp": "いいドキョウしてるじゃねえか",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2588_001c0",
+  "kind": "line",
+  "jp": "おい　こっちにも",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2588_001dc",
+  "kind": "line",
+  "jp": "もういっぴきいたぜ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2588_00220",
+  "kind": "line",
+  "jp": "∴≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2588_00230",
+  "kind": "line",
+  "jp": "こ……こいつは　カンケイない！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2588_00274",
+  "kind": "line",
+  "jp": "カンケイあるかどうかは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2588_00294",
+  "kind": "line",
+  "jp": "オレたちが　決める",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2588_002b0",
+  "kind": "line",
+  "jp": "おまえたちを　どう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2588_002cc",
+  "kind": "line",
+  "jp": "いためつけるかもな！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2588_002ec",
+  "kind": "line",
+  "jp": "さいわい　今はしはんだいも",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2588_00310",
+  "kind": "line",
+  "jp": "るすにしてる……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2588_0032c",
+  "kind": "line",
+  "jp": "つまり　少々あらっぽいことをしても",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2588_00358",
+  "kind": "line",
+  "jp": "止めるヤツはいないってことだ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2588_003e8",
+  "kind": "line",
+  "jp": "まだまだ　練習相手はいるぜ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2588_00424.0",
+  "kind": "choice",
+  "jp": "アームセットしゅうりょう",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2588_00424.1",
+  "kind": "choice",
+  "jp": "アームセットをつづける",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2588_004bc",
+  "kind": "line",
+  "jp": "こ……この人数で　オレたちが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2588_004e4",
+  "kind": "line",
+  "jp": "負けるわけには　いかねえんだよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2588_00524.0",
+  "kind": "choice",
+  "jp": "アームセットしゅうりょう",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2588_00524.1",
+  "kind": "choice",
+  "jp": "アームセットをつづける",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2588_00600",
+  "kind": "line",
+  "jp": "ち……ちくしょう……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2588_00620",
+  "kind": "line",
+  "jp": "なんて　ヤツらだ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2588_00640",
+  "kind": "line",
+  "jp": "これを　やるから",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2588_0065c",
+  "kind": "line",
+  "jp": "とっとと　帰ってくれ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2588_0069c",
+  "kind": "line",
+  "jp": "だれが　助けてくれなんて",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2588_006c0",
+  "kind": "line",
+  "jp": "たのんだ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2588_006d8",
+  "kind": "line",
+  "jp": "オレの　修行のジャマをするな！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2588_0071c",
+  "kind": "line",
+  "jp": "こいつは　おまえに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2588_00738",
+  "kind": "line",
+  "jp": "くれてやる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2588_00778",
+  "kind": "line",
+  "jp": "敵に　かりなんか",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2588_00794",
+  "kind": "line",
+  "jp": "つくりたくないからな……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2588_007b8",
+  "kind": "line",
+  "jp": "おまえは　オレの敵だ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2588_007d8",
+  "kind": "line",
+  "jp": "そのことを　忘れるな！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2588_00848",
+  "kind": "line",
+  "jp": "くっ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2588_00868",
+  "kind": "line",
+  "jp": "なにっ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2588_00888",
+  "kind": "line",
+  "jp": "ちくしょう！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2588_008e0",
+  "kind": "line",
+  "jp": "どうだ　みのほどを　しったか！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2588_00908",
+  "kind": "line",
+  "jp": "とっとと　かえれ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2588_00980",
+  "kind": "line",
+  "jp": "……いたい目にあいたくなかったら",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2588_009ac",
+  "kind": "line",
+  "jp": "もう　オレに近づくんじゃない",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2588_009d4",
+  "kind": "line",
+  "jp": "オレは　おまえの敵だ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2588_009f4",
+  "kind": "line",
+  "jp": "そのことを　忘れるな！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2588_00a40",
+  "kind": "line",
+  "jp": "……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

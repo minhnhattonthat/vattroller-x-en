@@ -1,0 +1,312 @@
+[
+ {
+  "id": "e2660_00158",
+  "kind": "line",
+  "jp": "アームリライターだ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2660_00178",
+  "kind": "line",
+  "jp": "きどうしますか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2660_001f0",
+  "kind": "line",
+  "jp": "ハントけいのアームって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2660_00210",
+  "kind": "line",
+  "jp": "使いやすいと　おもわない？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2660_00274",
+  "kind": "line",
+  "jp": "おまえ　ここさいきん",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2660_00294",
+  "kind": "line",
+  "jp": "がんばってるんだって？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2660_002b4",
+  "kind": "line",
+  "jp": "……いいアーム　使えよ！　へへっ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2660_00314",
+  "kind": "line",
+  "jp": "弱いヤツが　ここになんのようだ？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2660_00340",
+  "kind": "line",
+  "jp": "アームなんて買っても",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2660_00360",
+  "kind": "line",
+  "jp": "弱いヤツには　いみがないんだよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2660_00438",
+  "kind": "line",
+  "jp": "アーマレットをはっこうするきかいだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2660_00464",
+  "kind": "line",
+  "jp": "もうもってるから　いらないや",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2660_004cc",
+  "kind": "line",
+  "jp": "キミもバトローリング大会に",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2660_004f0",
+  "kind": "line",
+  "jp": "しゅつじょうしよう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2660_0054c",
+  "kind": "line",
+  "jp": "しんがたアームはつばいちゅう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2660_005b4",
+  "kind": "line",
+  "jp": "さまざまな商品がならんでいる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2660_0061c",
+  "kind": "line",
+  "jp": "バトローリング用品が",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2660_0063c",
+  "kind": "line",
+  "jp": "たくさんならんでいる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2660_0069c",
+  "kind": "line",
+  "jp": "バトローリングのユニフォームが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2660_006c4",
+  "kind": "line",
+  "jp": "ならんでいる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2660_0071c",
+  "kind": "line",
+  "jp": "バトローリングの本が",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2660_0073c",
+  "kind": "line",
+  "jp": "ならんでいる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2660_00794",
+  "kind": "line",
+  "jp": "さまざまな商品がならんでいる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 17,
+  "notes": ""
+ },
+ {
+  "id": "e2660_007fc",
+  "kind": "line",
+  "jp": "バトローリング用品が",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 18,
+  "notes": ""
+ },
+ {
+  "id": "e2660_0081c",
+  "kind": "line",
+  "jp": "たくさんならんでいる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 18,
+  "notes": ""
+ },
+ {
+  "id": "e2660_0087c",
+  "kind": "line",
+  "jp": "バトローリングの本が",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 19,
+  "notes": ""
+ },
+ {
+  "id": "e2660_0089c",
+  "kind": "line",
+  "jp": "ならんでいる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 19,
+  "notes": ""
+ },
+ {
+  "id": "e2660_008f4",
+  "kind": "line",
+  "jp": "バトローリングのユニフォームが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 20,
+  "notes": ""
+ },
+ {
+  "id": "e2660_0091c",
+  "kind": "line",
+  "jp": "ならんでいる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 20,
+  "notes": ""
+ },
+ {
+  "id": "e2660_00974",
+  "kind": "line",
+  "jp": "バトローリングのユニフォームが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 21,
+  "notes": ""
+ },
+ {
+  "id": "e2660_0099c",
+  "kind": "line",
+  "jp": "ならんでいる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 21,
+  "notes": ""
+ }
+]

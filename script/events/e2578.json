@@ -1,0 +1,292 @@
+[
+ {
+  "id": "e2578_000a8",
+  "kind": "line",
+  "jp": "なによ？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2578_000bc",
+  "kind": "line",
+  "jp": "じごくのロードって……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2578_000e8",
+  "kind": "line",
+  "jp": "ええやないか",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2578_00100",
+  "kind": "line",
+  "jp": "なんかもえてきたで！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2578_0012c",
+  "kind": "line",
+  "jp": "これから　かくちで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2578_00148",
+  "kind": "line",
+  "jp": "バトローリングをしてもらうわ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2578_00170",
+  "kind": "line",
+  "jp": "これぞ　題して",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2578_00188",
+  "kind": "line",
+  "jp": "『スズカ・バトローリングランプリ！』",
+  "en": "",
+  "status": "new",
+  "flags": "0x0600",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2578_001c4",
+  "kind": "line",
+  "jp": "……どこかで聞いたような",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2578_001e8",
+  "kind": "line",
+  "jp": "ネーミングですね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2578_00210",
+  "kind": "line",
+  "jp": "なんか　なえてきたで……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2578_00240",
+  "kind": "line",
+  "jp": "そこ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2578_00250",
+  "kind": "line",
+  "jp": "ぐずぐず　いわない！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2578_0027c",
+  "kind": "line",
+  "jp": "名前のセンスは　アレだけど",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2578_002a0",
+  "kind": "line",
+  "jp": "面白そうじゃない♪",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2578_002c8",
+  "kind": "line",
+  "jp": "全勝すると　すごいしょうひんが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2578_002f0",
+  "kind": "line",
+  "jp": "もらえるのよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2578_00324",
+  "kind": "line",
+  "jp": "全勝しなくても",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2578_0033c",
+  "kind": "line",
+  "jp": "しょうひんがもらえるから　がんばってね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2578_00388",
+  "kind": "line",
+  "jp": "それじゃあ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2578_0039c",
+  "kind": "line",
+  "jp": "第１戦は　４人でバトローリングよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2578_003c8",
+  "kind": "line",
+  "jp": "たくさんドロップした人が勝ちだから",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2578_003f4",
+  "kind": "line",
+  "jp": "がんばってね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2578_0046c",
+  "kind": "line",
+  "jp": "あら　∴ちゃん",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2578_00484",
+  "kind": "line",
+  "jp": "まだまだ　よゆうってカンジね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2578_004ac",
+  "kind": "line",
+  "jp": "第２戦は　真丸町北の",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2578_004cc",
+  "kind": "line",
+  "jp": "『マーブルスタジアム』よ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2578_004f0",
+  "kind": "line",
+  "jp": "先に行って　まってるから",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2578_00514",
+  "kind": "line",
+  "jp": "じゅんびできたら　会場まできなさい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

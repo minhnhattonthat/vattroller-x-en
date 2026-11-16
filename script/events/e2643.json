@@ -1,0 +1,898 @@
+[
+ {
+  "id": "e2643_00110",
+  "kind": "line",
+  "jp": "はて？　どちらさまじゃったかのう……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2643_00174",
+  "kind": "line",
+  "jp": "はて？　どちらさまじゃったかのう……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2643_001a4",
+  "kind": "line",
+  "jp": "ああ　これをあつめてたんじゃったな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2643_001dc",
+  "kind": "line",
+  "jp": "Ｖメダルをもらった！！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2643_00268",
+  "kind": "line",
+  "jp": "ビーチジムは　夏はもうかるんだけど",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2643_00294",
+  "kind": "line",
+  "jp": "冬がダメなのよねぇ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2643_002b4",
+  "kind": "line",
+  "jp": "いっそのこと　スキー場に",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2643_002d8",
+  "kind": "line",
+  "jp": "スノージムでもひらいてみようかしら",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2643_00338",
+  "kind": "line",
+  "jp": "バトローリングのビーチジムは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2643_00360",
+  "kind": "line",
+  "jp": "せいこうだったみたいね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2643_00380",
+  "kind": "line",
+  "jp": "夏は　女の子たちで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2643_0039c",
+  "kind": "line",
+  "jp": "けっこうにぎわっているわよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2643_003f4",
+  "kind": "line",
+  "jp": "クニガミさんはとなりのジムにいるわよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2643_00424",
+  "kind": "line",
+  "jp": "けっこう　人気あるみたいだよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2643_0044c",
+  "kind": "line",
+  "jp": "あんたのおかげだ　ありがとうね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2643_004a8",
+  "kind": "line",
+  "jp": "え？　そんなこといってたの？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2643_004d0",
+  "kind": "line",
+  "jp": "……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2643_004f4",
+  "kind": "line",
+  "jp": "あんた　店ばんしてて！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2643_00514",
+  "kind": "line",
+  "jp": "おばさん　ちょいと　いってくる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2643_005d4",
+  "kind": "line",
+  "jp": "話は　なんとかクニガミさんから",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2643_005fc",
+  "kind": "line",
+  "jp": "聞く事ができたわ　クニガミさんは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2643_00628",
+  "kind": "line",
+  "jp": "昔　あるジムのマスターだったらしいの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2643_00658",
+  "kind": "line",
+  "jp": "はずかしがりやで口下手だったから",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2643_00684",
+  "kind": "line",
+  "jp": "自分のジムつぶしちゃったみたいなの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2643_006cc",
+  "kind": "line",
+  "jp": "あんたと　バトローリングすれば",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2643_006f4",
+  "kind": "line",
+  "jp": "楽しさを思い出して　",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2643_00714",
+  "kind": "line",
+  "jp": "じしんとりもどすと　思ったわけさ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2643_00764",
+  "kind": "line",
+  "jp": "というわけなんで……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2643_00784",
+  "kind": "line",
+  "jp": "あとは　おねがいね！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2643_007c4",
+  "kind": "line",
+  "jp": "クニガミさん　あの子がね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2643_007e8",
+  "kind": "line",
+  "jp": "どうしても　あんたにバトローリングを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2643_00818",
+  "kind": "line",
+  "jp": "習いたいって言うんだよ　",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2643_0083c",
+  "kind": "line",
+  "jp": "教えてあげておくれよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2643_00868",
+  "kind": "line",
+  "jp": "オレ……オレ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2643_008e4",
+  "kind": "line",
+  "jp": "どうだい　クニガミさん",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2643_00904",
+  "kind": "line",
+  "jp": "ひさびさ　バトローリングやった感想は",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2643_00940",
+  "kind": "line",
+  "jp": "オレ・・・ホントは　バトローリング",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2643_0096c",
+  "kind": "line",
+  "jp": "好きだ　でも　オレ　教える　ヘタだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2643_00998",
+  "kind": "line",
+  "jp": "また　メイワクかけてしまう……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2643_009c0",
+  "kind": "line",
+  "jp": "それに　店もあるし……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2643_009ec",
+  "kind": "line",
+  "jp": "な～に　いってんのよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2643_00a0c",
+  "kind": "line",
+  "jp": "あたしに　ぜんぶまかせなさい！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2643_00a88",
+  "kind": "line",
+  "jp": "魚屋のクニガミさんが　むかし",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2643_00ab0",
+  "kind": "line",
+  "jp": "マスターだったらしいけど",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2643_00ad4",
+  "kind": "line",
+  "jp": "なんだか　じしんなくして　やめちゃった",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2643_00b04",
+  "kind": "line",
+  "jp": "らしいのよね～",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2643_00b58",
+  "kind": "line",
+  "jp": "あら　あんたバトローリングやってるのね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2643_00b88",
+  "kind": "line",
+  "jp": "しかも　かなり　強いみたいだし",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2643_00bbc",
+  "kind": "line",
+  "jp": "あんたに　おねがいがあるんだけど",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2643_00be8",
+  "kind": "line",
+  "jp": "聞いてくれないかな？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2643_00c14.0",
+  "kind": "choice",
+  "jp": "はい",
+  "en": "",
+  "status": "new",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2643_00c14.1",
+  "kind": "choice",
+  "jp": "いやです",
+  "en": "",
+  "status": "new",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2643_00c50",
+  "kind": "line",
+  "jp": "ほんと？　ありがとね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2643_00c70",
+  "kind": "line",
+  "jp": "となりにビーチジムをたてたんだけど",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2643_00c9c",
+  "kind": "line",
+  "jp": "マスターがいなくってさ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2643_00cbc",
+  "kind": "line",
+  "jp": "だれか教えてくれる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2643_00cd8",
+  "kind": "line",
+  "jp": "人をさがしてきてもらいたいんだよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2643_00d04",
+  "kind": "line",
+  "jp": "じゃあ　たのんだわよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2643_00d3c",
+  "kind": "line",
+  "jp": "そうよね～あんたもいそがしいのよね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2643_00d68",
+  "kind": "line",
+  "jp": "じゃあ　気がかわったら　またきてね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2643_00dc8",
+  "kind": "line",
+  "jp": "海の家がもうからないから　となりに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2643_00df4",
+  "kind": "line",
+  "jp": "ビーチジムをひらいてみたのよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2643_00e1c",
+  "kind": "line",
+  "jp": "でも　バトローリングを教えてくれる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2643_00e48",
+  "kind": "line",
+  "jp": "マスターがいないから",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2643_00e68",
+  "kind": "line",
+  "jp": "お客が　なかなか来ないのよね～",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2643_00e90",
+  "kind": "line",
+  "jp": "こまったわ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2643_00ee4",
+  "kind": "line",
+  "jp": "マスターのおかげで　バトローリングが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2643_00f14",
+  "kind": "line",
+  "jp": "メキメキじょうたつしたんだよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2643_00f70",
+  "kind": "line",
+  "jp": "なかなかバトローリングが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2643_00f94",
+  "kind": "line",
+  "jp": "うまくならないのだよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2643_00fb4",
+  "kind": "line",
+  "jp": "マスターがいればいいのだが……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2643_0101c",
+  "kind": "line",
+  "jp": "ねぇ　しってた？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2643_01038",
+  "kind": "line",
+  "jp": "おぼえるＶスキルって　じぶんの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2643_01060",
+  "kind": "line",
+  "jp": "アーマレットによってちがうのよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2643_010c8",
+  "kind": "line",
+  "jp": "かのじょ　いつもバトローリングの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2643_010f4",
+  "kind": "line",
+  "jp": "話しかしないんだよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2643_01110",
+  "kind": "line",
+  "jp": "つまんないよ～",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2643_01190",
+  "kind": "line",
+  "jp": "もっと　修行つんで　強くなってやる！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 17,
+  "notes": ""
+ },
+ {
+  "id": "e2643_011f4",
+  "kind": "line",
+  "jp": "おれは　強いやつをもとめ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 18,
+  "notes": ""
+ },
+ {
+  "id": "e2643_01218",
+  "kind": "line",
+  "jp": "たびをしている　バトローラーだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 18,
+  "notes": ""
+ },
+ {
+  "id": "e2643_01240",
+  "kind": "line",
+  "jp": "キミもバトローラーか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 18,
+  "notes": ""
+ },
+ {
+  "id": "e2643_0126c.0",
+  "kind": "choice",
+  "jp": "はい",
+  "en": "",
+  "status": "new",
+  "script": 18,
+  "notes": ""
+ },
+ {
+  "id": "e2643_0126c.1",
+  "kind": "choice",
+  "jp": "ちがいます",
+  "en": "",
+  "status": "new",
+  "script": 18,
+  "notes": ""
+ },
+ {
+  "id": "e2643_012a8",
+  "kind": "line",
+  "jp": "そうか　ならば",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 18,
+  "notes": ""
+ },
+ {
+  "id": "e2643_012c0",
+  "kind": "line",
+  "jp": "わたしと勝負だ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 18,
+  "notes": ""
+ },
+ {
+  "id": "e2643_012e8",
+  "kind": "line",
+  "jp": "そうか　ちがうのか",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 18,
+  "notes": ""
+ },
+ {
+  "id": "e2643_01348",
+  "kind": "line",
+  "jp": "くっ……まだまだ修行が足りない",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 18,
+  "notes": ""
+ },
+ {
+  "id": "e2643_01370",
+  "kind": "line",
+  "jp": "ということなのか……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 18,
+  "notes": ""
+ },
+ {
+  "id": "e2643_013a8",
+  "kind": "line",
+  "jp": "いい戦いだったよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 18,
+  "notes": ""
+ },
+ {
+  "id": "e2643_013c4",
+  "kind": "line",
+  "jp": "でも　まだまだ　だな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 18,
+  "notes": ""
+ }
+]

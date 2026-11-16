@@ -1,0 +1,202 @@
+[
+ {
+  "id": "e2676_000d4",
+  "kind": "line",
+  "jp": "こんど　いっしょにマーブルスタジアムへ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2676_00104",
+  "kind": "line",
+  "jp": "バトローリングを見にいくのよヽ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2676_00160",
+  "kind": "line",
+  "jp": "ブツブツ　うちの人ったら",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2676_00184",
+  "kind": "line",
+  "jp": "また帰るのがおそいんだからぁ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2676_001b0",
+  "kind": "line",
+  "jp": "どーせバトローリングの試合でも",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2676_001d8",
+  "kind": "line",
+  "jp": "みて　おそくなってるのよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2676_0023c",
+  "kind": "line",
+  "jp": "おくさんと　マーブルアレーナの試合を",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2676_0026c",
+  "kind": "line",
+  "jp": "見にいくことにしたんだよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2676_00290",
+  "kind": "line",
+  "jp": "かていえんまんのひけつは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2676_002b4",
+  "kind": "line",
+  "jp": "バトローリングにありさ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2676_00334",
+  "kind": "line",
+  "jp": "テレビをつけてみた",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2676_00350",
+  "kind": "line",
+  "jp": "バトリーグのちゅうけいが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2676_00374",
+  "kind": "line",
+  "jp": "うつってる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2676_003ec",
+  "kind": "line",
+  "jp": "テレビをつけてみた",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2676_00408",
+  "kind": "line",
+  "jp": "バトリーグのちゅうけいが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2676_0042c",
+  "kind": "line",
+  "jp": "うつっている",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2676_0048c",
+  "kind": "line",
+  "jp": "バトローリングの　道具でぎっしりだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2676_004f8",
+  "kind": "line",
+  "jp": "バトローリングの本が　ぎっしりだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2676_00564",
+  "kind": "line",
+  "jp": "バトローリングの　道具でぎっしりだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2676_005d0",
+  "kind": "line",
+  "jp": "バトローリングの　道具でぎっしりだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ }
+]

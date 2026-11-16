@@ -1,0 +1,588 @@
+[
+ {
+  "id": "e2551_00044",
+  "kind": "line",
+  "jp": "ちょっと　あんた！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2551_00060",
+  "kind": "line",
+  "jp": "こんな大事なときに　どこ行くつもり？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2551_00148",
+  "kind": "line",
+  "jp": "あ　∴",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2551_00158",
+  "kind": "line",
+  "jp": "プレミアムジムの話って",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2551_00178",
+  "kind": "line",
+  "jp": "なんか聞いてない？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2551_00194",
+  "kind": "line",
+  "jp": "うわさなんだけど　きゅうに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0400",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2551_001b8",
+  "kind": "line",
+  "jp": "へいさされることになったって話で……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2551_001f4.0",
+  "kind": "choice",
+  "jp": "ライバが心配だ",
+  "en": "",
+  "status": "new",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2551_001f4.1",
+  "kind": "choice",
+  "jp": "ジムへ行ってみる",
+  "en": "",
+  "status": "new",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2551_00240",
+  "kind": "line",
+  "jp": "うん……ウェストがにげて　まともな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2551_0026c",
+  "kind": "line",
+  "jp": "ジムになって　お兄ちゃんがんばってた",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2551_0029c",
+  "kind": "line",
+  "jp": "それなのにへいさなんて……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2551_002c0",
+  "kind": "line",
+  "jp": "お兄ちゃん　どうするんだろう？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2551_002e8",
+  "kind": "line",
+  "jp": "もしかしてジムへこうぎに行ってるかも",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2551_00318",
+  "kind": "line",
+  "jp": "……あたしも行ってみる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2551_00338",
+  "kind": "line",
+  "jp": "え？　あんたも行ってくれる？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2551_00360",
+  "kind": "line",
+  "jp": "ありがと　おねがいね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2551_00380",
+  "kind": "line",
+  "jp": "うん　お兄ちゃんのこととか",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2551_003a4",
+  "kind": "line",
+  "jp": "心配だもんね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2551_003bc",
+  "kind": "line",
+  "jp": "せっかくジムもまともになって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2551_003e4",
+  "kind": "line",
+  "jp": "やる気を出してたってのに……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2551_0040c",
+  "kind": "line",
+  "jp": "あたしもいっしょに行くわ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2551_00430",
+  "kind": "line",
+  "jp": "いそごう！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2551_004d4",
+  "kind": "line",
+  "jp": "バトローリングかんけいの本が",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2551_004fc",
+  "kind": "line",
+  "jp": "ならんでいる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2551_00554",
+  "kind": "line",
+  "jp": "カギがかかっている",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2551_005b0",
+  "kind": "line",
+  "jp": "ロッカーの中が　ごちゃごちゃしてる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2551_005dc",
+  "kind": "line",
+  "jp": "だれの　ロッカーだろう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2551_00630",
+  "kind": "line",
+  "jp": "Ｖメダルをみつけた！！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2551_006ac",
+  "kind": "line",
+  "jp": "コマチのロッカーのようだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2551_006d0",
+  "kind": "line",
+  "jp": "チョコやおかしが　ぎっしりつまってる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2551_00740",
+  "kind": "line",
+  "jp": "コマチのやぼう　その１",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2551_00760",
+  "kind": "line",
+  "jp": "ＶＲ部を正式な部にする∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2551_00784",
+  "kind": "line",
+  "jp": "コマチのやぼう　その２",
+  "en": "",
+  "status": "new",
+  "flags": "0x0600",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2551_007a4",
+  "kind": "line",
+  "jp": "プレミアムジムにまけないくらいの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2551_007d0",
+  "kind": "line",
+  "jp": "せつびを買える予算をとる∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2551_007f4",
+  "kind": "line",
+  "jp": "コマチのやぼう　その３",
+  "en": "",
+  "status": "new",
+  "flags": "0x0600",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2551_00814",
+  "kind": "line",
+  "jp": "クラブフォースから　マルスを出す∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2551_00840",
+  "kind": "line",
+  "jp": "∴　がんばれ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2551_0088c",
+  "kind": "line",
+  "jp": "コマチのやぼう　その１",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2551_008ac",
+  "kind": "line",
+  "jp": "ＶＲ部を正式な部にする∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2551_008d0",
+  "kind": "line",
+  "jp": "コマチのやぼう　その２",
+  "en": "",
+  "status": "new",
+  "flags": "0x0600",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2551_008f0",
+  "kind": "line",
+  "jp": "プレミアムジムにまけないくらいの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2551_0091c",
+  "kind": "line",
+  "jp": "せつびを買える予算をとる∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2551_00974",
+  "kind": "line",
+  "jp": "コマチのやぼう　その１",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2551_00994",
+  "kind": "line",
+  "jp": "ＶＲ部を正式な部にする∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2551_009f8",
+  "kind": "line",
+  "jp": "グローブさんのところへ行くけど",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2551_00a20",
+  "kind": "line",
+  "jp": "じゅんびはいい？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2551_00a48.0",
+  "kind": "choice",
+  "jp": "じゅんびＯＫ！",
+  "en": "",
+  "status": "new",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2551_00a48.1",
+  "kind": "choice",
+  "jp": "まだです",
+  "en": "",
+  "status": "new",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2551_00aa8",
+  "kind": "line",
+  "jp": "まだ？　おそいわねぇ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2551_00ac8",
+  "kind": "line",
+  "jp": "とっととじゅんびしてきなさいよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2551_00b00",
+  "kind": "line",
+  "jp": "じゅんびができたら",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2551_00b1c",
+  "kind": "line",
+  "jp": "わたしに話してね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2551_00b80",
+  "kind": "line",
+  "jp": "おにいちゃん　だいじょぶかな……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2551_00bec",
+  "kind": "line",
+  "jp": "あいつら　ゆるせねぇな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2551_00c4c",
+  "kind": "line",
+  "jp": "ジンくんのことも　心配……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2551_00cb0",
+  "kind": "line",
+  "jp": "ちょっと　あんた！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 17,
+  "notes": ""
+ },
+ {
+  "id": "e2551_00ccc",
+  "kind": "line",
+  "jp": "こんな大事なときに　どこ行くつもり？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 17,
+  "notes": ""
+ }
+]

@@ -1,0 +1,918 @@
+[
+ {
+  "id": "e2480_000c4",
+  "kind": "line",
+  "jp": "（カレの名前は　つかはら　ジン",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_000ec",
+  "kind": "line",
+  "jp": "わたしと同じ　中学１年生",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_00110",
+  "kind": "line",
+  "jp": "今日から　うちに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_0012c",
+  "kind": "line",
+  "jp": "いそうろうすることになったの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_00154",
+  "kind": "line",
+  "jp": "いままで　剣のたつじんのおじいさんと",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_00184",
+  "kind": "line",
+  "jp": "小さな島に　住んでいたんだけど",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_001ac",
+  "kind": "line",
+  "jp": "そのおじいさんが　なくなったので",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_001d8",
+  "kind": "line",
+  "jp": "親友だった　うちのおじいちゃんが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_00204",
+  "kind": "line",
+  "jp": "ジンくんをひきとったというわけ）",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_00274",
+  "kind": "line",
+  "jp": "ねぇ　コロナちゃん",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_00290",
+  "kind": "line",
+  "jp": "バトローリングってなに？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_002d0",
+  "kind": "line",
+  "jp": "そっか　ジンくんは島で",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_002f0",
+  "kind": "line",
+  "jp": "おじいさんと２人っきりだったもんね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_0036c",
+  "kind": "line",
+  "jp": "バトローリングはねえ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_0038c",
+  "kind": "line",
+  "jp": "生体オーラで戦う新しいスポーツなんだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_003bc",
+  "kind": "line",
+  "jp": "剣は使うけど　剣のバトルだけでは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_003e8",
+  "kind": "line",
+  "jp": "おわらない面白さがあるんだよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_0042c",
+  "kind": "line",
+  "jp": "あ　ジンくん　部活もう決めちゃった？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_0045c",
+  "kind": "line",
+  "jp": "やっぱし　剣じゅつ部とか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_00480",
+  "kind": "line",
+  "jp": "ずっとおじいさんに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_0049c",
+  "kind": "line",
+  "jp": "剣じゅつをならっていたもんね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_004d0",
+  "kind": "line",
+  "jp": "うーん　でもまよってるんだよね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_00524",
+  "kind": "line",
+  "jp": "じいちゃん　死ぬ前にいってた",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_0054c",
+  "kind": "line",
+  "jp": "夢中になれるものをさがせって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_00574",
+  "kind": "line",
+  "jp": "だからなにか　夢中になれそうな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_0059c",
+  "kind": "line",
+  "jp": "部に入るつもりなんだけど",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_005dc",
+  "kind": "line",
+  "jp": "それならジンくん",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_005f8",
+  "kind": "line",
+  "jp": "バトローリング部に　はいりなよっ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_00638",
+  "kind": "line",
+  "jp": "え　だって　オレバトローリングなんて",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_00668",
+  "kind": "line",
+  "jp": "はじめて聞いたし…",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_00690",
+  "kind": "line",
+  "jp": "だいじょうぶ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_006a8",
+  "kind": "line",
+  "jp": "ルールはこれからせつめいしてあげる∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_006e4",
+  "kind": "line",
+  "jp": "きほんルールは　ダメージをあたえて　",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_00714",
+  "kind": "line",
+  "jp": "球（ロール）にして落とすんだよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_0073c",
+  "kind": "line",
+  "jp": "人タイプでは　剣などのアームを使って",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_0076c",
+  "kind": "line",
+  "jp": "球タイプは　オーラをまとって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_00794",
+  "kind": "line",
+  "jp": "さまざまなバトルをすることから",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_007bc",
+  "kind": "line",
+  "jp": "『バトローリング』ってよばれてるの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_007e8",
+  "kind": "line",
+  "jp": "剣で相手を　こうげきして",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_0080c",
+  "kind": "line",
+  "jp": "ロールになった相手を　落とすことを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_00838",
+  "kind": "line",
+  "jp": "『ドロップ』と言うから　おぼえてね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_00864",
+  "kind": "line",
+  "jp": "どう？　大体どんな感じか　わかった？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_008a8",
+  "kind": "line",
+  "jp": "う　むむむむ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_008d4",
+  "kind": "line",
+  "jp": "そうだ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_008e8",
+  "kind": "line",
+  "jp": "バトローリング　シミュレーションで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_00914",
+  "kind": "line",
+  "jp": "どんな感じか　たいけんしてみようよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_009ac",
+  "kind": "line",
+  "jp": "そうさほうほうは　わかるかな？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_009e0.0",
+  "kind": "choice",
+  "jp": "わからないから　教えて",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_009e0.1",
+  "kind": "choice",
+  "jp": "もちろん∇　知ってるよ∇",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_00a3c",
+  "kind": "line",
+  "jp": "そうさほうほうは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_00a58",
+  "kind": "line",
+  "jp": "Ａボタンで　剣をふることができて",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_00a84",
+  "kind": "line",
+  "jp": "Ｒボタンで　バウンダーとよばれる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_00ab0",
+  "kind": "line",
+  "jp": "たてのような　アームをだせるのよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_00adc",
+  "kind": "line",
+  "jp": "剣で　相手をこうげきして",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_00b00",
+  "kind": "line",
+  "jp": "ロールになった相手を　バウンダーで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_00b2c",
+  "kind": "line",
+  "jp": "ドロップしてみましょう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_00c4c",
+  "kind": "line",
+  "jp": "どぉ？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_00c68",
+  "kind": "line",
+  "jp": "うむむむむ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_00c88",
+  "kind": "line",
+  "jp": "バトルしてるときの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_00ca4",
+  "kind": "line",
+  "jp": "ひょうじは　わかるかな？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_00cd4.0",
+  "kind": "choice",
+  "jp": "よくわからないから　教えて",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_00cd4.1",
+  "kind": "choice",
+  "jp": "もちろん∇　知ってるよ∇",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_00d8c",
+  "kind": "line",
+  "jp": "一番左上の数字が　バトル時間を",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_00de0",
+  "kind": "line",
+  "jp": "その下が順位を表してるの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_00e6c",
+  "kind": "line",
+  "jp": "右の一番上が　オーラ（ＡＰ）ゲージ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_00e98",
+  "kind": "line",
+  "jp": "といって　オーラのりょうがみれるのよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_00ee4",
+  "kind": "line",
+  "jp": "オーラはアームを使うとへるけど",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_00f0c",
+  "kind": "line",
+  "jp": "何もしなければ　かいふくするのよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_00f88",
+  "kind": "line",
+  "jp": "右下は　体力（ＨＰ）ゲージなの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_00fb0",
+  "kind": "line",
+  "jp": "体力がなくなると",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_00fcc",
+  "kind": "line",
+  "jp": "『ヒールロール』になってしまうの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_00ff8",
+  "kind": "line",
+  "jp": "ヒールロールになると",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_01018",
+  "kind": "line",
+  "jp": "体力をかいふくするけど",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_01038",
+  "kind": "line",
+  "jp": "ドロップされてしまう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_01058",
+  "kind": "line",
+  "jp": "きけんもあるから　注意してね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_010a8",
+  "kind": "line",
+  "jp": "ヒールロールになる時間は",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_010cc",
+  "kind": "line",
+  "jp": "一番下にひょうじされてる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_010f0",
+  "kind": "line",
+  "jp": "かいふくゲージで　あらわされてるの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_0111c",
+  "kind": "line",
+  "jp": "かいふくすると　人がたにもどり",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_01144",
+  "kind": "line",
+  "jp": "またバトルを　することができるんだよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_01188",
+  "kind": "line",
+  "jp": "もう一度　シミュレーションバトルで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_011b4",
+  "kind": "line",
+  "jp": "オーラや体力を見ながら",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_011d4",
+  "kind": "line",
+  "jp": "バトローリングをやってみよう∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_012f0",
+  "kind": "line",
+  "jp": "…こ　これが　",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_01308",
+  "kind": "line",
+  "jp": "バトローリング…",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_01330",
+  "kind": "line",
+  "jp": "どぉ？　面白そうでしょ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_0135c",
+  "kind": "line",
+  "jp": "ま……まだ　",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_01374",
+  "kind": "line",
+  "jp": "こんなんじゃ　わかんないよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_013a4",
+  "kind": "line",
+  "jp": "つまり　やってみたいということだね♪",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_013e0",
+  "kind": "line",
+  "jp": "え≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_013fc",
+  "kind": "line",
+  "jp": "それじゃ　バトローラーの　ひっすアイテム",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2480_01430",
+  "kind": "line",
+  "jp": "『アーマレット』を　作りにいこうー",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

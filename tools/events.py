@@ -25,6 +25,8 @@ from archive import Archive  # noqa: E402
 FIRST, LAST = 2475, 2711
 HDR = 0x24
 OP_TEXT, OP_IF, OP_END = 0x00, 0x06, 0x0C
+OP_CHOICE, OP_TITLE = 0x01, 0x13
+FIELD_OPS = (OP_CHOICE, OP_TITLE)
 
 
 def u16(b, o):
@@ -74,12 +76,47 @@ class Node:
         body = raw + b"\0"
         self.data = bytearray(head + body + b"\0" * (text_size(len(raw)) - 8 - len(body)))
 
+    # op 0x01 choice / op 0x13 chapter title: u16 op, u16 NEXT, u16 off2, u16 off3, then NUL-terminated SJIS
+    # fields, each padded to 4. Field 1 is at +8, field 2 at off2; op 0x13 always has a third (empty) field at
+    # off3, op 0x01 has off3 = 0 (no third field). The command ends after the last field's padding.
+    def field_offsets(self):
+        assert self.op in FIELD_OPS
+        offs = [8, u16(self.data, 4)]
+        if u16(self.data, 6):
+            offs.append(u16(self.data, 6))
+        return offs
+
+    @property
+    def fields(self):
+        return [bytes(self.data[o:self.data.index(0, o)]) for o in self.field_offsets()]
+
+    def layout_fields(self, raws):
+        """The command rebuilt with these field bytes (same count as fields)."""
+        raws = list(raws)
+        assert len(raws) == len(self.field_offsets())
+        out = bytearray(self.data[:8])
+        offs = []
+        for r in raws:
+            offs.append(len(out))
+            out += r + b"\0" * (4 - len(r) % 4)
+        struct.pack_into("<HH", out, 4, offs[1], offs[2] if len(offs) == 3 else 0)
+        return out
+
+    def set_fields(self, raws):
+        if list(raws) != self.fields:
+            self.data = self.layout_fields(raws)
+
 
 @dataclass
 class Script:
     header: bytearray
     nodes: list
     links: list = field(default_factory=list)  # (node index, field offset, target node index or len(nodes) = end)
+    pos: int = 0     # offset of the script in the original file (ids for extracted text)
+
+    def node_pos(self, n):
+        """Offset of a node in the original file."""
+        return self.pos + len(self.header) + n.off
 
     def build(self):
         pos, o = [], len(self.header)
@@ -124,7 +161,7 @@ def parse_script(b, s):
         q = starts[k + 1] if k + 1 < len(starts) else e
         nodes.append(Node(p - start, bytearray(b[p:q])))
         links += [(k, f, index[p + u16(b, p + f)]) for f in link_fields(b[p:p + 0xC])]
-    return Script(bytearray(b[s:start]), nodes, links), e
+    return Script(bytearray(b[s:start]), nodes, links, s), e
 
 
 @dataclass

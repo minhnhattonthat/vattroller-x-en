@@ -1,0 +1,458 @@
+[
+ {
+  "id": "e2526_00094",
+  "kind": "line",
+  "jp": "お兄ちゃんは　いつもああ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2526_000b8",
+  "kind": "line",
+  "jp": "えっらそーにして　ムカツクのよねー！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2526_000f4",
+  "kind": "line",
+  "jp": "∴　あのわからずやに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2526_00114",
+  "kind": "line",
+  "jp": "思い知らせてやっちゃって！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2526_00164",
+  "kind": "line",
+  "jp": "まだちゃんと使えない？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2526_00184",
+  "kind": "line",
+  "jp": "そんなの戦いの中でモノにするのよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2526_001c4",
+  "kind": "line",
+  "jp": "じゃ　とにかくがんばって！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2526_001e8",
+  "kind": "line",
+  "jp": "ぜったい負けちゃダメだからね！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2526_00244",
+  "kind": "line",
+  "jp": "∴　まってください",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2526_0027c",
+  "kind": "line",
+  "jp": "ライバは　かなりの強敵です",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2526_002a0",
+  "kind": "line",
+  "jp": "ぼくが　戦いを有利に運べる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2526_002c4",
+  "kind": "line",
+  "jp": "テクニックを　教えましょうか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2526_002f8.0",
+  "kind": "choice",
+  "jp": "はい",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2526_002f8.1",
+  "kind": "choice",
+  "jp": "いらないです",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2526_00338",
+  "kind": "line",
+  "jp": "ツールって　知ってますか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2526_0035c",
+  "kind": "line",
+  "jp": "ＨＰをかいふくしてくれたりする",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2526_00384",
+  "kind": "line",
+  "jp": "おたすけ用のそうびなんです",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2526_003a8",
+  "kind": "line",
+  "jp": "しゅるいは　いろいろあるので",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2526_003d0",
+  "kind": "line",
+  "jp": "とてもべんりですよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2526_003ec",
+  "kind": "line",
+  "jp": "セットしたら　ＨＰのゲージのとなりに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2526_0041c",
+  "kind": "line",
+  "jp": "つかえる回数が　ひょうじされますよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2526_00448",
+  "kind": "line",
+  "jp": "せつめいは　このくらいにして",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2526_00470",
+  "kind": "line",
+  "jp": "この『キュアメイト』をあげますので",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2526_0049c",
+  "kind": "line",
+  "jp": "つかってみてくださいね！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2526_004f4.0",
+  "kind": "choice",
+  "jp": "アームセットしゅうりょう",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2526_004f4.1",
+  "kind": "choice",
+  "jp": "アームセットをつづける",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2526_00560",
+  "kind": "line",
+  "jp": "そうですか",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2526_00574",
+  "kind": "line",
+  "jp": "では　がんばってくださいね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2526_005d4",
+  "kind": "line",
+  "jp": "強いヤツに勝つことこそ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2526_005f4",
+  "kind": "line",
+  "jp": "バトローリングの楽しさ　面白さだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2526_00634",
+  "kind": "line",
+  "jp": "さあ　おまえはオレを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2526_00654",
+  "kind": "line",
+  "jp": "満足させてくれるかな？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2526_006f4",
+  "kind": "line",
+  "jp": "ハハハ　初心者だとゆだんしたが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2526_0071c",
+  "kind": "line",
+  "jp": "思ったよりもやるなぁ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2526_00750",
+  "kind": "line",
+  "jp": "やはりおまえは　ジムに来るべきだな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2526_0077c",
+  "kind": "line",
+  "jp": "こんなところではなく",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2526_0079c",
+  "kind": "line",
+  "jp": "もっと強くなりたいだろう？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2526_007e4",
+  "kind": "line",
+  "jp": "∴は行かないわよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2526_00800",
+  "kind": "line",
+  "jp": "ここで楽しくバトローリングするの！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2526_00838",
+  "kind": "line",
+  "jp": "人数もそろってないような部で",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2526_00860",
+  "kind": "line",
+  "jp": "コイツを満足させてやれるのか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2526_00894",
+  "kind": "line",
+  "jp": "…………っ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2526_008b8",
+  "kind": "line",
+  "jp": "まあいい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2526_008cc",
+  "kind": "line",
+  "jp": "決めるのはコイツ自身だしな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2526_008fc",
+  "kind": "line",
+  "jp": "∴といったか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2526_00914",
+  "kind": "line",
+  "jp": "その気になったらいつでもジムに来い！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

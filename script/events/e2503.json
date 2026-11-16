@@ -1,0 +1,600 @@
+[
+ {
+  "id": "e2503_000d8",
+  "kind": "line",
+  "jp": "マスター∇　どうしてここに≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2503_0010c",
+  "kind": "line",
+  "jp": "よくやったな　ジン　",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2503_0012c",
+  "kind": "line",
+  "jp": "マーブルアレーナ優勝　",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2503_0014c",
+  "kind": "line",
+  "jp": "まずはほめておこう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2503_00168",
+  "kind": "line",
+  "jp": "しかし　これでおわったわけではない",
+  "en": "",
+  "status": "new",
+  "flags": "0x0400",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2503_00194",
+  "kind": "line",
+  "jp": "いや　これは最初の一歩にすぎない",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2503_001c0",
+  "kind": "line",
+  "jp": "マルスへとつづく　遠くけわしい道の",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2503_001ec",
+  "kind": "line",
+  "jp": "最初の一歩にな……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2503_00214",
+  "kind": "line",
+  "jp": "マルス……∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2503_00238",
+  "kind": "line",
+  "jp": "そうだ　ジン∇　バトルをつづける",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2503_00264",
+  "kind": "line",
+  "jp": "その先には　マルスがある",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2503_00288",
+  "kind": "line",
+  "jp": "さあ来い∇　手かげんはなしだ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0600",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2503_002b0",
+  "kind": "line",
+  "jp": "オレとの戦いで　少しでも",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2503_002d4",
+  "kind": "line",
+  "jp": "マルスの高みを感じとってみろ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2503_00338",
+  "kind": "line",
+  "jp": "はぁ……はぁ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2503_00354",
+  "kind": "line",
+  "jp": "こ　これがマルスになるレベルでの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2503_00380",
+  "kind": "line",
+  "jp": "バトルなのか……∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2503_003a8",
+  "kind": "line",
+  "jp": "そうだ　マルスの地位をめぐって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2503_003d0",
+  "kind": "line",
+  "jp": "戦うバトリーグ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2503_003ec",
+  "kind": "line",
+  "jp": "バトローリングの公式リーグでは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2503_00414",
+  "kind": "line",
+  "jp": "つねに　こんなバトルが行われている",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2503_00440",
+  "kind": "line",
+  "jp": "マルスになるには　そのバトリーグに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2503_0046c",
+  "kind": "line",
+  "jp": "さんかし　勝ちのこらなければならん∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2503_0049c",
+  "kind": "line",
+  "jp": "……おじけづいたか　ジン？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0600",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2503_004cc",
+  "kind": "line",
+  "jp": "ドキドキした……ちょっとのミスも",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2503_004f8",
+  "kind": "line",
+  "jp": "ゆるされない　ギリギリのバトル……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2503_00524",
+  "kind": "line",
+  "jp": "でも……すごく面白かった∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2503_00548",
+  "kind": "line",
+  "jp": "マルスってこんなバトルができるんだ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2503_00578",
+  "kind": "line",
+  "jp": "マスター∇　オレ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2503_00598",
+  "kind": "line",
+  "jp": "オレ　ぜったいマルスになる∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2503_005cc",
+  "kind": "line",
+  "jp": "おーっと∇　ジンくん",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2503_005ec",
+  "kind": "line",
+  "jp": "マルスせんげんだっ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2503_00678",
+  "kind": "line",
+  "jp": "ちょーしにのるんじゃねぇ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2503_0069c",
+  "kind": "line",
+  "jp": "なにがマルスだっ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2503_006b8",
+  "kind": "line",
+  "jp": "てめーなんかになれるもんか∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2503_006e0",
+  "kind": "line",
+  "jp": "マルスになるのは　このオレだ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2503_0076c",
+  "kind": "line",
+  "jp": "マルスはバトローラーの最高位……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2503_00798",
+  "kind": "line",
+  "jp": "オレももくひょうとするところだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2503_007c0",
+  "kind": "line",
+  "jp": "キミの強さはみとめるが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2503_007e0",
+  "kind": "line",
+  "jp": "かんたんになれると思ってはこまるな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2503_00818",
+  "kind": "line",
+  "jp": "オイラがいずれマルスになるのは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2503_00840",
+  "kind": "line",
+  "jp": "予定ずみです",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2503_00858",
+  "kind": "line",
+  "jp": "ジンくんなんかに先をこされるわけには",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2503_00888",
+  "kind": "line",
+  "jp": "いかないです∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2503_008ac",
+  "kind": "line",
+  "jp": "みんな……言ってくれるじゃねぇか∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2503_008d8",
+  "kind": "line",
+  "jp": "よーし∇　じゃあみんなで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2503_008fc",
+  "kind": "line",
+  "jp": "マルスめざして　またバトルしよう∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2503_00928",
+  "kind": "line",
+  "jp": "今度は……バトリーグで会おうぜ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0600",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2503_00980",
+  "kind": "line",
+  "jp": "きっとマルスになれるよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2503_009a0",
+  "kind": "line",
+  "jp": "ジンくんも　みんなも……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2503_009c4",
+  "kind": "line",
+  "jp": "だって　あんなにバトローリングを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2503_009f0",
+  "kind": "line",
+  "jp": "楽しんでいるんだもんね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2503_00a24",
+  "kind": "line",
+  "jp": "ピィィ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2503_00a44",
+  "kind": "line",
+  "jp": "がんばれ　ジンくん∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2503_00a64",
+  "kind": "line",
+  "jp": "がんばれ　みんな∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2503_00aac",
+  "kind": "line",
+  "jp": "レッツ　エンジョイ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2503_00ac8",
+  "kind": "line",
+  "jp": "バトローリング∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2503_00ae8.0",
+  "kind": "title",
+  "jp": "バトローラージン",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2503_00ae8.1",
+  "kind": "title",
+  "jp": "アレーナ編　終",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2503_00b34",
+  "kind": "line",
+  "jp": "記録が　しゅうりょうしました",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

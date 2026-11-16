@@ -1,0 +1,122 @@
+[
+ {
+  "id": "e2556_000bc",
+  "kind": "line",
+  "jp": "……なるほど　話は分かった　わしも",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2556_000e8",
+  "kind": "line",
+  "jp": "あやつはあやしいと思っとったんじゃ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2556_00114",
+  "kind": "line",
+  "jp": "しかし……今すぐどうこうは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2556_00138",
+  "kind": "line",
+  "jp": "できんの……ムニャ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2556_00160",
+  "kind": "line",
+  "jp": "なんでだよ≡　あんな悪いヤツなのに∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2556_0019c",
+  "kind": "line",
+  "jp": "いほうアームを使ってるしょうこがない",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2556_001cc",
+  "kind": "line",
+  "jp": "それさえあれば　あいつを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2556_001f0",
+  "kind": "line",
+  "jp": "とっちめてやれるんじゃがのう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2556_00218",
+  "kind": "line",
+  "jp": "とにかく　わしの方でちょうさしてみる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2556_00248",
+  "kind": "line",
+  "jp": "おぬしらはそのけっかをまってくれ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2556_00280",
+  "kind": "line",
+  "jp": "はい　そうするしかないですね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2556_00348",
+  "kind": "line",
+  "jp": "…………",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

@@ -1,0 +1,362 @@
+[
+ {
+  "id": "e2481_00094",
+  "kind": "line",
+  "jp": "アーマレットは　オーラをぞうふくして",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2481_000c4",
+  "kind": "line",
+  "jp": "見えるようにするアイテムなんだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2481_000ec",
+  "kind": "line",
+  "jp": "生体じょうほうがスキャンされて",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2481_00114",
+  "kind": "line",
+  "jp": "その人にあったものが発行されるんだよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2481_00180",
+  "kind": "line",
+  "jp": "へぇー　オレのは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2481_0019c",
+  "kind": "line",
+  "jp": "どんなのになるのかな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2481_00230",
+  "kind": "line",
+  "jp": "これがオレのアーマレット……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2481_00258",
+  "kind": "line",
+  "jp": "このもようは……鳥？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2481_00290",
+  "kind": "line",
+  "jp": "えーっ　わたし　こんなタイプの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2481_002b8",
+  "kind": "line",
+  "jp": "見たことないよー？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2481_002d4",
+  "kind": "line",
+  "jp": "おかしいなぁ　わたしけっこう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2481_002fc",
+  "kind": "line",
+  "jp": "くわしいつもりだったのに……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2481_003c8",
+  "kind": "line",
+  "jp": "なんだかこいつ　じいちゃんにもらった",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2481_003f8",
+  "kind": "line",
+  "jp": "ペンダントに　にてんなー",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2481_00428",
+  "kind": "line",
+  "jp": "ほんとだ　ペンダントごと",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2481_0044c",
+  "kind": "line",
+  "jp": "スキャンされちゃったのかもね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2481_00498",
+  "kind": "line",
+  "jp": "あはは　でもオレ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2481_004b4",
+  "kind": "line",
+  "jp": "こいつ気に入ったよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2481_004d0",
+  "kind": "line",
+  "jp": "ちょっと弱そうだけどねー",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2481_00508",
+  "kind": "line",
+  "jp": "だいじょうぶだよ　夢中になるのに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2481_00534",
+  "kind": "line",
+  "jp": "強いとか弱いとかって　かんけいないよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2481_00580",
+  "kind": "line",
+  "jp": "え≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2481_005cc",
+  "kind": "line",
+  "jp": "うちの部も　けっして強くはないけど",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2481_005f8",
+  "kind": "line",
+  "jp": "みんな　夢中になって楽しんでるよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2481_00640",
+  "kind": "line",
+  "jp": "へー",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2481_00650",
+  "kind": "line",
+  "jp": "コロナちゃんは　何に夢中なの？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2481_00684",
+  "kind": "line",
+  "jp": "わたしは　ただ夢中になってる人を",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2481_006b0",
+  "kind": "line",
+  "jp": "応援したいだけ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2481_006d4",
+  "kind": "line",
+  "jp": "コロナちゃんは　応援に夢中なんだね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2481_00714",
+  "kind": "line",
+  "jp": "そうだ　明日　バトローリング部の",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2481_00740",
+  "kind": "line",
+  "jp": "試合があるけど",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2481_00758",
+  "kind": "line",
+  "jp": "ジンくんも　見に来ない？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2481_00790",
+  "kind": "line",
+  "jp": "バトローリングの事良くわかると思うよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2481_007cc",
+  "kind": "line",
+  "jp": "うん∇　行くよ　コロナちゃん",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2481_00804",
+  "kind": "line",
+  "jp": "なぁ　ムチャピー",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2481_00834",
+  "kind": "line",
+  "jp": "ピィ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

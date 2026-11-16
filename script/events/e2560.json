@@ -1,0 +1,442 @@
+[
+ {
+  "id": "e2560_000ec",
+  "kind": "line",
+  "jp": "なかなか見つからないわねぇ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2560_00120",
+  "kind": "line",
+  "jp": "ほんっと　どこにあるんだろうなぁ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2560_0014c",
+  "kind": "line",
+  "jp": "やっぱりトウドウっておっさんを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2560_00174",
+  "kind": "line",
+  "jp": "やっつけた方が早いんじゃないか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2560_001ac",
+  "kind": "line",
+  "jp": "ピィ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2560_001d8",
+  "kind": "line",
+  "jp": "ん？　何だよ　ムチャピー",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2560_001fc",
+  "kind": "line",
+  "jp": "そこのハコがどうかしたか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2560_0023c",
+  "kind": "line",
+  "jp": "もしかして　そのハコが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2560_0025c",
+  "kind": "line",
+  "jp": "あやしいって言ってるんじゃ？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2560_002b0",
+  "kind": "line",
+  "jp": "そう言われると……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2560_002cc",
+  "kind": "line",
+  "jp": "よし！　開けてみよう∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2560_002ec",
+  "kind": "line",
+  "jp": "う～～～～～～ん∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0600",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2560_00308",
+  "kind": "line",
+  "jp": "開かないなぁ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0400",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2560_00330",
+  "kind": "line",
+  "jp": "∴もてつだってくれよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2560_00380",
+  "kind": "line",
+  "jp": "よし　行くぞ∇　せーの∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2560_003b0",
+  "kind": "line",
+  "jp": "やった∇　開いたぞ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2560_00418",
+  "kind": "line",
+  "jp": "ねぇ　中にあったこれってアームだよね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2560_00448",
+  "kind": "line",
+  "jp": "……もしかして　いほうアーム？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2560_0047c",
+  "kind": "line",
+  "jp": "こんなとこにかくしてあったし",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2560_004a4",
+  "kind": "line",
+  "jp": "まちがいないさ∇　やったぁ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2560_004d8",
+  "kind": "line",
+  "jp": "ビー　ビー　ビー",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2560_0059c",
+  "kind": "line",
+  "jp": "うわっ∇　な　なんだこりゃ≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2560_005d0",
+  "kind": "line",
+  "jp": "けいほう≡　なんかヤバそう∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2560_005f8",
+  "kind": "line",
+  "jp": "にげなきゃ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2560_00794",
+  "kind": "line",
+  "jp": "はぁ　はぁ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2560_007ac",
+  "kind": "line",
+  "jp": "早く出口まで行かないと……！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2560_007fc",
+  "kind": "line",
+  "jp": "あれ≡　コロナちゃんがいない∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2560_00824",
+  "kind": "line",
+  "jp": "オレ　ちょっとさがしてくる∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2560_0092c",
+  "kind": "line",
+  "jp": "おやおや　とんだお客が",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2560_0094c",
+  "kind": "line",
+  "jp": "来たものですな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2560_00964",
+  "kind": "line",
+  "jp": "とくに　∴……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2560_0097c",
+  "kind": "line",
+  "jp": "バトリーグのトップランカーが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2560_009a4",
+  "kind": "line",
+  "jp": "どろぼうのまねごととはね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2560_009d4",
+  "kind": "line",
+  "jp": "なに言ってんのよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2560_009f0",
+  "kind": "line",
+  "jp": "そっちこそ悪者のくせに！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2560_00a14",
+  "kind": "line",
+  "jp": "いほうアームの動かぬしょうこは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2560_00a3c",
+  "kind": "line",
+  "jp": "つかんだわよ！　かんねんしなさい！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2560_00a74",
+  "kind": "line",
+  "jp": "フン　とられたものは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2560_00a94",
+  "kind": "line",
+  "jp": "とりかえせばいいだけのこと……やれ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2560_00af4",
+  "kind": "line",
+  "jp": "ますます悪者してるわね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2560_00b14",
+  "kind": "line",
+  "jp": "でも　せいぎは勝つのよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2560_00b38",
+  "kind": "line",
+  "jp": "∴！　いっしょにこいつらを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2560_00b5c",
+  "kind": "line",
+  "jp": "やっつけるわよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2560_00bcc",
+  "kind": "line",
+  "jp": "くっそ～！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

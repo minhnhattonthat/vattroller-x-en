@@ -1,0 +1,412 @@
+[
+ {
+  "id": "e2622_00200",
+  "kind": "line",
+  "jp": "ここの通路から　Ｖセンターに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2622_00228",
+  "kind": "line",
+  "jp": "いくことができるぞい！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2622_00288",
+  "kind": "line",
+  "jp": "ウチのキヨシちゃんには",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2622_002a8",
+  "kind": "line",
+  "jp": "さいこうのものが　ふさわしいザマス！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2622_002d8",
+  "kind": "line",
+  "jp": "ですから　ダイヤモンドでできた",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2622_00300",
+  "kind": "line",
+  "jp": "アームを作らせたザマス！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2622_00358",
+  "kind": "line",
+  "jp": "ウチのキヨシちゃんには",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2622_00378",
+  "kind": "line",
+  "jp": "さいこうのものが　ふさわしいザマス！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2622_003a8",
+  "kind": "line",
+  "jp": "ですから　金でできた",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2622_003c8",
+  "kind": "line",
+  "jp": "アームを作らせたザマス！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2622_00420",
+  "kind": "line",
+  "jp": "ウチのキヨシちゃんには",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2622_00440",
+  "kind": "line",
+  "jp": "さいこうのものが　ふさわしいザマス！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2622_00470",
+  "kind": "line",
+  "jp": "ですから　銀でできた",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2622_00490",
+  "kind": "line",
+  "jp": "アームを作らせたザマス！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2622_004f4",
+  "kind": "line",
+  "jp": "おかあさまぁ～　ダイヤのアーム",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2622_0051c",
+  "kind": "line",
+  "jp": "重すぎて使いづらい～",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2622_00570",
+  "kind": "line",
+  "jp": "おかあさまぁ～　金のアーム",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2622_00594",
+  "kind": "line",
+  "jp": "まぶしすぎて使いづらい～",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2622_005ec",
+  "kind": "line",
+  "jp": "おかあさまぁ～　銀のアーム",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2622_00610",
+  "kind": "line",
+  "jp": "すぐキズがつく～",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2622_0066c",
+  "kind": "line",
+  "jp": "もうすぐバトレンジャーのサイン会が",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2622_00698",
+  "kind": "line",
+  "jp": "はじまりますね　ワクワク",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2622_006bc",
+  "kind": "line",
+  "jp": "ああ　あこがれのバトレンピンクに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2622_006e8",
+  "kind": "line",
+  "jp": "あえるなんて　ぼくはしあわせです……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2622_0074c",
+  "kind": "line",
+  "jp": "きょうは　デパートのおくじょうで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2622_00778",
+  "kind": "line",
+  "jp": "バトレンジャーのサイン会があるんです",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2622_007a8",
+  "kind": "line",
+  "jp": "えっ≡　バトレンジャーを　",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2622_007cc",
+  "kind": "line",
+  "jp": "知らないんですか≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2622_007e8",
+  "kind": "line",
+  "jp": "バトレンジャーというのは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2622_0080c",
+  "kind": "line",
+  "jp": "バトローリングで世界をまもる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2622_00834",
+  "kind": "line",
+  "jp": "愛のスーパーチームをえがいた",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2622_0085c",
+  "kind": "line",
+  "jp": "とくさつドラマのことですよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2622_008d0",
+  "kind": "line",
+  "jp": "ここのうりばは　ふだんかえない",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2622_008f8",
+  "kind": "line",
+  "jp": "アームやツールがかえちゃう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2622_0091c",
+  "kind": "line",
+  "jp": "ほりだしものがうっているんだよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2622_00944",
+  "kind": "line",
+  "jp": "パスワードがひつようらしいぞ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2622_009ac",
+  "kind": "line",
+  "jp": "バトローリングかんけいの本が",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2622_009d4",
+  "kind": "line",
+  "jp": "ならんでいる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2622_00a2c",
+  "kind": "line",
+  "jp": "バトレンジャーのひみつだい３かん",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 17,
+  "notes": ""
+ },
+ {
+  "id": "e2622_00a98",
+  "kind": "line",
+  "jp": "Ｖドリンクのじはんきだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 18,
+  "notes": ""
+ },
+ {
+  "id": "e2622_00af8",
+  "kind": "line",
+  "jp": "Ｖドリンクのじはんきだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 19,
+  "notes": ""
+ }
+]

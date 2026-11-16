@@ -1,0 +1,310 @@
+[
+ {
+  "id": "e2696_000d4",
+  "kind": "line",
+  "jp": "わたしみたいな　こうきなにんげんには",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2696_00104",
+  "kind": "line",
+  "jp": "音楽室がにあうものさ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2696_00128",
+  "kind": "line",
+  "jp": "フッフッフ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2696_00140",
+  "kind": "line",
+  "jp": "おっと　∴じゃないか……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2696_00164",
+  "kind": "line",
+  "jp": "この　ちがいがわかる男　ホクトに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2696_00190",
+  "kind": "line",
+  "jp": "なんのようだい？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2696_001b8.0",
+  "kind": "choice",
+  "jp": "なんでもない",
+  "en": "",
+  "status": "new",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2696_001b8.1",
+  "kind": "choice",
+  "jp": "バトルしよう",
+  "en": "",
+  "status": "new",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2696_00200",
+  "kind": "line",
+  "jp": "おおかた　わたしがみりょくてきだから",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2696_00230",
+  "kind": "line",
+  "jp": "つい　こえかけたんだろう　フッ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2696_00268",
+  "kind": "line",
+  "jp": "うつくしいとは　なんとつみなんだ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2696_002ac",
+  "kind": "line",
+  "jp": "なっ　なんだ……≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2696_002c8",
+  "kind": "line",
+  "jp": "わたしはべつにわるいことは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2696_002ec",
+  "kind": "line",
+  "jp": "してないぞ……ん？　なに？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2696_00310",
+  "kind": "line",
+  "jp": "練習試合？　フッ　はやくいいたまえ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2696_0033c",
+  "kind": "line",
+  "jp": "このわたしが　手合わせしてあげよう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2696_003a4",
+  "kind": "line",
+  "jp": "なかなかやるな……しかし……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2696_003cc",
+  "kind": "line",
+  "jp": "わたしのみりょくの敵ではない！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2696_003f4",
+  "kind": "line",
+  "jp": "フッフッフッフ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2696_00440",
+  "kind": "line",
+  "jp": "アーマレットはいろんなしゅるいが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2696_0046c",
+  "kind": "line",
+  "jp": "あるんだぞ　しってるか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2696_004d0",
+  "kind": "line",
+  "jp": "バトローリングを歌にしたいんだけど",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2696_004fc",
+  "kind": "line",
+  "jp": "どうも　ゴロゴロの感じがつかめないや",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2696_0052c",
+  "kind": "line",
+  "jp": "キミ　ちょっとそこでゴロゴロ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2696_00554",
+  "kind": "line",
+  "jp": "してみてよ　ね　おねがいだからさ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2696_005b4",
+  "kind": "line",
+  "jp": "ボク　バトローリングのこうふんを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2696_005e0",
+  "kind": "line",
+  "jp": "歌でひょうげんしようと思ってるんだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2696_0064c",
+  "kind": "line",
+  "jp": "さっきょくかの絵がかざってある",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2696_00674",
+  "kind": "line",
+  "jp": "よくみるとじぶんの顔だった",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2696_006d8",
+  "kind": "line",
+  "jp": "さっきょくかの絵がかざってある",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2696_00700",
+  "kind": "line",
+  "jp": "よるになるとわらうらしい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ }
+]

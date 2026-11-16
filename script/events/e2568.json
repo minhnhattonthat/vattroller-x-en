@@ -1,0 +1,292 @@
+[
+ {
+  "id": "e2568_000e4",
+  "kind": "line",
+  "jp": "きょ　今日は",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2568_000fc",
+  "kind": "line",
+  "jp": "カニ座のいちが悪かった",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2568_0011c",
+  "kind": "line",
+  "jp": "これでは　わたしの本当の力が",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2568_00144",
+  "kind": "line",
+  "jp": "はっきできなくてとうぜんだな……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2568_0017c",
+  "kind": "line",
+  "jp": "ま　まあ遊びはこれぐらいにして",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2568_001a4",
+  "kind": "line",
+  "jp": "今日はしつれいしますわよ　ホホホ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2568_00238",
+  "kind": "line",
+  "jp": "クラブフォースへ　ようこそ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2568_0025c",
+  "kind": "line",
+  "jp": "かんげいするよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2568_00288",
+  "kind": "line",
+  "jp": "このツールを拾ったから",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2568_002a8",
+  "kind": "line",
+  "jp": "やってみようと　思ったんだけど",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2568_002d0",
+  "kind": "line",
+  "jp": "なんか　そうぞうしたより",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2568_002f4",
+  "kind": "line",
+  "jp": "たいへんみたいだから　やめとくよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2568_0032c",
+  "kind": "line",
+  "jp": "これいらないから　キミにあげる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2568_003e8",
+  "kind": "line",
+  "jp": "やれやれ　クラブのはってんは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2568_00410",
+  "kind": "line",
+  "jp": "なかなかむずかしいようですね……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2568_00448",
+  "kind": "line",
+  "jp": "ホホホ！　期待の新人も",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2568_00468",
+  "kind": "line",
+  "jp": "たいした事ありませんわね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2568_0048c",
+  "kind": "line",
+  "jp": "ホホホ！　ホホホホホ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2568_004ac",
+  "kind": "line",
+  "jp": "ホ～ホホホホホ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2568_004ec",
+  "kind": "line",
+  "jp": "学校の部活では　やはり　",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2568_00510",
+  "kind": "line",
+  "jp": "強くはなれないようだね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2568_00530",
+  "kind": "line",
+  "jp": "最高のかんきょうでこそ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2568_00550",
+  "kind": "line",
+  "jp": "最高の力が　手にはいるのだよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2568_00584",
+  "kind": "line",
+  "jp": "……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2568_005a0",
+  "kind": "line",
+  "jp": "さあ　これでジムに入る",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2568_005c0",
+  "kind": "line",
+  "jp": "けっしんが　ついたでしょう？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2568_005f4",
+  "kind": "line",
+  "jp": "ん～　そうぞうしたより",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2568_00614",
+  "kind": "line",
+  "jp": "たいへんそうだから　やめとくよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2568_00650",
+  "kind": "line",
+  "jp": "あら……　そうですの……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

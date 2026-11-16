@@ -1,0 +1,212 @@
+[
+ {
+  "id": "e2677_000d4",
+  "kind": "line",
+  "jp": "アーマレットには　その人の",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2677_000f8",
+  "kind": "line",
+  "jp": "せいかくがよくあらわれてるね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2677_00120",
+  "kind": "line",
+  "jp": "キミのせいかくは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2677_0013c",
+  "kind": "line",
+  "jp": "どんな感じなのかな？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2677_00190",
+  "kind": "line",
+  "jp": "ボクのアーマレットはユニホースさ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2677_001bc",
+  "kind": "line",
+  "jp": "バランスがよくて　使いやすいんだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2677_001e8",
+  "kind": "line",
+  "jp": "キミのアーマレットは　なんなの？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2677_00270",
+  "kind": "line",
+  "jp": "テレビをつけてみた",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2677_0028c",
+  "kind": "line",
+  "jp": "アーマレットべつの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2677_002a8",
+  "kind": "line",
+  "jp": "うらないが　はじまった",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2677_002c8",
+  "kind": "line",
+  "jp": "アーマレット『ニャティー』のあなた",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2677_002f4",
+  "kind": "line",
+  "jp": "ころがりすぎてアームをおとすかも≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2677_00368",
+  "kind": "line",
+  "jp": "きれいな　タンスだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2677_003e0",
+  "kind": "line",
+  "jp": "テレビをつけてみた",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2677_003fc",
+  "kind": "line",
+  "jp": "アーマレットべつの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2677_00418",
+  "kind": "line",
+  "jp": "うらないが　はじまった！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2677_0043c",
+  "kind": "line",
+  "jp": "アーマレット『ゲンブール』のあなた",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2677_00468",
+  "kind": "line",
+  "jp": "バトルもうんせいもぜっこうちょう！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2677_004dc",
+  "kind": "line",
+  "jp": "きれいな　タンスだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2677_00538",
+  "kind": "line",
+  "jp": "きれいな　タンスだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2677_00594",
+  "kind": "line",
+  "jp": "きれいな　タンスだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ }
+]

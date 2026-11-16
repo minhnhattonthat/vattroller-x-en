@@ -1,0 +1,272 @@
+[
+ {
+  "id": "e2602_000e4",
+  "kind": "line",
+  "jp": "ん？キミは･･･",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2602_00120",
+  "kind": "line",
+  "jp": "おい∇　シュウさんに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2602_00140",
+  "kind": "line",
+  "jp": "なれなれしく　話しかけるな∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2602_00184",
+  "kind": "line",
+  "jp": "しつれいなことをして　すまない",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2602_001ac",
+  "kind": "line",
+  "jp": "たしか……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2602_001c0",
+  "kind": "line",
+  "jp": "∴だったね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2602_001f0",
+  "kind": "line",
+  "jp": "シュ……シュウさん∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2602_0021c",
+  "kind": "line",
+  "jp": "キミの戦いぶりは　何度か",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2602_00240",
+  "kind": "line",
+  "jp": "見せてもらった",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2602_00258",
+  "kind": "line",
+  "jp": "どうだろう？　今のオレと",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2602_0027c",
+  "kind": "line",
+  "jp": "手あわせしてみたくはないかい？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2602_002b8",
+  "kind": "line",
+  "jp": "ありがとう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2602_002cc",
+  "kind": "line",
+  "jp": "そう言ってくれると思ったよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2602_00330",
+  "kind": "line",
+  "jp": "そうか……　あいつに……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2602_00354",
+  "kind": "line",
+  "jp": "どこかあいつに　にてるんだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2602_00378",
+  "kind": "line",
+  "jp": "これを　あげよう……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2602_003c4",
+  "kind": "line",
+  "jp": "今日の戦いのきねんだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2602_003e4",
+  "kind": "line",
+  "jp": "これからも　よきライバルとして",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2602_0040c",
+  "kind": "line",
+  "jp": "ともに　ウデをみがきあおう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2602_0043c",
+  "kind": "line",
+  "jp": "センスはいいものを　もってるんだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2602_00468",
+  "kind": "line",
+  "jp": "それをもっと　みがいたほうがいい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2602_00494",
+  "kind": "line",
+  "jp": "わざにおぼれず　勝利におぼれず",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2602_004bc",
+  "kind": "line",
+  "jp": "自分をみがきつづけるんだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2602_004e0",
+  "kind": "line",
+  "jp": "それをできたものだけが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2602_00500",
+  "kind": "line",
+  "jp": "マルスに近づくことができる……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2602_00528",
+  "kind": "line",
+  "jp": "また　きかいがあったら　戦おう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2602_00550",
+  "kind": "line",
+  "jp": "いつでも　待ってるよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

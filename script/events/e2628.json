@@ -1,0 +1,212 @@
+[
+ {
+  "id": "e2628_00044",
+  "kind": "line",
+  "jp": "グローブ社との仕事が　うまくいって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2628_00070",
+  "kind": "line",
+  "jp": "会社もいそがしくなりました！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2628_000cc",
+  "kind": "line",
+  "jp": "となりの会社は　ヘクサ社の仕事を",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 1,
+  "notes": ""
+ },
+ {
+  "id": "e2628_000f8",
+  "kind": "line",
+  "jp": "いっぱい　うけおっているみたいですね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 1,
+  "notes": ""
+ },
+ {
+  "id": "e2628_00128",
+  "kind": "line",
+  "jp": "うちもヘクサ社と　とりひきを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 1,
+  "notes": ""
+ },
+ {
+  "id": "e2628_00150",
+  "kind": "line",
+  "jp": "しようかと考えています……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 1,
+  "notes": ""
+ },
+ {
+  "id": "e2628_001a8",
+  "kind": "line",
+  "jp": "このところ　となりの会社に",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2628_001cc",
+  "kind": "line",
+  "jp": "仕事をとられっぱなしです……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2628_00234",
+  "kind": "line",
+  "jp": "これから　デパートへ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2628_00254",
+  "kind": "line",
+  "jp": "のう品にいくんだ　ああ　いそがしい！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2628_002c4",
+  "kind": "line",
+  "jp": "みつもり書の数字　まちがってない？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2628_002f0",
+  "kind": "line",
+  "jp": "すぐにしゅうせいしなくっちゃ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2628_00318",
+  "kind": "line",
+  "jp": "いそがしいけど　はたらきがいがあって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2628_00348",
+  "kind": "line",
+  "jp": "とてもたのしいわ　ルンルン！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2628_003b0",
+  "kind": "line",
+  "jp": "会社をかわったとたん",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2628_003d0",
+  "kind": "line",
+  "jp": "こんなにいそがしくなるなんて……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2628_003fc",
+  "kind": "line",
+  "jp": "トホホ　休みたいよぉ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2628_004f0",
+  "kind": "line",
+  "jp": "きょうのえいぎょうせいせき",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2628_00514",
+  "kind": "line",
+  "jp": "けいやく数　たくさん",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2628_00568",
+  "kind": "line",
+  "jp": "きょうのえいぎょうせいせき",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2628_0058c",
+  "kind": "line",
+  "jp": "けいやく数　０けん",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ }
+]

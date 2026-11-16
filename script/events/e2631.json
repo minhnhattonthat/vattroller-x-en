@@ -1,0 +1,1064 @@
+[
+ {
+  "id": "e2631_000fc",
+  "kind": "line",
+  "jp": "もっとしゅぎょうせな　なりまへんえ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2631_0012c",
+  "kind": "line",
+  "jp": "あんさんもがんばりなされ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2631_00184",
+  "kind": "line",
+  "jp": "イカヅチは　目のなかにいれても",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2631_001ac",
+  "kind": "line",
+  "jp": "いたないほどかわいい　わたいのまごや",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2631_001dc",
+  "kind": "line",
+  "jp": "けど　勝負の世界はべつや",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2631_00200",
+  "kind": "line",
+  "jp": "マルスになりたいんやったら　もっと",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2631_0022c",
+  "kind": "line",
+  "jp": "もっとしゅぎょうせな　なりまへんえ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2631_00290",
+  "kind": "line",
+  "jp": "きょうはそつぎょうしけんや",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2631_002b4",
+  "kind": "line",
+  "jp": "わたいと勝負や∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2631_002d0",
+  "kind": "line",
+  "jp": "じゅんびはええか？　∴",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2631_002fc.0",
+  "kind": "choice",
+  "jp": "ＯＫです∇",
+  "en": "",
+  "status": "new",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2631_002fc.1",
+  "kind": "choice",
+  "jp": "まだです",
+  "en": "",
+  "status": "new",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2631_0033c",
+  "kind": "line",
+  "jp": "よっしゃ　よっしゃ　よっしゃー∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2631_00374",
+  "kind": "line",
+  "jp": "そか～　またじゅんびできたら",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2631_0039c",
+  "kind": "line",
+  "jp": "こえかけるんやで　まってるからな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2631_003d8",
+  "kind": "line",
+  "jp": "きあい　いれるんやぞ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2631_00438",
+  "kind": "line",
+  "jp": "これでそつぎょうや　もっていき！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2631_004c0",
+  "kind": "line",
+  "jp": "アーマレット『ゴラムス』が",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2631_004e4",
+  "kind": "line",
+  "jp": "使えるようになりました∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2631_0051c",
+  "kind": "line",
+  "jp": "次はエクスストライクけいを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2631_00540",
+  "kind": "line",
+  "jp": "きわめなされ　∴のかつやく",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2631_00564",
+  "kind": "line",
+  "jp": "楽しみにしとるで！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2631_005b0",
+  "kind": "line",
+  "jp": "まだまだやな～",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2631_005c8",
+  "kind": "line",
+  "jp": "おしかったけどな　出直してきなはれ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2631_0062c",
+  "kind": "line",
+  "jp": "お！　∴やないか",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2631_00648",
+  "kind": "line",
+  "jp": "きょうもおしえてあげますわ～",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2631_0067c.0",
+  "kind": "choice",
+  "jp": "おねがいします",
+  "en": "",
+  "status": "new",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2631_0067c.1",
+  "kind": "choice",
+  "jp": "いまはいいです",
+  "en": "",
+  "status": "new",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2631_006c4",
+  "kind": "line",
+  "jp": "よっしゃ　よっしゃ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2631_006f0",
+  "kind": "line",
+  "jp": "そうか～　またひまな時にきや",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2631_00728",
+  "kind": "line",
+  "jp": "わたいのところの弟子２人と対戦や",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2631_00754",
+  "kind": "line",
+  "jp": "力とこんじょうで　ガツンと勝つんや！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2631_007c4",
+  "kind": "line",
+  "jp": "さすがやな～　みなおしたわ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2631_007e8",
+  "kind": "line",
+  "jp": "これで　ストライクけいが　つよーなる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2631_00818",
+  "kind": "line",
+  "jp": "Ｖスキルを　おぼえるはずや",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2631_0085c",
+  "kind": "line",
+  "jp": "ボーナスＶＰをもらった∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2631_0089c",
+  "kind": "line",
+  "jp": "また　来なはれ　",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2631_008b8",
+  "kind": "line",
+  "jp": "今度もばっちり　教えてあげますわ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2631_00910",
+  "kind": "line",
+  "jp": "まだまだやな～",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2631_00928",
+  "kind": "line",
+  "jp": "ちゃんと　めしを食べとるか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2631_00950",
+  "kind": "line",
+  "jp": "力が　足りんのやないか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2631_00974",
+  "kind": "line",
+  "jp": "出直してきなはれ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2631_009c8",
+  "kind": "line",
+  "jp": "いつも　イカヅチがせわになってる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2631_009f4",
+  "kind": "line",
+  "jp": "みたいやな　おおきに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2631_00a14",
+  "kind": "line",
+  "jp": "わたい　この村でマスターやってるんや",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2631_00a44",
+  "kind": "line",
+  "jp": "あんさん　ストライクけいは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2631_00a68",
+  "kind": "line",
+  "jp": "マスターしてまへんやろ？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2631_00a8c",
+  "kind": "line",
+  "jp": "わたいが　教えてあげますわ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2631_00abc.0",
+  "kind": "choice",
+  "jp": "おねがいします",
+  "en": "",
+  "status": "new",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2631_00abc.1",
+  "kind": "choice",
+  "jp": "いまはいいです",
+  "en": "",
+  "status": "new",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2631_00b04",
+  "kind": "line",
+  "jp": "よっしゃ　良い返事や∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2631_00b30",
+  "kind": "line",
+  "jp": "そうか～　ひまな時にまたきなはれ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2631_00b6c",
+  "kind": "line",
+  "jp": "ストライクけいのアームにはな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2631_00b94",
+  "kind": "line",
+  "jp": "力とこんじょうが　ひつようなんや",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2631_00bc0",
+  "kind": "line",
+  "jp": "おもいっきり　きばって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2631_00be0",
+  "kind": "line",
+  "jp": "シャークボールを『１０コ』たおして",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2631_00c0c",
+  "kind": "line",
+  "jp": "もらいましょか！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2631_00c68",
+  "kind": "line",
+  "jp": "さすがやな～　みなおしたわ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2631_00c8c",
+  "kind": "line",
+  "jp": "これでストライクけいのアームが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2631_00cb4",
+  "kind": "line",
+  "jp": "使えるはずや　ためしてみなはれ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2631_00cfc",
+  "kind": "line",
+  "jp": "使えるようになっただけじゃ　まだまだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2631_00d2c",
+  "kind": "line",
+  "jp": "ストライクけいはマスターしたことには",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2631_00d5c",
+  "kind": "line",
+  "jp": "なりまへん　また来るとええよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2631_00d84",
+  "kind": "line",
+  "jp": "今度も　みっちり教えてあげますわ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2631_00dd0",
+  "kind": "line",
+  "jp": "まだまだやな～",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2631_00de8",
+  "kind": "line",
+  "jp": "きっと　こんじょうが足りんのや　",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2631_00e14",
+  "kind": "line",
+  "jp": "出直して　きなはれ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2631_00e74",
+  "kind": "line",
+  "jp": "こっとうひんの　たんすだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2631_00ecc",
+  "kind": "line",
+  "jp": "たんすの中に　光るものが……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2631_00ef4",
+  "kind": "line",
+  "jp": "Ｖメダルを見つけた！！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0600",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2631_00fa8",
+  "kind": "line",
+  "jp": "おっ　∴やないか！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2631_00fc4",
+  "kind": "line",
+  "jp": "ひまやったら　ばーちゃんといっしょに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2631_00ff4",
+  "kind": "line",
+  "jp": "バトルせーへんか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2631_0101c.0",
+  "kind": "choice",
+  "jp": "はい",
+  "en": "",
+  "status": "new",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2631_0101c.1",
+  "kind": "choice",
+  "jp": "えんりょします",
+  "en": "",
+  "status": "new",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2631_0105c",
+  "kind": "line",
+  "jp": "よっしゃ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2631_010e8",
+  "kind": "line",
+  "jp": "おーい　イカヅチー！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2631_01124",
+  "kind": "line",
+  "jp": "なんやタクミやないか",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2631_01144",
+  "kind": "line",
+  "jp": "いまから∴とバトルや",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2631_01164",
+  "kind": "line",
+  "jp": "おまえもまざらんか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2631_01190",
+  "kind": "line",
+  "jp": "いいですね　ここはペアマッチで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2631_011b8",
+  "kind": "line",
+  "jp": "たたかいましょう！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2631_01230",
+  "kind": "line",
+  "jp": "みんなほんま強いな～",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2631_01250",
+  "kind": "line",
+  "jp": "あんさんらの中からマルスになるやつが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2631_01280",
+  "kind": "line",
+  "jp": "きっと　出てくるとおもいますわ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2631_012a8",
+  "kind": "line",
+  "jp": "わたいたのしみや！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2631_012f0",
+  "kind": "line",
+  "jp": "なんや　いそがしいんかいな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2631_01314",
+  "kind": "line",
+  "jp": "また　きてや",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2631_01364",
+  "kind": "line",
+  "jp": "ばーちゃん　かたこってないか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2631_0138c",
+  "kind": "line",
+  "jp": "わいがたたいたろか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2631_013ac",
+  "kind": "line",
+  "jp": "ばーちゃんにはわいがマルスになるまで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2631_013dc",
+  "kind": "line",
+  "jp": "げんきでおってもらわんとあかんからな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2631_01474",
+  "kind": "line",
+  "jp": "おまえ　なかなかスジがええて",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2631_0149c",
+  "kind": "line",
+  "jp": "ばーちゃん　ほめとったで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2631_014c0",
+  "kind": "line",
+  "jp": "せやけど　わいも負けへんでー！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2631_014e8",
+  "kind": "line",
+  "jp": "さいごに勝つんは　ぜったいわいや！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2631_01548",
+  "kind": "line",
+  "jp": "うちのばーちゃんは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2631_01564",
+  "kind": "line",
+  "jp": "ごっつう強いマスターなんやでぇ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2631_01590",
+  "kind": "line",
+  "jp": "どーんとむねをかりるつもりで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2631_015b8",
+  "kind": "line",
+  "jp": "いったらんかい！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2631_01614",
+  "kind": "line",
+  "jp": "ワシューせんようバトローリング場",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2631_01640",
+  "kind": "line",
+  "jp": "とかいてある",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2631_01698",
+  "kind": "line",
+  "jp": "イカヅチのようふくが　たたまれている",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 17,
+  "notes": ""
+ },
+ {
+  "id": "e2631_01724",
+  "kind": "line",
+  "jp": "バトリーグのちゅうけいが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 18,
+  "notes": ""
+ },
+ {
+  "id": "e2631_01748",
+  "kind": "line",
+  "jp": "おこなわれている",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 18,
+  "notes": ""
+ },
+ {
+  "id": "e2631_017c8",
+  "kind": "line",
+  "jp": "バトリーグのちゅうけいが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 19,
+  "notes": ""
+ },
+ {
+  "id": "e2631_017ec",
+  "kind": "line",
+  "jp": "おこなわれている",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 19,
+  "notes": ""
+ }
+]

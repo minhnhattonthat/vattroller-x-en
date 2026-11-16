@@ -1,0 +1,300 @@
+[
+ {
+  "id": "e2707_00278",
+  "kind": "line",
+  "jp": "へぇ～　ジムからかんゆうされたんだ？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2707_002b4",
+  "kind": "line",
+  "jp": "うん∇　さいのうのあるわかて",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2707_002dc",
+  "kind": "line",
+  "jp": "バトローラーをあつめてるとか言ってさ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2707_0030c",
+  "kind": "line",
+  "jp": "強い相手に会えそうだし",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2707_0032c",
+  "kind": "line",
+  "jp": "こんど見に行ってみようと思うんだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2707_00364",
+  "kind": "line",
+  "jp": "そうだね　いろんなジムをのぞいて",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2707_00390",
+  "kind": "line",
+  "jp": "みるのも今のジンくんにはいいかもね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2707_00410",
+  "kind": "line",
+  "jp": "あれ？　おまえ　だれ？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2707_0043c",
+  "kind": "line",
+  "jp": "？　この人　どこかで見たような……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2707_00474",
+  "kind": "line",
+  "jp": "そういえば　まえに町で",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2707_00494",
+  "kind": "line",
+  "jp": "会ったりしたよな　たしか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2707_004c4",
+  "kind": "line",
+  "jp": "うーん　そういうのとはちがうとこで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2707_004f0",
+  "kind": "line",
+  "jp": "見たような……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2707_00514.0",
+  "kind": "choice",
+  "jp": "この学校にまえいたから",
+  "en": "",
+  "status": "new",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2707_00514.1",
+  "kind": "choice",
+  "jp": "ジンくんと勝負しに来た",
+  "en": "",
+  "status": "new",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2707_0056c",
+  "kind": "line",
+  "jp": "へー　てんこうしたのか",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2707_0058c",
+  "kind": "line",
+  "jp": "オレといれちがいぐらいだったのかな？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2707_005bc",
+  "kind": "line",
+  "jp": "おまえ　バトローラーだよな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2707_005e0",
+  "kind": "line",
+  "jp": "せっかくだし　オレと勝負しようぜ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2707_0060c",
+  "kind": "line",
+  "jp": "なんかおまえって強そうな気がするし",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2707_00638",
+  "kind": "line",
+  "jp": "面白いバトルできそうだぜ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2707_00668",
+  "kind": "line",
+  "jp": "え≡　オレと勝負するために",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2707_0068c",
+  "kind": "line",
+  "jp": "わざわざ？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2707_006a0",
+  "kind": "line",
+  "jp": "まえにオレのバトルを見て",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2707_006c4",
+  "kind": "line",
+  "jp": "それでバトローリングをはじめた？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2707_006f0",
+  "kind": "line",
+  "jp": "そこまで言われちゃ　うけないわけには",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2707_00720",
+  "kind": "line",
+  "jp": "いかないな　やろうぜバトローリング∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2707_007a4",
+  "kind": "line",
+  "jp": "そうじ用具が　入っている",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2707_00808",
+  "kind": "line",
+  "jp": "じしょが　ならんでいる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2707_00868",
+  "kind": "line",
+  "jp": "じょうほうたんまつだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ }
+]

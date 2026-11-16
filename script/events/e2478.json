@@ -1,0 +1,112 @@
+[
+ {
+  "id": "e2478_00080",
+  "kind": "line",
+  "jp": "∴！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0600",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2478_00090",
+  "kind": "line",
+  "jp": "∴ってば！　おきなさいよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2478_000e8",
+  "kind": "line",
+  "jp": "なに　こんな所でねてるのよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2478_0010c",
+  "kind": "line",
+  "jp": "さっさと　練習に行きなさいよね！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2478_00138",
+  "kind": "line",
+  "jp": "せっかく　バトリーグでちょうし",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2478_00160",
+  "kind": "line",
+  "jp": "いいんだからさ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2478_001d8",
+  "kind": "line",
+  "jp": "あんた　さっき『マルス』になったって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2478_00208",
+  "kind": "line",
+  "jp": "ねごといってたわよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2478_00250",
+  "kind": "line",
+  "jp": "あんたなら　ゆめじゃないかもね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2478_00278",
+  "kind": "line",
+  "jp": "きっとなれるわよ　きっと",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2478_0029c",
+  "kind": "line",
+  "jp": "さ！　練習！　練習！！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

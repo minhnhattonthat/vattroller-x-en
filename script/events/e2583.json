@@ -1,0 +1,342 @@
+[
+ {
+  "id": "e2583_000bc",
+  "kind": "line",
+  "jp": "まだ　だれも",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2583_000d4",
+  "kind": "line",
+  "jp": "来ていないんですかね……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2583_0013c",
+  "kind": "line",
+  "jp": "ん？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2583_0014c",
+  "kind": "line",
+  "jp": "なんだ　おまえらは？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2583_00188",
+  "kind": "line",
+  "jp": "わっ！　あやしいものじゃありません！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2583_001b8",
+  "kind": "line",
+  "jp": "ボクたちは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2583_001cc",
+  "kind": "line",
+  "jp": "バトローリング部の……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2583_001f8",
+  "kind": "line",
+  "jp": "なんだ　おまえらも",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2583_00214",
+  "kind": "line",
+  "jp": "バトローリングやるんだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2583_00234",
+  "kind": "line",
+  "jp": "だったら　いっしょに練習しない？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2583_00260",
+  "kind": "line",
+  "jp": "１人でやるより　みんなでやるほうが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2583_0028c",
+  "kind": "line",
+  "jp": "ぜったいに面白いもんな∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2583_002bc",
+  "kind": "line",
+  "jp": "これはチャンスかも……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2583_002dc",
+  "kind": "line",
+  "jp": "はい！　ぜひやらせてください！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2583_00334",
+  "kind": "line",
+  "jp": "ぼくは　ここでデータをとりますので",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2583_00360",
+  "kind": "line",
+  "jp": "∴　おねがいしますね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2583_0038c",
+  "kind": "line",
+  "jp": "よーし∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2583_003a0",
+  "kind": "line",
+  "jp": "それじゃ　いっちょやったるか∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2583_0043c",
+  "kind": "line",
+  "jp": "へえ～　おまえ　すげーな∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2583_0046c",
+  "kind": "line",
+  "jp": "おまえ　なかなかやるな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2583_00498",
+  "kind": "line",
+  "jp": "いろいろと勉強になりましたよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2583_00520",
+  "kind": "line",
+  "jp": "ちょっと∇　その子たち",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2583_00540",
+  "kind": "line",
+  "jp": "よその学校のせいとじゃないの∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2583_00568",
+  "kind": "line",
+  "jp": "まきこんで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2583_0057c",
+  "kind": "line",
+  "jp": "ケガでもさせたらどうするの∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2583_005b0",
+  "kind": "line",
+  "jp": "あっ　ごめん……　オレ　ちょっと",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2583_005dc",
+  "kind": "line",
+  "jp": "調子にのっちゃったかな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2583_0061c",
+  "kind": "line",
+  "jp": "ごめんなさいね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2583_00634",
+  "kind": "line",
+  "jp": "おわびに　よかったらこれ　使って",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2583_0068c",
+  "kind": "line",
+  "jp": "じゃあ　オレ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2583_006a4",
+  "kind": "line",
+  "jp": "外にケイコに行ってくるから",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2583_00710",
+  "kind": "line",
+  "jp": "ちょっと待ってよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2583_0072c",
+  "kind": "line",
+  "jp": "まだ言っておきたいことがあるのよ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2583_00764",
+  "kind": "line",
+  "jp": "待ちなさいってばー∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

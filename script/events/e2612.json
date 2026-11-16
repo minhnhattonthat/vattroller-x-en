@@ -1,0 +1,318 @@
+[
+ {
+  "id": "e2612_001ac",
+  "kind": "line",
+  "jp": "もう　もってないよ～",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2612_00200",
+  "kind": "line",
+  "jp": "これ　あっちで拾ったんだけど",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2612_00228",
+  "kind": "line",
+  "jp": "ぼく　いらないから　あげる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2612_00258",
+  "kind": "line",
+  "jp": "Ｖメダルをもらった！！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2612_002e4",
+  "kind": "line",
+  "jp": "うちのＶＲ部のジンってスゲーぜ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2612_0030c",
+  "kind": "line",
+  "jp": "きっと　つぎのマルスは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2612_0032c",
+  "kind": "line",
+  "jp": "ジンにちがいないぜ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2612_00380",
+  "kind": "line",
+  "jp": "ここは　真丸中だよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2612_003dc",
+  "kind": "line",
+  "jp": "勝飛中のバトローリング部も",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2612_00400",
+  "kind": "line",
+  "jp": "さいきんは　がんばっとるようだの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2612_0042c",
+  "kind": "line",
+  "jp": "おたがいにきそいあって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2612_0044c",
+  "kind": "line",
+  "jp": "強くたくましく育ってほしいのぉ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2612_004a8",
+  "kind": "line",
+  "jp": "ジンくんのおかげで　真丸中は",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2612_004d0",
+  "kind": "line",
+  "jp": "いちやくゆうめいになったわい！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2612_00620",
+  "kind": "line",
+  "jp": "もうすぐバトローリングの試合なのに……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2612_00650",
+  "kind": "line",
+  "jp": "練習場がちらかってて……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2612_00674",
+  "kind": "line",
+  "jp": "こまったなぁ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2612_00698.0",
+  "kind": "choice",
+  "jp": "てつだいます",
+  "en": "",
+  "status": "new",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2612_00698.1",
+  "kind": "choice",
+  "jp": "たいへんだね",
+  "en": "",
+  "status": "new",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2612_006e0",
+  "kind": "line",
+  "jp": "たすかります∇　ありがとう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2612_00704",
+  "kind": "line",
+  "jp": "さっそく練習場にいきましょう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2612_0074c",
+  "kind": "line",
+  "jp": "そうなの　たいへんなのよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2612_007d0",
+  "kind": "line",
+  "jp": "まったく　もう∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 17,
+  "notes": ""
+ },
+ {
+  "id": "e2612_00820",
+  "kind": "line",
+  "jp": "ジンくん　どこいっちゃったのかな～？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 18,
+  "notes": ""
+ },
+ {
+  "id": "e2612_008b8",
+  "kind": "line",
+  "jp": "もうすぐバトローリングの試合なのに……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 20,
+  "notes": ""
+ },
+ {
+  "id": "e2612_008e8",
+  "kind": "line",
+  "jp": "練習場がちらかってて……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 20,
+  "notes": ""
+ },
+ {
+  "id": "e2612_0090c",
+  "kind": "line",
+  "jp": "こまったなぁ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 20,
+  "notes": ""
+ },
+ {
+  "id": "e2612_00930.0",
+  "kind": "choice",
+  "jp": "てつだいます",
+  "en": "",
+  "status": "new",
+  "script": 20,
+  "notes": ""
+ },
+ {
+  "id": "e2612_00930.1",
+  "kind": "choice",
+  "jp": "たいへんだね",
+  "en": "",
+  "status": "new",
+  "script": 20,
+  "notes": ""
+ },
+ {
+  "id": "e2612_00978",
+  "kind": "line",
+  "jp": "たすかります∇　ありがとう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 20,
+  "notes": ""
+ },
+ {
+  "id": "e2612_0099c",
+  "kind": "line",
+  "jp": "さっそく練習場にいきましょう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 20,
+  "notes": ""
+ },
+ {
+  "id": "e2612_009e4",
+  "kind": "line",
+  "jp": "そうなの　たいへんなのよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 20,
+  "notes": ""
+ }
+]

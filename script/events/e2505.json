@@ -1,0 +1,122 @@
+[
+ {
+  "id": "e2505_00194",
+  "kind": "line",
+  "jp": "へへっ　弱そうなヤツらがぞろぞろと",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2505_001c0",
+  "kind": "line",
+  "jp": "なんの用だい？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2505_001e4",
+  "kind": "line",
+  "jp": "オレのなかまがこの前",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2505_00204",
+  "kind": "line",
+  "jp": "世話になったようだな　それにレイナも",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2505_00240",
+  "kind": "line",
+  "jp": "…………",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2505_00260",
+  "kind": "line",
+  "jp": "へぇ　てめぇがこのクソチームの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2505_00288",
+  "kind": "line",
+  "jp": "リーダーかい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2505_002ac",
+  "kind": "line",
+  "jp": "『ツチオニ団』リーダーのカタマリだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2505_002d8",
+  "kind": "line",
+  "jp": "オレのチームは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2505_002f0",
+  "kind": "line",
+  "jp": "勝手にぬけるヤツはゆるさねぇ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2505_00318",
+  "kind": "line",
+  "jp": "そして　オレたちにはむかうヤツは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2505_00344",
+  "kind": "line",
+  "jp": "もっとゆるさねぇ……かくごしやがれ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

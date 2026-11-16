@@ -1,0 +1,620 @@
+[
+ {
+  "id": "e2657_001a0",
+  "kind": "line",
+  "jp": "ライバくんだっけ？　きちんとした",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2657_001cc",
+  "kind": "line",
+  "jp": "しゅぎょうをはじめたの？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2657_001f0",
+  "kind": "line",
+  "jp": "よかった　カレは　もっともっと強く",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2657_0021c",
+  "kind": "line",
+  "jp": "なると思うわ　あなたもがんばってね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2657_0027c",
+  "kind": "line",
+  "jp": "ライバっていうの　あのせんしゅ？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2657_002a8",
+  "kind": "line",
+  "jp": "とっても強かったわ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2657_002c8",
+  "kind": "line",
+  "jp": "けど　すごくあせってるみたいだった",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2657_002f4",
+  "kind": "line",
+  "jp": "どうしてなのかしらね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2657_00354",
+  "kind": "line",
+  "jp": "ライバのヤツ　バトリーグに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2657_00378",
+  "kind": "line",
+  "jp": "さんかしてるんだってな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2657_00398",
+  "kind": "line",
+  "jp": "そのうち　ヤツの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2657_003b4",
+  "kind": "line",
+  "jp": "しあいを見にいこうと思ってんだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2657_00410",
+  "kind": "line",
+  "jp": "なんだ　あのライバってヤツは≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2657_00438",
+  "kind": "line",
+  "jp": "そーとーキレたヤロウだったぜ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2657_00460",
+  "kind": "line",
+  "jp": "強いことは強いが　あれじゃあ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2657_00488",
+  "kind": "line",
+  "jp": "そのうちカベにぶちあたるぞ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2657_004ec",
+  "kind": "line",
+  "jp": "バトリーグにさんかするために",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2657_00514",
+  "kind": "line",
+  "jp": "さいごのちょうせいをしているところよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2657_00544",
+  "kind": "line",
+  "jp": "あなたもさんかするの？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2657_00564",
+  "kind": "line",
+  "jp": "じゃあ　スタジアムであいましょうね！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2657_005c8",
+  "kind": "line",
+  "jp": "……さいきん　道場やぶりがあって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2657_005f4",
+  "kind": "line",
+  "jp": "ちょっとピリピリしていたの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2657_00618",
+  "kind": "line",
+  "jp": "あなたは　かんけいなかったのにね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2657_00644",
+  "kind": "line",
+  "jp": "ごめんなさい……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2657_00694",
+  "kind": "line",
+  "jp": "なに？　あなたも道場やぶりなの≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2657_006c0",
+  "kind": "line",
+  "jp": "えっ？　ちがう？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2657_006dc",
+  "kind": "line",
+  "jp": "だったら　ウロチョロしないでよね！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2657_00754",
+  "kind": "line",
+  "jp": "バトローリングの本が　ならんでる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2657_007c0",
+  "kind": "line",
+  "jp": "バトローリングの本が　ならんでる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2657_0082c",
+  "kind": "line",
+  "jp": "バトローリングの本が　ならんでる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2657_00898",
+  "kind": "line",
+  "jp": "バトローリングの本が　ならんでる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2657_00904",
+  "kind": "line",
+  "jp": "はいれないようだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2657_00960",
+  "kind": "line",
+  "jp": "はいれないようだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 17,
+  "notes": ""
+ },
+ {
+  "id": "e2657_009e4",
+  "kind": "line",
+  "jp": "ダメだ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 19,
+  "notes": ""
+ },
+ {
+  "id": "e2657_009f8",
+  "kind": "line",
+  "jp": "こんなんじゃ　ヤツに勝てねぇ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 19,
+  "notes": ""
+ },
+ {
+  "id": "e2657_00a20",
+  "kind": "line",
+  "jp": "もっと修行をつんで　強くなるんだ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 19,
+  "notes": ""
+ },
+ {
+  "id": "e2657_00a4c",
+  "kind": "line",
+  "jp": "そして　あのヤロウをぶったおす∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 19,
+  "notes": ""
+ },
+ {
+  "id": "e2657_00a78",
+  "kind": "line",
+  "jp": "ん？　なんだテメーは？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 19,
+  "notes": ""
+ },
+ {
+  "id": "e2657_00a98",
+  "kind": "line",
+  "jp": "……そういえば　テメーも",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 19,
+  "notes": ""
+ },
+ {
+  "id": "e2657_00abc",
+  "kind": "line",
+  "jp": "バトローラーだったよな？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 19,
+  "notes": ""
+ },
+ {
+  "id": "e2657_00aec.0",
+  "kind": "choice",
+  "jp": "ちがいます",
+  "en": "",
+  "status": "new",
+  "script": 19,
+  "notes": ""
+ },
+ {
+  "id": "e2657_00aec.1",
+  "kind": "choice",
+  "jp": "そうです",
+  "en": "",
+  "status": "new",
+  "script": 19,
+  "notes": ""
+ },
+ {
+  "id": "e2657_00b2c",
+  "kind": "line",
+  "jp": "フン　オレの修行のジャマだ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 19,
+  "notes": ""
+ },
+ {
+  "id": "e2657_00b54",
+  "kind": "line",
+  "jp": "とっとと　うせやがれ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 19,
+  "notes": ""
+ },
+ {
+  "id": "e2657_00b84",
+  "kind": "line",
+  "jp": "そいつはちょうどいいぜ　オレさまの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 19,
+  "notes": ""
+ },
+ {
+  "id": "e2657_00bb0",
+  "kind": "line",
+  "jp": "練習相手にしてやる∇　いくぞ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 19,
+  "notes": ""
+ },
+ {
+  "id": "e2657_00c40",
+  "kind": "line",
+  "jp": "くそっ！　なぜだ≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 19,
+  "notes": ""
+ },
+ {
+  "id": "e2657_00c5c",
+  "kind": "line",
+  "jp": "なぜ　オレは勝てないんだ≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 19,
+  "notes": ""
+ },
+ {
+  "id": "e2657_00c80",
+  "kind": "line",
+  "jp": "すっかり負けグセが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 19,
+  "notes": ""
+ },
+ {
+  "id": "e2657_00c9c",
+  "kind": "line",
+  "jp": "ついちまったってことなのかよ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 19,
+  "notes": ""
+ },
+ {
+  "id": "e2657_00cd4",
+  "kind": "line",
+  "jp": "……おい　おまえ　これを　持っていけ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 19,
+  "notes": ""
+ },
+ {
+  "id": "e2657_00d6c",
+  "kind": "line",
+  "jp": "オレは　おまえに負け",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 19,
+  "notes": ""
+ },
+ {
+  "id": "e2657_00d8c",
+  "kind": "line",
+  "jp": "ツールをうばわれた",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 19,
+  "notes": ""
+ },
+ {
+  "id": "e2657_00da8",
+  "kind": "line",
+  "jp": "これでオメーのことも　忘れない……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 19,
+  "notes": ""
+ },
+ {
+  "id": "e2657_00dd4",
+  "kind": "line",
+  "jp": "いつか　あいつともども　たおしてやる∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 19,
+  "notes": ""
+ },
+ {
+  "id": "e2657_00e5c",
+  "kind": "line",
+  "jp": "フン　たいしたことねぇ～な",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 19,
+  "notes": ""
+ },
+ {
+  "id": "e2657_00ee0",
+  "kind": "line",
+  "jp": "ただ強さだけをめざしていた",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 20,
+  "notes": ""
+ },
+ {
+  "id": "e2657_00f04",
+  "kind": "line",
+  "jp": "プレミアムジムは　じゃどうだったね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 20,
+  "notes": ""
+ },
+ {
+  "id": "e2657_00f64",
+  "kind": "line",
+  "jp": "このあいだ　プレミアムジムの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 21,
+  "notes": ""
+ },
+ {
+  "id": "e2657_00f8c",
+  "kind": "line",
+  "jp": "なんとかってせんしゅがやってきてね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 21,
+  "notes": ""
+ },
+ {
+  "id": "e2657_00fb8",
+  "kind": "line",
+  "jp": "いきなり試合をもうしこんできたんだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 21,
+  "notes": ""
+ },
+ {
+  "id": "e2657_00fe4",
+  "kind": "line",
+  "jp": "まるで　どうじょうやぶりだったよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 21,
+  "notes": ""
+ }
+]

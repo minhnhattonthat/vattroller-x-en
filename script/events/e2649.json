@@ -1,0 +1,312 @@
+[
+ {
+  "id": "e2649_000d4",
+  "kind": "line",
+  "jp": "よし　つぎはイワシを使った",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2649_000f8",
+  "kind": "line",
+  "jp": "イワシケーキにチャレンジしてみよう！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2649_0015c",
+  "kind": "line",
+  "jp": "ううむ　まんげつに勝てるような",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2649_00184",
+  "kind": "line",
+  "jp": "あたらしいケーキのアイディアは……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2649_001b0",
+  "kind": "line",
+  "jp": "ダメだ！　じょうしきにとらわれては",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2649_001dc",
+  "kind": "line",
+  "jp": "あたらしいものはできん！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2649_00200",
+  "kind": "line",
+  "jp": "むっ！　キミがヌルヌルさせているのは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2649_00230",
+  "kind": "line",
+  "jp": "うまそうなウナギではないか！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2649_00258",
+  "kind": "line",
+  "jp": "ひらめいた！　ウナギパイがあるなら",
+  "en": "",
+  "status": "new",
+  "flags": "0x0400",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2649_00284",
+  "kind": "line",
+  "jp": "ウナギケーキもアリにちがいない！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2649_002b0",
+  "kind": "line",
+  "jp": "さっそくチャレンジだ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2649_002ec",
+  "kind": "line",
+  "jp": "できたぞ！　これぞウナギケーキ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2649_00318",
+  "kind": "line",
+  "jp": "さあ　えんりょなく食べてくれ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2649_0034c",
+  "kind": "line",
+  "jp": "『ウナギケーキ』をてにいれた",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2649_003b4",
+  "kind": "line",
+  "jp": "ホクトとミナミにも　もうすこし",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2649_003dc",
+  "kind": "line",
+  "jp": "店のてつだいをするようにいわんとな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2649_00408",
+  "kind": "line",
+  "jp": "コマチちゃんやライバくんを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2649_0042c",
+  "kind": "line",
+  "jp": "みならってほしいものだわい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2649_00484",
+  "kind": "line",
+  "jp": "ホクトのうらないによると",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2649_004a8",
+  "kind": "line",
+  "jp": "うちの店は　だいはんじょうするそうだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2649_004d8",
+  "kind": "line",
+  "jp": "ホクトとミナミも　マルスとなって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2649_00504",
+  "kind": "line",
+  "jp": "だいかつやくするぞ　ウハハハハ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2649_00564",
+  "kind": "line",
+  "jp": "うちのホクトとミナミには　あふれる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2649_00590",
+  "kind": "line",
+  "jp": "バトローリングのさいのうがある",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2649_005b8",
+  "kind": "line",
+  "jp": "店のてつだいよりも　バトローリングの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2649_005e8",
+  "kind": "line",
+  "jp": "練習をするようにいってあるのだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2649_00650",
+  "kind": "line",
+  "jp": "たんすの中は　せいとんされている",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2649_006b0",
+  "kind": "line",
+  "jp": "たんすの中に　光るものが……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2649_006d8",
+  "kind": "line",
+  "jp": "Ｖメダルを見つけた！！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0600",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2649_00764",
+  "kind": "line",
+  "jp": "ここの　ロールケーキは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2649_00784",
+  "kind": "line",
+  "jp": "やみつきになるのよ～",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ }
+]

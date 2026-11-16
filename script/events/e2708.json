@@ -1,0 +1,200 @@
+[
+ {
+  "id": "e2708_000d4",
+  "kind": "line",
+  "jp": "そうじ用具が　入っている",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2708_00138",
+  "kind": "line",
+  "jp": "じしょが　ならんでいる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2708_00198",
+  "kind": "line",
+  "jp": "あ　キミは勝飛中の",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2708_001b4",
+  "kind": "line",
+  "jp": "∴さんじゃないですか",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2708_001d4",
+  "kind": "line",
+  "jp": "バトローリングが上手って話だいですよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2708_00204",
+  "kind": "line",
+  "jp": "よければ　練習あいてになってください",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2708_00240.0",
+  "kind": "choice",
+  "jp": "はい",
+  "en": "",
+  "status": "new",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2708_00240.1",
+  "kind": "choice",
+  "jp": "えんりょします",
+  "en": "",
+  "status": "new",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2708_00280",
+  "kind": "line",
+  "jp": "よろしくおねがいしま～す",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2708_002e4",
+  "kind": "line",
+  "jp": "ありがとうございました",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2708_00304",
+  "kind": "line",
+  "jp": "とても　勉強になりましたよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2708_00338",
+  "kind": "line",
+  "jp": "あ～　調子悪かったんですね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2708_0035c",
+  "kind": "line",
+  "jp": "また　おねがいしますね！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2708_00390",
+  "kind": "line",
+  "jp": "ざんねんだな～　またおねがいします！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2708_00400",
+  "kind": "line",
+  "jp": "レアアームをさがしてるんだけど　",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2708_0042c",
+  "kind": "line",
+  "jp": "どこに売ってるんでしょうね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2708_00450",
+  "kind": "line",
+  "jp": "うわさだと　レアＶショップというのが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2708_00480",
+  "kind": "line",
+  "jp": "あるみたいなんだけどね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2708_004e0",
+  "kind": "line",
+  "jp": "きゅうしょくのこんだてが見れる　　",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2708_0050c",
+  "kind": "line",
+  "jp": "ロールキャベツだそうだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ }
+]

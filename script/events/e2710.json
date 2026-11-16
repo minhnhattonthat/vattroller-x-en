@@ -1,0 +1,1278 @@
+[
+ {
+  "id": "e2710_0011c",
+  "kind": "line",
+  "jp": "最近　ジムを貸し切って",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2710_0013c",
+  "kind": "line",
+  "jp": "おかしなことをしてる子がいてね……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2710_00168",
+  "kind": "line",
+  "jp": "ほら　また来た……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2710_00184",
+  "kind": "line",
+  "jp": "あの子だよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2710_001cc",
+  "kind": "line",
+  "jp": "こまった　こまった……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2710_001ec",
+  "kind": "line",
+  "jp": "キミ　話を聞いてくれるかい？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2710_00248",
+  "kind": "line",
+  "jp": "この村では　すきなほうげんで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2710_00270",
+  "kind": "line",
+  "jp": "しゃべるのが　はやってるんだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2710_00298",
+  "kind": "line",
+  "jp": "ワタシも　そろそろべつのほうげんで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2710_002c4",
+  "kind": "line",
+  "jp": "しゃべろうかにゃっと！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2710_00318",
+  "kind": "line",
+  "jp": "この村では　すきなほうげんで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2710_00340",
+  "kind": "line",
+  "jp": "しゃべるのが　はやってるんだよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2710_003a8",
+  "kind": "line",
+  "jp": "ここは　田万里村じゃ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2710_003fc",
+  "kind": "line",
+  "jp": "ここは　田万里村です",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2710_00450",
+  "kind": "line",
+  "jp": "ここは　田万里村よ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2710_004ac",
+  "kind": "line",
+  "jp": "ジムの中で　スイカが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2710_004cc",
+  "kind": "line",
+  "jp": "いじょうはっせいだってよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2710_004f0",
+  "kind": "line",
+  "jp": "とりほうだいだっつうから",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2710_00514",
+  "kind": "line",
+  "jp": "おめえも　行ってみたらどうだ？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2710_00570",
+  "kind": "line",
+  "jp": "やっぱ　この村は　いい村だぞ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2710_00598",
+  "kind": "line",
+  "jp": "おめえも　ひっこしてきなって　な　な",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2710_005fc",
+  "kind": "line",
+  "jp": "なんつうかこの村は　すみやすい村だぞ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2710_0062c",
+  "kind": "line",
+  "jp": "おめえも　ひっこしてくるか　ん？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2710_00698",
+  "kind": "line",
+  "jp": "イカヅチくん　さいきん",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2710_006b8",
+  "kind": "line",
+  "jp": "すごくうれしそうに学校にいっとるなぁ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2710_006e8",
+  "kind": "line",
+  "jp": "あんたらみたいな　いいお友だちが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2710_00714",
+  "kind": "line",
+  "jp": "できたせいじゃろな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2710_00764",
+  "kind": "line",
+  "jp": "イカヅチくんは　まがったことや",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2710_0078c",
+  "kind": "line",
+  "jp": "ウソが大キライですけん",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2710_007e0",
+  "kind": "line",
+  "jp": "イカヅチくんは　まっすぐなせいかく",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2710_0080c",
+  "kind": "line",
+  "jp": "ですけん　そこがいいところですけんの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2710_0087c",
+  "kind": "line",
+  "jp": "バトローリングで勝つためには",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2710_008a4",
+  "kind": "line",
+  "jp": "ツールのセットもひつようだよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2710_008cc",
+  "kind": "line",
+  "jp": "じぶんにあったツールをみつけよう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2710_00938",
+  "kind": "line",
+  "jp": "元エセかんさいべんぼくめつ委員です",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2710_00964",
+  "kind": "line",
+  "jp": "わたしのエセかんさいべんがバレて",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2710_00990",
+  "kind": "line",
+  "jp": "にげてるんだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2710_009a8",
+  "kind": "line",
+  "jp": "委員会のやつらには　だまっててくれよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2710_00a0c",
+  "kind": "line",
+  "jp": "エセかんさいべん",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 17,
+  "notes": ""
+ },
+ {
+  "id": "e2710_00a28",
+  "kind": "line",
+  "jp": "ぼくめつ委員会でおます",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 17,
+  "notes": ""
+ },
+ {
+  "id": "e2710_00a48",
+  "kind": "line",
+  "jp": "このあたりにエセかんさい人が",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 17,
+  "notes": ""
+ },
+ {
+  "id": "e2710_00a70",
+  "kind": "line",
+  "jp": "おるっちゅうつうほうが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 17,
+  "notes": ""
+ },
+ {
+  "id": "e2710_00a90",
+  "kind": "line",
+  "jp": "あったねんけど……しらん？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 17,
+  "notes": ""
+ },
+ {
+  "id": "e2710_00ae8",
+  "kind": "line",
+  "jp": "エセかんさいべん",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 18,
+  "notes": ""
+ },
+ {
+  "id": "e2710_00b04",
+  "kind": "line",
+  "jp": "ぼくめつ委員会でおます",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 18,
+  "notes": ""
+ },
+ {
+  "id": "e2710_00b24",
+  "kind": "line",
+  "jp": "ヘンなかんさいべんつこてるやつが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 18,
+  "notes": ""
+ },
+ {
+  "id": "e2710_00b50",
+  "kind": "line",
+  "jp": "おったら　ワイにおしえてな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 18,
+  "notes": ""
+ },
+ {
+  "id": "e2710_00bb4",
+  "kind": "line",
+  "jp": "イカヅチぼっちゃんに　友だちが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 19,
+  "notes": ""
+ },
+ {
+  "id": "e2710_00bdc",
+  "kind": "line",
+  "jp": "たくさんできて　よかったですらい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 19,
+  "notes": ""
+ },
+ {
+  "id": "e2710_00c3c",
+  "kind": "line",
+  "jp": "ワシューさんとこでで　スイカが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 20,
+  "notes": ""
+ },
+ {
+  "id": "e2710_00c64",
+  "kind": "line",
+  "jp": "だいしゅうかくだってよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 20,
+  "notes": ""
+ },
+ {
+  "id": "e2710_00c84",
+  "kind": "line",
+  "jp": "とりほうだいだっつうから",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 20,
+  "notes": ""
+ },
+ {
+  "id": "e2710_00ca8",
+  "kind": "line",
+  "jp": "おめえも　行ってみたらどうだ？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 20,
+  "notes": ""
+ },
+ {
+  "id": "e2710_00d18",
+  "kind": "line",
+  "jp": "イカヅチぼっちゃんに　友だちが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 21,
+  "notes": ""
+ },
+ {
+  "id": "e2710_00d40",
+  "kind": "line",
+  "jp": "たくさんできて　よかったですらい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 21,
+  "notes": ""
+ },
+ {
+  "id": "e2710_00da0",
+  "kind": "line",
+  "jp": "イカヅチぼっちゃんの家なら",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 22,
+  "notes": ""
+ },
+ {
+  "id": "e2710_00dc4",
+  "kind": "line",
+  "jp": "ほれ　この家ですらい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 22,
+  "notes": ""
+ },
+ {
+  "id": "e2710_00e24",
+  "kind": "line",
+  "jp": "どうしててみんな　ヘンなほうげんを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 23,
+  "notes": ""
+ },
+ {
+  "id": "e2710_00e50",
+  "kind": "line",
+  "jp": "しゃべるんじゃろかいのう？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 23,
+  "notes": ""
+ },
+ {
+  "id": "e2710_00e74",
+  "kind": "line",
+  "jp": "あれ　ボクもうつっちゃったばい！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 23,
+  "notes": ""
+ },
+ {
+  "id": "e2710_00ed4",
+  "kind": "line",
+  "jp": "この村の人は　みんなバラバラな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 24,
+  "notes": ""
+ },
+ {
+  "id": "e2710_00efc",
+  "kind": "line",
+  "jp": "ほうげんをしゃべってるね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 24,
+  "notes": ""
+ },
+ {
+  "id": "e2710_00f20",
+  "kind": "line",
+  "jp": "いったい　どうしてなんだろう？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 24,
+  "notes": ""
+ },
+ {
+  "id": "e2710_00f7c",
+  "kind": "line",
+  "jp": "田万里村の人は　どうしてみんな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 25,
+  "notes": ""
+ },
+ {
+  "id": "e2710_00fa4",
+  "kind": "line",
+  "jp": "ヘンなほうげんをつかうのかなぁ？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 25,
+  "notes": ""
+ },
+ {
+  "id": "e2710_01010",
+  "kind": "line",
+  "jp": "うおお　いつのまにかたきに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 26,
+  "notes": ""
+ },
+ {
+  "id": "e2710_01034",
+  "kind": "line",
+  "jp": "うたれるのが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 26,
+  "notes": ""
+ },
+ {
+  "id": "e2710_0104c",
+  "kind": "line",
+  "jp": "かいかんになってしもうたばい！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 26,
+  "notes": ""
+ },
+ {
+  "id": "e2710_010a8",
+  "kind": "line",
+  "jp": "バトローリングのおうぎにめざめるため",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 27,
+  "notes": ""
+ },
+ {
+  "id": "e2710_010d8",
+  "kind": "line",
+  "jp": "しゅぎょうしているばい！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 27,
+  "notes": ""
+ },
+ {
+  "id": "e2710_01130",
+  "kind": "line",
+  "jp": "うおお　しゅぎょうじゃ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 28,
+  "notes": ""
+ },
+ {
+  "id": "e2710_01150",
+  "kind": "line",
+  "jp": "たきにうたれてしゅぎょうするばい！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 28,
+  "notes": ""
+ },
+ {
+  "id": "e2710_017cc",
+  "kind": "line",
+  "jp": "ここを通りたかったら",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 48,
+  "notes": ""
+ },
+ {
+  "id": "e2710_017ec",
+  "kind": "line",
+  "jp": "オレと勝負だ！！！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 48,
+  "notes": ""
+ },
+ {
+  "id": "e2710_01814.0",
+  "kind": "choice",
+  "jp": "いやです",
+  "en": "",
+  "status": "new",
+  "script": 48,
+  "notes": ""
+ },
+ {
+  "id": "e2710_01814.1",
+  "kind": "choice",
+  "jp": "かくごしろよ",
+  "en": "",
+  "status": "new",
+  "script": 48,
+  "notes": ""
+ },
+ {
+  "id": "e2710_01858",
+  "kind": "line",
+  "jp": "こしぬけめ！！！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 48,
+  "notes": ""
+ },
+ {
+  "id": "e2710_01884",
+  "kind": "line",
+  "jp": "こうかいするぞ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 48,
+  "notes": ""
+ },
+ {
+  "id": "e2710_0191c",
+  "kind": "line",
+  "jp": "ひえ～　かんべんしてください",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 48,
+  "notes": ""
+ },
+ {
+  "id": "e2710_019a8",
+  "kind": "line",
+  "jp": "へっ　とっとと帰りやがれ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 48,
+  "notes": ""
+ },
+ {
+  "id": "e2710_01a18",
+  "kind": "line",
+  "jp": "ここは通さん！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 49,
+  "notes": ""
+ },
+ {
+  "id": "e2710_01acc",
+  "kind": "line",
+  "jp": "Ｖメダルを見つけた！！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 52,
+  "notes": ""
+ },
+ {
+  "id": "e2710_01b48",
+  "kind": "line",
+  "jp": "ここは　どこだ～！まよった！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 53,
+  "notes": ""
+ },
+ {
+  "id": "e2710_01bd8",
+  "kind": "line",
+  "jp": "しかし　たきにうたれるのは　いったい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 55,
+  "notes": ""
+ },
+ {
+  "id": "e2710_01c08",
+  "kind": "line",
+  "jp": "なんのしゅぎょうになるんだろう……？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 55,
+  "notes": ""
+ },
+ {
+  "id": "e2710_01c38",
+  "kind": "line",
+  "jp": "たぶん　マイナスイオンとかが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 55,
+  "notes": ""
+ },
+ {
+  "id": "e2710_01c60",
+  "kind": "line",
+  "jp": "かんけいあると思うが･･･",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 55,
+  "notes": ""
+ },
+ {
+  "id": "e2710_01cbc",
+  "kind": "line",
+  "jp": "しゅじんこうか……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 56,
+  "notes": ""
+ },
+ {
+  "id": "e2710_01cd8",
+  "kind": "line",
+  "jp": "オレはおまえには負けん！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 56,
+  "notes": ""
+ },
+ {
+  "id": "e2710_01cfc",
+  "kind": "line",
+  "jp": "こうやってしゅぎょうしてもっともっと",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 56,
+  "notes": ""
+ },
+ {
+  "id": "e2710_01d2c",
+  "kind": "line",
+  "jp": "強くなってやる　ウォオオ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 56,
+  "notes": ""
+ },
+ {
+  "id": "e2710_01dc4",
+  "kind": "line",
+  "jp": "わたしは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 58,
+  "notes": ""
+ },
+ {
+  "id": "e2710_01dd8",
+  "kind": "line",
+  "jp": "うつくしい　ステキ　うるわしい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 58,
+  "notes": ""
+ },
+ {
+  "id": "e2710_01e00",
+  "kind": "line",
+  "jp": "うつくしい　ステキ　うるわしい……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 58,
+  "notes": ""
+ },
+ {
+  "id": "e2710_01e2c",
+  "kind": "line",
+  "jp": "うつくしい　ステキ　うるわしい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 58,
+  "notes": ""
+ },
+ {
+  "id": "e2710_01e54",
+  "kind": "line",
+  "jp": "……うつくしい！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 58,
+  "notes": ""
+ },
+ {
+  "id": "e2710_01e70",
+  "kind": "line",
+  "jp": "フッ！　やはり　花うらないでも",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 58,
+  "notes": ""
+ },
+ {
+  "id": "e2710_01e98",
+  "kind": "line",
+  "jp": "わたしは　うつくしいと出ている",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 58,
+  "notes": ""
+ },
+ {
+  "id": "e2710_01f10",
+  "kind": "line",
+  "jp": "な！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 58,
+  "notes": ""
+ },
+ {
+  "id": "e2710_01f20",
+  "kind": "line",
+  "jp": "なんだ　キミは……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 58,
+  "notes": ""
+ },
+ {
+  "id": "e2710_01f3c",
+  "kind": "line",
+  "jp": "……どうやら　わたしの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 58,
+  "notes": ""
+ },
+ {
+  "id": "e2710_01f5c",
+  "kind": "line",
+  "jp": "はずかしいヒミツを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 58,
+  "notes": ""
+ },
+ {
+  "id": "e2710_01f78",
+  "kind": "line",
+  "jp": "知ってしまったようだね……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 58,
+  "notes": ""
+ },
+ {
+  "id": "e2710_01f9c",
+  "kind": "line",
+  "jp": "フッ！　こうなったら",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 58,
+  "notes": ""
+ },
+ {
+  "id": "e2710_01fbc",
+  "kind": "line",
+  "jp": "タダでかえすわけには　いかない",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 58,
+  "notes": ""
+ },
+ {
+  "id": "e2710_0201c",
+  "kind": "line",
+  "jp": "キミのきおくが　なくなるまで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 58,
+  "notes": ""
+ },
+ {
+  "id": "e2710_02044",
+  "kind": "line",
+  "jp": "ぶちのめして　さしあげよう！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 58,
+  "notes": ""
+ },
+ {
+  "id": "e2710_020ac",
+  "kind": "line",
+  "jp": "キミは　負けてなお",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 58,
+  "notes": ""
+ },
+ {
+  "id": "e2710_020c8",
+  "kind": "line",
+  "jp": "うつくしいわたしを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 58,
+  "notes": ""
+ },
+ {
+  "id": "e2710_020e4",
+  "kind": "line",
+  "jp": "はずかしめようというのか……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 58,
+  "notes": ""
+ },
+ {
+  "id": "e2710_02118.0",
+  "kind": "choice",
+  "jp": "もちろん",
+  "en": "",
+  "status": "new",
+  "script": 58,
+  "notes": ""
+ },
+ {
+  "id": "e2710_02118.1",
+  "kind": "choice",
+  "jp": "べつに……",
+  "en": "",
+  "status": "new",
+  "script": 58,
+  "notes": ""
+ },
+ {
+  "id": "e2710_02158",
+  "kind": "line",
+  "jp": "わかった……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 58,
+  "notes": ""
+ },
+ {
+  "id": "e2710_02170",
+  "kind": "line",
+  "jp": "わたしも男だ　カクゴを決めよう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 58,
+  "notes": ""
+ },
+ {
+  "id": "e2710_02198",
+  "kind": "line",
+  "jp": "これを　やるから",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 58,
+  "notes": ""
+ },
+ {
+  "id": "e2710_021b4",
+  "kind": "line",
+  "jp": "みんなには　だまっててくれたまえ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 58,
+  "notes": ""
+ },
+ {
+  "id": "e2710_0220c",
+  "kind": "line",
+  "jp": "ステキなわたしを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 58,
+  "notes": ""
+ },
+ {
+  "id": "e2710_02228",
+  "kind": "line",
+  "jp": "見のがしてくれるとは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 58,
+  "notes": ""
+ },
+ {
+  "id": "e2710_02248",
+  "kind": "line",
+  "jp": "キミは　なんていいヤツなんだ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 58,
+  "notes": ""
+ },
+ {
+  "id": "e2710_02270",
+  "kind": "line",
+  "jp": "そうだ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 58,
+  "notes": ""
+ },
+ {
+  "id": "e2710_02284",
+  "kind": "line",
+  "jp": "お礼にこれをあげよう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 58,
+  "notes": ""
+ },
+ {
+  "id": "e2710_022d8",
+  "kind": "line",
+  "jp": "ワイロなんかじゃないぞ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 58,
+  "notes": ""
+ },
+ {
+  "id": "e2710_022f8",
+  "kind": "line",
+  "jp": "ゆうじょうの　あかしだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 58,
+  "notes": ""
+ },
+ {
+  "id": "e2710_02318",
+  "kind": "line",
+  "jp": "キミのゆうじょうと",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 58,
+  "notes": ""
+ },
+ {
+  "id": "e2710_02334",
+  "kind": "line",
+  "jp": "わたしのうつくしさに　カンパイ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 58,
+  "notes": ""
+ },
+ {
+  "id": "e2710_02398",
+  "kind": "line",
+  "jp": "アディオス　アミーゴ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 58,
+  "notes": ""
+ },
+ {
+  "id": "e2710_023c4",
+  "kind": "line",
+  "jp": "ひみつはまもられた・・・",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 58,
+  "notes": ""
+ },
+ {
+  "id": "e2710_023e8",
+  "kind": "line",
+  "jp": "フッ・・・",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 58,
+  "notes": ""
+ }
+]

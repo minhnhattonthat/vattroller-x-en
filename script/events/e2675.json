@@ -1,0 +1,222 @@
+[
+ {
+  "id": "e2675_000b0",
+  "kind": "line",
+  "jp": "レアアイテムが　ほしいのですが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2675_000d8",
+  "kind": "line",
+  "jp": "ぜんぜんお金がたりません",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2675_000fc",
+  "kind": "line",
+  "jp": "シクシク　バイトしてから",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2675_00120",
+  "kind": "line",
+  "jp": "でなおしま～す……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2675_00170",
+  "kind": "line",
+  "jp": "わざわざ　さがしまわって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2675_00194",
+  "kind": "line",
+  "jp": "この店にきたかいがありました",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2675_001bc",
+  "kind": "line",
+  "jp": "みなさい　このレアアイテムの数々を！　",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2675_001ec",
+  "kind": "line",
+  "jp": "ぜんぶ買いしめてしまいたいですよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2675_0036c",
+  "kind": "line",
+  "jp": "アームリライターだ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2675_0038c",
+  "kind": "line",
+  "jp": "きどうしますか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2675_00404",
+  "kind": "line",
+  "jp": "アーマレットをはっこうするきかいだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2675_00430",
+  "kind": "line",
+  "jp": "もうもってるから　いらないや",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2675_00498",
+  "kind": "line",
+  "jp": "キミもバトローリング大会に",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2675_004bc",
+  "kind": "line",
+  "jp": "しゅつじょうしよう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2675_00518",
+  "kind": "line",
+  "jp": "しんがたアームはつばいちゅう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2675_00580",
+  "kind": "line",
+  "jp": "さまざまな商品がならんでいる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2675_005e8",
+  "kind": "line",
+  "jp": "バトローリング用品が",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2675_00608",
+  "kind": "line",
+  "jp": "たくさんならんでいる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2675_00668",
+  "kind": "line",
+  "jp": "バトローリングのユニフォームが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2675_00690",
+  "kind": "line",
+  "jp": "ならんでいる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2675_006e8",
+  "kind": "line",
+  "jp": "バトローリングの本が",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2675_00708",
+  "kind": "line",
+  "jp": "ならんでいる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 15,
+  "notes": ""
+ }
+]

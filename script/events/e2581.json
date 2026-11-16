@@ -1,0 +1,312 @@
+[
+ {
+  "id": "e2581_000a4",
+  "kind": "line",
+  "jp": "∴！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2581_000b4",
+  "kind": "line",
+  "jp": "ちょうどキミをさがしてたんですよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2581_000e0",
+  "kind": "line",
+  "jp": "じつは　他の中学のデータを……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2581_00108",
+  "kind": "line",
+  "jp": "ん？　なにかあったんですか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2581_00158",
+  "kind": "line",
+  "jp": "じつは　くりを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2581_00170",
+  "kind": "line",
+  "jp": "ばらまいてしまって……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2581_00190",
+  "kind": "line",
+  "jp": "急いで　拾ってとどけなきゃ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2581_001b4",
+  "kind": "line",
+  "jp": "しかられちゃうです",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2581_001d0",
+  "kind": "line",
+  "jp": "だから　",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2581_001e4",
+  "kind": "line",
+  "jp": "拾うのを　手つだってほしいです",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2581_00218",
+  "kind": "line",
+  "jp": "……たいへんそうですね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2581_00238",
+  "kind": "line",
+  "jp": "ボクも手つだいましょう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2581_002b8",
+  "kind": "line",
+  "jp": "ありがとう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2581_002cc",
+  "kind": "line",
+  "jp": "おかげで　いいデータが……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2581_002f0",
+  "kind": "line",
+  "jp": "じゃなくて……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2581_00308",
+  "kind": "line",
+  "jp": "くりがぶじに　拾えたです",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2581_0032c",
+  "kind": "line",
+  "jp": "これは　ほんのお礼ですから",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2581_00350",
+  "kind": "line",
+  "jp": "うけとってください",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2581_0038c",
+  "kind": "line",
+  "jp": "∴がもらいなよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2581_003a4",
+  "kind": "line",
+  "jp": "１番多く拾ったんだし",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2581_003f0",
+  "kind": "line",
+  "jp": "ありがとう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2581_00404",
+  "kind": "line",
+  "jp": "そんなつもりじゃ　なかったんですけど",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2581_00440",
+  "kind": "line",
+  "jp": "それじゃ　ボクは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2581_0045c",
+  "kind": "line",
+  "jp": "このデータを　ぶんせき……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2581_00480",
+  "kind": "line",
+  "jp": "……じゃなくて",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2581_00498",
+  "kind": "line",
+  "jp": "くりをとどけに　行ってくるです",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2581_004ec",
+  "kind": "line",
+  "jp": "どこかで見た気がするんですよね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2581_00514",
+  "kind": "line",
+  "jp": "さっきのカレ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2581_00530",
+  "kind": "line",
+  "jp": "……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2581_00540",
+  "kind": "line",
+  "jp": "ちょっと　調べたいことができたので",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2581_0056c",
+  "kind": "line",
+  "jp": "ボクは　これでしつれいします",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

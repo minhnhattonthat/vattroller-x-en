@@ -1,0 +1,592 @@
+[
+ {
+  "id": "e2680_00188",
+  "kind": "line",
+  "jp": "シュウくんやリョウくんなど　このジム",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2680_001b8",
+  "kind": "line",
+  "jp": "には　ゆうしゅうな人がおおいです",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2680_001e4",
+  "kind": "line",
+  "jp": "それは　タイラーさんが　おしえ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2680_0020c",
+  "kind": "line",
+  "jp": "じょうずなせいでもあると思います",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2680_0026c",
+  "kind": "line",
+  "jp": "タイラーさんは　ほんとうに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2680_00290",
+  "kind": "line",
+  "jp": "せんしゅのしどうがじょうずなんです",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2680_002bc",
+  "kind": "line",
+  "jp": "ボクも　タイラーさんにおそわって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2680_002e8",
+  "kind": "line",
+  "jp": "メキメキうまくなったんですよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2680_00350",
+  "kind": "line",
+  "jp": "シュウくんといっしょにいたいから",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2680_0037c",
+  "kind": "line",
+  "jp": "バトローリングを　はじめたんだけど……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2680_003ac",
+  "kind": "line",
+  "jp": "いまでは　バトローリングが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2680_003d0",
+  "kind": "line",
+  "jp": "ほんとうにたのしくてしかたがないのよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2680_00434",
+  "kind": "line",
+  "jp": "わたし　シュウくんにあこがれて",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2680_0045c",
+  "kind": "line",
+  "jp": "バトローリングをはじめたの……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2680_00484",
+  "kind": "line",
+  "jp": "いっしょのジムで練習できて",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2680_004a8",
+  "kind": "line",
+  "jp": "し・あ・わ・せ　ポッヽ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2680_00530",
+  "kind": "line",
+  "jp": "なんだ？　テメー……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2680_00550",
+  "kind": "line",
+  "jp": "ん？　タイラーさんから",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2680_00570",
+  "kind": "line",
+  "jp": "しょるいを　とどけるように言われた？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2680_005a0",
+  "kind": "line",
+  "jp": "しかも　オレにわたしてくれだと……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2680_005cc",
+  "kind": "line",
+  "jp": "まっ　まさか……≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2680_005e8",
+  "kind": "line",
+  "jp": "やっと　かいほうされると思ったのに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2680_00628",
+  "kind": "line",
+  "jp": "用がすんだら",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2680_00640",
+  "kind": "line",
+  "jp": "とっとと帰りやがれ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2680_006c8",
+  "kind": "line",
+  "jp": "光円寺バトローリング大会",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2680_006ec",
+  "kind": "line",
+  "jp": "うけつけです　さんかしますか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2680_00738",
+  "kind": "line",
+  "jp": "がんばってください♪",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2680_00798",
+  "kind": "line",
+  "jp": "優勝おめでとうございます",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2680_007bc",
+  "kind": "line",
+  "jp": "しょうひんのアームです",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2680_00810",
+  "kind": "line",
+  "jp": "また　さんかしてくださいね！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2680_00844",
+  "kind": "line",
+  "jp": "ざんねんでした",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2680_0085c",
+  "kind": "line",
+  "jp": "また　さんかしてくださいね！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2680_008a8",
+  "kind": "line",
+  "jp": "また　おこしください！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2680_008fc",
+  "kind": "line",
+  "jp": "光円寺バトローリング大会",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2680_00920",
+  "kind": "line",
+  "jp": "うけつけです　さんかしますか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2680_0096c",
+  "kind": "line",
+  "jp": "がんばってください♪",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2680_009cc",
+  "kind": "line",
+  "jp": "優勝おめでとうございます",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2680_009f0",
+  "kind": "line",
+  "jp": "しょうひんのアームです",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2680_00a44",
+  "kind": "line",
+  "jp": "また　さんかしてくださいね！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2680_00a78",
+  "kind": "line",
+  "jp": "ざんねんでした",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2680_00a90",
+  "kind": "line",
+  "jp": "また　さんかしてくださいね！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2680_00ad0",
+  "kind": "line",
+  "jp": "また　おこしください！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2680_00b24",
+  "kind": "line",
+  "jp": "光円寺バトローリング大会",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2680_00b48",
+  "kind": "line",
+  "jp": "うけつけです　さんかしますか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2680_00b94",
+  "kind": "line",
+  "jp": "がんばってください♪",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2680_00bf4",
+  "kind": "line",
+  "jp": "優勝おめでとうございます",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2680_00c18",
+  "kind": "line",
+  "jp": "しょうひんのアームです",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2680_00c6c",
+  "kind": "line",
+  "jp": "また　さんかしてくださいね！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2680_00ca0",
+  "kind": "line",
+  "jp": "ざんねんでした",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2680_00cb8",
+  "kind": "line",
+  "jp": "また　さんかしてくださいね！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2680_00cf8",
+  "kind": "line",
+  "jp": "また　おこしください！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2680_00d58",
+  "kind": "line",
+  "jp": "バトローリングの本が　ならんでる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2680_00dc4",
+  "kind": "line",
+  "jp": "バトローリングの本が　ならんでる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2680_00e30",
+  "kind": "line",
+  "jp": "バトローリングの本が　ならんでる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2680_00e9c",
+  "kind": "line",
+  "jp": "バトローリングの本が　ならんでる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 17,
+  "notes": ""
+ },
+ {
+  "id": "e2680_00f08",
+  "kind": "line",
+  "jp": "はいれないようだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 18,
+  "notes": ""
+ },
+ {
+  "id": "e2680_00f64",
+  "kind": "line",
+  "jp": "はいれないようだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 19,
+  "notes": ""
+ },
+ {
+  "id": "e2680_00fc0",
+  "kind": "line",
+  "jp": "バトローリングテクニック",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 20,
+  "notes": ""
+ },
+ {
+  "id": "e2680_00fe4",
+  "kind": "line",
+  "jp": "自分にあったアームセットをさがそう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 20,
+  "notes": ""
+ }
+]

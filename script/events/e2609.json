@@ -1,0 +1,1548 @@
+[
+ {
+  "id": "e2609_003c8",
+  "kind": "line",
+  "jp": "やっぱり男は　強くないとネヽ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2609_00424",
+  "kind": "line",
+  "jp": "今から　ここでシュウさまの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2609_00448",
+  "kind": "line",
+  "jp": "ひみつとっくんが　あるらしいのよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2609_00474",
+  "kind": "line",
+  "jp": "ていさつに行くから",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2609_00490",
+  "kind": "line",
+  "jp": "あんたも　ついていらっしゃい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2609_004c4.0",
+  "kind": "choice",
+  "jp": "はい",
+  "en": "",
+  "status": "new",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2609_004c4.1",
+  "kind": "choice",
+  "jp": "いまは　いそがしいです",
+  "en": "",
+  "status": "new",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2609_0050c",
+  "kind": "line",
+  "jp": "よ～し　行くわよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2609_00534",
+  "kind": "line",
+  "jp": "あんたって　ホントつきあいわるいわね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2609_005b0",
+  "kind": "line",
+  "jp": "やっぱり男は　強くないとネヽ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 17,
+  "notes": ""
+ },
+ {
+  "id": "e2609_0060c",
+  "kind": "line",
+  "jp": "やっぱり男は　シブくて",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 18,
+  "notes": ""
+ },
+ {
+  "id": "e2609_0062c",
+  "kind": "line",
+  "jp": "お金持ちじゃないとネヽ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 18,
+  "notes": ""
+ },
+ {
+  "id": "e2609_0068c",
+  "kind": "line",
+  "jp": "ヘクサ社ってのは　ちょっとあぶない",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 19,
+  "notes": ""
+ },
+ {
+  "id": "e2609_006b8",
+  "kind": "line",
+  "jp": "会社みたいだな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 19,
+  "notes": ""
+ },
+ {
+  "id": "e2609_006d0",
+  "kind": "line",
+  "jp": "おまえさんも　気をつけたほうがいいぜ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 19,
+  "notes": ""
+ },
+ {
+  "id": "e2609_00734",
+  "kind": "line",
+  "jp": "ヘクサ社ってのは　ついさいきん",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 20,
+  "notes": ""
+ },
+ {
+  "id": "e2609_0075c",
+  "kind": "line",
+  "jp": "この町にうつってきたんだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 20,
+  "notes": ""
+ },
+ {
+  "id": "e2609_00780",
+  "kind": "line",
+  "jp": "ウワサじゃ　うらでずいぶん",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 20,
+  "notes": ""
+ },
+ {
+  "id": "e2609_007a4",
+  "kind": "line",
+  "jp": "あくどいことを　しているらしいぜ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 20,
+  "notes": ""
+ },
+ {
+  "id": "e2609_00810",
+  "kind": "line",
+  "jp": "ヘクサ社って　町の人と　ちっとも",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 21,
+  "notes": ""
+ },
+ {
+  "id": "e2609_0083c",
+  "kind": "line",
+  "jp": "なかよくしようとしないの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 21,
+  "notes": ""
+ },
+ {
+  "id": "e2609_00860",
+  "kind": "line",
+  "jp": "すごくへいさてきな会社なんだから！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 21,
+  "notes": ""
+ },
+ {
+  "id": "e2609_008c0",
+  "kind": "line",
+  "jp": "ヘクサ社の人って　町の人とちっとも",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 22,
+  "notes": ""
+ },
+ {
+  "id": "e2609_008ec",
+  "kind": "line",
+  "jp": "こうりゅうしようとしないのよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 22,
+  "notes": ""
+ },
+ {
+  "id": "e2609_00914",
+  "kind": "line",
+  "jp": "おひるごはんだって　食べに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 22,
+  "notes": ""
+ },
+ {
+  "id": "e2609_00938",
+  "kind": "line",
+  "jp": "でてこないぐらいなんだから！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 22,
+  "notes": ""
+ },
+ {
+  "id": "e2609_009a0",
+  "kind": "line",
+  "jp": "ヨソものなのに　リーグ戦にさんか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 23,
+  "notes": ""
+ },
+ {
+  "id": "e2609_009cc",
+  "kind": "line",
+  "jp": "……フン　ちょっとはホネがあるね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 23,
+  "notes": ""
+ },
+ {
+  "id": "e2609_00a2c",
+  "kind": "line",
+  "jp": "あんた　なにものだい？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 24,
+  "notes": ""
+ },
+ {
+  "id": "e2609_00a4c",
+  "kind": "line",
+  "jp": "あたしゃヨソものはキライだよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 24,
+  "notes": ""
+ },
+ {
+  "id": "e2609_00a74",
+  "kind": "line",
+  "jp": "ヨソものもだけど",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 24,
+  "notes": ""
+ },
+ {
+  "id": "e2609_00a90",
+  "kind": "line",
+  "jp": "プレミアムジムのやつらもキライさ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 24,
+  "notes": ""
+ },
+ {
+  "id": "e2609_00afc",
+  "kind": "line",
+  "jp": "ヘクサ社ってのは　プロレスの会社かと",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 25,
+  "notes": ""
+ },
+ {
+  "id": "e2609_00b2c",
+  "kind": "line",
+  "jp": "思ったら　ちがうんだってねぇ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 25,
+  "notes": ""
+ },
+ {
+  "id": "e2609_00b58",
+  "kind": "line",
+  "jp": "じゃあ　あのふくめんの男たちは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 25,
+  "notes": ""
+ },
+ {
+  "id": "e2609_00b80",
+  "kind": "line",
+  "jp": "なんだったんだろうねぇ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 25,
+  "notes": ""
+ },
+ {
+  "id": "e2609_00bd8",
+  "kind": "line",
+  "jp": "あたしゃ　みたんだよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 26,
+  "notes": ""
+ },
+ {
+  "id": "e2609_00bf8",
+  "kind": "line",
+  "jp": "ふくめんのヘンな男たちが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 26,
+  "notes": ""
+ },
+ {
+  "id": "e2609_00c1c",
+  "kind": "line",
+  "jp": "この会社に出入りしているところをね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 26,
+  "notes": ""
+ },
+ {
+  "id": "e2609_00cdc",
+  "kind": "line",
+  "jp": "お店は　しまっているようだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 28,
+  "notes": ""
+ },
+ {
+  "id": "e2609_010c4",
+  "kind": "line",
+  "jp": "ここは　ヘクサ社です",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 39,
+  "notes": ""
+ },
+ {
+  "id": "e2609_010e4",
+  "kind": "line",
+  "jp": "たちいりきんしです",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 39,
+  "notes": ""
+ },
+ {
+  "id": "e2609_01140",
+  "kind": "line",
+  "jp": "たちいりきんしです",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 40,
+  "notes": ""
+ },
+ {
+  "id": "e2609_011d0",
+  "kind": "line",
+  "jp": "わしと　練習せんかの？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 42,
+  "notes": ""
+ },
+ {
+  "id": "e2609_011fc.0",
+  "kind": "choice",
+  "jp": "おねがいします",
+  "en": "",
+  "status": "new",
+  "script": 42,
+  "notes": ""
+ },
+ {
+  "id": "e2609_011fc.1",
+  "kind": "choice",
+  "jp": "えんりょします",
+  "en": "",
+  "status": "new",
+  "script": 42,
+  "notes": ""
+ },
+ {
+  "id": "e2609_01244",
+  "kind": "line",
+  "jp": "それでは　いくぞい！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 42,
+  "notes": ""
+ },
+ {
+  "id": "e2609_01270",
+  "kind": "line",
+  "jp": "つまらんの～",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 42,
+  "notes": ""
+ },
+ {
+  "id": "e2609_01288",
+  "kind": "line",
+  "jp": "またくるのを　まっておるぞい！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 42,
+  "notes": ""
+ },
+ {
+  "id": "e2609_012f4",
+  "kind": "line",
+  "jp": "おまえは　まだまだ強くなれそうじゃの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 42,
+  "notes": ""
+ },
+ {
+  "id": "e2609_01330",
+  "kind": "line",
+  "jp": "ありゃ　それじゃ　だめじゃな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 42,
+  "notes": ""
+ },
+ {
+  "id": "e2609_01358",
+  "kind": "line",
+  "jp": "また　どうぞ～♪",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 42,
+  "notes": ""
+ },
+ {
+  "id": "e2609_013ac",
+  "kind": "line",
+  "jp": "きょうはそつぎょうしけんじゃ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 43,
+  "notes": ""
+ },
+ {
+  "id": "e2609_013d4",
+  "kind": "line",
+  "jp": "わしと対戦して　かってみ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 43,
+  "notes": ""
+ },
+ {
+  "id": "e2609_01404.0",
+  "kind": "choice",
+  "jp": "おねがいします",
+  "en": "",
+  "status": "new",
+  "script": 43,
+  "notes": ""
+ },
+ {
+  "id": "e2609_01404.1",
+  "kind": "choice",
+  "jp": "えんりょします",
+  "en": "",
+  "status": "new",
+  "script": 43,
+  "notes": ""
+ },
+ {
+  "id": "e2609_0144c",
+  "kind": "line",
+  "jp": "それでは　いくぞい！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 43,
+  "notes": ""
+ },
+ {
+  "id": "e2609_01478",
+  "kind": "line",
+  "jp": "つまらんの～",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 43,
+  "notes": ""
+ },
+ {
+  "id": "e2609_01490",
+  "kind": "line",
+  "jp": "またくるのを　まっておるぞい！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 43,
+  "notes": ""
+ },
+ {
+  "id": "e2609_014fc",
+  "kind": "line",
+  "jp": "おまえは　まだまだ強くなれそうじゃの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 43,
+  "notes": ""
+ },
+ {
+  "id": "e2609_01590",
+  "kind": "line",
+  "jp": "ありゃ　それじゃ　だめじゃな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 43,
+  "notes": ""
+ },
+ {
+  "id": "e2609_015b8",
+  "kind": "line",
+  "jp": "また　どうぞ～♪",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 43,
+  "notes": ""
+ },
+ {
+  "id": "e2609_0160c",
+  "kind": "line",
+  "jp": "きょうは　わしの弟子と対戦じゃ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 44,
+  "notes": ""
+ },
+ {
+  "id": "e2609_01634",
+  "kind": "line",
+  "jp": "Ｖスキルおしえてやるから　かってみ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 44,
+  "notes": ""
+ },
+ {
+  "id": "e2609_01670.0",
+  "kind": "choice",
+  "jp": "おねがいします",
+  "en": "",
+  "status": "new",
+  "script": 44,
+  "notes": ""
+ },
+ {
+  "id": "e2609_01670.1",
+  "kind": "choice",
+  "jp": "えんりょします",
+  "en": "",
+  "status": "new",
+  "script": 44,
+  "notes": ""
+ },
+ {
+  "id": "e2609_016b8",
+  "kind": "line",
+  "jp": "それでは　いくぞい！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 44,
+  "notes": ""
+ },
+ {
+  "id": "e2609_016e4",
+  "kind": "line",
+  "jp": "つまらんの～",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 44,
+  "notes": ""
+ },
+ {
+  "id": "e2609_016fc",
+  "kind": "line",
+  "jp": "またくるのを　まっておるぞい！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 44,
+  "notes": ""
+ },
+ {
+  "id": "e2609_01768",
+  "kind": "line",
+  "jp": "お～さすがじゃの　ほれ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 44,
+  "notes": ""
+ },
+ {
+  "id": "e2609_01788",
+  "kind": "line",
+  "jp": "これは　ごほうびじゃ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 44,
+  "notes": ""
+ },
+ {
+  "id": "e2609_017c8",
+  "kind": "line",
+  "jp": "ボーナスＶＰをもらった∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 44,
+  "notes": ""
+ },
+ {
+  "id": "e2609_01828",
+  "kind": "line",
+  "jp": "ありゃ　それじゃ　だめじゃな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 44,
+  "notes": ""
+ },
+ {
+  "id": "e2609_01850",
+  "kind": "line",
+  "jp": "また　どうぞ～♪",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 44,
+  "notes": ""
+ },
+ {
+  "id": "e2609_018a4",
+  "kind": "line",
+  "jp": "くんくん　おぬし　うまそうな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 45,
+  "notes": ""
+ },
+ {
+  "id": "e2609_018cc",
+  "kind": "line",
+  "jp": "においをさせとるの～",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 45,
+  "notes": ""
+ },
+ {
+  "id": "e2609_018ec",
+  "kind": "line",
+  "jp": "お　それは　まんげつのだんご！！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 45,
+  "notes": ""
+ },
+ {
+  "id": "e2609_01918",
+  "kind": "line",
+  "jp": "わしのだいこうぶつじゃぁ　くれ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 45,
+  "notes": ""
+ },
+ {
+  "id": "e2609_01944",
+  "kind": "line",
+  "jp": "ひとつ　おくれ！！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 45,
+  "notes": ""
+ },
+ {
+  "id": "e2609_01960",
+  "kind": "line",
+  "jp": "いいじゃろう？　そのかわり",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 45,
+  "notes": ""
+ },
+ {
+  "id": "e2609_01984",
+  "kind": "line",
+  "jp": "バトローリングおしえてやるからの！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 45,
+  "notes": ""
+ },
+ {
+  "id": "e2609_019bc.0",
+  "kind": "choice",
+  "jp": "わかりました",
+  "en": "",
+  "status": "new",
+  "script": 45,
+  "notes": ""
+ },
+ {
+  "id": "e2609_019bc.1",
+  "kind": "choice",
+  "jp": "おことわりします",
+  "en": "",
+  "status": "new",
+  "script": 45,
+  "notes": ""
+ },
+ {
+  "id": "e2609_01a08",
+  "kind": "line",
+  "jp": "シャークボールを『１０コ』",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 45,
+  "notes": ""
+ },
+ {
+  "id": "e2609_01a2c",
+  "kind": "line",
+  "jp": "たおしてみ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 45,
+  "notes": ""
+ },
+ {
+  "id": "e2609_01a44",
+  "kind": "line",
+  "jp": "ぼうぎょは　バトローリングのきそじゃ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 45,
+  "notes": ""
+ },
+ {
+  "id": "e2609_01a74",
+  "kind": "line",
+  "jp": "アタックロールをみごと　はじいてみせよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 45,
+  "notes": ""
+ },
+ {
+  "id": "e2609_01ab0",
+  "kind": "line",
+  "jp": "またくるのを　まっておるぞい！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 45,
+  "notes": ""
+ },
+ {
+  "id": "e2609_01b1c",
+  "kind": "line",
+  "jp": "お～さすがじゃの　ほれ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 45,
+  "notes": ""
+ },
+ {
+  "id": "e2609_01b50",
+  "kind": "line",
+  "jp": "これでエクスバウンダーけいが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 45,
+  "notes": ""
+ },
+ {
+  "id": "e2609_01b78",
+  "kind": "line",
+  "jp": "使えるように　なるじゃろて",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 45,
+  "notes": ""
+ },
+ {
+  "id": "e2609_01bc8",
+  "kind": "line",
+  "jp": "ありゃ　それじゃ　だめじゃな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 45,
+  "notes": ""
+ },
+ {
+  "id": "e2609_01bf0",
+  "kind": "line",
+  "jp": "また　どうぞ～♪",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 45,
+  "notes": ""
+ },
+ {
+  "id": "e2609_01c44",
+  "kind": "line",
+  "jp": "なんじゃ　おぬし？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 46,
+  "notes": ""
+ },
+ {
+  "id": "e2609_01c60",
+  "kind": "line",
+  "jp": "バトローリングを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 46,
+  "notes": ""
+ },
+ {
+  "id": "e2609_01c7c",
+  "kind": "line",
+  "jp": "おしえてほしいじゃと？？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 46,
+  "notes": ""
+ },
+ {
+  "id": "e2609_01ca0",
+  "kind": "line",
+  "jp": "わしは　いまだんごが食べたくて",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 46,
+  "notes": ""
+ },
+ {
+  "id": "e2609_01cc8",
+  "kind": "line",
+  "jp": "しょうがないんじゃ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 46,
+  "notes": ""
+ },
+ {
+  "id": "e2609_01ce4",
+  "kind": "line",
+  "jp": "だから　おしえてやらんぞい！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 46,
+  "notes": ""
+ },
+ {
+  "id": "e2609_01d48",
+  "kind": "line",
+  "jp": "なんじゃ　おぬし？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 47,
+  "notes": ""
+ },
+ {
+  "id": "e2609_01d64",
+  "kind": "line",
+  "jp": "バトローリングを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 47,
+  "notes": ""
+ },
+ {
+  "id": "e2609_01d80",
+  "kind": "line",
+  "jp": "おしえてほしいじゃと？？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 47,
+  "notes": ""
+ },
+ {
+  "id": "e2609_01da4",
+  "kind": "line",
+  "jp": "わしは　エクスバウンダーけいのマスター",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 47,
+  "notes": ""
+ },
+ {
+  "id": "e2609_01dd4",
+  "kind": "line",
+  "jp": "じゃが　おぬしはまだ　バウンダーけいを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 47,
+  "notes": ""
+ },
+ {
+  "id": "e2609_01e04",
+  "kind": "line",
+  "jp": "しゅうとくしておらんみたいじゃな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 47,
+  "notes": ""
+ },
+ {
+  "id": "e2609_01e30",
+  "kind": "line",
+  "jp": "だから　おしえてやらんぞい！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 47,
+  "notes": ""
+ },
+ {
+  "id": "e2609_01efc",
+  "kind": "line",
+  "jp": "第３回戦は　ココ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 50,
+  "notes": ""
+ },
+ {
+  "id": "e2609_01f18",
+  "kind": "line",
+  "jp": "『光円寺レイオンジム』よ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 50,
+  "notes": ""
+ },
+ {
+  "id": "e2609_01f3c",
+  "kind": "line",
+  "jp": "先に　ドロップされたら負けよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 50,
+  "notes": ""
+ },
+ {
+  "id": "e2609_01f64",
+  "kind": "line",
+  "jp": "なみだ　かれはてるまで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 50,
+  "notes": ""
+ },
+ {
+  "id": "e2609_01f84",
+  "kind": "line",
+  "jp": "転がりなさい！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 50,
+  "notes": ""
+ },
+ {
+  "id": "e2609_02000",
+  "kind": "line",
+  "jp": "∴ちゃんも",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 50,
+  "notes": ""
+ },
+ {
+  "id": "e2609_02014",
+  "kind": "line",
+  "jp": "がんばらないとね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 50,
+  "notes": ""
+ },
+ {
+  "id": "e2609_02050",
+  "kind": "line",
+  "jp": "おしかったわね　∴ちゃん",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 50,
+  "notes": ""
+ },
+ {
+  "id": "e2609_02094",
+  "kind": "line",
+  "jp": "∴ちゃんが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 50,
+  "notes": ""
+ },
+ {
+  "id": "e2609_020a8",
+  "kind": "line",
+  "jp": "今のところ　１位よ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 50,
+  "notes": ""
+ },
+ {
+  "id": "e2609_020d0",
+  "kind": "line",
+  "jp": "最終戦の会場は　弾打浜よ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 50,
+  "notes": ""
+ },
+ {
+  "id": "e2609_020f4",
+  "kind": "line",
+  "jp": "命もえつきるまで　転がりなさい！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 50,
+  "notes": ""
+ },
+ {
+  "id": "e2609_02174",
+  "kind": "line",
+  "jp": "ここは光円寺町よ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 51,
+  "notes": ""
+ },
+ {
+  "id": "e2609_021d0",
+  "kind": "line",
+  "jp": "こんど　海でつりするんだ～",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 52,
+  "notes": ""
+ },
+ {
+  "id": "e2609_02228",
+  "kind": "line",
+  "jp": "つりをやってたら",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 53,
+  "notes": ""
+ },
+ {
+  "id": "e2609_02244",
+  "kind": "line",
+  "jp": "こんなの拾ったよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 53,
+  "notes": ""
+ },
+ {
+  "id": "e2609_02260",
+  "kind": "line",
+  "jp": "Ｖメダルをもらった！！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0600",
+  "script": 53,
+  "notes": ""
+ },
+ {
+  "id": "e2609_022e0",
+  "kind": "line",
+  "jp": "ここで　お魚つれるかな……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 54,
+  "notes": ""
+ },
+ {
+  "id": "e2609_0236c",
+  "kind": "line",
+  "jp": "な　なんだよ？　",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 56,
+  "notes": ""
+ },
+ {
+  "id": "e2609_02388",
+  "kind": "line",
+  "jp": "オレは　あやしいもんじゃねー！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 56,
+  "notes": ""
+ },
+ {
+  "id": "e2609_023b0",
+  "kind": "line",
+  "jp": "ちょっとヘクサ社の……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 56,
+  "notes": ""
+ },
+ {
+  "id": "e2609_023d0",
+  "kind": "line",
+  "jp": "い　いや　なんでもねーぜ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 56,
+  "notes": ""
+ },
+ {
+  "id": "e2609_02434",
+  "kind": "line",
+  "jp": "この光円寺のじゅうしょくは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 57,
+  "notes": ""
+ },
+ {
+  "id": "e2609_02458",
+  "kind": "line",
+  "jp": "バトローラーのマスターだそうだぞ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 57,
+  "notes": ""
+ },
+ {
+  "id": "e2609_02484",
+  "kind": "line",
+  "jp": "おぬしも　ここでしゅぎょうして",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 57,
+  "notes": ""
+ },
+ {
+  "id": "e2609_024ac",
+  "kind": "line",
+  "jp": "みるかな　ハハハ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 57,
+  "notes": ""
+ },
+ {
+  "id": "e2609_024fc",
+  "kind": "line",
+  "jp": "この光円寺のじゅうしょくは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 58,
+  "notes": ""
+ },
+ {
+  "id": "e2609_02520",
+  "kind": "line",
+  "jp": "バトローラーのマスターだそうだぞ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 58,
+  "notes": ""
+ },
+ {
+  "id": "e2609_0254c",
+  "kind": "line",
+  "jp": "おぬしも　ここでしゅぎょうして",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 58,
+  "notes": ""
+ },
+ {
+  "id": "e2609_02574",
+  "kind": "line",
+  "jp": "みるかな　ハハハ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 58,
+  "notes": ""
+ },
+ {
+  "id": "e2609_025c4",
+  "kind": "line",
+  "jp": "ここのお寺のじゅうしょくは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 59,
+  "notes": ""
+ },
+ {
+  "id": "e2609_025e8",
+  "kind": "line",
+  "jp": "ただものじゃないぞ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 59,
+  "notes": ""
+ },
+ {
+  "id": "e2609_02608",
+  "kind": "line",
+  "jp": "どう　ただものじゃないかって？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 59,
+  "notes": ""
+ },
+ {
+  "id": "e2609_02630",
+  "kind": "line",
+  "jp": "ハハハ　そのうちわかるって！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 59,
+  "notes": ""
+ },
+ {
+  "id": "e2609_02698",
+  "kind": "line",
+  "jp": "ねぇ　ねぇ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 60,
+  "notes": ""
+ },
+ {
+  "id": "e2609_026ac",
+  "kind": "line",
+  "jp": "バトローリングしない？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 60,
+  "notes": ""
+ },
+ {
+  "id": "e2609_026d8.0",
+  "kind": "choice",
+  "jp": "いいよ",
+  "en": "",
+  "status": "new",
+  "script": 60,
+  "notes": ""
+ },
+ {
+  "id": "e2609_026d8.1",
+  "kind": "choice",
+  "jp": "いやです",
+  "en": "",
+  "status": "new",
+  "script": 60,
+  "notes": ""
+ },
+ {
+  "id": "e2609_02714",
+  "kind": "line",
+  "jp": "てかげん　なしだからね！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 60,
+  "notes": ""
+ },
+ {
+  "id": "e2609_02778",
+  "kind": "line",
+  "jp": "え～ん　負けちゃった！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 60,
+  "notes": ""
+ },
+ {
+  "id": "e2609_027a4",
+  "kind": "line",
+  "jp": "ボクのほうが　つよかったね！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 60,
+  "notes": ""
+ },
+ {
+  "id": "e2609_027dc",
+  "kind": "line",
+  "jp": "またね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 60,
+  "notes": ""
+ },
+ {
+  "id": "e2609_02820",
+  "kind": "line",
+  "jp": "じゃーん　わたしと",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 61,
+  "notes": ""
+ },
+ {
+  "id": "e2609_0283c",
+  "kind": "line",
+  "jp": "バトローリングしない？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 61,
+  "notes": ""
+ },
+ {
+  "id": "e2609_02868.0",
+  "kind": "choice",
+  "jp": "いいよ",
+  "en": "",
+  "status": "new",
+  "script": 61,
+  "notes": ""
+ },
+ {
+  "id": "e2609_02868.1",
+  "kind": "choice",
+  "jp": "いやです",
+  "en": "",
+  "status": "new",
+  "script": 61,
+  "notes": ""
+ },
+ {
+  "id": "e2609_028a4",
+  "kind": "line",
+  "jp": "じゃあ　はじめましょ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 61,
+  "notes": ""
+ },
+ {
+  "id": "e2609_02904",
+  "kind": "line",
+  "jp": "まけちゃった　テヘ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 61,
+  "notes": ""
+ },
+ {
+  "id": "e2609_0292c",
+  "kind": "line",
+  "jp": "じゃーん！　どう？　強いでしょ？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 61,
+  "notes": ""
+ },
+ {
+  "id": "e2609_02968",
+  "kind": "line",
+  "jp": "つまんないのー",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 61,
+  "notes": ""
+ }
+]

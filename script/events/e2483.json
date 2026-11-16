@@ -1,0 +1,130 @@
+[
+ {
+  "id": "e2483_00078.0",
+  "kind": "title",
+  "jp": "バトローラージン",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2483_00078.1",
+  "kind": "title",
+  "jp": "げきとう編　第１話",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2483_000bc",
+  "kind": "line",
+  "jp": "ジンくん　すっかりバトローリングに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2483_000e8",
+  "kind": "line",
+  "jp": "はまったみたいだね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2483_00118",
+  "kind": "line",
+  "jp": "うん∇　すっごくワクワクしたよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2483_00140",
+  "kind": "line",
+  "jp": "バトローリング∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2483_00178",
+  "kind": "line",
+  "jp": "オレ　早く強くなりたい∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2483_001c0",
+  "kind": "line",
+  "jp": "なら　オーラを使いこなせるように",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2483_001ec",
+  "kind": "line",
+  "jp": "ならないとね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2483_00204",
+  "kind": "line",
+  "jp": "そうすれば　今よりもっと",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2483_00228",
+  "kind": "line",
+  "jp": "バトローリングが楽しくなるよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2483_00274",
+  "kind": "line",
+  "jp": "よーし∇　オレ　早くオーラを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2483_0029c",
+  "kind": "line",
+  "jp": "使えるようになる∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

@@ -1,0 +1,650 @@
+[
+ {
+  "id": "e2507_000dc.0",
+  "kind": "title",
+  "jp": "バトローラーシュウ",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2507_000dc.1",
+  "kind": "title",
+  "jp": "番外編",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2507_0014c",
+  "kind": "line",
+  "jp": "さすがだね　シュウくん",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2507_0016c",
+  "kind": "line",
+  "jp": "きみは本当にバランスのとれた　",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2507_00194",
+  "kind": "line",
+  "jp": "ゆうしゅうなバトローラーだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2507_001b8",
+  "kind": "line",
+  "jp": "レイオンマスターがゆくえふめいで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2507_001e4",
+  "kind": "line",
+  "jp": "サブマスターのわたしが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2507_00204",
+  "kind": "line",
+  "jp": "代理をしてるが……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2507_00220",
+  "kind": "line",
+  "jp": "弱いわたしより　きみがマスター代理を",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2507_00250",
+  "kind": "line",
+  "jp": "したほうがいいかもしれないな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2507_00284",
+  "kind": "line",
+  "jp": "そんなことはありません",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2507_002a4",
+  "kind": "line",
+  "jp": "オレなんか　まだまだ教わるばかりです",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2507_002d4",
+  "kind": "line",
+  "jp": "それにタイラーさんは　オレにできない",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2507_00304",
+  "kind": "line",
+  "jp": "ことができますから",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2507_00334",
+  "kind": "line",
+  "jp": "タイラー先生！　オレのこうげきって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2507_00360",
+  "kind": "line",
+  "jp": "れんけいがうまくいかないんだけど",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2507_00398",
+  "kind": "line",
+  "jp": "ん？　どれどれ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2507_003b0",
+  "kind": "line",
+  "jp": "見せてごらん",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2507_003f4",
+  "kind": "line",
+  "jp": "力みすぎてるようだね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2507_00414",
+  "kind": "line",
+  "jp": "もう少し力をぬいたほうがいい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2507_0043c",
+  "kind": "line",
+  "jp": "それから　前にあとちょっとふみこむと",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2507_0046c",
+  "kind": "line",
+  "jp": "強いれんけいになると思うよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2507_004b8",
+  "kind": "line",
+  "jp": "オレでは　タイラーさんみたいに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2507_004e0",
+  "kind": "line",
+  "jp": "うまく教えられません",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2507_00500",
+  "kind": "line",
+  "jp": "やっぱりレイオンマスターの代理は",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2507_0052c",
+  "kind": "line",
+  "jp": "タイラーさんですよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2507_0061c",
+  "kind": "line",
+  "jp": "たのもうっ∇　ワシはイノガシラ道場",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2507_00648",
+  "kind": "line",
+  "jp": "マスターのイノガシラ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2507_00668",
+  "kind": "line",
+  "jp": "ワシの道場は門下生が少ない　これは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2507_00694",
+  "kind": "line",
+  "jp": "みんなワシらの強さを知らないからだ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2507_006c4",
+  "kind": "line",
+  "jp": "おまえらの　マスターをたおして",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2507_006ec",
+  "kind": "line",
+  "jp": "ワシらの強さを教えてやるぜ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2507_00734",
+  "kind": "line",
+  "jp": "ど　道場やぶりですか∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2507_00754",
+  "kind": "line",
+  "jp": "あいにく　マスターのレイオンは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2507_0077c",
+  "kind": "line",
+  "jp": "今はるすでして……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2507_00798",
+  "kind": "line",
+  "jp": "ここのジムは　サブマスターの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2507_007c0",
+  "kind": "line",
+  "jp": "わたしがあずかっています",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2507_007f0",
+  "kind": "line",
+  "jp": "なら　かわりに　おまえが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2507_00814",
+  "kind": "line",
+  "jp": "相手になってもらおう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2507_00834",
+  "kind": "line",
+  "jp": "よし　まずは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2507_0084c",
+  "kind": "line",
+  "jp": "おまえから行け！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2507_008c4",
+  "kind": "line",
+  "jp": "なんと∇　おどろいた",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2507_008e4",
+  "kind": "line",
+  "jp": "サブマスターがこんなに弱いとは∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2507_00910",
+  "kind": "line",
+  "jp": "これはとんでもなくレベルのひくい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2507_0093c",
+  "kind": "line",
+  "jp": "ジムに来てしまったようだな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2507_00960",
+  "kind": "line",
+  "jp": "これでは　マスターレイオンとやらも",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2507_0098c",
+  "kind": "line",
+  "jp": "きっとたいしたことないな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2507_009b0",
+  "kind": "line",
+  "jp": "いや　もしかして　ワシらが来たから",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2507_009dc",
+  "kind": "line",
+  "jp": "にげたのかもな　ガハハハハ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2507_00a10",
+  "kind": "line",
+  "jp": "ハハハハハ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2507_00a34",
+  "kind": "line",
+  "jp": "くっ　わたしが弱いばかりに……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2507_00a5c",
+  "kind": "line",
+  "jp": "レイオンにもうしわけがたたない……∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2507_00aac",
+  "kind": "line",
+  "jp": "おちこまないで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2507_00ac4",
+  "kind": "line",
+  "jp": "タイラーさん",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2507_00adc",
+  "kind": "line",
+  "jp": "タイラーさんがりっぱなサブマスターな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2507_00b0c",
+  "kind": "line",
+  "jp": "ことは　オレたちがよく知ってます",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2507_00b44",
+  "kind": "line",
+  "jp": "あんなヤツがりっぱなサブマスター≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2507_00b70",
+  "kind": "line",
+  "jp": "ししょうがひどけりゃ　弟子もひどいな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2507_00bd8",
+  "kind": "line",
+  "jp": "タイラーさんが　いかにすぐれた",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2507_00c00",
+  "kind": "line",
+  "jp": "サブマスターか　オレがしょうめいする",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2507_00c30",
+  "kind": "line",
+  "jp": "そして　オレのマスターレイオンを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2507_00c5c",
+  "kind": "line",
+  "jp": "ぶじょくしたこともザンゲさせてやる∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2507_00c98",
+  "kind": "line",
+  "jp": "ふん　あんな弱いのにならってる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2507_00cc0",
+  "kind": "line",
+  "jp": "門下生など　相手にならんわ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2507_00ce4",
+  "kind": "line",
+  "jp": "おまえら　かるくひねってやれ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

@@ -1,0 +1,162 @@
+[
+ {
+  "id": "e2586_0006c",
+  "kind": "line",
+  "jp": "シャークボールを『１０コ』",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2586_00090",
+  "kind": "line",
+  "jp": "たおすんだ　期待してるぞ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2586_000f0",
+  "kind": "line",
+  "jp": "こりゃ　思っていたいじょうだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2586_00118",
+  "kind": "line",
+  "jp": "いい　拾いものをしたぞ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2586_00158",
+  "kind": "line",
+  "jp": "よし∇　キミには　とくべつに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2586_00180",
+  "kind": "line",
+  "jp": "このツールを　あげよう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2586_001e4",
+  "kind": "line",
+  "jp": "さあ　この入部とどけに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2586_00204",
+  "kind": "line",
+  "jp": "サインを……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2586_00258",
+  "kind": "line",
+  "jp": "ぶちょう　なにしてるんですか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2586_00280",
+  "kind": "line",
+  "jp": "その人　うちのせいとじゃないですよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2586_002c8",
+  "kind": "line",
+  "jp": "えっ∇　なんだって≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2586_00318",
+  "kind": "line",
+  "jp": "キミ　さっきあげたものを……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2586_0034c",
+  "kind": "line",
+  "jp": "ぶちょう……　またモノでつって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2586_00374",
+  "kind": "line",
+  "jp": "入部させようとしてたんですね！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2586_003b8",
+  "kind": "line",
+  "jp": "ハハハ……　まさかそんな……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2586_00414",
+  "kind": "line",
+  "jp": "ちょっと　こっちに来てください∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

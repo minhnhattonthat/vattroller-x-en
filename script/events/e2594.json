@@ -1,0 +1,262 @@
+[
+ {
+  "id": "e2594_00094",
+  "kind": "line",
+  "jp": "ジムのバトローリング場が",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2594_000b8",
+  "kind": "line",
+  "jp": "落ち葉で　たいへんな事になってるの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2594_000e4",
+  "kind": "line",
+  "jp": "だから　あたしたちが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2594_00104",
+  "kind": "line",
+  "jp": "拾い集めてあげちゃおうってわけ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2594_0012c",
+  "kind": "line",
+  "jp": "ただ　拾うだけじゃ　つまんないから",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2594_00158",
+  "kind": "line",
+  "jp": "きょうそうで　拾うことにしたのよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2594_00184",
+  "kind": "line",
+  "jp": "がんばったヤツには",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2594_001a0",
+  "kind": "line",
+  "jp": "ごうかしょうひんもあるわよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2594_001d0",
+  "kind": "line",
+  "jp": "フン！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2594_001e0",
+  "kind": "line",
+  "jp": "この勝負　わいがもろうたで！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2594_00214",
+  "kind": "line",
+  "jp": "こうりつのいい　拾い方は",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2594_00238",
+  "kind": "line",
+  "jp": "計さんずみです",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2594_0025c",
+  "kind": "line",
+  "jp": "それじゃ　いくわよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2594_002b8",
+  "kind": "line",
+  "jp": "落ち葉　集めるのも",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2594_002d4",
+  "kind": "line",
+  "jp": "けっこう　ホネがおれるもんやな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2594_00308",
+  "kind": "line",
+  "jp": "できたわよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2594_0031c",
+  "kind": "line",
+  "jp": "１位のしょうひんが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2594_00344",
+  "kind": "line",
+  "jp": "こ……これは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2594_0035c",
+  "kind": "line",
+  "jp": "ヤキイモ≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2594_00390",
+  "kind": "line",
+  "jp": "美ようと　けんこうにいい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2594_003b4",
+  "kind": "line",
+  "jp": "オトメのひっすアイテムよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2594_003e4",
+  "kind": "line",
+  "jp": "なんや　わいらは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2594_00400",
+  "kind": "line",
+  "jp": "りようされた　だけかいな～",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2594_00444",
+  "kind": "line",
+  "jp": "∴は　とくにがんばったから",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2594_00468",
+  "kind": "line",
+  "jp": "ごうかしょうひんを　あげるわね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2594_004bc",
+  "kind": "line",
+  "jp": "さぁ　ヤキイモ　たくさん食べるわよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

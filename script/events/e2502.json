@@ -1,0 +1,462 @@
+[
+ {
+  "id": "e2502_0011c",
+  "kind": "line",
+  "jp": "ジンくん　これに勝ったら",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2502_00140",
+  "kind": "line",
+  "jp": "優勝だよ∇　がんばってね∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2502_00180",
+  "kind": "line",
+  "jp": "うん　応援よろしくな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2502_001a0",
+  "kind": "line",
+  "jp": "コロナちゃん∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2502_001c4",
+  "kind": "line",
+  "jp": "さあ　行くぜ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2502_001e8",
+  "kind": "line",
+  "jp": "強敵ぞろいだけど……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2502_00208",
+  "kind": "line",
+  "jp": "勝つのはオイラだもんね∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2502_00238",
+  "kind": "line",
+  "jp": "これで　すべてが決まる……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2502_00280",
+  "kind": "line",
+  "jp": "バトルスタートだ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2502_00310",
+  "kind": "line",
+  "jp": "決まったぁ∇　マーブルアレーナ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2502_00338",
+  "kind": "line",
+  "jp": "優勝者は　つかはらジンくん∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2502_0036c",
+  "kind": "line",
+  "jp": "やった……勝ったぞ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2502_003b8",
+  "kind": "line",
+  "jp": "くそっ∇　また負けたっ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2502_003dc",
+  "kind": "line",
+  "jp": "どうしてあいつに勝てねぇんだ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2502_0040c",
+  "kind": "line",
+  "jp": "見てろよ　この次だ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2502_0042c",
+  "kind": "line",
+  "jp": "次こそてめーをたおしてやる∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2502_00498",
+  "kind": "line",
+  "jp": "くやしいーーーっ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2502_004b4",
+  "kind": "line",
+  "jp": "オイラが負けるだなんて∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2502_004ec",
+  "kind": "line",
+  "jp": "でも　しかたないですか",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2502_0050c",
+  "kind": "line",
+  "jp": "ジンくん　たしかに強かったから……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2502_00538",
+  "kind": "line",
+  "jp": "グランディウスはとりあえずあきらめて",
+  "en": "",
+  "status": "new",
+  "flags": "0x0400",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2502_00568",
+  "kind": "line",
+  "jp": "次のレアアームをゲットです∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2502_005d4",
+  "kind": "line",
+  "jp": "優勝できなかったか……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2502_005f4",
+  "kind": "line",
+  "jp": "強くなったな　ジン",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2502_00660",
+  "kind": "line",
+  "jp": "キミはオレの　最高のライバルだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2502_00688",
+  "kind": "line",
+  "jp": "また大きなぶたいで戦おう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2502_00724",
+  "kind": "line",
+  "jp": "マーブルアレーナ優勝おめでとう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2502_0074c",
+  "kind": "line",
+  "jp": "ジンくん",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2502_00760",
+  "kind": "line",
+  "jp": "まずはしょうひんの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2502_0077c",
+  "kind": "line",
+  "jp": "グランディウスをわたすわ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2502_007f0",
+  "kind": "line",
+  "jp": "へへっ　せっかくもらったし",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2502_00814",
+  "kind": "line",
+  "jp": "このアームもこんど　使ってみようかな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2502_00850",
+  "kind": "line",
+  "jp": "それと……じつはあなたにもう１つ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2502_0087c",
+  "kind": "line",
+  "jp": "しょうひんがあるのよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2502_0089c",
+  "kind": "line",
+  "jp": "このマーブルアレーナの勝者のために",
+  "en": "",
+  "status": "new",
+  "flags": "0x0400",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2502_008c8",
+  "kind": "line",
+  "jp": "とくべつ試合を　よういしたわ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2502_008fc",
+  "kind": "line",
+  "jp": "とくべつ試合？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2502_00928",
+  "kind": "line",
+  "jp": "なんと∇　優勝したジンくん",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2502_0094c",
+  "kind": "line",
+  "jp": "とつぜんとくべつ試合への",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2502_00970",
+  "kind": "line",
+  "jp": "出場が決定です",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2502_00988",
+  "kind": "line",
+  "jp": "しかし　ジンくんと戦う",
+  "en": "",
+  "status": "new",
+  "flags": "0x0400",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2502_009a8",
+  "kind": "line",
+  "jp": "その相手はいったいだれなのか……≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2502_00a30",
+  "kind": "line",
+  "jp": "あれは！　かつてマルスにもっとも",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2502_00a5c",
+  "kind": "line",
+  "jp": "近いと言われた男　マスターグレンだ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2502_00ac0",
+  "kind": "line",
+  "jp": "グレンマスター≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2502_00adc",
+  "kind": "line",
+  "jp": "そんな……マスターがなんで……？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0600",
+  "script": 0,
+  "notes": ""
+ }
+]

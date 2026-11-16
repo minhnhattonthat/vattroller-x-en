@@ -1,0 +1,540 @@
+[
+ {
+  "id": "e2523_00080",
+  "kind": "line",
+  "jp": "ってことになったからさ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2523_000a0",
+  "kind": "line",
+  "jp": "がんばってね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2523_000cc.0",
+  "kind": "choice",
+  "jp": "コマチは戦わないの？",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2523_000cc.1",
+  "kind": "choice",
+  "jp": "がんばります",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2523_0011c",
+  "kind": "line",
+  "jp": "何言ってんの　こういう事は",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2523_00140",
+  "kind": "line",
+  "jp": "新人の　あんたの仕事なの！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2523_00164",
+  "kind": "line",
+  "jp": "タクミは　今は試合からはなれて",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2523_0018c",
+  "kind": "line",
+  "jp": "かんがにぶってるはずだし",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2523_001b8",
+  "kind": "line",
+  "jp": "バトローリングが　楽しくないなんて",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2523_001e4",
+  "kind": "line",
+  "jp": "言ってるやつに　負けちゃだめだからね∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2523_00214",
+  "kind": "line",
+  "jp": "勝って　予算をぶんどっちゃえ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2523_00300",
+  "kind": "line",
+  "jp": "ありがとう　今のバトルは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2523_00324",
+  "kind": "line",
+  "jp": "ひさしぶりに楽しかったです",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2523_0035c",
+  "kind": "line",
+  "jp": "バトローリングはこんなにも楽しい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2523_00388",
+  "kind": "line",
+  "jp": "ものなんだって　思い出しましたよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2523_003b4",
+  "kind": "line",
+  "jp": "ジムで勝ち負けばかり",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2523_003d4",
+  "kind": "line",
+  "jp": "気にするバトルを　してたから",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2523_003fc",
+  "kind": "line",
+  "jp": "つまらなかったんですね……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2523_00444",
+  "kind": "line",
+  "jp": "バトローリングが面白くないなんて",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2523_00470",
+  "kind": "line",
+  "jp": "ヤツに　負けるわけないでしょ？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2523_00498",
+  "kind": "line",
+  "jp": "人数なんか　かんけいない",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2523_004bc",
+  "kind": "line",
+  "jp": "大事なのは気合よ！　タマシイよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2523_004fc",
+  "kind": "line",
+  "jp": "これでなっとくしたでしょ？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2523_00520",
+  "kind": "line",
+  "jp": "さあ　予算はもらうわよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2523_00568",
+  "kind": "line",
+  "jp": "……強さはなっとくしましたが　やはり",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2523_00598",
+  "kind": "line",
+  "jp": "部員の少ない部に予算は出せません",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2523_005c4",
+  "kind": "line",
+  "jp": "ぼくは　せいと会長ですから",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2523_005e8",
+  "kind": "line",
+  "jp": "ふこうへいなことはできませんよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2523_0062c",
+  "kind": "line",
+  "jp": "えーっ≡　なによそれ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2523_0064c",
+  "kind": "line",
+  "jp": "負けたくせに今さら　ずるいわよっ！！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2523_00690",
+  "kind": "line",
+  "jp": "今の部には　アームもろくにないのに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2523_006bc",
+  "kind": "line",
+  "jp": "どうしろってのよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2523_006f8",
+  "kind": "line",
+  "jp": "コホン……しかし　会長としてではなく",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2523_00728",
+  "kind": "line",
+  "jp": "こじんてきになら　きょうりょくします",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2523_00764",
+  "kind": "line",
+  "jp": "ぼくが部員となり　部のなかまに自分の",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2523_00794",
+  "kind": "line",
+  "jp": "アームをかすのなら　問題ないでしょう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2523_007c4",
+  "kind": "line",
+  "jp": "キミたちの　練習相手も",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2523_007e4",
+  "kind": "line",
+  "jp": "してあげれますし……どうでしょう？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2523_00824",
+  "kind": "line",
+  "jp": "それって……ようするに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2523_00844",
+  "kind": "line",
+  "jp": "入部したいってこと？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2523_00864",
+  "kind": "line",
+  "jp": "やっぱりバトローリングがしたいなら",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2523_00890",
+  "kind": "line",
+  "jp": "すなおにそう言えばいいのに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2523_008c0",
+  "kind": "line",
+  "jp": "そういう風には言ってません！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2523_008fc",
+  "kind": "line",
+  "jp": "キミは　まったく",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2523_00918",
+  "kind": "line",
+  "jp": "話をたんじゅんにしすぎます",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2523_00948",
+  "kind": "line",
+  "jp": "こまかいこと言わないの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2523_00968",
+  "kind": "line",
+  "jp": "楽しいから　バトローリングする　",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2523_00994",
+  "kind": "line",
+  "jp": "それでいいって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2523_009e0",
+  "kind": "line",
+  "jp": "これで部員は３人ね　よーし",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2523_00a04",
+  "kind": "line",
+  "jp": "ドンドンもりあがってきたわよ～！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2523_00a64",
+  "kind": "line",
+  "jp": "こもんのスズカ先生にほうこくしなきゃ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2523_00a94",
+  "kind": "line",
+  "jp": "とりあえず　部室にしゅうごうね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2523_00b60",
+  "kind": "line",
+  "jp": "楽しいからバトローリング……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2523_00b88",
+  "kind": "line",
+  "jp": "たんじゅんですが　そのとおりですね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

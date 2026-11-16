@@ -1,0 +1,212 @@
+[
+ {
+  "id": "e2540_000e4",
+  "kind": "line",
+  "jp": "バトルって　どういう事なの？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2540_00118",
+  "kind": "line",
+  "jp": "トウドウの言うことももっともで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2540_00140",
+  "kind": "line",
+  "jp": "おぬしらの出場には　反対も多いのじゃ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2540_00170",
+  "kind": "line",
+  "jp": "おぬしらには　公式大会でのじっせきが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2540_001a0",
+  "kind": "line",
+  "jp": "ないからの……ムニャ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2540_001cc",
+  "kind": "line",
+  "jp": "バトリーグにふさわしい力があるか",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2540_001f8",
+  "kind": "line",
+  "jp": "わからない……ということですね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2540_0022c",
+  "kind": "line",
+  "jp": "そうじゃ　それをしめすために",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2540_00254",
+  "kind": "line",
+  "jp": "せんばつの前に１試合してもらうぞ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2540_00280",
+  "kind": "line",
+  "jp": "かれら２人をたおせれば",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2540_002a0",
+  "kind": "line",
+  "jp": "せんばつバトルにちょうせんできるぞい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2540_002dc",
+  "kind": "line",
+  "jp": "あなたたちなら　だいじょうぶよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2540_00304",
+  "kind": "line",
+  "jp": "がんばってきなさい∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2540_0038c",
+  "kind": "line",
+  "jp": "あとは∴をのこすのみですね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2540_003c4",
+  "kind": "line",
+  "jp": "あたしたち　勝ったんだから",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2540_003e8",
+  "kind": "line",
+  "jp": "あんたも　ぜ～ったい勝ちなさいね∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2540_00428",
+  "kind": "line",
+  "jp": "ガツーンとかましたってや　∴",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2540_00520",
+  "kind": "line",
+  "jp": "これでおぬしらのせんばつバトル出場に",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2540_00550",
+  "kind": "line",
+  "jp": "だれももんくは言わんじゃろうて",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2540_00578",
+  "kind": "line",
+  "jp": "バトルの日まで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2540_00590",
+  "kind": "line",
+  "jp": "自分をきたえるんじゃな……ムニャ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

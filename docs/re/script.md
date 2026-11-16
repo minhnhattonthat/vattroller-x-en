@@ -42,8 +42,12 @@ order and every link is recomputed. Text can grow or shrink freely; a link must 
 | op | size | layout | example |
 |---|---|---|---|
 | 0x00 | `align4(8+len+1)` | `u16 0, u16 NEXT, u16 flags, u16 len, SJIS[len], 00, pad` (pad bytes are leftover garbage, not zero; new text pads with 0) | 0x74FFF4 「小さな島に　住んでいたんだけど」 |
-| 0x01 | 0x3C typ. | choice option(s): `u16 1, u16 NEXT, u16 ?, u16 ?` then fixed-width SJIS field(s) | 0x750854 「わからないから　教えて」 |
-| 0x13 | 0x30 | comic-mode chapter title: two NUL-terminated SJIS fields | 0x753150 「バトローラージン」 |
+| 0x01 | 0x18-0x48 | two choice options: `u16 1, u16 NEXT, u16 off2, u16 0`, field 1 at +8, field 2 at `off2`; each NUL-terminated, padded to 4 | 0x750854 「わからないから　教えて」 |
+| 0x13 | 0x24-0x38 | comic-mode chapter title: `u16 0x13, u16 NEXT, u16 off2, u16 off3`; fields at +8, `off2`, `off3` (the third is always empty) | 0x753150 「バトローラージン」 |
+
+op 0x01 / 0x13 layout **verified** as a file-format fact: every one of the 181 + 22 commands rebuilds byte-identically
+from its own fields (`text.py check`); whether the game reads `off2` (rather than scanning past the NUL) is
+checked in the marker build, since English changes the field lengths (`Node.set_fields` recomputes the offsets).
 
 The "op 0x06 size 0x200 choice container" of the phase 1 notes (0x7958C0, #2593 +0x124) is a 0x14-byte if without
 else: NEXT = 0x200 skips its then-branch, which holds the choice commands.

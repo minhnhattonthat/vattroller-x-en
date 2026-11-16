@@ -1,0 +1,322 @@
+[
+ {
+  "id": "e2535_000a8",
+  "kind": "line",
+  "jp": "今日のライバはいつもとちがいますね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2535_000d4",
+  "kind": "line",
+  "jp": "しんけんというか……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2535_00100",
+  "kind": "line",
+  "jp": "空気がはりつめとんな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2535_00120",
+  "kind": "line",
+  "jp": "見てるだけで　きんちょうするわ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2535_00158",
+  "kind": "line",
+  "jp": "どういうつもりなんだろ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2535_00178",
+  "kind": "line",
+  "jp": "お兄ちゃん……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2535_0019c",
+  "kind": "line",
+  "jp": "オレはどうしても　おまえと戦う",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2535_001c4",
+  "kind": "line",
+  "jp": "ひつようがあるんだ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2535_001f0",
+  "kind": "line",
+  "jp": "勝負だ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2535_00204",
+  "kind": "line",
+  "jp": "おまえの強さ　たしかめさせてもらう！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2535_00234",
+  "kind": "line",
+  "jp": "オレは本気で行く",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2535_00250",
+  "kind": "line",
+  "jp": "おまえも全力でかかってこい！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2535_002f8",
+  "kind": "line",
+  "jp": "オレが……負けた……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2535_00318",
+  "kind": "line",
+  "jp": "まさかとは思ったが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2535_00334",
+  "kind": "line",
+  "jp": "オレより強くなっていたとは……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2535_00378",
+  "kind": "line",
+  "jp": "お兄ちゃん……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2535_0039c",
+  "kind": "line",
+  "jp": "こんな部でやってるヤツが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2535_003c0",
+  "kind": "line",
+  "jp": "強くなるなんて……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2535_003dc",
+  "kind": "line",
+  "jp": "ジムでの修行が　まちがってた？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2535_00404",
+  "kind": "line",
+  "jp": "いや　そんなはずはない！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2535_00434",
+  "kind": "line",
+  "jp": "オレのたんれんが足りなかったんだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2535_00460",
+  "kind": "line",
+  "jp": "今までいじょうに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2535_0047c",
+  "kind": "line",
+  "jp": "トレーニングしなければ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2535_004b4",
+  "kind": "line",
+  "jp": "いいか！　オレはもっと修行して",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2535_004dc",
+  "kind": "line",
+  "jp": "強くなる！　そして　おまえをたおす！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2535_0055c",
+  "kind": "line",
+  "jp": "お兄ちゃん……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2535_00574",
+  "kind": "line",
+  "jp": "どうして楽しくバトローリング",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2535_0059c",
+  "kind": "line",
+  "jp": "できないのかな　お兄ちゃんは……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2535_005e4",
+  "kind": "line",
+  "jp": "いつか　ライバもわかってくれますよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2535_00610",
+  "kind": "line",
+  "jp": "∴はバトローリングを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2535_00630",
+  "kind": "line",
+  "jp": "楽しんでるから　強いんだってことに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2535_00668",
+  "kind": "line",
+  "jp": "うん　そうだね……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

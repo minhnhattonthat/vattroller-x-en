@@ -1,0 +1,162 @@
+[
+ {
+  "id": "e2536_000c4",
+  "kind": "line",
+  "jp": "スズカ先生　今日はなんの用ですか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2536_000fc",
+  "kind": "line",
+  "jp": "もしかして　またイベント？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2536_0012c",
+  "kind": "line",
+  "jp": "じつは　あなたたちに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2536_0014c",
+  "kind": "line",
+  "jp": "グローブさんから話があるそうなのよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2536_001a4",
+  "kind": "line",
+  "jp": "バトローリングの生みの親が",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2536_001c8",
+  "kind": "line",
+  "jp": "わいらに　なんの話があるんじゃ≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2536_00208",
+  "kind": "line",
+  "jp": "ハッ！　もしかして",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2536_00224",
+  "kind": "line",
+  "jp": "わいのさいのうを見ぬいて　コーチとか！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2536_00270",
+  "kind": "line",
+  "jp": "ダメなバトルばっかしてるから",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2536_00298",
+  "kind": "line",
+  "jp": "おこられるんじゃ？　あんたのばあいは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2536_002d4",
+  "kind": "line",
+  "jp": "そんなことで　わざわざよばないとは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2536_00300",
+  "kind": "line",
+  "jp": "思いますが……でも　なんでしょう？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2536_00348",
+  "kind": "line",
+  "jp": "まー　行ってみれば",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2536_00364",
+  "kind": "line",
+  "jp": "イヤでもわかるでしょ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2536_00390",
+  "kind": "line",
+  "jp": "じゃあ　わたしが本社ビルまで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2536_003b8",
+  "kind": "line",
+  "jp": "あんないするわ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

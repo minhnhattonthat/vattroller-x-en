@@ -1,0 +1,1114 @@
+[
+ {
+  "id": "e2658_00188",
+  "kind": "line",
+  "jp": "バトローリングをはじめて",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2658_001ac",
+  "kind": "line",
+  "jp": "ずいぶんとけんこうになったわ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2658_001d4",
+  "kind": "line",
+  "jp": "これも　マスタータイラーの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2658_001f8",
+  "kind": "line",
+  "jp": "おかげだわ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2658_00240",
+  "kind": "line",
+  "jp": "けんこうのために　バトローリングを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2658_0026c",
+  "kind": "line",
+  "jp": "はじめたんだけどね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2658_00288",
+  "kind": "line",
+  "jp": "マスタータイラーは　それは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2658_002ac",
+  "kind": "line",
+  "jp": "親切に　いろいろと教えてくれるのよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2658_00318",
+  "kind": "line",
+  "jp": "がんばってますか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2658_00334",
+  "kind": "line",
+  "jp": "応援してますからね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2658_00384",
+  "kind": "line",
+  "jp": "やあ　こんにちは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2658_003a0",
+  "kind": "line",
+  "jp": "今日はいよいよ　そつぎょうのための",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2658_003cc",
+  "kind": "line",
+  "jp": "しけんですよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2658_003f0.0",
+  "kind": "choice",
+  "jp": "おねがいします",
+  "en": "",
+  "status": "new",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2658_003f0.1",
+  "kind": "choice",
+  "jp": "えんりょします",
+  "en": "",
+  "status": "new",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2658_00438",
+  "kind": "line",
+  "jp": "わたしの教え子２人と　戦ってもらいます",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2658_00468",
+  "kind": "line",
+  "jp": "がんばってくださいね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2658_00494",
+  "kind": "line",
+  "jp": "そうですか・・・",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2658_004b0",
+  "kind": "line",
+  "jp": "また　きてくださいね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2658_00514",
+  "kind": "line",
+  "jp": "やりましたね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2658_0052c",
+  "kind": "line",
+  "jp": "これで　そつぎょうですよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2658_00550",
+  "kind": "line",
+  "jp": "おめでとう　おいわいに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2658_00570",
+  "kind": "line",
+  "jp": "アームをあげましょう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2658_005f4",
+  "kind": "line",
+  "jp": "おしかったですね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2658_00610",
+  "kind": "line",
+  "jp": "また　ちょうせんしてくださいね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2658_00670",
+  "kind": "line",
+  "jp": "やあ　こんにちは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2658_0068c",
+  "kind": "line",
+  "jp": "今日も　練習していきますか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2658_006c0.0",
+  "kind": "choice",
+  "jp": "おねがいします",
+  "en": "",
+  "status": "new",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2658_006c0.1",
+  "kind": "choice",
+  "jp": "えんりょします",
+  "en": "",
+  "status": "new",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2658_00708",
+  "kind": "line",
+  "jp": "じょうけんが　きびしくなっていますので",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2658_00738",
+  "kind": "line",
+  "jp": "ゆだんは　きんもつですよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2658_0075c",
+  "kind": "line",
+  "jp": "シャークボール『１０コ』たおしてください",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2658_0079c",
+  "kind": "line",
+  "jp": "そうですか……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2658_007b4",
+  "kind": "line",
+  "jp": "また　きてくださいね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2658_00818",
+  "kind": "line",
+  "jp": "なかなかやりますね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2658_00834",
+  "kind": "line",
+  "jp": "これで　エクスストライクけいが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2658_0085c",
+  "kind": "line",
+  "jp": "たくみにつかえるＶスキルを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2658_00880",
+  "kind": "line",
+  "jp": "おぼえたはずです",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2658_008bc",
+  "kind": "line",
+  "jp": "ボーナスＶＰをもらった∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2658_0091c",
+  "kind": "line",
+  "jp": "おしかったですね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2658_00938",
+  "kind": "line",
+  "jp": "また　ちょうせんしてくださいね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2658_00998",
+  "kind": "line",
+  "jp": "とどけてくれましたか？　ありがとう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2658_009c4",
+  "kind": "line",
+  "jp": "助かりましたよ　うっかり宿題を",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2658_009ec",
+  "kind": "line",
+  "jp": "わたすのを　忘れてましてね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2658_00a10",
+  "kind": "line",
+  "jp": "こっちのジムにうつっても",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2658_00a34",
+  "kind": "line",
+  "jp": "リョウくんの　",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2658_00a4c",
+  "kind": "line",
+  "jp": "勉強を見てあげることにしたんですよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2658_00a84",
+  "kind": "line",
+  "jp": "あれ　あなた",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2658_00a9c",
+  "kind": "line",
+  "jp": "エクスストライクけいは　まだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2658_00ac4",
+  "kind": "line",
+  "jp": "マスターしていないみたいですね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2658_00aec",
+  "kind": "line",
+  "jp": "わたしがとくいなアームのけいとう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2658_00b18",
+  "kind": "line",
+  "jp": "ですから　教えてあげますよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2658_00b48.0",
+  "kind": "choice",
+  "jp": "おねがいします",
+  "en": "",
+  "status": "new",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2658_00b48.1",
+  "kind": "choice",
+  "jp": "えんりょします",
+  "en": "",
+  "status": "new",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2658_00b90",
+  "kind": "line",
+  "jp": "エクスストライクけいを　きわめるには",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2658_00bc0",
+  "kind": "line",
+  "jp": "技も　みがかなければなりません",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2658_00be8",
+  "kind": "line",
+  "jp": "スマッシュやチャージを　つかいわけて",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2658_00c18",
+  "kind": "line",
+  "jp": "シャークボールを『１０コ』",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2658_00c3c",
+  "kind": "line",
+  "jp": "たおしてくださいね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2658_00c64",
+  "kind": "line",
+  "jp": "そうですか……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2658_00c7c",
+  "kind": "line",
+  "jp": "また　きてくださいね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2658_00ce0",
+  "kind": "line",
+  "jp": "なかなかやりますね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2658_00d10",
+  "kind": "line",
+  "jp": "これで　エクスストライクけいの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2658_00d38",
+  "kind": "line",
+  "jp": "アームを使うことができますよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2658_00d60",
+  "kind": "line",
+  "jp": "ためしてみてくださいね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2658_00d80",
+  "kind": "line",
+  "jp": "これからも　エクスストライクけいを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2658_00dac",
+  "kind": "line",
+  "jp": "きわめるために　練習しましょうね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2658_00e04",
+  "kind": "line",
+  "jp": "おしかったですね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2658_00e20",
+  "kind": "line",
+  "jp": "また　ちょうせんしてくださいね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2658_00e80",
+  "kind": "line",
+  "jp": "光円寺の『レイオンジム』ですよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2658_00ea8",
+  "kind": "line",
+  "jp": "よろしくおねがいしますね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2658_00f00",
+  "kind": "line",
+  "jp": "こまった　こまった",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2658_00f1c",
+  "kind": "line",
+  "jp": "このしょるいを　とどけないと",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2658_00f44",
+  "kind": "line",
+  "jp": "いけないんだけど……手がはなせないし",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2658_00f74",
+  "kind": "line",
+  "jp": "もしよければ　とどけてくれませんか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2658_00fb0.0",
+  "kind": "choice",
+  "jp": "いそがしいです",
+  "en": "",
+  "status": "new",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2658_00fb0.1",
+  "kind": "choice",
+  "jp": "いいですよ！",
+  "en": "",
+  "status": "new",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2658_00ff8",
+  "kind": "line",
+  "jp": "そうですか　しかたないです",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2658_0101c",
+  "kind": "line",
+  "jp": "ひまになったら　話しかけてくださいね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2658_0105c",
+  "kind": "line",
+  "jp": "ありがとうございます　助かりますよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2658_01088",
+  "kind": "line",
+  "jp": "光円寺町の『レイオンジム』まで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2658_010b0",
+  "kind": "line",
+  "jp": "とどけてくださいね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2658_010cc",
+  "kind": "line",
+  "jp": "リョウって子にわたせば　わかります",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2658_0110c",
+  "kind": "line",
+  "jp": "『しょるい』をてにいれた",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2658_0117c",
+  "kind": "line",
+  "jp": "マスタータイラーはすばらしい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2658_011a4",
+  "kind": "line",
+  "jp": "しどうしゃですよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2658_011f4",
+  "kind": "line",
+  "jp": "マスタータイラーなら",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2658_01214",
+  "kind": "line",
+  "jp": "るすですよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2658_0125c",
+  "kind": "line",
+  "jp": "マスタータイラーは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2658_01278",
+  "kind": "line",
+  "jp": "いま　光円寺のジムにいっています",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2658_012a4",
+  "kind": "line",
+  "jp": "あちらのジムでも　りんじで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2658_012c8",
+  "kind": "line",
+  "jp": "バトローリングを教えているんですよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2658_01334",
+  "kind": "line",
+  "jp": "バトローリングの本が　ならんでる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2658_013a0",
+  "kind": "line",
+  "jp": "バトローリングの本が　ならんでる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 17,
+  "notes": ""
+ },
+ {
+  "id": "e2658_0140c",
+  "kind": "line",
+  "jp": "バトローリングの本が　ならんでる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 18,
+  "notes": ""
+ },
+ {
+  "id": "e2658_01478",
+  "kind": "line",
+  "jp": "バトローリングの本が　ならんでる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 19,
+  "notes": ""
+ },
+ {
+  "id": "e2658_014e4",
+  "kind": "line",
+  "jp": "はいれないようだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 20,
+  "notes": ""
+ },
+ {
+  "id": "e2658_01540",
+  "kind": "line",
+  "jp": "はいれないようだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 21,
+  "notes": ""
+ },
+ {
+  "id": "e2658_0159c",
+  "kind": "line",
+  "jp": "ここは　マスタータイラーのジムだぜい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 22,
+  "notes": ""
+ },
+ {
+  "id": "e2658_015cc",
+  "kind": "line",
+  "jp": "タイラーさんはエクスストライクけいの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 22,
+  "notes": ""
+ },
+ {
+  "id": "e2658_015fc",
+  "kind": "line",
+  "jp": "マスターなんだぜい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 22,
+  "notes": ""
+ },
+ {
+  "id": "e2658_0164c",
+  "kind": "line",
+  "jp": "ここは　マスタータイラーのジムだぜ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 23,
+  "notes": ""
+ },
+ {
+  "id": "e2658_01678",
+  "kind": "line",
+  "jp": "光円時のジムにも　教えに行ってるから",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 23,
+  "notes": ""
+ },
+ {
+  "id": "e2658_016a8",
+  "kind": "line",
+  "jp": "いまはルス　なんだぜい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 23,
+  "notes": ""
+ },
+ {
+  "id": "e2658_01708",
+  "kind": "line",
+  "jp": "マスタータイラーが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 24,
+  "notes": ""
+ },
+ {
+  "id": "e2658_01724",
+  "kind": "line",
+  "jp": "帰ってきてくれてうれしいわ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 24,
+  "notes": ""
+ },
+ {
+  "id": "e2658_0177c",
+  "kind": "line",
+  "jp": "マスタータイラーってば",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 25,
+  "notes": ""
+ },
+ {
+  "id": "e2658_0179c",
+  "kind": "line",
+  "jp": "そろそろ帰ってきてくれないかしらね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 25,
+  "notes": ""
+ },
+ {
+  "id": "e2658_017c8",
+  "kind": "line",
+  "jp": "わたし　あたらしいワザを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 25,
+  "notes": ""
+ },
+ {
+  "id": "e2658_017ec",
+  "kind": "line",
+  "jp": "おぼえたいのよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 25,
+  "notes": ""
+ },
+ {
+  "id": "e2658_01838",
+  "kind": "line",
+  "jp": "ここのジムのマスターは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 26,
+  "notes": ""
+ },
+ {
+  "id": "e2658_01858",
+  "kind": "line",
+  "jp": "とっても　教えるのがじょうずなのよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 26,
+  "notes": ""
+ }
+]

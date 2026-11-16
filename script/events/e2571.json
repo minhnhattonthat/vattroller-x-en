@@ -1,0 +1,472 @@
+[
+ {
+  "id": "e2571_000bc",
+  "kind": "line",
+  "jp": "なんや　えらく元気のええ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2571_000e0",
+  "kind": "line",
+  "jp": "シャークボールやなあ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2571_00124",
+  "kind": "line",
+  "jp": "シャークボールが　急に",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2571_00144",
+  "kind": "line",
+  "jp": "あばれだしてしまったんだ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2571_00168",
+  "kind": "line",
+  "jp": "キミたちに　アレが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2571_00184",
+  "kind": "line",
+  "jp": "止められるかね≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2571_001bc",
+  "kind": "line",
+  "jp": "なあに　わいらの手にかかれば",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2571_001e4",
+  "kind": "line",
+  "jp": "あんなの　チョチョイのチョイやで！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2571_00224",
+  "kind": "line",
+  "jp": "オーホッホッホ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2571_00240",
+  "kind": "line",
+  "jp": "それは　どうかしらね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2571_00304",
+  "kind": "line",
+  "jp": "なんや　また　おまえらかいな……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2571_0033c",
+  "kind": "line",
+  "jp": "キミたちも　たしか",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2571_00358",
+  "kind": "line",
+  "jp": "アルバイトの……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2571_00380",
+  "kind": "line",
+  "jp": "わたしたちが　カレらより",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2571_003a4",
+  "kind": "line",
+  "jp": "役に立つことを　お見せしよう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2571_003e8",
+  "kind": "line",
+  "jp": "ほな　だれが多く　止められるか",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2571_00410",
+  "kind": "line",
+  "jp": "勝負したろやないか！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2571_00444",
+  "kind": "line",
+  "jp": "勝負はいいから",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2571_0045c",
+  "kind": "line",
+  "jp": "早く　止めてくれ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2571_004dc",
+  "kind": "line",
+  "jp": "わいが８コで　ホクトが７コ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2571_00500",
+  "kind": "line",
+  "jp": "ミナミが……９コや……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2571_0053c",
+  "kind": "line",
+  "jp": "∴が『１０コ』止めれば勝ちや",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2571_00564",
+  "kind": "line",
+  "jp": "ガツンっとかましたってや∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2571_0059c",
+  "kind": "line",
+  "jp": "いや　だから　勝負はいいから……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2571_0066c",
+  "kind": "line",
+  "jp": "もともとわたしたちには",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2571_0068c",
+  "kind": "line",
+  "jp": "ふむきな仕事だった",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2571_006a8",
+  "kind": "line",
+  "jp": "本気をだす気にはならないな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2571_006d8",
+  "kind": "line",
+  "jp": "ホホホ　そのとおりですわ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2571_006fc",
+  "kind": "line",
+  "jp": "お金に　おこまりのようでしたから",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2571_00728",
+  "kind": "line",
+  "jp": "わざと　負けてさしあげたのよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2571_00750",
+  "kind": "line",
+  "jp": "かんしゃしてもらいたいものですわね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2571_0077c",
+  "kind": "line",
+  "jp": "では　さようなら",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2571_00818",
+  "kind": "line",
+  "jp": "いやあ　一時はどうなるかと思ったけど",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2571_00848",
+  "kind": "line",
+  "jp": "助かったよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2571_0085c",
+  "kind": "line",
+  "jp": "これはお礼の『オーラメイト２』だよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2571_008cc",
+  "kind": "line",
+  "jp": "なんや　ゲンナマと",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2571_008e8",
+  "kind": "line",
+  "jp": "ちゃうんかいな～",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2571_00904",
+  "kind": "line",
+  "jp": "まあ　どうせ道具買うつもりやったし",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2571_00930",
+  "kind": "line",
+  "jp": "とりあえず　よしとしとこか！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2571_00974",
+  "kind": "line",
+  "jp": "じゃ　先かえるで　∴",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2571_009dc",
+  "kind": "line",
+  "jp": "自分の実力を　おもいしったか",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2571_00a10",
+  "kind": "line",
+  "jp": "ホホホ！　顔と手をあらって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2571_00a34",
+  "kind": "line",
+  "jp": "うがいして　でなおしてきなさい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2571_00a5c",
+  "kind": "line",
+  "jp": "ホホホホホ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2571_00b7c",
+  "kind": "line",
+  "jp": "ったく　役に立たないわね！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2571_00ba0",
+  "kind": "line",
+  "jp": "あたしんちで　タダばたらき決定！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2571_00be0",
+  "kind": "line",
+  "jp": "ひ　ひぇ～……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

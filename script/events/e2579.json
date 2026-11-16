@@ -1,0 +1,692 @@
+[
+ {
+  "id": "e2579_000a8",
+  "kind": "line",
+  "jp": "おうっ　バイトやりてえんだってな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2579_000d4",
+  "kind": "line",
+  "jp": "ちょうど　よかったぜ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2579_000f4",
+  "kind": "line",
+  "jp": "こんど　モチを使った",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2579_00114",
+  "kind": "line",
+  "jp": "新せい品を　作るんだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2579_00134",
+  "kind": "line",
+  "jp": "そのために　大りょうのモチを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2579_0015c",
+  "kind": "line",
+  "jp": "つかなきゃいけねえんだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2579_00198",
+  "kind": "line",
+  "jp": "それだったら　こいつにまかせて♪",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2579_001c4",
+  "kind": "line",
+  "jp": "ウデは　あたしがほしょうするわ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2579_00200",
+  "kind": "line",
+  "jp": "オーホッホッホ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2579_0021c",
+  "kind": "line",
+  "jp": "それは　どうかしらね！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2579_002c8",
+  "kind": "line",
+  "jp": "おとうさま……　その仕事",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2579_002ec",
+  "kind": "line",
+  "jp": "このわたしにこそが　ふさわしいかと",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2579_00324",
+  "kind": "line",
+  "jp": "ちょっと　なんなのよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2579_00344",
+  "kind": "line",
+  "jp": "あんたたち！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2579_00370",
+  "kind": "line",
+  "jp": "あなたたちに　活動ひなんか",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2579_00394",
+  "kind": "line",
+  "jp": "かせがせるもんですか",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2579_003c0",
+  "kind": "line",
+  "jp": "うちまで　乗りこんで来るなんて",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2579_003e8",
+  "kind": "line",
+  "jp": "上等じゃない！　こうなったら……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2579_00478",
+  "kind": "line",
+  "jp": "まあ待て　コマチ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2579_00494",
+  "kind": "line",
+  "jp": "おもしれえじゃねえか",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2579_004b4",
+  "kind": "line",
+  "jp": "おまえら　みんな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2579_004d0",
+  "kind": "line",
+  "jp": "ついてこい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2579_006e8",
+  "kind": "line",
+  "jp": "よーし　ピンをこわしてみろ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2579_00710",
+  "kind": "line",
+  "jp": "これをたくさんぶちこわせるヤツほど",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2579_0073c",
+  "kind": "line",
+  "jp": "モチも　たくさんつけるはずだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2579_00790",
+  "kind": "line",
+  "jp": "おにいさま　がんばってください",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2579_007e4",
+  "kind": "line",
+  "jp": "あんた！　ぜった～～～い　勝つのよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2579_008a8",
+  "kind": "line",
+  "jp": "フッ……　わたしはもともと",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2579_008cc",
+  "kind": "line",
+  "jp": "あせをかく仕事が　キライなんだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2579_008f4",
+  "kind": "line",
+  "jp": "だから　とくべつに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2579_00910",
+  "kind": "line",
+  "jp": "キミにゆずってあげることにしたよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2579_00948",
+  "kind": "line",
+  "jp": "わたくしだって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2579_00960",
+  "kind": "line",
+  "jp": "和がしより　ケーキが好きですの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2579_00988",
+  "kind": "line",
+  "jp": "だから　あなたに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2579_009a4",
+  "kind": "line",
+  "jp": "ゆずってあげるんですのよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2579_009d4",
+  "kind": "line",
+  "jp": "ヘン！　負けたヤツがなに言っても",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2579_00a00",
+  "kind": "line",
+  "jp": "いいわけにしか聞こえないわよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2579_00a34",
+  "kind": "line",
+  "jp": "お　おぼえてらっしゃい！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2579_00a64",
+  "kind": "line",
+  "jp": "さらばだ！　ミス・コマチ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2579_00a88",
+  "kind": "line",
+  "jp": "ア～ンド",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2579_00ad4",
+  "kind": "line",
+  "jp": "　∴！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2579_00b68",
+  "kind": "line",
+  "jp": "おまえさん　やるじゃねぇか",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2579_00b8c",
+  "kind": "line",
+  "jp": "それだけチカラがありゃ　あんしんだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2579_00bb8",
+  "kind": "line",
+  "jp": "いいモチを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2579_00bcc",
+  "kind": "line",
+  "jp": "ガンガンついてくれよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2579_00d60",
+  "kind": "line",
+  "jp": "よし　ゴクローさん",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2579_00d7c",
+  "kind": "line",
+  "jp": "さあ　ごほうびだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2579_00d98",
+  "kind": "line",
+  "jp": "うちのじまんの和がしを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2579_00db8",
+  "kind": "line",
+  "jp": "好きなだけ　食べていってくれ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2579_00dec",
+  "kind": "line",
+  "jp": "えーっ！　げんきんじゃないのぉ≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2579_00e18",
+  "kind": "line",
+  "jp": "ちぇー　バイト代を　ちょっとかして",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2579_00e44",
+  "kind": "line",
+  "jp": "もらおうとおもってたのに……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2579_00e88",
+  "kind": "line",
+  "jp": "え？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2579_00e98",
+  "kind": "line",
+  "jp": "なにに使うかですって？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2579_00eb8",
+  "kind": "line",
+  "jp": "それは……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2579_00ecc",
+  "kind": "line",
+  "jp": "シュウさまグッズを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2579_00ee8",
+  "kind": "line",
+  "jp": "買うに決まってるでしょ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2579_00f28",
+  "kind": "line",
+  "jp": "∴は　よくがんばったから",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2579_00f4c",
+  "kind": "line",
+  "jp": "ごほうびを　あげるぜ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2579_00f98",
+  "kind": "line",
+  "jp": "よかったね　∴",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2579_00fd8",
+  "kind": "line",
+  "jp": "ホホホ！　ホホホホホ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2579_00ff8",
+  "kind": "line",
+  "jp": "オーホホホホ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2579_0101c",
+  "kind": "line",
+  "jp": "もっと　ウデをみがいてもらわないと",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2579_01048",
+  "kind": "line",
+  "jp": "遊びにもならないな　フフン！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2579_0107c",
+  "kind": "line",
+  "jp": "キー！　∴！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2579_01094",
+  "kind": "line",
+  "jp": "あんた　もっとちゃんとやんなさいよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2579_010c4",
+  "kind": "line",
+  "jp": "バイト代かすめて　シュウさまグッズを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2579_010f4",
+  "kind": "line",
+  "jp": "買うつもりだったのにぃ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2579_01118",
+  "kind": "line",
+  "jp": "クヤシイー！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

@@ -1,0 +1,422 @@
+[
+ {
+  "id": "e2598_0014c",
+  "kind": "line",
+  "jp": "カレは　るすだって……？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2598_0017c",
+  "kind": "line",
+  "jp": "うん　今　グレンさんと",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2598_0019c",
+  "kind": "line",
+  "jp": "山ごもりしてるの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2598_001c4",
+  "kind": "line",
+  "jp": "せっかく　ここまで来て",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2598_001e4",
+  "kind": "line",
+  "jp": "手ぶらで帰るのも　なんだし……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2598_00238",
+  "kind": "line",
+  "jp": "だれか　オレの練習相手を",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2598_0025c",
+  "kind": "line",
+  "jp": "してもらえないかな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2598_0028c",
+  "kind": "line",
+  "jp": "えーっ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2598_002a0",
+  "kind": "line",
+  "jp": "シュウさまの　練習相手≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2598_002e8",
+  "kind": "line",
+  "jp": "さすが　シュウさま……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2598_00308",
+  "kind": "line",
+  "jp": "手も足も出ないわ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2598_00340",
+  "kind": "line",
+  "jp": "だいじょうぶかい？　キミ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2598_00368",
+  "kind": "line",
+  "jp": "はっ！　なんてことだ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2598_003a0",
+  "kind": "line",
+  "jp": "戦ってるときは　気づかなかったけど",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2598_003cc",
+  "kind": "line",
+  "jp": "こんなステキな子だったなんて……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2598_00414",
+  "kind": "line",
+  "jp": "そんな……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2598_00428",
+  "kind": "line",
+  "jp": "あたしなんて……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2598_00460",
+  "kind": "line",
+  "jp": "どうか　オレとつきあってください",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2598_004a8",
+  "kind": "line",
+  "jp": "あたしで　よければ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2598_004dc",
+  "kind": "line",
+  "jp": "キャー！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2598_004f0",
+  "kind": "line",
+  "jp": "なんてことになったら　どうしよう！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2598_00538",
+  "kind": "line",
+  "jp": "じゃあ　そこのキミ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2598_00554",
+  "kind": "line",
+  "jp": "つきあってくれるかな？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2598_005a0",
+  "kind": "line",
+  "jp": "はい！　あたしでよければ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2598_005f0",
+  "kind": "line",
+  "jp": "って　あたしじゃなくて　あんた≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2598_006e0",
+  "kind": "line",
+  "jp": "キミ　なかなかいいスジをしてるね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2598_00730",
+  "kind": "line",
+  "jp": "つきあってくれてありがとう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2598_00754",
+  "kind": "line",
+  "jp": "また　対戦できるのを楽しみにしてるよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2598_007fc",
+  "kind": "line",
+  "jp": "ケガはなかったかい？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2598_0081c",
+  "kind": "line",
+  "jp": "このルールは　よりおおく　",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2598_00840",
+  "kind": "line",
+  "jp": "相手を　ドロップしなければならない",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2598_0086c",
+  "kind": "line",
+  "jp": "じぶんがドロップされるのをおそれず",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2598_00898",
+  "kind": "line",
+  "jp": "せっきょくてきに攻めるのも",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2598_008bc",
+  "kind": "line",
+  "jp": "作戦のひとつだろう……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2598_008f0",
+  "kind": "line",
+  "jp": "よかったじゃない　シュウさまに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2598_00918",
+  "kind": "line",
+  "jp": "やさしいことば　かけてもらえて……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2598_00944",
+  "kind": "line",
+  "jp": "手かげんして　もらってたし",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2598_00968",
+  "kind": "line",
+  "jp": "たいしたケガもないんでしょ？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2598_009c4",
+  "kind": "line",
+  "jp": "じゃあ　あと１つや２つ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2598_009e4",
+  "kind": "line",
+  "jp": "ケガふやしても　なんともないわね！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2598_00a54",
+  "kind": "line",
+  "jp": "うき～～～っ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2598_00a6c",
+  "kind": "line",
+  "jp": "くやしい～～～っ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

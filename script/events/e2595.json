@@ -1,0 +1,422 @@
+[
+ {
+  "id": "e2595_00094",
+  "kind": "line",
+  "jp": "今度　うちの店の新しょうひんに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2595_000bc",
+  "kind": "line",
+  "jp": "クリを使うことになったの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2595_000e0",
+  "kind": "line",
+  "jp": "でも　ひとりで拾うのは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2595_00100",
+  "kind": "line",
+  "jp": "たいへんでしょ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2595_00118",
+  "kind": "line",
+  "jp": "そこで　あんたの出番ってわけ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2595_001cc",
+  "kind": "line",
+  "jp": "うらないによれば　ここに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2595_001f0",
+  "kind": "line",
+  "jp": "ロマンがあるはずなんだ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2595_00230",
+  "kind": "line",
+  "jp": "ホントに　こんなイナカに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2595_00254",
+  "kind": "line",
+  "jp": "ロマンがあるんですの？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2595_00290",
+  "kind": "line",
+  "jp": "でたわね　おまぬけツインズ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2595_00308",
+  "kind": "line",
+  "jp": "その声は　チンチクリン女！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2595_0032c",
+  "kind": "line",
+  "jp": "こんなとこまできて　でくわすなんて",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2595_00364",
+  "kind": "line",
+  "jp": "まさか　キミたちも",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2595_00380",
+  "kind": "line",
+  "jp": "ロマンをおってきたのかい？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2595_003b0",
+  "kind": "line",
+  "jp": "なにがロマンよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2595_003c8",
+  "kind": "line",
+  "jp": "ここにあるのはマロンだっての！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2595_00414",
+  "kind": "line",
+  "jp": "だから……　お兄さまのうらないは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2595_00440",
+  "kind": "line",
+  "jp": "あてにならないって……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2595_00474",
+  "kind": "line",
+  "jp": "いや　アレこそが　われわれの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2595_0049c",
+  "kind": "line",
+  "jp": "ロマンにちがいない！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2595_004e0",
+  "kind": "line",
+  "jp": "そのロマン",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2595_004f4",
+  "kind": "line",
+  "jp": "われわれが　すべて　もらいうける！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2595_0052c",
+  "kind": "line",
+  "jp": "だから　マロンだってば……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2595_0058c",
+  "kind": "line",
+  "jp": "まあ……いいわ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2595_005a4",
+  "kind": "line",
+  "jp": "マロンはぜったーい　わたしちゃだめよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2595_00600",
+  "kind": "line",
+  "jp": "いいわね∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2595_00638",
+  "kind": "line",
+  "jp": "ミナミ　わたしのために　勝って",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2595_00660",
+  "kind": "line",
+  "jp": "ロマンを　手に入れてくれ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2595_00750",
+  "kind": "line",
+  "jp": "クッ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2595_00764",
+  "kind": "line",
+  "jp": "わたしのロマンが……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2595_00798",
+  "kind": "line",
+  "jp": "あんたの　おかげで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2595_007b4",
+  "kind": "line",
+  "jp": "ざいりょうが　集まったわ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2595_007ec",
+  "kind": "line",
+  "jp": "これは　今日のお礼よ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2595_0080c",
+  "kind": "line",
+  "jp": "とっといて",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2595_00864",
+  "kind": "line",
+  "jp": "やっぱり　お兄さまのうらないは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2595_0088c",
+  "kind": "line",
+  "jp": "あてになりませんわ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2595_008d0",
+  "kind": "line",
+  "jp": "ハッハッハ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2595_008e8",
+  "kind": "line",
+  "jp": "とうとうロマンを手に入れたぞ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2595_00934",
+  "kind": "line",
+  "jp": "なにやってんのよ　ドジ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2595_00958",
+  "kind": "line",
+  "jp": "負けちゃったじゃない",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2595_00978",
+  "kind": "line",
+  "jp": "こうなったら　あんたの自ばらで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2595_009a0",
+  "kind": "line",
+  "jp": "もう１回　拾いなおしよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

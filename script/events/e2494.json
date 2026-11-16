@@ -1,0 +1,552 @@
+[
+ {
+  "id": "e2494_00150",
+  "kind": "line",
+  "jp": "ふーん　これが優勝しょうひんの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2494_00178",
+  "kind": "line",
+  "jp": "アームかぁ……グランディウス？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2494_001b4",
+  "kind": "line",
+  "jp": "これ１つで剣にもバウンダーにもなる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2494_001e0",
+  "kind": "line",
+  "jp": "一石二鳥のレアアームだって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2494_00210",
+  "kind": "line",
+  "jp": "へー……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2494_00224",
+  "kind": "line",
+  "jp": "そんなに　ほしいもんかね～？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2494_00290",
+  "kind": "line",
+  "jp": "アームは大事ですよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2494_002e8",
+  "kind": "line",
+  "jp": "な　なんだなんだ　おまえは？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2494_0031c",
+  "kind": "line",
+  "jp": "オイラはトータというですよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2494_00340",
+  "kind": "line",
+  "jp": "ジンくん∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2494_00368",
+  "kind": "line",
+  "jp": "え？　オレの名前　知ってんのか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2494_003a0",
+  "kind": "line",
+  "jp": "そりゃあ　マークしてましたから",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2494_003c8",
+  "kind": "line",
+  "jp": "みちすうのパワーと　なぞのアーマレット",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2494_003f8",
+  "kind": "line",
+  "jp": "……たしかに強敵です",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2494_00424",
+  "kind": "line",
+  "jp": "でも　優勝してグランディウスを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2494_0044c",
+  "kind": "line",
+  "jp": "いただくのは　このトータさまです∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2494_0048c",
+  "kind": "line",
+  "jp": "ええーーっ≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2494_004b0",
+  "kind": "line",
+  "jp": "なに言ってんだ　おまえみたいなチビに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2494_004e0",
+  "kind": "line",
+  "jp": "優勝なんかムリだって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2494_0050c",
+  "kind": "line",
+  "jp": "……ジンくん　身長については",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2494_00534",
+  "kind": "line",
+  "jp": "人のこと言えないと思うけど",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2494_0056c",
+  "kind": "line",
+  "jp": "へっへーん　あまいあまい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2494_00590",
+  "kind": "line",
+  "jp": "オイラのアームセットはかんぺきですよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2494_005d4",
+  "kind": "line",
+  "jp": "アームセット……って？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2494_00610",
+  "kind": "line",
+  "jp": "そっか　ジンくんには",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2494_00630",
+  "kind": "line",
+  "jp": "せつめいしてなかったよね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2494_00670",
+  "kind": "line",
+  "jp": "アーマレットには　最高で３つまで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2494_0069c",
+  "kind": "line",
+  "jp": "アームを組みこむことができるの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2494_006c4",
+  "kind": "line",
+  "jp": "それで必殺技は",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2494_006dc",
+  "kind": "line",
+  "jp": "２つのアームを組み合わせて使うんだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2494_00708",
+  "kind": "line",
+  "jp": "だから　アームを３つ組みこめば",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2494_00730",
+  "kind": "line",
+  "jp": "３しゅるいの　必殺技が使えるよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2494_00758",
+  "kind": "line",
+  "jp": "セットするアームの組み合わせで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2494_00780",
+  "kind": "line",
+  "jp": "いろんな戦いかたができるんだよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2494_007d4",
+  "kind": "line",
+  "jp": "アームのサイズによっては　２つしか",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2494_00800",
+  "kind": "line",
+  "jp": "入れられないこともありますけどー",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2494_0082c",
+  "kind": "line",
+  "jp": "ぎゃくにアームを入れてまだあまってたら",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2494_0085c",
+  "kind": "line",
+  "jp": "べんりなツールを入れられますね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2494_00890",
+  "kind": "line",
+  "jp": "そうなのか……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2494_008d4",
+  "kind": "line",
+  "jp": "ジンくんには　ちょっとむずかしいかな？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2494_00918",
+  "kind": "line",
+  "jp": "やっぱりオレは　この剣で行こう∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2494_00958",
+  "kind": "line",
+  "jp": "わっ　その剣∇　オイラがデータに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2494_00984",
+  "kind": "line",
+  "jp": "入れてないアームです∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2494_009b0",
+  "kind": "line",
+  "jp": "それ　なんて名前の剣ですか≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2494_00a04",
+  "kind": "line",
+  "jp": "え？　こいつの名前か？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2494_00a24",
+  "kind": "line",
+  "jp": "そうだな　これからずっといっしょに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2494_00a50",
+  "kind": "line",
+  "jp": "戦うあいぼうなんだし……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2494_00a80",
+  "kind": "line",
+  "jp": "……よし∇　おまえの名前は",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2494_00aa4",
+  "kind": "line",
+  "jp": "ホウオウマルだっ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2494_00acc",
+  "kind": "line",
+  "jp": "つかはらジンくん",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2494_00ae8",
+  "kind": "line",
+  "jp": "試合５分前ですので",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2494_00b04",
+  "kind": "line",
+  "jp": "じゅんびをしてください……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2494_00b44",
+  "kind": "line",
+  "jp": "あっ　ジンくん",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2494_00b5c",
+  "kind": "line",
+  "jp": "もう時間だ　行かないと",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2494_00b88",
+  "kind": "line",
+  "jp": "試合　チェックさせてもらいますよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ }
+]

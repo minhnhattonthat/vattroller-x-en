@@ -1,0 +1,410 @@
+[
+ {
+  "id": "e2527_000a8",
+  "kind": "line",
+  "jp": "そーゆーわけだから　ここはなんと",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2527_000d4",
+  "kind": "line",
+  "jp": "してでも　あんたが勝つのよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2527_00110",
+  "kind": "line",
+  "jp": "ちゃんとした部になるか　またつぶれ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2527_0013c",
+  "kind": "line",
+  "jp": "かかるか　あんたにかかってるからね！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2527_00188",
+  "kind": "line",
+  "jp": "イカヅチは　ああ見えても",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2527_001ac",
+  "kind": "line",
+  "jp": "かなりのうでまえです",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2527_001cc",
+  "kind": "line",
+  "jp": "勝つためにひつようなテクニックを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2527_001f8",
+  "kind": "line",
+  "jp": "教えましょう　聞きたいですか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2527_0022c.0",
+  "kind": "choice",
+  "jp": "聞きたい！",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2527_0022c.1",
+  "kind": "choice",
+  "jp": "聞かなくてもいいです",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2527_00278",
+  "kind": "line",
+  "jp": "今回は『チェーンアタック』を教えましょう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2527_002ac",
+  "kind": "line",
+  "jp": "アームでこうげきするときの「すき」を",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2527_002dc",
+  "kind": "line",
+  "jp": "なくすテクニックで　れんぞくこうげき",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2527_0030c",
+  "kind": "line",
+  "jp": "できるんですよ　やりかたは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2527_00330",
+  "kind": "line",
+  "jp": "同じボタンを　おしつづけるのでなく",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2527_0035c",
+  "kind": "line",
+  "jp": "Ａボタン→Ｂボタンといったように",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2527_00388",
+  "kind": "line",
+  "jp": "ことなるアームをつかうことで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2527_003b0",
+  "kind": "line",
+  "jp": "すぐ　つぎのこうげきができるんです",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2527_003dc",
+  "kind": "line",
+  "jp": "組み合わせは　いろいろなんですが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2527_00408",
+  "kind": "line",
+  "jp": "かまえるバウンダーやハントけいには",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2527_00434",
+  "kind": "line",
+  "jp": "つかえないから　ちゅういしてください",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2527_0046c",
+  "kind": "line",
+  "jp": "ゆだんはきんもつですよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2527_0048c",
+  "kind": "line",
+  "jp": "では　がんばってくださいね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2527_004d4",
+  "kind": "line",
+  "jp": "おまえなんか一発で",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2527_004f0",
+  "kind": "line",
+  "jp": "ふっとばしてやるわ！！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2527_005cc",
+  "kind": "line",
+  "jp": "くっ　わいが負けるなんて……！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2527_00600",
+  "kind": "line",
+  "jp": "しかし　おまえ強いな……部がぬるい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2527_0062c",
+  "kind": "line",
+  "jp": "言うんは　まちがってたようや",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2527_00674",
+  "kind": "line",
+  "jp": "さぁ　やくそくよ！　今日からあんたも",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2527_006a4",
+  "kind": "line",
+  "jp": "勝飛中バトローリング部員だからね！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2527_006dc",
+  "kind": "line",
+  "jp": "男に　二言はなしや",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2527_006f8",
+  "kind": "line",
+  "jp": "なかまに入れてもらうで！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2527_00728",
+  "kind": "line",
+  "jp": "……ま　わいもそろそろジムはやめよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2527_00754",
+  "kind": "line",
+  "jp": "思っとったし　ちょうどええわ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2527_0077c",
+  "kind": "line",
+  "jp": "アホふたごはうっとうしいし",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2527_007a0",
+  "kind": "line",
+  "jp": "マスターもさいきん　うるさかったしな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2527_007e4",
+  "kind": "line",
+  "jp": "ちょ……やめる気だったら　なんで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2527_00810",
+  "kind": "line",
+  "jp": "ぼくをつれもどしに来たんですか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2527_00850",
+  "kind": "line",
+  "jp": "そういえば　そうやな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2527_00870",
+  "kind": "line",
+  "jp": "まぁ　こまかいことは気にすんな！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2527_008b0",
+  "kind": "line",
+  "jp": "…………",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

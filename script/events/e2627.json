@@ -1,0 +1,432 @@
+[
+ {
+  "id": "e2627_00174",
+  "kind": "line",
+  "jp": "せつびもマスターも　学校やほかの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2627_001a0",
+  "kind": "line",
+  "jp": "ジムとは　くらべものにならないだろ？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2627_001d0",
+  "kind": "line",
+  "jp": "これが　プレミアムジムの力さ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2627_0022c",
+  "kind": "line",
+  "jp": "プレミアムジムは　学校のクラブとは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2627_00258",
+  "kind": "line",
+  "jp": "くらべものにならないね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2627_00278",
+  "kind": "line",
+  "jp": "みなよ　このせつび　マスターの力",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2627_002a4",
+  "kind": "line",
+  "jp": "学校とはだんちがいだろ？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2627_00330",
+  "kind": "line",
+  "jp": "バトローラーにとって　強さこそが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2627_0035c",
+  "kind": "line",
+  "jp": "かちあるものなのよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2627_00378",
+  "kind": "line",
+  "jp": "それがわからない　あなたたちが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2627_003a0",
+  "kind": "line",
+  "jp": "わたしに勝てるわけがないわ　ふふふ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2627_00400",
+  "kind": "line",
+  "jp": "強さこそが　バトローラーに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2627_00424",
+  "kind": "line",
+  "jp": "ひつようなもの！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2627_00440",
+  "kind": "line",
+  "jp": "それいがい　なにがいるっていうの？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2627_004ac",
+  "kind": "line",
+  "jp": "おなじプレミアムジムでも　ライバは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2627_004d8",
+  "kind": "line",
+  "jp": "ともだちなんかじゃない",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2627_004f8",
+  "kind": "line",
+  "jp": "アイツは　オレのライバルだ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2627_00520",
+  "kind": "line",
+  "jp": "勝つためなら　なんでもやるぜ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2627_0057c",
+  "kind": "line",
+  "jp": "ライバなんかに　負けてたまるか",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2627_005a4",
+  "kind": "line",
+  "jp": "プレミアムジムのイチバンはオレだ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2627_00610",
+  "kind": "line",
+  "jp": "中学校の部活のヤツらが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2627_00630",
+  "kind": "line",
+  "jp": "うちとバトリーグさんかをあらそう≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2627_0065c",
+  "kind": "line",
+  "jp": "ヘッ！　じょうだんにしちゃ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2627_00680",
+  "kind": "line",
+  "jp": "センスがなさすぎるぜ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2627_006d4",
+  "kind": "line",
+  "jp": "オレたちゃ最強　ヘイ！　ヘイ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2627_006fc",
+  "kind": "line",
+  "jp": "すっごく強いぜ　ヘイ！　ヘイ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2627_0078c",
+  "kind": "line",
+  "jp": "ウェストさんの　じつりょくや",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2627_007b4",
+  "kind": "line",
+  "jp": "勝利へのしゅうねんは　すごいのよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2627_007e0",
+  "kind": "line",
+  "jp": "あんなに強いのに　どうして",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2627_00804",
+  "kind": "line",
+  "jp": "マルスにちょうせんしないのかしら？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2627_00864",
+  "kind": "line",
+  "jp": "ウェストさんは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2627_0087c",
+  "kind": "line",
+  "jp": "すごいじつりょくしゃよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2627_0089c",
+  "kind": "line",
+  "jp": "ひょっとしたら　マルスのハヤテより",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2627_008c8",
+  "kind": "line",
+  "jp": "強いかもしれない……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2627_00928",
+  "kind": "line",
+  "jp": "プレミアムドリンクの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 17,
+  "notes": ""
+ },
+ {
+  "id": "e2627_00948",
+  "kind": "line",
+  "jp": "じはんきだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 17,
+  "notes": ""
+ },
+ {
+  "id": "e2627_0099c",
+  "kind": "line",
+  "jp": "プレミアムドリンクの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 18,
+  "notes": ""
+ },
+ {
+  "id": "e2627_009bc",
+  "kind": "line",
+  "jp": "じはんきだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 18,
+  "notes": ""
+ },
+ {
+  "id": "e2627_00a10",
+  "kind": "line",
+  "jp": "強さとはなんだ？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 19,
+  "notes": ""
+ },
+ {
+  "id": "e2627_00a2c",
+  "kind": "line",
+  "jp": "ちょしゃ　ウェスト",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 19,
+  "notes": ""
+ },
+ {
+  "id": "e2627_00a88",
+  "kind": "line",
+  "jp": "まけいぬとしょうしゃ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 20,
+  "notes": ""
+ },
+ {
+  "id": "e2627_00aa8",
+  "kind": "line",
+  "jp": "ちょしゃ　ウェスト",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 20,
+  "notes": ""
+ },
+ {
+  "id": "e2627_00b04",
+  "kind": "line",
+  "jp": "はいれないようだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 21,
+  "notes": ""
+ }
+]

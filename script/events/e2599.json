@@ -1,0 +1,520 @@
+[
+ {
+  "id": "e2599_00080",
+  "kind": "line",
+  "jp": "じゃ　帰るわよ　∴！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2599_000b4",
+  "kind": "line",
+  "jp": "まちやがれ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2599_00128",
+  "kind": "line",
+  "jp": "シュウさんに　勝てたと思って",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2599_00150",
+  "kind": "line",
+  "jp": "図に乗るなよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2599_00184",
+  "kind": "line",
+  "jp": "シュウさんは　１０ぶんの１も",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2599_001ac",
+  "kind": "line",
+  "jp": "力を出してないんだからな∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2599_001d0",
+  "kind": "line",
+  "jp": "テメーなんか　オレでも",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2599_001f0",
+  "kind": "line",
+  "jp": "半分の力で　たおせるぜ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2599_00228",
+  "kind": "line",
+  "jp": "ちょっとちょっと　だまって聞いてれば",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2599_00258",
+  "kind": "line",
+  "jp": "好き勝手　言ってくれるじゃないの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2599_00284",
+  "kind": "line",
+  "jp": "たしかに　シュウさまは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2599_002a4",
+  "kind": "line",
+  "jp": "強くて　ステキで　カッコいいけど……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2599_002f8",
+  "kind": "line",
+  "jp": "うちの∴が　あんたみたいな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2599_0031c",
+  "kind": "line",
+  "jp": "ヘナチョコに　負けたりするもんですか",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2599_00360",
+  "kind": "line",
+  "jp": "なにっ≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2599_00374",
+  "kind": "line",
+  "jp": "オレさまのことを　ヘナチョコだと∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2599_003b4",
+  "kind": "line",
+  "jp": "ヘナチョコじゃないなら　チョナヘコ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2599_003e4",
+  "kind": "line",
+  "jp": "いや……　コナチョヘよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2599_00424",
+  "kind": "line",
+  "jp": "ふ　ふざけるな∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2599_00440",
+  "kind": "line",
+  "jp": "だったら　今すぐたたきのめしてやる∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2599_00484",
+  "kind": "line",
+  "jp": "のぞむところよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2599_004bc",
+  "kind": "line",
+  "jp": "∴！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2599_004cc",
+  "kind": "line",
+  "jp": "ギッタンギッタンに　してやりなさい！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2599_00518.0",
+  "kind": "choice",
+  "jp": "アームセットしゅうりょう",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2599_00518.1",
+  "kind": "choice",
+  "jp": "アームセットをつづける",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2599_005fc",
+  "kind": "line",
+  "jp": "くそっ∇　みとめんぞ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2599_0061c",
+  "kind": "line",
+  "jp": "今のは　ただのマグレだ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2599_0067c",
+  "kind": "line",
+  "jp": "出なおしていらっしゃい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2599_0069c",
+  "kind": "line",
+  "jp": "この　ナチョヘコが！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2599_006e0",
+  "kind": "line",
+  "jp": "お　おぼえてろよ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2599_0075c",
+  "kind": "line",
+  "jp": "やるじゃない　あんた",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2599_0077c",
+  "kind": "line",
+  "jp": "むねが　スカッとしたわ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2599_007a8",
+  "kind": "line",
+  "jp": "でも……　シュウさまに勝ったとは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2599_007d4",
+  "kind": "line",
+  "jp": "思わないでよね！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2599_007f0",
+  "kind": "line",
+  "jp": "いい？　シュウさまは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2599_00810",
+  "kind": "line",
+  "jp": "手かげんしてくれたんだからね！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2599_00838",
+  "kind": "line",
+  "jp": "だいたい……　あんたってヤツは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2599_00860",
+  "kind": "line",
+  "jp": "あたしとシュウさまの出会いを……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2599_008b4",
+  "kind": "line",
+  "jp": "ちょっと！　どこいくのよ≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2599_008d8",
+  "kind": "line",
+  "jp": "まちなさーい！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2599_00930",
+  "kind": "line",
+  "jp": "おまえの実力なんか",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2599_0094c",
+  "kind": "line",
+  "jp": "しょせんは　このていどだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2599_00970",
+  "kind": "line",
+  "jp": "わかったら　えらそうに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2599_00990",
+  "kind": "line",
+  "jp": "するんじゃねえぞ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2599_00a10",
+  "kind": "line",
+  "jp": "イ～ッ！　えらそうにしてるのは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2599_00a38",
+  "kind": "line",
+  "jp": "おまえのほうだっての！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2599_00a8c",
+  "kind": "line",
+  "jp": "ったく　あんなヤツに負けるなんて",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2599_00ab8",
+  "kind": "line",
+  "jp": "あんたも　たいしたことないわね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2599_00ae0",
+  "kind": "line",
+  "jp": "今から　このあたしが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2599_00b00",
+  "kind": "line",
+  "jp": "コンジョウたたきなおしてやるわ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2599_00b54",
+  "kind": "line",
+  "jp": "ちょっと！　どこいくのよ≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2599_00b78",
+  "kind": "line",
+  "jp": "まちなさーい！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

@@ -1,0 +1,302 @@
+[
+ {
+  "id": "e2652_000d4",
+  "kind": "line",
+  "jp": "バトローリングって面白いのね！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2652_000fc",
+  "kind": "line",
+  "jp": "うちの子にも　やらせなくっちゃ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2652_00124",
+  "kind": "line",
+  "jp": "うんどうだけじゃなくって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2652_00148",
+  "kind": "line",
+  "jp": "せいせきもよくなるんですって？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2652_001a4",
+  "kind": "line",
+  "jp": "うちの子　勝飛中学にはいったら",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2652_001cc",
+  "kind": "line",
+  "jp": "バトローリングをはじめるんですって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2652_001f8",
+  "kind": "line",
+  "jp": "あぶなくないのかしら……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2652_0021c",
+  "kind": "line",
+  "jp": "ちょっと　しんぱいだわ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2652_00270",
+  "kind": "line",
+  "jp": "あなたも勝飛中学？　じゃあ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2652_00294",
+  "kind": "line",
+  "jp": "コマチちゃんたちとおんなじね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2652_002bc",
+  "kind": "line",
+  "jp": "うちの子も　らいねんから",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2652_002e0",
+  "kind": "line",
+  "jp": "勝飛中学にいくのよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2652_0033c",
+  "kind": "line",
+  "jp": "バトローリングのしあいにいったら",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2652_00368",
+  "kind": "line",
+  "jp": "ママも　すっかりファンになっちゃった",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2652_00398",
+  "kind": "line",
+  "jp": "はやくらいねんになって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2652_003b8",
+  "kind": "line",
+  "jp": "勝飛中のＶＲ部にはいりたいよ～！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2652_00418",
+  "kind": "line",
+  "jp": "勝飛中学にはいったら",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2652_00438",
+  "kind": "line",
+  "jp": "ＶＲ部にはいるつもりなんだ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2652_00460",
+  "kind": "line",
+  "jp": "まえに　コマチおねえちゃんに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2652_00488",
+  "kind": "line",
+  "jp": "そうメイレイされたんだよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2652_004e0",
+  "kind": "line",
+  "jp": "ボク　らいねん中学なんだよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2652_00504",
+  "kind": "line",
+  "jp": "勝飛中学にいくんだ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2652_00580",
+  "kind": "line",
+  "jp": "テレビをつけてみた",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2652_0059c",
+  "kind": "line",
+  "jp": "バトリーグのちゅうけいが　うつってる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2652_00614",
+  "kind": "line",
+  "jp": "きれいな　タンスだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2652_0068c",
+  "kind": "line",
+  "jp": "テレビをつけてみた",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2652_006a8",
+  "kind": "line",
+  "jp": "バトリーグのちゅうけいが　うつってる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2652_00720",
+  "kind": "line",
+  "jp": "きれいな　タンスだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2652_0077c",
+  "kind": "line",
+  "jp": "きれいな　タンスだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2652_007d8",
+  "kind": "line",
+  "jp": "きれいな　タンスだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 13,
+  "notes": ""
+ }
+]

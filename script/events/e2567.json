@@ -1,0 +1,392 @@
+[
+ {
+  "id": "e2567_00094",
+  "kind": "line",
+  "jp": "さすがあたしが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2567_000ac",
+  "kind": "line",
+  "jp": "見こんだだけのことはあるわ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2567_00110",
+  "kind": "line",
+  "jp": "じゃあ　次は",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2567_00128",
+  "kind": "line",
+  "jp": "あたしの番ね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2567_00154",
+  "kind": "line",
+  "jp": "あたしだって　強くなったんだから",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2567_00180",
+  "kind": "line",
+  "jp": "レベルをうんとあげて……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2567_001a4",
+  "kind": "line",
+  "jp": "ああして　こうして",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2567_001c0",
+  "kind": "line",
+  "jp": "こんなプログラムもくわえて……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2567_001e8",
+  "kind": "line",
+  "jp": "『１０コ』でしゅうりょうするように",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2567_00214",
+  "kind": "line",
+  "jp": "セットして……これでよし！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2567_0024c",
+  "kind": "line",
+  "jp": "さあ　いくわよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2567_00308",
+  "kind": "line",
+  "jp": "せ……せってい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2567_00320",
+  "kind": "line",
+  "jp": "まちがえちゃったみたい……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2567_00344",
+  "kind": "line",
+  "jp": "助けて……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2567_00358",
+  "kind": "line",
+  "jp": "お兄ちゃ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2567_0038c",
+  "kind": "line",
+  "jp": "コマチ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2567_003f0",
+  "kind": "line",
+  "jp": "コマチ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2567_00404",
+  "kind": "line",
+  "jp": "クソッ　オレはコマチを助ける",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2567_0042c",
+  "kind": "line",
+  "jp": "おまえは　シャークボールをたのむ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2567_00518",
+  "kind": "line",
+  "jp": "すまんな……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2567_00530",
+  "kind": "line",
+  "jp": "妹が　めいわくをかけた……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2567_00584",
+  "kind": "line",
+  "jp": "これは　礼だ　とっておけ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2567_005e8",
+  "kind": "line",
+  "jp": "それから　オレが　来たことは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2567_00610",
+  "kind": "line",
+  "jp": "ナイショに　しておいてくれ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2567_00634",
+  "kind": "line",
+  "jp": "また　うるさく言われると",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2567_00658",
+  "kind": "line",
+  "jp": "かなわないからな……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2567_00698",
+  "kind": "line",
+  "jp": "う　う～ん……　ありがとう……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2567_006c0",
+  "kind": "line",
+  "jp": "お兄……ちゃん……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2567_00708",
+  "kind": "line",
+  "jp": "……たまには　こういうのも",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2567_0072c",
+  "kind": "line",
+  "jp": "悪くないかもな……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2567_00774",
+  "kind": "line",
+  "jp": "ハッ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2567_007a0",
+  "kind": "line",
+  "jp": "あ　あたし……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2567_007b8",
+  "kind": "line",
+  "jp": "そうか　せっていまちがえて……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2567_007e0",
+  "kind": "line",
+  "jp": "あんたが　ぜんぶやっつけたの？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2567_00808",
+  "kind": "line",
+  "jp": "へえ～　やるじゃない！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2567_00828",
+  "kind": "line",
+  "jp": "お兄ちゃんの声が　きこえたような",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2567_00854",
+  "kind": "line",
+  "jp": "気がしたのは　気のせいか……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2567_00898",
+  "kind": "line",
+  "jp": "まっ　いいや！　さあ　もう一回",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2567_008c0",
+  "kind": "line",
+  "jp": "練習　練習っと！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

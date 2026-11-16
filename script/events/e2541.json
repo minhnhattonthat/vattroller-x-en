@@ -1,0 +1,192 @@
+[
+ {
+  "id": "e2541_00100",
+  "kind": "line",
+  "jp": "しかし今日もずいぶん",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2541_00120",
+  "kind": "line",
+  "jp": "おそくなってしまいましたね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2541_00150",
+  "kind": "line",
+  "jp": "それだけ練習が",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2541_00168",
+  "kind": "line",
+  "jp": "じゅうじつしてたってことや！　",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2541_00190",
+  "kind": "line",
+  "jp": "ええことやん！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2541_001c4",
+  "kind": "line",
+  "jp": "でも　あまりおそいと",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2541_001e4",
+  "kind": "line",
+  "jp": "スズカ先生におこられてしまいます",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2541_00210",
+  "kind": "line",
+  "jp": "へんな人が来たらたいへんですからね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2541_00258",
+  "kind": "line",
+  "jp": "へんな人って……そんなのが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2541_0027c",
+  "kind": "line",
+  "jp": "そうそういるわけないし",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2541_00334",
+  "kind": "line",
+  "jp": "……ええっ≡　へ　へんな人が……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2541_00360",
+  "kind": "line",
+  "jp": "しかも　いっぱい！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2541_003b8",
+  "kind": "line",
+  "jp": "なんや　おまえらっ≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2541_003e4",
+  "kind": "line",
+  "jp": "もんどうむようである！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2541_00404",
+  "kind": "line",
+  "jp": "やってしまえ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2541_00428",
+  "kind": "line",
+  "jp": "ここは　にげましょうっ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2541_0044c",
+  "kind": "line",
+  "jp": "コマチさん　早く中へ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2541_00540",
+  "kind": "line",
+  "jp": "今のうちや　∴",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2541_00564",
+  "kind": "line",
+  "jp": "早く　中へ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

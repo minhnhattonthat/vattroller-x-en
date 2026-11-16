@@ -1,0 +1,1586 @@
+[
+ {
+  "id": "e2711_00080",
+  "kind": "line",
+  "jp": "バトリーグのゆうしょうは　ことしも",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 1,
+  "notes": ""
+ },
+ {
+  "id": "e2711_000ac",
+  "kind": "line",
+  "jp": "マルスのハヤテにちがいないですよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 1,
+  "notes": ""
+ },
+ {
+  "id": "e2711_0010c",
+  "kind": "line",
+  "jp": "ねえ　コダマを見なかった？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2711_00130",
+  "kind": "line",
+  "jp": "あの子　またいなくなっちゃったのよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2711_0015c",
+  "kind": "line",
+  "jp": "あんた　いっしょにさがして",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2711_00180",
+  "kind": "line",
+  "jp": "ね　おねがい！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2711_001e0",
+  "kind": "line",
+  "jp": "グローブスタジアムでひらかれている",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2711_0020c",
+  "kind": "line",
+  "jp": "バトリーグ　見たいなぁ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2711_00230",
+  "kind": "line",
+  "jp": "バイトして　チケットだいを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2711_00254",
+  "kind": "line",
+  "jp": "かせごうかなぁ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2711_002a4",
+  "kind": "line",
+  "jp": "このグローブスタジアムで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2711_002c8",
+  "kind": "line",
+  "jp": "バトリーグがひらかれているんです！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2711_004d8",
+  "kind": "line",
+  "jp": "バトローリングがはやるかぎり",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2711_00500",
+  "kind": "line",
+  "jp": "グローブ社はもうかるってわけだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2711_00528",
+  "kind": "line",
+  "jp": "うらやましいねぇ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2711_0057c",
+  "kind": "line",
+  "jp": "バトローリングの道具って　ほとんどが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2711_005ac",
+  "kind": "line",
+  "jp": "グローブ社のものなんだろ？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2711_005d0",
+  "kind": "line",
+  "jp": "あ　さいきんは　ヘクサ社ってのが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2711_005fc",
+  "kind": "line",
+  "jp": "ライバルとしてあらわれたらしいね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2711_0065c",
+  "kind": "line",
+  "jp": "バトローリングってのは　グローブ社の",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2711_0068c",
+  "kind": "line",
+  "jp": "グローブ社長がはじめたもんなんだろ？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2711_006bc",
+  "kind": "line",
+  "jp": "こんなにすごいスポーツにするなんて",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2711_006e8",
+  "kind": "line",
+  "jp": "グローブ社長は　たいした人だねぇ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2711_00754",
+  "kind": "line",
+  "jp": "ヘクサ社って　いいウワサをきかないね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2711_00784",
+  "kind": "line",
+  "jp": "やっぱり　グローブ社に入社しよう！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2711_007b0",
+  "kind": "line",
+  "jp": "でも　やとってくれるかなぁ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2711_0080c",
+  "kind": "line",
+  "jp": "グローブ社にしゅうしょくしようと",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2711_00838",
+  "kind": "line",
+  "jp": "思ってたんだけど……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2711_00858",
+  "kind": "line",
+  "jp": "ヘクサ社のほうが　いいかなぁ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2711_00884",
+  "kind": "line",
+  "jp": "ううう　なやむなぁ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2711_008d8",
+  "kind": "line",
+  "jp": "グローブ社に　入社したいと思って",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 17,
+  "notes": ""
+ },
+ {
+  "id": "e2711_00904",
+  "kind": "line",
+  "jp": "いなかから　でてきたんだけど……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 17,
+  "notes": ""
+ },
+ {
+  "id": "e2711_00970",
+  "kind": "line",
+  "jp": "なんだよ～？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 18,
+  "notes": ""
+ },
+ {
+  "id": "e2711_009bc",
+  "kind": "line",
+  "jp": "・・・",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 19,
+  "notes": ""
+ },
+ {
+  "id": "e2711_009cc",
+  "kind": "line",
+  "jp": "勝負！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 19,
+  "notes": ""
+ },
+ {
+  "id": "e2711_00a2c",
+  "kind": "line",
+  "jp": "かっとび体育館で　つぎのしかくが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 19,
+  "notes": ""
+ },
+ {
+  "id": "e2711_00a58",
+  "kind": "line",
+  "jp": "おまえを　まってるぞ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 19,
+  "notes": ""
+ },
+ {
+  "id": "e2711_00aac",
+  "kind": "line",
+  "jp": "顔あらって　でなおしてきなさい！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 19,
+  "notes": ""
+ },
+ {
+  "id": "e2711_00b0c",
+  "kind": "line",
+  "jp": "バトリーグってしってるかい？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 20,
+  "notes": ""
+ },
+ {
+  "id": "e2711_00b34",
+  "kind": "line",
+  "jp": "だれもがあこがれる　プロリーグの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 20,
+  "notes": ""
+ },
+ {
+  "id": "e2711_00b60",
+  "kind": "line",
+  "jp": "ことだよ　ボクもめざしてるんだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 20,
+  "notes": ""
+ },
+ {
+  "id": "e2711_00bc8",
+  "kind": "line",
+  "jp": "オレはつよいやつに会いに　ここに来た",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 21,
+  "notes": ""
+ },
+ {
+  "id": "e2711_00bf8",
+  "kind": "line",
+  "jp": "おまえ　つよそうだな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 21,
+  "notes": ""
+ },
+ {
+  "id": "e2711_00c18",
+  "kind": "line",
+  "jp": "オレはおまえに　かないそうにないよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 21,
+  "notes": ""
+ },
+ {
+  "id": "e2711_00c78",
+  "kind": "line",
+  "jp": "こまったです……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 22,
+  "notes": ""
+ },
+ {
+  "id": "e2711_00c94",
+  "kind": "line",
+  "jp": "こまったです……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 22,
+  "notes": ""
+ },
+ {
+  "id": "e2711_00cb0",
+  "kind": "line",
+  "jp": "あっ！　そこのキミ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 22,
+  "notes": ""
+ },
+ {
+  "id": "e2711_00ccc",
+  "kind": "line",
+  "jp": "ちょっと　たすけてほしいですー",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 22,
+  "notes": ""
+ },
+ {
+  "id": "e2711_00d08.0",
+  "kind": "choice",
+  "jp": "ことわる",
+  "en": "",
+  "status": "new",
+  "script": 22,
+  "notes": ""
+ },
+ {
+  "id": "e2711_00d08.1",
+  "kind": "choice",
+  "jp": "たすける",
+  "en": "",
+  "status": "new",
+  "script": 22,
+  "notes": ""
+ },
+ {
+  "id": "e2711_00d48",
+  "kind": "line",
+  "jp": "そうですか・・・ざんねんです",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 22,
+  "notes": ""
+ },
+ {
+  "id": "e2711_00d80",
+  "kind": "line",
+  "jp": "ありがとうです！！！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 22,
+  "notes": ""
+ },
+ {
+  "id": "e2711_00de8",
+  "kind": "line",
+  "jp": "オレは　つよいやつをもとめて",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 23,
+  "notes": ""
+ },
+ {
+  "id": "e2711_00e10",
+  "kind": "line",
+  "jp": "ここにきたんだ・・・",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 23,
+  "notes": ""
+ },
+ {
+  "id": "e2711_00e30",
+  "kind": "line",
+  "jp": "おまえ　すこしはできそうだけど",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 23,
+  "notes": ""
+ },
+ {
+  "id": "e2711_00e58",
+  "kind": "line",
+  "jp": "まだまだ　だな・・・",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 23,
+  "notes": ""
+ },
+ {
+  "id": "e2711_00eac",
+  "kind": "line",
+  "jp": "オレはつよいやつと　対戦するために",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 24,
+  "notes": ""
+ },
+ {
+  "id": "e2711_00ed8",
+  "kind": "line",
+  "jp": "ここにきたんだ　おまえよわそうだな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 24,
+  "notes": ""
+ },
+ {
+  "id": "e2711_00f04",
+  "kind": "line",
+  "jp": "オレのあいてにはふさわしくないな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 24,
+  "notes": ""
+ },
+ {
+  "id": "e2711_00f70",
+  "kind": "line",
+  "jp": "いまのマルスは　ハヤテさんだけど",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 25,
+  "notes": ""
+ },
+ {
+  "id": "e2711_00f9c",
+  "kind": "line",
+  "jp": "つぎのマルスは　いったいだれかしらね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 25,
+  "notes": ""
+ },
+ {
+  "id": "e2711_00fcc",
+  "kind": "line",
+  "jp": "あなたもバトローリングを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 25,
+  "notes": ""
+ },
+ {
+  "id": "e2711_00ff0",
+  "kind": "line",
+  "jp": "やっているならマルスを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 25,
+  "notes": ""
+ },
+ {
+  "id": "e2711_01010",
+  "kind": "line",
+  "jp": "めざしてみたらどうかしら？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 25,
+  "notes": ""
+ },
+ {
+  "id": "e2711_01068",
+  "kind": "line",
+  "jp": "バトリーグのチャンピオンは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 26,
+  "notes": ""
+ },
+ {
+  "id": "e2711_0108c",
+  "kind": "line",
+  "jp": "マルスってよばれているのよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 26,
+  "notes": ""
+ },
+ {
+  "id": "e2711_010b0",
+  "kind": "line",
+  "jp": "マルスのしょうごうは　だいだいの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 26,
+  "notes": ""
+ },
+ {
+  "id": "e2711_010dc",
+  "kind": "line",
+  "jp": "チャンピオンにうけつがれるの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 26,
+  "notes": ""
+ },
+ {
+  "id": "e2711_01138",
+  "kind": "line",
+  "jp": "マルスってしってる？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 27,
+  "notes": ""
+ },
+ {
+  "id": "e2711_01158",
+  "kind": "line",
+  "jp": "バトリーグのチャンピオンのことよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 27,
+  "notes": ""
+ },
+ {
+  "id": "e2711_01184",
+  "kind": "line",
+  "jp": "つまり　バトローリングで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 27,
+  "notes": ""
+ },
+ {
+  "id": "e2711_011a8",
+  "kind": "line",
+  "jp": "もっとも強い人のことね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 27,
+  "notes": ""
+ },
+ {
+  "id": "e2711_01208",
+  "kind": "line",
+  "jp": "ヘクサ社が　きゅうにプレミアムジムを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 28,
+  "notes": ""
+ },
+ {
+  "id": "e2711_01238",
+  "kind": "line",
+  "jp": "へいさしてしまいました",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 28,
+  "notes": ""
+ },
+ {
+  "id": "e2711_01258",
+  "kind": "line",
+  "jp": "いったいなにがあったのでしょうねぇ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 28,
+  "notes": ""
+ },
+ {
+  "id": "e2711_012b8",
+  "kind": "line",
+  "jp": "グローブ社のおひざもとに　ジムを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 29,
+  "notes": ""
+ },
+ {
+  "id": "e2711_012e4",
+  "kind": "line",
+  "jp": "ひらくなんて　ヘクサ社もやりますね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 29,
+  "notes": ""
+ },
+ {
+  "id": "e2711_01310",
+  "kind": "line",
+  "jp": "これは　ヘクサ社のちょうせんじょう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 29,
+  "notes": ""
+ },
+ {
+  "id": "e2711_0133c",
+  "kind": "line",
+  "jp": "そう思って　まちがいないでしょうね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 29,
+  "notes": ""
+ },
+ {
+  "id": "e2711_0139c",
+  "kind": "line",
+  "jp": "プレミアムジムで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 30,
+  "notes": ""
+ },
+ {
+  "id": "e2711_013b8",
+  "kind": "line",
+  "jp": "つよくなるぞ～！！！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 30,
+  "notes": ""
+ },
+ {
+  "id": "e2711_0140c",
+  "kind": "line",
+  "jp": "ここは　ヘクサ社がけいえいしている",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 31,
+  "notes": ""
+ },
+ {
+  "id": "e2711_01438",
+  "kind": "line",
+  "jp": "プレミアムジムですよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 31,
+  "notes": ""
+ },
+ {
+  "id": "e2711_01458",
+  "kind": "line",
+  "jp": "さいきん　グングンと力をつけて",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 31,
+  "notes": ""
+ },
+ {
+  "id": "e2711_01480",
+  "kind": "line",
+  "jp": "はんじょうしているらしいですね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 31,
+  "notes": ""
+ },
+ {
+  "id": "e2711_014e8",
+  "kind": "line",
+  "jp": "グローブデパートはどこかのぉ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 32,
+  "notes": ""
+ },
+ {
+  "id": "e2711_01550",
+  "kind": "line",
+  "jp": "グローブ社のおかげで　ますます",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 33,
+  "notes": ""
+ },
+ {
+  "id": "e2711_01578",
+  "kind": "line",
+  "jp": "町は　はってんしていくでしょうね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 33,
+  "notes": ""
+ },
+ {
+  "id": "e2711_015d8",
+  "kind": "line",
+  "jp": "この町は　グローブ社をちゅうしんに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 34,
+  "notes": ""
+ },
+ {
+  "id": "e2711_01604",
+  "kind": "line",
+  "jp": "はってんしてきた町なの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 34,
+  "notes": ""
+ },
+ {
+  "id": "e2711_01624",
+  "kind": "line",
+  "jp": "だから　みんなグローブ社や",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 34,
+  "notes": ""
+ },
+ {
+  "id": "e2711_01648",
+  "kind": "line",
+  "jp": "バトローリングが　大スキなのよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 34,
+  "notes": ""
+ },
+ {
+  "id": "e2711_016a4",
+  "kind": "line",
+  "jp": "この町は　グローブ社をちゅうしんに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 35,
+  "notes": ""
+ },
+ {
+  "id": "e2711_016d0",
+  "kind": "line",
+  "jp": "はってんしてきた町よ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 35,
+  "notes": ""
+ },
+ {
+  "id": "e2711_017f0",
+  "kind": "line",
+  "jp": "はいれないようだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 38,
+  "notes": ""
+ },
+ {
+  "id": "e2711_01948",
+  "kind": "line",
+  "jp": "ここはグローブ公園",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 42,
+  "notes": ""
+ },
+ {
+  "id": "e2711_01964",
+  "kind": "line",
+  "jp": "うでにおぼえのある",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 42,
+  "notes": ""
+ },
+ {
+  "id": "e2711_01980",
+  "kind": "line",
+  "jp": "バトローラーがあつまる場所よ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 42,
+  "notes": ""
+ },
+ {
+  "id": "e2711_019e8",
+  "kind": "line",
+  "jp": "プレミアムジムがなくなったから",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 43,
+  "notes": ""
+ },
+ {
+  "id": "e2711_01a10",
+  "kind": "line",
+  "jp": "わたし　このジムにはいることにするわ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 43,
+  "notes": ""
+ },
+ {
+  "id": "e2711_01a74",
+  "kind": "line",
+  "jp": "バトローリングをはじめたいって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 44,
+  "notes": ""
+ },
+ {
+  "id": "e2711_01a9c",
+  "kind": "line",
+  "jp": "思っているんだけど……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 44,
+  "notes": ""
+ },
+ {
+  "id": "e2711_01abc",
+  "kind": "line",
+  "jp": "ここのジムとプレミアムジムと",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 44,
+  "notes": ""
+ },
+ {
+  "id": "e2711_01ae4",
+  "kind": "line",
+  "jp": "どっちがいいのかしら……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 44,
+  "notes": ""
+ },
+ {
+  "id": "e2711_01b3c",
+  "kind": "line",
+  "jp": "わたし　バトローリングをはじめようと",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 45,
+  "notes": ""
+ },
+ {
+  "id": "e2711_01b6c",
+  "kind": "line",
+  "jp": "おもっているのよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 45,
+  "notes": ""
+ },
+ {
+  "id": "e2711_01bc8",
+  "kind": "line",
+  "jp": "きょうもバトローリングのれんしゅう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 46,
+  "notes": ""
+ },
+ {
+  "id": "e2711_01bf4",
+  "kind": "line",
+  "jp": "がんばるぞ～！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 46,
+  "notes": ""
+ },
+ {
+  "id": "e2711_01c40",
+  "kind": "line",
+  "jp": "おお　∴",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 47,
+  "notes": ""
+ },
+ {
+  "id": "e2711_01c54",
+  "kind": "line",
+  "jp": "わいといっしょに　青春せえへんか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 47,
+  "notes": ""
+ },
+ {
+  "id": "e2711_01c8c.0",
+  "kind": "choice",
+  "jp": "べつに……",
+  "en": "",
+  "status": "new",
+  "script": 47,
+  "notes": ""
+ },
+ {
+  "id": "e2711_01c8c.1",
+  "kind": "choice",
+  "jp": "ぜひとも！",
+  "en": "",
+  "status": "new",
+  "script": 47,
+  "notes": ""
+ },
+ {
+  "id": "e2711_01ccc",
+  "kind": "line",
+  "jp": "エンリョせんでもええのに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 47,
+  "notes": ""
+ },
+ {
+  "id": "e2711_01cf0",
+  "kind": "line",
+  "jp": "気がかわったら　また声かけてや",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 47,
+  "notes": ""
+ },
+ {
+  "id": "e2711_01d28",
+  "kind": "line",
+  "jp": "よっしゃ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 47,
+  "notes": ""
+ },
+ {
+  "id": "e2711_01d3c",
+  "kind": "line",
+  "jp": "チカラいっぱい　青春させたるわ！！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 47,
+  "notes": ""
+ },
+ {
+  "id": "e2711_01f9c",
+  "kind": "line",
+  "jp": "プレミアムジムの商品は",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 53,
+  "notes": ""
+ },
+ {
+  "id": "e2711_01fbc",
+  "kind": "line",
+  "jp": "ぜんぜん売れなかったんだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 53,
+  "notes": ""
+ },
+ {
+  "id": "e2711_01fe0",
+  "kind": "line",
+  "jp": "だからこんどは　キミの商品を作る！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 53,
+  "notes": ""
+ },
+ {
+  "id": "e2711_0200c",
+  "kind": "line",
+  "jp": "ね　ね　いいだろ？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 53,
+  "notes": ""
+ },
+ {
+  "id": "e2711_0205c",
+  "kind": "line",
+  "jp": "よってらっしゃ　みてらっしゃい！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 54,
+  "notes": ""
+ },
+ {
+  "id": "e2711_02088",
+  "kind": "line",
+  "jp": "ここでしか買えないげんてい品！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 54,
+  "notes": ""
+ },
+ {
+  "id": "e2711_020b0",
+  "kind": "line",
+  "jp": "プレミアムジムのミナミ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 54,
+  "notes": ""
+ },
+ {
+  "id": "e2711_020d0",
+  "kind": "line",
+  "jp": "サイン入りブロマイドだよぉ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 54,
+  "notes": ""
+ },
+ {
+  "id": "e2711_0212c",
+  "kind": "line",
+  "jp": "よってらっしゃ　みてらっしゃい！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 55,
+  "notes": ""
+ },
+ {
+  "id": "e2711_02158",
+  "kind": "line",
+  "jp": "ここでしか買えないげんてい品！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 55,
+  "notes": ""
+ },
+ {
+  "id": "e2711_02180",
+  "kind": "line",
+  "jp": "いま大人気！　プレミアムジム",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 55,
+  "notes": ""
+ },
+ {
+  "id": "e2711_021a8",
+  "kind": "line",
+  "jp": "ホクトのサインつきうらない本！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 55,
+  "notes": ""
+ },
+ {
+  "id": "e2711_02238",
+  "kind": "line",
+  "jp": "ん？　なんだ？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 57,
+  "notes": ""
+ },
+ {
+  "id": "e2711_02250",
+  "kind": "line",
+  "jp": "オレになにかようか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 57,
+  "notes": ""
+ },
+ {
+  "id": "e2711_02270",
+  "kind": "line",
+  "jp": "それはちょうどいい　すこし",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 57,
+  "notes": ""
+ },
+ {
+  "id": "e2711_02294",
+  "kind": "line",
+  "jp": "練習相手になってくれないか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 57,
+  "notes": ""
+ },
+ {
+  "id": "e2711_022c8.0",
+  "kind": "choice",
+  "jp": "ムリです",
+  "en": "",
+  "status": "new",
+  "script": 57,
+  "notes": ""
+ },
+ {
+  "id": "e2711_022c8.1",
+  "kind": "choice",
+  "jp": "おねがいします",
+  "en": "",
+  "status": "new",
+  "script": 57,
+  "notes": ""
+ },
+ {
+  "id": "e2711_0230c",
+  "kind": "line",
+  "jp": "そうか　だったら　",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 57,
+  "notes": ""
+ },
+ {
+  "id": "e2711_02328",
+  "kind": "line",
+  "jp": "近づかないほうがいい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 57,
+  "notes": ""
+ },
+ {
+  "id": "e2711_02348",
+  "kind": "line",
+  "jp": "オレのくんれんは　はげしい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 57,
+  "notes": ""
+ },
+ {
+  "id": "e2711_0236c",
+  "kind": "line",
+  "jp": "ヘタをすると　ケガをするからな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 57,
+  "notes": ""
+ },
+ {
+  "id": "e2711_023a4",
+  "kind": "line",
+  "jp": "よし　それじゃあいくぞ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 57,
+  "notes": ""
+ },
+ {
+  "id": "e2711_02408",
+  "kind": "line",
+  "jp": "ふう　いいあせをかいた",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 57,
+  "notes": ""
+ },
+ {
+  "id": "e2711_02428",
+  "kind": "line",
+  "jp": "キミ　なかなかやるじゃないか",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 57,
+  "notes": ""
+ },
+ {
+  "id": "e2711_02450",
+  "kind": "line",
+  "jp": "れんしゅうをてつだってくれたお礼だ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 57,
+  "notes": ""
+ },
+ {
+  "id": "e2711_0247c",
+  "kind": "line",
+  "jp": "よかったら　これをつかってみるといい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 57,
+  "notes": ""
+ },
+ {
+  "id": "e2711_024c0",
+  "kind": "line",
+  "jp": "それをうまく使いこなせれば",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 57,
+  "notes": ""
+ },
+ {
+  "id": "e2711_024e4",
+  "kind": "line",
+  "jp": "もっと強くなれるはずだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 57,
+  "notes": ""
+ },
+ {
+  "id": "e2711_02504",
+  "kind": "line",
+  "jp": "キミと大会で戦える日を",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 57,
+  "notes": ""
+ },
+ {
+  "id": "e2711_02524",
+  "kind": "line",
+  "jp": "たのしみにまっている",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 57,
+  "notes": ""
+ },
+ {
+  "id": "e2711_02544",
+  "kind": "line",
+  "jp": "それじゃあ　またあおう！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 57,
+  "notes": ""
+ },
+ {
+  "id": "e2711_02588",
+  "kind": "line",
+  "jp": "いい動きはあるものの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 57,
+  "notes": ""
+ },
+ {
+  "id": "e2711_025a8",
+  "kind": "line",
+  "jp": "まだまだれんしゅうぶそくだな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 57,
+  "notes": ""
+ },
+ {
+  "id": "e2711_025d0",
+  "kind": "line",
+  "jp": "もっと　オーラをコントロールし",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 57,
+  "notes": ""
+ },
+ {
+  "id": "e2711_025f8",
+  "kind": "line",
+  "jp": "むだな動きをなくすんだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 57,
+  "notes": ""
+ },
+ {
+  "id": "e2711_02618",
+  "kind": "line",
+  "jp": "それじゃあ　オレはべつのところで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 57,
+  "notes": ""
+ },
+ {
+  "id": "e2711_02644",
+  "kind": "line",
+  "jp": "れんしゅうをつづける",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 57,
+  "notes": ""
+ },
+ {
+  "id": "e2711_02664",
+  "kind": "line",
+  "jp": "きかいがあれば　またあおう！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 57,
+  "notes": ""
+ },
+ {
+  "id": "e2711_026ec",
+  "kind": "line",
+  "jp": "えらいひとのどうぞうだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 58,
+  "notes": ""
+ },
+ {
+  "id": "e2711_0270c",
+  "kind": "line",
+  "jp": "どこかでみたことある人だけど",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 58,
+  "notes": ""
+ },
+ {
+  "id": "e2711_02734",
+  "kind": "line",
+  "jp": "だれだっけ？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 58,
+  "notes": ""
+ },
+ {
+  "id": "e2711_02780",
+  "kind": "line",
+  "jp": "Ｖメダルを見つけた！！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 59,
+  "notes": ""
+ }
+]

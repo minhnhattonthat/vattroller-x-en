@@ -1,0 +1,92 @@
+[
+ {
+  "id": "e2563_0009c",
+  "kind": "line",
+  "jp": "て……天国が見えました……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2563_000d4",
+  "kind": "line",
+  "jp": "す……スタミナうばって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2563_000f4",
+  "kind": "line",
+  "jp": "どないすんねん……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2563_00124",
+  "kind": "line",
+  "jp": "ちょっと　改良が",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2563_00140",
+  "kind": "line",
+  "jp": "ひつようみたいね　ウフッ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2563_0019c",
+  "kind": "line",
+  "jp": "てへっ♪",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2563_001b0",
+  "kind": "line",
+  "jp": "これクスリ代のたしにでもして",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2563_00220",
+  "kind": "line",
+  "jp": "スタミナりょうりはやめて　次は",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2563_00248",
+  "kind": "line",
+  "jp": "けんこうりょうりを作るからね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

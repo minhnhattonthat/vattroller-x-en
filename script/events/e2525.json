@@ -1,0 +1,350 @@
+[
+ {
+  "id": "e2525_000a4",
+  "kind": "line",
+  "jp": "わたしは　ブレードけいのアームが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2525_000d0",
+  "kind": "line",
+  "jp": "とくいだから　それについて教えるわね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2525_00100",
+  "kind": "line",
+  "jp": "まず　練習として",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2525_0011c",
+  "kind": "line",
+  "jp": "この　バトローリング練習マシン",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2525_00144",
+  "kind": "line",
+  "jp": "シャークボールを　たおしてみなさい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2525_00170",
+  "kind": "line",
+  "jp": "『５コ』たおせば　クリアよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2525_001f0",
+  "kind": "line",
+  "jp": "これでブレードけいのアームを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2525_00218",
+  "kind": "line",
+  "jp": "使えるようになったわよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2525_0024c",
+  "kind": "line",
+  "jp": "シャークボールは上級者むけなんだけど",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2525_0027c",
+  "kind": "line",
+  "jp": "なんなくクリアするなんて",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2525_002a0",
+  "kind": "line",
+  "jp": "あなた　なかなかそしつあるわね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2525_002c8",
+  "kind": "line",
+  "jp": "あとは自分でも練習してね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2525_002ec",
+  "kind": "line",
+  "jp": "そうだ　あなたには",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2525_00308",
+  "kind": "line",
+  "jp": "とくべつに　アームをあげるわね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2525_00350",
+  "kind": "line",
+  "jp": "さっき教えてあげたブレードけいのアーム",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2525_00380",
+  "kind": "line",
+  "jp": "『シャムシール』と",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2525_0039c",
+  "kind": "line",
+  "jp": "えんきょりこうげきがたの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2525_003c0",
+  "kind": "line",
+  "jp": "リーブけいアーム『リーブラスター』",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2525_003ec",
+  "kind": "line",
+  "jp": "どっちがいいかな？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2525_00414.0",
+  "kind": "choice",
+  "jp": "『シャムシール』",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2525_00414.1",
+  "kind": "choice",
+  "jp": "『リーブラスター』",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2525_004e4",
+  "kind": "line",
+  "jp": "アームセットのやり方はわかるかな？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2525_00510",
+  "kind": "line",
+  "jp": "さっきあげた　アームを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2525_00530",
+  "kind": "line",
+  "jp": "このＶマシンで　アームセットするのよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2525_00560",
+  "kind": "line",
+  "jp": "部室のＶマシンで　",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2525_0057c",
+  "kind": "line",
+  "jp": "アームセットしてみるといいわ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2525_005a4",
+  "kind": "line",
+  "jp": "アームには　いろんなけいとうがあるの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2525_005d4",
+  "kind": "line",
+  "jp": "でも　マスターに習わないと使えないの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2525_00604",
+  "kind": "line",
+  "jp": "わたしはブレードけいしか",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2525_00628",
+  "kind": "line",
+  "jp": "教えることができないけど",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2525_0064c",
+  "kind": "line",
+  "jp": "まだまだ　たくさんけいとうがあるから",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2525_0067c",
+  "kind": "line",
+  "jp": "教えてくれるマスターをさがすといいわ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2525_006b8",
+  "kind": "line",
+  "jp": "それじゃわたしは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2525_006d4",
+  "kind": "line",
+  "jp": "用があるからもどるわね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2525_006f4",
+  "kind": "line",
+  "jp": "あなたも部室にもどるといいわ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

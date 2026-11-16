@@ -1,0 +1,172 @@
+[
+ {
+  "id": "e2654_000d4",
+  "kind": "line",
+  "jp": "グーグー　グーグー",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2654_000f0",
+  "kind": "line",
+  "jp": "……むにゃ　むにゃ　ヤッター！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2654_00118",
+  "kind": "line",
+  "jp": "アタシが　マルスになったのよ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2654_00178",
+  "kind": "line",
+  "jp": "グーグー　グーグー",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2654_00194",
+  "kind": "line",
+  "jp": "……むにゃ　むにゃ　まんげつの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2654_001bc",
+  "kind": "line",
+  "jp": "おまんじゅうが　たべたい……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2654_00218",
+  "kind": "line",
+  "jp": "グーグー　グーグー",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2654_00234",
+  "kind": "line",
+  "jp": "……あら　やだ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2654_00250",
+  "kind": "line",
+  "jp": "アタシ　おひるねなんか　してませんよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2654_002c0",
+  "kind": "line",
+  "jp": "ようふくタンスだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2654_00310",
+  "kind": "line",
+  "jp": "Ｖメダルを見つけた！！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2654_003b8",
+  "kind": "line",
+  "jp": "テレビをつけてみた",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2654_003d4",
+  "kind": "line",
+  "jp": "テレビのアナウンサーがいねむりしてた",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2654_0044c",
+  "kind": "line",
+  "jp": "ようふくタンスだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2654_004a8",
+  "kind": "line",
+  "jp": "むずかしそうな本だらけだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2654_00528",
+  "kind": "line",
+  "jp": "テレビをつけてみた",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2654_00544",
+  "kind": "line",
+  "jp": "テレビのアナウンサーがいねむりしてた",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ }
+]

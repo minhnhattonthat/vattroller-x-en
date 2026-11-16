@@ -1,0 +1,232 @@
+[
+ {
+  "id": "e2597_000a8",
+  "kind": "line",
+  "jp": "……てなわけで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2597_000c0",
+  "kind": "line",
+  "jp": "これから大会をかいさいする！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2597_000e8",
+  "kind": "line",
+  "jp": "ゆうしゅうなヤツには",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2597_00108",
+  "kind": "line",
+  "jp": "スゲーしょうひんをよういしてるからな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2597_00138",
+  "kind": "line",
+  "jp": "じゃあ　がんばってくれい！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2597_001e8",
+  "kind": "line",
+  "jp": "それじゃ　優勝した",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2597_00204",
+  "kind": "line",
+  "jp": "あんたには　これをあげるわ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2597_0025c",
+  "kind": "line",
+  "jp": "ゲッ！　スイカ５０玉と",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2597_0027c",
+  "kind": "line",
+  "jp": "キュアメイト　やと！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2597_002a8",
+  "kind": "line",
+  "jp": "ひ……ひどすぎる……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2597_002d4",
+  "kind": "line",
+  "jp": "なによ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2597_002e8",
+  "kind": "line",
+  "jp": "もんくある≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2597_0030c",
+  "kind": "line",
+  "jp": "いえ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2597_0032c",
+  "kind": "line",
+  "jp": "さんかしょうは　スイカ１玉",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2597_00350",
+  "kind": "line",
+  "jp": "ちゃんとのこさず食べて帰るのよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2597_0038c",
+  "kind": "line",
+  "jp": "優勝できなかった人にも",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2597_003ac",
+  "kind": "line",
+  "jp": "ちゃんと　さんかしょうがあるのよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2597_003e4",
+  "kind": "line",
+  "jp": "えらい　気前ええなあ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2597_00410",
+  "kind": "line",
+  "jp": "スイカ１玉",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2597_00424",
+  "kind": "line",
+  "jp": "ちゃんとのこさず食べて帰るのよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2597_00458",
+  "kind": "line",
+  "jp": "『スイカ』をてにいれた！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2597_00494",
+  "kind": "line",
+  "jp": "もうスイカは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2597_004ac",
+  "kind": "line",
+  "jp": "カンベンや～！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

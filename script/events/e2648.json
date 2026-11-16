@@ -1,0 +1,1312 @@
+[
+ {
+  "id": "e2648_000fc",
+  "kind": "line",
+  "jp": "よう　∴じゃねぇか",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2648_00118",
+  "kind": "line",
+  "jp": "調子はどうだい？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2648_00168",
+  "kind": "line",
+  "jp": "よう　∴じゃねぇか",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2648_00184",
+  "kind": "line",
+  "jp": "きょうはそつぎょうしけんやるぜ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2648_001bc.0",
+  "kind": "choice",
+  "jp": "おねがいします",
+  "en": "",
+  "status": "new",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2648_001bc.1",
+  "kind": "choice",
+  "jp": "えんりょします",
+  "en": "",
+  "status": "new",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2648_00204",
+  "kind": "line",
+  "jp": "よ～し　こんかいは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2648_00220",
+  "kind": "line",
+  "jp": "オレと勝負だぜ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2648_00244",
+  "kind": "line",
+  "jp": "まぁ　しかたネェな　またこいよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2648_0027c",
+  "kind": "line",
+  "jp": "バウンダーをきわめれば",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2648_0029c",
+  "kind": "line",
+  "jp": "すこしは強くなるんじゃネェか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2648_00304",
+  "kind": "line",
+  "jp": "どうだい？　強くなれただろ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2648_00328",
+  "kind": "line",
+  "jp": "これからもがんばれよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2648_00354",
+  "kind": "line",
+  "jp": "これは　そつぎょうきねんだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2648_00378",
+  "kind": "line",
+  "jp": "とっとけ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2648_003cc",
+  "kind": "line",
+  "jp": "次は　エクスバウンダーけいにも",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2648_003f4",
+  "kind": "line",
+  "jp": "ちょうせんしてみな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2648_00440",
+  "kind": "line",
+  "jp": "おっと　おしかったな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2648_00460",
+  "kind": "line",
+  "jp": "また　ちょうせんしてくれ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2648_004bc",
+  "kind": "line",
+  "jp": "よう　∴じゃねぇか",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2648_004d8",
+  "kind": "line",
+  "jp": "調子はどうだい？　なに？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2648_004fc",
+  "kind": "line",
+  "jp": "もっともっと強くなりたいだと？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2648_00524",
+  "kind": "line",
+  "jp": "オレにまかしとけ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2648_0054c.0",
+  "kind": "choice",
+  "jp": "おねがいします",
+  "en": "",
+  "status": "new",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2648_0054c.1",
+  "kind": "choice",
+  "jp": "えんりょします",
+  "en": "",
+  "status": "new",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2648_00594",
+  "kind": "line",
+  "jp": "よ～し　こんどはシャークボールを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2648_005c0",
+  "kind": "line",
+  "jp": "『２０コ』たおしてみな∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2648_005e4",
+  "kind": "line",
+  "jp": "バウンダーの　スマッシュこうげきも",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2648_00610",
+  "kind": "line",
+  "jp": "なかなか使えるぞ　おぼえとけ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2648_00644",
+  "kind": "line",
+  "jp": "まぁ　しかたネェな　またこいよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2648_006b0",
+  "kind": "line",
+  "jp": "なかなか　やるな～∴",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2648_006d0",
+  "kind": "line",
+  "jp": "これで　バウンダーが有利になる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2648_006f8",
+  "kind": "line",
+  "jp": "Ｖスキルを　おぼえるはずだぜ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2648_00740",
+  "kind": "line",
+  "jp": "ボーナスＶＰをもらった∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2648_0078c",
+  "kind": "line",
+  "jp": "きょうは　ここまでだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2648_007ac",
+  "kind": "line",
+  "jp": "また　こいよな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2648_007e4",
+  "kind": "line",
+  "jp": "おっと　おしかったな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2648_00804",
+  "kind": "line",
+  "jp": "また　ちょうせんしてくれ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2648_00860",
+  "kind": "line",
+  "jp": "ん？　なんだ　オメーさん？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2648_00884",
+  "kind": "line",
+  "jp": "バトローリングを　教えてくれだと？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2648_008b0",
+  "kind": "line",
+  "jp": "もっと強くなりてーのかい？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2648_008e0.0",
+  "kind": "choice",
+  "jp": "はい　そうです",
+  "en": "",
+  "status": "new",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2648_008e0.1",
+  "kind": "choice",
+  "jp": "そんなことないです",
+  "en": "",
+  "status": "new",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2648_0092c",
+  "kind": "line",
+  "jp": "よ～し！　いいだろう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2648_0094c",
+  "kind": "line",
+  "jp": "オレは　バウンダーけいのマスターだから",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2648_0097c",
+  "kind": "line",
+  "jp": "そいつを　教えてやるぜ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2648_0099c",
+  "kind": "line",
+  "jp": "シャークボールを『１５コ』たおしてみな∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2648_009d0",
+  "kind": "line",
+  "jp": "こうげきだけじゃなくて",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2648_009f0",
+  "kind": "line",
+  "jp": "ぼうぎょもだいじだぞ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2648_00a1c",
+  "kind": "line",
+  "jp": "何だ　ちがうのか",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2648_00a38",
+  "kind": "line",
+  "jp": "しかたネェな　またこいよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2648_00aa8",
+  "kind": "line",
+  "jp": "なかなか　やるな～オメーさん",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2648_00ad0",
+  "kind": "line",
+  "jp": "これで『バウンダーけい』のアームを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2648_00afc",
+  "kind": "line",
+  "jp": "使えるはずだぜ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2648_00b18",
+  "kind": "line",
+  "jp": "ためしてみな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2648_00b30",
+  "kind": "line",
+  "jp": "これからも練習してやるからさ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2648_00b58",
+  "kind": "line",
+  "jp": "また　こいよな！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2648_00ba0",
+  "kind": "line",
+  "jp": "おっと　おしかったな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2648_00bc0",
+  "kind": "line",
+  "jp": "また　ちょうせんしてくれ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2648_00c1c",
+  "kind": "line",
+  "jp": "おう　何だい？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2648_00c34",
+  "kind": "line",
+  "jp": "オレに何か用かい？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2648_00c90",
+  "kind": "line",
+  "jp": "あら　∴ちゃん　いらっしゃい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2648_00cec",
+  "kind": "line",
+  "jp": "あら　∴ちゃん　いらっしゃい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2648_00d14",
+  "kind": "line",
+  "jp": "いつも　おせわになってるから",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2648_00d3c",
+  "kind": "line",
+  "jp": "きょうはおだんごあげるね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2648_00d6c",
+  "kind": "line",
+  "jp": "『まんげつのだんご』をてにいれた",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2648_00de4",
+  "kind": "line",
+  "jp": "あら　∴ちゃん　いらっしゃい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2648_00e0c",
+  "kind": "line",
+  "jp": "はい　おまんじゅうをどうぞ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2648_00e30",
+  "kind": "line",
+  "jp": "あなたのおかげで　コマチとライバも",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2648_00e5c",
+  "kind": "line",
+  "jp": "なかなおりしたみたい　ありがとうね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2648_00ebc",
+  "kind": "line",
+  "jp": "あら　∴ちゃん　いらっしゃい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2648_00ee4",
+  "kind": "line",
+  "jp": "コマチとあそんでくれてありがとう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2648_00f10",
+  "kind": "line",
+  "jp": "はい　おまんじゅうをどうぞ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2648_00f34",
+  "kind": "line",
+  "jp": "これからもコマチをよろしくね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2648_00f90",
+  "kind": "line",
+  "jp": "いらっしゃいませ～",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2648_00fac",
+  "kind": "line",
+  "jp": "あら　コマチのお友だちの子ね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2648_00fd4",
+  "kind": "line",
+  "jp": "あの子　めいわくかけてるんでしょ？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2648_01000",
+  "kind": "line",
+  "jp": "いつもごめんなさいね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2648_01060",
+  "kind": "line",
+  "jp": "まんげつさんのとこのネコちゃん",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2648_01088",
+  "kind": "line",
+  "jp": "ときどき　まねきネコしてるの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2648_010b0",
+  "kind": "line",
+  "jp": "だから　いつもおきゃくさんが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2648_010d8",
+  "kind": "line",
+  "jp": "いっぱいなんだね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2648_01128",
+  "kind": "line",
+  "jp": "まんげつさんのとこのネコちゃん",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2648_01150",
+  "kind": "line",
+  "jp": "ときどき　まねきネコしてるのよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2648_01178",
+  "kind": "line",
+  "jp": "とってもかーわいいの！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2648_011cc",
+  "kind": "line",
+  "jp": "まんげつさんのとこのネコちゃん",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2648_011f4",
+  "kind": "line",
+  "jp": "とっても　かーわいいのよね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2648_01258",
+  "kind": "line",
+  "jp": "つぼの中は　からっぽだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2648_012ac",
+  "kind": "line",
+  "jp": "つぼの中に　光るものが……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 17,
+  "notes": ""
+ },
+ {
+  "id": "e2648_012d0",
+  "kind": "line",
+  "jp": "Ｖメダルを見つけた！！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0600",
+  "script": 17,
+  "notes": ""
+ },
+ {
+  "id": "e2648_0135c",
+  "kind": "line",
+  "jp": "スイカのわがしは　ないのかしら",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 18,
+  "notes": ""
+ },
+ {
+  "id": "e2648_01384",
+  "kind": "line",
+  "jp": "あれ　おいしかったんだけどねぇ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 18,
+  "notes": ""
+ },
+ {
+  "id": "e2648_013e4",
+  "kind": "line",
+  "jp": "まんげつのわがしは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 19,
+  "notes": ""
+ },
+ {
+  "id": "e2648_01400",
+  "kind": "line",
+  "jp": "どれもおいしいから　まよっちゃうわ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 19,
+  "notes": ""
+ },
+ {
+  "id": "e2648_01460",
+  "kind": "line",
+  "jp": "ちょっと　どうしてくれんのよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 20,
+  "notes": ""
+ },
+ {
+  "id": "e2648_01488",
+  "kind": "line",
+  "jp": "あんたたちが　とってきたスイカを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 20,
+  "notes": ""
+ },
+ {
+  "id": "e2648_014b4",
+  "kind": "line",
+  "jp": "和がしにしたら　ぜんぶハズレ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 20,
+  "notes": ""
+ },
+ {
+  "id": "e2648_014dc",
+  "kind": "line",
+  "jp": "おかげで　うちの店は",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 20,
+  "notes": ""
+ },
+ {
+  "id": "e2648_014fc",
+  "kind": "line",
+  "jp": "大赤字になっちゃったじゃない！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 20,
+  "notes": ""
+ },
+ {
+  "id": "e2648_01538",
+  "kind": "line",
+  "jp": "この赤字をうめるために",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 20,
+  "notes": ""
+ },
+ {
+  "id": "e2648_01558",
+  "kind": "line",
+  "jp": "大会を　ひらくことにしたわ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 20,
+  "notes": ""
+ },
+ {
+  "id": "e2648_0157c",
+  "kind": "line",
+  "jp": "あんたも　せきにんとって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 20,
+  "notes": ""
+ },
+ {
+  "id": "e2648_015a0",
+  "kind": "line",
+  "jp": "さんかしなさいよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 20,
+  "notes": ""
+ },
+ {
+  "id": "e2648_015c8.0",
+  "kind": "choice",
+  "jp": "せきにんとります",
+  "en": "",
+  "status": "new",
+  "script": 20,
+  "notes": ""
+ },
+ {
+  "id": "e2648_015c8.1",
+  "kind": "choice",
+  "jp": "いやです",
+  "en": "",
+  "status": "new",
+  "script": 20,
+  "notes": ""
+ },
+ {
+  "id": "e2648_01610",
+  "kind": "line",
+  "jp": "じゃあ　会場まで　ＧＯ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 20,
+  "notes": ""
+ },
+ {
+  "id": "e2648_01640",
+  "kind": "line",
+  "jp": "なによ！　あたしに　さからう気？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 20,
+  "notes": ""
+ },
+ {
+  "id": "e2648_0166c",
+  "kind": "line",
+  "jp": "まぁ　いいわ　気がかわったら",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 20,
+  "notes": ""
+ },
+ {
+  "id": "e2648_01694",
+  "kind": "line",
+  "jp": "さんかするのよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 20,
+  "notes": ""
+ },
+ {
+  "id": "e2648_017f0",
+  "kind": "line",
+  "jp": "まんげつのわがしは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 21,
+  "notes": ""
+ },
+ {
+  "id": "e2648_0180c",
+  "kind": "line",
+  "jp": "どれもおいしいから　まよっちゃうわ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 21,
+  "notes": ""
+ },
+ {
+  "id": "e2648_0186c",
+  "kind": "line",
+  "jp": "おまんじゅうがいいかしら",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 22,
+  "notes": ""
+ },
+ {
+  "id": "e2648_01890",
+  "kind": "line",
+  "jp": "きんつばもいいわねぇ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 22,
+  "notes": ""
+ },
+ {
+  "id": "e2648_018f4",
+  "kind": "line",
+  "jp": "にゃ～ん",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 23,
+  "notes": ""
+ },
+ {
+  "id": "e2648_01964",
+  "kind": "line",
+  "jp": "にゃ～ん",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 25,
+  "notes": ""
+ },
+ {
+  "id": "e2648_019b8",
+  "kind": "line",
+  "jp": "まねきねこだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 26,
+  "notes": ""
+ },
+ {
+  "id": "e2648_019d0",
+  "kind": "line",
+  "jp": "ちょっとコマチに　にてるかも",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 26,
+  "notes": ""
+ },
+ {
+  "id": "e2648_01a54",
+  "kind": "line",
+  "jp": "満月のＣＭが　流れている",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 27,
+  "notes": ""
+ },
+ {
+  "id": "e2648_01ac0",
+  "kind": "line",
+  "jp": "こっとうひんのタンスだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 28,
+  "notes": ""
+ },
+ {
+  "id": "e2648_01b48",
+  "kind": "line",
+  "jp": "はずかしがらないで　早く行きなさい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 30,
+  "notes": ""
+ },
+ {
+  "id": "e2648_01ba8",
+  "kind": "line",
+  "jp": "あら　∴じゃない",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 31,
+  "notes": ""
+ },
+ {
+  "id": "e2648_01bc4",
+  "kind": "line",
+  "jp": "うちに　なんの用？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 31,
+  "notes": ""
+ },
+ {
+  "id": "e2648_01bec.0",
+  "kind": "choice",
+  "jp": "なんでもない",
+  "en": "",
+  "status": "new",
+  "script": 31,
+  "notes": ""
+ },
+ {
+  "id": "e2648_01bec.1",
+  "kind": "choice",
+  "jp": "マスターをさがしてる",
+  "en": "",
+  "status": "new",
+  "script": 31,
+  "notes": ""
+ },
+ {
+  "id": "e2648_01c3c",
+  "kind": "line",
+  "jp": "もう　遊んでないで　ちゃんと",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 31,
+  "notes": ""
+ },
+ {
+  "id": "e2648_01c64",
+  "kind": "line",
+  "jp": "練習しなさいよね！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 31,
+  "notes": ""
+ },
+ {
+  "id": "e2648_01c98",
+  "kind": "line",
+  "jp": "あれ？　言ってなかったっけ？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 31,
+  "notes": ""
+ },
+ {
+  "id": "e2648_01cc0",
+  "kind": "line",
+  "jp": "うちの　お父ちゃんは　バトリーグの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 31,
+  "notes": ""
+ },
+ {
+  "id": "e2648_01cec",
+  "kind": "line",
+  "jp": "トップランカーだったのよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 31,
+  "notes": ""
+ },
+ {
+  "id": "e2648_01d10",
+  "kind": "line",
+  "jp": "バウンダーけいの　マスターでもあるし",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 31,
+  "notes": ""
+ },
+ {
+  "id": "e2648_01d40",
+  "kind": "line",
+  "jp": "お父ちゃんに　教えてもらいなよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 31,
+  "notes": ""
+ },
+ {
+  "id": "e2648_01dd0",
+  "kind": "line",
+  "jp": "満月のＣＭが　流れている",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 32,
+  "notes": ""
+ }
+]

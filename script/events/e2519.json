@@ -1,0 +1,920 @@
+[
+ {
+  "id": "e2519_002f4",
+  "kind": "line",
+  "jp": "ハンニバル∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_00350",
+  "kind": "line",
+  "jp": "わたしの　集めたしきょうせいも",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_00378",
+  "kind": "line",
+  "jp": "たいしたヤツらじゃ　なかったようだな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_003a8",
+  "kind": "line",
+  "jp": "だが　キミたちの戦いぶりは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_003cc",
+  "kind": "line",
+  "jp": "本当に　みごとだった……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_003f0",
+  "kind": "line",
+  "jp": "どうだ　わたしとともに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_00410",
+  "kind": "line",
+  "jp": "デスローラーにならないか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_00440",
+  "kind": "line",
+  "jp": "なに≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_0045c",
+  "kind": "line",
+  "jp": "世の中は　力があるものが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_00480",
+  "kind": "line",
+  "jp": "しはいするのだ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_0049c",
+  "kind": "line",
+  "jp": "本のうのままの強さを　手にいれて　",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_004c8",
+  "kind": "line",
+  "jp": "戦うのは　気分がいいものだぞ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_004f4",
+  "kind": "line",
+  "jp": "クククク∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_00514",
+  "kind": "line",
+  "jp": "おまえのやっていることは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_00538",
+  "kind": "line",
+  "jp": "まちがっている∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_00554",
+  "kind": "line",
+  "jp": "バトローリングは　楽しんで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_00578",
+  "kind": "line",
+  "jp": "やるものなんだ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_00594",
+  "kind": "line",
+  "jp": "それをオレが　わからせてやる∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_005c8",
+  "kind": "line",
+  "jp": "バカめ∇　",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_005dc",
+  "kind": "line",
+  "jp": "あっとうてきな力のさを　思い知れ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_00608",
+  "kind": "line",
+  "jp": "おまえら　みんな　たたきつぶしてやる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_00638",
+  "kind": "line",
+  "jp": "まずはジン∇　キサマからだ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_006a4",
+  "kind": "line",
+  "jp": "バ　バカな∇　オレのはかいの技に",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_006d0",
+  "kind": "line",
+  "jp": "打ち勝つとは　なぜオレの技がきかない",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_00700",
+  "kind": "line",
+  "jp": "なぜ　力にのみこまれない∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_00724",
+  "kind": "line",
+  "jp": "なぜだ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_00754",
+  "kind": "line",
+  "jp": "バトローリングは　楽しいものだ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_00780",
+  "kind": "line",
+  "jp": "応援してくれた　コロナちゃんが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_007a8",
+  "kind": "line",
+  "jp": "戦ったみんなが　教えてくれた∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_007d0",
+  "kind": "line",
+  "jp": "相手をただぶっこわすだけの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_007f4",
+  "kind": "line",
+  "jp": "デスロールは　まちがってる∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_0081c",
+  "kind": "line",
+  "jp": "デスローラーなんかにはならない∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_00848",
+  "kind": "line",
+  "jp": "オレは　バトローラーだ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_00880",
+  "kind": "line",
+  "jp": "ジンのやつやりやがったぜ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_008b0",
+  "kind": "line",
+  "jp": "フッ　たいしたやつだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_008ec",
+  "kind": "line",
+  "jp": "ジンさんすごいです∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_00918",
+  "kind": "line",
+  "jp": "クッ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_0092c",
+  "kind": "line",
+  "jp": "はかいの力を……上回る……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_00950",
+  "kind": "line",
+  "jp": "力がある……とは……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_00a30",
+  "kind": "line",
+  "jp": "ジンくん∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_00aa0",
+  "kind": "line",
+  "jp": "コロナちゃん　オレやったぜ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_00ad4",
+  "kind": "line",
+  "jp": "おめでとう　ジンくん",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_00b00",
+  "kind": "line",
+  "jp": "ハンニバルは　たおれ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_00b20",
+  "kind": "line",
+  "jp": "デスローラーたちも　ほろびました",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_00b4c",
+  "kind": "line",
+  "jp": "これで　もうにどとデスロールは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_00b74",
+  "kind": "line",
+  "jp": "できないわ　ありがとうみんな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_00ba8",
+  "kind": "line",
+  "jp": "さあ　帰ろうぜ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_00d48",
+  "kind": "line",
+  "jp": "…………あああっ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_00d88",
+  "kind": "line",
+  "jp": "わっ！　ど　どうしたの　ジンくん≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_00df0",
+  "kind": "line",
+  "jp": "忘れてた∇　オレたちってまだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_00e18",
+  "kind": "line",
+  "jp": "アレーナのとちゅうだったじゃないか∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_00e48",
+  "kind": "line",
+  "jp": "みんな∇　決勝戦やろうぜ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_00e78",
+  "kind": "line",
+  "jp": "あれほどはげしいバトルを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_00e9c",
+  "kind": "line",
+  "jp": "したばかりなのに……元気なヤツだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_00ed4",
+  "kind": "line",
+  "jp": "しょーがねーな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_00eec",
+  "kind": "line",
+  "jp": "つきあってやるか",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_00f14",
+  "kind": "line",
+  "jp": "ほんとにバトローリングが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_00f38",
+  "kind": "line",
+  "jp": "すきなんですね　ジンさんは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_00f78",
+  "kind": "line",
+  "jp": "……コロナちゃん　いつか言ってたよね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_00fa8",
+  "kind": "line",
+  "jp": "強い弱いはかんけいないって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_00fd8",
+  "kind": "line",
+  "jp": "え？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_00ff4",
+  "kind": "line",
+  "jp": "じいちゃんの言ってたのも",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_01018",
+  "kind": "line",
+  "jp": "きっと　そういうことだったんだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_01040",
+  "kind": "line",
+  "jp": "大事なのは強くなることじゃない",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_01068",
+  "kind": "line",
+  "jp": "夢中になって　みんなと楽しむこと……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_01098",
+  "kind": "line",
+  "jp": "オレ　これからも思いっきり",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_010bc",
+  "kind": "line",
+  "jp": "バトローリングを楽しむよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_010e0",
+  "kind": "line",
+  "jp": "だから　コロナちゃんも",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_01100",
+  "kind": "line",
+  "jp": "応援してくれよな∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_01130",
+  "kind": "line",
+  "jp": "……うん∇　ジンくんのこと",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_01154",
+  "kind": "line",
+  "jp": "ずっと応援するよ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_01194",
+  "kind": "line",
+  "jp": "よーし　じゃあみんなでバトルしようぜ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_011d8",
+  "kind": "line",
+  "jp": "今度は　負けねぇぞ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_01204",
+  "kind": "line",
+  "jp": "フッ　たのしみだな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_0122c",
+  "kind": "line",
+  "jp": "みなさんのデータは　ぶんせきずみです",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_0125c",
+  "kind": "line",
+  "jp": "勝つのは　ぼくですよ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_01298",
+  "kind": "line",
+  "jp": "ピィィ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_012b8",
+  "kind": "line",
+  "jp": "がんばれ　ジンくん∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_012d8",
+  "kind": "line",
+  "jp": "がんばれ　みんな∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_01320",
+  "kind": "line",
+  "jp": "レッツ　エンジョイ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_0133c",
+  "kind": "line",
+  "jp": "バトローリング∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_0135c.0",
+  "kind": "title",
+  "jp": "デスロール編",
+  "en": "",
+  "status": "new",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_0135c.1",
+  "kind": "title",
+  "jp": "終わり",
+  "en": "",
+  "status": "new",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_013c4",
+  "kind": "line",
+  "jp": "アーマレット『クラッケン』が",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_013ec",
+  "kind": "line",
+  "jp": "使えるようになりました∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_01460",
+  "kind": "line",
+  "jp": "アーマレット『アシュラム』が",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_01488",
+  "kind": "line",
+  "jp": "使えるようになりました∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_014fc",
+  "kind": "line",
+  "jp": "アーマレット『デスロード』が",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_01524",
+  "kind": "line",
+  "jp": "使えるようになりました∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_01598",
+  "kind": "line",
+  "jp": "アーマレット『ベルゼーブ』が",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_015c0",
+  "kind": "line",
+  "jp": "使えるようになりました∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2519_01634",
+  "kind": "line",
+  "jp": "記録が　しゅうりょうしました",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ }
+]

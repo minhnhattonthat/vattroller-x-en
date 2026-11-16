@@ -1,0 +1,540 @@
+[
+ {
+  "id": "e2508_00120",
+  "kind": "line",
+  "jp": "なんだと≡　こ　こいつ　さっきの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2508_0014c",
+  "kind": "line",
+  "jp": "へぼマスターとは　レベルがちがう∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2508_001ac",
+  "kind": "line",
+  "jp": "ど　どうすればいいでしょう……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2508_001d4",
+  "kind": "line",
+  "jp": "教えてください　マスター∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2508_00204",
+  "kind": "line",
+  "jp": "ええいっ∇　そんなことは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2508_00228",
+  "kind": "line",
+  "jp": "自分で考えろっ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2508_00258",
+  "kind": "line",
+  "jp": "ええっ　そんな……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2508_002b8",
+  "kind": "line",
+  "jp": "むう∇　まったくバカモンが∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2508_002e0",
+  "kind": "line",
+  "jp": "しかたない　ワシが相手だ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2508_00340",
+  "kind": "line",
+  "jp": "おまえごとき　ふきとばしてやる∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2508_0041c",
+  "kind": "line",
+  "jp": "……すごいアタックだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2508_0043c",
+  "kind": "line",
+  "jp": "さすがに道場のマスターだけはあるな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2508_00474",
+  "kind": "line",
+  "jp": "実力のちがいを思い知ったか∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2508_0049c",
+  "kind": "line",
+  "jp": "さあ　かくごしろ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2508_004c4",
+  "kind": "line",
+  "jp": "シュウくん∇　あいつはオーラを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2508_004ec",
+  "kind": "line",
+  "jp": "使い切った時　スキができます∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2508_00530",
+  "kind": "line",
+  "jp": "ありがとうございます",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2508_00550",
+  "kind": "line",
+  "jp": "タイラーさん∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2508_005d8",
+  "kind": "line",
+  "jp": "ワ　ワシがこんなガキに負けるとは……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2508_00608",
+  "kind": "line",
+  "jp": "あのへぼマスターが　よけいなことさえ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2508_00638",
+  "kind": "line",
+  "jp": "言わなけりゃ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2508_00660",
+  "kind": "line",
+  "jp": "そう　タイラーさんは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2508_00680",
+  "kind": "line",
+  "jp": "オレに大事なアドバイスをしてくれた",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2508_006ac",
+  "kind": "line",
+  "jp": "それにくらべ　あなたは弟子に",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2508_006d4",
+  "kind": "line",
+  "jp": "なにかを教えようとさえしなかった",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2508_00700",
+  "kind": "line",
+  "jp": "ジムに門下生が少ないのは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2508_00724",
+  "kind": "line",
+  "jp": "そこにもげんいんがあるんじゃないか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2508_00754",
+  "kind": "line",
+  "jp": "あなたがいくら強くとも　マスターと",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2508_00780",
+  "kind": "line",
+  "jp": "してはタイラーさんがはるかに上だ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2508_007b8",
+  "kind": "line",
+  "jp": "……くっ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2508_008d4",
+  "kind": "line",
+  "jp": "なんだ　いま出てった",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2508_008f4",
+  "kind": "line",
+  "jp": "連中は？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2508_00910",
+  "kind": "line",
+  "jp": "え？　道場やぶり？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2508_0092c",
+  "kind": "line",
+  "jp": "なんだよ　ちこくしてそんしたぜ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2508_00958",
+  "kind": "line",
+  "jp": "やっぱシュウさんがやっつけたんスよね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2508_00988",
+  "kind": "line",
+  "jp": "さっすが～∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2508_009b4",
+  "kind": "line",
+  "jp": "いや　追い返せたのは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2508_009d4",
+  "kind": "line",
+  "jp": "タイラーさんのおかげだよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2508_00a14",
+  "kind": "line",
+  "jp": "ええっ≡　タイラーさんが？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2508_00a4c",
+  "kind": "line",
+  "jp": "へぇ～　やるときゃやるもんですね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2508_00a78",
+  "kind": "line",
+  "jp": "タイラーさん",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2508_00a9c",
+  "kind": "line",
+  "jp": "え？　いや　その……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2508_00ac8",
+  "kind": "line",
+  "jp": "ちっとたよりないかと思ってたけど……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2508_00af8",
+  "kind": "line",
+  "jp": "さすがはうちのサブマスターだな∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2508_00b30",
+  "kind": "line",
+  "jp": "ああ　タイラーさんは本当に",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2508_00b54",
+  "kind": "line",
+  "jp": "りっぱなサブマスターだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2508_00b74",
+  "kind": "line",
+  "jp": "レイオンマスターも　きっと",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2508_00b98",
+  "kind": "line",
+  "jp": "ほこりに思うだろうさ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2508_00bc4",
+  "kind": "line",
+  "jp": "シュウくん……ありがとう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2508_00bec.0",
+  "kind": "title",
+  "jp": "バトローラーシュウ",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2508_00bec.1",
+  "kind": "title",
+  "jp": "番外編　終",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2508_00c3c",
+  "kind": "line",
+  "jp": "アーマレット『ドラグーン』が",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2508_00c64",
+  "kind": "line",
+  "jp": "使えるようになりました",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2508_00cac",
+  "kind": "line",
+  "jp": "記録が　しゅうりょうしました",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

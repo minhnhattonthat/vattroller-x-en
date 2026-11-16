@@ -1,0 +1,162 @@
+[
+ {
+  "id": "e2690_000d4",
+  "kind": "line",
+  "jp": "もの好きだなんていって　悪かったよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2690_00100",
+  "kind": "line",
+  "jp": "ＶＲ部って　ホント　スゴいよな！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2690_00160",
+  "kind": "line",
+  "jp": "キミ　ＶＲ部にはいったんだって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2690_00188",
+  "kind": "line",
+  "jp": "ホント　もの好きだねぇ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2690_001e0",
+  "kind": "line",
+  "jp": "キミ　てんこうせい？　だったら　",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2690_0020c",
+  "kind": "line",
+  "jp": "サッカー部にはいりなよ　オススメだよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2690_0027c",
+  "kind": "line",
+  "jp": "女の子がマルスになれば　アタシも",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2690_002a8",
+  "kind": "line",
+  "jp": "バトローリングをはじめるつもりよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2690_00308",
+  "kind": "line",
+  "jp": "女の子でも　やる気さえあれば",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2690_00330",
+  "kind": "line",
+  "jp": "強いバトローラーになれるってホント？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2690_00394",
+  "kind": "line",
+  "jp": "ねえ　ねえ　バトローリングって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2690_003bc",
+  "kind": "line",
+  "jp": "女の子でもできるの？　",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2690_0041c",
+  "kind": "line",
+  "jp": "そうじ用具が入っている",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2690_0047c",
+  "kind": "line",
+  "jp": "じょうほうたんまつだ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2690_0049c",
+  "kind": "line",
+  "jp": "天気よほうがひょうじされている",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2690_00504",
+  "kind": "line",
+  "jp": "数学の本がぎっしりだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ }
+]

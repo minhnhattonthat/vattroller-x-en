@@ -1,0 +1,742 @@
+[
+ {
+  "id": "e2617_00230",
+  "kind": "line",
+  "jp": "Ｖセンターのバトローリング",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2617_00254",
+  "kind": "line",
+  "jp": "チャンピオンって　あたしのことよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2617_002b4",
+  "kind": "line",
+  "jp": "ふふん　そんな攻撃　きかないわよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2617_002e0",
+  "kind": "line",
+  "jp": "うふっ　ＶＲＸって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2617_002fc",
+  "kind": "line",
+  "jp": "ほんとによくできたゲームだわ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2617_00358",
+  "kind": "line",
+  "jp": "あたし　うんどうはにがてだけど",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2617_00380",
+  "kind": "line",
+  "jp": "ゲームのバトローリングならとくいなの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2617_003f0",
+  "kind": "line",
+  "jp": "バトローリングをもとにしたゲームが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2617_0041c",
+  "kind": "line",
+  "jp": "こんなに面白いなら……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2617_0043c",
+  "kind": "line",
+  "jp": "よし！　ボクも",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2617_00454",
+  "kind": "line",
+  "jp": "バトローラーになって試合にでるぞ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2617_004b4",
+  "kind": "line",
+  "jp": "よし！　いくぞ！　そら！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2617_004d8",
+  "kind": "line",
+  "jp": "ふー　ＶＲＸは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2617_004f0",
+  "kind": "line",
+  "jp": "面白いなぁ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2617_0053c",
+  "kind": "line",
+  "jp": "対戦アクションゲーム",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2617_0055c",
+  "kind": "line",
+  "jp": "「ＶＲＸ」をやってるんだ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2617_00580",
+  "kind": "line",
+  "jp": "バトローラーになって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2617_005a0",
+  "kind": "line",
+  "jp": "たたかうゲームだよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2617_005fc",
+  "kind": "line",
+  "jp": "こうみえても",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2617_00614",
+  "kind": "line",
+  "jp": "ボクってけっこう強いんだぜ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2617_00638",
+  "kind": "line",
+  "jp": "こんどたいせんしよう！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2617_0068c",
+  "kind": "line",
+  "jp": "ここでまちあわせて　友だちと",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2617_006b4",
+  "kind": "line",
+  "jp": "まいにちバトルしているんだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2617_00718",
+  "kind": "line",
+  "jp": "いらっしゃいませ　ここは　おともだちと",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2617_00748",
+  "kind": "line",
+  "jp": "つうしん対戦をするカウンターです",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2617_00774",
+  "kind": "line",
+  "jp": "対戦しますか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2617_007c4",
+  "kind": "line",
+  "jp": "ボックスが満タンなので",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2617_007e4",
+  "kind": "line",
+  "jp": "ボックスに空きを作って　きてください",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2617_00824",
+  "kind": "line",
+  "jp": "記録しますが　よろしいですか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2617_00870",
+  "kind": "line",
+  "jp": "記録中です",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2617_00884",
+  "kind": "line",
+  "jp": "電源をきらないでください",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2617_008d8",
+  "kind": "line",
+  "jp": "記録がしゅうりょうしました",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2617_00908",
+  "kind": "line",
+  "jp": "記録に失敗しました",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2617_00934",
+  "kind": "line",
+  "jp": "ありがとうございました",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2617_00960",
+  "kind": "line",
+  "jp": "また　おこしください！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2617_00990",
+  "kind": "line",
+  "jp": "また　おこしください！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2617_00a24",
+  "kind": "line",
+  "jp": "ＶＲＸの１人台です",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 17,
+  "notes": ""
+ },
+ {
+  "id": "e2617_00a88",
+  "kind": "line",
+  "jp": "ＶＲＸつうしんしますか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 18,
+  "notes": ""
+ },
+ {
+  "id": "e2617_00ad0",
+  "kind": "line",
+  "jp": "記録しますが　よろしいですか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 18,
+  "notes": ""
+ },
+ {
+  "id": "e2617_00b1c",
+  "kind": "line",
+  "jp": "記録中です",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 18,
+  "notes": ""
+ },
+ {
+  "id": "e2617_00b30",
+  "kind": "line",
+  "jp": "電源をきらないでください",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 18,
+  "notes": ""
+ },
+ {
+  "id": "e2617_00b84",
+  "kind": "line",
+  "jp": "記録がしゅうりょうしました",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 18,
+  "notes": ""
+ },
+ {
+  "id": "e2617_00bbc",
+  "kind": "line",
+  "jp": "記録に失敗しました",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 18,
+  "notes": ""
+ },
+ {
+  "id": "e2617_00c20",
+  "kind": "line",
+  "jp": "となりの人がうるさくて",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 19,
+  "notes": ""
+ },
+ {
+  "id": "e2617_00c40",
+  "kind": "line",
+  "jp": "まけてばかりなのよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 19,
+  "notes": ""
+ },
+ {
+  "id": "e2617_00c9c",
+  "kind": "line",
+  "jp": "えい　やぁ∇どりゃ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 20,
+  "notes": ""
+ },
+ {
+  "id": "e2617_00cfc",
+  "kind": "line",
+  "jp": "うーん　これはこわれてるのか",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 21,
+  "notes": ""
+ },
+ {
+  "id": "e2617_00d24",
+  "kind": "line",
+  "jp": "うごかないや",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 21,
+  "notes": ""
+ },
+ {
+  "id": "e2617_00d7c",
+  "kind": "line",
+  "jp": "いっつもまけてばかりだよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 22,
+  "notes": ""
+ },
+ {
+  "id": "e2617_00da0",
+  "kind": "line",
+  "jp": "きょうこそは　かつ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 22,
+  "notes": ""
+ },
+ {
+  "id": "e2617_00e00",
+  "kind": "line",
+  "jp": "Ｖセンター２Ｆ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 23,
+  "notes": ""
+ },
+ {
+  "id": "e2617_00e58",
+  "kind": "line",
+  "jp": "Ｖセンター２Ｆ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 24,
+  "notes": ""
+ },
+ {
+  "id": "e2617_00eb0",
+  "kind": "line",
+  "jp": "→つうしん対戦ルーム",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 25,
+  "notes": ""
+ },
+ {
+  "id": "e2617_00ed0",
+  "kind": "line",
+  "jp": "←ＶＲＸゲームルーム",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 25,
+  "notes": ""
+ },
+ {
+  "id": "e2617_00f30",
+  "kind": "line",
+  "jp": "つうしんたいせんのすすめ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 26,
+  "notes": ""
+ },
+ {
+  "id": "e2617_00f54",
+  "kind": "line",
+  "jp": "みんなでつなげれば　いっそうたのしい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 26,
+  "notes": ""
+ },
+ {
+  "id": "e2617_00f84",
+  "kind": "line",
+  "jp": "つうしんたいせん",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 26,
+  "notes": ""
+ },
+ {
+  "id": "e2617_00fe0",
+  "kind": "line",
+  "jp": "Ｖドリンクの　じはんきだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 27,
+  "notes": ""
+ },
+ {
+  "id": "e2617_01044",
+  "kind": "line",
+  "jp": "あんた　ジャマーボールって知ってるかい？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 28,
+  "notes": ""
+ },
+ {
+  "id": "e2617_01078",
+  "kind": "line",
+  "jp": "２人でつうしんたいせんすると",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 28,
+  "notes": ""
+ },
+ {
+  "id": "e2617_010a0",
+  "kind": "line",
+  "jp": "ロールのぶったいが　飛んできて",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 28,
+  "notes": ""
+ },
+ {
+  "id": "e2617_010c8",
+  "kind": "line",
+  "jp": "じゃまするんだよ　もちろん弾けるし",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 28,
+  "notes": ""
+ },
+ {
+  "id": "e2617_010f4",
+  "kind": "line",
+  "jp": "ドロップして消すこともできるんだよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 28,
+  "notes": ""
+ },
+ {
+  "id": "e2617_01120",
+  "kind": "line",
+  "jp": "まぁ　ポイントにはならないけどね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 28,
+  "notes": ""
+ },
+ {
+  "id": "e2617_0118c",
+  "kind": "line",
+  "jp": "ここはゲームルームです",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 29,
+  "notes": ""
+ },
+ {
+  "id": "e2617_011ac",
+  "kind": "line",
+  "jp": "ＶＲＸで１人で対戦できるほか",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 29,
+  "notes": ""
+ },
+ {
+  "id": "e2617_011d4",
+  "kind": "line",
+  "jp": "ＶＲＸでつうしん対戦もできますので",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 29,
+  "notes": ""
+ },
+ {
+  "id": "e2617_01200",
+  "kind": "line",
+  "jp": "ぜひおたちよりください",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 29,
+  "notes": ""
+ },
+ {
+  "id": "e2617_01220",
+  "kind": "line",
+  "jp": "Ｖショップで『ＶＲＸデータ』を",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 29,
+  "notes": ""
+ },
+ {
+  "id": "e2617_01248",
+  "kind": "line",
+  "jp": "こうにゅうすると　いろんなキャラで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 29,
+  "notes": ""
+ },
+ {
+  "id": "e2617_01274",
+  "kind": "line",
+  "jp": "対戦を楽しめますよ　キャラのデータは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 29,
+  "notes": ""
+ },
+ {
+  "id": "e2617_012a4",
+  "kind": "line",
+  "jp": "Ｖマシンのリストでかくにんできますよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 29,
+  "notes": ""
+ },
+ {
+  "id": "e2617_01350",
+  "kind": "line",
+  "jp": "→つうしん対戦ルーム",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 31,
+  "notes": ""
+ },
+ {
+  "id": "e2617_01370",
+  "kind": "line",
+  "jp": "←ＶＲＸゲームルーム",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 31,
+  "notes": ""
+ }
+]

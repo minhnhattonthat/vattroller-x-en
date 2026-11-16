@@ -1,0 +1,492 @@
+[
+ {
+  "id": "e2616_00230",
+  "kind": "line",
+  "jp": "いらっしゃいませ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2616_0024c",
+  "kind": "line",
+  "jp": "Ｖスキルを思い出すカウンターです",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2616_00278",
+  "kind": "line",
+  "jp": "思い出しますか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2616_002b8",
+  "kind": "line",
+  "jp": "では　どうぞ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2616_00334",
+  "kind": "line",
+  "jp": "また　おこしください！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2616_003c8",
+  "kind": "line",
+  "jp": "とくにようがなくても　１日１回は",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2616_003f4",
+  "kind": "line",
+  "jp": "ここにくるようにしているんだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2616_0041c",
+  "kind": "line",
+  "jp": "友だちもいっぱいやってくるしね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2616_00478",
+  "kind": "line",
+  "jp": "さすが　グローブ社　バトローラーの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2616_004a4",
+  "kind": "line",
+  "jp": "ようきゅうをしりつくしているね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2616_0050c",
+  "kind": "line",
+  "jp": "あたしもバトローラーになって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2616_00534",
+  "kind": "line",
+  "jp": "アームを手にいれようかな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2616_0058c",
+  "kind": "line",
+  "jp": "カッコイイ　アームや",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2616_005ac",
+  "kind": "line",
+  "jp": "かわいい　アームがいっぱい～",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2616_00608",
+  "kind": "line",
+  "jp": "すごーい　アームって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2616_00628",
+  "kind": "line",
+  "jp": "こんなにいっぱいあるんだ～",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2616_0068c",
+  "kind": "line",
+  "jp": "あたらしいＶスキルを考えたんだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2616_006b4",
+  "kind": "line",
+  "jp": "オナラ　っていうのはどうかな？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2616_006dc",
+  "kind": "line",
+  "jp": "あいてがにげていくから",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2616_006fc",
+  "kind": "line",
+  "jp": "らくに勝てると思うんだけど……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2616_00758",
+  "kind": "line",
+  "jp": "キミは　どんなＶスキルを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2616_0077c",
+  "kind": "line",
+  "jp": "おぼえてるんだい？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2616_007cc",
+  "kind": "line",
+  "jp": "おぼえるべきか　わすれるべきか",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2616_007f4",
+  "kind": "line",
+  "jp": "それが　もんだいだ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2616_00814",
+  "kind": "line",
+  "jp": "えっ？　Ｖスキルのことだよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2616_00878",
+  "kind": "line",
+  "jp": "バトローラーのみなさん",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 17,
+  "notes": ""
+ },
+ {
+  "id": "e2616_00898",
+  "kind": "line",
+  "jp": "Ｖセンターにようこそ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 17,
+  "notes": ""
+ },
+ {
+  "id": "e2616_008b8",
+  "kind": "line",
+  "jp": "１Ｆは　Ｖスキルを思い出すコーナーです",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 17,
+  "notes": ""
+ },
+ {
+  "id": "e2616_008e8",
+  "kind": "line",
+  "jp": "２Ｆは　つうしん対戦とＶＲＸコーナーです",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 17,
+  "notes": ""
+ },
+ {
+  "id": "e2616_0091c",
+  "kind": "line",
+  "jp": "３Ｆは　アームこうかんと",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 17,
+  "notes": ""
+ },
+ {
+  "id": "e2616_00940",
+  "kind": "line",
+  "jp": "Ｖスキルをおしえるコーナーです",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 17,
+  "notes": ""
+ },
+ {
+  "id": "e2616_009a8",
+  "kind": "line",
+  "jp": "バトローラーのみなさん",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 18,
+  "notes": ""
+ },
+ {
+  "id": "e2616_009c8",
+  "kind": "line",
+  "jp": "Ｖセンターにようこそ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 18,
+  "notes": ""
+ },
+ {
+  "id": "e2616_00a28",
+  "kind": "line",
+  "jp": "ゴミが　あふれ出ている",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 19,
+  "notes": ""
+ },
+ {
+  "id": "e2616_00a7c",
+  "kind": "line",
+  "jp": "ゴミのなかに　光るものが……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 20,
+  "notes": ""
+ },
+ {
+  "id": "e2616_00aa4",
+  "kind": "line",
+  "jp": "Ｖメダルを見つけた！！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0600",
+  "script": 20,
+  "notes": ""
+ },
+ {
+  "id": "e2616_00b30",
+  "kind": "line",
+  "jp": "アーマレットをはっこうするきかいだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 21,
+  "notes": ""
+ },
+ {
+  "id": "e2616_00b5c",
+  "kind": "line",
+  "jp": "もうもってるから　いらないや",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 21,
+  "notes": ""
+ },
+ {
+  "id": "e2616_00bc4",
+  "kind": "line",
+  "jp": "アーマレットをはっこうするきかいだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 22,
+  "notes": ""
+ },
+ {
+  "id": "e2616_00bf0",
+  "kind": "line",
+  "jp": "もうもってるから　いらないや",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 22,
+  "notes": ""
+ },
+ {
+  "id": "e2616_00c58",
+  "kind": "line",
+  "jp": "Ｖセンター１Ｆ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 23,
+  "notes": ""
+ },
+ {
+  "id": "e2616_00cb0",
+  "kind": "line",
+  "jp": "Ｖセンター１Ｆ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 24,
+  "notes": ""
+ },
+ {
+  "id": "e2616_00d08",
+  "kind": "line",
+  "jp": "→アーマレット発行ルーム",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 25,
+  "notes": ""
+ },
+ {
+  "id": "e2616_00d2c",
+  "kind": "line",
+  "jp": "←Ｖスキルを思いだすルーム",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 25,
+  "notes": ""
+ },
+ {
+  "id": "e2616_00d90",
+  "kind": "line",
+  "jp": "→アーマレット発行ルーム",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 26,
+  "notes": ""
+ },
+ {
+  "id": "e2616_00db4",
+  "kind": "line",
+  "jp": "←Ｖスキルを思いだすルーム",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 26,
+  "notes": ""
+ },
+ {
+  "id": "e2616_00e18",
+  "kind": "line",
+  "jp": "ゴミが　あふれ出ている",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 27,
+  "notes": ""
+ },
+ {
+  "id": "e2616_00e78",
+  "kind": "line",
+  "jp": "ここでジョイスポットが出来ます",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 28,
+  "notes": ""
+ },
+ {
+  "id": "e2616_00ea0",
+  "kind": "line",
+  "jp": "じゅしんしますか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 28,
+  "notes": ""
+ }
+]

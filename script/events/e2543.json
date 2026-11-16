@@ -1,0 +1,162 @@
+[
+ {
+  "id": "e2543_000a4",
+  "kind": "line",
+  "jp": "ケガはたいしたことなかったけど",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2543_000cc",
+  "kind": "line",
+  "jp": "アーマレットをこわされちゃったわ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2543_000f8",
+  "kind": "line",
+  "jp": "しゅうりに時間かかるから",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2543_0011c",
+  "kind": "line",
+  "jp": "せんばつのバトルに出るのはムリみたい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2543_00168",
+  "kind": "line",
+  "jp": "あいつらっ！　バトローラーの風上にも",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2543_00198",
+  "kind": "line",
+  "jp": "おけんカスや！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2543_001cc",
+  "kind": "line",
+  "jp": "さんかわくがあいたのも　そういえば",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2543_001f8",
+  "kind": "line",
+  "jp": "ふくめんの男におそわれたんでしたね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2543_00224",
+  "kind": "line",
+  "jp": "もしかしたら　同じはんにんの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2543_0024c",
+  "kind": "line",
+  "jp": "しわざかもしれません",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2543_0026c",
+  "kind": "line",
+  "jp": "おそらくは　バトリーグに出るために",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2543_00298",
+  "kind": "line",
+  "jp": "こんなことを……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2543_002d8",
+  "kind": "line",
+  "jp": "とにかく　うちの部でせんばつバトルに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2543_00308",
+  "kind": "line",
+  "jp": "出られるのは∴だけよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2543_00328",
+  "kind": "line",
+  "jp": "ぜったい勝つのよ！　あたしたちを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2543_00354",
+  "kind": "line",
+  "jp": "おそったヤツらを見かえしてやるの！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

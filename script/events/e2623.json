@@ -1,0 +1,962 @@
+[
+ {
+  "id": "e2623_0011c",
+  "kind": "line",
+  "jp": "グローブ社には　グローブ社の",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2623_00144",
+  "kind": "line",
+  "jp": "やりかたがある……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2623_00160",
+  "kind": "line",
+  "jp": "みんなに愛されるバトローリングの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2623_0018c",
+  "kind": "line",
+  "jp": "ために　がんばるわ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2623_001e0",
+  "kind": "line",
+  "jp": "ヘキサ社について　社長は",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2623_00204",
+  "kind": "line",
+  "jp": "あまり気にしていないみたいなの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2623_0022c",
+  "kind": "line",
+  "jp": "でも　ワタシたちはライバルだと思って",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2623_0025c",
+  "kind": "line",
+  "jp": "じぶんたちのはげみにしているの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2623_002b8",
+  "kind": "line",
+  "jp": "さいきん　ヘクサ社っていう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2623_002dc",
+  "kind": "line",
+  "jp": "ライバル会社がちょうしをあげているの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2623_0030c",
+  "kind": "line",
+  "jp": "だから　ワタシたちも",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2623_0032c",
+  "kind": "line",
+  "jp": "まけないようにがんばっているのよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2623_00398",
+  "kind": "line",
+  "jp": "これからもグローブ社では",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2623_003bc",
+  "kind": "line",
+  "jp": "どんどんかいはつしていきますよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2623_003e4",
+  "kind": "line",
+  "jp": "ゆうしゅうなアームやアイテムを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2623_0040c",
+  "kind": "line",
+  "jp": "いっぱい　いっぱいね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2623_00460",
+  "kind": "line",
+  "jp": "いままでグローブ社でかいはつした",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2623_0048c",
+  "kind": "line",
+  "jp": "アームやアイテムがてんじされています",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2623_004bc",
+  "kind": "line",
+  "jp": "どうぞ　ごじゆうに　ごらんください",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2623_00528",
+  "kind": "line",
+  "jp": "そのうち　キミのアームも",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2623_0054c",
+  "kind": "line",
+  "jp": "ここにてんじされたりしてね　ハハハ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2623_005ac",
+  "kind": "line",
+  "jp": "バトローリングのれきしは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2623_005d0",
+  "kind": "line",
+  "jp": "グローブ社のれきしでもあるんだなぁ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2623_00630",
+  "kind": "line",
+  "jp": "すごいなぁ～　れきだいマルスが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2623_00658",
+  "kind": "line",
+  "jp": "使っていたアームもてんじしてあるぞ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2623_006c4",
+  "kind": "line",
+  "jp": "みなさんが　たのしくバトローリングが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2623_006f4",
+  "kind": "line",
+  "jp": "できるように　がんばらなくっちゃ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2623_00720",
+  "kind": "line",
+  "jp": "ああ　いそがしい　いそがしいっと！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2623_00780",
+  "kind": "line",
+  "jp": "わたしたち　みんなでがんばります！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2623_007ac",
+  "kind": "line",
+  "jp": "みなさんに　バトローリングの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2623_007d4",
+  "kind": "line",
+  "jp": "たのしさをわかってもらえるようにね！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2623_00838",
+  "kind": "line",
+  "jp": "ああ　いそがしい　いそがしい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2623_00860",
+  "kind": "line",
+  "jp": "おとくいさまのジムや",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2623_00880",
+  "kind": "line",
+  "jp": "学校をまわらなくっちゃ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2623_008e4",
+  "kind": "line",
+  "jp": "いらっしゃいませ　バトローリングと",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2623_00910",
+  "kind": "line",
+  "jp": "ともにあゆむ　グローブ社へようこそ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2623_00980",
+  "kind": "line",
+  "jp": "いらっしゃいませ　バトローリングと",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2623_009ac",
+  "kind": "line",
+  "jp": "ともにあゆむ　グローブ社へようこそ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2623_00c34",
+  "kind": "line",
+  "jp": "どうぞお入りください",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 23,
+  "notes": ""
+ },
+ {
+  "id": "e2623_00c88",
+  "kind": "line",
+  "jp": "どうぞお入りください",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 24,
+  "notes": ""
+ },
+ {
+  "id": "e2623_00cdc",
+  "kind": "line",
+  "jp": "このさきは　かんけいしゃいがい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 25,
+  "notes": ""
+ },
+ {
+  "id": "e2623_00d04",
+  "kind": "line",
+  "jp": "たちいりきんしです",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 25,
+  "notes": ""
+ },
+ {
+  "id": "e2623_00d60",
+  "kind": "line",
+  "jp": "だれかの絵がかざられている",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 26,
+  "notes": ""
+ },
+ {
+  "id": "e2623_00d84",
+  "kind": "line",
+  "jp": "だれだろう？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 26,
+  "notes": ""
+ },
+ {
+  "id": "e2623_00ddc",
+  "kind": "line",
+  "jp": "しゃいんぼしゅう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 27,
+  "notes": ""
+ },
+ {
+  "id": "e2623_00e38",
+  "kind": "line",
+  "jp": "バトローリングで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 28,
+  "notes": ""
+ },
+ {
+  "id": "e2623_00e54",
+  "kind": "line",
+  "jp": "わかさとけんこうを！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 28,
+  "notes": ""
+ },
+ {
+  "id": "e2623_00ed0",
+  "kind": "line",
+  "jp": "『サラマンド』のアーマレットだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 29,
+  "notes": ""
+ },
+ {
+  "id": "e2623_00ef8",
+  "kind": "line",
+  "jp": "こうげき力が高い　オーラが少し苦手",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 29,
+  "notes": ""
+ },
+ {
+  "id": "e2623_00f84",
+  "kind": "line",
+  "jp": "『エンジェラン』のアーマレットだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 30,
+  "notes": ""
+ },
+ {
+  "id": "e2623_00fb0",
+  "kind": "line",
+  "jp": "オーラ全体が強い　こうげきが苦手",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 30,
+  "notes": ""
+ },
+ {
+  "id": "e2623_00fec",
+  "kind": "line",
+  "jp": "アーマレットがたくさん　ならべてある",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 30,
+  "notes": ""
+ },
+ {
+  "id": "e2623_01078",
+  "kind": "line",
+  "jp": "『フェンリー』のアーマレットだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 31,
+  "notes": ""
+ },
+ {
+  "id": "e2623_010a0",
+  "kind": "line",
+  "jp": "すこしうたれ弱いが　それいがいは強い",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 31,
+  "notes": ""
+ },
+ {
+  "id": "e2623_01130",
+  "kind": "line",
+  "jp": "『ユニホース』のアーマレットだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 32,
+  "notes": ""
+ },
+ {
+  "id": "e2623_01158",
+  "kind": "line",
+  "jp": "バランスが取れている　初心者向け",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 32,
+  "notes": ""
+ },
+ {
+  "id": "e2623_011e4",
+  "kind": "line",
+  "jp": "『ニャティー』のアーマレットだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 33,
+  "notes": ""
+ },
+ {
+  "id": "e2623_0120c",
+  "kind": "line",
+  "jp": "オーラとスピードが少しとくい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 33,
+  "notes": ""
+ },
+ {
+  "id": "e2623_01294",
+  "kind": "line",
+  "jp": "『ゲンブール』のアーマレットだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 34,
+  "notes": ""
+ },
+ {
+  "id": "e2623_012bc",
+  "kind": "line",
+  "jp": "ＨＰとサイズが多い　スピードがおそい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 34,
+  "notes": ""
+ },
+ {
+  "id": "e2623_0134c",
+  "kind": "line",
+  "jp": "『ファルコーン』のアーマレットだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 35,
+  "notes": ""
+ },
+ {
+  "id": "e2623_01378",
+  "kind": "line",
+  "jp": "もっともスピードが速い",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 35,
+  "notes": ""
+ },
+ {
+  "id": "e2623_01398",
+  "kind": "line",
+  "jp": "こうげきが少し弱い",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 35,
+  "notes": ""
+ },
+ {
+  "id": "e2623_013c4",
+  "kind": "line",
+  "jp": "アーマレットがたくさん　ならべてある",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 35,
+  "notes": ""
+ },
+ {
+  "id": "e2623_01450",
+  "kind": "line",
+  "jp": "『クラッケン』のアーマレットだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 36,
+  "notes": ""
+ },
+ {
+  "id": "e2623_01478",
+  "kind": "line",
+  "jp": "サイズが多い　ロールが苦手",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 36,
+  "notes": ""
+ },
+ {
+  "id": "e2623_014ac",
+  "kind": "line",
+  "jp": "アーマレットがたくさん　ならべてある",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 36,
+  "notes": ""
+ },
+ {
+  "id": "e2623_01538",
+  "kind": "line",
+  "jp": "『ゴラムス』のアーマレットだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 37,
+  "notes": ""
+ },
+ {
+  "id": "e2623_01560",
+  "kind": "line",
+  "jp": "こうげきとＨＰが高い　オーラ全体が弱い",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 37,
+  "notes": ""
+ },
+ {
+  "id": "e2623_015a0",
+  "kind": "line",
+  "jp": "アーマレットがたくさん　ならべてある",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 37,
+  "notes": ""
+ },
+ {
+  "id": "e2623_0162c",
+  "kind": "line",
+  "jp": "『ドラグーン』のアーマレットだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 38,
+  "notes": ""
+ },
+ {
+  "id": "e2623_01654",
+  "kind": "line",
+  "jp": "バランスがよい　ただかいふくが苦手",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 38,
+  "notes": ""
+ },
+ {
+  "id": "e2623_01690",
+  "kind": "line",
+  "jp": "アーマレットがたくさん　ならべてある",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 38,
+  "notes": ""
+ },
+ {
+  "id": "e2623_0171c",
+  "kind": "line",
+  "jp": "『ライオネル』のアーマレットだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 39,
+  "notes": ""
+ },
+ {
+  "id": "e2623_01744",
+  "kind": "line",
+  "jp": "こうげき全体が高い　すこし打たれ弱い",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 39,
+  "notes": ""
+ },
+ {
+  "id": "e2623_01784",
+  "kind": "line",
+  "jp": "アーマレットがたくさん　ならべてある",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 39,
+  "notes": ""
+ },
+ {
+  "id": "e2623_01810",
+  "kind": "line",
+  "jp": "『アシュラム』のアーマレットだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 40,
+  "notes": ""
+ },
+ {
+  "id": "e2623_01838",
+  "kind": "line",
+  "jp": "サイズが一番多い　ＨＰはもっとも弱い",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 40,
+  "notes": ""
+ },
+ {
+  "id": "e2623_01878",
+  "kind": "line",
+  "jp": "アーマレットがたくさん　ならべてある",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 40,
+  "notes": ""
+ },
+ {
+  "id": "e2623_01904",
+  "kind": "line",
+  "jp": "『デスロード』のアーマレットだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 41,
+  "notes": ""
+ },
+ {
+  "id": "e2623_0192c",
+  "kind": "line",
+  "jp": "ひとがたがとても弱い",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 41,
+  "notes": ""
+ },
+ {
+  "id": "e2623_0194c",
+  "kind": "line",
+  "jp": "その分とてつもなくロールが強い",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 41,
+  "notes": ""
+ },
+ {
+  "id": "e2623_01984",
+  "kind": "line",
+  "jp": "アーマレットがたくさん　ならべてある",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 41,
+  "notes": ""
+ },
+ {
+  "id": "e2623_01a10",
+  "kind": "line",
+  "jp": "『ベルゼーブ』のアーマレットだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 42,
+  "notes": ""
+ },
+ {
+  "id": "e2623_01a38",
+  "kind": "line",
+  "jp": "オーラがとても強い",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 42,
+  "notes": ""
+ },
+ {
+  "id": "e2623_01a54",
+  "kind": "line",
+  "jp": "こうげきとＨＰが苦手",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 42,
+  "notes": ""
+ },
+ {
+  "id": "e2623_01a84",
+  "kind": "line",
+  "jp": "アーマレットがたくさん　ならべてある",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 42,
+  "notes": ""
+ },
+ {
+  "id": "e2623_01b10",
+  "kind": "line",
+  "jp": "『エンペリオル』のアーマレットだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 43,
+  "notes": ""
+ },
+ {
+  "id": "e2623_01b3c",
+  "kind": "line",
+  "jp": "オーラがとても強い　ロールが苦手",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 43,
+  "notes": ""
+ },
+ {
+  "id": "e2623_01b78",
+  "kind": "line",
+  "jp": "アーマレットがたくさん　ならべてある",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 43,
+  "notes": ""
+ },
+ {
+  "id": "e2623_01c04",
+  "kind": "line",
+  "jp": "『ファイバード』のアーマレットだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 44,
+  "notes": ""
+ },
+ {
+  "id": "e2623_01c30",
+  "kind": "line",
+  "jp": "こうげきとオーラが強い",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 44,
+  "notes": ""
+ },
+ {
+  "id": "e2623_01c50",
+  "kind": "line",
+  "jp": "サイズが少ない",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 44,
+  "notes": ""
+ },
+ {
+  "id": "e2623_01c78",
+  "kind": "line",
+  "jp": "アーマレットがたくさん　ならべてある",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 44,
+  "notes": ""
+ },
+ {
+  "id": "e2623_01ce8",
+  "kind": "line",
+  "jp": "カレは　わが社でいちばんせいせき",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 45,
+  "notes": ""
+ },
+ {
+  "id": "e2623_01d14",
+  "kind": "line",
+  "jp": "ゆうしゅうなえいぎょうマンなんだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 45,
+  "notes": ""
+ }
+]

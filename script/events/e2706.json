@@ -1,0 +1,130 @@
+[
+ {
+  "id": "e2706_000d4",
+  "kind": "line",
+  "jp": "ロッカーの中は　ガラクタばかりだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2706_00134",
+  "kind": "line",
+  "jp": "ロッカーの中に　光るものが……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2706_0015c",
+  "kind": "line",
+  "jp": "Ｖメダルを見つけた！！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0600",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2706_001e8",
+  "kind": "line",
+  "jp": "あら　あなたドコのせいと？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2706_0024c",
+  "kind": "line",
+  "jp": "あっ　あの　もしかして",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2706_0026c",
+  "kind": "line",
+  "jp": "あなた　バトローラーですか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2706_002a0.0",
+  "kind": "choice",
+  "jp": "そうです",
+  "en": "",
+  "status": "new",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2706_002a0.1",
+  "kind": "choice",
+  "jp": "ちがいます",
+  "en": "",
+  "status": "new",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2706_002e0",
+  "kind": "line",
+  "jp": "練習あいてになってください",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2706_00344",
+  "kind": "line",
+  "jp": "さすがですね　ありがとう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2706_00378",
+  "kind": "line",
+  "jp": "勝てたのは　ただのまぐれですよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2706_003a0",
+  "kind": "line",
+  "jp": "運が良かったです",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2706_003cc",
+  "kind": "line",
+  "jp": "そうですか",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ }
+]

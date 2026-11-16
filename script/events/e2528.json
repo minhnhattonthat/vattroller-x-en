@@ -1,0 +1,460 @@
+[
+ {
+  "id": "e2528_000b0",
+  "kind": "line",
+  "jp": "うん　４人そろってるわね　これで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2528_000dc",
+  "kind": "line",
+  "jp": "ちゃんとした部としてみとめられるわ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2528_00114",
+  "kind": "line",
+  "jp": "そうそう　せいしきに部になったから",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2528_00140",
+  "kind": "line",
+  "jp": "あなたたちに　バトローリング部の",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2528_0016c",
+  "kind": "line",
+  "jp": "部員バッチを　あげるわね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2528_0019c",
+  "kind": "line",
+  "jp": "『部員バッチ』をてにいれた",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2528_001e8",
+  "kind": "line",
+  "jp": "こもんの先生って　スズカ校長か≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2528_00214",
+  "kind": "line",
+  "jp": "すごい部やな　ここ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2528_00240",
+  "kind": "line",
+  "jp": "またこの部の活動が",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2528_0025c",
+  "kind": "line",
+  "jp": "見られると思うと　ワクワクするわね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2528_00288",
+  "kind": "line",
+  "jp": "４人いれば　大会にも出られるし……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2528_002c0",
+  "kind": "line",
+  "jp": "そういや　わいらのチーム名は",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2528_002e8",
+  "kind": "line",
+  "jp": "なんにするんや？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2528_00320",
+  "kind": "line",
+  "jp": "チーム名……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2528_00338",
+  "kind": "line",
+  "jp": "コマチと下っぱたち　はどう？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2528_0038c",
+  "kind": "line",
+  "jp": "……コマチさん",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2528_003a4",
+  "kind": "line",
+  "jp": "まじめに考えてください",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2528_003d0",
+  "kind": "line",
+  "jp": "あたしは　いつだってまじめよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2528_0040c",
+  "kind": "line",
+  "jp": "じゃあ……∴　なにかない？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2528_0043c.0",
+  "kind": "choice",
+  "jp": "思いつかない",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2528_0043c.1",
+  "kind": "choice",
+  "jp": "ドクロぐみ　はどう？",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2528_0048c",
+  "kind": "line",
+  "jp": "あんたの　ネーミングセンスに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2528_004b4",
+  "kind": "line",
+  "jp": "きたいしたのに……やくにたたないわね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2528_004f0",
+  "kind": "line",
+  "jp": "あんた……バトローリングは強いけど",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2528_0051c",
+  "kind": "line",
+  "jp": "ネーミングセンスはさいあくね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2528_00558",
+  "kind": "line",
+  "jp": "じゃあ　えーと……４人だから",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2528_00580",
+  "kind": "line",
+  "jp": "クラブフォース　でどう？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2528_005b0",
+  "kind": "line",
+  "jp": "４だからフォー？　人のネーミング",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2528_005dc",
+  "kind": "line",
+  "jp": "センスをどうこう言えないような……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2528_00608",
+  "kind": "line",
+  "jp": "だいたい　さいごの『ス』は",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2528_0062c",
+  "kind": "line",
+  "jp": "なんなんですか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2528_00654",
+  "kind": "line",
+  "jp": "えいごは　さいごに『Ｓ』つけるでしょ？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2528_00684",
+  "kind": "line",
+  "jp": "ほら　ふくすうけいとか言ってさ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2528_006b8",
+  "kind": "line",
+  "jp": "数字はふくすうけいに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2528_006d8",
+  "kind": "line",
+  "jp": "ならないんですが……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2528_0070c",
+  "kind": "line",
+  "jp": "でも　フォースって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2528_00728",
+  "kind": "line",
+  "jp": "ちょっとかっこいいかんじよね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2528_0076c",
+  "kind": "line",
+  "jp": "……まぁ　フォースという言葉には",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2528_00798",
+  "kind": "line",
+  "jp": "力や気力っていみもありますし",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2528_007d4",
+  "kind": "line",
+  "jp": "力か！　それはええな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2528_007f4",
+  "kind": "line",
+  "jp": "わいにぴったりや！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2528_00824",
+  "kind": "line",
+  "jp": "なら　決まりね！　あたしたちは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2528_0084c",
+  "kind": "line",
+  "jp": "今日から　『クラブフォース』よ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2528_0088c",
+  "kind": "line",
+  "jp": "これからみんなで楽しい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2528_008ac",
+  "kind": "line",
+  "jp": "バトローリングをしようね！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2528_008dc",
+  "kind": "line",
+  "jp": "エイエイオーッ！！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

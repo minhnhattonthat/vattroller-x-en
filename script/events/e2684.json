@@ -1,0 +1,202 @@
+[
+ {
+  "id": "e2684_000d4",
+  "kind": "line",
+  "jp": "バトローリングをはじめたら",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2684_000f8",
+  "kind": "line",
+  "jp": "やせてキレイになっちゃった　ウフフ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2684_00158",
+  "kind": "line",
+  "jp": "ダイエットしてるのに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2684_00178",
+  "kind": "line",
+  "jp": "ぜんぜんやせないのよ　こまったわ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2684_001a4",
+  "kind": "line",
+  "jp": "ねえねえ　バトローリングしたら",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2684_001cc",
+  "kind": "line",
+  "jp": "やせるってホント？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2684_00228",
+  "kind": "line",
+  "jp": "うちのママ　バトローリングで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2684_00250",
+  "kind": "line",
+  "jp": "キレイになったんだヽ　ステキでしょ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2684_002b0",
+  "kind": "line",
+  "jp": "うちのママ　さいきんこっそり　なにか",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2684_002e0",
+  "kind": "line",
+  "jp": "はじめたみたい……　なにかしら？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2684_0034c",
+  "kind": "line",
+  "jp": "おりょうりの本が　ぎっしりだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2684_003a8",
+  "kind": "line",
+  "jp": "おりょうりの本が　ぎっしりだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2684_003d0",
+  "kind": "line",
+  "jp": "本と本の間になにか　はさまってる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2684_003fc",
+  "kind": "line",
+  "jp": "Ｖメダルを見つけた！！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0600",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2684_004a4",
+  "kind": "line",
+  "jp": "テレビをつけてみた",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2684_004c0",
+  "kind": "line",
+  "jp": "おりょうり番組が　はじまった",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2684_00530",
+  "kind": "line",
+  "jp": "ようふくタンスだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2684_0058c",
+  "kind": "line",
+  "jp": "ようふくタンスだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2684_00604",
+  "kind": "line",
+  "jp": "テレビをつけてみた",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2684_00620",
+  "kind": "line",
+  "jp": "おりょうり番組が　はじまった",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ }
+]

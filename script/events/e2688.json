@@ -1,0 +1,890 @@
+[
+ {
+  "id": "e2688_000f8",
+  "kind": "line",
+  "jp": "……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2688_00108",
+  "kind": "line",
+  "jp": "まいごになっちゃった……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2688_00160",
+  "kind": "line",
+  "jp": "せいと会室は",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2688_00178",
+  "kind": "line",
+  "jp": "いちばん　はしの部屋だよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2688_001dc",
+  "kind": "line",
+  "jp": "やっぱり時代は　バトローリングだよね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2688_00240",
+  "kind": "line",
+  "jp": "なにか　めんどくさくなくって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2688_00268",
+  "kind": "line",
+  "jp": "おもしろいことないかなぁ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2688_002c0",
+  "kind": "line",
+  "jp": "ねえ　バトローリングって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2688_002e4",
+  "kind": "line",
+  "jp": "おもしろい？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2688_00308.0",
+  "kind": "choice",
+  "jp": "とっても！",
+  "en": "",
+  "status": "new",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2688_00308.1",
+  "kind": "choice",
+  "jp": "あんまり……",
+  "en": "",
+  "status": "new",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2688_0034c",
+  "kind": "line",
+  "jp": "じゃあ　ぼくも　はじめてみようかな……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2688_0037c",
+  "kind": "line",
+  "jp": "部室に　案内してよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2688_0047c",
+  "kind": "line",
+  "jp": "ホーッホッホッホ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2688_00504",
+  "kind": "line",
+  "jp": "バトローリングをはじめるのなら",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2688_0052c",
+  "kind": "line",
+  "jp": "プレミアムジムがおすすめですわよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2688_0056c",
+  "kind": "line",
+  "jp": "ゆうしゅうなコーチたち",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2688_0058c",
+  "kind": "line",
+  "jp": "すばらしい　練習せつび……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2688_005b0",
+  "kind": "line",
+  "jp": "ジムは　こんな学校のクラブなどとは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2688_005dc",
+  "kind": "line",
+  "jp": "じげんがちがう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2688_0062c",
+  "kind": "line",
+  "jp": "強くなるためには　ぜひとも",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2688_00650",
+  "kind": "line",
+  "jp": "ジムにはいるべきだ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2688_00684",
+  "kind": "line",
+  "jp": "そんなことないですよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2688_006ec",
+  "kind": "line",
+  "jp": "たしかに　きざいや",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2688_00708",
+  "kind": "line",
+  "jp": "コーチのそんざいは大きいでしょう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2688_00734",
+  "kind": "line",
+  "jp": "けれど　けっきょくは　バトローリングを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2688_00764",
+  "kind": "line",
+  "jp": "愛する自分の気持ちしだいです",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2688_0078c",
+  "kind": "line",
+  "jp": "それがあれば　場所など",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2688_007ac",
+  "kind": "line",
+  "jp": "どこであっても　問題ありません",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2688_007e0",
+  "kind": "line",
+  "jp": "まだ　そんなあまいことを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2688_00804",
+  "kind": "line",
+  "jp": "いっているのか！　ならば勝負だ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2688_00830",
+  "kind": "line",
+  "jp": "どちらが正しいか決着をつけよう！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2688_0089c",
+  "kind": "line",
+  "jp": "∴！　バトルで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2688_008b4",
+  "kind": "line",
+  "jp": "わたしたちが　正しいという事を　",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2688_008e0",
+  "kind": "line",
+  "jp": "あの人たちに　教えてあげましょう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2688_0093c",
+  "kind": "line",
+  "jp": "そっか……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2688_00950",
+  "kind": "line",
+  "jp": "ちょっと　きょうみあったんだけどな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2688_009b0",
+  "kind": "line",
+  "jp": "どこかの部に　入って",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2688_009d0",
+  "kind": "line",
+  "jp": "スポーツをやりたいんだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2688_009f0",
+  "kind": "line",
+  "jp": "サッカーとか　テニスとか",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2688_00a14",
+  "kind": "line",
+  "jp": "バトローリングも　いいかも　",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2688_00a7c",
+  "kind": "line",
+  "jp": "ホクトとミナミも　だいぶおとなしく",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2688_00aa8",
+  "kind": "line",
+  "jp": "なったみたいだな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2688_00ac4",
+  "kind": "line",
+  "jp": "いや　そのうちまた　あの笑い声が",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2688_00af0",
+  "kind": "line",
+  "jp": "きこえてくるぞ　ホホホ！　ってな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2688_00b50",
+  "kind": "line",
+  "jp": "おまえたち　プレミアムジムと",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2688_00b78",
+  "kind": "line",
+  "jp": "はりあっているらしいな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2688_00b98",
+  "kind": "line",
+  "jp": "ぜひ　あのホクトとミナミを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2688_00bbc",
+  "kind": "line",
+  "jp": "ギャフン！　といわせてやってくれ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2688_00c1c",
+  "kind": "line",
+  "jp": "ホクトとミナミっていう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2688_00c3c",
+  "kind": "line",
+  "jp": "ふたごには気をつけろよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2688_00c5c",
+  "kind": "line",
+  "jp": "とにかく　人の話を聞かないやつら",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2688_00c88",
+  "kind": "line",
+  "jp": "だからね　もうタイヘンなんだよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2688_00cf0",
+  "kind": "line",
+  "jp": "コマチったら　このごろなんか",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2688_00d18",
+  "kind": "line",
+  "jp": "うれしそうにみえるけど……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2688_00d3c",
+  "kind": "line",
+  "jp": "なにがあったのか　アナタ　知らない？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2688_00da0",
+  "kind": "line",
+  "jp": "コマチのお兄さんって　まえは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2688_00dc8",
+  "kind": "line",
+  "jp": "うちの学校でクラブをつくってたのよね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2688_00df8",
+  "kind": "line",
+  "jp": "でも　強くなるために",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2688_00e18",
+  "kind": "line",
+  "jp": "プレミアムジムにはいったんだってさ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2688_00e78",
+  "kind": "line",
+  "jp": "イカヅチくんって　ワイルドなところが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2688_00ea8",
+  "kind": "line",
+  "jp": "ちょっとだけ　カッコイイよね！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2688_00f04",
+  "kind": "line",
+  "jp": "ほんとうにバトローリングに　",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2688_00f2c",
+  "kind": "line",
+  "jp": "強くなりたいの？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2688_00f48",
+  "kind": "line",
+  "jp": "だったら　グローブタウンとかの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2688_00f70",
+  "kind": "line",
+  "jp": "ジムにいったほうがいいわよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2688_00fc8",
+  "kind": "line",
+  "jp": "さっき　コマチのお兄さんを見かけた",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2688_00ff4",
+  "kind": "line",
+  "jp": "気がするけど……　気のせいかな？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2688_01054",
+  "kind": "line",
+  "jp": "せいと会しつなら　かいだんのむこう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2688_01080",
+  "kind": "line",
+  "jp": "ろうかのつきあたりよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2688_010d4",
+  "kind": "line",
+  "jp": "タクミくんって　クールなところが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 17,
+  "notes": ""
+ },
+ {
+  "id": "e2688_01100",
+  "kind": "line",
+  "jp": "ちょっとカッコイイよね！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 17,
+  "notes": ""
+ },
+ {
+  "id": "e2688_013a4",
+  "kind": "line",
+  "jp": "→音楽室",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 24,
+  "notes": ""
+ },
+ {
+  "id": "e2688_013b8",
+  "kind": "line",
+  "jp": "←理科室",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 24,
+  "notes": ""
+ },
+ {
+  "id": "e2688_0140c",
+  "kind": "line",
+  "jp": "→図書室",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 25,
+  "notes": ""
+ },
+ {
+  "id": "e2688_01420",
+  "kind": "line",
+  "jp": "←音楽室",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 25,
+  "notes": ""
+ },
+ {
+  "id": "e2688_01474",
+  "kind": "line",
+  "jp": "→教室３－２",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 26,
+  "notes": ""
+ },
+ {
+  "id": "e2688_0148c",
+  "kind": "line",
+  "jp": "←教室３－１",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 26,
+  "notes": ""
+ },
+ {
+  "id": "e2688_014e4",
+  "kind": "line",
+  "jp": "→教室３－１",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 27,
+  "notes": ""
+ },
+ {
+  "id": "e2688_014fc",
+  "kind": "line",
+  "jp": "←教室２－２",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 27,
+  "notes": ""
+ },
+ {
+  "id": "e2688_01554",
+  "kind": "line",
+  "jp": "→教室２－２",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 28,
+  "notes": ""
+ },
+ {
+  "id": "e2688_0156c",
+  "kind": "line",
+  "jp": "←せいと会室",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 28,
+  "notes": ""
+ },
+ {
+  "id": "e2688_015c4",
+  "kind": "line",
+  "jp": "→教室２－２",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 29,
+  "notes": ""
+ },
+ {
+  "id": "e2688_015dc",
+  "kind": "line",
+  "jp": "←せいと会室",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 29,
+  "notes": ""
+ },
+ {
+  "id": "e2688_01744",
+  "kind": "line",
+  "jp": "Ｂボタンおしながら　移動すると",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 32,
+  "notes": ""
+ },
+ {
+  "id": "e2688_0176c",
+  "kind": "line",
+  "jp": "こんなに　早くあるけるよ～",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 32,
+  "notes": ""
+ },
+ {
+  "id": "e2688_017d0",
+  "kind": "line",
+  "jp": "ここの部屋は　図書室ですよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 33,
+  "notes": ""
+ },
+ {
+  "id": "e2688_017f4",
+  "kind": "line",
+  "jp": "バトローリングかんけいの本が",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 33,
+  "notes": ""
+ },
+ {
+  "id": "e2688_0181c",
+  "kind": "line",
+  "jp": "じゅうじつしてるの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 33,
+  "notes": ""
+ }
+]

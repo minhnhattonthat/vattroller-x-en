@@ -1,0 +1,352 @@
+[
+ {
+  "id": "e2545_00094",
+  "kind": "line",
+  "jp": "∴　勝利！　ついにマルスへの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2545_000bc",
+  "kind": "line",
+  "jp": "ちょうせんけんを手にしました！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2545_0014c",
+  "kind": "line",
+  "jp": "すごいじゃない　∴！　",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2545_0016c",
+  "kind": "line",
+  "jp": "バトリーグ　優勝だよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2545_0018c",
+  "kind": "line",
+  "jp": "優勝！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2545_001a8",
+  "kind": "line",
+  "jp": "やりましたね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2545_001c0",
+  "kind": "line",
+  "jp": "次はマルスとの対決ですよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2545_001f0",
+  "kind": "line",
+  "jp": "おいおい　じゃあそれに勝っちまうと",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2545_0021c",
+  "kind": "line",
+  "jp": "こいつが次のマルスなんか≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2545_0024c",
+  "kind": "line",
+  "jp": "ボクらのなかまからマルス……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2545_00274",
+  "kind": "line",
+  "jp": "なんだかしんじられませんね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2545_002a4",
+  "kind": "line",
+  "jp": "でも　ここまで来たからには",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2545_002c8",
+  "kind": "line",
+  "jp": "この次もぜったいに勝つのよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2545_002f0",
+  "kind": "line",
+  "jp": "あたしたちも応援するから",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2545_00314",
+  "kind": "line",
+  "jp": "気合で行くのよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2545_0036c",
+  "kind": "line",
+  "jp": "おぬしの時も　ずいぶんわかいマルスが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2545_0039c",
+  "kind": "line",
+  "jp": "たんじょうしたと思ったもんじゃが……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2545_003d8",
+  "kind": "line",
+  "jp": "ぼくが負ければ　記録をおおはばに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2545_00404",
+  "kind": "line",
+  "jp": "こうしんしますね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2545_0042c",
+  "kind": "line",
+  "jp": "中学生マルスか……しかしもはや",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2545_00454",
+  "kind": "line",
+  "jp": "そういう時代なのかもしれんの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2545_00488",
+  "kind": "line",
+  "jp": "いまバトローリングは　わかい世代の",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2545_004b4",
+  "kind": "line",
+  "jp": "いきおいが強いですからね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2545_004d8",
+  "kind": "line",
+  "jp": "これからはかれらの世代が",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2545_004fc",
+  "kind": "line",
+  "jp": "中心になっていくんでしょうね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2545_00530",
+  "kind": "line",
+  "jp": "とはいえ　まだまだぼくも",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2545_00554",
+  "kind": "line",
+  "jp": "わかいれんちゅうに負けはしませんよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2545_00590",
+  "kind": "line",
+  "jp": "ヒョヒョヒョ　おぬしだって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2545_005b4",
+  "kind": "line",
+  "jp": "わしから見れば十分にわかいがな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2545_005e8",
+  "kind": "line",
+  "jp": "あはは　それもそうですね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2545_00634",
+  "kind": "line",
+  "jp": "わかぞうどもめ……今は勝利に",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2545_0065c",
+  "kind": "line",
+  "jp": "よいしれているがいい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2545_0067c",
+  "kind": "line",
+  "jp": "だがいずれ　わたしはかならず",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2545_006a4",
+  "kind": "line",
+  "jp": "えいこうを手中におさめてみせる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2545_006cc",
+  "kind": "line",
+  "jp": "フフフフフ　ハハハハハハ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

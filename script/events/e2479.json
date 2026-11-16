@@ -1,0 +1,800 @@
+[
+ {
+  "id": "e2479_000c0.0",
+  "kind": "title",
+  "jp": "バトローラージン",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2479_000c0.1",
+  "kind": "title",
+  "jp": "登場編　第１話",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2479_000f8",
+  "kind": "line",
+  "jp": "ここは真丸町",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2479_00110",
+  "kind": "line",
+  "jp": "近みらいのおはなしである",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2479_00148",
+  "kind": "line",
+  "jp": "じいちゃん……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2479_0019c",
+  "kind": "line",
+  "jp": "……ジンよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2479_001b0",
+  "kind": "line",
+  "jp": "剣じゅつのきそは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2479_001cc",
+  "kind": "line",
+  "jp": "全てつたえた",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2479_001e4",
+  "kind": "line",
+  "jp": "あとはなにか",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2479_001fc",
+  "kind": "line",
+  "jp": "夢中になれるものをさがしなさい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2479_00224",
+  "kind": "line",
+  "jp": "そして　たくさんの人と",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2479_00244",
+  "kind": "line",
+  "jp": "出会いなさい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2479_00268",
+  "kind": "line",
+  "jp": "わかったよ　じいちゃん∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2479_0028c",
+  "kind": "line",
+  "jp": "オレ　町に行ってくる∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2479_002ac",
+  "kind": "line",
+  "jp": "そして　みっけてくるよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2479_002cc",
+  "kind": "line",
+  "jp": "夢中になれるものを∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2479_00398",
+  "kind": "line",
+  "jp": "……とは言ったものの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2479_003b8",
+  "kind": "line",
+  "jp": "町は広いなぁ　まよっちゃったよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2479_003e0",
+  "kind": "line",
+  "jp": "コロナちゃんちはどこだっけ……？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2479_00448",
+  "kind": "line",
+  "jp": "あっ　コロナちゃん　みっけ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2479_004b0",
+  "kind": "line",
+  "jp": "どいてください∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2479_004cc",
+  "kind": "line",
+  "jp": "急いでるんです∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2479_004f4",
+  "kind": "line",
+  "jp": "つれないな～　",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2479_0050c",
+  "kind": "line",
+  "jp": "せっかくヤンキーに　からまれている所を",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2479_0053c",
+  "kind": "line",
+  "jp": "助けてやったんだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2479_00558",
+  "kind": "line",
+  "jp": "ちょっとくらい　オレたちと遊ぼうぜ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2479_005f0",
+  "kind": "line",
+  "jp": "こらーーーーーっ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2479_0060c",
+  "kind": "line",
+  "jp": "コロナちゃんをいじめるな∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2479_0064c",
+  "kind": "line",
+  "jp": "き……きみは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2479_00664",
+  "kind": "line",
+  "jp": "もしかしてジンくんーー≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2479_006a4",
+  "kind": "line",
+  "jp": "やっほー　ひさしぶりーー∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2479_006dc",
+  "kind": "line",
+  "jp": "今ちょうど　むかえに行くとこ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2479_00704",
+  "kind": "line",
+  "jp": "だったんだよーーー",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2479_00734",
+  "kind": "line",
+  "jp": "あはは　コロナちゃん　せがのびたね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2479_00774",
+  "kind": "line",
+  "jp": "きゃーーー　ジンくんは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2479_00794",
+  "kind": "line",
+  "jp": "ぜんぜん　かわってないねーー∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2479_007e8",
+  "kind": "line",
+  "jp": "人をムシするとは　上等だコラ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2479_00824",
+  "kind": "line",
+  "jp": "あっ　ゴメンゴメン",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2479_00840",
+  "kind": "line",
+  "jp": "オレは　ジン∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2479_00858",
+  "kind": "line",
+  "jp": "今日からこの町に住むからよろしくな∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2479_00888",
+  "kind": "line",
+  "jp": "そして　こいつは　ペットの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2479_008ac",
+  "kind": "line",
+  "jp": "『ムチャピー』",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2479_008d8",
+  "kind": "line",
+  "jp": "ピィ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2479_008f4",
+  "kind": "line",
+  "jp": "なめやがって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2479_0090c",
+  "kind": "line",
+  "jp": "クソガキがぁーーーーっ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2479_009b8",
+  "kind": "line",
+  "jp": "ぐわっ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2479_00a18",
+  "kind": "line",
+  "jp": "けっ　なさけねーヤツらだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2479_00a88",
+  "kind": "line",
+  "jp": "おい∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2479_00a98",
+  "kind": "line",
+  "jp": "なかまじゃないのかよっ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2479_00ad8",
+  "kind": "line",
+  "jp": "へっ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2479_00ae8",
+  "kind": "line",
+  "jp": "弱えヤツに　用はねぇんだよ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2479_00c00",
+  "kind": "line",
+  "jp": "ほう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2479_00c10",
+  "kind": "line",
+  "jp": "どうやら剣のうでは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2479_00c2c",
+  "kind": "line",
+  "jp": "かなりあるようだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2479_00c54",
+  "kind": "line",
+  "jp": "あんたもかなり使いなれてるようだけど",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2479_00c84",
+  "kind": "line",
+  "jp": "……剣じゅつは　なに流？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2479_00cb4",
+  "kind": "line",
+  "jp": "へっ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2479_00cc4",
+  "kind": "line",
+  "jp": "オレは『バトローリング』流よっ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2479_00d04",
+  "kind": "line",
+  "jp": "え≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2479_00d28",
+  "kind": "line",
+  "jp": "うぉおぉおぉおッ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2479_00d68",
+  "kind": "line",
+  "jp": "もうケンカやめーーーっ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2479_00da0",
+  "kind": "line",
+  "jp": "うわっ　コロナちゃん",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2479_00dc0",
+  "kind": "line",
+  "jp": "すごい大声……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2479_00df4",
+  "kind": "line",
+  "jp": "あなた　となり町の　光円寺中学の",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2479_00e20",
+  "kind": "line",
+  "jp": "バトローリング部の人でしょう？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2479_00e6c",
+  "kind": "line",
+  "jp": "むっ　このリョウ様を　なぜ知っている",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2479_00e9c",
+  "kind": "line",
+  "jp": "ストーカーか？？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2479_00ecc",
+  "kind": "line",
+  "jp": "ちがいます",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2479_00ee0",
+  "kind": "line",
+  "jp": "わたしは　明日試合する　真丸中学",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2479_00f0c",
+  "kind": "line",
+  "jp": "バトローリング部のマネージャーなんです",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2479_00f3c",
+  "kind": "line",
+  "jp": "あなたですよね　負けた相手を　二度と",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2479_00f6c",
+  "kind": "line",
+  "jp": "試合をさせないようにする　ウワサの人",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2479_00fa8",
+  "kind": "line",
+  "jp": "弱えヤツはいくらやってもムダだから",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2479_00fd4",
+  "kind": "line",
+  "jp": "さっさと消えてもらいてーな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2479_00ff8",
+  "kind": "line",
+  "jp": "あした　真丸中が",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2479_01014",
+  "kind": "line",
+  "jp": "いかに　ムダなヤツらのあつまりか",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2479_01040",
+  "kind": "line",
+  "jp": "このリョウ様が教えてやるぜ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2479_01068",
+  "kind": "line",
+  "jp": "はははははっ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2479_010c0",
+  "kind": "line",
+  "jp": "むむむむむむっ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2479_010e4",
+  "kind": "line",
+  "jp": "……バトローリング？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

@@ -1,0 +1,322 @@
+[
+ {
+  "id": "e2532_000cc",
+  "kind": "line",
+  "jp": "……それでは本日さいごのひとくみ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2532_000f8",
+  "kind": "line",
+  "jp": "『勝飛中クラブフォース』の３人です！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2532_00134",
+  "kind": "line",
+  "jp": "じゃあ　行ってきますね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2532_00154",
+  "kind": "line",
+  "jp": "コマチさん",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2532_00174",
+  "kind": "line",
+  "jp": "……なんであんたら３人なのよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2532_0019c",
+  "kind": "line",
+  "jp": "だれかあたしとかわって～っ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2532_001d8",
+  "kind": "line",
+  "jp": "悪いけど　他はともかく",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2532_001f8",
+  "kind": "line",
+  "jp": "これだけはゆずれまへんな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2532_00228",
+  "kind": "line",
+  "jp": "しかたないですよ　コマチさん",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2532_00250",
+  "kind": "line",
+  "jp": "じゃんけんに負けたんだから",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2532_00280",
+  "kind": "line",
+  "jp": "はくじょうもの～！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2532_0029c",
+  "kind": "line",
+  "jp": "部活でこきつかってやるからね～！！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2532_002f4",
+  "kind": "line",
+  "jp": "みんな　がんばってね∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2532_0037c",
+  "kind": "line",
+  "jp": "こうして向かい合うと",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2532_0039c",
+  "kind": "line",
+  "jp": "すごい気はくをかんじます……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2532_003d0",
+  "kind": "line",
+  "jp": "びびっててもしゃあないで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2532_003f4",
+  "kind": "line",
+  "jp": "とにかく　ぶつかるだけや！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2532_0048c",
+  "kind": "line",
+  "jp": "なかなかやるな　キミたち",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2532_004b0",
+  "kind": "line",
+  "jp": "だが　ここまでだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2532_00578",
+  "kind": "line",
+  "jp": "いいバトルでしたが　さいごはマルスが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2532_005a8",
+  "kind": "line",
+  "jp": "かれいに勝利しました！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2532_005d4",
+  "kind": "line",
+  "jp": "さすがはマルスです……３対１でも",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2532_00600",
+  "kind": "line",
+  "jp": "ぜんぜんかないませんでしたね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2532_00634",
+  "kind": "line",
+  "jp": "あっとうてきや",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2532_0064c",
+  "kind": "line",
+  "jp": "天才いわれるんはダテやないな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2532_00680",
+  "kind": "line",
+  "jp": "あーあ　あたしも戦いたかったなぁ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2532_006ac",
+  "kind": "line",
+  "jp": "でも　マルスのバトルが見れただけでも",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2532_006dc",
+  "kind": "line",
+  "jp": "まーいいかな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2532_00700",
+  "kind": "line",
+  "jp": "ふふ　みんな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2532_00718",
+  "kind": "line",
+  "jp": "すいぶん楽しんだようね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2532_00760",
+  "kind": "line",
+  "jp": "……あら？　そういえば",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2532_00780",
+  "kind": "line",
+  "jp": "∴はどこ行ったの？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

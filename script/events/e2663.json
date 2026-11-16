@@ -1,0 +1,242 @@
+[
+ {
+  "id": "e2663_000d4",
+  "kind": "line",
+  "jp": "はじめての試合だったけど",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2663_000f8",
+  "kind": "line",
+  "jp": "なんとか勝つことができたわ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2663_00120",
+  "kind": "line",
+  "jp": "手のひらに書いた　人という字を",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2663_00148",
+  "kind": "line",
+  "jp": "のみこんだのが　よかったの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2663_001a0",
+  "kind": "line",
+  "jp": "わたし　はじめての出場なのよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2663_001c8",
+  "kind": "line",
+  "jp": "ああ　きんちょうしちゃうわぁ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2663_001f0",
+  "kind": "line",
+  "jp": "こんなときは　手のひらに人という字を",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2663_00220",
+  "kind": "line",
+  "jp": "書いてのみこむといいのよね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2663_00284",
+  "kind": "line",
+  "jp": "イメージトレーニングを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2663_002a4",
+  "kind": "line",
+  "jp": "しているんだけど……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2663_002c4",
+  "kind": "line",
+  "jp": "なんか　負けるところばっかり",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2663_002ec",
+  "kind": "line",
+  "jp": "リアルにそうぞうしちゃうんだ　トホホ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2663_00350",
+  "kind": "line",
+  "jp": "いま　イメージトレーニングを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2663_00378",
+  "kind": "line",
+  "jp": "しているんだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2663_00390",
+  "kind": "line",
+  "jp": "じぶんが　しあいに勝つすがたを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2663_003b8",
+  "kind": "line",
+  "jp": "あたまに思いうかべるんだよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2663_0041c",
+  "kind": "line",
+  "jp": "せんしゅしか　はいれないようだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2663_00484",
+  "kind": "line",
+  "jp": "ゴミばこの中は　からっぽだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2663_004dc",
+  "kind": "line",
+  "jp": "ゴミばこの中に　光るものが……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2663_00504",
+  "kind": "line",
+  "jp": "Ｖメダルを見つけた！！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0600",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2663_00590",
+  "kind": "line",
+  "jp": "ゴミばこの中は　からっぽだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2663_005f4",
+  "kind": "line",
+  "jp": "せんしゅしか　はいれないようだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2663_0065c",
+  "kind": "line",
+  "jp": "Ｖドリンクのじはんきだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2663_006bc",
+  "kind": "line",
+  "jp": "Ｖドリンクのじはんきだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ }
+]

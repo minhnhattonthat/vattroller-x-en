@@ -1,0 +1,420 @@
+[
+ {
+  "id": "e2704_00044",
+  "kind": "line",
+  "jp": "ボクの夢は　真丸中から",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2704_00064",
+  "kind": "line",
+  "jp": "マルスをだすことなんだ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2704_00088",
+  "kind": "line",
+  "jp": "ジンなら　きっとその夢を",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2704_000ac",
+  "kind": "line",
+  "jp": "かなえてくれるって　しんじてるんだよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2704_00110",
+  "kind": "line",
+  "jp": "むむっ∇　そのひとみのかがやき",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 1,
+  "notes": ""
+ },
+ {
+  "id": "e2704_00138",
+  "kind": "line",
+  "jp": "からだつき……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 1,
+  "notes": ""
+ },
+ {
+  "id": "e2704_00150",
+  "kind": "line",
+  "jp": "キミは　バトローリングをやるために",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 1,
+  "notes": ""
+ },
+ {
+  "id": "e2704_0017c",
+  "kind": "line",
+  "jp": "生まれてきたにちがいない",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 1,
+  "notes": ""
+ },
+ {
+  "id": "e2704_001a0",
+  "kind": "line",
+  "jp": "どうだい入部しけんを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 1,
+  "notes": ""
+ },
+ {
+  "id": "e2704_001c0",
+  "kind": "line",
+  "jp": "うけてみないか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 1,
+  "notes": ""
+ },
+ {
+  "id": "e2704_001e8.0",
+  "kind": "choice",
+  "jp": "やめとく",
+  "en": "",
+  "status": "new",
+  "script": 1,
+  "notes": ""
+ },
+ {
+  "id": "e2704_001e8.1",
+  "kind": "choice",
+  "jp": "うける",
+  "en": "",
+  "status": "new",
+  "script": 1,
+  "notes": ""
+ },
+ {
+  "id": "e2704_00224",
+  "kind": "line",
+  "jp": "そう？　そしつあると",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 1,
+  "notes": ""
+ },
+ {
+  "id": "e2704_00244",
+  "kind": "line",
+  "jp": "思うんだけどな……　ざんねんだよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 1,
+  "notes": ""
+ },
+ {
+  "id": "e2704_00280",
+  "kind": "line",
+  "jp": "そうか　そうか♪",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 1,
+  "notes": ""
+ },
+ {
+  "id": "e2704_0029c",
+  "kind": "line",
+  "jp": "じゃあ　ついてきてくれ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 1,
+  "notes": ""
+ },
+ {
+  "id": "e2704_00304",
+  "kind": "line",
+  "jp": "ボクの夢は　真丸中から",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2704_00324",
+  "kind": "line",
+  "jp": "マルスをだすことなんだ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2704_00348",
+  "kind": "line",
+  "jp": "ジンなら　きっとその夢を",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2704_0036c",
+  "kind": "line",
+  "jp": "かなえてくれるって　しんじてるんだよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2704_003d0",
+  "kind": "line",
+  "jp": "ジンのように　キミも",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2704_003f0",
+  "kind": "line",
+  "jp": "バトローリングをはじめないか∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2704_00418",
+  "kind": "line",
+  "jp": "真丸中バトローリング部は　ただいま",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2704_00444",
+  "kind": "line",
+  "jp": "バトローラーをぼしゅう中だよ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2704_004ac",
+  "kind": "line",
+  "jp": "サクラ先生が　すごいバトローラーだって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2704_004dc",
+  "kind": "line",
+  "jp": "ウワサがながれてるわ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2704_004fc",
+  "kind": "line",
+  "jp": "ホントだったら　すごいんだけど",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2704_00524",
+  "kind": "line",
+  "jp": "まさか　あの先生がねぇ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2704_0057c",
+  "kind": "line",
+  "jp": "サクラ先生が　すごいバトローラーだって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2704_005ac",
+  "kind": "line",
+  "jp": "きいたんだけど……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2704_005c8",
+  "kind": "line",
+  "jp": "まさかねぇ！　ふふふ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2704_00628",
+  "kind": "line",
+  "jp": "真丸中のマドンナは　コロナちゃん",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2704_00654",
+  "kind": "line",
+  "jp": "勝飛中のマドンナは　コマチちゃん",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2704_00680",
+  "kind": "line",
+  "jp": "そして　世界のマドンナは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2704_006a4",
+  "kind": "line",
+  "jp": "このあたしよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2704_006f0",
+  "kind": "line",
+  "jp": "コロナちゃんって　男の子だけじゃなくて",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2704_00720",
+  "kind": "line",
+  "jp": "女の子にも　ひょうばんがいいのよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2704_0096c",
+  "kind": "line",
+  "jp": "→教室２－Ｂ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2704_009c4",
+  "kind": "line",
+  "jp": "←教室２－Ｂ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2704_009dc",
+  "kind": "line",
+  "jp": "→教室３－Ａ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2704_00a34",
+  "kind": "line",
+  "jp": "じょうほうたんまつは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2704_00a54",
+  "kind": "line",
+  "jp": "こわれてるみたいだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 15,
+  "notes": ""
+ }
+]

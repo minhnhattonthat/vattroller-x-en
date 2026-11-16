@@ -1,0 +1,132 @@
+[
+ {
+  "id": "e2697_000d4",
+  "kind": "line",
+  "jp": "またケガして……一流のバトローラーは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2697_00104",
+  "kind": "line",
+  "jp": "ケガなんかしないものよ　気をつけてね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2697_00168",
+  "kind": "line",
+  "jp": "すりきずばっかりつくっちゃって……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2697_00194",
+  "kind": "line",
+  "jp": "部活もいいけど　ケガには気をつけてね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2697_001f8",
+  "kind": "line",
+  "jp": "あなたＶＲ部なんだ　へぇ～",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2697_0021c",
+  "kind": "line",
+  "jp": "ケガなんかしちゃだめよ　気をつけてね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2697_0028c",
+  "kind": "line",
+  "jp": "ベッドのわきに　光るものが……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2697_002b4",
+  "kind": "line",
+  "jp": "なんだ　ビンのふたか",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2697_00308",
+  "kind": "line",
+  "jp": "ベッドのわきに　光るものが……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2697_00330",
+  "kind": "line",
+  "jp": "Ｖメダルを見つけた！！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0600",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2697_003bc",
+  "kind": "line",
+  "jp": "すこし太ったかな……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2697_0041c",
+  "kind": "line",
+  "jp": "またせがのびたみたいだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2697_0047c",
+  "kind": "line",
+  "jp": "いがくしょがならんでいる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ }
+]

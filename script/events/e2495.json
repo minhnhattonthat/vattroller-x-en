@@ -1,0 +1,292 @@
+[
+ {
+  "id": "e2495_000ac",
+  "kind": "line",
+  "jp": "ジンくん　いよいよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2495_000c8",
+  "kind": "line",
+  "jp": "初めての公式試合だね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2495_000f8",
+  "kind": "line",
+  "jp": "がんばってね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2495_00110",
+  "kind": "line",
+  "jp": "応援してるから∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2495_00138",
+  "kind": "line",
+  "jp": "ああ　まかせといてよ　コロナちゃん",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2495_00180",
+  "kind": "line",
+  "jp": "いくぞ　バトルスタートだ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2495_00208",
+  "kind": "line",
+  "jp": "やったぁ　ジンくん∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2495_00284",
+  "kind": "line",
+  "jp": "……シュウ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2495_002b0",
+  "kind": "line",
+  "jp": "オーラを使えるようになったみたいだな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2495_002ec",
+  "kind": "line",
+  "jp": "ああ∇　グレンマスターに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2495_00310",
+  "kind": "line",
+  "jp": "ばっちり教えてもらったからな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2495_0034c",
+  "kind": "line",
+  "jp": "グレン……あのマスターグレンか≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2495_0038c",
+  "kind": "line",
+  "jp": "え？　マスターのこと　知ってるの？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2495_003c4",
+  "kind": "line",
+  "jp": "とうぜんだ　もうすこしでマルスに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2495_003f0",
+  "kind": "line",
+  "jp": "なるところだった有名人だからな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2495_00418",
+  "kind": "line",
+  "jp": "しかし　弟子をとらないことで有名な",
+  "en": "",
+  "status": "new",
+  "flags": "0x0400",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2495_00444",
+  "kind": "line",
+  "jp": "マスターグレンから教わるとは……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2495_00470",
+  "kind": "line",
+  "jp": "やはりキミとのバトル　前のように",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2495_0049c",
+  "kind": "line",
+  "jp": "かんたんには行かなそうだな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2495_004cc",
+  "kind": "line",
+  "jp": "もちろんだぜ∇　あの時はほとんど",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2495_004f8",
+  "kind": "line",
+  "jp": "なにもできないまま負けたけど……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2495_00524",
+  "kind": "line",
+  "jp": "今度はそうはいかないさ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2495_00548",
+  "kind": "line",
+  "jp": "ドロップされるのは　そっちのほうだ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2495_00584",
+  "kind": "line",
+  "jp": "……悪いが　オレは負けられない",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2495_005ac",
+  "kind": "line",
+  "jp": "オレはこの大会　どうしても",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2495_005d0",
+  "kind": "line",
+  "jp": "勝たなければいけないからな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2495_00624",
+  "kind": "line",
+  "jp": "シュウ……すごい　きはくだな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2495_0064c",
+  "kind": "line",
+  "jp": "でも　勝ちたいのは　オレもおんなじだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2495_0067c",
+  "kind": "line",
+  "jp": "負けないぜ　シュウ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

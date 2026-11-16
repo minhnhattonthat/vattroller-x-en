@@ -1,0 +1,242 @@
+[
+ {
+  "id": "e2683_000d4",
+  "kind": "line",
+  "jp": "ああ　テレビでみていても",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2683_000f8",
+  "kind": "line",
+  "jp": "ハヤテさまって　ステキだわぁ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2683_00158",
+  "kind": "line",
+  "jp": "あたし　バトリーグの試合を",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2683_0017c",
+  "kind": "line",
+  "jp": "テレビで見るのが　しゅみなの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2683_001a4",
+  "kind": "line",
+  "jp": "とくにマルスのハヤテさまの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2683_001c8",
+  "kind": "line",
+  "jp": "ファンなのよヽ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2683_00220",
+  "kind": "line",
+  "jp": "本がたくさんならんでいる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2683_00284",
+  "kind": "line",
+  "jp": "くつばこだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2683_00298",
+  "kind": "line",
+  "jp": "色とりどりの　くつがならんでいる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2683_00304",
+  "kind": "line",
+  "jp": "本がならべられている",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2683_00324",
+  "kind": "line",
+  "jp": "最強マルス　ハヤテの全て",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2683_00388",
+  "kind": "line",
+  "jp": "りっぱな　かんよう植物だ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2683_003e0",
+  "kind": "line",
+  "jp": "はちの中に　光るものが……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2683_00404",
+  "kind": "line",
+  "jp": "Ｖメダルを見つけた！！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0600",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2683_004ac",
+  "kind": "line",
+  "jp": "テレビをつけてみた",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2683_004c8",
+  "kind": "line",
+  "jp": "おりょうり番組が　はじまった",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2683_004f0",
+  "kind": "line",
+  "jp": "きょうはロールケーキだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2683_00574",
+  "kind": "line",
+  "jp": "テレビをつけてみた",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2683_00590",
+  "kind": "line",
+  "jp": "おりょうり番組が　はじまった",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2683_005b8",
+  "kind": "line",
+  "jp": "きょうはロールキャベツだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2683_00624",
+  "kind": "line",
+  "jp": "ハヤテグッツで　ぎっしりだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2683_00688",
+  "kind": "line",
+  "jp": "りっぱな　かんよう植物だ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2683_006ec",
+  "kind": "line",
+  "jp": "ハヤテグッツで　ぎっしりだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2683_00750",
+  "kind": "line",
+  "jp": "ハヤテグッツで　ぎっしりだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 14,
+  "notes": ""
+ }
+]

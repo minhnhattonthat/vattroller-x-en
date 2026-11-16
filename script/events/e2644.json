@@ -1,0 +1,1002 @@
+[
+ {
+  "id": "e2644_00188",
+  "kind": "line",
+  "jp": "ここは　クニガミジムよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2644_00210",
+  "kind": "line",
+  "jp": "キミたちみんな　マルスをめざして",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2644_0023c",
+  "kind": "line",
+  "jp": "がんばっているんだね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2644_0025c",
+  "kind": "line",
+  "jp": "よ～し　ボクだって　負けないぞ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2644_002bc",
+  "kind": "line",
+  "jp": "タクミくんが　プレミアムジムに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2644_002e4",
+  "kind": "line",
+  "jp": "いるときは　ボクもはいろうと思ったよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2644_00314",
+  "kind": "line",
+  "jp": "でもいまは部活でがんばってるんだろ？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2644_00344",
+  "kind": "line",
+  "jp": "だから　ボクもここでがんばるんだ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2644_003a4",
+  "kind": "line",
+  "jp": "タクミくんは　ようちえんのときから",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2644_003d0",
+  "kind": "line",
+  "jp": "ここで　練習をはじめたんだって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2644_003f8",
+  "kind": "line",
+  "jp": "ボクも　タクミくんみたいな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2644_0041c",
+  "kind": "line",
+  "jp": "バトローラーをめざしてるんだ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2644_00484",
+  "kind": "line",
+  "jp": "あたし　ダイエットのために",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2644_004a8",
+  "kind": "line",
+  "jp": "バトローリングをはじめたのよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2644_004d0",
+  "kind": "line",
+  "jp": "でも　いまはバトローリングに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2644_004f8",
+  "kind": "line",
+  "jp": "むちゅうになっちゃったわ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2644_00550",
+  "kind": "line",
+  "jp": "もっともっときれいになるために",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2644_00578",
+  "kind": "line",
+  "jp": "練習を　いっぱいしなくっちゃ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2644_005a0",
+  "kind": "line",
+  "jp": "それ　ゴロゴロゴロ！　ゴロゴロゴロ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2644_00604",
+  "kind": "line",
+  "jp": "あたし　ダイエットにもいいから",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2644_0062c",
+  "kind": "line",
+  "jp": "バトローリングをはじめたのよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2644_00654",
+  "kind": "line",
+  "jp": "でも　ここのジムはマスターが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2644_0067c",
+  "kind": "line",
+  "jp": "いないみたい　だれかいい人いないかな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2644_006ec",
+  "kind": "line",
+  "jp": "オレ　楽しくやってるぞ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2644_0070c",
+  "kind": "line",
+  "jp": "練習していくか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2644_00734.0",
+  "kind": "choice",
+  "jp": "おねがいします",
+  "en": "",
+  "status": "new",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2644_00734.1",
+  "kind": "choice",
+  "jp": "いまはいいです",
+  "en": "",
+  "status": "new",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2644_0077c",
+  "kind": "line",
+  "jp": "がんばれよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2644_0079c",
+  "kind": "line",
+  "jp": "そうか　またこいよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2644_007fc",
+  "kind": "line",
+  "jp": "たのしかったぞ　",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2644_00838",
+  "kind": "line",
+  "jp": "おしかったな……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2644_0088c",
+  "kind": "line",
+  "jp": "きょうは　そつぎょうしけんだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2644_008b4",
+  "kind": "line",
+  "jp": "じゅんびはいいか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2644_008dc.0",
+  "kind": "choice",
+  "jp": "はい",
+  "en": "",
+  "status": "new",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2644_008dc.1",
+  "kind": "choice",
+  "jp": "まだです",
+  "en": "",
+  "status": "new",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2644_00918",
+  "kind": "line",
+  "jp": "がんばれよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2644_00938",
+  "kind": "line",
+  "jp": "そうか　またこいよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2644_00998",
+  "kind": "line",
+  "jp": "これで　そつぎょうだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2644_009b8",
+  "kind": "line",
+  "jp": "よく　がんばったな……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2644_009d8",
+  "kind": "line",
+  "jp": "きねんにこのアーム　キミにゆずる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2644_00a44",
+  "kind": "line",
+  "jp": "ハントけいのつぎはエクスハントけいを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2644_00a74",
+  "kind": "line",
+  "jp": "まなぶこと　できるぞ　いいマスターが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2644_00aa4",
+  "kind": "line",
+  "jp": "見つかると　いいな・・・",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2644_00af8",
+  "kind": "line",
+  "jp": "おしかったな……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2644_00b4c",
+  "kind": "line",
+  "jp": "きょうも　おしえるぞ？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2644_00b78.0",
+  "kind": "choice",
+  "jp": "おねがいします",
+  "en": "",
+  "status": "new",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2644_00b78.1",
+  "kind": "choice",
+  "jp": "きょうはいいです",
+  "en": "",
+  "status": "new",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2644_00bc4",
+  "kind": "line",
+  "jp": "こんかいはピンを『４０コ』こわしてみろ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2644_00bf4",
+  "kind": "line",
+  "jp": "バトル時間が短いから　遠くのピンを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2644_00c20",
+  "kind": "line",
+  "jp": "ハントけいを使って",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2644_00c3c",
+  "kind": "line",
+  "jp": "こわしていかないと　まにあわないぞ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2644_00c74",
+  "kind": "line",
+  "jp": "そうか　またこいよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2644_00cd4",
+  "kind": "line",
+  "jp": "よく　がんばったな……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2644_00cf4",
+  "kind": "line",
+  "jp": "ハントけいが　強くなる　Ｖスキルを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2644_00d20",
+  "kind": "line",
+  "jp": "キミに　おしえるぞ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2644_00d5c",
+  "kind": "line",
+  "jp": "ボーナスＶＰをもらった∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2644_00da8",
+  "kind": "line",
+  "jp": "またこいよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2644_00ddc",
+  "kind": "line",
+  "jp": "おしかったな……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2644_00e30",
+  "kind": "line",
+  "jp": "キミのおかげで　バトローリングの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2644_00e5c",
+  "kind": "line",
+  "jp": "たのしさ　おもいだした",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2644_00e7c",
+  "kind": "line",
+  "jp": "ありがとうな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2644_00e94",
+  "kind": "line",
+  "jp": "魚屋やりながら　ときどきここで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2644_00ebc",
+  "kind": "line",
+  "jp": "バトローリングを教えてるんだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2644_00ee4",
+  "kind": "line",
+  "jp": "キミ　ハントけいは　まだマスター",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2644_00f10",
+  "kind": "line",
+  "jp": "してないだろ？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2644_00f28",
+  "kind": "line",
+  "jp": "オレ　ハントけいのマスターだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2644_00f50",
+  "kind": "line",
+  "jp": "おれいに　おしえるぞ？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2644_00f7c.0",
+  "kind": "choice",
+  "jp": "おねがいします",
+  "en": "",
+  "status": "new",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2644_00f7c.1",
+  "kind": "choice",
+  "jp": "いまはいいです",
+  "en": "",
+  "status": "new",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2644_00fc4",
+  "kind": "line",
+  "jp": "ハントけいは　遠くのあいてを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2644_00fec",
+  "kind": "line",
+  "jp": "ねらい打ちする力もひつようだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2644_01014",
+  "kind": "line",
+  "jp": "相手の動きを　見きわめるのが　大事",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2644_01040",
+  "kind": "line",
+  "jp": "シャークボールの　動きをよみながら",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2644_0106c",
+  "kind": "line",
+  "jp": "『１０コ』たおしてみろ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2644_0108c",
+  "kind": "line",
+  "jp": "おまえならできる　がんばれ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2644_010bc",
+  "kind": "line",
+  "jp": "そうか　またこいよ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2644_01120",
+  "kind": "line",
+  "jp": "よく　がんばったな……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2644_01154",
+  "kind": "line",
+  "jp": "これで　ハントけいのアームが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2644_0117c",
+  "kind": "line",
+  "jp": "使えるはずだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2644_01194",
+  "kind": "line",
+  "jp": "ハントけいアームをセットしてみると",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2644_011c0",
+  "kind": "line",
+  "jp": "いいだろう　また来い",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2644_0120c",
+  "kind": "line",
+  "jp": "おしかったな……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2644_0126c",
+  "kind": "line",
+  "jp": "クニガミさんがおしえてくれたから",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 17,
+  "notes": ""
+ },
+ {
+  "id": "e2644_01298",
+  "kind": "line",
+  "jp": "だいぶじょうずになったわよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 17,
+  "notes": ""
+ },
+ {
+  "id": "e2644_012bc",
+  "kind": "line",
+  "jp": "あたしとバトルする？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 17,
+  "notes": ""
+ },
+ {
+  "id": "e2644_012e8.0",
+  "kind": "choice",
+  "jp": "いいよ",
+  "en": "",
+  "status": "new",
+  "script": 17,
+  "notes": ""
+ },
+ {
+  "id": "e2644_012e8.1",
+  "kind": "choice",
+  "jp": "やめとく",
+  "en": "",
+  "status": "new",
+  "script": 17,
+  "notes": ""
+ },
+ {
+  "id": "e2644_01324",
+  "kind": "line",
+  "jp": "まけないわよ～",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 17,
+  "notes": ""
+ },
+ {
+  "id": "e2644_01368",
+  "kind": "line",
+  "jp": "え～つまんないの～！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 17,
+  "notes": ""
+ },
+ {
+  "id": "e2644_013ac",
+  "kind": "line",
+  "jp": "え～ん　まけちゃった～",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 17,
+  "notes": ""
+ },
+ {
+  "id": "e2644_013d8",
+  "kind": "line",
+  "jp": "へっへ～ん　どう？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 17,
+  "notes": ""
+ },
+ {
+  "id": "e2644_0142c",
+  "kind": "line",
+  "jp": "あたし　クニガミさんすきよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 18,
+  "notes": ""
+ },
+ {
+  "id": "e2644_01450",
+  "kind": "line",
+  "jp": "やさしくおしえてくれるもん",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 18,
+  "notes": ""
+ },
+ {
+  "id": "e2644_014b4",
+  "kind": "line",
+  "jp": "クニガミさんはくちべたじゃが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 19,
+  "notes": ""
+ },
+ {
+  "id": "e2644_014dc",
+  "kind": "line",
+  "jp": "しんせつじゃから　わしはファンになって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 19,
+  "notes": ""
+ },
+ {
+  "id": "e2644_0150c",
+  "kind": "line",
+  "jp": "しもうたよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 19,
+  "notes": ""
+ },
+ {
+  "id": "e2644_01560",
+  "kind": "line",
+  "jp": "バトローリングの本が　ならんでる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 20,
+  "notes": ""
+ },
+ {
+  "id": "e2644_015cc",
+  "kind": "line",
+  "jp": "バトローリングの本が　ならんでる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 21,
+  "notes": ""
+ },
+ {
+  "id": "e2644_01638",
+  "kind": "line",
+  "jp": "バトローリングの本が　ならんでる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 22,
+  "notes": ""
+ },
+ {
+  "id": "e2644_016a4",
+  "kind": "line",
+  "jp": "はいれないようだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 23,
+  "notes": ""
+ },
+ {
+  "id": "e2644_01700",
+  "kind": "line",
+  "jp": "はいれないようだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 24,
+  "notes": ""
+ }
+]

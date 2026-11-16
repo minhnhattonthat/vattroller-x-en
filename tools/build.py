@@ -14,13 +14,17 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 import archive  # noqa: E402
 import check_rom  # noqa: E402
 import events  # noqa: E402
+import text  # noqa: E402
 
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "build" / "vattroller_x_en.gba"
 
 
 def apply_text(evs):
-    """Phase 4+: replace text in the parsed event files. Nothing yet: the build is the identity build."""
+    """Put every non-empty `en` from script/events/*.json into the parsed event files (tools/text.py).
+    ROM strings (script/rom/*.json: repoint, credits, in-place) are written from phase 5/7 once the English
+    encoding is fixed. With no English yet this changes nothing and the build stays the identity build."""
+    text.apply_events(evs)
     return evs
 
 

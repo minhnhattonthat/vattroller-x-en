@@ -1,0 +1,122 @@
+[
+ {
+  "id": "e2668_000d4",
+  "kind": "line",
+  "jp": "もう　何もおちていない",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2668_00128",
+  "kind": "line",
+  "jp": "何か　光るものがおちている……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2668_00150",
+  "kind": "line",
+  "jp": "Ｖメダルを見つけた！！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0600",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2668_001dc",
+  "kind": "line",
+  "jp": "マーブルけんきゅうじょに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2668_00200",
+  "kind": "line",
+  "jp": "しょうひんをとどけなきゃ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2668_00224",
+  "kind": "line",
+  "jp": "いそげ　いそげ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2668_0027c",
+  "kind": "line",
+  "jp": "あわてない　あわてない",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2668_0029c",
+  "kind": "line",
+  "jp": "いそがしいときは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2668_002b8",
+  "kind": "line",
+  "jp": "おちつくことも　だいじよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2668_0031c",
+  "kind": "line",
+  "jp": "こんげつのもくひょう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2668_0033c",
+  "kind": "line",
+  "jp": "ねぼうしない　ちこくしない",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2668_00360",
+  "kind": "line",
+  "jp": "しごとしない",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ }
+]

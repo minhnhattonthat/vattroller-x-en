@@ -1,0 +1,570 @@
+[
+ {
+  "id": "e2569_000a8",
+  "kind": "line",
+  "jp": "みんな　ひでんの書って",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2569_000c8",
+  "kind": "line",
+  "jp": "知ってる？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2569_000e8",
+  "kind": "line",
+  "jp": "ひでんの書？　知らな～い",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2569_0010c",
+  "kind": "line",
+  "jp": "∴は　知ってる？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2569_00144.0",
+  "kind": "choice",
+  "jp": "知ってる",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2569_00144.1",
+  "kind": "choice",
+  "jp": "知らない",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2569_00194",
+  "kind": "line",
+  "jp": "わいも　知っとるで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2569_001cc",
+  "kind": "line",
+  "jp": "じゃあ　せつめいしてよ　イカヅチ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2569_00204",
+  "kind": "line",
+  "jp": "ひでんの書って……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2569_00220",
+  "kind": "line",
+  "jp": "あれや　あれ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2569_00248",
+  "kind": "line",
+  "jp": "タクミ　まかせたで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2569_00290",
+  "kind": "line",
+  "jp": "えー　コホン",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2569_002c0",
+  "kind": "line",
+  "jp": "ひでんの書とは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2569_002d8",
+  "kind": "line",
+  "jp": "強くなるための　秘みつが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2569_002fc",
+  "kind": "line",
+  "jp": "書いてある　まきものの事ですよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2569_00330",
+  "kind": "line",
+  "jp": "そのとーり！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2569_00348",
+  "kind": "line",
+  "jp": "空きカン拾いの　きょうそうをして",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2569_00374",
+  "kind": "line",
+  "jp": "がんばった人に",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2569_0038c",
+  "kind": "line",
+  "jp": "ひでんの書をあげることにします",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2569_003c0",
+  "kind": "line",
+  "jp": "そういうことなら　このあたしが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2569_003e8",
+  "kind": "line",
+  "jp": "ゲットよ！　ゲット！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2569_00414",
+  "kind": "line",
+  "jp": "いや　いや　ひでん書は",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2569_00434",
+  "kind": "line",
+  "jp": "わいがいただくでー！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2569_00460",
+  "kind": "line",
+  "jp": "ふむ　どういうないようなのか",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2569_00488",
+  "kind": "line",
+  "jp": "とてもきょうみがありますね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2569_004ac",
+  "kind": "line",
+  "jp": "今回は　みんなには悪いですが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2569_004d4",
+  "kind": "line",
+  "jp": "ぼくがもらうことにしましょう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2569_00520",
+  "kind": "line",
+  "jp": "じゃあ　がんばってね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2569_005f4",
+  "kind": "line",
+  "jp": "がんばったから　みんなに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2569_00618",
+  "kind": "line",
+  "jp": "ひでん書をさずけます",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2569_00658",
+  "kind": "line",
+  "jp": "何が書いてあるんでしょうね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2569_00688",
+  "kind": "line",
+  "jp": "どれどれ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2569_006a0",
+  "kind": "line",
+  "jp": "『急がば転がれ！』",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2569_006bc",
+  "kind": "line",
+  "jp": "だって……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2569_006dc",
+  "kind": "line",
+  "jp": "ほぉ～　なるほどなぁ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2569_00718",
+  "kind": "line",
+  "jp": "なによ　あんた",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2569_00730",
+  "kind": "line",
+  "jp": "この言葉のイミがわかるの？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2569_00760",
+  "kind": "line",
+  "jp": "さっぱり　わからんけど",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2569_00780",
+  "kind": "line",
+  "jp": "いい　ひびきや！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2569_007b0",
+  "kind": "line",
+  "jp": "コホン！　いい？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2569_007e8",
+  "kind": "line",
+  "jp": "バトローリングには",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2569_00804",
+  "kind": "line",
+  "jp": "ひでんなんかないの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2569_00820",
+  "kind": "line",
+  "jp": "強くなりたかったら",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2569_0083c",
+  "kind": "line",
+  "jp": "人より　転がるしかないってことよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2569_00874",
+  "kind": "line",
+  "jp": "…………",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2569_00894",
+  "kind": "line",
+  "jp": "な……なによ　みんな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2569_008b4",
+  "kind": "line",
+  "jp": "その　シラけた目は……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2569_008d4",
+  "kind": "line",
+  "jp": "ここは　カンドウして",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2569_008f4",
+  "kind": "line",
+  "jp": "わたしに　だきつくところでしょ？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2569_0092c",
+  "kind": "line",
+  "jp": "…………",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2569_00960",
+  "kind": "line",
+  "jp": "わかったわよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2569_00978",
+  "kind": "line",
+  "jp": "ごほうびのツールをあげる！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2569_0099c",
+  "kind": "line",
+  "jp": "これもひでん書みたいなもんでしょ？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2569_009f4",
+  "kind": "line",
+  "jp": "…………",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2569_00a14",
+  "kind": "line",
+  "jp": "じゃ　じゃあね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2569_00a2c",
+  "kind": "line",
+  "jp": "バイバーイのバーイ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2569_00a78",
+  "kind": "line",
+  "jp": "…………",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

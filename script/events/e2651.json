@@ -1,0 +1,282 @@
+[
+ {
+  "id": "e2651_000d4",
+  "kind": "line",
+  "jp": "アサマさんは　マルスにはなれなかった　",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2651_00104",
+  "kind": "line",
+  "jp": "だが　夢はじつげんしたのだよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2651_0012c",
+  "kind": "line",
+  "jp": "そう　わがしやさんになる！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2651_00150",
+  "kind": "line",
+  "jp": "……という夢をね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2651_001a0",
+  "kind": "line",
+  "jp": "アサマさんは強いバトローラーだったが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2651_001d0",
+  "kind": "line",
+  "jp": "マルスにはなれなかった",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2651_001f0",
+  "kind": "line",
+  "jp": "ライバくんは　アサマさんにかわって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2651_0021c",
+  "kind": "line",
+  "jp": "マルスになろうしているのだろうかね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2651_0027c",
+  "kind": "line",
+  "jp": "まんげつのアサマさんは　むかしは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2651_002a8",
+  "kind": "line",
+  "jp": "それは強いバトローラーだったよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2651_002d0",
+  "kind": "line",
+  "jp": "なにしろ　バトリーグで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2651_002f0",
+  "kind": "line",
+  "jp": "１位になったぐらいだからな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2651_00354",
+  "kind": "line",
+  "jp": "音楽かんけいの本が",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2651_00370",
+  "kind": "line",
+  "jp": "たくさんならんでいる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2651_003ec",
+  "kind": "line",
+  "jp": "テレビをつけてみた",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2651_00408",
+  "kind": "line",
+  "jp": "ローリングソートンズのライブが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2651_00430",
+  "kind": "line",
+  "jp": "ちゅうけいされている",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2651_004b4",
+  "kind": "line",
+  "jp": "テレビをつけてみた",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2651_004d0",
+  "kind": "line",
+  "jp": "ローリングソートンズのライブが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2651_004f8",
+  "kind": "line",
+  "jp": "ちゅうけいされている",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2651_00560",
+  "kind": "line",
+  "jp": "おしゃれなふくが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2651_0057c",
+  "kind": "line",
+  "jp": "しまわれている",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2651_005c8",
+  "kind": "line",
+  "jp": "ふくと　ふくの間に　光るものが……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2651_005f4",
+  "kind": "line",
+  "jp": "Ｖメダルを見つけた！！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0600",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2651_00680",
+  "kind": "line",
+  "jp": "おしゃれなふくが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2651_0069c",
+  "kind": "line",
+  "jp": "しまわれている",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2651_006f4",
+  "kind": "line",
+  "jp": "音楽のＣＤやＤＶＤが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2651_00714",
+  "kind": "line",
+  "jp": "入っている",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ }
+]

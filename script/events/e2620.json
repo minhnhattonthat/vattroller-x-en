@@ -1,0 +1,462 @@
+[
+ {
+  "id": "e2620_00284",
+  "kind": "line",
+  "jp": "お金をためて　あとで買いにこよっと",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2620_002b0",
+  "kind": "line",
+  "jp": "なくならないように　ツバを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2620_002d4",
+  "kind": "line",
+  "jp": "つけとこうかな　ペペッとなっと！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2620_00334",
+  "kind": "line",
+  "jp": "ほしいものをチェックしておいて",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2620_0035c",
+  "kind": "line",
+  "jp": "バーゲンのときに　買おうかな……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2620_003bc",
+  "kind": "line",
+  "jp": "ほしいものは　いっぱいあるけど",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2620_003e4",
+  "kind": "line",
+  "jp": "どれもちょっと高いよなぁ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2620_0044c",
+  "kind": "line",
+  "jp": "おたんじょう日に買ってもらうアームが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2620_0047c",
+  "kind": "line",
+  "jp": "きまらないの　どれがいいと思う？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2620_004a8",
+  "kind": "line",
+  "jp": "やっぱりぼうぎょけいよりも",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2620_004cc",
+  "kind": "line",
+  "jp": "こうげきけいのほうが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2620_004ec",
+  "kind": "line",
+  "jp": "いいと思うんだけど……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2620_00540",
+  "kind": "line",
+  "jp": "おたんじょう日に買ってもらうアーム",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2620_0056c",
+  "kind": "line",
+  "jp": "どれにしようかなっと",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2620_005c0",
+  "kind": "line",
+  "jp": "こんどのおたんじょう日に",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2620_005e4",
+  "kind": "line",
+  "jp": "あたらしいアームを買ってもらうの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2620_00650",
+  "kind": "line",
+  "jp": "あれ買って　これ買って……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2620_00674",
+  "kind": "line",
+  "jp": "いなかじゃ手にはいらないアームが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2620_006a0",
+  "kind": "line",
+  "jp": "いっぱいだからな　おみやげにしよう！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2620_00704",
+  "kind": "line",
+  "jp": "いやー　ぶったまげた！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2620_00724",
+  "kind": "line",
+  "jp": "このデパートの品ぞろえはスゴい！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2620_00750",
+  "kind": "line",
+  "jp": "オレのいなかじゃ　手にはいらない",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2620_0077c",
+  "kind": "line",
+  "jp": "アームがいっぱいあるぞ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2620_007e0",
+  "kind": "line",
+  "jp": "『マルスへの道』という本がならんでる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 17,
+  "notes": ""
+ },
+ {
+  "id": "e2620_00810",
+  "kind": "line",
+  "jp": "「マルスへの道はけわしい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 17,
+  "notes": ""
+ },
+ {
+  "id": "e2620_00834",
+  "kind": "line",
+  "jp": "まずは　バトローリングのれきしから",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 17,
+  "notes": ""
+ },
+ {
+  "id": "e2620_00860",
+  "kind": "line",
+  "jp": "かいせつしよう……」",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 17,
+  "notes": ""
+ },
+ {
+  "id": "e2620_00880",
+  "kind": "line",
+  "jp": "むずかしそうな本だ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0600",
+  "script": 17,
+  "notes": ""
+ },
+ {
+  "id": "e2620_008e0",
+  "kind": "line",
+  "jp": "バトローリングかんけいの本が",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 18,
+  "notes": ""
+ },
+ {
+  "id": "e2620_00908",
+  "kind": "line",
+  "jp": "ぎっしりならんでいる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 18,
+  "notes": ""
+ },
+ {
+  "id": "e2620_00968",
+  "kind": "line",
+  "jp": "バトローリングかんけいの本が",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 19,
+  "notes": ""
+ },
+ {
+  "id": "e2620_00990",
+  "kind": "line",
+  "jp": "ぎっしりならんでいる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 19,
+  "notes": ""
+ },
+ {
+  "id": "e2620_009f0",
+  "kind": "line",
+  "jp": "バトローリングかんけいの本が",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 20,
+  "notes": ""
+ },
+ {
+  "id": "e2620_00a18",
+  "kind": "line",
+  "jp": "ぎっしりならんでいる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 20,
+  "notes": ""
+ },
+ {
+  "id": "e2620_00a78",
+  "kind": "line",
+  "jp": "バトローリングかんけいの本が",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 21,
+  "notes": ""
+ },
+ {
+  "id": "e2620_00aa0",
+  "kind": "line",
+  "jp": "ぎっしりならんでいる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 21,
+  "notes": ""
+ },
+ {
+  "id": "e2620_00b00",
+  "kind": "line",
+  "jp": "バトローリングかんけいの本が",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 22,
+  "notes": ""
+ },
+ {
+  "id": "e2620_00b28",
+  "kind": "line",
+  "jp": "ぎっしりならんでいる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 22,
+  "notes": ""
+ },
+ {
+  "id": "e2620_00b88",
+  "kind": "line",
+  "jp": "バトローリングかんけいの本が",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 23,
+  "notes": ""
+ },
+ {
+  "id": "e2620_00bb0",
+  "kind": "line",
+  "jp": "ぎっしりならんでいる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 23,
+  "notes": ""
+ },
+ {
+  "id": "e2620_00c10",
+  "kind": "line",
+  "jp": "バトローリングかんけいの本が",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 24,
+  "notes": ""
+ },
+ {
+  "id": "e2620_00c38",
+  "kind": "line",
+  "jp": "ぎっしりならんでいる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 24,
+  "notes": ""
+ },
+ {
+  "id": "e2620_00c98",
+  "kind": "line",
+  "jp": "バトローリングかんけいの本が",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 25,
+  "notes": ""
+ },
+ {
+  "id": "e2620_00cc0",
+  "kind": "line",
+  "jp": "ぎっしりならんでいる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 25,
+  "notes": ""
+ },
+ {
+  "id": "e2620_00d20",
+  "kind": "line",
+  "jp": "バトローリングかんけいの本が",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 26,
+  "notes": ""
+ },
+ {
+  "id": "e2620_00d48",
+  "kind": "line",
+  "jp": "ぎっしりならんでいる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 26,
+  "notes": ""
+ }
+]

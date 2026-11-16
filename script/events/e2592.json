@@ -1,0 +1,180 @@
+[
+ {
+  "id": "e2592_00044",
+  "kind": "line",
+  "jp": "この間の　ほのおをヒントに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2592_00068",
+  "kind": "line",
+  "jp": "新たな修行を考案した",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2592_00088",
+  "kind": "line",
+  "jp": "すこしきけんな　修行だが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2592_000ac",
+  "kind": "line",
+  "jp": "やってみる気はあるか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2592_000d8.0",
+  "kind": "choice",
+  "jp": "えんりょします",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2592_000d8.1",
+  "kind": "choice",
+  "jp": "もちろん∇",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2592_0011c",
+  "kind": "line",
+  "jp": "そうか……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2592_00130",
+  "kind": "line",
+  "jp": "なら　むりじいはすまい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2592_00174",
+  "kind": "line",
+  "jp": "うむ　それでこそ真のバトローラーだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2592_001a0",
+  "kind": "line",
+  "jp": "かがり火を",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2592_001b4",
+  "kind": "line",
+  "jp": "できるだけ早く消してみせろ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2592_0022c",
+  "kind": "line",
+  "jp": "なかなかみどころがあるヤツだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2592_00254",
+  "kind": "line",
+  "jp": "こうりゃくしたあかしとして",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2592_00278",
+  "kind": "line",
+  "jp": "これをうけとるがいい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2592_002c4",
+  "kind": "line",
+  "jp": "ふふっ　一度うちの弟子と戦わせて",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2592_002f0",
+  "kind": "line",
+  "jp": "みたいものだな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2592_00314",
+  "kind": "line",
+  "jp": "オマエにはまだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2592_0032c",
+  "kind": "line",
+  "jp": "むずかしすぎたか……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

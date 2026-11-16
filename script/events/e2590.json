@@ -1,0 +1,232 @@
+[
+ {
+  "id": "e2590_0014c",
+  "kind": "line",
+  "jp": "マスターってば",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2590_00164",
+  "kind": "line",
+  "jp": "どこに行ったんだろう？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2590_00184",
+  "kind": "line",
+  "jp": "あれ？　なんだか",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2590_001a0",
+  "kind": "line",
+  "jp": "コゲくさいにおいがしないか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2590_00200",
+  "kind": "line",
+  "jp": "このままじゃ火事になる∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2590_00224",
+  "kind": "line",
+  "jp": "ほかにもえうつる前にぜんぶ消すんだ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2590_00270",
+  "kind": "line",
+  "jp": "キミ∇　てつだってくれよ∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2590_00354",
+  "kind": "line",
+  "jp": "ふう　やれやれ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2590_00370",
+  "kind": "line",
+  "jp": "これで　なんとかひとあんしん……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2590_003f8",
+  "kind": "line",
+  "jp": "うわっ≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2590_0040c",
+  "kind": "line",
+  "jp": "いっ　いったいどうすればいいんだ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2590_0043c",
+  "kind": "line",
+  "jp": "マスター！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2590_00538",
+  "kind": "line",
+  "jp": "すっげ～≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2590_0054c",
+  "kind": "line",
+  "jp": "でも　どうして",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2590_00564",
+  "kind": "line",
+  "jp": "こんなところから火がでたんだろう？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2590_0059c",
+  "kind": "line",
+  "jp": "むう　きのうのたき火が",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2590_005bc",
+  "kind": "line",
+  "jp": "きちんと消えていなかったようだな……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2590_005ec",
+  "kind": "line",
+  "jp": "木のもえかすは　消えたようにみえて",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2590_00618",
+  "kind": "line",
+  "jp": "まだ中がもえていることがある",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2590_00640",
+  "kind": "line",
+  "jp": "オマエたちも気をつけるのだぞ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2590_00674",
+  "kind": "line",
+  "jp": "うん！　わかったよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2590_006b4",
+  "kind": "line",
+  "jp": "オマエ　ずいぶんとがんばったな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2590_006dc",
+  "kind": "line",
+  "jp": "これはお礼だ　とっておいてくれ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

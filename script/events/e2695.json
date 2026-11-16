@@ -1,0 +1,222 @@
+[
+ {
+  "id": "e2695_000d4",
+  "kind": "line",
+  "jp": "オレ　おにぎり百こ　食べたんだぜ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2695_00100",
+  "kind": "line",
+  "jp": "タコヤキなら　千こはかるいね！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2695_00128",
+  "kind": "line",
+  "jp": "だ　ダメだ！　ホレ薬のはずが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2695_00150",
+  "kind": "line",
+  "jp": "ホラ薬をつくってしまったぁ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2695_001ac",
+  "kind": "line",
+  "jp": "おかしいなぁ……　これでホレ薬は",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2695_001d8",
+  "kind": "line",
+  "jp": "かんせいのはずなのになぁ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2695_00234",
+  "kind": "line",
+  "jp": "オレ　好きな子とラブラブになれる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2695_00260",
+  "kind": "line",
+  "jp": "ホレ薬をつくってるんだ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2695_002c4",
+  "kind": "line",
+  "jp": "このひょうほん……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2695_002e0",
+  "kind": "line",
+  "jp": "夜になると　動きだすらしいぞ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2695_00348",
+  "kind": "line",
+  "jp": "じっけんどうぐがならんでいる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2695_003b0",
+  "kind": "line",
+  "jp": "じっけんどうぐがならんでいる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2695_00418",
+  "kind": "line",
+  "jp": "じっけんどうぐがならんでいる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2695_00480",
+  "kind": "line",
+  "jp": "じっけんどうぐがならんでいる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2695_004e8",
+  "kind": "line",
+  "jp": "すいそうだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2695_004fc",
+  "kind": "line",
+  "jp": "きんぎょがおよいでいる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2695_0055c",
+  "kind": "line",
+  "jp": "すいそうだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2695_00570",
+  "kind": "line",
+  "jp": "ウーパールーパーがおよいでる",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2695_005d8",
+  "kind": "line",
+  "jp": "がいこつのひょうほんだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2695_0062c",
+  "kind": "line",
+  "jp": "ひょうほんの足元に何か落ちてる……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2695_00658",
+  "kind": "line",
+  "jp": "Ｖメダルを見つけた！！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0600",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2695_006e4",
+  "kind": "line",
+  "jp": "いまにも　動きだしそうだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 14,
+  "notes": ""
+ }
+]

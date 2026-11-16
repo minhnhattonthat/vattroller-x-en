@@ -1,0 +1,430 @@
+[
+ {
+  "id": "e2703_0011c",
+  "kind": "line",
+  "jp": "ジンやシュウ　それにキミとか……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2703_00148",
+  "kind": "line",
+  "jp": "中学生バトローラーの時代が",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2703_0016c",
+  "kind": "line",
+  "jp": "やってきたみたいだね！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2703_001c0",
+  "kind": "line",
+  "jp": "バトローリング部の部長なら",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2703_001e4",
+  "kind": "line",
+  "jp": "２階の　ろうかにいたと思うけどな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2703_00250",
+  "kind": "line",
+  "jp": "あなたとジンくんが　バトルしたら",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2703_0027c",
+  "kind": "line",
+  "jp": "どっちが強いのかしらね？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2703_002d4",
+  "kind": "line",
+  "jp": "アレーナに出場してから",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2703_002f4",
+  "kind": "line",
+  "jp": "ジンくんにちょうせんする人がおおいの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2703_00324",
+  "kind": "line",
+  "jp": "あなたもそうなの？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2703_00380",
+  "kind": "line",
+  "jp": "うちのバトローリング部なら",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2703_003a4",
+  "kind": "line",
+  "jp": "強いやつが　入部したって話だよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2703_00400",
+  "kind": "line",
+  "jp": "やあ　∴",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2703_00414",
+  "kind": "line",
+  "jp": "キミもこの中学のデータあつめに？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2703_0044c.0",
+  "kind": "choice",
+  "jp": "そう",
+  "en": "",
+  "status": "new",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2703_0044c.1",
+  "kind": "choice",
+  "jp": "ちがう",
+  "en": "",
+  "status": "new",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2703_00484",
+  "kind": "line",
+  "jp": "だったら　これからさっそく",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2703_004a8",
+  "kind": "line",
+  "jp": "練習場に行ってみましょう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2703_004d8",
+  "kind": "line",
+  "jp": "ボクとしたことが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2703_004f4",
+  "kind": "line",
+  "jp": "うっかりしてました……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2703_00514",
+  "kind": "line",
+  "jp": "データをあつめにきたなんて　言ったら",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2703_00544",
+  "kind": "line",
+  "jp": "追いかえされますもんね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2703_00564",
+  "kind": "line",
+  "jp": "あくまで　中学の",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2703_00580",
+  "kind": "line",
+  "jp": "見学にきたということにしましょう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2703_005ac",
+  "kind": "line",
+  "jp": "では　さっそく",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2703_005c4",
+  "kind": "line",
+  "jp": "見学に行かなくては……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2703_0062c",
+  "kind": "line",
+  "jp": "うちのバトローリング部は",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2703_00650",
+  "kind": "line",
+  "jp": "弱いけど　楽しくやってるよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2703_006b4",
+  "kind": "line",
+  "jp": "ジンくんって　つぎはどの大会に",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2703_006dc",
+  "kind": "line",
+  "jp": "しゅつじょうするんだろう？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2703_00700",
+  "kind": "line",
+  "jp": "こんどは　ボクも応援に",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2703_00720",
+  "kind": "line",
+  "jp": "かけつけようと思ってるんだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2703_00778",
+  "kind": "line",
+  "jp": "うちのＶＲ部も　けっこうゆうめいに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2703_007a4",
+  "kind": "line",
+  "jp": "なったみたいだぜ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2703_007c0",
+  "kind": "line",
+  "jp": "ジンくんが　マーブルアレーナで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2703_007e8",
+  "kind": "line",
+  "jp": "かつやくしたからね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2703_00adc",
+  "kind": "line",
+  "jp": "ピィ？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 20,
+  "notes": ""
+ },
+ {
+  "id": "e2703_00b20",
+  "kind": "line",
+  "jp": "ピィ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 21,
+  "notes": ""
+ },
+ {
+  "id": "e2703_00b7c",
+  "kind": "line",
+  "jp": "←教室１－Ａ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 22,
+  "notes": ""
+ },
+ {
+  "id": "e2703_00b94",
+  "kind": "line",
+  "jp": "→教室２－Ａ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 22,
+  "notes": ""
+ },
+ {
+  "id": "e2703_00bec",
+  "kind": "line",
+  "jp": "→図書室",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 23,
+  "notes": ""
+ },
+ {
+  "id": "e2703_00c40",
+  "kind": "line",
+  "jp": "ろうかは　走らない∇",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 24,
+  "notes": ""
+ },
+ {
+  "id": "e2703_00ca0",
+  "kind": "line",
+  "jp": "じょうほうたんまつだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 25,
+  "notes": ""
+ }
+]

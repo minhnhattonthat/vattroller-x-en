@@ -1,0 +1,202 @@
+[
+ {
+  "id": "e2552_000fc",
+  "kind": "line",
+  "jp": "どうしてジムをへいさするんだ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2552_00124",
+  "kind": "line",
+  "jp": "ジムには何の問題もないだろ≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2552_00158",
+  "kind": "line",
+  "jp": "問題ならありますよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2552_00174",
+  "kind": "line",
+  "jp": "このジムは弱い",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2552_00198",
+  "kind": "line",
+  "jp": "なにっ≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2552_001b8",
+  "kind": "line",
+  "jp": "わたしのジムに弱いものはいりません",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2552_001e4",
+  "kind": "line",
+  "jp": "だからプレミアムジムはつぶす",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2552_0020c",
+  "kind": "line",
+  "jp": "これからはわたし自らがしどうする",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2552_00238",
+  "kind": "line",
+  "jp": "あたらしいジムを開きます",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2552_0025c",
+  "kind": "line",
+  "jp": "さんかできるのは　えらばれたもののみ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2552_0028c",
+  "kind": "line",
+  "jp": "キミら弱者のいばしょはありません",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2552_00374",
+  "kind": "line",
+  "jp": "そんな……わたくしたちのジムが……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2552_003ac",
+  "kind": "line",
+  "jp": "わ　わたしは弱くありません！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2552_003d4",
+  "kind": "line",
+  "jp": "どうかなかまに入れてください！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2552_00408",
+  "kind": "line",
+  "jp": "フン　あんな学校の部活ごときに負ける",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2552_00438",
+  "kind": "line",
+  "jp": "者は　ふようだと言ってるんです",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2552_0046c",
+  "kind": "line",
+  "jp": "部活ごときとか言ってるあんたが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2552_00494",
+  "kind": "line",
+  "jp": "強いヤツをえらべてるとは思えねぇな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2552_004c0",
+  "kind": "line",
+  "jp": "オレと　あんたじまんのバトローラー",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2552_004ec",
+  "kind": "line",
+  "jp": "どっちが弱いのか　試してみな！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]

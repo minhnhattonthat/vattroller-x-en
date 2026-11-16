@@ -1,0 +1,232 @@
+[
+ {
+  "id": "e2634_000d4",
+  "kind": "line",
+  "jp": "イカヅチぼっちゃんのいいところを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2634_00100",
+  "kind": "line",
+  "jp": "わかってくれる友だちがおれば安心じゃ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2634_00164",
+  "kind": "line",
+  "jp": "イカヅチぼっちゃんは　すぐに人を",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2634_00190",
+  "kind": "line",
+  "jp": "しんじすぎるんじゃ　ブツブツ……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2634_001f0",
+  "kind": "line",
+  "jp": "イカヅチぼっちゃんは　悪気がなくても",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2634_00220",
+  "kind": "line",
+  "jp": "トラブルばかりおこすのお……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2634_00288",
+  "kind": "line",
+  "jp": "友だちにめぐまれて　ぼっちゃんは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2634_002b4",
+  "kind": "line",
+  "jp": "ほんまにしあわせもんや",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2634_00308",
+  "kind": "line",
+  "jp": "人をうたがってかからんのが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2634_0032c",
+  "kind": "line",
+  "jp": "イカヅチぼっちゃんのいいところや",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 6,
+  "notes": ""
+ },
+ {
+  "id": "e2634_0038c",
+  "kind": "line",
+  "jp": "いろんなトラブルは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2634_003a8",
+  "kind": "line",
+  "jp": "イカヅチぼっちゃんのせいやない",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2634_003d0",
+  "kind": "line",
+  "jp": "ぼっちゃんをりかいせん",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2634_003f0",
+  "kind": "line",
+  "jp": "まわりのみんなが　悪いんや",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 7,
+  "notes": ""
+ },
+ {
+  "id": "e2634_00470",
+  "kind": "line",
+  "jp": "テレビをつけてみた",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2634_0048c",
+  "kind": "line",
+  "jp": "田万里村のニュースがはじまった！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2634_004b8",
+  "kind": "line",
+  "jp": "でも　なに言ってるか　わからない",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2634_00534",
+  "kind": "line",
+  "jp": "ようふくタンスだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2634_00590",
+  "kind": "line",
+  "jp": "ようふくタンスだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2634_005ec",
+  "kind": "line",
+  "jp": "まんがのほんだらけだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2634_00668",
+  "kind": "line",
+  "jp": "テレビをつけてみた",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2634_00684",
+  "kind": "line",
+  "jp": "田万里村のニュースがはじまった！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2634_006b0",
+  "kind": "line",
+  "jp": "でも　なに言ってるか　わからない",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ }
+]

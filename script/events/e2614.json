@@ -1,0 +1,492 @@
+[
+ {
+  "id": "e2614_000ec",
+  "kind": "line",
+  "jp": "ふふふ　ふふふ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2614_00104",
+  "kind": "line",
+  "jp": "わたしは　だれのちょうせんでもうける！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2614_00134",
+  "kind": "line",
+  "jp": "……いや　おまえは強そうなので",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2614_0015c",
+  "kind": "line",
+  "jp": "パスだ！　パス！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 2,
+  "notes": ""
+ },
+ {
+  "id": "e2614_001ac",
+  "kind": "line",
+  "jp": "ふふふ　ふふふ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2614_001c4",
+  "kind": "line",
+  "jp": "わたしは　だれのちょうせんでもうける！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2614_001f4",
+  "kind": "line",
+  "jp": "ただし　わたしより弱いヤツを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2614_0021c",
+  "kind": "line",
+  "jp": "ぼしゅう中なのだ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 3,
+  "notes": ""
+ },
+ {
+  "id": "e2614_0026c",
+  "kind": "line",
+  "jp": "ふふふ　ふふふ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2614_00284",
+  "kind": "line",
+  "jp": "わたしは　だれのちょうせんでもうける！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 4,
+  "notes": ""
+ },
+ {
+  "id": "e2614_002f4",
+  "kind": "line",
+  "jp": "しあいにでるせんしゅしか",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2614_00318",
+  "kind": "line",
+  "jp": "はいれないようだ　",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 5,
+  "notes": ""
+ },
+ {
+  "id": "e2614_003e4",
+  "kind": "line",
+  "jp": "しあいにでるせんしゅしか",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2614_00408",
+  "kind": "line",
+  "jp": "はいれないようだ　",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 8,
+  "notes": ""
+ },
+ {
+  "id": "e2614_00464",
+  "kind": "line",
+  "jp": "楽しく戦うバトローリングか……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2614_0048c",
+  "kind": "line",
+  "jp": "コマチのくちぐせだが　さいきん",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2614_004b4",
+  "kind": "line",
+  "jp": "なんとなくわかってきたよ　ハハハ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 9,
+  "notes": ""
+ },
+ {
+  "id": "e2614_00514",
+  "kind": "line",
+  "jp": "おまえとこうやって　おなじ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2614_00538",
+  "kind": "line",
+  "jp": "バトリーグで戦うことになるとはな……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2614_00568",
+  "kind": "line",
+  "jp": "おまえには　かんしゃしている",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2614_00590",
+  "kind": "line",
+  "jp": "しかし　それと勝負はべつだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2614_005b4",
+  "kind": "line",
+  "jp": "オレはせいいっぱい戦う　だから",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2614_005dc",
+  "kind": "line",
+  "jp": "おまえもオレいがいのヤツに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2614_00600",
+  "kind": "line",
+  "jp": "負けるなよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 10,
+  "notes": ""
+ },
+ {
+  "id": "e2614_00664",
+  "kind": "line",
+  "jp": "りっぱな　かんよう植物だ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 11,
+  "notes": ""
+ },
+ {
+  "id": "e2614_006bc",
+  "kind": "line",
+  "jp": "りっぱな　かんよう植物だ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2614_006e0",
+  "kind": "line",
+  "jp": "はちの中に　キラリと光る何かがある",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2614_0070c",
+  "kind": "line",
+  "jp": "Ｖメダルを見つけた！！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0600",
+  "script": 12,
+  "notes": ""
+ },
+ {
+  "id": "e2614_00798",
+  "kind": "line",
+  "jp": "りっぱな　かんよう植物だ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 13,
+  "notes": ""
+ },
+ {
+  "id": "e2614_007fc",
+  "kind": "line",
+  "jp": "かんよう植物が　かれかけてる……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 14,
+  "notes": ""
+ },
+ {
+  "id": "e2614_00868",
+  "kind": "line",
+  "jp": "うー　ブルブルブル　えっ？　",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2614_00890",
+  "kind": "line",
+  "jp": "いや　おしっこがしたいわけでは……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2614_008bc",
+  "kind": "line",
+  "jp": "いや　ちょっとトイレに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2614_008dc",
+  "kind": "line",
+  "jp": "いってこようかな　試合まえだし……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 15,
+  "notes": ""
+ },
+ {
+  "id": "e2614_0093c",
+  "kind": "line",
+  "jp": "うー　ブルブルブル　えっ？　",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2614_00964",
+  "kind": "line",
+  "jp": "いや　おしっこがしたいわけではない！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2614_00994",
+  "kind": "line",
+  "jp": "これは　むしゃぶるいだよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 16,
+  "notes": ""
+ },
+ {
+  "id": "e2614_009ec",
+  "kind": "line",
+  "jp": "うー　ブルブルブル　えっ？　",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 17,
+  "notes": ""
+ },
+ {
+  "id": "e2614_00a14",
+  "kind": "line",
+  "jp": "いや　さむくてふるえているのではない",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 17,
+  "notes": ""
+ },
+ {
+  "id": "e2614_00a44",
+  "kind": "line",
+  "jp": "これは　むしゃぶるいだよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 17,
+  "notes": ""
+ },
+ {
+  "id": "e2614_00aa8",
+  "kind": "line",
+  "jp": "リラックスするおまじないを",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 18,
+  "notes": ""
+ },
+ {
+  "id": "e2614_00acc",
+  "kind": "line",
+  "jp": "教えてやろうか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 18,
+  "notes": ""
+ },
+ {
+  "id": "e2614_00ae8",
+  "kind": "line",
+  "jp": "手のひらに人とかいて",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 18,
+  "notes": ""
+ },
+ {
+  "id": "e2614_00b08",
+  "kind": "line",
+  "jp": "ゴクリとのみこめばいいらしいぞ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 18,
+  "notes": ""
+ },
+ {
+  "id": "e2614_00b64",
+  "kind": "line",
+  "jp": "こいつ　いつもきんちょうして",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 19,
+  "notes": ""
+ },
+ {
+  "id": "e2614_00b8c",
+  "kind": "line",
+  "jp": "実力のはんぶんもだせないんだ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 19,
+  "notes": ""
+ },
+ {
+  "id": "e2614_00be8",
+  "kind": "line",
+  "jp": "だいじょうぶか？　おちつけよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 20,
+  "notes": ""
+ },
+ {
+  "id": "e2614_00c10",
+  "kind": "line",
+  "jp": "いつもの練習どおりに",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 20,
+  "notes": ""
+ },
+ {
+  "id": "e2614_00c30",
+  "kind": "line",
+  "jp": "やればいいんだからな",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 20,
+  "notes": ""
+ }
+]

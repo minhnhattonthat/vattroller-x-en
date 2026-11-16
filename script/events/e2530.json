@@ -1,0 +1,570 @@
+[
+ {
+  "id": "e2530_000a8",
+  "kind": "line",
+  "jp": "さいきんあなたたち",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2530_000c4",
+  "kind": "line",
+  "jp": "ずいぶん　がんばってるみたいね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2530_00100",
+  "kind": "line",
+  "jp": "はっきり言って　ぜっこーちょーよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2530_0012c",
+  "kind": "line",
+  "jp": "プレミアムジムも　こてんぱんにしたし",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2530_0015c",
+  "kind": "line",
+  "jp": "お兄ちゃんもマスターも",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2530_0017c",
+  "kind": "line",
+  "jp": "泣いてごめんなさいしたんだから！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2530_001cc",
+  "kind": "line",
+  "jp": "コマチさん　それはじじつとは",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2530_001f4",
+  "kind": "line",
+  "jp": "だいぶちがうような……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2530_00230",
+  "kind": "line",
+  "jp": "うるさいわね　男がこまかいこと",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2530_00258",
+  "kind": "line",
+  "jp": "気にするんじゃないわよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2530_00294",
+  "kind": "line",
+  "jp": "…………",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2530_002cc",
+  "kind": "line",
+  "jp": "それでスズカ先生　今日はどういう",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2530_002f8",
+  "kind": "line",
+  "jp": "用なのでしょうか？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2530_00340",
+  "kind": "line",
+  "jp": "この近くの町に　グローブ社のビルが",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2530_0036c",
+  "kind": "line",
+  "jp": "あるのは知ってるわよね",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2530_00398",
+  "kind": "line",
+  "jp": "グローブ社というと……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2530_003b8",
+  "kind": "line",
+  "jp": "アーマレットを作った　あの？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2530_003ec",
+  "kind": "line",
+  "jp": "ええ　バトローリングの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2530_0040c",
+  "kind": "line",
+  "jp": "生みの親である会社よ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2530_00448",
+  "kind": "line",
+  "jp": "じつは　そこで今度",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2530_00464",
+  "kind": "line",
+  "jp": "面白いイベントをするみたいなの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2530_0048c",
+  "kind": "line",
+  "jp": "あなたたち　行ってみたら",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2530_004b0",
+  "kind": "line",
+  "jp": "いいんじゃないかって思って",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2530_004e0",
+  "kind": "line",
+  "jp": "そのイベントって　いったい",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2530_00504",
+  "kind": "line",
+  "jp": "なにをやらかすんや？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2530_00530",
+  "kind": "line",
+  "jp": "なんでも　『マルス』が来るんですって",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2530_00560",
+  "kind": "line",
+  "jp": "ハヤテくんよね　今は？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2530_005a4",
+  "kind": "line",
+  "jp": "マルスのハヤテせんしゅが≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2530_005d4",
+  "kind": "line",
+  "jp": "そそそ　それってホント≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2530_00604",
+  "kind": "line",
+  "jp": "ハヤテいうたら　今までのマルスで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2530_00630",
+  "kind": "line",
+  "jp": "いちばんわかいってぇ天才やないか！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2530_00670",
+  "kind": "line",
+  "jp": "うおおっ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2530_00684",
+  "kind": "line",
+  "jp": "ものごっつぅ会いたいわ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2530_006bc.0",
+  "kind": "choice",
+  "jp": "自分も会いたい",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2530_006bc.1",
+  "kind": "choice",
+  "jp": "マルスってなに？",
+  "en": "",
+  "status": "new",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2530_00718",
+  "kind": "line",
+  "jp": "そりゃそうよね　バトローラーなら",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2530_00744",
+  "kind": "line",
+  "jp": "だれでもマルスにあこがれるもの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2530_00778",
+  "kind": "line",
+  "jp": "『マルス』とは　プロリーグの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2530_007a0",
+  "kind": "line",
+  "jp": "チャンピオンにあたえられる名前……",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2530_007cc",
+  "kind": "line",
+  "jp": "つまりマルスは世界でいちばん強い",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2530_007f8",
+  "kind": "line",
+  "jp": "バトローラーってことですからね！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2530_00850",
+  "kind": "line",
+  "jp": "えええっ≡　あんた",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2530_0086c",
+  "kind": "line",
+  "jp": "マルスって知らないの？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2530_00898",
+  "kind": "line",
+  "jp": "ほら　ＴＶとかでやってるでしょ？",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2530_008c4",
+  "kind": "line",
+  "jp": "バトローリングのプロリーグ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2530_008f4",
+  "kind": "line",
+  "jp": "『マルス』ってのは　あれの",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2530_00918",
+  "kind": "line",
+  "jp": "チャンピオンのことよ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2530_00954",
+  "kind": "line",
+  "jp": "マルスを知らんなんて",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2530_00974",
+  "kind": "line",
+  "jp": "大物やなぁ　∴は",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2530_009bc",
+  "kind": "line",
+  "jp": "うんがよければ　マルスとの対戦も",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2530_009e8",
+  "kind": "line",
+  "jp": "できるらしいわよ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2530_00a10",
+  "kind": "line",
+  "jp": "マルスと対戦≡",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2530_00a28",
+  "kind": "line",
+  "jp": "ぜったい　そのイベント行くわ！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2530_00a5c",
+  "kind": "line",
+  "jp": "ぼくもです！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2530_00a80",
+  "kind": "line",
+  "jp": "言うまでもないこっちゃで！",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2530_00ac8",
+  "kind": "line",
+  "jp": "じゃあ決まりね　グローブ社まで",
+  "en": "",
+  "status": "new",
+  "flags": "0x0000",
+  "script": 0,
+  "notes": ""
+ },
+ {
+  "id": "e2530_00af0",
+  "kind": "line",
+  "jp": "わたしがあんないしてあげるわ",
+  "en": "",
+  "status": "new",
+  "flags": "0x0200",
+  "script": 0,
+  "notes": ""
+ }
+]
