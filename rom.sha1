@@ -1,2 +1,2 @@
 # SHA-1 of the supported dump, in sha1sum format (`sha1sum -c rom.sha1` works too). One line per file for discs.
-<sha1>  rom/<file>
+035ae457c23d564ad97392572ab8a422abfce96e  rom/Vattroller X (Japan).gba
