@@ -293,3 +293,39 @@ needs its arg meaning, scenes and id sweeps (next worker).
   r0764ec-r076594 (table 0xEE648..0xEE698, with V Points / VP / Bonus VP / EXP: the battle result screen) are still
   unshown: the learn path needs a real skill id in the list (own one via `setbytes.lua` on +0x53C before mode 16)
   or the post-battle learn screen.
+
+## Forced screens, false pointers (2026-11-18, 25th worker)
+
+- **Probe helpers**: `tools/lua/loopdraw.lua` replays one draw N times (`LOOP_FROM` = start of the argument setup,
+  `SET_AT` + `REG` + `BASE` = the index register, `BACK_AT` = the instruction after the call) and can swap a task
+  callback once first (`ENTRY_AT ENTRY_REG ENTRY_VAL`). The box typer (`0x08073064`) reads lazily, so a looped box
+  message counts only the last one: run box messages one per run. `setbytes.lua` gained `SB_N` (when another probe
+  reads `N`) and `UNTIL` (last frame, for a one-shot poke). Probes share globals: check var names before combining.
+- **Battery save**: a run that reaches the save code leaves `tools/mesen/Saves/<rom>.sav`, and the next cold boot
+  skips character creation (every RPG warp then stalls at "phase creation"). `warp.py` now deletes it before a run.
+- **Mode 8 arg** (byte `0x030029DC`, not `mode_arg`): 0 Box, 1 Arm Set, 2 List, 3 Password (tables ROM 0x76C70/74).
+- **Arm detail pages** (struct `*0x03002BF4`): page = +0x4C kind (table EWRAM 0x0200B16C) + sub (shop: byte
+  `0x03002DB4`); callbacks EWRAM 0x0200B154 (ROM 0xEE898). The header draws the Arm type (r076d28-r076dc8, Guest
+  A-C too): `warp.py shop_buy_arm --var PROFILE=1 --var N=134 --var HOOK=0x0806A40E --var REG=3` + setbytes
+  `ADDR=0x03002DB4 SB_N=1 VAL=1` + 133 B/A pairs (`work/qa/cover/ids/armtypes`). Arm id 134 = Defense Seal
+  (FIRST=134 N=1, `arm134`; its icon is a 防 seal graphic).
+- **Armalet Size** numbers r076e3c-r076eb4 = Armalet record +0x1C through EWRAM 0x0200B1A4 on the field-menu Armalet
+  Data screen: `warp.py menu_armalet` + loopdraw `LOOP_FROM=0x0804E8D6 SET_AT=0x0804E8DC BACK_AT=0x0804E8EA REG=1
+  N=16` (`armsize`).
+- **Item discard confirm** r076e00: mode 14 state byte `*(0x030030A0)+8` (callbacks ROM 0xEE8C4); poke 4 once
+  (setbytes `PTR=0x030030A0 OFF=8 VAL=4 FROM=400 UNTIL=400`) → "Is this OK?" + Sure/No (`md14ok`).
+- **VRX points result** (Points Earned / Target Points): callback `0x08068A11` (result byte 0x03003557 = 2); in
+  `vrx_fight` swap the DRAW install at `0x08068FE6` (regcycle `REG=1 BASE=0x08068A11 N=1`, `vrxpoints`). The
+  screen draws over the DRAW layout (garbled panel), the labels fit their 96/112 px fields.
+- **Vattleague rank** (op 0x33 → `0x080370F8`, task `0x0803727D`, needs byte 0x030047F9 != -1): `pcmenu.lua OP=0x33`
+  in rpg_town; title = EWRAM 0x020094C4[*(0x03002A90)+0x2D4] (0-9 Match 1-9, 10 Final): loopdraw `LOOP_FROM=
+  0x08037308 SET_AT=0x08037324 BACK_AT=0x08037332 REG=1`; rows = roster ids at 0x030047C8.. (negative = player
+  slots), class letter = roster +0x20 → C/B/A (setbytes `ADDR=0x030047C8 SB_N=32 VAL=11|1|3`, `matchres*`).
+- **V-Pon messages** (op 0x19, chain from `0x08036A48`, table EWRAM 0x02009498): `0x08037030` prints
+  table[byte 0x0300478B] (4 VP transferred, 5 Not enough VP, 6 V Box full, 7 Save failed); `0x08036E6C` starts the
+  save chain (Saving... / Don't turn off power. / Saved.). Swap the callback at `0x08036A68` (loopdraw
+  `ENTRY_AT=0x08036A68 ENTRY_REG=1 ENTRY_VAL=0x08037031|0x08036E6D`) + setbytes `ADDR=0x0300478B FROM=4200`
+  (`vpmsg_4..6`, `vpsave`).
+- **False string pointers** (`text.FALSE_PTRS`): 12 aligned words equal to 0x08000000 + a string offset but not
+  pointers (a V Skill record's data field at 0x1D870, graphics data 0x96F44-0xC2D18, link block 0xF0B38/40,
+  0x7FF9BC); the build had overwritten all of them. The dump now skips them (11 alias ids gone).

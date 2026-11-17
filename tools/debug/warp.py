@@ -115,6 +115,9 @@ def run(scene, rom, outroot, state, sheet):
     out.mkdir(parents=True, exist_ok=True)
     # which build this run's probe logs belong to (tools/cover.py maps logs to ids by it)
     (out / "build.sha1").write_text(hashlib.sha1(Path(rom).read_bytes()).hexdigest() + "\n", encoding="utf-8")
+    # a warp is a cold boot with no save: a run that reached the game's save code (V-Pon save chain, data screen)
+    # leaves Mesen's battery file tools/mesen/Saves/<rom>.sav, and the next boot then skips character creation
+    (ROOT / "tools" / "mesen" / "Saves" / (Path(rom).stem + ".sav")).unlink(missing_ok=True)
     with open(out / "emu.out", "w", encoding="utf-8") as f:
         r = subprocess.run(cmd, stdout=f, stderr=subprocess.STDOUT, cwd=ROOT)
     log = (out / "log.txt").read_text(encoding="utf-8", errors="replace") if (out / "log.txt").exists() else ""

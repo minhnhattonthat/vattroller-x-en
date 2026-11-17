@@ -10,6 +10,17 @@ local function set(t)
   for k, v in pairs(t) do s[k] = v end
   emu.setState(s)
 end
+-- ENTRY_AT/ENTRY_REG/ENTRY_VAL (optional): at the first exec of ENTRY_AT set rENTRY_REG = ENTRY_VAL, e.g. swap the
+-- task callback a screen installs so the screen holding the draw runs at all (regcycle.lua would clash on REG/N).
+if ENTRY_AT then
+  local done = false
+  L.on_exec(ENTRY_AT, ENTRY_AT, function()
+    if done then return end
+    done = true
+    set({ ["cpu.r" .. ENTRY_REG] = ENTRY_VAL })
+    L.log(string.format("LOOPDRAW entry r%d=%x f%d", ENTRY_REG, ENTRY_VAL, L.frame))
+  end)
+end
 L.on_exec(SET_AT, SET_AT, function()
   if i >= n then return end
   set({ ["cpu.r" .. REG] = base + i })
