@@ -101,7 +101,8 @@ def run(scene, rom, outroot, state, sheet):
         if k.lower() in scene:
             cmd += ["--var", f"{k}={lua_str(scene[k.lower()])}"]
     if state:
-        cmd += ["--var", f"STATE_OUT={lua_str((ROOT / 'work' / 'states' / (scene['name'] + '.mss')).as_posix())}"]
+        # emu.py sets the STATE_OUT global from --state-out (it refuses --var for its own globals); warp.lua saves it
+        cmd += ["--state-out", (ROOT / "work" / "states" / (scene["name"] + ".mss")).as_posix()]
     if "node" in scene:
         cmd += ["--var", f"NODE=0x{node_addr(rom, scene['node']):08X}"]
     for s in scene.get("scripts", []):
