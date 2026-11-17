@@ -11,7 +11,8 @@ by `tools/batches.py check` - judge translation quality. Return the report as yo
   limited to the Japanese pixel width). Dialogue sentences flow across consecutive rows of a script: judge the
   meaning per script/box, not per row. ROM string lists may be column-interleaved (one item's lines spread over the
   list); judge them loosely.
-- `glossary.md` (rulings, style rules, names, terms; binding), `docs/translator-brief.md`, `docs/decisions.md`.
+- `glossary.md` (rulings, style rules, names, terms; binding), `docs/style-reference.md` (voice table: judge each
+  voice against it), `docs/synopsis.md`, `docs/translator-brief.md`, `docs/decisions.md`.
 - Glyph codes: `∴` = player's name, `∇` = "!!", `≡` = "!?", `[XX]` = raw bytes. The player is "you".
 
 ## Judge

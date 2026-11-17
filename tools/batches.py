@@ -34,7 +34,10 @@ def glossary_waivers():
 TOKEN = re.compile(r"\[[^\]\n]*\]|∴")  # raw byte codes [XX] (text.TOKEN) and the player-name code ∴
 FREE = set()  # one row is one line here: no layout codes
 VARIABLE = r"\[var[^\]]*\]"  # this game draws no numbers inside text rows
-HONORIFICS = {}  # D1 keeps honorifics, but さん/ちゃん also end common nouns (おじさん): no automatic check
+# D1 keeps honorifics. さん/ちゃん also end common nouns (おじさん), so only a name from glossary.md §Characters
+# (or the player-name code ∴) followed by one of these suffixes is checked: "コマチさん" needs "Komachi-san".
+HONORIFICS = {"さん": "-san", "くん": "-kun", "君": "-kun", "ちゃん": "-chan", "さま": "-sama", "様": "-sama",
+              "先生": "-sensei", "せんせい": "-sensei", "先輩": "-senpai", "せんぱい": "-senpai"}
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 FORM = {"0x0000": "box", "0x0200": "+", "0x0400": "clr", "0x0600": "clr+"}  # line flags (docs/re/font.md §Width gate)
 
@@ -163,10 +166,37 @@ def problems(entry, en, terms):
         elif any(has_term(jp_plain, j) for j in jps) and not any(e.lower() in box_en.lower() for e in ens):
             out.append(f"glossary: {jps[0]} -> {ens[0]}")
         out += [f"glossary Avoid: {a}" for a in avoid if re.search(rf"\b{re.escape(a)}\b", en)]
-    for jp_form, en_form in HONORIFICS.items():
-        if jp_form in jp_plain and en_form.lower() not in en.lower():
-            out.append(f"honorific {jp_form} needs {en_form}")
+    out += honorific_problems(entry.get("id"), jp, box_en, waived)
     return out + width_problems(entry, en)
+
+
+@functools.lru_cache(maxsize=None)
+def character_names():
+    """[(JP forms, EN forms)] from glossary.md's ## Characters table, plus the player-name code ∴ and Jin
+    (ジン is ruled in glossary §Rulings, not a table row, so lines may drop his name; his honorifics stay)."""
+    rows, on = [(["∴"], ["∴"]), (["ジン"], ["Jin", "Jin Tsukahara"])], False
+    if GLOSSARY.exists():
+        for line in GLOSSARY.read_text(encoding="utf-8").splitlines():
+            if line.startswith("## "):
+                on = line.strip() == "## Characters"
+            elif on and line.startswith("|"):
+                cells = [c.strip() for c in line.strip().strip("|").split("|")]
+                if len(cells) >= 2 and cells[0] not in ("JP", "") and not set(cells[0]) <= set("-: "):
+                    rows.append(([x.strip() for x in cells[0].split("/")], [x.strip() for x in cells[1].split("/")]))
+    return rows
+
+
+def honorific_problems(row_id, jp, box_en, waived=frozenset()):
+    """A ruled name + honorific in this row's JP whose "<EN name>-<suffix>" is missing from the box's English."""
+    out = []
+    for jps, ens in character_names():
+        for j in jps:
+            for suffix, en_suffix in HONORIFICS.items():
+                term = j + suffix
+                if term in jp and (row_id, term) not in waived:
+                    if not any(f"{e}{en_suffix}".lower() in box_en.lower() for e in ens):
+                        out.append(f"honorific: {term} -> {ens[0]}{en_suffix}")
+    return out
 
 
 def index():

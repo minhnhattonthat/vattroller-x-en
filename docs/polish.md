@@ -5,28 +5,28 @@ refuses to run while any line is unticked.
 
 ## Width-forced abbreviations and cuts (phase 8: measure the screen, then fix or waive)
 
-- [ ] r009ca4 - "Roll aura atk": "atk" abbreviation (14 px-chars); "Roll aura attack" if the box allows
-- [ ] r009cec - "AP & aura atk": "atk" abbreviation; "AP & aura attack"
+- [x] r009ca4 - "Roll aura atk": "atk" abbreviation (14 px-chars); "Roll aura attack" if the box allows (fixed: "Roll aura attack", sibling budget 96 px)
+- [x] r009cec - "AP & aura atk": "atk" abbreviation; "AP & aura attack" (fixed)
 - [ ] r013ebc - "High aura atk,": "atk" abbreviation; "High aura attack,"
 - [ ] r008f08 - "faster ball" stands in for 球スピードＵＰ "ball speed UP" (12)
-- [ ] r00e8a0 - "Katsu Gym" for かっとびジム: "Katsutobi Gym" (11)
-- [ ] r00e8cc - "Beach" for だんだ浜 (also r00e8d8 r00e8e4 r00e8f0 r00ea1c): "Dandahama" (8)
-- [ ] r00e938 - "Mamaru VR" for まんまる中ＶＲ場 (also r00e958 r00e96c r00ea28 r00ea3c r07b654): "Mamaru Middle VR"
-- [ ] r00e94c - "Mamaru M." for まんまる中: "Mamaru Middle" (10)
-- [ ] r00e9f8 - "Tamari" for たまり村: "Tamari Village" (8)
-- [ ] r00ea90 - "Harukawa" for はるかわ道場 (also r00eb14): "Harukawa Dojo" (12)
-- [ ] r00e12c - "North Mamaru" / r00e138 "South Mamaru" (also r00ea80 r00eb04): "North Mamaru Town" if it fits
+- [x] r00e8a0 - "Katsu Gym" for かっとびジム: "Katsutobi Gym" (11) (fixed; place-table field holds r00e770's 108 px)
+- [x] r00e8cc - "Beach" for だんだ浜 (also r00e8d8 r00e8e4 r00e8f0 r00ea1c): "Dandahama" (8) (fixed)
+- [ ] r00e938 - "Mamaru VR" for まんまる中ＶＲ場 (also r00e958 r00e96c r00ea28 r00ea3c r07b654): "Mamaru Middle VR" (fixed except r07b654, VRX stage list)
+- [x] r00e94c - "Mamaru M." for まんまる中: "Mamaru Middle" (10) (fixed)
+- [x] r00e9f8 - "Tamari" for たまり村: "Tamari Village" (8) (fixed)
+- [x] r00ea90 - "Harukawa" for はるかわ道場 (also r00eb14): "Harukawa Dojo" (12) (fixed)
+- [x] r00e12c - "North Mamaru" / r00e138 "South Mamaru" (also r00ea80 r00eb04): "North Mamaru Town" if it fits (fixed)
 - [ ] r01304c - "Kyubi Tachi" for キュウビノタチ: "Kyubi no Tachi" (13) to match "Ryuen no Tachi"
-- [ ] r006720 - "Brawler" for レスラー (also r004fa0 れすらー): "Wrestler" (7)
-- [ ] r006c5c - "Undef. 1" / r006c80 "Undef. 2" (debug NPC labels): "Undefined 1" (9)
-- [ ] r076a3c - "VR Ency." for ＶＲじてん: "VR Encyclopedia" (8)
+- [x] r006720 - "Brawler" for レスラー (also r004fa0 れすらー): "Wrestler" (7) (fixed)
+- [x] r006c5c - "Undef. 1" / r006c80 "Undef. 2" (debug NPC labels): "Undefined 1" (9) (fixed)
+- [x] r076a3c - "VR Ency." for ＶＲじてん: "VR Encyclopedia" (8) (fixed; Key Items list holds r076a28's 92 px)
 - [ ] r076b1c - "Fav. Word" for すきなことば: "Favorite Word" (12)
 - [ ] r076674 - "Beach Seaweed" for 弾打浜のワカメ: "Dandahama Seaweed" (14; glossary waived)
 - [ ] r076684 - "The tower's" for 真丸タワーの: "Mamaru Tower's" (11)
 - [ ] r076668 - "Tamari's" for 田万里村に (also r0766d4): "Tamari Village"
 - [ ] r07b858 - "Mamaru VR's" / r07b84c "own court" for 真丸中のＶＲ部 / せんようの: "Mamaru Middle VR Club's own court"
 - [ ] r07b6f0 - "Katsutobi VR" for 勝飛中ＶＲ場: "Katsutobi Middle VR"
-- [ ] c075dd8 - credit "Yabuno & Ganbarion" drops the given name of やぶのてんや (Tenya Yabuno): credits are fixed 20-char records
+- [x] c075dd8 - credit "Yabuno & Ganbarion" drops the given name of やぶのてんや (Tenya Yabuno): credits are fixed 20-char records (fixed: c075dac "Created by Ganbarion" / c075dd8 "and Tenya Yabuno"; the panel is the left 120 px, the scene fills the right half, so no wider record. Phase 8: look at it in the credits shot)
 - [ ] r0045dc - VRX quote "Vattrolling / is my way!" for きわめるぞ ("I'll master it!"): no 10-char wording found
 
 ## Reviewer Minors (phase 6 reviewer pass, codex, 2026-11-17)

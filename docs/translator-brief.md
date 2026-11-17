@@ -1,6 +1,7 @@
 # Translator brief - Vattroller X
 
-Read first: `glossary.md` (rulings, style rules, names; binding), then your batch's `build/terms_bNNN.txt`.
+Read first: `glossary.md` (rulings, style rules, names; binding), `docs/style-reference.md` (voice table, paired
+examples), `docs/synopsis.md` (chapters, who is who, reveals), then your batch's `build/terms_bNNN.txt`.
 
 ## Input
 `work/tl/bNNN.tsv`: `id<TAB>speaker<TAB>form<TAB>limit<TAB>jp`, in game order (file by file).

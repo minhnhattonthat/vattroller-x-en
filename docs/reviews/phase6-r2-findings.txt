@@ -1,0 +1,125 @@
+## m01
+- e2502_00338 - 「つかはらジンくん」 names champion Jin Tsukahara with **-kun** - Required honorific omitted - Suggested EN: `champion is Jin Tsukahara-kun!!`
+- e2515_001a0 - 「ねむっていただいてますので」 implies the kidnappers have put everyone to sleep - “Everyone is sleeping soundly” loses their responsibility and the sinister reassurance - Suggested EN: `We've put everyone to sleep.`
+## m02
+## m03
+**b024**
+- e2553_00274 - 「道場やぶりですか？」 means challenging a dojo's fighters to prove superiority. “Raid the dojo” suggests a physical attack or robbery. Suggested EN: `Or here to challenge our fighters?`
+**b028**
+- e2569_00194 - 「わいも　知っとるで」 means “I know about it too,” in Ikazuchi's dialect. “I know it too” loses his established drawl. Suggested EN: `Yeah, I know 'bout it too!`
+- e2569_00248 - 「タクミ　まかせたで」 hands the explanation to Takumi. “You take it” sounds unnatural here and flattens Ikazuchi's voice. Suggested EN: `Takumi, I'm leavin' this to ya!`
+- e2569_00780 - 「いい　ひびきや！」 means “It sounds good!” The punchline works, but Ikazuchi's dialect remains too faint across this exchange. Suggested EN: `but it's got a nice ring to it, eh!`
+- e2570_00174 - 「自分たちの実力を」 refers here to teaching the challengers their own level, rather than demonstrating the twins' strength. Suggested EN: `We'll show you just`
+- e2570_00190 - 「わからせて　あげますよ　レディ！」 completes that condescending threat. “How strong we are” changes its target. Suggested EN: `how weak you are, little lady!`
+## m04
+- e2588_004bc - 「この人数で…負けるわけにはいかねえ」 means they cannot afford the humiliation of losing with superior numbers. “There's no way we can lose” changes desperate resolve into confidence. Suggested EN: `W-we can't afford to lose`
+- e2588_004e4 - Continuation of the same threat; preserve the numerical advantage. Suggested EN: `when we outnumber you like this!`
+- e2603_01674 - 「どこかのぉ」 marks an elderly speaker; the English loses the only voice cue in this short appearance. Suggested EN: `Where's Globe Department Store, eh?`
+## m05
+**b040**
+- e2607_004e8 - 「ジンくん」, Jin-kun - Drops the honorific from the preceding Japanese row. Suggested EN: `Jin-kun at Vattrolling!`
+- e2607_00570 - 「ジンくんのおよめさん」, Jin-kun's bride - Drops the honorific. Suggested EN: `I'm gonna be Jin-kun's bride!`
+- e2607_00598 - 「ジンくんって」, speaking about Jin-kun - Drops the honorific. Suggested EN: `'Cause Jin-kun won the`
+- e2606_02740 - 「べんりじゃの～」, handy, with elderly diction - The old man's voice becomes neutral. Suggested EN: `the V Shop doesn't. Handy, eh?`
+- e2606_02a38 - 「べんりじゃの～」 - Same elderly voice loss in the repeated dialogue. Suggested EN: `the V Shop doesn't. Handy, eh?`
+- e2607_01360 - 「心して」, carefully/mindfully - “With all your heart” changes a warning to stay alert into encouragement to show passion. Suggested EN: `Keep your wits about you and Roll!`
+- e2608_00318 - 「ウナギケーキ」, Eel Cake - Item name should match the binding capitalization. Suggested EN: `What? It's an Eel Cake!?`
+**b044**
+- e2612_004a8 - 「ジンくんのおかげで」, thanks to Jin-kun - Drops the honorific. Suggested EN: `Thanks to Jin-kun, Mamaru Middle`
+- e2612_00820 - 「ジンくん」, Jin-kun - Drops the honorific. Suggested EN: `Where did Jin-kun run off to~?`
+- e2612_00400 - 「がんばっとるようだの」, seems to be working hard - Elderly diction is flattened throughout this speech. Suggested EN: `seems to be working hard, eh?`
+- e2612_004d0 - 「ゆうめいになったわい！」, became famous, with elderly emphasis - Elderly voice is lost. Suggested EN: `shot to fame overnight, eh!`
+## m06
+- e2623_00980 - 「バトローリングとともにあゆむ」 describes Globe Corp. as advancing alongside Vattrolling - “Walk with Vattrolling” incorrectly turns the company slogan into an instruction. Coordinate with the following row - suggested EN: `Welcome to Globe Corp.! Growing`
+- e2623_009ac - 「ともにあゆむ グローブ社へようこそ！」 completes that welcome - complete the corrected slogan - suggested EN: `together with Vattrolling!`
+- e2623_0192c - 「ひとがたがとても弱い」 means very weak in human form - “Its body” loses the gameplay distinction between human form and Rolls - suggested EN: `Very weak in human form,`
+- e2625_002e8 - 「す～ぱ～マスター」 means “Super Master,” playfully drawn out - “Su-pa-a” leaves an English loanword untranslated and obscures the earned rank - suggested EN: `Now you're a Suuuper Master!`
+- e2639_00134 - 「いっしょに戦えて…こうえいです」 expresses honor at competing together - “fight alongside” implies teammates, which the Japanese does not establish - suggested EN: `compete with you!`
+- e2640_00448 - 「ぶいぶい言わせとる」 means making a splash or enjoying prominence - “throwing their weight around” introduces bullying or abuse of authority - suggested EN: `been making a name for yourself!`
+- e2640_0048c - 「ワシもぶいぶい言わせたのに！」 means the old man could also be making a splash - preserve his boast without the added bullying implication - suggested EN: `I'd be making a name for myself!`
+## m07
+- e2652_00368 - 「ママも すっかりファンになっちゃった」 means Mom became a fan too - “I'm a big fan” wrongly assigns Mom's reaction to the child speaking - Suggested EN: `and Mom became a big fan, too.`
+- e2650_00928 - 「よろしくおねがいしま～す」 is a cheerful pre-match courtesy here - “Pleased to meet you” incorrectly treats accepting practice as an introduction - Suggested EN: `Let's have a good match!`
+- e2667_00100 - 「おくがふかいのぉ……」 means the combinations have considerable depth, with an elderly voice - “sure are deep” loses that voice and sounds vague - Suggested EN: `have quite some depth, eh...?`
+- e2667_001b0 - 「こめて 戦うのじゃ！」 completes the elder's advice to fight using one's life experience - The translation flattens the marked elderly register - Suggested EN: `Vattrolling and fight, my boy!`
+## m08
+- e2687_00f68 - 「オフィシャルルールに サバイバルルール」 names two rulesets - Use the binding glossary capitalization - Suggested EN: `Official Rules, Survival Rules,`
+- e2687_0146c - 「がんばるのは よいことじゃ」 praises hard work in an elderly voice - The elder's register is flattened - Suggested EN: `Hard work does you good, my boy.`
+- e2687_01d64 - 「てまえのイチバンおくの部屋」 specifies the farthest room on the near side - “At the far end” omits part of the directions - Suggested EN: `It's the farthest room on this side.`
+- e2687_01f4c - 「形になってきたんじゃない？」 says the club is taking shape - Following “Looks like our Vattrolling club,” the new subject “It's” breaks the sentence - Suggested EN: `is really taking shape, huh?`
+- e2700_010bc - 「なんや なんや」 is Ikazuchi's surprised Kansai speech - This exchange loses his established drawl - Suggested EN: `What's all this fuss, eh?`
+## m09
+## m10
+- r005310 - 「しつもん大好き」 means he loves questions - “Loves asking” leaves out what he asks - suggested EN: `Inquisitive`
+- r005364 - 「かくとうぎを」 begins his ambition to master martial arts - “Martial-arts fan” loses that ambition; revise this profile across four rows - suggested EN: `He sought`
+- r005374 - 「きわめるつもりが」 means he intended to achieve mastery, but something changed - Restore the intended mastery - suggested EN: `martial mastery,`
+- r005388 - 「バトローラーに」 identifies what he became instead - Continue the revised sentence - suggested EN: `but became a`
+- r005398 - 「めざめてしまった」 means he discovered his calling as a Vattroller - “born anew” introduces a different idea - suggested EN: `Vattroller!`
+- r0057b0 - 「ぼくめつ委員会」 identifies the Fake Kansai Patrol - Reflow with the following correction to his position - suggested EN: `Patrol acting`
+- r0057c0 - 「委員長代理」 means acting chief, not vice-chief - These are different positions - suggested EN: `chief`
+- r0093e4 - 「ロールこうげきを」 means Roll attack - “atk” is an unauthorized abbreviation - suggested EN: `HP & Roll attack`
+- r00942c - 「ロールこうげきを」 means Roll attack - Same abbreviation - suggested EN: `AP & Roll attack`
+- r00949c - 「こんき」 means perseverance or patience - “Pluck” means courage, changing the trait - suggested EN: `Grit`
+- r0094a4 - 「こんきのある心は」 means a persevering spirit - “plucky” repeats the change to courage - suggested EN: `A tenacious mind`
+- r0097c4 - 「球Ａこうげきが」 means ball-form A attack - Expand “atk”; the source’s Latin-letter A can remain - suggested EN: `ball A attack`
+- r009868 - 「球こうげきＵＰ」 means ball attack increases - Expand “atk” - suggested EN: `ball attack UP`
+- r0098d0 - 「球ＡこうげきＵＰ」 means ball-form A attack increases - “ball aura UP” omits attack and obscures the affected stat - suggested EN: `ball A attack UP`
+- r0098f8 - 「人Ａこうげきが」 means body-form A attack - Expand “atk”; retain the source’s A - suggested EN: `body A attack`
+- r009938 - 「球スピードＵＰ」 means ball speed increases - Expand “spd” - suggested EN: `ball speed UP`
+- r009a00 - 「ＨＲからすばやく／ふっきだ」 means recover quickly **from** HR - “via HR” makes HR the recovery method instead - suggested EN: `from HR`
+- r009bcc - 「ロールこうげきを」 means Roll attack - Expand “atk” - suggested EN: `HP & Roll attack`
+- r009c30 - 「ロールこうげきを」 means Roll attack - Expand “atk” - suggested EN: `AP & Roll attack`
+## m11
+!!NOSECTION ## Issues
+### Critical
+### Important
+**b088**
+- r00e1d8 - 「グローブデパート１Ｆ」, department store - “Dept.” violates the no-abbreviation ruling - Suggested EN: `Globe Department Store 1F`.
+- r00e1f0 - 「グローブデパート２Ｆ」 - Same abbreviation - Suggested EN: `Globe Department Store 2F`.
+- r00e208 - 「グローブデパート３Ｆ」 - Same abbreviation - Suggested EN: `Globe Department Store 3F`.
+- r00e23c - 「社長室」, president's office - “CEO” labels a person rather than the room - Suggested EN: `President's Office`.
+- r00e508 - 「教室１－１」, classroom - “Rm” violates the no-abbreviation ruling - Suggested EN: `Classroom 1-1`.
+- r00e514 - 「教室２－１」 - Same abbreviation - Suggested EN: `Classroom 2-1`.
+- r00e520 - 「教室２－２」 - Same abbreviation - Suggested EN: `Classroom 2-2`.
+- r00e52c - 「教室３－１」 - Same abbreviation - Suggested EN: `Classroom 3-1`.
+- r00e538 - 「教室３－２」 - Same abbreviation - Suggested EN: `Classroom 3-2`.
+- r00e544 - 「せいと会室」, student council room - Abbreviates “Room” and omits “Student” - Suggested EN: `Student Council Room`.
+- r00e5b4 - 「教室１－Ａ」 - “Rm” abbreviation - Suggested EN: `Classroom 1-A`.
+- r00e5c0 - 「教室２－Ａ」 - Same abbreviation - Suggested EN: `Classroom 2-A`.
+- r00e5cc - 「教室２－Ｂ」 - Same abbreviation - Suggested EN: `Classroom 2-B`.
+- r00e5d8 - 「教室３－Ａ」 - Same abbreviation - Suggested EN: `Classroom 3-A`.
+- r00e604 - 「せいとかい室」, student council room - Same shortened label - Suggested EN: `Student Council Room`.
+- r00e6f8 - 「社長室」, president's office - “CEO” names the occupant - Suggested EN: `President's Office`.
+- r00e700 - 「社長室」 - Same mistranslation - Suggested EN: `President's Office`.
+- r00e718 - 「かっとび中」, Katsutobi Middle - School name is truncated despite the full form elsewhere - Suggested EN: `Katsutobi Middle`.
+- r00e7a0 - 「まんまる中部室」, Mamaru Middle's clubroom - “Mamaru Club” drops the school designation and room - Suggested EN: `Mamaru Middle Clubroom`.
+- r00e7f0 - 「社長室」, president's office - “CEO” names the occupant - Suggested EN: `President's Office`.
+Full location labels require the engine-width remedy prescribed by D4 wherever the existing ROM allocation cannot accommodate them; the supplied pairs do not include individual pixel budgets.
+**b092**
+- r014704 - 「ロールをはじく」, repels Rolls - Across these three rows, the JP describes firing balls that repel Rolls; English incorrectly separates these into two functions - Suggested EN: `New Bounder:`.
+- r014714 - 「タマをうつ新がた」, a new model that fires balls - Continue the corrected description - Suggested EN: `fires balls to`.
+- r014728 - 「のバウンダー」, Bounder - Complete the relationship between the balls and Rolls - Suggested EN: `repel Rolls`.
+- r014748 - 「Ａこうげきが」, aura attack - Redistribute the description to remove the unauthorized “atk” abbreviation - Suggested EN: `High aura`.
+- r014758 - 「とても高い」, very high - “atk” violates the no-abbreviation ruling - Suggested EN: `attack`.
+- r014924 - 「ひでんの書」, a book of secret teachings - Omitting the book obscures why this Arm's corners hurt and weakens the joke - Suggested EN: `
+## m12
+**b096**
+- r017650 - 「ホロウＳ」 means “Hollow S” - “Void S” unnecessarily renames the Arm - suggested EN: `Hollow S`.
+- r0176dc - 「ホロウＨ」 means “Hollow H” - Same name substitution - suggested EN: `Hollow H`.
+- r0178e4 - 「シェル」 means “Shell” - “Hull” changes the Arm's name - suggested EN: `Shell`.
+- r017964 - 「シェルＳ」 means “Shell S” - Same name substitution - suggested EN: `Shell S`.
+- r0179e8 - 「シェルＨ」 means “Shell H” - Same name substitution - suggested EN: `Shell H`.
+**b100**
+- r077ad4 - 「ツバサ」 is Tsubasa - “Sora” substitutes a different name. `Tsubasa` requires seven slots; no faithful version fits the stated six-slot field. Expand the field under D4.
+- r07b168 - 「じかんないに」 means “within the time limit” - The three-row rule currently reads awkwardly and changes dropping many opponents into dropping everyone. Reflow with the following two rows - suggested EN: `Drop as many`.
+- r07b154 - 「あいてをたくさん」 means “many opponents” - Continue the rule without the unnatural colon - suggested EN: `foes as you can`.
+- r07b140 - 「ドロップしよう∇」 means “Drop them!!” - Complete the reflow while retaining the time restriction - suggested EN: `in time!!`.
+- r07b204 - 「真丸中ＶＲ場」 names Mamaru Middle's VR arena - “Mamaru VR” omits both the school designation and the facility. Full wording: `Mamaru Middle VR Arena`; requires width expansion under D4.
+- r07b2a4 - 「勝飛中ＶＲ場」 names Katsutobi Middle's VR arena - “Katsutobi VR” likewise truncates the location. Full wording: `Katsutobi Middle VR Arena`; requires width expansion under D4.
+## m13
+- r0f0d98 - 「真丸中ＶＲ場」 means Mamaru Middle's VR court - “Mamaru VR” drops the school and court designation - suggested EN: `Mamaru Middle VR Court`.
+- r0f11e8 - 「真丸中ＶＲ場」 means Mamaru Middle's VR court - Same abbreviated location name - suggested EN: `Mamaru Middle VR Court`.
+- r0f0e38 - 「勝飛中ＶＲ場」 means Katsutobi Middle's VR court - “Katsutobi VR” drops the school and court designation - suggested EN: `Katsutobi Middle VR Court`.
+- r0f1284 - 「勝飛中ＶＲ場」 means Katsutobi Middle's VR court - Same abbreviated location name - suggested EN: `Katsutobi Middle VR Court`.
+- r0f13ec - 「真丸中のＶＲ部」 means Mamaru Middle's VR Club - “Mamaru VR's” loses both the school designation and club identity - suggested EN: `Mamaru Middle's VR Club's`.
+The full-name corrections require width accommodation under D4; the supplied material does not establish that they fit these ROM fields.

@@ -2343,7 +2343,7 @@
   "id": "r004fa0",
   "kind": "string",
   "jp": "れすらー",
-  "en": "Brawler",
+  "en": "Wrestler",
   "status": "done",
   "ptrs": [
    "0x1788"
@@ -6721,7 +6721,7 @@
   "id": "r006720",
   "kind": "string",
   "jp": "レスラー",
-  "en": "Brawler",
+  "en": "Wrestler",
   "status": "done",
   "ptrs": [
    "0x30a0"
@@ -7128,7 +7128,7 @@
   "id": "r006c5c",
   "kind": "string",
   "jp": "みていぎ１",
-  "en": "Undef. 1",
+  "en": "Undefined 1",
   "status": "done",
   "ptrs": [
    "0x3d58"
@@ -7139,7 +7139,7 @@
   "id": "r006c80",
   "kind": "string",
   "jp": "みていぎ２",
-  "en": "Undef. 2",
+  "en": "Undefined 2",
   "status": "done",
   "ptrs": [
    "0x3db0"
@@ -11144,7 +11144,7 @@
   "id": "r009ca4",
   "kind": "string",
   "jp": "ロールＡこうげき",
-  "en": "Roll aura atk",
+  "en": "Roll aura attack",
   "status": "done",
   "ptrs": [
    "0x8020"
@@ -11188,7 +11188,7 @@
   "id": "r009cec",
   "kind": "string",
   "jp": "ＡＰとＡこうげき",
-  "en": "AP & aura atk",
+  "en": "AP & aura attack",
   "status": "done",
   "ptrs": [
    "0x8040"
@@ -16028,7 +16028,7 @@
   "id": "r00e12c",
   "kind": "string",
   "jp": "真丸町北",
-  "en": "North Mamaru",
+  "en": "North Mamaru Town",
   "status": "done",
   "ptrs": [
    "0xbcc0"
@@ -16039,7 +16039,7 @@
   "id": "r00e138",
   "kind": "string",
   "jp": "真丸町南",
-  "en": "South Mamaru",
+  "en": "South Mamaru Town",
   "status": "done",
   "ptrs": [
    "0xbce8"
@@ -17733,7 +17733,7 @@
   "id": "r00e8a0",
   "kind": "string",
   "jp": "かっとびジム",
-  "en": "Katsu Gym",
+  "en": "Katsutobi Gym",
   "status": "done",
   "ptrs": [
    "0xd4f8"
@@ -17766,7 +17766,7 @@
   "id": "r00e8cc",
   "kind": "string",
   "jp": "だんだ浜",
-  "en": "Beach",
+  "en": "Dandahama",
   "status": "done",
   "ptrs": [
    "0xd570"
@@ -17777,7 +17777,7 @@
   "id": "r00e8d8",
   "kind": "string",
   "jp": "だんだ浜",
-  "en": "Beach",
+  "en": "Dandahama",
   "status": "done",
   "ptrs": [
    "0xd598"
@@ -17788,7 +17788,7 @@
   "id": "r00e8e4",
   "kind": "string",
   "jp": "だんだ浜",
-  "en": "Beach",
+  "en": "Dandahama",
   "status": "done",
   "ptrs": [
    "0xd5c0"
@@ -17799,7 +17799,7 @@
   "id": "r00e8f0",
   "kind": "string",
   "jp": "だんだ浜",
-  "en": "Beach",
+  "en": "Dandahama",
   "status": "done",
   "ptrs": [
    "0xd5e8"
@@ -17854,7 +17854,7 @@
   "id": "r00e938",
   "kind": "string",
   "jp": "まんまる中ＶＲ場",
-  "en": "Mamaru VR",
+  "en": "Mamaru Middle VR",
   "status": "done",
   "ptrs": [
    "0xd6b0"
@@ -17865,7 +17865,7 @@
   "id": "r00e94c",
   "kind": "string",
   "jp": "まんまる中",
-  "en": "Mamaru M.",
+  "en": "Mamaru Middle",
   "status": "done",
   "ptrs": [
    "0xd6d8"
@@ -17876,7 +17876,7 @@
   "id": "r00e958",
   "kind": "string",
   "jp": "まんまる中ＶＲ場",
-  "en": "Mamaru VR",
+  "en": "Mamaru Middle VR",
   "status": "done",
   "ptrs": [
    "0xd700"
@@ -17887,7 +17887,7 @@
   "id": "r00e96c",
   "kind": "string",
   "jp": "まんまる中ＶＲ場",
-  "en": "Mamaru VR",
+  "en": "Mamaru Middle VR",
   "status": "done",
   "ptrs": [
    "0xd728"
@@ -17975,7 +17975,7 @@
   "id": "r00e9f8",
   "kind": "string",
   "jp": "たまり村",
-  "en": "Tamari",
+  "en": "Tamari Village",
   "status": "done",
   "ptrs": [
    "0xd868"
@@ -18008,7 +18008,7 @@
   "id": "r00ea1c",
   "kind": "string",
   "jp": "だんだ浜",
-  "en": "Beach",
+  "en": "Dandahama",
   "status": "done",
   "ptrs": [
    "0xd8e0"
@@ -18019,7 +18019,7 @@
   "id": "r00ea28",
   "kind": "string",
   "jp": "まんまる中ＶＲ場",
-  "en": "Mamaru VR",
+  "en": "Mamaru Middle VR",
   "status": "done",
   "ptrs": [
    "0xd908"
@@ -18030,7 +18030,7 @@
   "id": "r00ea3c",
   "kind": "string",
   "jp": "まんまる中ＶＲ場",
-  "en": "Mamaru VR",
+  "en": "Mamaru Middle VR",
   "status": "done",
   "ptrs": [
    "0xd930"
@@ -18074,7 +18074,7 @@
   "id": "r00ea80",
   "kind": "string",
   "jp": "まんまる町きた",
-  "en": "North Mamaru",
+  "en": "North Mamaru Town",
   "status": "done",
   "ptrs": [
    "0xd9d0"
@@ -18085,7 +18085,7 @@
   "id": "r00ea90",
   "kind": "string",
   "jp": "はるかわ道場",
-  "en": "Harukawa",
+  "en": "Harukawa Dojo",
   "status": "done",
   "ptrs": [
    "0xd9f8"
@@ -18173,7 +18173,7 @@
   "id": "r00eb04",
   "kind": "string",
   "jp": "まんまる町きた",
-  "en": "North Mamaru",
+  "en": "North Mamaru Town",
   "status": "done",
   "ptrs": [
    "0xdb38"
@@ -18184,7 +18184,7 @@
   "id": "r00eb14",
   "kind": "string",
   "jp": "はるかわ道場",
-  "en": "Harukawa",
+  "en": "Harukawa Dojo",
   "status": "done",
   "ptrs": [
    "0xdb60"
