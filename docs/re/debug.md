@@ -228,3 +228,31 @@ needs its arg meaning, scenes and id sweeps (next worker).
   ~20 draws, so it ran as FIRST=0/17/20/37/40/56 into `work/qa/cover/ids/specialnames*`). `SHOT=1 NOFLAGS=1
   FORMS={..} PARTS={..}` shows chosen names: "Death Lord  Catastrophe" fits (`work/qa/spn/shot2`); forms and
   parts hold at most 6 cells = 12 letters.
+
+## PC menu, shops, event ops (2026-11-18, 23rd worker)
+
+- **Windows**: `0x080712B8(id)` opens a menu window; the opener `0x080712E0` reads the id at IWRAM s8 `0x03002B00`,
+  geometry `0x080E1FC0 + id*12`, callbacks EWRAM `0x02008F20 + id*8` (= ROM 0xEC664, init/tick pairs). Id 6 =
+  field menu (Armalet / Key Items / Settings / Save, labels r0e20cc..), 7 = **PC menu** (Arm Set / Box / List /
+  Password, r0e2100..; drawer `0x08071770`), 8 = V-Pon / Quit, 9 = Buy / Sell / Quit (`0x080719B4`), 10-12 VP /
+  Back. Callers by id: 7 only at `0x08032A64`, 8 at `0x08036A62`, 6 at `0x080384C4` (the field-menu task).
+- **Event ops**: dispatch `0x08030B80` (`ldrb r0,[r2]` = op, r2 = command), jump table `0x08030B98` (ops
+  0-0x42); most cases set the continuation `*(0x03005500+0xEEC)`. Op 0x18 = room PC (`0x08032999`, ~30 rooms:
+  e2534, e2551, e2613...), op 0x19 = V-Pon machine (arg byte +4 = 0-3), op 0x29 = shop clerk (arg +4 = shop
+  0-0x15; the clerk's 4 lines come from table EWRAM `0x0200AD1C` = ROM 0xEE460, 16-byte records, index byte
+  +5 of the command: 0 V Shop, 1 "Rare" V Shop, 2 plain shop, 4 V Machine, 5 link group), ops 0x2A/0x2D-0x2F/
+  0x3E/0x1E/0x42/0x17/0x41 = link sessions ("One moment, please. / B Button: Cancel", wait forever offline).
+- `tools/lua/pcmenu.lua` makes the first command dispatched after warp phase "loaded" read as op `OP` (default
+  0x18), so `warp.py rpg_town --script tools/lua/pcmenu.lua` opens the PC menu from a cold boot (`REC=n` picks the
+  clerk set for op 0x29, `PRESS=n` clicks through). Down x3 + A = the **Password** screen.
+- **Password screen** (tick `0x0804EDC4`, struct `*(0x03003648)`, state +0x29, table ROM 0xEEE18): state 9
+  `0x0804FE3C` opens the box, 0xA prints unlock record +0xC, 0xB +0x10, 0xC waits for A. `tools/lua/vshopmsg.lua`
+  forces state 9 for records 0-37: all 76 V Shop unlock lines drawn (`work/qa/cover/ids/vshopmsg`, sheet.png;
+  each fits two box lines).
+- Owner map of what is still unshown (string pointer → nearest table base loaded by code): link sessions
+  `0x080336EC-0x08034F68` (r073fac-r074248), V-Pon/VP/save `0x08036A48-0x08037030` (r0742f0-r0743b8), match
+  results `0x0803727C` (r0743c4-r074474, Vattleague), V Skill trade `0x08039A48-0x0803C710` (r075e74-r076380,
+  "partner" text), V Skill forget/learn `0x0803CB10..`, `0x0803D494..`, Break Roll `0x0803E34C`, roster lists
+  `0x080404A8`, VS lobby O/X/Guest/roles `0x0804CAE0`/`0x0804D034`, numbers `0x0804E7A4`, win-quote/greeting
+  entry `0x0804EF78`/`0x0804EE4C` (default phrases) / grid `0x0804F308`, data delete `0x08054824`, points shop
+  `0x0806AA5C`/`0x0806B0BC` (stage names).
