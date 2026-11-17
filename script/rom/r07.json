@@ -1757,7 +1757,7 @@
   "id": "r076394",
   "kind": "string",
   "jp": "Ｖスキル『",
-  "en": "V Skill \"",
+  "en": "V Skill: \"",
   "status": "done",
   "ptrs": [
    "0xee640"
@@ -1867,7 +1867,7 @@
   "id": "r076460",
   "kind": "string",
   "jp": "Ｖスキル『",
-  "en": "V Skill \"",
+  "en": "V Skill: \"",
   "status": "done",
   "ptrs": [
    "0xee664"
@@ -1955,12 +1955,12 @@
   "id": "r0764e0",
   "kind": "string",
   "jp": "，",
-  "en": ",",
+  "en": "[00]",
   "status": "done",
   "ptrs": [
    "0x3dcb4"
   ],
-  "notes": ""
+  "notes": "VP thousands separator, strcat between two number parts (0x0803DC94). A 1-char string is padded with a space ('1, 005'), so it is an empty string (NUL first): the number part is padded to a cell itself, so VP reads '1 005' (D18, work/qa/cover/ids/vpcomma2)."
  },
  {
   "id": "r0764ec",

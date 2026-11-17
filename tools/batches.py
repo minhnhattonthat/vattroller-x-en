@@ -40,8 +40,9 @@ HONORIFICS = {"さん": "-san", "くん": "-kun", "君": "-kun", "ちゃん": "-
               "先生": "-sensei", "せんせい": "-sensei", "先輩": "-senpai", "せんぱい": "-senpai"}
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 # Rows whose English is meant to be blank: r077d50 = the ・ between Armalet form and name part in the Arm Set
-# Special box ("Salamand  Nova"; D17).
-BLANK_OK = {"r077d50"}
+# Special box ("Salamand  Nova"; D17); r0764e0 = the VP thousands separator, "[00]" = an empty string (D18).
+BLANK_OK = {"r077d50", "r0764e0"}
+EMPTY = "[00]"  # NUL first: a strcat'd piece that adds nothing (a 1-char string would be padded with a space)
 FORM = {"0x0000": "box", "0x0200": "+", "0x0400": "clr", "0x0600": "clr+"}  # line flags (docs/re/font.md §Width gate)
 
 
@@ -144,6 +145,8 @@ def glossary():
 def problems(entry, en, terms):
     """Every rule, on one line of English."""
     jp = entry["jp"]
+    if entry.get("id") in BLANK_OK and en == EMPTY:
+        return []
     if not en.strip():
         if entry.get("id") in BLANK_OK and en:
             return []

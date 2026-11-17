@@ -59,3 +59,8 @@ def test_marker_build_text_fits_every_budget():
 def test_translations_fit():
     e, _ = lint.lint(text.iter_rows(), B)
     assert not e, e[:10]
+
+
+def test_a_raw_nul_ends_the_visible_text():
+    assert lint.px("[00]") == 0
+    assert lint.px("ab[00]cdef") == 12
