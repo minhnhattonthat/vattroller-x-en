@@ -261,3 +261,35 @@ needs its arg meaning, scenes and id sweeps (next worker).
   `0x080404A8`, VS lobby O/X/Guest/roles `0x0804CAE0`/`0x0804D034`, numbers `0x0804E7A4`, win-quote/greeting
   entry `0x0804EF78`/`0x0804EE4C` (default phrases) / grid `0x0804F308`, data delete `0x08054824`, points shop
   `0x0806AA5C`/`0x0806B0BC` (stage names).
+
+## Shop messages, stage items, entry titles, data delete (2026-11-18, 24th worker)
+
+- **Jump-target event lines**: a text command reached only by a jump after a box close (op 0x0B, then op 0x00 with
+  flags 0x0000) stalls in `textsweep.lua` (no box open). Put the file's last op 0x0A node before it in the list:
+  `work/qa/cover/sweep3/e26b/nodes.txt` (e2618 + e2701, built from `strings_tsv.py --nodes`) drew all 25.
+  `textsweep.lua` needs an absolute `LIST` path.
+- `tools/lua/regcycle.lua` (`HOOK REG BASE N [START]`): set register rREG = BASE + (hit mod N) at every exec of HOOK.
+- **"Points shop" = the ordinary shop (mode 10)**: item-name getter `0x0806B0BC` (item byte 0 = type 1 Arm /
+  2 Tool / 3 VRX Data, byte 1 = id); VRX Data ids >= 0x5F (count word ROM 0x73DD8) are the 20 VRX **stages**
+  (EWRAM table 0x0200C618): `warp.py shop_vrxdata --script tools/lua/regcycle.lua --var HOOK=0x0806B102 --var REG=2
+  --var BASE=0x5F --var N=20` + 30 downs (`work/qa/cover/ids/stagenames`, "Death Roll Colosseum" fits). Buy
+  messages: `0x0806AA5C(task, r1 = index)` into EWRAM 0x0200C5E4 (ROM 0xEFD28: 0 "Thank you very much!",
+  1 "Not enough points!", 2 "No room in the Box!"); on the VRX Data tab buy with `a; up; a` and hook
+  `HOOK=0x0806AA5C REG=1 BASE=1|2 N=1` (`work/qa/cover/ids/shopmsg2`). The Arms tab says "You can't equip..." instead.
+  Unowned VRX Data rows draw `????????????` (`--var OWN_BYTES=0`); a bought row shows "Sold out".
+- **PC menu > List** (down x2 + A): tabs Arms / Tools / V Skills / Character / Friends (r07698c..), hint G19.
+  The "Bench" head r07696c is not among them (VS roster?).
+- **Entry-screen title** = `*(0x0200B4F0 + mode*4)` at `0x0804EFF4` (0 name, 1 Fav. Word, 2 password, 3 greeting,
+  4 win quote): `regcycle.lua --var HOOK=0x0804EFF4 --var REG=1 --var BASE=4 --var N=1 --var START=4300` on the
+  Password screen (`work/qa/cover/ids/entryb3`, `entryb4`; "Enter Win Quote" fits). Latin grid rows r077878-r0778f8
+  are read when a letter of that row is typed (ROM table 0xEEC88 = page 3): `work/qa/cover/ids/gridrows`.
+  `0x08050190` fills the buffer with "Box" (r077c70 via 0x0200B6D0) + a number (box naming, 3 callers in the entry
+  states `0x0804FBEC/0x0804FCB6/0x0804FDCA`): not reached yet.
+- **Data delete**: `warp.py md3 --set mode=3 --set mode_arg=0 --set "post=200 -;6 down;40 -;6 a;150 -" + 4x "6 up;30 -;6 a;150 -"`
+  shows all four confirms, "Deleting data." and "New Game" (`work/qa/cover/ids/datadel2`).
+- **Mode 16 (V Skill forget)** at a cold boot lists placeholder "Sturdy" rows; Sure returns to the list without the
+  "forgotten!" line, and its strings are the r07638c.. set (table EWRAM 0x0200AEDC = ROM 0xEE620: choose / OK to
+  forget / Forgotten... / learned! / forgotten! / V Skill" / "). The acquire set r076450-r076484 and Break Roll lines
+  r0764ec-r076594 (table 0xEE648..0xEE698, with V Points / VP / Bonus VP / EXP: the battle result screen) are still
+  unshown: the learn path needs a real skill id in the list (own one via `setbytes.lua` on +0x53C before mode 16)
+  or the post-battle learn screen.
