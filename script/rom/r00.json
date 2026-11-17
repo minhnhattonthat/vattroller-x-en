@@ -16985,7 +16985,7 @@
   "id": "r00e544",
   "kind": "string",
   "jp": "せいと会室",
-  "en": "Student Council",
+  "en": "Student Council Room",
   "status": "done",
   "ptrs": [
    "0xca58"
@@ -17183,7 +17183,7 @@
   "id": "r00e604",
   "kind": "string",
   "jp": "せいとかい室",
-  "en": "Student Council",
+  "en": "Student Council Room",
   "status": "done",
   "ptrs": [
    "0xcd28"

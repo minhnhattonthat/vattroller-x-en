@@ -28,8 +28,8 @@ refuses to run while any line is unticked.
 - [x] r07b6f0 - (fixed fx21, all four stage lists) "Katsutobi VR" for 勝飛中ＶＲ場: "Katsutobi Middle VR"
 - [x] c075dd8 - credit "Yabuno & Ganbarion" drops the given name of やぶのてんや (Tenya Yabuno): credits are fixed 20-char records (fixed: c075dac "Created by Ganbarion" / c075dd8 "and Tenya Yabuno"; the panel is the left 120 px, the scene fills the right half, so no wider record. Phase 8: look at it in the credits shot)
 - [x] r077ad4 - default player name ツバサ kept as "Sora" (not "Tsubasa"): the name buffer holds 6 fullwidth cells and the speaker tag 6; "Tsubasa" needs 7. The player renames freely; widening the buffer means moving save data (fixed after the phase-6 review: "Tubasa", Kunrei spelling of the same name, D10; an ASCII pair-glyph name was tried and garbles the speaker tag, `work/qa/tsubasa/`)
-- [ ] r00e1d8 r00e1f0 r00e208 - "Globe Store 1F/2F/3F" for グローブデパート (dialogue: "Globe Department Store", 25 chars > the 18-char area label); measure the label in phase 8, use the full name if the box holds it
-- [ ] r00e544 r00e604 - "Student Council" for せいと(かい)室 ("Student Council Room", 20 chars > 18); same label
+- [x] r00e1d8 r00e1f0 r00e208 - "Globe Store 1F/2F/3F" for グローブデパート (dialogue: "Globe Department Store", 25 chars > the 18-char area label); measure the label in phase 8, use the full name if the box holds it (measured 18th worker: the room-name banner draws at most 24 chars; "Globe Department Store 1F" lost its "F" in game, so "Globe Store 1F" stays; waived)
+- [x] r00e544 r00e604 - "Student Council" for せいと(かい)室 ("Student Council Room", 20 chars > 18); same label (fixed: "Student Council Room", banner limit 24 chars)
 - [x] r0045dc - VRX quote "Vattrolling / is my way!" for きわめるぞ ("I'll master it!"): no 10-char wording found (fixed after the phase-6 review: "I'll master / Vattrolling!", r0045dc sibling 96 px = widest profile line)
 
 ## Reviewer Minors (phase 6 reviewer pass, codex, 2026-11-17)
