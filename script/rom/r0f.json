@@ -135,7 +135,7 @@
   "id": "r0f0cd4",
   "kind": "string",
   "jp": "ドロップしよう∇",
-  "en": "Drop them all!!",
+  "en": "Drop lots!!",
   "status": "done",
   "ptrs": [
    "0xffbb0"
@@ -157,7 +157,7 @@
   "id": "r0f0cfc",
   "kind": "string",
   "jp": "じかんないに",
-  "en": "In the time,",
+  "en": "Time limit!",
   "status": "done",
   "ptrs": [
    "0xffba8"

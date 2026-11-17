@@ -528,7 +528,7 @@
   "id": "r004600",
   "kind": "string",
   "jp": "なぞの",
-  "en": "Boy w/",
+  "en": "Mystic",
   "status": "done",
   "ptrs": [
    "0xd40"
@@ -539,7 +539,7 @@
   "id": "r004608",
   "kind": "string",
   "jp": "アーマレットを",
-  "en": "odd Armalet",
+  "en": "Armalet's",
   "status": "done",
   "ptrs": [
    "0xd44"
@@ -550,7 +550,7 @@
   "id": "r004618",
   "kind": "string",
   "jp": "もつ少年",
-  "en": "in hand",
+  "en": "owner",
   "status": "done",
   "ptrs": [
    "0xd48"
@@ -1221,7 +1221,7 @@
   "id": "r0049b8",
   "kind": "string",
   "jp": "ほうふなちしきと",
-  "en": "council prez.",
+  "en": "council head.",
   "status": "done",
   "ptrs": [
    "0x1164"
@@ -1276,7 +1276,7 @@
   "id": "r004a08",
   "kind": "string",
   "jp": "こんじょうや！",
-  "en": "It's guts!",
+  "en": "Guts is all!",
   "status": "done",
   "ptrs": [
    "0x11b4"
@@ -2409,7 +2409,7 @@
   "id": "r004ff8",
   "kind": "string",
   "jp": "おきにいりの",
-  "en": "Trains with",
+  "en": "With his pet",
   "status": "done",
   "ptrs": [
    "0x17e8"
@@ -2420,7 +2420,7 @@
   "id": "r005008",
   "kind": "string",
   "jp": "アームで",
-  "en": "fav Arm",
+  "en": "Arm, he",
   "status": "done",
   "ptrs": [
    "0x17ec"
@@ -2431,7 +2431,7 @@
   "id": "r005014",
   "kind": "string",
   "jp": "修行中",
-  "en": "daily",
+  "en": "trains",
   "status": "done",
   "ptrs": [
    "0x17f0"
@@ -5434,7 +5434,7 @@
   "id": "r005f94",
   "kind": "string",
   "jp": "まだまだね",
-  "en": "Not yet.",
+  "en": "Try harder",
   "status": "done",
   "ptrs": [
    "0x275c"
@@ -6358,7 +6358,7 @@
   "id": "r006468",
   "kind": "string",
   "jp": "おせっきょう",
-  "en": "preacher",
+  "en": "lecturing",
   "status": "done",
   "ptrs": [
    "0x2bdc"
@@ -6468,7 +6468,7 @@
   "id": "r006508",
   "kind": "string",
   "jp": "世界一の剣豪",
-  "en": "world's best",
+  "en": "Top blade,",
   "status": "done",
   "ptrs": [
    "0x2c8c"
@@ -6479,7 +6479,7 @@
   "id": "r006518",
   "kind": "string",
   "jp": "海ぞくがりのゾロ",
-  "en": "swordsman Zoro",
+  "en": "pirate hunter",
   "status": "done",
   "ptrs": [
    "0x2c90"
@@ -8030,7 +8030,7 @@
   "id": "r0076f4",
   "kind": "string",
   "jp": "人タイプが強い",
-  "en": "Strong in body",
+  "en": "Body form ace",
   "status": "done",
   "ptrs": [
    "0x727c"
@@ -8603,7 +8603,7 @@
   "id": "r008e54",
   "kind": "string",
   "jp": "球こうげきＵＰで",
-  "en": "Ball atk UP:",
+  "en": "Ball attack UP",
   "status": "done",
   "ptrs": [
    "0x795c"
@@ -8724,7 +8724,7 @@
   "id": "r008f08",
   "kind": "string",
   "jp": "球スピードＵＰ",
-  "en": "ball spd UP",
+  "en": "faster ball",
   "status": "done",
   "ptrs": [
    "0x79b0"
@@ -9054,7 +9054,7 @@
   "id": "r0090e4",
   "kind": "string",
   "jp": "ＡこうげきをＵＰ",
-  "en": "aura atk UP",
+  "en": "aura attack UP",
   "status": "done",
   "ptrs": [
    "0x7aa4"
@@ -12101,7 +12101,7 @@
   "id": "r00a260",
   "kind": "string",
   "jp": "ＡこうげきをＵＰ",
-  "en": "aura atk UP",
+  "en": "aura attack UP",
   "status": "done",
   "ptrs": [
    "0x82ec"
@@ -12684,7 +12684,7 @@
   "id": "r00a5a4",
   "kind": "string",
   "jp": "ＡこうげきをＵＰ",
-  "en": "aura atk UP",
+  "en": "aura attack UP",
   "status": "done",
   "ptrs": [
    "0x8454"
@@ -13795,7 +13795,7 @@
   "id": "r00ac4c",
   "kind": "string",
   "jp": "人こうげきダウン",
-  "en": "body atk DOWN",
+  "en": "body attack DOWN",
   "status": "done",
   "ptrs": [
    "0x8704"
@@ -14312,7 +14312,7 @@
   "id": "r00af44",
   "kind": "string",
   "jp": "それいがいは",
-  "en": "everything",
+  "en": "the rest is",
   "status": "done",
   "ptrs": [
    "0x8868"
@@ -14323,7 +14323,7 @@
   "id": "r00af54",
   "kind": "string",
   "jp": "ほぼ全てＵＰだ",
-  "en": "else is UP!",
+  "en": "mostly UP!",
   "status": "done",
   "ptrs": [
    "0x886c"
@@ -16028,7 +16028,7 @@
   "id": "r00e12c",
   "kind": "string",
   "jp": "真丸町北",
-  "en": "Mamaru Town N.",
+  "en": "North Mamaru",
   "status": "done",
   "ptrs": [
    "0xbcc0"
@@ -16039,7 +16039,7 @@
   "id": "r00e138",
   "kind": "string",
   "jp": "真丸町南",
-  "en": "Mamaru Town S.",
+  "en": "South Mamaru",
   "status": "done",
   "ptrs": [
    "0xbce8"
@@ -18074,7 +18074,7 @@
   "id": "r00ea80",
   "kind": "string",
   "jp": "まんまる町きた",
-  "en": "Mamaru N.",
+  "en": "North Mamaru",
   "status": "done",
   "ptrs": [
    "0xd9d0"
@@ -18173,7 +18173,7 @@
   "id": "r00eb04",
   "kind": "string",
   "jp": "まんまる町きた",
-  "en": "Mamaru N.",
+  "en": "North Mamaru",
   "status": "done",
   "ptrs": [
    "0xdb38"

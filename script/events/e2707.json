@@ -63,7 +63,7 @@
   "id": "e2707_00390",
   "kind": "line",
   "jp": "みるのも今のジンくんにはいいかもね",
-  "en": "might do you good right now, Jin.",
+  "en": "might do you good now, Jin-kun.",
   "status": "done",
   "flags": "0x0200",
   "script": 7,
@@ -142,7 +142,7 @@
   "id": "e2707_00514.1",
   "kind": "choice",
   "jp": "ジンくんと勝負しに来た",
-  "en": "I came to battle Jin",
+  "en": "I came to battle Jin-kun",
   "status": "done",
   "script": 7,
   "notes": ""

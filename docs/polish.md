@@ -1,0 +1,272 @@
+# Polish pass
+
+One line per deferred item; the polish pass ticks each `[x]` (fixed, or `waived: reason`). The release script
+refuses to run while any line is unticked.
+
+## Width-forced abbreviations and cuts (phase 8: measure the screen, then fix or waive)
+
+- [ ] r009ca4 - "Roll aura atk": "atk" abbreviation (14 px-chars); "Roll aura attack" if the box allows
+- [ ] r009cec - "AP & aura atk": "atk" abbreviation; "AP & aura attack"
+- [ ] r013ebc - "High aura atk,": "atk" abbreviation; "High aura attack,"
+- [ ] r008f08 - "faster ball" stands in for 球スピードＵＰ "ball speed UP" (12)
+- [ ] r00e8a0 - "Katsu Gym" for かっとびジム: "Katsutobi Gym" (11)
+- [ ] r00e8cc - "Beach" for だんだ浜 (also r00e8d8 r00e8e4 r00e8f0 r00ea1c): "Dandahama" (8)
+- [ ] r00e938 - "Mamaru VR" for まんまる中ＶＲ場 (also r00e958 r00e96c r00ea28 r00ea3c r07b654): "Mamaru Middle VR"
+- [ ] r00e94c - "Mamaru M." for まんまる中: "Mamaru Middle" (10)
+- [ ] r00e9f8 - "Tamari" for たまり村: "Tamari Village" (8)
+- [ ] r00ea90 - "Harukawa" for はるかわ道場 (also r00eb14): "Harukawa Dojo" (12)
+- [ ] r00e12c - "North Mamaru" / r00e138 "South Mamaru" (also r00ea80 r00eb04): "North Mamaru Town" if it fits
+- [ ] r01304c - "Kyubi Tachi" for キュウビノタチ: "Kyubi no Tachi" (13) to match "Ryuen no Tachi"
+- [ ] r006720 - "Brawler" for レスラー (also r004fa0 れすらー): "Wrestler" (7)
+- [ ] r006c5c - "Undef. 1" / r006c80 "Undef. 2" (debug NPC labels): "Undefined 1" (9)
+- [ ] r076a3c - "VR Ency." for ＶＲじてん: "VR Encyclopedia" (8)
+- [ ] r076b1c - "Fav. Word" for すきなことば: "Favorite Word" (12)
+- [ ] r076674 - "Beach Seaweed" for 弾打浜のワカメ: "Dandahama Seaweed" (14; glossary waived)
+- [ ] r076684 - "The tower's" for 真丸タワーの: "Mamaru Tower's" (11)
+- [ ] r076668 - "Tamari's" for 田万里村に (also r0766d4): "Tamari Village"
+- [ ] r07b858 - "Mamaru VR's" / r07b84c "own court" for 真丸中のＶＲ部 / せんようの: "Mamaru Middle VR Club's own court"
+- [ ] r07b6f0 - "Katsutobi VR" for 勝飛中ＶＲ場: "Katsutobi Middle VR"
+- [ ] c075dd8 - credit "Yabuno & Ganbarion" drops the given name of やぶのてんや (Tenya Yabuno): credits are fixed 20-char records
+- [ ] r0045dc - VRX quote "Vattrolling / is my way!" for きわめるぞ ("I'll master it!"): no 10-char wording found
+
+## Reviewer Minors (phase 6 reviewer pass, codex, 2026-11-17)
+
+- [ ] e2479_001b0 - 「剣じゅつのきそは」 introduces the fundamentals of swordsmanship. “Everything of the basics” is unnatural across the two rows. Suggested EN: 'I've taught you all the basics'
+- [ ] e2479_001cc - 「全てつたえた」 completes “I have taught you all the fundamentals.” Complete the preceding correction. Suggested EN: 'of swordsmanship.'
+- [ ] e2479_00f0c - 「バトローリング部のマネージャーなんです」 completes her introduction as the opposing school's manager. “Mamaru Middle, your match tomorrow” awkwardly equates the school with a match. Suggested EN: 'Mamaru Middle. We play you tomorrow.'
+- [ ] e2480_0073c - 「人タイプでは」 describes human form, rather than a category of human fighters. Suggested EN: 'In human form, you use Arms;'
+- [ ] e2480_0076c - 「球タイプは　オーラをまとって」 describes ball form enveloped in aura. Continue the form distinction naturally. Suggested EN: 'in ball form, you wrap up in aura.'
+- [ ] e2480_00ca4 - 「ひょうじは　わかるかな？」 continues the preceding batch's “When you're in a battle,”. The capitalized “Can” interrupts the sentence. Suggested EN: 'can you read the display?'
+- [ ] e2482_00d10 - 「きのうのケリをつけてやる」 means settling yesterday's unfinished business. “Settle yesterday” sounds incomplete. Suggested EN: 'Shut it! Time to settle the score!!'
+- [ ] e2484_00228 - 「真丸中のやつらよりは強い」 explicitly compares strength. “You beat” unnecessarily changes this into a result and makes the following comparison less smooth. Suggested EN: 'You're stronger than Mamaru Middle.'
+- [ ] e2484_0035c - 「自分をみがけ」 means improving one's abilities. “Polish yourself” is an awkward literal rendering. Suggested EN: 'Work on your own skills.'
+- [ ] e2485_0015c - 「オーラも大事だけど　アームの使い方で」 pivots from aura to Arm techniques. “But with how you use Arms...” is cumbersome. Suggested EN: 'Aura matters, but so do your Arms.'
+- [ ] e2485_0018c - 「スマッシュって知ってるか？」 asks whether Jin knows Smash. Complete the cleaner transition above. Suggested EN: 'Ever heard of a Smash?'
+- [ ] e2485_003bc - 「軽くあしらわれちゃった」 means Jin easily handled him in battle. “Brushed me off” can suggest social rejection. Suggested EN: 'Jin beat me without breaking a sweat.'
+- [ ] e2485_00608 - 「アタックロールを　バウンダーで」 gives defensive advice after “All three of us will rush you.” “Their” needlessly breaks that perspective. Suggested EN: 'Block our Attack Rolls with'
+- [ ] e2485_00648 - 「かこまれないように」 continues the same advice. Keep the participant perspective consistent. Suggested EN: 'and don't let us'
+- [ ] e2487_008f0 - 「リョウの時といい　ギリギリのふちから」 recalls power emerging when Jin is at the brink. “A huge comeback power” is awkward. Suggested EN: 'Like with Ryo, power born in a'
+- [ ] e2487_00920 - 「生まれる起死回生の大きな力」 describes tremendous power that reverses impending defeat. Complete the revised thought. Suggested EN: 'desperate moment turns the tide...'
+- [ ] e2488_00920 - 「名実ともに最高のそんざい」 means genuinely the best, matching the title's reputation. “In name and in fact” reads like a literal translation. Suggested EN: 'best, truly worthy of the title.'
+- [ ] e2490_00c80 - 「グレン兄ちゃん」, addressing her big brother Glen - “Glen, big brother” sounds like two separate addressees - Suggested EN: 'Big brother Glen!!'
+- [ ] e2490_0103c - 「グレン兄ちゃん もうやめて」, pleading with Glen to stop - The inserted “big brother” makes the plea awkward - Suggested EN: 'Big brother Glen, stop it!!'
+- [ ] e2490_01934 - 「グレン兄ちゃん」, delighted address to Glen - Same unnatural address - Suggested EN: 'Big brother Glen!!'
+- [ ] e2490_010ac - 「ぶきをもつことで 弱き心はみだれる」, wielding a weapon unsettles a weak heart - “Throws a weak heart off” sounds flippant for Glen's serious warning - Suggested EN: 'A weapon can unsettle a weak heart.'
+- [ ] e2491_00524 - 「マークしといて 大せいかいです」, keeping tabs on them was a smart decision - “Marking them is correct” sounds like grading homework - Suggested EN: 'watch. Good thing I scouted them!!'
+- [ ] e2492_00134 - 「グレン兄ちゃんたちは」, her brother Glen and the others - “Glen, big brother, and the rest” reads like an awkward list - Suggested EN: 'Uh, um, my big brother Glen and the'
+- [ ] e2492_00614 - 「ちょっと グレン兄ちゃん」, urgently addressing Glen - Same awkward family address - Suggested EN: 'W-wait, big brother Glen,'
+- [ ] e2492_00bb8 - 「マークしといて 大せいかいでした」, scouting Jin proved worthwhile - “Marking him was correct” loses the satisfied callback - Suggested EN: '...Good thing I scouted him.'
+- [ ] e2493_00174 - 「おおぜいさんかしてるし」, many strong entrants also explain the crowd - “Lots of top players ... so there are lots of them” is circular - Suggested EN: 'which draws a crowd, too.'
+- [ ] e2494_003a0 - 「マークしてましたから」, he's been keeping tabs on Jin - “I've been marking you” is unnatural for scouting a future opponent - Suggested EN: 'Sure. I've been keeping tabs on you.'
+- [ ] e2496_00858 - 「１回戦につづき はるかに大きな相手に みごとな勝利」, another impressive victory over a much bigger opponent - The English loses that his first opponent was also much bigger - Suggested EN: 'by beating another much bigger foe!!'
+- [ ] e2498_00424 - 「へへっ オレはそう」, opening Jin's confident rejection of Totta's calculations - “I'm not gonna go the way you calculated” is awkward across the two rows - Suggested EN: 'Heh heh! I won't play along'
+- [ ] e2498_00440 - 「けいさんどおりには行かないぜ」, things won't follow Totta's calculations - Completes the preceding replacement naturally - Suggested EN: 'with your calculations!!'
+- [ ] e2503_00928 - 「今度は……バトリーグで会おうぜ∇」 means “Next time, let's meet in the Vattleague!” The next-time farewell beat is omitted. Suggested EN: 'Next time... meet in the Vattleague!!'
+- [ ] e2504_008ec - 「アームやツールをうばいとる」 refers to the named gear category, Tools. Capitalize consistently. Suggested EN: 'and Tools from anyone they beat.'
+- [ ] e2507_00734 - 「道場やぶりですか」 means challenging a dojo to defeat its fighters and discredit it. “Raid” suggests a physical attack rather than a competitive challenge. Suggested EN: 'Y-you're challenging our dojo!?'
+- [ ] e2508_00910 - 「道場やぶり？」 repeats that description. Suggested EN: 'What? A dojo challenge?'
+- [ ] e2508_00af8 - 「さすがはうちのサブマスターだな∇」 expresses newly impressed admiration. “You really are our sub-master” sounds like confirming his job title. Suggested EN: 'That's our sub-master for you!!'
+- [ ] e2509_001d4 - 「なんだい　えらそうに」 means “What's with acting so superior?” The current English is awkward. Suggested EN: 'Hmph! Don't act so high and mighty!!'
+- [ ] e2511_001d8 - 「ＶＲショップせんもんのドロボーの」 describes Rondarinda, subsequently identified as a group. Singular “the thief” creates an unnecessary inconsistency. Suggested EN: 'The thieves who only hit VR shops!!'
+- [ ] e2512_00a24 - 「じまんできて　高く売れるもんだ」 means something you can boast about and sell for a high price. The English loses the high-price element of his materialistic argument. Suggested EN: 'something to brag about and sell high!' is too long; use 'brag about and sell for big money!!'
+- [ ] e2516_00918 - 「こわいもの知らずが オレのとりえさ」 means fearlessness is his strong suit. - “Not knowing fear is my strong point” sounds stiff for Ryo. - Suggested EN: 'Heh, being fearless is my specialty.'
+- [ ] e2516_00b50 - 「てめーが オレとにてる？」 indignantly rejects the comparison. - Following “A bully like,” the current question reads awkwardly. - Suggested EN: 'you thinks he's anything like me?'
+- [ ] e2518_00a00 - 「たっぷりたのしませてくれ」 demands ample entertainment. - “Entertain me plenty” is unnatural. - Suggested EN: 'Now, give me a good show.'
+- [ ] e2518_00bb0 - 「キミとリョウ……２人のおかげだ」 thanks Shu and Ryo. - “You two, you and Ryo” is needlessly repetitive. - Suggested EN: 'It's thanks to you... and Ryo.'
+- [ ] e2519_008ec - 「ジンさんすごいです」 enthusiastically praises Jin. - “Jin-san, amazing!!” sounds like a translation fragment. - Suggested EN: 'You're amazing, Jin-san!!'
+- [ ] e2519_00ed4 - 「しょーがねーな」 is Ryo's gruff, reluctant assent. - “Can't be helped” feels impersonal and stiff. - Suggested EN: 'Oh, all right.'
+- [ ] e2520_00c20 - 「つまり あたしに用？」 asks whether the visitor has business with Komachi. - “So you want me?” introduces an unintended romantic reading. - Suggested EN: 'So you're here to see me? But I don't'
+- [ ] e2521_008d8 - 「アームやツールもそろえないとね」 refers to Arms and the named Tool equipment category. - Lowercase “tools” makes the game term look generic. - Suggested EN: 'tournaments, and get Arms and Tools.'
+- [ ] e2525_00350 - Introduces an Arm of the Blade type just taught. “The Blade-type Arm I just taught” awkwardly makes the Arm itself the subject taught. Suggested EN: 'A Blade-type Arm, like I showed you:'
+- [ ] e2527_00434 - Refers to types that require taking a stance. “Stance up” is unnatural and unclear. Suggested EN: 'types that need a stance. Be careful.'
+- [ ] e2528_0016c - Introduces the club membership badge. Align this introduction with the item’s established name. Suggested EN: 'a Vattrolling Club Badge.'
+- [ ] e2529_006d4 - Komachi mocks their repeated claims that gyms are superior. “Gyms good” reads awkwardly without quotation framing. Suggested EN: 'Always going on: "Gyms are great,'
+- [ ] e2529_01238 - いちど見てみたいわ　ほんま completes Ikazuchi’s sarcastic wish to see the twins lucky for once. “Honest” is stiff here and weakens his drawl. Suggested EN: 'on a lucky day, just once, y'know.'
+- [ ] e2529_01378 - いいバトルだった……それだけにおしい means the good performance makes the perceived waste of talent all the more regrettable. “Which is the pity” is unnatural. Suggested EN: 'a good fight... Such wasted talent.'
+- [ ] e2538_00b9c - 「とくに∴」, especially against the player - "Especially you" dangles after "I'm going to win anyway"; connect it to the following vow - Suggested EN: 'And as for you, ∴...'
+- [ ] e2538_0110c - 「こんなチャンスないわよ！」, a rare opportunity - "There's no chance like this" sounds unnatural - Suggested EN: 'Chances like this don't come often!'
+- [ ] e2538_01234 - 「ちょうせんをみとめよう」, permitting participation - "Approve your challenge for the qualifier" is awkward - Suggested EN: 'entry into the qualifier.'
+- [ ] e2539_00190 - 「ちょうせんをみとめよう」, permitting participation - Same awkward phrasing as b021 - Suggested EN: 'entry into the qualifier.'
+- [ ] e2544_00790 - 「止まりなさ……きゃ！」, an interrupted command and scream - "Stop th..." looks like a typo - Suggested EN: 'Stop right... Aah!'
+- [ ] e2544_009fc - 「勝つためにもとめた　強い力」, power sought to secure victory - "Strong power, sought to win" is stiff - Suggested EN: 'It's power I sought so we could win!'
+- [ ] e2544_00a28 - 「何が悪い！　何がおかしい！」, indignantly defending his actions - "What's odd!" sounds like an observation rather than a challenge - Suggested EN: 'What's wrong with that!? Tell me!'
+- [ ] e2544_00f00 - 「あついバトルがしたくて」, wanting exciting, satisfying battles - "Heated they'd satisfy me" is unnatural - Suggested EN: 'thrilling I'd feel fulfilled...'
+- [ ] e2544_01824 - 「しゅうかくだった」, something useful gained - "A fine harvest" reads as an overly literal idiom - Suggested EN: 'was a valuable discovery.'
+- [ ] e2544_019b0 - 「強敵ぞろい」, a field full of formidable opponents - "Packed with foes" drops their strength - Suggested EN: 'The Vattleague's full of tough foes.'
+- [ ] e2545_0021c - 「こいつが次のマルスなんか≡」, amazement at the player becoming Mars - Switching from "you" to "this guy" mid-sentence is distracting - Suggested EN: 'you're gonna be the next Mars!?'
+- [ ] e2548_00420 - 「勝利をつかめる　それが強さ」, strength means securing a narrow victory - The period leaves the preceding phrase dangling - Suggested EN: 'razor's edge... That's strength.'
+- [ ] e2548_007cc - 「もくひょうだ」, both are people he aspires to match - Calling people "my goals" sounds unnatural - Suggested EN: 'who I aim to match! Battle me again!'
+- [ ] e2553_00448 - 「勝てばいい」 means winning is all that matters - “Winning is all” sounds incomplete - Suggested EN: 'All that matters is winning.'
+- [ ] e2559_001d4 - 「おおぜいのほうが」 means having more people helps - “More people makes” has awkward agreement - Suggested EN: 'Well, having more people makes it'
+- [ ] e2560_00bcc - 「くっそ～！」 is a drawn-out angry curse - The trailing tilde makes the anger look playful - Suggested EN: 'Daaamn it!'
+- [ ] e2561_002e8 - 「きゃあっ！！」 is a scream - “Kyaaa” retains Japanese sound spelling rather than natural English - Suggested EN: 'Aaaah!!'
+- [ ] e2562_0025c - 「しのびこんだことで」 gives the reason for the scolding - “Got super / scolded” is an awkward split and construction; use with the following suggestion - Suggested EN: 'And after all that, we got'
+- [ ] e2562_00284 - 「すっごくおこられちゃった」 means they were severely scolded - Give the scolding a natural English expression - Suggested EN: 'a real earful for sneaking in...'
+- [ ] e2562_00a78 - 「うでがなるな」 means eagerly anticipating a chance to test one's skill - “I'm itching!” sounds like a skin complaint - Suggested EN: 'in middle school... I can't wait!'
+- [ ] e2562_00adc - 「トータさまです　ぜったい負けないです」 combines Totta's grandiose self-reference with polite endings - “Desu” adds an untranslated tic not required by the glossary - Suggested EN: 'Totta-sama! I simply won't lose!!'
+- [ ] e2564_008d8 - 「地におちましたわねぇ」 means his skills have sunk very low - “Fallen to the ground” translates the idiom literally and weakens Minami's taunt - Suggested EN: 'have sunk so low, haven't they?'
+- [ ] e2565_002b0 - 「そっちこそ　ひっこんどれ！」 sharply throws Takumi's demand back at him - Preserve Ikazuchi's drawl during this exchange - Suggested EN: 'You're the one who should butt out!'
+- [ ] e2565_002d4 - 「もともと　わいのケンカや！」 means it was his fight originally - A small dialect marker would maintain Ikazuchi's voice - Suggested EN: 'This was my fight to start with, ya!'
+- [ ] e2565_00608 - 「よけいなことを」 is an irritated complaint about unwanted help - “You meddled” sounds stiff - Suggested EN: 'Honestly, nobody asked you to help...'
+- [ ] e2574_0020c - 「もっと　引っぱりなさいよ」: keep the suspense going longer. - “Drag it out longer” sounds more like making something tedious. - Suggested EN: 'Keep them guessing a little longer!'
+- [ ] e2576_00cb8 - 「とどけたい！　とどいてほしい！」: wants her feelings to reach Shu. - “Them” has no plural antecedent after “My love.” - Suggested EN: 'I want him to know! So badly!'
+- [ ] e2577_0030c - 「あせとなみだのけっしょう」: the fruit of sweat and tears. - “The crystal of sweat and tears” reads as a literal material description rather than the idiom. - Suggested EN: 'This is what sweat an' tears get ya!'
+- [ ] e2578_0027c - 「名前のセンスは　アレだけど」: the naming leaves something to be desired. - “The name sense” is unnatural English. - Suggested EN: 'The name's kinda lame,'
+- [ ] e2578_0039c - 「第１戦は　４人でバトローリングよ」: the first round is four-player Vattrolling. - “A four-way Vattrolling” awkwardly treats the sport's name as a countable match. - Suggested EN: 'round 1: four-way Vattrolling!'
+- [ ] e2580_00288 - 「もんどうむようよ！」: no discussion or excuses allowed. - “Doesn't deserve a hearing” sounds judicial for Komachi's angry outburst. - Suggested EN: 'doesn't get to make excuses!'
+- [ ] e2580_007fc - 「練習よ　練習！」: emphatically returning to practice. - “To practice too! Practice!” is stiff repetition. - Suggested EN: 'to practice! Come on, let's go!'
+- [ ] e2591_00878 - b033 — e2591_00878 - JP 「わたしがどうかしたんですか？」: asks why they're discussing her. “Is something wrong with me?” suggests a personal defect. - Suggested EN: 'Were you talking about me?'
+- [ ] e2592_00068 - b033 — e2592_00068 - JP 「新たな修行を考案した」: devised a new training exercise. “A new training” is unnatural English. - Suggested EN: 'I've devised a new training drill.'
+- [ ] e2597_00204 - b034 — e2597_00204 - JP 「あんたにはこれをあげるわ」: gives the winner a prize. “The winner, I give this” sounds stiff for Komachi. - Suggested EN: 'our winner! Here's your prize.'
+- [ ] e2599_00374 - b035 — e2599_00374 - JP 「オレさまのことをヘナチョコだと」: indignant, boastful objection to being called a pipsqueak. “The great me” sounds translated. - Suggested EN: 'You call ME a pipsqueak?!'
+- [ ] e2599_00b00 - b035 — e2599_00b00 - JP 「コンジョウたたきなおしてやるわ」: threatens to toughen you up. “Whip your guts into shape” evokes internal organs. - Suggested EN: 'gonna whip you into shape!'
+- [ ] e2603_02504 - 「ホクトのサインつきうらない本！」, signed fortune-telling books by Hokuto - “Premium Gym's Hokuto, signed fortune books” has an awkward possessive structure - Suggested EN: 'Hokuto's signed fortune books!'
+- [ ] e2603_030b4 - 「今のは本気じゃないからね」, claiming she was not trying seriously - “That wasn't my real strength” sounds stiff - Suggested EN: 'I wasn't even trying just now!'
+- [ ] e2603_030d8 - 「かわいそうだから 負けてあげたの」, she let you win out of pity - “I felt sorry” lacks its natural complement - Suggested EN: 'I felt bad for you, so I let you win.'
+- [ ] e2604_021c8 - 「みんなには だまっててくれたまえ」, asking you not to tell anyone - “Keep quiet to everyone” is unnatural - Suggested EN: 'don't tell anyone about this.'
+- [ ] e2606_007e8 - 「またなかよしになったのね」, the siblings are getting along again - “Friends again” obscures their sibling relationship - Suggested EN: 'are getting along again. How nice.'
+- [ ] e2608_00a8c - 「大会に出場しようと思ってる」 means thinking of entering - “I'm about to enter” makes the plan more definite; '~.' also reads awkwardly - Suggested EN: 'I'm thinking of entering the contest.'
+- [ ] e2608_00fdc - 「がんばってね ファイト！」 cheers the player on - “Fight!” sounds like an instruction to start fighting - Suggested EN: 'Do your best! You've got this!'
+- [ ] e2608_012ec - 「よしゅう ふくしゅうはだいじ」 says preparation and review are important - Preparation is omitted and “daily” is added - Suggested EN: 'Prep and review both matter, zamasu!'
+- [ ] e2608_01f04 - 「でも お勉強も」 introduces a reminder to study - “Do your studies” is unnatural; retain the following row - Suggested EN: 'But do your schoolwork'
+- [ ] e2609_01270 - 「つまらんの～」 expresses an old man's disappointment - Literal tilde and period feel unfinished - Suggested EN: 'Ah, what a pity...'
+- [ ] e2609_01478 - 「つまらんの～」 repeats that disappointment - Same issue - Suggested EN: 'Ah, what a pity...'
+- [ ] e2609_016e4 - 「つまらんの～」 repeats that disappointment - Same issue - Suggested EN: 'Ah, what a pity...'
+- [ ] e2609_02484 - 「おぬしも ここでしゅぎょうして」 invites the player to try training here - “Maybe you'll train here” weakens the invitation; retain the following row - Suggested EN: 'Why not try training here'
+- [ ] e2609_0254c - 「おぬしも ここでしゅぎょうして」 repeats the invitation - Same issue - Suggested EN: 'Why not try training here'
+- [ ] e2611_00044 - 「まだ やることがあった」 realizes there is unfinished business - English past tense suggests it no longer remains - Suggested EN: 'Oh, I've still got something to do...'
+- [ ] e2611_000e0 - Same unfinished-business realization - Same tense issue - Suggested EN: 'Oh, I've still got something to do...'
+- [ ] e2611_00864 - 「いか、りゃくっと！」 briskly skips the rest of a recollection - “and so on, skip!” is awkward - Suggested EN: '...Let's skip the rest!'
+- [ ] e2611_01e14 - 「まだ やることがあった」 realizes there is unfinished business - Same tense issue - Suggested EN: 'Oh, I've still got something to do...'
+- [ ] e2611_01eb0 - Same unfinished-business realization - Same tense issue - Suggested EN: 'Oh, I've still got something to do...'
+- [ ] e2611_01f28 - Same unfinished-business realization - Same tense issue - Suggested EN: 'Oh, I've still got something to do...'
+- [ ] e2611_01fc4 - Same unfinished-business realization - Same tense issue - Suggested EN: 'Oh, I've still got something to do...'
+- [ ] e2611_0203c - Same unfinished-business realization - Same tense issue - Suggested EN: 'Oh, I've still got something to do...'
+- [ ] e2615_00338 - 「とてもレベルがたかいですね」 means the matches are of a very high standard. “Matches really are a very high level” is awkward. Suggested EN: 'at a very high level.'
+- [ ] e2615_00408 - 「ほかの試合とちがってレベルがたかい」 compares their standard with other matches. With the preceding “really are a,” suggested EN: 'cut above other matches.'
+- [ ] e2618_00904 - 「Ｖスキルもおしえてもらったし」 means the speaker has now learned V Skills. “I got taught” is clunky. Suggested EN: 'Now I've learned some V Skills,'
+- [ ] e2618_0092c - 「デパートに買いものにいこうかしら」 muses about department-store shopping. Suggested EN: 'maybe I'll shop at the department store.' would exceed the limit; use: 'I'll visit the department store.'
+- [ ] e2621_005d8 - 「見にいきませんか！」 is an invitation. The English “Would you like...” construction needs a question mark. Suggested EN: 'Vattleague with me sometime?'
+- [ ] e2623_00160 - 「みんなに愛されるバトローリングの」 means Vattrolling loved by everyone. “For a Vattrolling” is unnatural. Suggested EN: 'I'll work hard to make Vattrolling'
+- [ ] e2623_0018c - 「ために がんばるわ！」 completes that pledge. Paired with the preceding correction, suggested EN: 'a sport everyone loves!'
+- [ ] e2626_001d4 - 「やっぱり　このジムのほうが」 expresses preferring this gym because it feels homier - The English joins independent clauses with a comma - Suggested EN: 'I like this gym better. It feels'
+- [ ] e2631_00438 - 「これでそつぎょうや　もっていき！」 announces that the player has graduated - “That's graduation!” sounds unnatural - Suggested EN: 'You've graduated! Here, take this!'
+- [ ] e2631_0138c - 「わいがたたいたろか？」 offers a shoulder massage - “Pound 'em” sounds unnecessarily violent for the affectionate exchange - Suggested EN: 'Want me to massage 'em for ya?'
+- [ ] e2638_002e0 - 「顔つきがタダモノじゃないね　キミ」 says the player's expression suggests someone exceptional - “The face of no ordinary kid” is cumbersome; revise with the next row - Suggested EN: 'You look like someone special.'
+- [ ] e2638_0030c - 「もしかして　名のあるバトローラー？」 asks whether the player is a renowned Vattroller - Companion revision removes the stranded “kid” - Suggested EN: 'Are you a famous Vattroller?'
+- [ ] e2641_00440 - 「やはり ハントけいのアームを」, apparently Hunt-type Arms are the answer - “There's nothing for it but” weakens the heart-hunting joke - Suggested EN: 'I guess I'll have to take aim and'
+- [ ] e2643_00b04 - 「らしいのよね～」, apparently he quit - The '~.' ending is distracting - Suggested EN: 'quit, apparently.'
+- [ ] e2644_00c3c - 「こわしていかないと まにあわないぞ」, otherwise you won't finish in time - “Or no time left” sounds accidentally broken rather than tersely spoken - Suggested EN: 'distant pins before time runs out.'
+- [ ] e2644_00f50 - 「おれいに おしえるぞ？」, offering to teach as thanks - “Let me teach you, as thanks?” is awkward - Suggested EN: 'Want lessons? To thank you.'
+- [ ] e2648_01000 - 「いつもごめんなさいね」, apologizing for Komachi's recurring trouble - “I'm always sorry” sounds unnatural - Suggested EN: 'Sorry for all the trouble.'
+- [ ] e2653_00318 - (b057) - 「いままでで イチバン強いマルスに」 describes the baby's future as the strongest Mars. - "It's sure to become" sounds impersonal when referring to the child. - Suggested EN: 'They're sure to become the strongest'
+- [ ] e2656_001f0 - (b057) - 「こうげきがきほんだと思うの」 means offense is fundamental. - "Attack is the basics" is unnatural English. - Suggested EN: 'Offense comes first, don't you think?'
+- [ ] e2657_00b2c - (b057) - 「オレの修行のジャマだ」 means you're interfering with his training. - "In my training's way" is awkward. - Suggested EN: 'Hmph! You're ruining my training!!'
+- [ ] e2658_0052c - (b058) - 「これで そつぎょうですよ」 announces successful graduation. - "With this, you graduate" sounds stiff. - Suggested EN: 'You've officially graduated!'
+- [ ] e2658_00834 - (b058) - 「これで…Ｖスキルをおぼえたはずです」 introduces the skill just learned. - The existing three-row sentence starts with a dangling topic and then restarts. Use these three replacements together. - Suggested EN: 'You should now have learned'
+- [ ] e2658_0085c - (b058) - 「たくみにつかえるＶスキルを」 describes a skill for proficient use. - Continuation of the preceding repair. - Suggested EN: 'a V Skill to use Ex-Strike-type Arms'
+- [ ] e2658_00880 - (b058) - 「おぼえたはずです」 completes the learning statement. - Completion of the preceding repair. - Suggested EN: 'with greater skill.'
+- [ ] e2673_00194.0 - 「おねがいします」: accepting the graduation exam - “Yes, please” is an awkward reply to “Are you ready?” Suggested EN: 'I'm ready!'
+- [ ] e2673_00300 - 「自分をみがくといい」: keep improving yourself - “Keep polishing yourself” sounds overly literal. Suggested EN: 'Keep honing your skills.'
+- [ ] e2674_00a20 - 「レベルが高いのよ」: the tournament has strong competition - “Town is a high level” reads awkwardly across the rows. Suggested EN: 'Town has some tough competition.'
+- [ ] e2677_002f4 - 「ころがりすぎてアームをおとすかも≡」: excessive rolling might make you drop an Arm - “Overroll” is unnatural English. Suggested EN: 'Roll too much? You may drop an Arm!?'
+- [ ] e2678_00118 - 「スッキリして 勉強のこうりつも」: clears the head and improves studying - Rephrase the stiff “study efficiency” across these two rows. Suggested EN: 'It clears my head, and now I can'
+- [ ] e2678_00140 - 「グッとアップしたんだよ！」: studying has become much more effective - Completes the preceding suggestion. Suggested EN: 'study so much better!'
+- [ ] e2682_00308 - 「キミたちのグッズがでたら」: if merchandise featuring your group comes out - “When” makes the hypothetical release sound certain. Suggested EN: 'If your merchandise comes out,'
+- [ ] e2685_00284 - 「チガウノデスカ？ ザンネンネ」: you're not? That's disappointing - “SO SORRY” sounds like an apology. Preserve the stylized voice with: 'YOU ARE NOT? WHAT A SHAME.'
+- [ ] e2689_001ec - 「スタミナりょうり」 means energy-boosting food - “Stamina food” sounds unnatural - 'Komachi made a hearty meal to get'
+- [ ] e2689_003f4 - 「ぼくも…食事するなって」 introduces another excuse - Awkward English word order across the two rows - 'M-my mom told me not to eat'
+- [ ] e2689_00420 - 「ママに言われてるんですよ」 completes that excuse - “To eat out, too” is clumsy - 'anywhere else, either...'
+- [ ] e2691_0052c - 「しんれいげんしょう」 means a supernatural or paranormal phenomenon - “Psychic” can suggest mental powers - 'a kind of paranormal activity.'
+- [ ] e2698_00770 - 「たいせつな話がある」 means having something important to discuss - “Have something important today” sounds like an appointment - 'We have something important to discuss.'
+- [ ] e2700_01d34 - 「気にしないでって……べつに」 defensive response to “Never mind” - “I'm not minding anything” sounds unnatural. Suggested EN: '"Never mind"? It's not'
+- [ ] e2700_01d58 - 「なにも気にしちゃいないわよ」 “Nothing's bothering me” - Preserve her defensive denial. Suggested EN: 'like anything's bothering me!'
+- [ ] e2700_029c4 - 「Ｖスキルって ひとくちにいうてもな」 introduces the variety of V Skills - “Come in all kinds of effects” is awkward. Suggested EN: 'V Skills have all'
+- [ ] e2700_02c14 - 「予算のことで先生にかけあっとるんや」 negotiating with the teacher about funding - “Arguin' the budget” omits whom they're approaching and sounds unnatural. Suggested EN: 'Askin' the teacher for more funds.'
+- [ ] e2700_039b4 - 「テストプレイヤーのことですよ」 explains the testing role - “It means test player” needs an article. Suggested EN: 'It means a test player.'
+- [ ] e2700_06bcc - 「こんなバトローリングごっこ部に」 “In a pretend Vattrolling club like this” - “Vattrolling game club” is clumsy and blunts the recurring insult. Suggested EN: 'This pretend Vattrolling club has'
+- [ ] e2700_06bf4 - 「強いヤツか……本当なら面白いな」 “Someone strong? Interesting, if true” - Restore natural phrasing across the two rows. Suggested EN: 'a strong player? If so, interesting.'
+- [ ] e2701_016e8 - 「ムテキのバリア」 means an invincible barrier - “Perfect” obscures the gameplay property - Suggested EN: 'a Roll with an invincible barrier.'
+- [ ] e2701_021ec - 「れんぞくこうげき」 means consecutive attacks - “Nonstop” suggests unlimited attacks - Suggested EN: 'a technique for chaining attacks.'
+- [ ] e2701_02270 - 「れんぞくこうげきができる」 means attacks can be chained - Same imprecision - Suggested EN: 'to chain your attacks.'
+- [ ] e2708_00280 - 「よろしくおねがいしま～す」 introduces the agreed practice match - “Pleased to meet you” sounds like a first introduction after recognition and conversation - Suggested EN: 'Let's have a good match~'
+- [ ] e2708_00390 - 「またおねがいします」 follows a refusal - “Again” implies the declined match happened - Suggested EN: 'Too bad~ Maybe next time!'
+- [ ] e2709_00114 - 「とつぜんだけど」 acknowledges the unexpected proposal - “All of a sudden, but” is unnatural English - Suggested EN: 'This is sudden, but today let's'
+- [ ] e2709_00ac4 - 「かくじつに」 means reliably or accurately - “Surely” reads as an assertion rather than reliable targeting - Suggested EN: 'is reliably taking down'
+- [ ] e2709_00b04 - 「時間内に かくじつにヒットさせて」 means land accurate hits within the time limit - “Land sure hits within the time” is awkward - Suggested EN: 'Aim carefully, beat the clock,'
+- [ ] e2709_01124 - 「もし見つかったらおしえてね」 means tell me if you find it - “Tell me if found” sounds like a notice, not warm dialogue - Suggested EN: 'Encyclopedia". Tell me if you find it.'
+- [ ] e2711_014e8 - 「どこかのぉ」 is an elderly speaker wondering where something is - the direct question loses the reflective cadence - suggested EN: 'Now, where's Globe Department Store?'
+- [ ] e2711_021a8 - 「ホクトのサインつきうらない本」 means fortune-telling books signed by Hokuto - “Hokuto, signed fortune books!” is awkward after “Premium Gym's” - suggested EN: 'Hokuto's signed fortune-telling books!'
+- [ ] e2711_02408 - 「いいあせをかいた」 means having worked up a good sweat - “that was a good sweat” is unnatural - suggested EN: 'Whew, I worked up a good sweat!'
+- [ ] c0751a4 - 「楽曲・ＳＥデザイン」 credits music and sound-effect design - “SE” is an unexplained abbreviation - suggested EN: 'Music & Sound Design'
+- [ ] r004944 - 「あたしのかちね」 confidently declares Komachi's victory - “huh!” makes her sound uncertain or oddly confrontational - suggested EN: 'I win!'
+- [ ] r004a9c - 「努力家だ」 means hardworking - “earnest” preserves seriousness but drops diligence - suggested EN: 'hardworking.'
+- [ ] r004cd8 - 「コマチとライバの」 identifies whose father Asama is - the following row begins with a stranded possessive suffix - suggested EN: 'Komachi, Raiba:'
+- [ ] r004cec - 「お父さん」 means their father - completes the cleaner profile construction - suggested EN: 'their dad'
+- [ ] r00513c - 「かならず」 means without fail - “always he gets!” has unnatural word order - suggested EN: 'he always'
+- [ ] r005148 - 「手に入れるぞ」 means he obtains them - completes the corrected sentence - suggested EN: 'gets!'
+- [ ] r0051dc - 「ちしきはほうふ」 means knowledgeable - “know-it-all” adds an insulting implication - suggested EN: 'expert'
+- [ ] r0051fc - 「さがしてるぞ」 completes “looking for practice partners” - “sparmates” sounds like an invented shortening - suggested EN: 'partners'
+- [ ] r00521c - 「です」 conveys polite speech - “Um.” substitutes hesitation for politeness - suggested EN: 'Indeed.'
+- [ ] r005b04 - 「かってとうぜん」: winning is only natural - “Natural win” sounds like a result category, not a confident victory remark - suggested EN: 'Of course!'
+- [ ] r005b14 - 「つぎのマルスを」: aiming to become the next Mars - the question mark adds uncertainty to a straightforward ambition - suggested EN: 'Next Mars:'
+- [ ] r005ef4 - 「口はわるいが」: sharp-tongued, but… - “Rude mouth” is unnatural English - suggested EN: 'Rude,'
+- [ ] r006240 - 「攻げきよりも」: more than attacking - “Not attack” makes the preference sound absolute - suggested EN: 'Likes to'
+- [ ] r006250 - 「はじくのが好き」: prefers deflecting - “deflecting fan” does not connect naturally with the preceding row - suggested EN: 'deflect more'
+- [ ] r006428 - 「わかいものには」: against the young - inverted English is awkward across the two rows - suggested EN: 'Won't lose'
+- [ ] r006438 - 「負けません」: will not lose - complete the reordered sentence naturally - suggested EN: 'to the young'
+- [ ] r00737c - 「ＨＰいがいは強い」: strong except for HP - “Strong save HP” is easy to misread in a game - suggested EN: 'Strong but low HP'
+- [ ] r00741c - 「少しトクイな」: slightly better in these attributes - “a bit good” is unnatural - suggested EN: 'slightly better'
+- [ ] r008cf4 - 「もえる心で」: with a burning spirit - “Hot heart” reads as a literal calque - suggested EN: 'Fiery heart:'
+- [ ] r008ea0 - 「いつもとちがう」: doing something unexpected - “Act unusually” is stiff - suggested EN: 'Mix things up'
+- [ ] r0092a0 - 「あついファイトで」: with passionate fighting spirit - “Hot fighting” is unnatural - suggested EN: 'Fiery spirit:'
+- [ ] r00a23c - 「わきでるいげんで」 means with an imposing presence - “Welling majesty” sounds unnatural - suggested EN: 'Regal presence:'.
+- [ ] r00a2ac - 「どくそうだ」 means racing ahead of everyone in this speed context - “run solo” suggests running alone rather than outpacing competitors - suggested EN: 'race ahead!'.
+- [ ] r00a46c - 「あついとうこんで」 means with fiery fighting spirit - “Burning fight” describes a fight rather than the character's spirit - suggested EN: 'Fiery spirit:'.
+- [ ] r00aeb8 - 「もえるとうこんで」 means with blazing fighting spirit - “Blazing fight” is an awkward rendering of motivation - suggested EN: 'Blazing spirit:'.
+- [ ] r00af70 - 「やられても」 means even after being beaten - “Even hit” is unnatural and understates the setback - suggested EN: 'Even beaten,'.
+- [ ] r00af90 - 「ＨＲから…ふっきだ」 means returning from HR - “via HR” changes the relationship - suggested EN: 'from HR'.
+- [ ] r00b600 - 「カウフクがＵＰ」 refers to improved AP recovery - “AP heal” is inconsistent with the established “AP recovery” wording - suggested EN: 'AP recovery UP'.
+- [ ] r00b6b8 - 「カウフクがＵＰ」 refers to improved AP recovery - Same terminology inconsistency - suggested EN: 'AP recovery UP'.
+- [ ] r012cbc - 「使いやすいアーム」, easy-to-use Arm - “easy Arm” sounds unfinished - suggested EN: 'light; easy to use'.
+- [ ] r012cd0 - 「サイズも小さい」, also small - Unnatural wording and capitalization - suggested EN: 'and compact'.
+- [ ] r012e84 - 「死神の力をひめる」, holds a death god's power - Prepare a grammatical possessive across the next row - suggested EN: 'Said to hold'.
+- [ ] r012e98 - 「ほどと言われる」, said to possess such power - “a reaper power” is unnatural - suggested EN: 'a reaper's power:'.
+- [ ] r01313c - 「とまるでおどって」, as though dancing - Current continuation produces “you look like dancing” - suggested EN: 'and it's like'.
+- [ ] r013150 - 「いるかのようだ」, as though one is dancing - Complete the comparison naturally - suggested EN: 'you're dancing'.
+- [ ] r0131c0 - 「こうげきができる」, can attack to blur vision - English normally describes blurred vision, not blurred eyes - suggested EN: 'blur foes' sight:'.
+- [ ] r013568 - 「使ったランスが」, lance used by knights - Missing possessive - suggested EN: 'knight's lance;'.
+- [ ] r013700 - 「地面をたたいて」, striking the ground - Reorder to clarify that weight enables damaging ground strikes - suggested EN: 'So heavy,'.
+- [ ] r013710 - 「ダメージになる」, causes damage - “ground hurts” leaves the target unclear - suggested EN: 'ground strikes'.
+- [ ] r013720 - 「ほど重いアーム」, an Arm that heavy - Finish the description without the awkward exclamation - suggested EN: 'deal damage'.
+- [ ] r013c1c - 「矢をはなつハント」, arrow-firing Hunt type - “arrow Hunt-type” is awkward - suggested EN: 'arrow-firing'.
+- [ ] r013c30 - 「けいのアーム」, type of Arm - Complete the term on this row - suggested EN: 'Hunt-type Arm'.
+- [ ] r014024 - 「はねかえるタマを」, bouncing projectiles - Current two-row sentence reads “Fires bouncy shot Arm” - suggested EN: 'Fires bouncing'.
+- [ ] r014038 - 「うつアーム」, an Arm that fires - Complete the description naturally - suggested EN: 'shots'.
+- [ ] r01420c - 「やられると星が」, being hit makes one see stars - Current phrasing “a hit shows you stars” weakens the idiom - suggested EN: 'a hit makes you'.
+- [ ] r01421c - 「見えると言われる」, said to see stars - Restore the idiomatic punch - suggested EN: 'see stars!'.
+- [ ] r014edc - 「しょうげきはも」 means its shockwave is powerful too - “its shockwave / big!” describes size rather than power; use with the next replacement - suggested EN: 'its waves hit'.
+- [ ] r014eec - 「強力」 means powerful - Complete the preceding replacement - suggested EN: 'hard'.
+- [ ] r014f08 - 「最強のたてと」 begins “said to be the strongest shield” - “Called the / top shield: / Saiga” reads awkwardly; use these three rows together - suggested EN: 'A Saiga hailed'.
+- [ ] r014f18 - 「言われるほどの」 continues that reputation - Restore a natural sentence - suggested EN: 'as the ultimate'.
+- [ ] r014f28 - 「サイガ」 identifies the weapon category - Category moves to the first row within this description - suggested EN: 'shield'.
+- [ ] r01697c - 「円形のまわりに」 describes a circular attack area - “circle-area” is unnatural English - suggested EN: 'circular'.
+- [ ] r016c34 - 「円形のまわりに」 describes a circular attack area - Same awkward wording - suggested EN: 'circular'.
+- [ ] r0171ec - 「円形のまわりを」 describes the circular area affected - “circle-area” is unnatural English - suggested EN: 'circular'.
+- [ ] r075f34 - 「すでにあいてが『」 introduces a skill the partner already knows - 'Partner has "..." learned already.' is awkward English - Suggested EN: 'Partner knows "'
+- [ ] r075f14 - 「おぼえているようです」 completes that message - Coordinate with r075f34 - Suggested EN: 'already.'
+- [ ] r0761b4 - 「教わるＶスキルが」 introduces the absence of learnable skills - The shared ending r0761c8 must also work with the teaching message - Suggested EN: 'V Skills to learn:'
+- [ ] r0761d4 - 「教えられるＶスキルが」 introduces the absence of teachable skills - Currently combines with 'learn.' to produce 'No V Skill to teach learn.' - Suggested EN: 'V Skills to teach:'
+- [ ] r0761c8 - 「ありません」 means “there are none” - Use an ending that works for both messages - Suggested EN: 'None.'
+- [ ] r07badc - 「そうびできませんが」 means “You can't equip this, but...” - “You can't equip,” leaves the verb without its object - suggested EN: 'Can't equip this.'
+- [ ] r0f0be8 - 「たいせんにんずうせんたく」 means select the number of players - avoid the unnecessary “No.” abbreviation - suggested EN: 'Choose Player Count'
+
+## Re-review Minors (codex pass over the fixed boxes)
+
+- [ ] e2510_002fc - 修理も楽だった: "so it was easy to fix" after plural Arms; 'so the repairs were easy.'
+- [ ] e2605_00ee0 - "just like Takumi-kun has" is clumsy; 'like Takumi-kun's.'
+- [ ] e2605_01f34 - 今日の転がりこそ青春よ: "what youth is" is stiff; 'Now that's the spirit of youth!'
+- [ ] e2606_007e8 - またなかよしになった (siblings): 'are getting along again. How nice!'
+- [ ] e2608_00fdc - がんばってね ファイト: bare "Fight!"; 'Do your best! You've got this!'
+- [ ] e2644_01450 - やさしくおしえてくれる: 'He's such a patient teacher.'
+- [ ] r004ff8 - おきにいりの: "pet Arm" is odd (12-char row; Arm must stay in r005008); 'His favorite'

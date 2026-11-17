@@ -614,7 +614,7 @@
   "id": "r0741e8",
   "kind": "string",
   "jp": "アダプタを　せつぞくしてください",
-  "en": "Please connect the adapter.",
+  "en": "connect the Wireless Adapter.",
   "status": "done",
   "ptrs": [
    "0xee504"
@@ -1067,7 +1067,7 @@
   "id": "r075e88",
   "kind": "string",
   "jp": "』をおぼえている……",
-  "en": "\" known already...",
+  "en": "\" already...",
   "status": "done",
   "ptrs": [
    "0xee52c"
@@ -1078,7 +1078,7 @@
   "id": "r075ea0",
   "kind": "string",
   "jp": "すでに∴は",
-  "en": "∴ already",
+  "en": "∴ knows",
   "status": "done",
   "ptrs": [
    "0xee528"
@@ -2109,7 +2109,7 @@
   "id": "r076674",
   "kind": "string",
   "jp": "弾打浜のワカメ",
-  "en": "Dandahama kelp",
+  "en": "Beach Seaweed",
   "status": "done",
   "ptrs": [
    "0xeeabc"

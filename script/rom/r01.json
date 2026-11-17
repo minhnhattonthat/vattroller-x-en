@@ -190,7 +190,7 @@
   "id": "r012dc0",
   "kind": "string",
   "jp": "ファイバーンを",
-  "en": "A powered-up",
+  "en": "A phoenix",
   "status": "done",
   "ptrs": [
    "0xef34"
@@ -201,7 +201,7 @@
   "id": "r012dd0",
   "kind": "string",
   "jp": "パワーＵＰさせた",
-  "en": "Fiburn, the",
+  "en": "sword: Fiburn",
   "status": "done",
   "ptrs": [
    "0xef38"
@@ -212,7 +212,7 @@
   "id": "r012de4",
   "kind": "string",
   "jp": "ふ死鳥の剣",
-  "en": "phoenix",
+  "en": "powered up",
   "status": "done",
   "ptrs": [
    "0xef3c"
@@ -542,7 +542,7 @@
   "id": "r012fd8",
   "kind": "string",
   "jp": "代だいのマルスが",
-  "en": "Every \"Mars\"",
+  "en": "All \"Mars\" bore",
   "status": "done",
   "ptrs": [
    "0xf2f4"
@@ -553,7 +553,7 @@
   "id": "r012fec",
   "kind": "string",
   "jp": "持つ事のできる",
-  "en": "may wield it:",
+  "en": "this proof of",
   "status": "done",
   "ptrs": [
    "0xf2f8"
@@ -564,7 +564,7 @@
   "id": "r012ffc",
   "kind": "string",
   "jp": "最強のあかし",
-  "en": "the greatest",
+  "en": "true might",
   "status": "done",
   "ptrs": [
    "0xf2fc"
@@ -685,7 +685,7 @@
   "id": "r0130b0",
   "kind": "string",
   "jp": "心がくだかれる",
-  "en": "breaks hearts:",
+  "en": "crushes souls:",
   "status": "done",
   "ptrs": [
    "0xf460"
@@ -2082,7 +2082,7 @@
   "id": "r0138e0",
   "kind": "string",
   "jp": "何本にも見える",
-  "en": "it seems many:",
+  "en": "it looks like",
   "status": "done",
   "ptrs": [
    "0x10360"
@@ -2093,7 +2093,7 @@
   "id": "r0138f0",
   "kind": "string",
   "jp": "というアーム",
-  "en": "a wild Arm",
+  "en": "many Arms",
   "status": "done",
   "ptrs": [
    "0x10364"
@@ -7397,7 +7397,7 @@
   "id": "r015cd8",
   "kind": "string",
   "jp": "ラックアンチ",
-  "en": "Anti-Crit",
+  "en": "Anti-Luck",
   "status": "done",
   "ptrs": [
    "0x152e0"
@@ -7441,7 +7441,7 @@
   "id": "r015d18",
   "kind": "string",
   "jp": "Ｓラックアンチ",
-  "en": "S Anti-Crit",
+  "en": "S Anti-Luck",
   "status": "done",
   "ptrs": [
    "0x152f8"
@@ -9982,7 +9982,7 @@
   "id": "r01726c",
   "kind": "string",
   "jp": "オーラがカイフク",
-  "en": "no aura regen",
+  "en": "aura won't",
   "status": "done",
   "ptrs": [
    "0x1654c"
@@ -9993,7 +9993,7 @@
   "id": "r017280",
   "kind": "string",
   "jp": "しないこうげき",
-  "en": "after the hit",
+  "en": "recover on hit",
   "status": "done",
   "ptrs": [
    "0x16550"
@@ -10081,7 +10081,7 @@
   "id": "r0172f0",
   "kind": "string",
   "jp": "オーラがカイフク",
-  "en": "no aura regen",
+  "en": "aura won't",
   "status": "done",
   "ptrs": [
    "0x16584"
@@ -10092,7 +10092,7 @@
   "id": "r017304",
   "kind": "string",
   "jp": "しないこうげき",
-  "en": "after the hit",
+  "en": "recover on hit",
   "status": "done",
   "ptrs": [
    "0x16588"
