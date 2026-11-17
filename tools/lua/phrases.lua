@@ -2,7 +2,8 @@
 -- mode +0x20, list +0x2C, buffer +0xC (10 bytes)), confirming an entry the checker 0x080501CC rejects fills
 -- the field with a default phrase: 0x0804EE4C(list 1-8) = table EWRAM 0x0200B628.. (r077ac4-r077bf0: default
 -- names, win quotes, greetings, favourite words), entry = rand() mod k via 0x08020BD4. Mode 5 (password) prints
--- "Password error!" instead. This probe sets mode MODE (0), list n and forces entry j (the modulo result at
+-- "Password error!" instead (ENTRY_MODE=5 with list n >= 1 is box naming: an empty entry becomes "Box"+n via
+-- 0x08050190, r077c70). This probe sets mode ENTRY_MODE (0), list n and forces entry j (the modulo result at
 -- the picker's call sites), restores the empty buffer, presses START (cursor to END) + A, and shoots.
 --   warp.py rpg_town --script tools/lua/pcmenu.lua --script tools/lua/phrases.lua \
 --     --set "post=60 -;8 down;8 -;8 down;8 -;8 down;8 -;8 a;120 -" --set hold=9000 --set frames=26000
@@ -20,7 +21,9 @@ for _, pc in ipairs({ 0x0804EE94, 0x0804EEAC, 0x0804EEC4, 0x0804EEDC, 0x0804EEF4
     emu.setState(s)
   end) end
 end
-local KS = { 4, 3, 4, 5, 3, 3, 1, 3 }   -- entries per list 1-8 (tables 0xEED6C..0xEEDE0)
+-- entries per list 1-8 = the picker's modulus (movs r1,#k before 0x08020BD4 in each case of the jump table
+-- at 0x0804EE68); lists 1/5/3/7 = EWRAM 0x0200B628/63C/650/664 (5 each), 2/6/4/8 = B678/684/690/69C (3 each)
+local KS = { 5, 3, 5, 3, 5, 3, 5, 3 }
 local n, j, t, step = 1, 0, 0, 0
 local empty
 L.on_frame(function(f)
@@ -42,7 +45,7 @@ L.on_frame(function(f)
     if state ~= 6 then return end
     for k = 0, 9 do emu.write(st + 0xC + k, empty[k], M) end
     emu.write(st + 0x23, empty.len, M)
-    emu.write(st + 0x20, MODE or 0, M)
+    emu.write(st + 0x20, ENTRY_MODE or 0, M)   -- not MODE: warp.lua reads MODE as the game-mode redirect
     emu.write(st + 0x2C, n, M)
     J = j
     L.press("start", 6); L.press("-", 10); L.press("a", 6)

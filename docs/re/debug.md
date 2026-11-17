@@ -360,3 +360,30 @@ needs its arg meaning, scenes and id sweeps (next worker).
 - Still open: r076ad8 "Is this OK?" = state 2 of struct `*(0x03005004)` (byte +0xF, state table ROM 0xEF1A0,
   tick inside `0x08045770`, reached via list-callback table EWRAM 0x0200B4C8 index `task+0x30` = 7); not
   create_face (its code is 0x08044Fxx-0x080454xx) and not menu_chara.
+  27th worker: the struct is allocated only by `0x0804568C` (store at 0x08045698) = entry 5 of the table at
+  EWRAM 0x0200B4C8 (ROM 0xEEC0C: 0 `0x08042135`, 1 `0x0804217D`, 2 `0x08042545`, 3 `0x08045629`, 4 `0x08042549`,
+  5 `0x0804568D` init, 6 `0x0804254D`, 7 `0x08045771` tick, 8 `0x080425D1`, 9 `0x08045861`). Its only reader
+  `0x08042098` (`task+0x30` index, line 0x0804210A) ran once at f1508 in `menu_chara` (`EXEC` probe), not on the
+  page. State machine (table ROM 0xEF1A0): state 0 `0x080459D4(arg)` sets state 1 when arg > 0 (0x08045AE6),
+  state 1 `0x08045B08` sets 2, state 2 `0x08045B20` prints r076ad8 once `0x08072D04` != 0 and sets 3. Next: find
+  the screen whose task gets `+0x30` = 5 (`adds r0,#0x30; strb` sites: 0x0802A8D8, 0x08045316, 0x08046606,
+  0x0804A9C2, 0x0804D5AE, 0x0804EB6C; none store a literal 5).
+
+## Coverage closures (2026-11-18, 27th worker)
+
+- **Default phrases**: the picker `0x0804EE4C` takes `rand() mod k` with k = 5,3,5,3,5,3,5,3 for lists 1-8 (jump
+  table 0x0804EE68; lists 1/5/3/7 = EWRAM 0x0200B628/63C/650/664, 2/6/4/8 = B678/684/690/69C). `phrases.lua` had
+  4,3,4,5,3,3,1,3 and missed 4 entries; fixed, all 32 drawn (`work/qa/cover/ids/phrases3`).
+- **Box naming**: text-entry mode 5 with list n >= 1 and an empty entry fills "Box"+n (`0x08050190`, r077c70, from
+  0x0804FBEC/0x0804FCB6/0x0804FDCA). `phrases.lua --var ENTRY_MODE=5` (renamed from MODE, which warp.lua reads as
+  the game-mode redirect and broke the warp) (`boxname`).
+- **Battle pause** = window 13 "Back / Quit" (window 12 = "Back" only, when `*(0x03006FC0+4)` == 0): START in any
+  battle, `0x08057408` (game mode 23 = battle, `0x08055DF4`). Window open = `0x080712B8(id)`, id byte
+  0x03002B00, window table EWRAM 0x02008F20 (ROM 0xEC664, pairs init/tick). Scene `battle_pause` (VRX fight +
+  START), r0e215c/r0e213c fit.
+- **Book prompt "Name:"** (r0780fc): the slot panel of the RPG book prompt prints "Name:" only with a save:
+  `prompt_rpg` + REGSET `{{0x08055602,0,1},{0x080559F4,0,1},{0x0805564E,0,1}}` (`prompt_name2`; name field
+  empty because the save is faked).
+- Waived (docs/text_unshown.tsv): r07b2dc "Gravity" (floor type 7; stage records ROM 0x7AEAC, 20 x 12 bytes,
+  byte 3 = floor 0-6, read by `0x08066D20`) and r07812c "OK to delete this character?" (slot +8 of 0x0200BFEC,
+  never read; the data-delete step table 0x0200BFDC stops at step 3, 0x0805490E).
