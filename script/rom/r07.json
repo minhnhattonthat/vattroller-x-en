@@ -2461,8 +2461,8 @@
   "id": "r07686c",
   "kind": "string",
   "jp": "たねがたくさん",
-  "en": "",
-  "status": "new",
+  "en": "lots of seeds",
+  "status": "done",
   "ptrs": [
    "0xeeb0c"
   ],
@@ -2472,8 +2472,8 @@
   "id": "r07687c",
   "kind": "string",
   "jp": "ために",
-  "en": "",
-  "status": "new",
+  "en": "the",
+  "status": "done",
   "ptrs": [
    "0xeeb08"
   ],
@@ -2483,8 +2483,8 @@
   "id": "r076884",
   "kind": "string",
   "jp": "となり",
-  "en": "",
-  "status": "new",
+  "en": "now,",
+  "status": "done",
   "ptrs": [
    "0xeeb04"
   ],
@@ -2494,8 +2494,8 @@
   "id": "r076890",
   "kind": "string",
   "jp": "たべるゆうきは",
-  "en": "",
-  "status": "new",
+  "en": "Who dares eat",
+  "status": "done",
   "ptrs": [
    "0xeeb64"
   ],
@@ -2505,8 +2505,8 @@
   "id": "r0768a0",
   "kind": "string",
   "jp": "おいしいらしい",
-  "en": "",
-  "status": "new",
+  "en": "and tasty",
+  "status": "done",
   "ptrs": [
    "0xeeb60"
   ],
@@ -2516,8 +2516,8 @@
   "id": "r0768b0",
   "kind": "string",
   "jp": "ほんものかどうか",
-  "en": "",
-  "status": "new",
+  "en": "Real or not?",
+  "status": "done",
   "ptrs": [
    "0xeeb5c"
   ],
@@ -2527,8 +2527,8 @@
   "id": "r0768c4",
   "kind": "string",
   "jp": "らしい",
-  "en": "",
-  "status": "new",
+  "en": "maybe",
+  "status": "done",
   "ptrs": [
    "0xeeb58"
   ],
@@ -2538,8 +2538,8 @@
   "id": "r0768cc",
   "kind": "string",
   "jp": "しているらしい",
-  "en": "",
-  "status": "new",
+  "en": "they say",
+  "status": "done",
   "ptrs": [
    "0xeeb54"
   ],
@@ -2549,8 +2549,8 @@
   "id": "r0768dc",
   "kind": "string",
   "jp": "Ｖスキルを",
-  "en": "",
-  "status": "new",
+  "en": "V Skills",
+  "status": "done",
   "ptrs": [
    "0xeeb50"
   ],
@@ -2560,8 +2560,8 @@
   "id": "r0768e8",
   "kind": "string",
   "jp": "読めない",
-  "en": "",
-  "status": "new",
+  "en": "to read",
+  "status": "done",
   "ptrs": [
    "0xeeb4c"
   ],
@@ -2571,8 +2571,8 @@
   "id": "r0768f4",
   "kind": "string",
   "jp": "はいっている",
-  "en": "",
-  "status": "new",
+  "en": "inside",
+  "status": "done",
   "ptrs": [
    "0xeeb44"
   ],
@@ -2582,8 +2582,8 @@
   "id": "r076904",
   "kind": "string",
   "jp": "つまっている",
-  "en": "",
-  "status": "new",
+  "en": "packed in",
+  "status": "done",
   "ptrs": [
    "0xeeb40"
   ],
@@ -2593,8 +2593,8 @@
   "id": "r076914",
   "kind": "string",
   "jp": "ひつようなパス",
-  "en": "",
-  "status": "new",
+  "en": "required pass",
+  "status": "done",
   "ptrs": [
    "0xeeb3c"
   ],
@@ -2604,8 +2604,8 @@
   "id": "r076924",
   "kind": "string",
   "jp": "バトリーグに",
-  "en": "",
-  "status": "new",
+  "en": "Vattleague",
+  "status": "done",
   "ptrs": [
    "0xeeb38"
   ],
@@ -2615,8 +2615,8 @@
   "id": "r076934",
   "kind": "string",
   "jp": "ない",
-  "en": "",
-  "status": "new",
+  "en": "it?",
+  "status": "done",
   "ptrs": [
    "0xeeb98"
   ],
@@ -2626,8 +2626,8 @@
   "id": "r07693c",
   "kind": "string",
   "jp": "あやしい",
-  "en": "",
-  "status": "new",
+  "en": "Dubious",
+  "status": "done",
   "ptrs": [
    "0xeeb90"
   ],
@@ -2637,8 +2637,8 @@
   "id": "r076948",
   "kind": "string",
   "jp": "おしえてあげよう",
-  "en": "",
-  "status": "new",
+  "en": "you can teach",
+  "status": "done",
   "ptrs": [
    "0xeeb84"
   ],
@@ -2648,8 +2648,8 @@
   "id": "r07695c",
   "kind": "string",
   "jp": "さんかできるぞ",
-  "en": "",
-  "status": "new",
+  "en": "entry is open!",
+  "status": "done",
   "ptrs": [
    "0xeeb6c"
   ],
@@ -2659,8 +2659,8 @@
   "id": "r07696c",
   "kind": "string",
   "jp": "　ひかえ　　",
-  "en": "",
-  "status": "new",
+  "en": " Bench ",
+  "status": "done",
   "ptrs": [
    "0xeebd0"
   ],
@@ -2670,8 +2670,8 @@
   "id": "r07697c",
   "kind": "string",
   "jp": "　ともだち　",
-  "en": "",
-  "status": "new",
+  "en": " Friends ",
+  "status": "done",
   "ptrs": [
    "0xeebb0"
   ],
@@ -2681,8 +2681,8 @@
   "id": "r07698c",
   "kind": "string",
   "jp": "キャラクター",
-  "en": "",
-  "status": "new",
+  "en": "Character",
+  "status": "done",
   "ptrs": [
    "0xeebac"
   ],
@@ -2692,8 +2692,8 @@
   "id": "r07699c",
   "kind": "string",
   "jp": "　ツール　　",
-  "en": "",
-  "status": "new",
+  "en": " Tools ",
+  "status": "done",
   "ptrs": [
    "0xeeba8"
   ],
@@ -2703,8 +2703,8 @@
   "id": "r0769ac",
   "kind": "string",
   "jp": "　アーム　　",
-  "en": "",
-  "status": "new",
+  "en": " Arms ",
+  "status": "done",
   "ptrs": [
    "0xeeba4"
   ],
@@ -2714,8 +2714,8 @@
   "id": "r0769bc",
   "kind": "string",
   "jp": "だいじなもの",
-  "en": "",
-  "status": "new",
+  "en": "Key Items",
+  "status": "done",
   "ptrs": [
    "0xeeba0"
   ],
@@ -2725,8 +2725,8 @@
   "id": "r0769cc",
   "kind": "string",
   "jp": "　Ｖスキル　",
-  "en": "",
-  "status": "new",
+  "en": " V Skills ",
+  "status": "done",
   "ptrs": [
    "0xeeb9c",
    "0xeebb4",
@@ -2744,8 +2744,8 @@
   "id": "r0769dc",
   "kind": "string",
   "jp": "／",
-  "en": "",
-  "status": "new",
+  "en": "/",
+  "status": "done",
   "ptrs": [
    "0x40584"
   ],
@@ -2755,8 +2755,8 @@
   "id": "r0769e4",
   "kind": "string",
   "jp": "ＮＥＷ",
-  "en": "",
-  "status": "new",
+  "en": "NEW",
+  "status": "done",
   "ptrs": [
    "0x40dd4"
   ],
@@ -2766,8 +2766,8 @@
   "id": "r0769ec",
   "kind": "string",
   "jp": "ウナギケーキ",
-  "en": "",
-  "status": "new",
+  "en": "Eel Cake",
+  "status": "done",
   "ptrs": [
    "0xeec08"
   ],
@@ -2777,8 +2777,8 @@
   "id": "r0769fc",
   "kind": "string",
   "jp": "ウナギ",
-  "en": "",
-  "status": "new",
+  "en": "Eel",
+  "status": "done",
   "ptrs": [
    "0xeec04"
   ],
@@ -2788,8 +2788,8 @@
   "id": "r076a04",
   "kind": "string",
   "jp": "カッパのて",
-  "en": "",
-  "status": "new",
+  "en": "Kappa Hand",
+  "status": "done",
   "ptrs": [
    "0xeec00"
   ],
@@ -2799,8 +2799,8 @@
   "id": "r076a10",
   "kind": "string",
   "jp": "ワカメ",
-  "en": "",
-  "status": "new",
+  "en": "Seaweed",
+  "status": "done",
   "ptrs": [
    "0xeebfc"
   ],
@@ -2810,8 +2810,8 @@
   "id": "r076a18",
   "kind": "string",
   "jp": "タワーのパンフ",
-  "en": "",
-  "status": "new",
+  "en": "Tower Pamphlet",
+  "status": "done",
   "ptrs": [
    "0xeebf8"
   ],
@@ -2821,8 +2821,8 @@
   "id": "r076a28",
   "kind": "string",
   "jp": "マスターのあかし",
-  "en": "",
-  "status": "new",
+  "en": "Master's Proof",
+  "status": "done",
   "ptrs": [
    "0xeebf4"
   ],
@@ -2832,8 +2832,8 @@
   "id": "r076a3c",
   "kind": "string",
   "jp": "ＶＲじてん",
-  "en": "",
-  "status": "new",
+  "en": "VR Ency.",
+  "status": "done",
   "ptrs": [
    "0xeebf0"
   ],
@@ -2843,8 +2843,8 @@
   "id": "r076a48",
   "kind": "string",
   "jp": "しょるい",
-  "en": "",
-  "status": "new",
+  "en": "Papers",
+  "status": "done",
   "ptrs": [
    "0xeebec"
   ],
@@ -2854,8 +2854,8 @@
   "id": "r076a54",
   "kind": "string",
   "jp": "だんご",
-  "en": "",
-  "status": "new",
+  "en": "Dango",
+  "status": "done",
   "ptrs": [
    "0xeebe8"
   ],
@@ -2865,8 +2865,8 @@
   "id": "r076a5c",
   "kind": "string",
   "jp": "スイカ",
-  "en": "",
-  "status": "new",
+  "en": "Watermelon",
+  "status": "done",
   "ptrs": [
    "0xeebe4"
   ],
@@ -2876,8 +2876,8 @@
   "id": "r076a64",
   "kind": "string",
   "jp": "マルスパス",
-  "en": "",
-  "status": "new",
+  "en": "Mars Pass",
+  "status": "done",
   "ptrs": [
    "0xeebe0"
   ],
@@ -2887,8 +2887,8 @@
   "id": "r076a70",
   "kind": "string",
   "jp": "バトリーグパス",
-  "en": "",
-  "status": "new",
+  "en": "Vattleague Pass",
+  "status": "done",
   "ptrs": [
    "0xeebdc"
   ],
@@ -2898,8 +2898,8 @@
   "id": "r076a80",
   "kind": "string",
   "jp": "ぶいんバッチ",
-  "en": "",
-  "status": "new",
+  "en": "Club Badge",
+  "status": "done",
   "ptrs": [
    "0xeebd8"
   ],
@@ -2909,8 +2909,8 @@
   "id": "r076aa4",
   "kind": "string",
   "jp": "フェイスせんたく",
-  "en": "",
-  "status": "new",
+  "en": "Choose Face",
+  "status": "done",
   "ptrs": [
    "0x44f0c"
   ],
@@ -2920,8 +2920,8 @@
   "id": "r076ab8",
   "kind": "string",
   "jp": "フェイスをせんたくしてください",
-  "en": "",
-  "status": "new",
+  "en": "Please choose a face.",
+  "status": "done",
   "ptrs": [
    "0x454b0"
   ],
@@ -2931,8 +2931,8 @@
   "id": "r076ad8",
   "kind": "string",
   "jp": "これでよろしいですか？",
-  "en": "",
-  "status": "new",
+  "en": "Is this OK?",
+  "status": "done",
   "ptrs": [
    "0x45b40"
   ],
@@ -2942,8 +2942,8 @@
   "id": "r076af0",
   "kind": "string",
   "jp": "キャラクターデータ",
-  "en": "",
-  "status": "new",
+  "en": "Character Data",
+  "status": "done",
   "ptrs": [
    "0x45ecc"
   ],
@@ -2953,8 +2953,8 @@
   "id": "r076b04",
   "kind": "string",
   "jp": "なまえ",
-  "en": "",
-  "status": "new",
+  "en": "Name",
+  "status": "done",
   "ptrs": [
    "0x45ed4"
   ],
@@ -2964,8 +2964,8 @@
   "id": "r076b0c",
   "kind": "string",
   "jp": "－－－",
-  "en": "",
-  "status": "new",
+  "en": "---",
+  "status": "done",
   "ptrs": [
    "0x45f0c"
   ],
@@ -2975,8 +2975,8 @@
   "id": "r076b0d",
   "kind": "string",
   "jp": "|－－",
-  "en": "",
-  "status": "new",
+  "en": "|--",
+  "status": "done",
   "ptrs": [
    "0xf0b38"
   ],
@@ -2987,8 +2987,8 @@
   "id": "r076b14",
   "kind": "string",
   "jp": "ＬＶ",
-  "en": "",
-  "status": "new",
+  "en": "LV",
+  "status": "done",
   "ptrs": [
    "0x460e0"
   ],
@@ -2998,8 +2998,8 @@
   "id": "r076b1c",
   "kind": "string",
   "jp": "すきなことば",
-  "en": "",
-  "status": "new",
+  "en": "Fav. Word",
+  "status": "done",
   "ptrs": [
    "0x460e8"
   ],
@@ -3009,8 +3009,8 @@
   "id": "r076b2c",
   "kind": "string",
   "jp": "Ｖメダル",
-  "en": "",
-  "status": "new",
+  "en": "V Medal",
+  "status": "done",
   "ptrs": [
    "0x460f0"
   ],
@@ -3020,8 +3020,8 @@
   "id": "r076b38",
   "kind": "string",
   "jp": "　Ｓ　",
-  "en": "",
-  "status": "new",
+  "en": " S ",
+  "status": "done",
   "ptrs": [
    "0xef1f0"
   ],
@@ -3031,8 +3031,8 @@
   "id": "r076b40",
   "kind": "string",
   "jp": "　Ａ　",
-  "en": "",
-  "status": "new",
+  "en": " A ",
+  "status": "done",
   "ptrs": [
    "0xef1ec"
   ],
@@ -3042,8 +3042,8 @@
   "id": "r076b48",
   "kind": "string",
   "jp": "　Ｂ　",
-  "en": "",
-  "status": "new",
+  "en": " B ",
+  "status": "done",
   "ptrs": [
    "0xef1e8"
   ],
@@ -3053,8 +3053,8 @@
   "id": "r076b50",
   "kind": "string",
   "jp": "　Ｃ　",
-  "en": "",
-  "status": "new",
+  "en": " C ",
+  "status": "done",
   "ptrs": [
    "0xef1e4"
   ],
@@ -3064,8 +3064,8 @@
   "id": "r076b58",
   "kind": "string",
   "jp": "　Ｄ　",
-  "en": "",
-  "status": "new",
+  "en": " D ",
+  "status": "done",
   "ptrs": [
    "0xef1e0"
   ],
@@ -3086,8 +3086,8 @@
   "id": "r076b64",
   "kind": "string",
   "jp": "アーマレットをせんたくしてください",
-  "en": "",
-  "status": "new",
+  "en": "Please choose an Armalet.",
+  "status": "done",
   "ptrs": [
    "0xef1fc"
   ],
@@ -3097,8 +3097,8 @@
   "id": "r076b88",
   "kind": "string",
   "jp": "まず　あなたの分身をつくりましょう",
-  "en": "",
-  "status": "new",
+  "en": "First, let's create your avatar.",
+  "status": "done",
   "ptrs": [
    "0xef1f8"
   ],
@@ -3108,8 +3108,8 @@
   "id": "r076bac",
   "kind": "string",
   "jp": "あなたは　この物語の主人公です",
-  "en": "",
-  "status": "new",
+  "en": "You are this story's hero.",
+  "status": "done",
   "ptrs": [
    "0xef1f4"
   ],
@@ -3119,8 +3119,8 @@
   "id": "r076bcc",
   "kind": "string",
   "jp": "アーマレットせんたく",
-  "en": "",
-  "status": "new",
+  "en": "Armalet Select",
+  "status": "done",
   "ptrs": [
    "0x47044"
   ],
@@ -3130,8 +3130,8 @@
   "id": "r076c00",
   "kind": "string",
   "jp": "　　せってい　　　",
-  "en": "",
-  "status": "new",
+  "en": "  Settings",
+  "status": "done",
   "ptrs": [
    "0x4807c"
   ],
@@ -3141,8 +3141,8 @@
   "id": "r076c14",
   "kind": "string",
   "jp": "あいさつ",
-  "en": "",
-  "status": "new",
+  "en": "Greeting",
+  "status": "done",
   "ptrs": [
    "0x48084"
   ],
@@ -3152,8 +3152,8 @@
   "id": "r076c20",
   "kind": "string",
   "jp": "かちセリフ",
-  "en": "",
-  "status": "new",
+  "en": "Win Quote",
+  "status": "done",
   "ptrs": [
    "0x4808c"
   ],
@@ -3163,8 +3163,8 @@
   "id": "r076c2c",
   "kind": "string",
   "jp": "メッセージスピード",
-  "en": "",
-  "status": "new",
+  "en": "Message Speed",
+  "status": "done",
   "ptrs": [
    "0x480a0"
   ],
@@ -3174,8 +3174,8 @@
   "id": "r076c40",
   "kind": "string",
   "jp": "おそい　",
-  "en": "",
-  "status": "new",
+  "en": "Slow",
+  "status": "done",
   "ptrs": [
    "0x480a8"
   ],
@@ -3185,8 +3185,8 @@
   "id": "r076c4c",
   "kind": "string",
   "jp": "ふつう　",
-  "en": "",
-  "status": "new",
+  "en": "Normal",
+  "status": "done",
   "ptrs": [
    "0x480b0"
   ],
@@ -3196,8 +3196,8 @@
   "id": "r076c58",
   "kind": "string",
   "jp": "はやい　",
-  "en": "",
-  "status": "new",
+  "en": "Fast",
+  "status": "done",
   "ptrs": [
    "0x480b8"
   ],
@@ -3207,8 +3207,8 @@
   "id": "r076c64",
   "kind": "string",
   "jp": "さいそく",
-  "en": "",
-  "status": "new",
+  "en": "Fastest",
+  "status": "done",
   "ptrs": [
    "0x480c0"
   ],
@@ -3218,8 +3218,8 @@
   "id": "r076c9c",
   "kind": "string",
   "jp": "かくにん",
-  "en": "",
-  "status": "new",
+  "en": "Confirm",
+  "status": "done",
   "ptrs": [
    "0x4a810"
   ],
@@ -3229,8 +3229,8 @@
   "id": "r076d18",
   "kind": "string",
   "jp": "　○　",
-  "en": "",
-  "status": "new",
+  "en": " O ",
+  "status": "done",
   "ptrs": [
    "0xee7d4"
   ],
@@ -3240,8 +3240,8 @@
   "id": "r076d20",
   "kind": "string",
   "jp": "　×　",
-  "en": "",
-  "status": "new",
+  "en": " X ",
+  "status": "done",
   "ptrs": [
    "0xee7d0"
   ],
@@ -3251,8 +3251,8 @@
   "id": "r076d28",
   "kind": "string",
   "jp": "ゲストＣ",
-  "en": "",
-  "status": "new",
+  "en": "Guest C",
+  "status": "done",
   "ptrs": [
    "0xee808"
   ],
@@ -3262,8 +3262,8 @@
   "id": "r076d34",
   "kind": "string",
   "jp": "ゲストＢ",
-  "en": "",
-  "status": "new",
+  "en": "Guest B",
+  "status": "done",
   "ptrs": [
    "0xee804"
   ],
@@ -3273,8 +3273,8 @@
   "id": "r076d40",
   "kind": "string",
   "jp": "ゲストＡ",
-  "en": "",
-  "status": "new",
+  "en": "Guest A",
+  "status": "done",
   "ptrs": [
    "0xee800"
   ],
@@ -3284,8 +3284,8 @@
   "id": "r076d4c",
   "kind": "string",
   "jp": "リーブ",
-  "en": "",
-  "status": "new",
+  "en": "Reeve",
+  "status": "done",
   "ptrs": [
    "0xee7fc"
   ],
@@ -3295,8 +3295,8 @@
   "id": "r076d54",
   "kind": "string",
   "jp": "アシスト",
-  "en": "",
-  "status": "new",
+  "en": "Assist",
+  "status": "done",
   "ptrs": [
    "0xee7f8"
   ],
@@ -3306,8 +3306,8 @@
   "id": "r076d60",
   "kind": "string",
   "jp": "エクスバウンダー",
-  "en": "",
-  "status": "new",
+  "en": "Ex-Bounder",
+  "status": "done",
   "ptrs": [
    "0xee7f4"
   ],
@@ -3317,8 +3317,8 @@
   "id": "r076d74",
   "kind": "string",
   "jp": "バウンダー",
-  "en": "",
-  "status": "new",
+  "en": "Bounder",
+  "status": "done",
   "ptrs": [
    "0xee7f0"
   ],
@@ -3328,8 +3328,8 @@
   "id": "r076d80",
   "kind": "string",
   "jp": "エクスハント",
-  "en": "",
-  "status": "new",
+  "en": "Ex-Hunt",
+  "status": "done",
   "ptrs": [
    "0xee7ec"
   ],
@@ -3339,8 +3339,8 @@
   "id": "r076d90",
   "kind": "string",
   "jp": "ハント",
-  "en": "",
-  "status": "new",
+  "en": "Hunt",
+  "status": "done",
   "ptrs": [
    "0xee7e8"
   ],
@@ -3350,8 +3350,8 @@
   "id": "r076d98",
   "kind": "string",
   "jp": "エクスストライク",
-  "en": "",
-  "status": "new",
+  "en": "Ex-Strike",
+  "status": "done",
   "ptrs": [
    "0xee7e4"
   ],
@@ -3361,8 +3361,8 @@
   "id": "r076dac",
   "kind": "string",
   "jp": "ストライク",
-  "en": "",
-  "status": "new",
+  "en": "Strike",
+  "status": "done",
   "ptrs": [
    "0xee7e0"
   ],
@@ -3372,8 +3372,8 @@
   "id": "r076db8",
   "kind": "string",
   "jp": "エクスブレード",
-  "en": "",
-  "status": "new",
+  "en": "Ex-Blade",
+  "status": "done",
   "ptrs": [
    "0xee7dc"
   ],
@@ -3383,8 +3383,8 @@
   "id": "r076dc8",
   "kind": "string",
   "jp": "ブレード",
-  "en": "",
-  "status": "new",
+  "en": "Blade",
+  "status": "done",
   "ptrs": [
    "0xee7d8"
   ],
@@ -3394,8 +3394,8 @@
   "id": "r076dd4",
   "kind": "string",
   "jp": "－－－",
-  "en": "",
-  "status": "new",
+  "en": "---",
+  "status": "done",
   "ptrs": [
    "0x4ce2c",
    "0x4d118"
@@ -3406,8 +3406,8 @@
   "id": "r076e00",
   "kind": "string",
   "jp": "これでよろしいですか？",
-  "en": "",
-  "status": "new",
+  "en": "Is this OK?",
+  "status": "done",
   "ptrs": [
    "0xee8c0"
   ],
@@ -3417,8 +3417,8 @@
   "id": "r076e18",
   "kind": "string",
   "jp": "すてるアイテムをえらんでください",
-  "en": "",
-  "status": "new",
+  "en": "Choose an item to throw away.",
+  "status": "done",
   "ptrs": [
    "0xee8bc"
   ],
@@ -3428,8 +3428,8 @@
   "id": "r076e3c",
   "kind": "string",
   "jp": "１５",
-  "en": "",
-  "status": "new",
+  "en": "15",
+  "status": "done",
   "ptrs": [
    "0xee924"
   ],
@@ -3439,8 +3439,8 @@
   "id": "r076e44",
   "kind": "string",
   "jp": "１４",
-  "en": "",
-  "status": "new",
+  "en": "14",
+  "status": "done",
   "ptrs": [
    "0xee920"
   ],
@@ -3450,8 +3450,8 @@
   "id": "r076e4c",
   "kind": "string",
   "jp": "１３",
-  "en": "",
-  "status": "new",
+  "en": "13",
+  "status": "done",
   "ptrs": [
    "0xee91c"
   ],
@@ -3461,8 +3461,8 @@
   "id": "r076e54",
   "kind": "string",
   "jp": "１２",
-  "en": "",
-  "status": "new",
+  "en": "12",
+  "status": "done",
   "ptrs": [
    "0xee918"
   ],
@@ -3472,8 +3472,8 @@
   "id": "r076e5c",
   "kind": "string",
   "jp": "１１",
-  "en": "",
-  "status": "new",
+  "en": "11",
+  "status": "done",
   "ptrs": [
    "0xee914"
   ],
@@ -3483,8 +3483,8 @@
   "id": "r076e64",
   "kind": "string",
   "jp": "１０",
-  "en": "",
-  "status": "new",
+  "en": "10",
+  "status": "done",
   "ptrs": [
    "0xee910"
   ],
@@ -3494,8 +3494,8 @@
   "id": "r076e6c",
   "kind": "string",
   "jp": "　９",
-  "en": "",
-  "status": "new",
+  "en": " 9",
+  "status": "done",
   "ptrs": [
    "0xee90c"
   ],
@@ -3505,8 +3505,8 @@
   "id": "r076e6d",
   "kind": "string",
   "jp": "@９",
-  "en": "",
-  "status": "new",
+  "en": "@9",
+  "status": "done",
   "ptrs": [
    "0xf0b40"
   ],
@@ -3517,8 +3517,8 @@
   "id": "r076e74",
   "kind": "string",
   "jp": "　８",
-  "en": "",
-  "status": "new",
+  "en": " 8",
+  "status": "done",
   "ptrs": [
    "0xee908"
   ],
@@ -3528,8 +3528,8 @@
   "id": "r076e7c",
   "kind": "string",
   "jp": "　７",
-  "en": "",
-  "status": "new",
+  "en": " 7",
+  "status": "done",
   "ptrs": [
    "0xee904"
   ],
@@ -3539,8 +3539,8 @@
   "id": "r076e84",
   "kind": "string",
   "jp": "　６",
-  "en": "",
-  "status": "new",
+  "en": " 6",
+  "status": "done",
   "ptrs": [
    "0xee900"
   ],
@@ -3550,8 +3550,8 @@
   "id": "r076e8c",
   "kind": "string",
   "jp": "　５",
-  "en": "",
-  "status": "new",
+  "en": " 5",
+  "status": "done",
   "ptrs": [
    "0xee8fc"
   ],
@@ -3561,8 +3561,8 @@
   "id": "r076e94",
   "kind": "string",
   "jp": "　４",
-  "en": "",
-  "status": "new",
+  "en": " 4",
+  "status": "done",
   "ptrs": [
    "0xee8f8"
   ],
@@ -3572,8 +3572,8 @@
   "id": "r076e9c",
   "kind": "string",
   "jp": "　３",
-  "en": "",
-  "status": "new",
+  "en": " 3",
+  "status": "done",
   "ptrs": [
    "0xee8f4"
   ],
@@ -3583,8 +3583,8 @@
   "id": "r076ea4",
   "kind": "string",
   "jp": "　２",
-  "en": "",
-  "status": "new",
+  "en": " 2",
+  "status": "done",
   "ptrs": [
    "0xee8f0"
   ],
@@ -3594,8 +3594,8 @@
   "id": "r076eac",
   "kind": "string",
   "jp": "　１",
-  "en": "",
-  "status": "new",
+  "en": " 1",
+  "status": "done",
   "ptrs": [
    "0xee8ec"
   ],
@@ -3605,8 +3605,8 @@
   "id": "r076eb4",
   "kind": "string",
   "jp": "　０",
-  "en": "",
-  "status": "new",
+  "en": " 0",
+  "status": "done",
   "ptrs": [
    "0xee8e8"
   ],
@@ -3616,8 +3616,8 @@
   "id": "r076ec0",
   "kind": "string",
   "jp": "アーマレットデータ",
-  "en": "",
-  "status": "new",
+  "en": "Armalet Data",
+  "status": "done",
   "ptrs": [
    "0x4e9d4"
   ],
@@ -3627,8 +3627,8 @@
   "id": "r076ed4",
   "kind": "string",
   "jp": "なまえ",
-  "en": "",
-  "status": "new",
+  "en": "Name",
+  "status": "done",
   "ptrs": [
    "0x4e9d8"
   ],
@@ -3638,8 +3638,8 @@
   "id": "r0776a0",
   "kind": "string",
   "jp": "かちセリフにゅうりょく",
-  "en": "",
-  "status": "new",
+  "en": "Enter Win Quote",
+  "status": "done",
   "ptrs": [
    "0xeec44"
   ],
@@ -3649,8 +3649,8 @@
   "id": "r0776b8",
   "kind": "string",
   "jp": "あいさつにゅうりょく",
-  "en": "",
-  "status": "new",
+  "en": "Enter Greeting",
+  "status": "done",
   "ptrs": [
    "0xeec40"
   ],
@@ -3660,8 +3660,8 @@
   "id": "r0776d0",
   "kind": "string",
   "jp": "パスワードにゅうりょく",
-  "en": "",
-  "status": "new",
+  "en": "Enter Password",
+  "status": "done",
   "ptrs": [
    "0xeec3c"
   ],
@@ -3671,8 +3671,8 @@
   "id": "r0776e8",
   "kind": "string",
   "jp": "すきなことばにゅうりょく",
-  "en": "",
-  "status": "new",
+  "en": "Enter Favorite Word",
+  "status": "done",
   "ptrs": [
    "0xeec38"
   ],
@@ -3682,8 +3682,8 @@
   "id": "r077704",
   "kind": "string",
   "jp": "なまえにゅうりょく",
-  "en": "",
-  "status": "new",
+  "en": "Enter Name",
+  "status": "done",
   "ptrs": [
    "0xeec34",
    "0xeec48"
@@ -3692,67 +3692,57 @@
  },
  {
   "id": "r077718",
-  "kind": "string",
+  "kind": "data",
   "jp": "おこそとのほもよろ　ぉっ。＆",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0xeec60"
   ],
-  "wide": true,
-  "max": 14,
   "notes": "name-entry grid row: exactly 14 characters (cells), fullwidth in game"
  },
  {
   "id": "r077738",
-  "kind": "string",
+  "kind": "data",
   "jp": "えけせてねへめ　れ　ぇ　゛！",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0xeec5c"
   ],
-  "wide": true,
-  "max": 14,
   "notes": "name-entry grid row: exactly 14 characters (cells), fullwidth in game"
  },
  {
   "id": "r077758",
-  "kind": "string",
+  "kind": "data",
   "jp": "うくすつぬふむゆるんぅょ°？",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0xeec58"
   ],
-  "wide": true,
-  "max": 14,
   "notes": "name-entry grid row: exactly 14 characters (cells), fullwidth in game"
  },
  {
   "id": "r077778",
-  "kind": "string",
+  "kind": "data",
   "jp": "いきしちにひみ　りをぃゅー≡",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0xeec54"
   ],
-  "wide": true,
-  "max": 14,
   "notes": "name-entry grid row: exactly 14 characters (cells), fullwidth in game"
  },
  {
   "id": "r077798",
-  "kind": "string",
+  "kind": "data",
   "jp": "あかさたなはまやらわぁゃ～∇",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0xeec50"
   ],
-  "wide": true,
-  "max": 14,
   "notes": "name-entry grid row: exactly 14 characters (cells), fullwidth in game"
  },
  {
@@ -3773,75 +3763,65 @@
  },
  {
   "id": "r0777d8",
-  "kind": "string",
+  "kind": "data",
   "jp": "オコソトノホモヨロ　ォッ・ヾ",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0xeec7c"
   ],
-  "wide": true,
-  "max": 14,
   "notes": "name-entry grid row: exactly 14 characters (cells), fullwidth in game"
  },
  {
   "id": "r0777f8",
-  "kind": "string",
+  "kind": "data",
   "jp": "エケセテネヘメ　レ　ェ　゛☆",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0xeec78"
   ],
-  "wide": true,
-  "max": 14,
   "notes": "name-entry grid row: exactly 14 characters (cells), fullwidth in game"
  },
  {
   "id": "r077818",
-  "kind": "string",
+  "kind": "data",
   "jp": "ウクスツヌフムユルンゥョ°♭",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0xeec74"
   ],
-  "wide": true,
-  "max": 14,
   "notes": "name-entry grid row: exactly 14 characters (cells), fullwidth in game"
  },
  {
   "id": "r077838",
-  "kind": "string",
+  "kind": "data",
   "jp": "イキシチニヒミ　リヲィュー＃",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0xeec70"
   ],
-  "wide": true,
-  "max": 14,
   "notes": "name-entry grid row: exactly 14 characters (cells), fullwidth in game"
  },
  {
   "id": "r077858",
-  "kind": "string",
+  "kind": "data",
   "jp": "アカサタナハマヤラワァャ～♪",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0xeec6c"
   ],
-  "wide": true,
-  "max": 14,
   "notes": "name-entry grid row: exactly 14 characters (cells), fullwidth in game"
  },
  {
   "id": "r077878",
   "kind": "string",
   "jp": "０１２３４５６７８９．　　＠",
-  "en": "",
-  "status": "new",
+  "en": "0123456789.  @",
+  "status": "done",
   "ptrs": [
    "0xeec98"
   ],
@@ -3853,8 +3833,8 @@
   "id": "r077898",
   "kind": "string",
   "jp": "ｎｏｐｑｒｓｔｕｖｗｘｙｚ＝",
-  "en": "",
-  "status": "new",
+  "en": "nopqrstuvwxyz=",
+  "status": "done",
   "ptrs": [
    "0xeec94"
   ],
@@ -3866,8 +3846,8 @@
   "id": "r0778b8",
   "kind": "string",
   "jp": "ａｂｃｄｅｆｇｈｉｊｋｌｍ×",
-  "en": "",
-  "status": "new",
+  "en": "abcdefghijklm*",
+  "status": "done",
   "ptrs": [
    "0xeec90"
   ],
@@ -3879,8 +3859,8 @@
   "id": "r0778d8",
   "kind": "string",
   "jp": "ＮＯＰＱＲＳＴＵＶＷＸＹＺ－",
-  "en": "",
-  "status": "new",
+  "en": "NOPQRSTUVWXYZ-",
+  "status": "done",
   "ptrs": [
    "0xeec8c"
   ],
@@ -3892,8 +3872,8 @@
   "id": "r0778f8",
   "kind": "string",
   "jp": "ＡＢＣＤＥＦＧＨＩＪＫＬＭ＋",
-  "en": "",
-  "status": "new",
+  "en": "ABCDEFGHIJKLM+",
+  "status": "done",
   "ptrs": [
    "0xeec88"
   ],
@@ -3903,454 +3883,454 @@
  },
  {
   "id": "r07791c",
-  "kind": "string",
+  "kind": "data",
   "jp": "ホボポ",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0xeed40"
   ],
-  "notes": ""
+  "notes": "dakuten/handakuten lookup tables of the name entry (カガ, ハバパ...): code, keep as is"
  },
  {
   "id": "r077924",
-  "kind": "string",
+  "kind": "data",
   "jp": "ヘベペ",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0xeed3c"
   ],
-  "notes": ""
+  "notes": "dakuten/handakuten lookup tables of the name entry (カガ, ハバパ...): code, keep as is"
  },
  {
   "id": "r07792c",
-  "kind": "string",
+  "kind": "data",
   "jp": "フブプ",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0xeed38"
   ],
-  "notes": ""
+  "notes": "dakuten/handakuten lookup tables of the name entry (カガ, ハバパ...): code, keep as is"
  },
  {
   "id": "r077934",
-  "kind": "string",
+  "kind": "data",
   "jp": "ヒビピ",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0xeed34"
   ],
-  "notes": ""
+  "notes": "dakuten/handakuten lookup tables of the name entry (カガ, ハバパ...): code, keep as is"
  },
  {
   "id": "r07793c",
-  "kind": "string",
+  "kind": "data",
   "jp": "ハバパ",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0xeed30"
   ],
-  "notes": ""
+  "notes": "dakuten/handakuten lookup tables of the name entry (カガ, ハバパ...): code, keep as is"
  },
  {
   "id": "r077944",
-  "kind": "string",
+  "kind": "data",
   "jp": "トド",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0xeed2c"
   ],
-  "notes": ""
+  "notes": "dakuten/handakuten lookup tables of the name entry (カガ, ハバパ...): code, keep as is"
  },
  {
   "id": "r07794c",
-  "kind": "string",
+  "kind": "data",
   "jp": "テデ",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0xeed28"
   ],
-  "notes": ""
+  "notes": "dakuten/handakuten lookup tables of the name entry (カガ, ハバパ...): code, keep as is"
  },
  {
   "id": "r077954",
-  "kind": "string",
+  "kind": "data",
   "jp": "ツヅ",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0xeed24"
   ],
-  "notes": ""
+  "notes": "dakuten/handakuten lookup tables of the name entry (カガ, ハバパ...): code, keep as is"
  },
  {
   "id": "r07795c",
-  "kind": "string",
+  "kind": "data",
   "jp": "チヂ",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0xeed20"
   ],
-  "notes": ""
+  "notes": "dakuten/handakuten lookup tables of the name entry (カガ, ハバパ...): code, keep as is"
  },
  {
   "id": "r077964",
-  "kind": "string",
+  "kind": "data",
   "jp": "タダ",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0xeed1c"
   ],
-  "notes": ""
+  "notes": "dakuten/handakuten lookup tables of the name entry (カガ, ハバパ...): code, keep as is"
  },
  {
   "id": "r07796c",
-  "kind": "string",
+  "kind": "data",
   "jp": "ソゾ",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0xeed18"
   ],
-  "notes": ""
+  "notes": "dakuten/handakuten lookup tables of the name entry (カガ, ハバパ...): code, keep as is"
  },
  {
   "id": "r077974",
-  "kind": "string",
+  "kind": "data",
   "jp": "セゼ",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0xeed14"
   ],
-  "notes": ""
+  "notes": "dakuten/handakuten lookup tables of the name entry (カガ, ハバパ...): code, keep as is"
  },
  {
   "id": "r07797c",
-  "kind": "string",
+  "kind": "data",
   "jp": "スズ",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0xeed10"
   ],
-  "notes": ""
+  "notes": "dakuten/handakuten lookup tables of the name entry (カガ, ハバパ...): code, keep as is"
  },
  {
   "id": "r077984",
-  "kind": "string",
+  "kind": "data",
   "jp": "シジ",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0xeed0c"
   ],
-  "notes": ""
+  "notes": "dakuten/handakuten lookup tables of the name entry (カガ, ハバパ...): code, keep as is"
  },
  {
   "id": "r07798c",
-  "kind": "string",
+  "kind": "data",
   "jp": "サザ",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0xeed08"
   ],
-  "notes": ""
+  "notes": "dakuten/handakuten lookup tables of the name entry (カガ, ハバパ...): code, keep as is"
  },
  {
   "id": "r077994",
-  "kind": "string",
+  "kind": "data",
   "jp": "コゴ",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0xeed04"
   ],
-  "notes": ""
+  "notes": "dakuten/handakuten lookup tables of the name entry (カガ, ハバパ...): code, keep as is"
  },
  {
   "id": "r07799c",
-  "kind": "string",
+  "kind": "data",
   "jp": "ケゲ",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0xeed00"
   ],
-  "notes": ""
+  "notes": "dakuten/handakuten lookup tables of the name entry (カガ, ハバパ...): code, keep as is"
  },
  {
   "id": "r0779a4",
-  "kind": "string",
+  "kind": "data",
   "jp": "クグ",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0xeecfc"
   ],
-  "notes": ""
+  "notes": "dakuten/handakuten lookup tables of the name entry (カガ, ハバパ...): code, keep as is"
  },
  {
   "id": "r0779ac",
-  "kind": "string",
+  "kind": "data",
   "jp": "キギ",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0xeecf8"
   ],
-  "notes": ""
+  "notes": "dakuten/handakuten lookup tables of the name entry (カガ, ハバパ...): code, keep as is"
  },
  {
   "id": "r0779b4",
-  "kind": "string",
+  "kind": "data",
   "jp": "カガ",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0xeecf4"
   ],
-  "notes": ""
+  "notes": "dakuten/handakuten lookup tables of the name entry (カガ, ハバパ...): code, keep as is"
  },
  {
   "id": "r0779bc",
-  "kind": "string",
+  "kind": "data",
   "jp": "ウヴ",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0xeecf0"
   ],
-  "notes": ""
+  "notes": "dakuten/handakuten lookup tables of the name entry (カガ, ハバパ...): code, keep as is"
  },
  {
   "id": "r0779c4",
-  "kind": "string",
+  "kind": "data",
   "jp": "ほぼぽ",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0xeecec"
   ],
-  "notes": ""
+  "notes": "dakuten/handakuten lookup tables of the name entry (カガ, ハバパ...): code, keep as is"
  },
  {
   "id": "r0779cc",
-  "kind": "string",
+  "kind": "data",
   "jp": "へべぺ",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0xeece8"
   ],
-  "notes": ""
+  "notes": "dakuten/handakuten lookup tables of the name entry (カガ, ハバパ...): code, keep as is"
  },
  {
   "id": "r0779d4",
-  "kind": "string",
+  "kind": "data",
   "jp": "ふぶぷ",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0xeece4"
   ],
-  "notes": ""
+  "notes": "dakuten/handakuten lookup tables of the name entry (カガ, ハバパ...): code, keep as is"
  },
  {
   "id": "r0779dc",
-  "kind": "string",
+  "kind": "data",
   "jp": "ひびぴ",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0xeece0"
   ],
-  "notes": ""
+  "notes": "dakuten/handakuten lookup tables of the name entry (カガ, ハバパ...): code, keep as is"
  },
  {
   "id": "r0779e4",
-  "kind": "string",
+  "kind": "data",
   "jp": "はばぱ",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0xeecdc"
   ],
-  "notes": ""
+  "notes": "dakuten/handakuten lookup tables of the name entry (カガ, ハバパ...): code, keep as is"
  },
  {
   "id": "r0779ec",
-  "kind": "string",
+  "kind": "data",
   "jp": "とど",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0xeecd8"
   ],
-  "notes": ""
+  "notes": "dakuten/handakuten lookup tables of the name entry (カガ, ハバパ...): code, keep as is"
  },
  {
   "id": "r0779f4",
-  "kind": "string",
+  "kind": "data",
   "jp": "てで",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0xeecd4"
   ],
-  "notes": ""
+  "notes": "dakuten/handakuten lookup tables of the name entry (カガ, ハバパ...): code, keep as is"
  },
  {
   "id": "r0779fc",
-  "kind": "string",
+  "kind": "data",
   "jp": "つづ",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0xeecd0"
   ],
-  "notes": ""
+  "notes": "dakuten/handakuten lookup tables of the name entry (カガ, ハバパ...): code, keep as is"
  },
  {
   "id": "r077a04",
-  "kind": "string",
+  "kind": "data",
   "jp": "ちぢ",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0xeeccc"
   ],
-  "notes": ""
+  "notes": "dakuten/handakuten lookup tables of the name entry (カガ, ハバパ...): code, keep as is"
  },
  {
   "id": "r077a0c",
-  "kind": "string",
+  "kind": "data",
   "jp": "ただ",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0xeecc8"
   ],
-  "notes": ""
+  "notes": "dakuten/handakuten lookup tables of the name entry (カガ, ハバパ...): code, keep as is"
  },
  {
   "id": "r077a14",
-  "kind": "string",
+  "kind": "data",
   "jp": "そぞ",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0xeecc4"
   ],
-  "notes": ""
+  "notes": "dakuten/handakuten lookup tables of the name entry (カガ, ハバパ...): code, keep as is"
  },
  {
   "id": "r077a1c",
-  "kind": "string",
+  "kind": "data",
   "jp": "せぜ",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0xeecc0"
   ],
-  "notes": ""
+  "notes": "dakuten/handakuten lookup tables of the name entry (カガ, ハバパ...): code, keep as is"
  },
  {
   "id": "r077a24",
-  "kind": "string",
+  "kind": "data",
   "jp": "すず",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0xeecbc"
   ],
-  "notes": ""
+  "notes": "dakuten/handakuten lookup tables of the name entry (カガ, ハバパ...): code, keep as is"
  },
  {
   "id": "r077a2c",
-  "kind": "string",
+  "kind": "data",
   "jp": "しじ",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0xeecb8"
   ],
-  "notes": ""
+  "notes": "dakuten/handakuten lookup tables of the name entry (カガ, ハバパ...): code, keep as is"
  },
  {
   "id": "r077a34",
-  "kind": "string",
+  "kind": "data",
   "jp": "さざ",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0xeecb4"
   ],
-  "notes": ""
+  "notes": "dakuten/handakuten lookup tables of the name entry (カガ, ハバパ...): code, keep as is"
  },
  {
   "id": "r077a3c",
-  "kind": "string",
+  "kind": "data",
   "jp": "こご",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0xeecb0"
   ],
-  "notes": ""
+  "notes": "dakuten/handakuten lookup tables of the name entry (カガ, ハバパ...): code, keep as is"
  },
  {
   "id": "r077a44",
-  "kind": "string",
+  "kind": "data",
   "jp": "けげ",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0xeecac"
   ],
-  "notes": ""
+  "notes": "dakuten/handakuten lookup tables of the name entry (カガ, ハバパ...): code, keep as is"
  },
  {
   "id": "r077a4c",
-  "kind": "string",
+  "kind": "data",
   "jp": "くぐ",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0xeeca8"
   ],
-  "notes": ""
+  "notes": "dakuten/handakuten lookup tables of the name entry (カガ, ハバパ...): code, keep as is"
  },
  {
   "id": "r077a54",
-  "kind": "string",
+  "kind": "data",
   "jp": "きぎ",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0xeeca4"
   ],
-  "notes": ""
+  "notes": "dakuten/handakuten lookup tables of the name entry (カガ, ハバパ...): code, keep as is"
  },
  {
   "id": "r077a5c",
-  "kind": "string",
+  "kind": "data",
   "jp": "かが",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0xeeca0"
   ],
-  "notes": ""
+  "notes": "dakuten/handakuten lookup tables of the name entry (カガ, ハバパ...): code, keep as is"
  },
  {
   "id": "r077a64",
@@ -4444,8 +4424,8 @@
   "id": "r077ac4",
   "kind": "string",
   "jp": "ゲン",
-  "en": "",
-  "status": "new",
+  "en": "Gen",
+  "status": "done",
   "ptrs": [
    "0xeed7c"
   ],
@@ -4457,8 +4437,8 @@
   "id": "r077acc",
   "kind": "string",
   "jp": "ジュン",
-  "en": "",
-  "status": "new",
+  "en": "Jun",
+  "status": "done",
   "ptrs": [
    "0xeed78"
   ],
@@ -4470,8 +4450,8 @@
   "id": "r077ad4",
   "kind": "string",
   "jp": "ツバサ",
-  "en": "",
-  "status": "new",
+  "en": "Sora",
+  "status": "done",
   "ptrs": [
    "0xeed74"
   ],
@@ -4483,8 +4463,8 @@
   "id": "r077adc",
   "kind": "string",
   "jp": "ヨウイチ",
-  "en": "",
-  "status": "new",
+  "en": "Yoichi",
+  "status": "done",
   "ptrs": [
    "0xeed70"
   ],
@@ -4496,8 +4476,8 @@
   "id": "r077ae8",
   "kind": "string",
   "jp": "カイ",
-  "en": "",
-  "status": "new",
+  "en": "Kai",
+  "status": "done",
   "ptrs": [
    "0xeed6c"
   ],
@@ -4509,8 +4489,8 @@
   "id": "r077af0",
   "kind": "string",
   "jp": "よっしゃ",
-  "en": "",
-  "status": "new",
+  "en": "Yeah!",
+  "status": "done",
   "ptrs": [
    "0xeed90"
   ],
@@ -4522,8 +4502,8 @@
   "id": "r077afc",
   "kind": "string",
   "jp": "けいさんずみです",
-  "en": "",
-  "status": "new",
+  "en": "Planned.",
+  "status": "done",
   "ptrs": [
    "0xeed8c"
   ],
@@ -4535,8 +4515,8 @@
   "id": "r077b10",
   "kind": "string",
   "jp": "フッ",
-  "en": "",
-  "status": "new",
+  "en": "Heh",
+  "status": "done",
   "ptrs": [
    "0xeed88"
   ],
@@ -4548,8 +4528,8 @@
   "id": "r077b18",
   "kind": "string",
   "jp": "かちだぜ！",
-  "en": "",
-  "status": "new",
+  "en": "I win!",
+  "status": "done",
   "ptrs": [
    "0xeed84"
   ],
@@ -4561,8 +4541,8 @@
   "id": "r077b24",
   "kind": "string",
   "jp": "やったね！",
-  "en": "",
-  "status": "new",
+  "en": "Did it!",
+  "status": "done",
   "ptrs": [
    "0xeed80"
   ],
@@ -4574,8 +4554,8 @@
   "id": "r077b30",
   "kind": "string",
   "jp": "おう！",
-  "en": "",
-  "status": "new",
+  "en": "Yo!",
+  "status": "done",
   "ptrs": [
    "0xeeda4"
   ],
@@ -4587,8 +4567,8 @@
   "id": "r077b38",
   "kind": "string",
   "jp": "やあ",
-  "en": "",
-  "status": "new",
+  "en": "Hi",
+  "status": "done",
   "ptrs": [
    "0xeeda0"
   ],
@@ -4600,8 +4580,8 @@
   "id": "r077b40",
   "kind": "string",
   "jp": "げんき？",
-  "en": "",
-  "status": "new",
+  "en": "You OK?",
+  "status": "done",
   "ptrs": [
    "0xeed9c"
   ],
@@ -4613,8 +4593,8 @@
   "id": "r077b4c",
   "kind": "string",
   "jp": "よう！",
-  "en": "",
-  "status": "new",
+  "en": "Hey!",
+  "status": "done",
   "ptrs": [
    "0xeed98"
   ],
@@ -4626,8 +4606,8 @@
   "id": "r077b54",
   "kind": "string",
   "jp": "こんにちは",
-  "en": "",
-  "status": "new",
+  "en": "Hello",
+  "status": "done",
   "ptrs": [
    "0xeed94",
    "0xeedd4",
@@ -4641,8 +4621,8 @@
   "id": "r077b60",
   "kind": "string",
   "jp": "もえる",
-  "en": "",
-  "status": "new",
+  "en": "Fire",
+  "status": "done",
   "ptrs": [
    "0xeedb8"
   ],
@@ -4654,8 +4634,8 @@
   "id": "r077b68",
   "kind": "string",
   "jp": "ガッツ",
-  "en": "",
-  "status": "new",
+  "en": "Guts",
+  "status": "done",
   "ptrs": [
    "0xeedb4"
   ],
@@ -4667,8 +4647,8 @@
   "id": "r077b70",
   "kind": "string",
   "jp": "ナイス",
-  "en": "",
-  "status": "new",
+  "en": "Nice",
+  "status": "done",
   "ptrs": [
    "0xeedb0"
   ],
@@ -4680,8 +4660,8 @@
   "id": "r077b78",
   "kind": "string",
   "jp": "クール",
-  "en": "",
-  "status": "new",
+  "en": "Cool",
+  "status": "done",
   "ptrs": [
    "0xeedac"
   ],
@@ -4693,8 +4673,8 @@
   "id": "r077b80",
   "kind": "string",
   "jp": "グレート",
-  "en": "",
-  "status": "new",
+  "en": "Best",
+  "status": "done",
   "ptrs": [
    "0xeeda8"
   ],
@@ -4706,8 +4686,8 @@
   "id": "r077b8c",
   "kind": "string",
   "jp": "イチゴ",
-  "en": "",
-  "status": "new",
+  "en": "Ichigo",
+  "status": "done",
   "ptrs": [
    "0xeedc4"
   ],
@@ -4719,8 +4699,8 @@
   "id": "r077b94",
   "kind": "string",
   "jp": "マイ",
-  "en": "",
-  "status": "new",
+  "en": "Mai",
+  "status": "done",
   "ptrs": [
    "0xeedc0"
   ],
@@ -4732,8 +4712,8 @@
   "id": "r077b9c",
   "kind": "string",
   "jp": "カナ",
-  "en": "",
-  "status": "new",
+  "en": "Kana",
+  "status": "done",
   "ptrs": [
    "0xeedbc"
   ],
@@ -4745,8 +4725,8 @@
   "id": "r077ba4",
   "kind": "string",
   "jp": "かっちゃった",
-  "en": "",
-  "status": "new",
+  "en": "I won~",
+  "status": "done",
   "ptrs": [
    "0xeedd0"
   ],
@@ -4758,8 +4738,8 @@
   "id": "r077bb4",
   "kind": "string",
   "jp": "ごめんなさい",
-  "en": "",
-  "status": "new",
+  "en": "Sorry!",
+  "status": "done",
   "ptrs": [
    "0xeedcc"
   ],
@@ -4771,8 +4751,8 @@
   "id": "r077bc4",
   "kind": "string",
   "jp": "やった～",
-  "en": "",
-  "status": "new",
+  "en": "Yay~!",
+  "status": "done",
   "ptrs": [
    "0xeedc8"
   ],
@@ -4784,8 +4764,8 @@
   "id": "r077bd0",
   "kind": "string",
   "jp": "やっほ！",
-  "en": "",
-  "status": "new",
+  "en": "Yoo-hoo",
+  "status": "done",
   "ptrs": [
    "0xeedd8"
   ],
@@ -4797,8 +4777,8 @@
   "id": "r077bdc",
   "kind": "string",
   "jp": "チョー",
-  "en": "",
-  "status": "new",
+  "en": "Mega",
+  "status": "done",
   "ptrs": [
    "0xeede8"
   ],
@@ -4810,8 +4790,8 @@
   "id": "r077be4",
   "kind": "string",
   "jp": "かわいい",
-  "en": "",
-  "status": "new",
+  "en": "Cute",
+  "status": "done",
   "ptrs": [
    "0xeede4"
   ],
@@ -4823,8 +4803,8 @@
   "id": "r077bf0",
   "kind": "string",
   "jp": "キレイな",
-  "en": "",
-  "status": "new",
+  "en": "Neat",
+  "status": "done",
   "ptrs": [
    "0xeede0"
   ],
@@ -4836,8 +4816,8 @@
   "id": "r077bfc",
   "kind": "string",
   "jp": "すきな言葉をにゅうりょくしてください",
-  "en": "",
-  "status": "new",
+  "en": "Please enter a favorite word.",
+  "status": "done",
   "ptrs": [
    "0xeedf0"
   ],
@@ -4847,8 +4827,8 @@
   "id": "r077c24",
   "kind": "string",
   "jp": "キャラクターになまえをつけてください",
-  "en": "",
-  "status": "new",
+  "en": "Please name your character.",
+  "status": "done",
   "ptrs": [
    "0xeedec"
   ],
@@ -4858,8 +4838,8 @@
   "id": "r077c4c",
   "kind": "string",
   "jp": "アームのなまえにつくことがあります",
-  "en": "",
-  "status": "new",
+  "en": "It may appear in Arm names.",
+  "status": "done",
   "ptrs": [
    "0xeee04"
   ],
@@ -4869,8 +4849,8 @@
   "id": "r077c70",
   "kind": "string",
   "jp": "ボックス",
-  "en": "",
-  "status": "new",
+  "en": "Box",
+  "status": "done",
   "ptrs": [
    "0xeee14"
   ],
@@ -4891,8 +4871,8 @@
   "id": "r077c98",
   "kind": "string",
   "jp": "パスワードエラーです！",
-  "en": "",
-  "status": "new",
+  "en": "Password error!",
+  "status": "done",
   "ptrs": [
    "0x4ffe8"
   ],
@@ -4902,8 +4882,8 @@
   "id": "r077cb0",
   "kind": "string",
   "jp": "アーマレットサイズを",
-  "en": "",
-  "status": "new",
+  "en": "Armalet Size",
+  "status": "done",
   "ptrs": [
    "0x508d0"
   ],
@@ -4913,8 +4893,8 @@
   "id": "r077cc8",
   "kind": "string",
   "jp": "オーバーしています！",
-  "en": "",
-  "status": "new",
+  "en": "exceeded!",
+  "status": "done",
   "ptrs": [
    "0x50904"
   ],
@@ -4924,8 +4904,8 @@
   "id": "r077d40",
   "kind": "string",
   "jp": "アームデータ",
-  "en": "",
-  "status": "new",
+  "en": "Arm Data",
+  "status": "done",
   "ptrs": [
    "0x51a5c"
   ],
@@ -4935,8 +4915,8 @@
   "id": "r077d50",
   "kind": "string",
   "jp": "・",
-  "en": "",
-  "status": "new",
+  "en": "-",
+  "status": "done",
   "ptrs": [
    "0x51a80"
   ],
@@ -4946,8 +4926,8 @@
   "id": "r077d64",
   "kind": "string",
   "jp": "ＬＡＢＲ＋",
-  "en": "",
-  "status": "new",
+  "en": "LABR+",
+  "status": "done",
   "ptrs": [
    "0x532f0"
   ],
@@ -4957,8 +4937,8 @@
   "id": "r077d94",
   "kind": "string",
   "jp": "つづきから　はじめる",
-  "en": "",
-  "status": "new",
+  "en": "Continue",
+  "status": "done",
   "ptrs": [
    "0x54434"
   ],
@@ -4968,8 +4948,8 @@
   "id": "r077dac",
   "kind": "string",
   "jp": "データをけす",
-  "en": "",
-  "status": "new",
+  "en": "Delete Data",
+  "status": "done",
   "ptrs": [
    "0x5443c"
   ],
@@ -4979,8 +4959,8 @@
   "id": "r077dbc",
   "kind": "string",
   "jp": "プレイじかん",
-  "en": "",
-  "status": "new",
+  "en": "Play Time",
+  "status": "done",
   "ptrs": [
    "0x54444"
   ],
@@ -4990,8 +4970,8 @@
   "id": "r077dcc",
   "kind": "string",
   "jp": "バトローラーポイント",
-  "en": "",
-  "status": "new",
+  "en": "Vattroller Points",
+  "status": "done",
   "ptrs": [
    "0x5444c"
   ],
@@ -5001,8 +4981,8 @@
   "id": "r077de4",
   "kind": "string",
   "jp": "バトルかいすう",
-  "en": "",
-  "status": "new",
+  "en": "Battles",
+  "status": "done",
   "ptrs": [
    "0x54454"
   ],
@@ -5023,8 +5003,8 @@
   "id": "r077dfc",
   "kind": "string",
   "jp": "：",
-  "en": "",
-  "status": "new",
+  "en": ":",
+  "status": "done",
   "ptrs": [
    "0x54470"
   ],
@@ -5034,8 +5014,8 @@
   "id": "r077e00",
   "kind": "string",
   "jp": "さいしょから　はじめる",
-  "en": "",
-  "status": "new",
+  "en": "New Game",
+  "status": "done",
   "ptrs": [
    "0x5451c"
   ],
@@ -5045,8 +5025,8 @@
   "id": "r077e18",
   "kind": "string",
   "jp": "データをさくじょします",
-  "en": "",
-  "status": "new",
+  "en": "Deleting data.",
+  "status": "done",
   "ptrs": [
    "0xef72c"
   ],
@@ -5056,8 +5036,8 @@
   "id": "r077e30",
   "kind": "string",
   "jp": "ほんとにほんとに　けしてもいいの？",
-  "en": "",
-  "status": "new",
+  "en": "Really, REALLY delete it?",
+  "status": "done",
   "ptrs": [
    "0xef728"
   ],
@@ -5067,8 +5047,8 @@
   "id": "r077e54",
   "kind": "string",
   "jp": "ほんとに　けしてもいいの？",
-  "en": "",
-  "status": "new",
+  "en": "Really delete it?",
+  "status": "done",
   "ptrs": [
    "0xef724"
   ],
@@ -5078,8 +5058,8 @@
   "id": "r077e70",
   "kind": "string",
   "jp": "データをけしてもいいの？",
-  "en": "",
-  "status": "new",
+  "en": "OK to delete the data?",
+  "status": "done",
   "ptrs": [
    "0xef720"
   ],
@@ -5089,8 +5069,8 @@
   "id": "r07800c",
   "kind": "string",
   "jp": "デスロール編",
-  "en": "",
-  "status": "new",
+  "en": "Death Roll Arc",
+  "status": "done",
   "ptrs": [
    "0x78008"
   ],
@@ -5100,8 +5080,8 @@
   "id": "r07801c",
   "kind": "string",
   "jp": "バトローラーシュウ　番外編",
-  "en": "",
-  "status": "new",
+  "en": "Vattroller Shu: Side Story",
+  "status": "done",
   "ptrs": [
    "0x77ff0"
   ],
@@ -5111,8 +5091,8 @@
   "id": "r078038",
   "kind": "string",
   "jp": "バトローラートータ　番外編",
-  "en": "",
-  "status": "new",
+  "en": "Vattroller Totta: Side Story",
+  "status": "done",
   "ptrs": [
    "0x77fd8"
   ],
@@ -5122,8 +5102,8 @@
   "id": "r078054",
   "kind": "string",
   "jp": "バトローラーリョウ　番外編",
-  "en": "",
-  "status": "new",
+  "en": "Vattroller Ryo: Side Story",
+  "status": "done",
   "ptrs": [
    "0x77fc0"
   ],
@@ -5133,8 +5113,8 @@
   "id": "r078070",
   "kind": "string",
   "jp": "バトローラージン　アレーナ編",
-  "en": "",
-  "status": "new",
+  "en": "Vattroller Jin: Arena Arc",
+  "status": "done",
   "ptrs": [
    "0x77fa8"
   ],
@@ -5144,8 +5124,8 @@
   "id": "r078090",
   "kind": "string",
   "jp": "バトローラージン　修行編",
-  "en": "",
-  "status": "new",
+  "en": "Vattroller Jin: Training Arc",
+  "status": "done",
   "ptrs": [
    "0x77f90"
   ],
@@ -5155,8 +5135,8 @@
   "id": "r0780ac",
   "kind": "string",
   "jp": "バトローラージン　げきとう編",
-  "en": "",
-  "status": "new",
+  "en": "Vattroller Jin: Showdown Arc",
+  "status": "done",
   "ptrs": [
    "0x77f78"
   ],
@@ -5166,8 +5146,8 @@
   "id": "r0780cc",
   "kind": "string",
   "jp": "バトローラージン　登場編",
-  "en": "",
-  "status": "new",
+  "en": "Vattroller Jin: Debut Arc",
+  "status": "done",
   "ptrs": [
    "0x77f60"
   ],
@@ -5177,8 +5157,8 @@
   "id": "r0780e8",
   "kind": "string",
   "jp": "【コミックモード】",
-  "en": "",
-  "status": "new",
+  "en": "~Comic Mode~",
+  "status": "done",
   "ptrs": [
    "0x77f5c",
    "0x77f74",
@@ -5195,8 +5175,8 @@
   "id": "r0780fc",
   "kind": "string",
   "jp": "なまえ：",
-  "en": "",
-  "status": "new",
+  "en": "Name:",
+  "status": "done",
   "ptrs": [
    "0x77ea0",
    "0x77eb8",
@@ -5213,8 +5193,8 @@
   "id": "r078108",
   "kind": "string",
   "jp": "【ＲＰＧモード】",
-  "en": "",
-  "status": "new",
+  "en": "~RPG Mode~",
+  "status": "done",
   "ptrs": [
    "0x77e9c",
    "0x77eb4",
@@ -5231,8 +5211,8 @@
   "id": "r078120",
   "kind": "string",
   "jp": "はじめから",
-  "en": "",
-  "status": "new",
+  "en": "New Game",
+  "status": "done",
   "ptrs": [
    "0xef730"
   ],
@@ -5242,8 +5222,8 @@
   "id": "r07812c",
   "kind": "string",
   "jp": "このキャラクターをけしていいですか？",
-  "en": "",
-  "status": "new",
+  "en": "OK to delete this character?",
+  "status": "done",
   "ptrs": [
    "0xef738"
   ],
@@ -5253,8 +5233,8 @@
   "id": "r078154",
   "kind": "string",
   "jp": "この本を　はじめますか？",
-  "en": "",
-  "status": "new",
+  "en": "Start this book?",
+  "status": "done",
   "ptrs": [
    "0xef734"
   ],
@@ -5264,8 +5244,8 @@
   "id": "r0781ec",
   "kind": "string",
   "jp": "・",
-  "en": "",
-  "status": "new",
+  "en": "-",
+  "status": "done",
   "ptrs": [
    "0x56db0"
   ],
@@ -5275,8 +5255,8 @@
   "id": "r07ae78",
   "kind": "string",
   "jp": "さいしあい　しますか？",
-  "en": "",
-  "status": "new",
+  "en": "Rematch?",
+  "status": "done",
   "ptrs": [
    "0x64e90"
   ],
@@ -5286,8 +5266,8 @@
   "id": "r07b054",
   "kind": "string",
   "jp": "たいせんにんずうせんたく",
-  "en": "",
-  "status": "new",
+  "en": "Choose No. of Players",
+  "status": "done",
   "ptrs": [
    "0xefbb4"
   ],
@@ -5297,8 +5277,8 @@
   "id": "r07b070",
   "kind": "string",
   "jp": "ステージせんたく",
-  "en": "",
-  "status": "new",
+  "en": "Stage Select",
+  "status": "done",
   "ptrs": [
    "0xefbb0"
   ],
@@ -5308,8 +5288,8 @@
   "id": "r07b084",
   "kind": "string",
   "jp": "ルールせんたく",
-  "en": "",
-  "status": "new",
+  "en": "Rule Select",
+  "status": "done",
   "ptrs": [
    "0xefbac"
   ],
@@ -5319,8 +5299,8 @@
   "id": "r07b094",
   "kind": "string",
   "jp": "たいせんプレイヤーせんたく",
-  "en": "",
-  "status": "new",
+  "en": "Opponent Select",
+  "status": "done",
   "ptrs": [
    "0xefba8"
   ],
@@ -5330,8 +5310,8 @@
   "id": "r07b0b0",
   "kind": "string",
   "jp": "プレイヤーせんたく",
-  "en": "",
-  "status": "new",
+  "en": "Player Select",
+  "status": "done",
   "ptrs": [
    "0xefba4"
   ],
@@ -5341,8 +5321,8 @@
   "id": "r07b0c4",
   "kind": "string",
   "jp": "サバイバル",
-  "en": "",
-  "status": "new",
+  "en": "Survival",
+  "status": "done",
   "ptrs": [
    "0xefbbc"
   ],
@@ -5352,8 +5332,8 @@
   "id": "r07b0d0",
   "kind": "string",
   "jp": "オフィシャル",
-  "en": "",
-  "status": "new",
+  "en": "Official",
+  "status": "done",
   "ptrs": [
    "0xefbb8"
   ],
@@ -5363,8 +5343,8 @@
   "id": "r07b0e0",
   "kind": "string",
   "jp": "サバイバルルール",
-  "en": "",
-  "status": "new",
+  "en": "Survival Rules",
+  "status": "done",
   "ptrs": [
    "0xefbc4"
   ],
@@ -5374,8 +5354,8 @@
   "id": "r07b0f4",
   "kind": "string",
   "jp": "オフィシャルルール",
-  "en": "",
-  "status": "new",
+  "en": "Official Rules",
+  "status": "done",
   "ptrs": [
    "0xefbc0"
   ],
@@ -5385,8 +5365,8 @@
   "id": "r07b108",
   "kind": "string",
   "jp": "いきのこれ∇",
-  "en": "",
-  "status": "new",
+  "en": "to the end!!",
+  "status": "done",
   "ptrs": [
    "0xefbe0"
   ],
@@ -5396,8 +5376,8 @@
   "id": "r07b118",
   "kind": "string",
   "jp": "さいごまで",
-  "en": "",
-  "status": "new",
+  "en": "& survive",
+  "status": "done",
   "ptrs": [
    "0xefbdc"
   ],
@@ -5407,8 +5387,8 @@
   "id": "r07b124",
   "kind": "string",
   "jp": "あいてをドロップして",
-  "en": "",
-  "status": "new",
+  "en": "Drop your foes",
+  "status": "done",
   "ptrs": [
    "0xefbd8"
   ],
@@ -5418,8 +5398,8 @@
   "id": "r07b140",
   "kind": "string",
   "jp": "ドロップしよう∇",
-  "en": "",
-  "status": "new",
+  "en": "Drop them all!!",
+  "status": "done",
   "ptrs": [
    "0xefbd0"
   ],
@@ -5429,8 +5409,8 @@
   "id": "r07b154",
   "kind": "string",
   "jp": "あいてをたくさん",
-  "en": "",
-  "status": "new",
+  "en": "lots of foes:",
+  "status": "done",
   "ptrs": [
    "0xefbcc"
   ],
@@ -5440,8 +5420,8 @@
   "id": "r07b168",
   "kind": "string",
   "jp": "じかんないに",
-  "en": "",
-  "status": "new",
+  "en": "In the time,",
+  "status": "done",
   "ptrs": [
    "0xefbc8"
   ],
@@ -5451,8 +5431,8 @@
   "id": "r07b178",
   "kind": "string",
   "jp": "デスロールコロシアム",
-  "en": "",
-  "status": "new",
+  "en": "Death Roll Colosseum",
+  "status": "done",
   "ptrs": [
    "0xefc34"
   ],
@@ -5462,8 +5442,8 @@
   "id": "r07b190",
   "kind": "string",
   "jp": "ヘクサ社開発室",
-  "en": "",
-  "status": "new",
+  "en": "Hexa Corp. Lab",
+  "status": "done",
   "ptrs": [
    "0xefc30"
   ],
@@ -5473,8 +5453,8 @@
   "id": "r07b1a0",
   "kind": "string",
   "jp": "界天コロシアム",
-  "en": "",
-  "status": "new",
+  "en": "Kaiten Colosseum",
+  "status": "done",
   "ptrs": [
    "0xefc2c"
   ],
@@ -5484,8 +5464,8 @@
   "id": "r07b1b0",
   "kind": "string",
   "jp": "レイオンジム",
-  "en": "",
-  "status": "new",
+  "en": "Reion Gym",
+  "status": "done",
   "ptrs": [
    "0xefc28"
   ],
@@ -5495,8 +5475,8 @@
   "id": "r07b1c0",
   "kind": "string",
   "jp": "光円寺",
-  "en": "",
-  "status": "new",
+  "en": "Koenji",
+  "status": "done",
   "ptrs": [
    "0xefc24"
   ],
@@ -5506,8 +5486,8 @@
   "id": "r07b1c8",
   "kind": "string",
   "jp": "グレンの道場",
-  "en": "",
-  "status": "new",
+  "en": "Glen's Dojo",
+  "status": "done",
   "ptrs": [
    "0xefc20"
   ],
@@ -5517,8 +5497,8 @@
   "id": "r07b1d8",
   "kind": "string",
   "jp": "真丸体育館",
-  "en": "",
-  "status": "new",
+  "en": "Mamaru Gym",
+  "status": "done",
   "ptrs": [
    "0xefc1c"
   ],
@@ -5528,8 +5508,8 @@
   "id": "r07b1e4",
   "kind": "string",
   "jp": "真丸ジム",
-  "en": "",
-  "status": "new",
+  "en": "Mamaru Gym",
+  "status": "done",
   "ptrs": [
    "0xefc18"
   ],
@@ -5539,8 +5519,8 @@
   "id": "r07b1f0",
   "kind": "string",
   "jp": "マーブルスタジアム",
-  "en": "",
-  "status": "new",
+  "en": "Marble Stadium",
+  "status": "done",
   "ptrs": [
    "0xefc14"
   ],
@@ -5550,8 +5530,8 @@
   "id": "r07b204",
   "kind": "string",
   "jp": "真丸中ＶＲ場",
-  "en": "",
-  "status": "new",
+  "en": "Mamaru VR",
+  "status": "done",
   "ptrs": [
    "0xefc10"
   ],
@@ -5561,8 +5541,8 @@
   "id": "r07b214",
   "kind": "string",
   "jp": "グローブスタジアム",
-  "en": "",
-  "status": "new",
+  "en": "Globe Stadium",
+  "status": "done",
   "ptrs": [
    "0xefc0c"
   ],
@@ -5572,8 +5552,8 @@
   "id": "r07b228",
   "kind": "string",
   "jp": "プレミアムジム",
-  "en": "",
-  "status": "new",
+  "en": "Premium Gym",
+  "status": "done",
   "ptrs": [
    "0xefc08"
   ],
@@ -5583,8 +5563,8 @@
   "id": "r07b238",
   "kind": "string",
   "jp": "グローブこうえん",
-  "en": "",
-  "status": "new",
+  "en": "Globe Park",
+  "status": "done",
   "ptrs": [
    "0xefc04"
   ],
@@ -5594,8 +5574,8 @@
   "id": "r07b24c",
   "kind": "string",
   "jp": "弾打ビーチ",
-  "en": "",
-  "status": "new",
+  "en": "Danda Beach",
+  "status": "done",
   "ptrs": [
    "0xefc00"
   ],
@@ -5605,8 +5585,8 @@
   "id": "r07b258",
   "kind": "string",
   "jp": "スパイルスタジアム",
-  "en": "",
-  "status": "new",
+  "en": "Spile Stadium",
+  "status": "done",
   "ptrs": [
    "0xefbfc"
   ],
@@ -5616,8 +5596,8 @@
   "id": "r07b26c",
   "kind": "string",
   "jp": "ワシュー道場",
-  "en": "",
-  "status": "new",
+  "en": "Washu Dojo",
+  "status": "done",
   "ptrs": [
    "0xefbf8"
   ],
@@ -5627,8 +5607,8 @@
   "id": "r07b27c",
   "kind": "string",
   "jp": "田万里村ジム",
-  "en": "",
-  "status": "new",
+  "en": "Tamari Gym",
+  "status": "done",
   "ptrs": [
    "0xefbf4"
   ],
@@ -5638,8 +5618,8 @@
   "id": "r07b28c",
   "kind": "string",
   "jp": "勝飛ジム",
-  "en": "",
-  "status": "new",
+  "en": "Katsutobi Gym",
+  "status": "done",
   "ptrs": [
    "0xefbf0"
   ],
@@ -5649,8 +5629,8 @@
   "id": "r07b298",
   "kind": "string",
   "jp": "勝飛体育舘",
-  "en": "",
-  "status": "new",
+  "en": "Katsutobi Gym",
+  "status": "done",
   "ptrs": [
    "0xefbec"
   ],
@@ -5660,8 +5640,8 @@
   "id": "r07b2a4",
   "kind": "string",
   "jp": "勝飛中ＶＲ場",
-  "en": "",
-  "status": "new",
+  "en": "Katsutobi VR",
+  "status": "done",
   "ptrs": [
    "0xefbe8"
   ],
@@ -5671,8 +5651,8 @@
   "id": "r07b2b4",
   "kind": "string",
   "jp": "おおきい",
-  "en": "",
-  "status": "new",
+  "en": "Large",
+  "status": "done",
   "ptrs": [
    "0xefc40"
   ],
@@ -5682,8 +5662,8 @@
   "id": "r07b2c0",
   "kind": "string",
   "jp": "ふつう",
-  "en": "",
-  "status": "new",
+  "en": "Normal",
+  "status": "done",
   "ptrs": [
    "0xefc3c"
   ],
@@ -5693,8 +5673,8 @@
   "id": "r07b2c8",
   "kind": "string",
   "jp": "ちいさい",
-  "en": "",
-  "status": "new",
+  "en": "Small",
+  "status": "done",
   "ptrs": [
    "0xefc38"
   ],
@@ -5704,8 +5684,8 @@
   "id": "r07b2d4",
   "kind": "string",
   "jp": "８",
-  "en": "",
-  "status": "new",
+  "en": "8",
+  "status": "done",
   "ptrs": [
    "0xefc48"
   ],
@@ -5715,8 +5695,8 @@
   "id": "r07b2d8",
   "kind": "string",
   "jp": "４",
-  "en": "",
-  "status": "new",
+  "en": "4",
+  "status": "done",
   "ptrs": [
    "0xefc44"
   ],
@@ -5726,8 +5706,8 @@
   "id": "r07b2dc",
   "kind": "string",
   "jp": "じゅうりょく",
-  "en": "",
-  "status": "new",
+  "en": "Gravity",
+  "status": "done",
   "ptrs": [
    "0xefc68"
   ],
@@ -5737,8 +5717,8 @@
   "id": "r07b2ec",
   "kind": "string",
   "jp": "じゃり",
-  "en": "",
-  "status": "new",
+  "en": "Stone",
+  "status": "done",
   "ptrs": [
    "0xefc64"
   ],
@@ -5748,8 +5728,8 @@
   "id": "r07b2f4",
   "kind": "string",
   "jp": "コンクリート",
-  "en": "",
-  "status": "new",
+  "en": "Concrete",
+  "status": "done",
   "ptrs": [
    "0xefc60"
   ],
@@ -5759,8 +5739,8 @@
   "id": "r07b304",
   "kind": "string",
   "jp": "すなはま",
-  "en": "",
-  "status": "new",
+  "en": "Sand",
+  "status": "done",
   "ptrs": [
    "0xefc5c"
   ],
@@ -5770,8 +5750,8 @@
   "id": "r07b310",
   "kind": "string",
   "jp": "こおり",
-  "en": "",
-  "status": "new",
+  "en": "Ice",
+  "status": "done",
   "ptrs": [
    "0xefc58"
   ],
@@ -5781,8 +5761,8 @@
   "id": "r07b318",
   "kind": "string",
   "jp": "つち／くさ",
-  "en": "",
-  "status": "new",
+  "en": "Soil/Turf",
+  "status": "done",
   "ptrs": [
    "0xefc54"
   ],
@@ -5792,8 +5772,8 @@
   "id": "r07b324",
   "kind": "string",
   "jp": "もくめ",
-  "en": "",
-  "status": "new",
+  "en": "Wood",
+  "status": "done",
   "ptrs": [
    "0xefc50"
   ],
@@ -5803,8 +5783,8 @@
   "id": "r07b32c",
   "kind": "string",
   "jp": "こうしき",
-  "en": "",
-  "status": "new",
+  "en": "Official",
+  "status": "done",
   "ptrs": [
    "0xefc4c"
   ],
@@ -5814,8 +5794,8 @@
   "id": "r07b338",
   "kind": "string",
   "jp": "ゆか：",
-  "en": "",
-  "status": "new",
+  "en": "Base:",
+  "status": "done",
   "ptrs": [
    "0xefc78"
   ],
@@ -5825,8 +5805,8 @@
   "id": "r07b340",
   "kind": "string",
   "jp": "かたち：",
-  "en": "",
-  "status": "new",
+  "en": "Shape:",
+  "status": "done",
   "ptrs": [
    "0xefc74"
   ],
@@ -5836,8 +5816,8 @@
   "id": "r07b34c",
   "kind": "string",
   "jp": "かべ：",
-  "en": "",
-  "status": "new",
+  "en": "Wall:",
+  "status": "done",
   "ptrs": [
    "0xefc70"
   ],
@@ -5847,8 +5827,8 @@
   "id": "r07b354",
   "kind": "string",
   "jp": "サイズ：",
-  "en": "",
-  "status": "new",
+  "en": "Size:",
+  "status": "done",
   "ptrs": [
    "0xefc6c"
   ],
@@ -5858,8 +5838,8 @@
   "id": "r07b360",
   "kind": "string",
   "jp": "よにんたいせん",
-  "en": "",
-  "status": "new",
+  "en": "4-Player",
+  "status": "done",
   "ptrs": [
    "0xefc84"
   ],
@@ -5869,8 +5849,8 @@
   "id": "r07b370",
   "kind": "string",
   "jp": "さんにんたいせん",
-  "en": "",
-  "status": "new",
+  "en": "3-Player",
+  "status": "done",
   "ptrs": [
    "0xefc80"
   ],
@@ -5880,8 +5860,8 @@
   "id": "r07b384",
   "kind": "string",
   "jp": "ふたりたいせん",
-  "en": "",
-  "status": "new",
+  "en": "2-Player",
+  "status": "done",
   "ptrs": [
    "0xefc7c"
   ],
@@ -5891,8 +5871,8 @@
   "id": "r07b393",
   "kind": "string",
   "jp": "hh8@`０１２３４５６７８９　",
-  "en": "",
-  "status": "new",
+  "en": "hh8@`0123456789 ",
+  "status": "done",
   "ptrs": [
    "0x66898"
   ],
@@ -5902,8 +5882,8 @@
   "id": "r07b398",
   "kind": "string",
   "jp": "０１２３４５６７８９　",
-  "en": "",
-  "status": "new",
+  "en": "0123456789 ",
+  "status": "done",
   "ptrs": [
    "0x66288"
   ],
@@ -5913,8 +5893,8 @@
   "id": "r07b3b0",
   "kind": "string",
   "jp": "？？？？？？",
-  "en": "",
-  "status": "new",
+  "en": "??????",
+  "status": "done",
   "ptrs": [
    "0x66290"
   ],
@@ -5924,8 +5904,8 @@
   "id": "r07b3c0",
   "kind": "string",
   "jp": "かべ：かたい",
-  "en": "",
-  "status": "new",
+  "en": "Wall: hard",
+  "status": "done",
   "ptrs": [
    "0x66dec"
   ],
@@ -5935,8 +5915,8 @@
   "id": "r07b3d0",
   "kind": "string",
   "jp": "しばらく　おまちください",
-  "en": "",
-  "status": "new",
+  "en": "Please wait a moment.",
+  "status": "done",
   "ptrs": [
    "0xefc8c"
   ],
@@ -5946,8 +5926,8 @@
   "id": "r07b3ec",
   "kind": "string",
   "jp": "つうしんちゅうです",
-  "en": "",
-  "status": "new",
+  "en": "Linking...",
+  "status": "done",
   "ptrs": [
    "0xefc88"
   ],
@@ -5957,8 +5937,8 @@
   "id": "r07b400",
   "kind": "string",
   "jp": "ちゅうだんします",
-  "en": "",
-  "status": "new",
+  "en": "Cancelling.",
+  "status": "done",
   "ptrs": [
    "0xefc94"
   ],
@@ -5968,8 +5948,8 @@
   "id": "r07b414",
   "kind": "string",
   "jp": "つうしんエラーです",
-  "en": "",
-  "status": "new",
+  "en": "Link error.",
+  "status": "done",
   "ptrs": [
    "0xefc90"
   ],
@@ -5979,8 +5959,8 @@
   "id": "r07b44c",
   "kind": "string",
   "jp": "　　０Ｐ",
-  "en": "",
-  "status": "new",
+  "en": "   0P",
+  "status": "done",
   "ptrs": [
    "0x686c8"
   ],
@@ -5990,8 +5970,8 @@
   "id": "r07b458",
   "kind": "string",
   "jp": "かくとくポイント",
-  "en": "",
-  "status": "new",
+  "en": "Points Earned",
+  "status": "done",
   "ptrs": [
    "0x68b94"
   ],
@@ -6001,8 +5981,8 @@
   "id": "r07b46c",
   "kind": "string",
   "jp": "もくひょうポイント",
-  "en": "",
-  "status": "new",
+  "en": "Target Points",
+  "status": "done",
   "ptrs": [
    "0x68b9c"
   ],
@@ -6012,8 +5992,8 @@
   "id": "r07b480",
   "kind": "string",
   "jp": "Ｐ",
-  "en": "",
-  "status": "new",
+  "en": "P",
+  "status": "done",
   "ptrs": [
    "0x68ba0"
   ],

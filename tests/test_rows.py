@@ -22,7 +22,8 @@ def test_fullwidth_space_strings_are_data():
 
 
 def test_wide_rows_build_as_fullwidth_sjis():
-    grid, name = ROWS["r077798"], ROWS["r077ac4"]
+    grid, name = ROWS["r0778f8"], ROWS["r077ac4"]   # Latin grid row ＡＢＣ..; the kana rows stay data (phase 6)
+    assert ROWS["r077798"]["kind"] == "data"
     assert grid["wide"] and grid["max"] == 14 and name["wide"] and name["max"] == 6
     assert font.widen("Gen 1!") == "Ｇｅｎ　１！"
     s = font.widen(build.marker_text(grid))
