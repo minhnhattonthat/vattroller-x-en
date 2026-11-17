@@ -14,7 +14,7 @@
     {"name": "create_sprite", "book": 0, "stop_at": "creation", "csteps": 13, "desc": "RPG creation: character sprite select"},
     {"name": "create_name", "book": 0, "stop_at": "creation", "csteps": 15, "desc": "RPG creation: name entry (kana grid)"},
     {"name": "create_word", "book": 0, "stop_at": "creation", "csteps": 23, "desc": "RPG creation: favourite word entry"},
-    {"name": "create_confirm", "book": 0, "stop_at": "creation", "csteps": 31, "desc": "RPG creation: confirm screen"},
+    {"name": "create_confirm", "book": 0, "stop_at": "creation", "csteps": 28, "desc": "RPG creation: confirm screen"},
     {"name": "rpg_start", "book": 0, "hold": 400, "desc": "RPG mode: intro after creation, club room (107)"},
 
     {"name": "comic_jin1", "book": 8, "hold": 60, "desc": "comic: Jin 登場編 第1話 card (room 190)"},
@@ -57,6 +57,13 @@
     {"name": "rpg_stadium", "book": 0, "room": 10, "hold": 120, "desc": "RPG: グローブスタジアム (room 10)"},
     {"name": "rpg_school", "book": 0, "from_room": 84, "hold": 300, "desc": "RPG: intro reaches 勝飛中１階 (room 84), club poster line"},
     {"name": "rpg_tutorial", "book": 0, "from_room": 84, "from_nth": 2, "hold": 30, "frames": 40000, "desc": "RPG: controls tutorial (そうさのせつめい), second load of room 84"},
+    {"name": "rpg_free", "book": 0, "from_room": 84, "from_nth": 2, "premash": 2400, "hold": 60, "expect": 84, "frames": 46000, "desc": "RPG: free control after the controls tutorial (勝飛中１階, room 84)"},
+    {"name": "menu_field", "book": 0, "from_room": 84, "from_nth": 2, "premash": 2400, "post": "30 -;10 start;60 -", "hold": 60, "frames": 46000, "desc": "RPG: field menu (Start)"},
+    {"name": "menu_armalet", "book": 0, "from_room": 84, "from_nth": 2, "premash": 2400, "post": "30 -;10 start;60 -;8 a;60 -", "hold": 90, "frames": 46000, "desc": "RPG: field menu > Armalet"},
+    {"name": "menu_chara", "book": 0, "from_room": 84, "from_nth": 2, "premash": 2400, "post": "30 -;10 start;60 -;8 a;90 -;8 right;90 -", "hold": 90, "frames": 46000, "desc": "RPG: field menu > Armalet > right: Character Data"},
+    {"name": "menu_keyitems", "book": 0, "from_room": 84, "from_nth": 2, "premash": 2400, "post": "30 -;10 start;60 -;8 down;20 -;8 a;60 -", "hold": 90, "frames": 46000, "desc": "RPG: field menu > Key Items"},
+    {"name": "menu_settings", "book": 0, "from_room": 84, "from_nth": 2, "premash": 2400, "post": "30 -;10 start;60 -;8 down;20 -;8 down;20 -;8 a;60 -", "hold": 90, "frames": 46000, "desc": "RPG: field menu > Settings"},
+    {"name": "menu_save", "book": 0, "from_room": 84, "from_nth": 2, "premash": 2400, "post": "30 -;10 start;60 -;8 down;20 -;8 down;20 -;8 down;20 -;8 a;60 -", "hold": 90, "frames": 46000, "desc": "RPG: field menu > Save"},
     {"name": "rpg_coliseum", "book": 0, "room": 83, "hold": 120, "desc": "RPG: 界天コロシアム (room 83)"}
   ]
 }

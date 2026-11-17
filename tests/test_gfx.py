@@ -18,9 +18,20 @@ def test_446_changes_only_label_tiles():
     ar = archive.Archive()
     orig, new = ar.file(gfx.SHEET), gfx.files(ar)[gfx.SHEET]
     assert len(new) == len(orig)
-    allowed = {t for first, count, _ in gfx.LABELS for t in range(first, first + count)}
+    allowed = {t for first, count, _ in gfx.LABELS + gfx.PILLS for t in range(first, first + count)}
     changed = {i // 32 for i in range(len(orig)) if orig[i] != new[i]}
     assert changed and changed <= allowed
+
+
+def test_431_changes_only_box_and_status_tiles():
+    ar = archive.Archive()
+    orig, new = ar.file(gfx.SHEET_431), gfx.files(ar)[gfx.SHEET_431]
+    assert len(new) == len(orig)
+    allowed = {t for first, count, _ in gfx.BOXES_431 for t in range(first, first + count)}
+    allowed |= {t for row in gfx.STATUS_431 for t in row[0]} | {dst for _, dst in gfx.COPIES_431}
+    changed = {i // 32 for i in range(len(orig)) if orig[i] != new[i]}
+    assert changed and changed <= allowed
+    assert new[117 * 32:118 * 32] == new[132 * 32:133 * 32]      # the two copies of the タ end tile stay equal
 
 
 def test_credit_outline_rule_reproduces_original():

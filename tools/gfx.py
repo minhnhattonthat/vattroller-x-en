@@ -26,7 +26,18 @@ LABELS = [
     (64, 4, "Check"),          # ▶かくにん   (SELECT: check)
     (76, 7, "Back to title"),  # ▶タイトルにもどる
     (323, 3, "Help"),          # ▶ヘルプ
+    (408, 8, "View Arm Data"), # ▶アームデータかくにん (A, field menu > Armalet Data)
+    (416, 7, "View V Skills"), # ▶Ｖスキルかくにん (A, Character Data page)
 ]
+# Page tabs of the field menu's Armalet Data / Character Data screens (32x8 sprites; the ▶/◀ beside them is
+# tile 181, a sprite of its own): a pill of colour 4 with ink 5 (7 = antialias) on background 0. The inner
+# arrow and kana are cleared and the English centred in the pill (3 px font3, advance 4). "Character" (35 px)
+# cannot fit 32 px, so the tab to the Character Data page reads "Player" (D15).
+PILLS = [
+    (398, 4, "Player"),        # キャラクター▷ (Armalet Data -> Character Data)
+    (402, 4, "Armalet"),       # ◁アーマレット (Character Data -> Armalet Data)
+]
+PILL_BG, PILL_INK = 4, 5
 
 
 def tile_px(data, n):
@@ -108,6 +119,51 @@ def render_box(orig, first, count, text, glyphs):
     return px
 
 
+# #431 labels of the field menu's Armalet Data / Character Data pages (G1), placed by the BG maps (tiles found with
+# tools/bgfind.py on warp dumps of menu_armalet / menu_chara). Each entry: the tiles left to right as the map lays
+# them, English, background, ink, shadow (None = flat), glyph top row, ink x range [lo, hi) over the run, and the
+# colours cleared to the background inside that range (old ink and antialias).
+STATUS_431 = [
+    ((129, 130, 131, 117), "Human", 0xD, 3, None, 2, 0, 32, (3, 0xE)),        # ヒトガタ (column head)
+    ((90, 158, 159, 178, 113), "Roll", 0xD, 3, None, 2, 1, 40, (3, 0xE)),     # ロールガタ (column head)
+    ((147, 148, 149, 150, 151, 152, 153, 154), "Armalet Size", 3, 0xD, 0xE, 2, 0, 64, (0xD, 0xE, 1)),  # アーマレットサイズ
+    ((185, 186, 187, 188, 189, 118), "Usable", 0xD, 3, None, 3, 4, 46, (3, 0xE, 1)),       # ツカエル (box line 1)
+    ((64, 65, 66, 110, 111, 112), "Arm Types", 0xD, 3, None, 1, 3, 46, (3, 0xE)),         # アームケイトウ (line 2)
+]
+COPIES_431 = [(117, 132)]      # 132 is an identical copy of 117 (the タ end of ヒトガタ) in the original: keep it so
+
+
+def relabel(data, out, tiles, text, bg, ink, shadow, top, lo, hi, clear, glyphs):
+    w = 8 * len(tiles)
+    px = [sum((tile_px(data, t)[y] for t in tiles), []) for y in range(8)]
+    for y in range(8):
+        for x in range(lo, hi):
+            if px[y][x] in clear:
+                px[y][x] = bg
+    width = sum(2 if ch == " " else 4 for ch in text) - 1
+    assert width <= hi - lo, f"{text!r} ({width} px) does not fit {hi - lo} px"
+    x = lo + (hi - lo - width) // 2
+    dots = set()
+    for ch in text:
+        if ch == " ":
+            x += 2
+            continue
+        for gy, row in enumerate(glyphs[ch]):
+            for gx, c in enumerate(row):
+                if c == "#" and top + gy < 8:
+                    dots.add((top + gy, x + gx))
+        x += 4
+    for y, xx in dots:
+        px[y][xx] = ink
+        if shadow is not None:
+            for sy, sx in ((y, xx + 1), (y + 1, xx), (y + 1, xx + 1)):
+                if sy < 8 and sx < hi and (sy, sx) not in dots:
+                    px[sy][sx] = shadow
+    for k, t in enumerate(tiles):
+        put_tile(out, t, [row[k * 8:k * 8 + 8] for row in px])
+    assert w == len(px[0])
+
+
 def sheet_431(orig):
     glyphs = tagfont.load_font3()
     out = bytearray(orig)
@@ -115,7 +171,33 @@ def sheet_431(orig):
         px = render_box(orig, first, count, text, glyphs)
         for k in range(count):
             put_tile(out, first + k, [row[k * 8:k * 8 + 8] for row in px])
+    for tiles, text, bg, ink, shadow, top, lo, hi, clear in STATUS_431:
+        relabel(orig, out, tiles, text, bg, ink, shadow, top, lo, hi, clear, glyphs)
+    for src, dst in COPIES_431:
+        out[dst * 32:dst * 32 + 32] = out[src * 32:src * 32 + 32]
     return bytes(out)
+
+
+def render_pill(orig, first, count, text, glyphs):
+    """The tab pill with its ink cleared and `text` centred on the columns that are pill on every glyph row."""
+    w = 8 * count
+    rows = [sum((tile_px(orig, first + k)[y] for k in range(count)), []) for y in range(8)]
+    px = [[PILL_BG if c in (PILL_INK, 7) else c for c in row] for row in rows]
+    inside = [x for x in range(w) if all(px[y][x] == PILL_BG for y in range(1, 7))]
+    lo, hi = inside[0], inside[-1]
+    width = sum(2 if ch == " " else 4 for ch in text) - 1
+    assert width <= hi - lo + 1, f"{text!r} ({width} px) does not fit the {hi - lo + 1} px pill at {first}"
+    x = lo + (hi - lo + 1 - width + 1) // 2
+    for ch in text:
+        if ch == " ":
+            x += 2
+            continue
+        for gy, row in enumerate(glyphs[ch]):
+            for gx, c in enumerate(row):
+                if c == "#":
+                    px[1 + gy][x + gx] = PILL_INK
+        x += 4
+    return px
 
 
 def sheet_446(orig):
@@ -123,6 +205,10 @@ def sheet_446(orig):
     out = bytearray(orig)
     for first, count, text in LABELS:
         px = render_label(orig, first, count, text, glyphs)
+        for k in range(count):
+            put_tile(out, first + k, [row[k * 8:k * 8 + 8] for row in px])
+    for first, count, text in PILLS:
+        px = render_pill(orig, first, count, text, glyphs)
         for k in range(count):
             put_tile(out, first + k, [row[k * 8:k * 8 + 8] for row in px])
     return bytes(out)

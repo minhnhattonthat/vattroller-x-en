@@ -43,10 +43,20 @@ probes: `--script tools/lua/oplog.lua` etc.
 | flags, cond type 2 / 4 | `*(0x03002A90)+0x1E0` / `+0x1E4` (= `0x02002238` / `0x0200223C`) | guess |
 | script vars (s8, 8 per group) | `*(0x03002A90)+0x2D6` (= `0x0200232E`); set/add/sub at `0x080312CC/E8/0x08031308` | guess |
 
+## RPG free control and the field menu (2026-11-17)
+
+The controls tutorial (`rpg_tutorial`) ends in free control in room 84 after ~2000 frames of A taps. Scene field
+`premash N` (warp.py) taps A for N frames before `post`; `rpg_free` and `menu_field` / `menu_armalet` /
+`menu_chara` / `menu_keyitems` / `menu_settings` / `menu_save` use it (Start opens the field menu: Armalet, Key
+Items, Settings, Save). Key Items lists "??????????" for items not owned (game behaviour). `create_confirm` needed
+csteps 28 (not 31) after the English name-entry pages (D13). `tools/bgfind.py DUMP x,y,w,h` lists the BG map
+entries under a screen rectangle (dump coordinates sit 16 px above the screenshot's: subtract 16 from y) and
+finds their tiles in `work/gfx/unpacked/`.
+
 ## Gaps (next)
 
-- RPG mode: the intro runs ~20,000 frames (creation, club room, tutorial battle, controls tutorial) before free
-  control. Shops are reached as rooms, but shopkeepers and the field menu need free control and story flags: find
+- RPG mode: free control and the field menu are reached (above). Shops are reached as rooms, but shopkeepers need
+  story flags (and walking from free control, or a warp into a shop room that keeps control): find
   the flag(s) the shop common event (op 0x29 → common script 0x0D) tests, and an "intro done" state. Then add
   scenes: field menu and submenus (items, armalet, settings `せってい`, character data), shop buy/sell, save
   (`記録`), title `つづきから` with a save, data delete.

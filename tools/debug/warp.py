@@ -50,8 +50,19 @@ def with_entry(scene):
     return {**scene, "x": x, "y": y, "face": f}
 
 
+def with_premash(scene):
+    """premash N: tap A (8 frames on, 8 off) for N frames before the scene's post route (RPG intro to free control)."""
+    n = scene.get("premash", 0)
+    if not n:
+        return scene
+    post = ";".join(["8 a;8 -"] * (n // 16))
+    if scene.get("post"):
+        post += ";" + scene["post"]
+    return {**scene, "post": post}
+
+
 def run(scene, rom, outroot, state, sheet):
-    scene = with_entry(scene)
+    scene = with_premash(with_entry(scene))
     out = outroot / scene["name"]
     cmd = [sys.executable, "-X", "utf8", str(Path(SKILL) / "scripts" / "emu.py"), str(rom), "--out", str(out),
            "--script", WARP.as_posix(), "--frames", str(scene.get("frames", 12000)), "--timeout", "600"]

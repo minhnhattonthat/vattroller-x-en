@@ -68,9 +68,9 @@ def test_cell_codes_follow_their_glyphs(built):
                     assert src[es] == codes[2 * c:2 * c + 2], (p, r, c)
 
 
-def test_431_changes_only_box_tiles():
+def test_431_changes_include_the_box_tiles():
+    # the full allow-list (boxes + status labels) is checked in tests/test_gfx.py
     ar = archive.Archive()
     orig, new = ar.file(gfx.SHEET_431), gfx.files(ar)[gfx.SHEET_431]
-    allowed = {t for first, count, _ in gfx.BOXES_431 for t in range(first, first + count)}
     changed = {i // 32 for i in range(len(orig)) if orig[i] != new[i]}
-    assert changed and changed <= allowed
+    assert {t for first, count, _ in gfx.BOXES_431 for t in range(first, first + count)} & changed
