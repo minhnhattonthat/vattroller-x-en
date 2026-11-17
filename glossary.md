@@ -54,6 +54,13 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 | アサマ | Asama | | | |
 | ケイコ | Keiko | | | |
 | ライバ | Raiba | | an opponent (not ライバル rival) | |
+| レイナ | Reina | | ex-member of the Tsuchioni Gang (Ryo side story) | |
+| カタマリ | Katamari | | Tsuchioni Gang leader | |
+| アオイ | Aoi | | Kanata's little brother (Totta side story) | |
+| カナタ | Kanata | | manager of the Mugendo VR shop; owns Dogrelic | |
+| レイオン | Reion | | Master Reion of Reion Gym; Shu and Ryo's master | |
+| イノガシラ | Inogashira | | dojo master (Shu side story) | |
+| トホ | Toho | | name a Death Roller gives Totta's master (guess; e2517) | |
 
 ## Places
 | JP | EN | max | notes | Avoid |
@@ -110,6 +117,23 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 | アタックロール | Attack Roll | | | |
 | スマッシュ | Smash | | | |
 | ドロップ | Drop | | | |
+| ツチオニ団 | Tsuchioni Gang | | thugs who take Arms from beaten opponents | |
+| ロンダリンダ | Rondarinda | | gang of Rare Arm thieves | |
+| ムゲンどう | Mugendo | | Kanata's VR shop | |
+| ハンニバル社 | Hannibal Corp. | | Globe Corp. subsidiary | |
+| しきょうせい | Four Fiends | | Hannibal's four Death Rollers | |
+| インテンション | Intention | | an Arm | |
+| ライオネル | Lionel | | Armalet | |
+| ドラグーン | Dragoon | | Armalet (cf. Dragoon Rise) | |
+| クラッケン | Kraken | | Armalet | |
+| アシュラム | Ashram | | Armalet | |
+| デスロード | Death Lord | | Armalet | |
+| ベルゼーブ | Beelzeb | | Armalet | |
+| Ｖポイント | V Points | | short for Vattrolling Points | |
+| Ｖスキル | V Skills | | | |
+| だいじなもの | Key Items | | menu entry | |
+| せってい | Settings | | menu entry | |
+| きろく | Save | | menu entry (quoted as "Save") | |
 
 ## Decisions from earlier batches
 - (none yet)
