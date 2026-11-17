@@ -2186,7 +2186,7 @@
   "id": "r0766e0",
   "kind": "string",
   "jp": "マルスに",
-  "en": "The pass",
+  "en": "The pass you",
   "status": "done",
   "ptrs": [
    "0xeeaa0"
@@ -2252,7 +2252,7 @@
   "id": "r076734",
   "kind": "string",
   "jp": "さみしいあたまも",
-  "en": "Seaweed. Said to",
+  "en": "Seaweed: makes",
   "status": "done",
   "ptrs": [
    "0xeeaf0"
@@ -2329,7 +2329,7 @@
   "id": "r0767ac",
   "kind": "string",
   "jp": "チャレンジする",
-  "en": "you need to",
+  "en": "need to take",
   "status": "done",
   "ptrs": [
    "0xeead4"
@@ -2395,7 +2395,7 @@
   "id": "r076810",
   "kind": "string",
   "jp": "ツヤツヤになる",
-  "en": "make thin hair",
+  "en": "thin hair nice",
   "status": "done",
   "ptrs": [
    "0xeeb24"
@@ -2472,7 +2472,7 @@
   "id": "r07687c",
   "kind": "string",
   "jp": "ために",
-  "en": "face",
+  "en": "your shot",
   "status": "done",
   "ptrs": [
    "0xeeb08"
@@ -2527,7 +2527,7 @@
   "id": "r0768c4",
   "kind": "string",
   "jp": "らしい",
-  "en": "glossy.",
+  "en": "and glossy.",
   "status": "done",
   "ptrs": [
    "0xeeb58"
@@ -2593,7 +2593,7 @@
   "id": "r076914",
   "kind": "string",
   "jp": "ひつようなパス",
-  "en": "\"Mars\".",
+  "en": "at \"Mars\".",
   "status": "done",
   "ptrs": [
    "0xeeb3c"
