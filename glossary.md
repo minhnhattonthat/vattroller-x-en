@@ -61,7 +61,7 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 | レイオン | Reion | | Master Reion of Reion Gym; Shu and Ryo's master | |
 | イノガシラ | Inogashira | | dojo master (Shu side story) | |
 | トホ | Toho | | name a Death Roller gives Totta's master (guess; e2517) | |
-
+| ウェスト / マスターウェスト | West / Master West | | Premium Gym master; pompous, ends lines with "I say" (である) | |
 ## Places
 | JP | EN | max | notes | Avoid |
 |---|---|---|---|---|
@@ -134,6 +134,21 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 | だいじなもの | Key Items | | menu entry | |
 | せってい | Settings | | menu entry | |
 | きろく | Save | | menu entry (quoted as "Save") | |
+| リーブ | Reeve | | beginner Arm type (リーブけい Reeve type); リーブラスター Reeveblaster, リーブレード Reeveblade | |
+| シャムシール | Shamshir | | Blade-type Arm | |
+| Ｖマシン | V Machine | | Arm Set machine | |
+| Ｖメダル | V Medal | | | |
+| ツール | Tool | | support gear (HP restore etc.) | |
+| キュアメイト | Cure Mate | | Tool | |
+| チェーンアタック | Chain Attack | | technique | |
+| ファルコーン | Falcorn | | Armalet | |
+| ヘクサ社 | Hexa Corp. | | runs Premium Gym; president Todo | |
+| バトリーグさんかパス | Vattleague Pass | | key item | |
 
 ## Decisions from earlier batches
-- (none yet)
+- RPG mode (b016-b023): Minami and her brother are the Premium Gym twins (Takumi's ex-gym mates); the brother blames
+  his horoscope (Scorpio). Raiba is Komachi's big brother (she calls him "big brother"). Ikazuchi speaks Kansai
+  dialect: casual drawl ("ain't", "ya", dropped g's). グローブ (the man) = Mr. Globe / President Globe, Globe Corp.
+  president and the sleepy "...mnya" old man; laughs "Hyo hyo hyo".
+- Club Force naming joke (e2528): "Four, so Force?" / "what's with the 'ce'" / "English puts 's' on the end".
+- The glossary check needs the literal "Vattrolling": write "Vattrolling" rather than the verb "Vattroll".
