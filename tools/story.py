@@ -85,12 +85,16 @@ def chapters():
             print(f"{name}.txt {len(text)} chars")
 
 
-def review(path):
+RECHECK = ("\nThis is a re-review after the fixes from an earlier story pass and the polish pass. Judge Critical and"
+           " Important only; leave Minor empty (style preferences were settled in the polish pass).")
+
+
+def review(path, recheck=False):
     path = Path(path)
     docs = "\n\n".join(f"===== {name} =====\n" + (ROOT / name).read_text(encoding="utf-8") for name in DOCS)
     prompt = (docs + f"\n\n===== chapter file {path.name} =====\n" + path.read_text(encoding="utf-8")
               + "\n\nWrite the report now, as described in the brief. Do not run commands or read files: everything"
-              " you need is above. The last line must be the ASSESSMENT line.\n")
+              " you need is above. The last line must be the ASSESSMENT line.\n" + (RECHECK if recheck else ""))
     p = subprocess.run(["codex", "exec", "--skip-git-repo-check", "-s", "read-only", "-"], input=prompt,
                        capture_output=True, text=True, encoding="utf-8", errors="replace", timeout=3600)
     (OUT / "reports").mkdir(parents=True, exist_ok=True)
@@ -109,18 +113,20 @@ def main():
     ap.add_argument("cmd", choices=["chapters", "review"])
     ap.add_argument("files", nargs="*")
     ap.add_argument("--jobs", type=int, default=3)
+    ap.add_argument("--recheck", action="store_true", help="re-review: Critical/Important only")
+    ap.add_argument("--tag", default="", help="verdict file suffix, so a re-review keeps the earlier verdict file")
     a = ap.parse_args()
     if a.cmd == "chapters":
         return chapters()
     (OUT / "verdicts").mkdir(parents=True, exist_ok=True)
     bad = 0
     with cf.ThreadPoolExecutor(a.jobs) as ex:
-        for stem, verdict, note in ex.map(review, a.files):
+        for stem, verdict, note in ex.map(lambda f: review(f, a.recheck), a.files):
             if verdict is None:
                 bad += 1
                 print(f"{stem}: NO VERDICT {note}")
                 continue
-            (OUT / "verdicts" / f"{stem}.tsv").write_text(f"{stem}\t{verdict}\t{note}\n", encoding="utf-8")
+            (OUT / "verdicts" / f"{stem}{a.tag}.tsv").write_text(f"{stem}\t{verdict}\t{note}\n", encoding="utf-8")
             print(f"{stem}\t{verdict}\t{note}")
     return 1 if bad else 0
 
