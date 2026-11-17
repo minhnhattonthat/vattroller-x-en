@@ -2494,7 +2494,7 @@
   "id": "r076890",
   "kind": "string",
   "jp": "たべるゆうきは",
-  "en": "Who dares eat",
+  "en": "Who dares",
   "status": "done",
   "ptrs": [
    "0xeeb64"
@@ -2615,7 +2615,7 @@
   "id": "r076934",
   "kind": "string",
   "jp": "ない",
-  "en": "it?",
+  "en": "eat it?",
   "status": "done",
   "ptrs": [
    "0xeeb98"

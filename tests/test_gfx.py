@@ -60,6 +60,7 @@ def test_717_changes_only_the_vpon_message_sprites():
     changed = {i // 32 for i in range(len(orig)) if orig[i] != new[i]}
     assert changed and changed <= set(gfx.vpon_cells().values())
     assert set(range(640, 680)) <= set(gfx.vpon_cells().values())
+    assert {705, 706, 713, 714, 721, 722} <= changed    # the in-progress message (かきかえちゅう…) is redrawn too
 
 
 def test_shop_heads_keep_their_box_border():

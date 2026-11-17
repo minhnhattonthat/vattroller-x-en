@@ -601,7 +601,7 @@ SIGN_FONT = {                          # 7 rows
     "L": ["#...", "#...", "#...", "#...", "#...", "#...", "####"],
     "N": ["#...#", "##..#", "#.#.#", "#..##", "#...#", "#...#", "#...#"],
     "!": ["#", "#", "#", "#", "#", ".", "#"],
-    "G": [".###.", "#...#", "#....", "#..##", "#...#", "#...#", ".###."],
+    "G": [".####", "#....", "#....", "#.###", "#...#", "#...#", ".###."],   # open top right: the round G read as D
     "U": ["#...#", "#...#", "#...#", "#...#", "#...#", "#...#", ".###."],
     "T": ["#####", "..#..", "..#..", "..#..", "..#..", "..#..", "..#.."],
     "S": [".###.", "#...#", "#....", ".###.", "....#", "#...#", ".###."],
@@ -814,36 +814,47 @@ VPON_SPRITES = [(85, 16, 8, 16, 254), (93, 0, 32, 32, 640), (69, 16, 16, 16, 656
 # text, centre x, top y (screen pixels); the prize card covers y >= ~24, so line 2 sits as high as its sprites allow
 VPON_LINES = [("REWRITE", 121, 4), ("CONFIRMED!!!", 125, 16)]
 VPON_BG, VPON_INK, VPON_SOFT = 1, 3, 2
-VPON_FONT = {"M": ["#...#", "##.##", "#.#.#", "#.#.#", "#...#", "#...#", "#...#"]}    # added to CARD_FONT
+VPON_FONT = {"M": ["#...#", "##.##", "#.#.#", "#.#.#", "#...#", "#...#", "#...#"],    # added to CARD_FONT
+             ".": [".", ".", ".", ".", ".", ".", "#"]}
+# The message shown while the machine works, かきかえちゅう… / しばらくおまちください! (29th worker, OAM of a `md13`
+# dump at the post start, tools/lua/dumppost.lua): six sprites from #717 680-683, 704-735, 685-700 plus the 8x16
+# piece 286-287; canvas x 54-181, y 0-31 (line 1 only has sprites from x 78).
+VPON_WAIT_SPRITES = [(54, 16, 16, 16, 680), (78, 0, 64, 32, 704), (70, 16, 8, 16, 286), (142, 0, 16, 32, 685),
+                     (158, 0, 8, 32, 693), (166, 16, 16, 16, 697)]
+VPON_WAIT_LINES = [("REWRITING...", 121, 4), ("PLEASE WAIT!", 118, 16)]
+VPON_MESSAGES = [(VPON_SPRITES, VPON_LINES), (VPON_WAIT_SPRITES, VPON_WAIT_LINES)]
 
 
-def vpon_cells():
-    """{(screen x, y) of each 8x8 cell: #717 tile} for the message sprites (1D: tiles row-major per sprite)."""
-    return {(x + 8 * c, y + 8 * r): first + r * (w // 8) + c
-            for x, y, w, h, first in VPON_SPRITES for r in range(h // 8) for c in range(w // 8)}
+def vpon_cells(sprites=None):
+    """{(screen x, y) of each 8x8 cell: #717 tile} for message sprites (1D: tiles row-major per sprite); all
+    messages when `sprites` is None."""
+    sets = [sprites] if sprites else [s for s, _ in VPON_MESSAGES]
+    return {(x + 8 * c, y + 8 * r, k): first + r * (w // 8) + c for k, spr in enumerate(sets)
+            for x, y, w, h, first in spr for r in range(h // 8) for c in range(w // 8)}
 
 
 def sheet_717(orig):
     font = dict(CARD_FONT, **VPON_FONT)
-    cells = vpon_cells()
-    ink = set()
-    for text, cx, top in VPON_LINES:
-        width = sum(len(font[c][0]) + 1 if c != " " else 3 for c in text) - 1
-        x = cx - width // 2
-        for c in text:
-            if c == " ":
-                x += 3
-                continue
-            ink |= {(x + gx, top + gy) for gy, row in enumerate(font[c]) for gx, b in enumerate(row) if b == "#"}
-            x += len(font[c][0]) + 1
-    covered = {(cx + i, cy + j) for cx, cy in cells for i in range(8) for j in range(8)}
-    assert ink <= covered, "V-Pon text runs off its sprites"
-    soft = {(x + 1, y) for x, y in ink} | {(x, y + 1) for x, y in ink}
     out = bytearray(orig)
-    for (cx, cy), t in cells.items():
-        px = [[VPON_INK if (cx + i, cy + j) in ink else VPON_SOFT if (cx + i, cy + j) in soft else VPON_BG
-               for i in range(8)] for j in range(8)]
-        put_tile(out, t, px)
+    for sprites, lines in VPON_MESSAGES:
+        cells = {(x, y): t for (x, y, _), t in vpon_cells(sprites).items()}
+        ink = set()
+        for text, cx, top in lines:
+            width = sum(len(font[c][0]) + 1 if c != " " else 3 for c in text) - 1
+            x = cx - width // 2
+            for c in text:
+                if c == " ":
+                    x += 3
+                    continue
+                ink |= {(x + gx, top + gy) for gy, row in enumerate(font[c]) for gx, b in enumerate(row) if b == "#"}
+                x += len(font[c][0]) + 1
+        covered = {(cx + i, cy + j) for cx, cy in cells for i in range(8) for j in range(8)}
+        assert ink <= covered, f"V-Pon text {lines[0][0]!r} runs off its sprites"
+        soft = {(x + 1, y) for x, y in ink} | {(x, y + 1) for x, y in ink}
+        for (cx, cy), t in cells.items():
+            px = [[VPON_INK if (cx + i, cy + j) in ink else VPON_SOFT if (cx + i, cy + j) in soft else VPON_BG
+                   for i in range(8)] for j in range(8)]
+            put_tile(out, t, px)
     return bytes(out)
 
 
