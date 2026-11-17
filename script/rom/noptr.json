@@ -10,12 +10,11 @@
  },
  {
   "id": "n0f0f2c",
-  "kind": "noptr",
+  "kind": "data",
   "jp": "０１２３４５６７８９　",
   "en": "0123456789",
   "status": "done",
-  "max": 22,
-  "notes": ""
+  "notes": "no-pointer copy of the VRX digit run r07b398 (same per-cell cut), keep as is"
  },
  {
   "id": "n0f0f44",

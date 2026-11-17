@@ -188,6 +188,10 @@ DATA = [
     (0x07B480, 0x07B482, "'Ｐ' after each battle-result score, same blitter as r07b44c, keep as is"),
     (0x0F0FE0, 0x0F0FE8, "no-pointer copy of r07b44c (score '　　０Ｐ', big-digit blitter), keep as is"),
     (0x0F1014, 0x0F1016, "no-pointer copy of r07b480 (score 'Ｐ', big-digit blitter), keep as is"),
+    (0x07B393, 0x07B3AE, "VRX list digits '０１２３４５６７８９　' (r07b393 is a pointer 5 bytes early into the same "
+                         "run): rendered to VRAM 0x06003000 once and cut per digit cell by 0x08066288's caller; "
+                         "ASCII pair glyphs put two digits per cell (list labels drew 'D123'/'0145'), keep as is"),
+    (0x0F0F2C, 0x0F0F42, "no-pointer copy of the VRX digit run r07b398 (same per-cell cut), keep as is"),
 ] + [(a, a + 12, "V Shop password (ＪｉｎＳＷＤ...): compared with what the player types in the fullwidth entry "
                  "grid, keep the SJIS bytes")
      for a in (0x01D8F0, 0x01D934, 0x01D97C, 0x01D9C0, 0x01DA04, 0x01DA4C, 0x01DA94, 0x01DAD8, 0x01DB20, 0x01DB64,

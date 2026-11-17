@@ -5869,25 +5869,25 @@
  },
  {
   "id": "r07b393",
-  "kind": "string",
+  "kind": "data",
   "jp": "hh8@`０１２３４５６７８９　",
   "en": "hh8@`0123456789 ",
   "status": "done",
   "ptrs": [
    "0x66898"
   ],
-  "notes": ""
+  "notes": "VRX list digits '０１２３４５６７８９　' (r07b393 is a pointer 5 bytes early into the same run): rendered to VRAM 0x06003000 once and cut per digit cell by 0x08066288's caller; ASCII pair glyphs put two digits per cell (list labels drew 'D123'/'0145'), keep as is"
  },
  {
   "id": "r07b398",
-  "kind": "string",
+  "kind": "data",
   "jp": "０１２３４５６７８９　",
   "en": "0123456789 ",
   "status": "done",
   "ptrs": [
    "0x66288"
   ],
-  "notes": ""
+  "notes": "VRX list digits '０１２３４５６７８９　' (r07b393 is a pointer 5 bytes early into the same run): rendered to VRAM 0x06003000 once and cut per digit cell by 0x08066288's caller; ASCII pair glyphs put two digits per cell (list labels drew 'D123'/'0145'), keep as is"
  },
  {
   "id": "r07b3b0",
