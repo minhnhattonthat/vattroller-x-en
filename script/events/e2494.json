@@ -543,8 +543,8 @@
   "id": "e2494_00b88",
   "kind": "line",
   "jp": "試合　チェックさせてもらいますよ",
-  "en": "",
-  "status": "new",
+  "en": "I'll be watching your matches, okay?",
+  "status": "done",
   "flags": "0x0200",
   "script": 2,
   "notes": ""
