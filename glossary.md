@@ -9,6 +9,9 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 - Credits: English.
 - Register / flavour (D9): natural, lively kids'-anime English; contractions; each character's quirk kept in English
   (Totta's "Totta-sama", the old man's sleepy "...mnya", the -zamasu lady's "zamasu" kept as a verbal tic).
+- ジン = Jin (Jin Tsukahara, つかはら ジン), hero of the "Vattroller Jin" comic books; not a table row, so
+  lines that address him may drop the name. ファイバード = Firebird (Jin's Armalet bird; ふしちょう = phoenix),
+  ドラグーン・ライズ = Dragoon Rise (Shu's special move).
 - Comic-book chapter titles: バトローラージン "Vattroller Jin", 登場編 "Debut Arc", げきとう編 "Showdown Arc",
   修行編 "Training Arc", アレーナ編 "Arena Arc", 番外編 "Side Story", デスロール編 "Death Roll Arc",
   第１話 "Episode 1", おわり "The End".
@@ -47,7 +50,6 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 | ワシュー | Washu | | | |
 | トウドウ | Todo | | | Toudou |
 | ムチャピー | Muchapy | | Jin's pet; cries "Pyii!" | |
-| ジン | Jin | | Jin Tsukahara (つかはら ジン), hero of the "Vattroller Jin" comic books | |
 | ムニャ | mnya | | sleepy mumble of an old man (e2533) | |
 | アサマ | Asama | | | |
 | ケイコ | Keiko | | | |
@@ -99,7 +101,7 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 | ドグレリック | Dogrelic | | a famous arm | |
 | シャークボール | Shark Ball | | | |
 | アームリライター | Arm Rewriter | | | |
-| 必殺技 | special move | | | |
+| 必殺技 | special move / special | | | |
 
 ## Decisions from earlier batches
 - (none yet)
