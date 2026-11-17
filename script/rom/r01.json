@@ -3,8 +3,8 @@
   "id": "r012ca0",
   "kind": "string",
   "jp": "エールソード",
-  "en": "",
-  "status": "new",
+  "en": "Aile Sword",
+  "status": "done",
   "ptrs": [
    "0xed50"
   ],
@@ -14,8 +14,8 @@
   "id": "r012cb0",
   "kind": "string",
   "jp": "細身で軽く",
-  "en": "",
-  "status": "new",
+  "en": "Slender &",
+  "status": "done",
   "ptrs": [
    "0xed54"
   ],
@@ -25,8 +25,8 @@
   "id": "r012cbc",
   "kind": "string",
   "jp": "使いやすいアーム",
-  "en": "",
-  "status": "new",
+  "en": "light, easy Arm",
+  "status": "done",
   "ptrs": [
    "0xed58"
   ],
@@ -36,8 +36,8 @@
   "id": "r012cd0",
   "kind": "string",
   "jp": "サイズも小さい",
-  "en": "",
-  "status": "new",
+  "en": "and small Size",
+  "status": "done",
   "ptrs": [
    "0xed5c"
   ],
@@ -47,8 +47,8 @@
   "id": "r012ce0",
   "kind": "string",
   "jp": "ドグレリック",
-  "en": "",
-  "status": "new",
+  "en": "Dogrelic",
+  "status": "done",
   "ptrs": [
    "0xedc8"
   ],
@@ -58,8 +58,8 @@
   "id": "r012cf0",
   "kind": "string",
   "jp": "古いタイプだが",
-  "en": "",
-  "status": "new",
+  "en": "Old model, but",
+  "status": "done",
   "ptrs": [
    "0xedcc"
   ],
@@ -69,8 +69,8 @@
   "id": "r012d00",
   "kind": "string",
   "jp": "バランスが良く",
-  "en": "",
-  "status": "new",
+  "en": "well balanced:",
+  "status": "done",
   "ptrs": [
    "0xedd0"
   ],
@@ -80,8 +80,8 @@
   "id": "r012d10",
   "kind": "string",
   "jp": "愛好者が多い剣",
-  "en": "",
-  "status": "new",
+  "en": "a fan favorite",
+  "status": "done",
   "ptrs": [
    "0xedd4"
   ],
@@ -91,8 +91,8 @@
   "id": "r012d20",
   "kind": "string",
   "jp": "ファイバーン",
-  "en": "",
-  "status": "new",
+  "en": "Fiburn",
+  "status": "done",
   "ptrs": [
    "0xee40"
   ],
@@ -102,8 +102,8 @@
   "id": "r012d30",
   "kind": "string",
   "jp": "赤くもえるオーラ",
-  "en": "",
-  "status": "new",
+  "en": "Red-hot aura",
+  "status": "done",
   "ptrs": [
    "0xee44"
   ],
@@ -113,8 +113,8 @@
   "id": "r012d44",
   "kind": "string",
   "jp": "で相手をきる",
-  "en": "",
-  "status": "new",
+  "en": "slashes foes",
+  "status": "done",
   "ptrs": [
    "0xee48"
   ],
@@ -124,8 +124,8 @@
   "id": "r012d54",
   "kind": "string",
   "jp": "ほのおのような剣",
-  "en": "",
-  "status": "new",
+  "en": "a blade of flame",
+  "status": "done",
   "ptrs": [
    "0xee4c"
   ],
@@ -135,8 +135,8 @@
   "id": "r012d68",
   "kind": "string",
   "jp": "テスタメント",
-  "en": "",
-  "status": "new",
+  "en": "Testament",
+  "status": "done",
   "ptrs": [
    "0xeeb8"
   ],
@@ -146,8 +146,8 @@
   "id": "r012d78",
   "kind": "string",
   "jp": "たおした相手に",
-  "en": "",
-  "status": "new",
+  "en": "Prays for the",
+  "status": "done",
   "ptrs": [
    "0xeebc"
   ],
@@ -157,8 +157,8 @@
   "id": "r012d88",
   "kind": "string",
   "jp": "いのりをささげる",
-  "en": "",
-  "status": "new",
+  "en": "foes it fells:",
+  "status": "done",
   "ptrs": [
    "0xeec0"
   ],
@@ -168,8 +168,8 @@
   "id": "r012d9c",
   "kind": "string",
   "jp": "十字の形の剣",
-  "en": "",
-  "status": "new",
+  "en": "cross-shaped",
+  "status": "done",
   "ptrs": [
    "0xeec4"
   ],
@@ -179,8 +179,8 @@
   "id": "r012dac",
   "kind": "string",
   "jp": "ファイバラッシュ",
-  "en": "",
-  "status": "new",
+  "en": "Fiburash",
+  "status": "done",
   "ptrs": [
    "0xef30"
   ],
@@ -190,8 +190,8 @@
   "id": "r012dc0",
   "kind": "string",
   "jp": "ファイバーンを",
-  "en": "",
-  "status": "new",
+  "en": "A powered-up",
+  "status": "done",
   "ptrs": [
    "0xef34"
   ],
@@ -201,8 +201,8 @@
   "id": "r012dd0",
   "kind": "string",
   "jp": "パワーＵＰさせた",
-  "en": "",
-  "status": "new",
+  "en": "Fiburn, the",
+  "status": "done",
   "ptrs": [
    "0xef38"
   ],
@@ -212,8 +212,8 @@
   "id": "r012de4",
   "kind": "string",
   "jp": "ふ死鳥の剣",
-  "en": "",
-  "status": "new",
+  "en": "phoenix",
+  "status": "done",
   "ptrs": [
    "0xef3c"
   ],
@@ -223,8 +223,8 @@
   "id": "r012df0",
   "kind": "string",
   "jp": "アラグナル",
-  "en": "",
-  "status": "new",
+  "en": "Aragnal",
+  "status": "done",
   "ptrs": [
    "0xefa8"
   ],
@@ -234,8 +234,8 @@
   "id": "r012dfc",
   "kind": "string",
   "jp": "オーラがぼうそう",
-  "en": "",
-  "status": "new",
+  "en": "Its aura may go",
+  "status": "done",
   "ptrs": [
    "0xefac"
   ],
@@ -245,8 +245,8 @@
   "id": "r012e10",
   "kind": "string",
   "jp": "する事もある",
-  "en": "",
-  "status": "new",
+  "en": "berserk:",
+  "status": "done",
   "ptrs": [
    "0xefb0"
   ],
@@ -256,8 +256,8 @@
   "id": "r012e20",
   "kind": "string",
   "jp": "キケンなアーム",
-  "en": "",
-  "status": "new",
+  "en": "a risky Arm",
+  "status": "done",
   "ptrs": [
    "0xefb4"
   ],
@@ -267,8 +267,8 @@
   "id": "r012e30",
   "kind": "string",
   "jp": "ザルメギス",
-  "en": "",
-  "status": "new",
+  "en": "Zalmegis",
+  "status": "done",
   "ptrs": [
    "0xf020"
   ],
@@ -278,8 +278,8 @@
   "id": "r012e3c",
   "kind": "string",
   "jp": "持つ者をキケンに",
-  "en": "",
-  "status": "new",
+  "en": "So strong it can",
+  "status": "done",
   "ptrs": [
    "0xf024"
   ],
@@ -289,8 +289,8 @@
   "id": "r012e50",
   "kind": "string",
   "jp": "さらす事もある",
-  "en": "",
-  "status": "new",
+  "en": "endanger its",
+  "status": "done",
   "ptrs": [
    "0xf028"
   ],
@@ -300,8 +300,8 @@
   "id": "r012e60",
   "kind": "string",
   "jp": "ほど強力な剣",
-  "en": "",
-  "status": "new",
+  "en": "own wielder",
+  "status": "done",
   "ptrs": [
    "0xf02c"
   ],
@@ -311,8 +311,8 @@
   "id": "r012e70",
   "kind": "string",
   "jp": "ヘブンブレイカー",
-  "en": "",
-  "status": "new",
+  "en": "Heaven Breaker",
+  "status": "done",
   "ptrs": [
    "0xf098"
   ],
@@ -322,8 +322,8 @@
   "id": "r012e84",
   "kind": "string",
   "jp": "死神の力をひめる",
-  "en": "",
-  "status": "new",
+  "en": "Said to hold a",
+  "status": "done",
   "ptrs": [
    "0xf09c"
   ],
@@ -333,8 +333,8 @@
   "id": "r012e98",
   "kind": "string",
   "jp": "ほどと言われる",
-  "en": "",
-  "status": "new",
+  "en": "reaper power:",
+  "status": "done",
   "ptrs": [
    "0xf0a0"
   ],
@@ -344,8 +344,8 @@
   "id": "r012ea8",
   "kind": "string",
   "jp": "おそるべきマケン",
-  "en": "",
-  "status": "new",
+  "en": "a fearsome blade",
+  "status": "done",
   "ptrs": [
    "0xf0a4"
   ],
@@ -355,8 +355,8 @@
   "id": "r012ebc",
   "kind": "string",
   "jp": "アレイザン",
-  "en": "",
-  "status": "new",
+  "en": "Areizan",
+  "status": "done",
   "ptrs": [
    "0xf110"
   ],
@@ -366,8 +366,8 @@
   "id": "r012ec8",
   "kind": "string",
   "jp": "カタナタイプで",
-  "en": "",
-  "status": "new",
+  "en": "Of the katana",
+  "status": "done",
   "ptrs": [
    "0xf114"
   ],
@@ -377,8 +377,8 @@
   "id": "r012ed8",
   "kind": "string",
   "jp": "いちばんてがるな",
-  "en": "",
-  "status": "new",
+  "en": "type, it's the",
+  "status": "done",
   "ptrs": [
    "0xf118"
   ],
@@ -388,8 +388,8 @@
   "id": "r012eec",
   "kind": "string",
   "jp": "ねだんのアーム",
-  "en": "",
-  "status": "new",
+  "en": "cheapest Arm",
+  "status": "done",
   "ptrs": [
    "0xf11c"
   ],
@@ -399,8 +399,8 @@
   "id": "r012efc",
   "kind": "string",
   "jp": "シャムシール",
-  "en": "",
-  "status": "new",
+  "en": "Shamshir",
+  "status": "done",
   "ptrs": [
    "0xf188"
   ],
@@ -410,8 +410,8 @@
   "id": "r012f0c",
   "kind": "string",
   "jp": "外国につたわる",
-  "en": "",
-  "status": "new",
+  "en": "Inspired by",
+  "status": "done",
   "ptrs": [
    "0xf18c"
   ],
@@ -421,8 +421,8 @@
   "id": "r012f1c",
   "kind": "string",
   "jp": "古代の刀が",
-  "en": "",
-  "status": "new",
+  "en": "an ancient",
+  "status": "done",
   "ptrs": [
    "0xf190"
   ],
@@ -432,8 +432,8 @@
   "id": "r012f28",
   "kind": "string",
   "jp": "モチーフのアーム",
-  "en": "",
-  "status": "new",
+  "en": "sword: an Arm",
+  "status": "done",
   "ptrs": [
    "0xf194"
   ],
@@ -443,8 +443,8 @@
   "id": "r012f3c",
   "kind": "string",
   "jp": "リュウビトウ",
-  "en": "",
-  "status": "new",
+  "en": "Ryubito",
+  "status": "done",
   "ptrs": [
    "0xf200"
   ],
@@ -454,8 +454,8 @@
   "id": "r012f4c",
   "kind": "string",
   "jp": "リュウのしっぽが",
-  "en": "",
-  "status": "new",
+  "en": "Dragon-tail",
+  "status": "done",
   "ptrs": [
    "0xf204"
   ],
@@ -465,8 +465,8 @@
   "id": "r012f60",
   "kind": "string",
   "jp": "モデルのアーム",
-  "en": "",
-  "status": "new",
+  "en": "model Arm;",
+  "status": "done",
   "ptrs": [
    "0xf208"
   ],
@@ -476,8 +476,8 @@
   "id": "r012f70",
   "kind": "string",
   "jp": "スルドイ切れ味だ",
-  "en": "",
-  "status": "new",
+  "en": "razor sharp!",
+  "status": "done",
   "ptrs": [
    "0xf20c"
   ],
@@ -487,8 +487,8 @@
   "id": "r012f84",
   "kind": "string",
   "jp": "エクセリーザ",
-  "en": "",
-  "status": "new",
+  "en": "Excelisa",
+  "status": "done",
   "ptrs": [
    "0xf278"
   ],
@@ -498,8 +498,8 @@
   "id": "r012f94",
   "kind": "string",
   "jp": "大きく強力なため",
-  "en": "",
-  "status": "new",
+  "en": "Big and strong,",
+  "status": "done",
   "ptrs": [
    "0xf27c"
   ],
@@ -509,8 +509,8 @@
   "id": "r012fa8",
   "kind": "string",
   "jp": "使いこなすには",
-  "en": "",
-  "status": "new",
+  "en": "to master it",
+  "status": "done",
   "ptrs": [
    "0xf280"
   ],
@@ -520,8 +520,8 @@
   "id": "r012fb8",
   "kind": "string",
   "jp": "センスがひつよう",
-  "en": "",
-  "status": "new",
+  "en": "takes talent",
+  "status": "done",
   "ptrs": [
    "0xf284"
   ],
@@ -531,8 +531,8 @@
   "id": "r012fcc",
   "kind": "string",
   "jp": "ソウリュウ",
-  "en": "",
-  "status": "new",
+  "en": "Soryu",
+  "status": "done",
   "ptrs": [
    "0xf2f0"
   ],
@@ -542,8 +542,8 @@
   "id": "r012fd8",
   "kind": "string",
   "jp": "代だいのマルスが",
-  "en": "",
-  "status": "new",
+  "en": "Every \"Mars\"",
+  "status": "done",
   "ptrs": [
    "0xf2f4"
   ],
@@ -553,8 +553,8 @@
   "id": "r012fec",
   "kind": "string",
   "jp": "持つ事のできる",
-  "en": "",
-  "status": "new",
+  "en": "may wield it:",
+  "status": "done",
   "ptrs": [
    "0xf2f8"
   ],
@@ -564,8 +564,8 @@
   "id": "r012ffc",
   "kind": "string",
   "jp": "最強のあかし",
-  "en": "",
-  "status": "new",
+  "en": "the greatest",
+  "status": "done",
   "ptrs": [
    "0xf2fc"
   ],
@@ -575,8 +575,8 @@
   "id": "r01300c",
   "kind": "string",
   "jp": "ムメイ",
-  "en": "",
-  "status": "new",
+  "en": "Mumei",
+  "status": "done",
   "ptrs": [
    "0xf368"
   ],
@@ -586,8 +586,8 @@
   "id": "r013014",
   "kind": "string",
   "jp": "ぶ気味なオーラを",
-  "en": "",
-  "status": "new",
+  "en": "Eerie aura,",
+  "status": "done",
   "ptrs": [
    "0xf36c"
   ],
@@ -597,8 +597,8 @@
   "id": "r013028",
   "kind": "string",
   "jp": "発する　必殺の",
-  "en": "",
-  "status": "new",
+  "en": "deadly power:",
+  "status": "done",
   "ptrs": [
    "0xf370"
   ],
@@ -608,8 +608,8 @@
   "id": "r013038",
   "kind": "string",
   "jp": "力を持つヨウトウ",
-  "en": "",
-  "status": "new",
+  "en": "a cursed blade",
+  "status": "done",
   "ptrs": [
    "0xf374"
   ],
@@ -619,8 +619,8 @@
   "id": "r01304c",
   "kind": "string",
   "jp": "キュウビノタチ",
-  "en": "",
-  "status": "new",
+  "en": "Kyubi Tachi",
+  "status": "done",
   "ptrs": [
    "0xf3e0"
   ],
@@ -630,8 +630,8 @@
   "id": "r01305c",
   "kind": "string",
   "jp": "太古のヨウカイの",
-  "en": "",
-  "status": "new",
+  "en": "Said to hold an",
+  "status": "done",
   "ptrs": [
    "0xf3e4"
   ],
@@ -641,8 +641,8 @@
   "id": "r013070",
   "kind": "string",
   "jp": "力が宿るとされる",
-  "en": "",
-  "status": "new",
+  "en": "ancient demon's",
+  "status": "done",
   "ptrs": [
    "0xf3e8"
   ],
@@ -652,8 +652,8 @@
   "id": "r013084",
   "kind": "string",
   "jp": "ヨウトウ",
-  "en": "",
-  "status": "new",
+  "en": "power",
+  "status": "done",
   "ptrs": [
    "0xf3ec"
   ],
@@ -663,8 +663,8 @@
   "id": "r013090",
   "kind": "string",
   "jp": "ムゲンセイバー",
-  "en": "",
-  "status": "new",
+  "en": "Mugen Saber",
+  "status": "done",
   "ptrs": [
    "0xf458"
   ],
@@ -674,8 +674,8 @@
   "id": "r0130a0",
   "kind": "string",
   "jp": "ふれただけで",
-  "en": "",
-  "status": "new",
+  "en": "One touch",
+  "status": "done",
   "ptrs": [
    "0xf45c"
   ],
@@ -685,8 +685,8 @@
   "id": "r0130b0",
   "kind": "string",
   "jp": "心がくだかれる",
-  "en": "",
-  "status": "new",
+  "en": "breaks hearts:",
+  "status": "done",
   "ptrs": [
    "0xf460"
   ],
@@ -696,8 +696,8 @@
   "id": "r0130c0",
   "kind": "string",
   "jp": "というヨウトウ",
-  "en": "",
-  "status": "new",
+  "en": "a cursed blade",
+  "status": "done",
   "ptrs": [
    "0xf464"
   ],
@@ -707,8 +707,8 @@
   "id": "r0130d0",
   "kind": "string",
   "jp": "ブルスレッド",
-  "en": "",
-  "status": "new",
+  "en": "Bull Thread",
+  "status": "done",
   "ptrs": [
    "0xf4d0"
   ],
@@ -718,8 +718,8 @@
   "id": "r0130e0",
   "kind": "string",
   "jp": "両手で使うアーム",
-  "en": "",
-  "status": "new",
+  "en": "Two-handed Arm;",
+  "status": "done",
   "ptrs": [
    "0xf4d4"
   ],
@@ -729,8 +729,8 @@
   "id": "r0130f4",
   "kind": "string",
   "jp": "短いが　す早い",
-  "en": "",
-  "status": "new",
+  "en": "short & quick",
+  "status": "done",
   "ptrs": [
    "0xf4d8"
   ],
@@ -740,8 +740,8 @@
   "id": "r013104",
   "kind": "string",
   "jp": "こうげきができる",
-  "en": "",
-  "status": "new",
+  "en": "attacks",
+  "status": "done",
   "ptrs": [
    "0xf4dc"
   ],
@@ -751,8 +751,8 @@
   "id": "r013118",
   "kind": "string",
   "jp": "フラティール",
-  "en": "",
-  "status": "new",
+  "en": "Flateer",
+  "status": "done",
   "ptrs": [
    "0xf548"
   ],
@@ -762,8 +762,8 @@
   "id": "r013128",
   "kind": "string",
   "jp": "このアームで戦う",
-  "en": "",
-  "status": "new",
+  "en": "Wield this Arm",
+  "status": "done",
   "ptrs": [
    "0xf54c"
   ],
@@ -773,8 +773,8 @@
   "id": "r01313c",
   "kind": "string",
   "jp": "とまるでおどって",
-  "en": "",
-  "status": "new",
+  "en": "and you look",
+  "status": "done",
   "ptrs": [
    "0xf550"
   ],
@@ -784,8 +784,8 @@
   "id": "r013150",
   "kind": "string",
   "jp": "いるかのようだ",
-  "en": "",
-  "status": "new",
+  "en": "like dancing",
+  "status": "done",
   "ptrs": [
    "0xf554"
   ],
@@ -795,8 +795,8 @@
   "id": "r013160",
   "kind": "string",
   "jp": "ゲッコウリン",
-  "en": "",
-  "status": "new",
+  "en": "Gekkorin",
+  "status": "done",
   "ptrs": [
    "0xf5c0"
   ],
@@ -806,8 +806,8 @@
   "id": "r013170",
   "kind": "string",
   "jp": "月の光を思わせる",
-  "en": "",
-  "status": "new",
+  "en": "Moonlit-looking",
+  "status": "done",
   "ptrs": [
    "0xf5c4"
   ],
@@ -817,8 +817,8 @@
   "id": "r013184",
   "kind": "string",
   "jp": "アーム",
-  "en": "",
-  "status": "new",
+  "en": "Arm,",
+  "status": "done",
   "ptrs": [
    "0xf5c8"
   ],
@@ -828,8 +828,8 @@
   "id": "r01318c",
   "kind": "string",
   "jp": "実用せいも高い",
-  "en": "",
-  "status": "new",
+  "en": "very practical",
+  "status": "done",
   "ptrs": [
    "0xf5cc"
   ],
@@ -839,8 +839,8 @@
   "id": "r01319c",
   "kind": "string",
   "jp": "ナイトレイド",
-  "en": "",
-  "status": "new",
+  "en": "Night Raid",
+  "status": "done",
   "ptrs": [
    "0xf638"
   ],
@@ -850,8 +850,8 @@
   "id": "r0131ac",
   "kind": "string",
   "jp": "相手の目をボカす",
-  "en": "",
-  "status": "new",
+  "en": "Its attacks can",
+  "status": "done",
   "ptrs": [
    "0xf63c"
   ],
@@ -861,8 +861,8 @@
   "id": "r0131c0",
   "kind": "string",
   "jp": "こうげきができる",
-  "en": "",
-  "status": "new",
+  "en": "blur foes' eyes:",
+  "status": "done",
   "ptrs": [
    "0xf640"
   ],
@@ -872,8 +872,8 @@
   "id": "r0131d4",
   "kind": "string",
   "jp": "アーム",
-  "en": "",
-  "status": "new",
+  "en": "Arm",
+  "status": "done",
   "ptrs": [
    "0xf644"
   ],
@@ -883,8 +883,8 @@
   "id": "r0131dc",
   "kind": "string",
   "jp": "ホムラオウギ",
-  "en": "",
-  "status": "new",
+  "en": "Homura Ogi",
+  "status": "done",
   "ptrs": [
    "0xf6b0"
   ],
@@ -894,8 +894,8 @@
   "id": "r0131ec",
   "kind": "string",
   "jp": "強力なねっ風が",
-  "en": "",
-  "status": "new",
+  "en": "A strong hot",
+  "status": "done",
   "ptrs": [
    "0xf6b4"
   ],
@@ -905,8 +905,8 @@
   "id": "r0131fc",
   "kind": "string",
   "jp": "相手をつつみこみ",
-  "en": "",
-  "status": "new",
+  "en": "wind engulfs and",
+  "status": "done",
   "ptrs": [
    "0xf6b8"
   ],
@@ -916,8 +916,8 @@
   "id": "r013210",
   "kind": "string",
   "jp": "こうげきする",
-  "en": "",
-  "status": "new",
+  "en": "strikes foes",
+  "status": "done",
   "ptrs": [
    "0xf6bc"
   ],
@@ -927,8 +927,8 @@
   "id": "r013220",
   "kind": "string",
   "jp": "インテンション",
-  "en": "",
-  "status": "new",
+  "en": "Intention",
+  "status": "done",
   "ptrs": [
    "0xf728"
   ],
@@ -938,8 +938,8 @@
   "id": "r013230",
   "kind": "string",
   "jp": "じゆうじざいに",
-  "en": "",
-  "status": "new",
+  "en": "Freely shifts",
+  "status": "done",
   "ptrs": [
    "0xf72c"
   ],
@@ -949,8 +949,8 @@
   "id": "r013240",
   "kind": "string",
   "jp": "形がかわるムチの",
-  "en": "",
-  "status": "new",
+  "en": "its shape like",
+  "status": "done",
   "ptrs": [
    "0xf730"
   ],
@@ -960,8 +960,8 @@
   "id": "r013254",
   "kind": "string",
   "jp": "ようなアーム",
-  "en": "",
-  "status": "new",
+  "en": "a whip Arm",
+  "status": "done",
   "ptrs": [
    "0xf734"
   ],
@@ -971,8 +971,8 @@
   "id": "r013264",
   "kind": "string",
   "jp": "インテンションＺ",
-  "en": "",
-  "status": "new",
+  "en": "Intention Z",
+  "status": "done",
   "ptrs": [
    "0xf7a0"
   ],
@@ -982,8 +982,8 @@
   "id": "r013278",
   "kind": "string",
   "jp": "インテンションの",
-  "en": "",
-  "status": "new",
+  "en": "Intention's",
+  "status": "done",
   "ptrs": [
    "0xf7a4"
   ],
@@ -993,8 +993,8 @@
   "id": "r01328c",
   "kind": "string",
   "jp": "進化したタイプ　",
-  "en": "",
-  "status": "new",
+  "en": "evolved type,",
+  "status": "done",
   "ptrs": [
    "0xf7a8"
   ],
@@ -1004,8 +1004,8 @@
   "id": "r0132a0",
   "kind": "string",
   "jp": "上級者むきだ",
-  "en": "",
-  "status": "new",
+  "en": "for experts",
+  "status": "done",
   "ptrs": [
    "0xf7ac"
   ],
@@ -1015,8 +1015,8 @@
   "id": "r0132b0",
   "kind": "string",
   "jp": "ゴヨウダー",
-  "en": "",
-  "status": "new",
+  "en": "Goyoder",
+  "status": "done",
   "ptrs": [
    "0xf818"
   ],
@@ -1026,8 +1026,8 @@
   "id": "r0132bc",
   "kind": "string",
   "jp": "ジッテとよばれる",
-  "en": "",
-  "status": "new",
+  "en": "Based on an old",
+  "status": "done",
   "ptrs": [
    "0xf81c"
   ],
@@ -1037,8 +1037,8 @@
   "id": "r0132d0",
   "kind": "string",
   "jp": "古いぶきがモデル",
-  "en": "",
-  "status": "new",
+  "en": "weapon, jitte;",
+  "status": "done",
   "ptrs": [
    "0xf820"
   ],
@@ -1048,8 +1048,8 @@
   "id": "r0132e4",
   "kind": "string",
   "jp": "つかいやすい",
-  "en": "",
-  "status": "new",
+  "en": "easy to use",
+  "status": "done",
   "ptrs": [
    "0xf824"
   ],
@@ -1059,8 +1059,8 @@
   "id": "r0132f4",
   "kind": "string",
   "jp": "コマガサネ",
-  "en": "",
-  "status": "new",
+  "en": "Komagasane",
+  "status": "done",
   "ptrs": [
    "0xf890"
   ],
@@ -1070,8 +1070,8 @@
   "id": "r013300",
   "kind": "string",
   "jp": "二刀流なので",
-  "en": "",
-  "status": "new",
+  "en": "Twin blades:",
+  "status": "done",
   "ptrs": [
    "0xf894"
   ],
@@ -1081,8 +1081,8 @@
   "id": "r013310",
   "kind": "string",
   "jp": "手数が多く",
-  "en": "",
-  "status": "new",
+  "en": "many hits,",
+  "status": "done",
   "ptrs": [
    "0xf898"
   ],
@@ -1092,8 +1092,8 @@
   "id": "r01331c",
   "kind": "string",
   "jp": "こうげきも高い",
-  "en": "",
-  "status": "new",
+  "en": "high attack",
+  "status": "done",
   "ptrs": [
    "0xf89c"
   ],
@@ -1103,8 +1103,8 @@
   "id": "r01332c",
   "kind": "string",
   "jp": "グレイサー",
-  "en": "",
-  "status": "new",
+  "en": "Grayser",
+  "status": "done",
   "ptrs": [
    "0xf908"
   ],
@@ -1114,8 +1114,8 @@
   "id": "r013338",
   "kind": "string",
   "jp": "二刀のシロキバと",
-  "en": "",
-  "status": "new",
+  "en": "Twin Shirokiba &",
+  "status": "done",
   "ptrs": [
    "0xf90c"
   ],
@@ -1125,8 +1125,8 @@
   "id": "r01334c",
   "kind": "string",
   "jp": "クロキバが合体し",
-  "en": "",
-  "status": "new",
+  "en": "Kurokiba combine",
+  "status": "done",
   "ptrs": [
    "0xf910"
   ],
@@ -1136,8 +1136,8 @@
   "id": "r013360",
   "kind": "string",
   "jp": "グレイサーとなる",
-  "en": "",
-  "status": "new",
+  "en": "into Grayser",
+  "status": "done",
   "ptrs": [
    "0xf914"
   ],
@@ -1147,8 +1147,8 @@
   "id": "r013374",
   "kind": "string",
   "jp": "ブランディッシュ",
-  "en": "",
-  "status": "new",
+  "en": "Brandish",
+  "status": "done",
   "ptrs": [
    "0xf980"
   ],
@@ -1158,8 +1158,8 @@
   "id": "r013388",
   "kind": "string",
   "jp": "するどい２つの",
-  "en": "",
-  "status": "new",
+  "en": "Two sharp",
+  "status": "done",
   "ptrs": [
    "0xf984"
   ],
@@ -1169,8 +1169,8 @@
   "id": "r013398",
   "kind": "string",
   "jp": "ヤイバで連ぞく",
-  "en": "",
-  "status": "new",
+  "en": "blades for",
+  "status": "done",
   "ptrs": [
    "0xf988"
   ],
@@ -1180,8 +1180,8 @@
   "id": "r0133a8",
   "kind": "string",
   "jp": "こうげきする",
-  "en": "",
-  "status": "new",
+  "en": "chain hits",
+  "status": "done",
   "ptrs": [
    "0xf98c"
   ],
@@ -1191,8 +1191,8 @@
   "id": "r0133b8",
   "kind": "string",
   "jp": "ディアマンダー",
-  "en": "",
-  "status": "new",
+  "en": "Diamander",
+  "status": "done",
   "ptrs": [
    "0xf9f8"
   ],
@@ -1202,8 +1202,8 @@
   "id": "r0133c8",
   "kind": "string",
   "jp": "せいこうな作りで",
-  "en": "",
-  "status": "new",
+  "en": "Finely crafted,",
+  "status": "done",
   "ptrs": [
    "0xf9fc"
   ],
@@ -1213,8 +1213,8 @@
   "id": "r0133dc",
   "kind": "string",
   "jp": "生さん数が少ない",
-  "en": "",
-  "status": "new",
+  "en": "few were made:",
+  "status": "done",
   "ptrs": [
    "0xfa00"
   ],
@@ -1224,8 +1224,8 @@
   "id": "r0133f0",
   "kind": "string",
   "jp": "レアなアーム",
-  "en": "",
-  "status": "new",
+  "en": "a rare Arm",
+  "status": "done",
   "ptrs": [
    "0xfa04"
   ],
@@ -1235,8 +1235,8 @@
   "id": "r013400",
   "kind": "string",
   "jp": "グラススピナー",
-  "en": "",
-  "status": "new",
+  "en": "Glass Spinner",
+  "status": "done",
   "ptrs": [
    "0xfa70"
   ],
@@ -1246,8 +1246,8 @@
   "id": "r013410",
   "kind": "string",
   "jp": "ブーメランみたい",
-  "en": "",
-  "status": "new",
+  "en": "Usable like a",
+  "status": "done",
   "ptrs": [
    "0xfa74"
   ],
@@ -1257,8 +1257,8 @@
   "id": "r013424",
   "kind": "string",
   "jp": "に使うことも",
-  "en": "",
-  "status": "new",
+  "en": "boomerang:",
+  "status": "done",
   "ptrs": [
    "0xfa78"
   ],
@@ -1268,8 +1268,8 @@
   "id": "r013434",
   "kind": "string",
   "jp": "できるアーム",
-  "en": "",
-  "status": "new",
+  "en": "a handy Arm",
+  "status": "done",
   "ptrs": [
    "0xfa7c"
   ],
@@ -1279,8 +1279,8 @@
   "id": "r013444",
   "kind": "string",
   "jp": "ガーランド",
-  "en": "",
-  "status": "new",
+  "en": "Garland",
+  "status": "done",
   "ptrs": [
    "0xfae8"
   ],
@@ -1290,8 +1290,8 @@
   "id": "r013450",
   "kind": "string",
   "jp": "４つのヤイバと",
-  "en": "",
-  "status": "new",
+  "en": "4 blades and",
+  "status": "done",
   "ptrs": [
    "0xfaec"
   ],
@@ -1301,8 +1301,8 @@
   "id": "r013460",
   "kind": "string",
   "jp": "高速回転で相手を",
-  "en": "",
-  "status": "new",
+  "en": "high-speed spin",
+  "status": "done",
   "ptrs": [
    "0xfaf0"
   ],
@@ -1312,8 +1312,8 @@
   "id": "r013474",
   "kind": "string",
   "jp": "切りさく",
-  "en": "",
-  "status": "new",
+  "en": "cut foes",
+  "status": "done",
   "ptrs": [
    "0xfaf4"
   ],
@@ -1323,8 +1323,8 @@
   "id": "r013480",
   "kind": "string",
   "jp": "スティレット",
-  "en": "",
-  "status": "new",
+  "en": "Stiletto",
+  "status": "done",
   "ptrs": [
    "0xfb60"
   ],
@@ -1334,8 +1334,8 @@
   "id": "r013490",
   "kind": "string",
   "jp": "こうげきは弱いが",
-  "en": "",
-  "status": "new",
+  "en": "Weak attack, but",
+  "status": "done",
   "ptrs": [
    "0xfb64"
   ],
@@ -1345,8 +1345,8 @@
   "id": "r0134a4",
   "kind": "string",
   "jp": "おそろしいドクの",
-  "en": "",
-  "status": "new",
+  "en": "fearsome poison",
+  "status": "done",
   "ptrs": [
    "0xfb68"
   ],
@@ -1356,8 +1356,8 @@
   "id": "r0134b8",
   "kind": "string",
   "jp": "こうかがある",
-  "en": "",
-  "status": "new",
+  "en": "effect",
+  "status": "done",
   "ptrs": [
    "0xfb6c"
   ],
@@ -1367,8 +1367,8 @@
   "id": "r0134c8",
   "kind": "string",
   "jp": "トリックスター",
-  "en": "",
-  "status": "new",
+  "en": "Trickster",
+  "status": "done",
   "ptrs": [
    "0xfbd8"
   ],
@@ -1378,8 +1378,8 @@
   "id": "r0134d8",
   "kind": "string",
   "jp": "こうげきはすごく",
-  "en": "",
-  "status": "new",
+  "en": "Very weak attack",
+  "status": "done",
   "ptrs": [
    "0xfbdc"
   ],
@@ -1389,8 +1389,8 @@
   "id": "r0134ec",
   "kind": "string",
   "jp": "弱いがいろいろな",
-  "en": "",
-  "status": "new",
+  "en": "but all sorts of",
+  "status": "done",
   "ptrs": [
    "0xfbe0"
   ],
@@ -1400,8 +1400,8 @@
   "id": "r013500",
   "kind": "string",
   "jp": "こうかがある",
-  "en": "",
-  "status": "new",
+  "en": "effects",
+  "status": "done",
   "ptrs": [
    "0xfbe4"
   ],
@@ -1411,8 +1411,8 @@
   "id": "r013510",
   "kind": "string",
   "jp": "ワスパー",
-  "en": "",
-  "status": "new",
+  "en": "Wasper",
+  "status": "done",
   "ptrs": [
    "0xfc50"
   ],
@@ -1422,8 +1422,8 @@
   "id": "r01351c",
   "kind": "string",
   "jp": "ハチのはりを",
-  "en": "",
-  "status": "new",
+  "en": "Modeled on a",
+  "status": "done",
   "ptrs": [
    "0xfc54"
   ],
@@ -1433,8 +1433,8 @@
   "id": "r01352c",
   "kind": "string",
   "jp": "さんこうにした",
-  "en": "",
-  "status": "new",
+  "en": "bee's stinger:",
+  "status": "done",
   "ptrs": [
    "0xfc58"
   ],
@@ -1444,8 +1444,8 @@
   "id": "r01353c",
   "kind": "string",
   "jp": "ヤリがたアーム",
-  "en": "",
-  "status": "new",
+  "en": "a spear Arm",
+  "status": "done",
   "ptrs": [
    "0xfc5c"
   ],
@@ -1455,8 +1455,8 @@
   "id": "r01354c",
   "kind": "string",
   "jp": "ベスティア",
-  "en": "",
-  "status": "new",
+  "en": "Bestia",
+  "status": "done",
   "ptrs": [
    "0xfcc8"
   ],
@@ -1466,8 +1466,8 @@
   "id": "r013558",
   "kind": "string",
   "jp": "中世のきしが",
-  "en": "",
-  "status": "new",
+  "en": "Modeled on a",
+  "status": "done",
   "ptrs": [
    "0xfccc"
   ],
@@ -1477,8 +1477,8 @@
   "id": "r013568",
   "kind": "string",
   "jp": "使ったランスが",
-  "en": "",
-  "status": "new",
+  "en": "knight lance;",
+  "status": "done",
   "ptrs": [
    "0xfcd0"
   ],
@@ -1488,8 +1488,8 @@
   "id": "r013578",
   "kind": "string",
   "jp": "モデルのアーム",
-  "en": "",
-  "status": "new",
+  "en": "a lance Arm",
+  "status": "done",
   "ptrs": [
    "0xfcd4"
   ],
@@ -1499,8 +1499,8 @@
   "id": "r013588",
   "kind": "string",
   "jp": "ゲンブセン",
-  "en": "",
-  "status": "new",
+  "en": "Genbusen",
+  "status": "done",
   "ptrs": [
    "0xfd40"
   ],
@@ -1510,8 +1510,8 @@
   "id": "r013594",
   "kind": "string",
   "jp": "わかい世代に",
-  "en": "",
-  "status": "new",
+  "en": "Popular with",
+  "status": "done",
   "ptrs": [
    "0xfd44"
   ],
@@ -1521,8 +1521,8 @@
   "id": "r0135a4",
   "kind": "string",
   "jp": "人気のヤブーノ",
-  "en": "",
-  "status": "new",
+  "en": "youth: Yabuno",
+  "status": "done",
   "ptrs": [
    "0xfd48"
   ],
@@ -1532,8 +1532,8 @@
   "id": "r0135b4",
   "kind": "string",
   "jp": "デザインのアーム",
-  "en": "",
-  "status": "new",
+  "en": "-designed Arm",
+  "status": "done",
   "ptrs": [
    "0xfd4c"
   ],
@@ -1543,8 +1543,8 @@
   "id": "r0135c8",
   "kind": "string",
   "jp": "ブレイゾン",
-  "en": "",
-  "status": "new",
+  "en": "Blazon",
+  "status": "done",
   "ptrs": [
    "0xfdb8"
   ],
@@ -1554,8 +1554,8 @@
   "id": "r0135d4",
   "kind": "string",
   "jp": "げん定生さん",
-  "en": "",
-  "status": "new",
+  "en": "Limited run",
+  "status": "done",
   "ptrs": [
    "0xfdbc"
   ],
@@ -1565,8 +1565,8 @@
   "id": "r0135e4",
   "kind": "string",
   "jp": "で作られた",
-  "en": "",
-  "status": "new",
+  "en": "edition:",
+  "status": "done",
   "ptrs": [
    "0xfdc0"
   ],
@@ -1576,8 +1576,8 @@
   "id": "r0135f0",
   "kind": "string",
   "jp": "レアなランス",
-  "en": "",
-  "status": "new",
+  "en": "a rare lance",
+  "status": "done",
   "ptrs": [
    "0xfdc4"
   ],
@@ -1587,8 +1587,8 @@
   "id": "r013600",
   "kind": "string",
   "jp": "ホウテンゲキ",
-  "en": "",
-  "status": "new",
+  "en": "Hotengeki",
+  "status": "done",
   "ptrs": [
    "0xfe30"
   ],
@@ -1598,8 +1598,8 @@
   "id": "r013610",
   "kind": "string",
   "jp": "かみなりの力を",
-  "en": "",
-  "status": "new",
+  "en": "Holds thunder",
+  "status": "done",
   "ptrs": [
    "0xfe34"
   ],
@@ -1609,8 +1609,8 @@
   "id": "r013620",
   "kind": "string",
   "jp": "とりいれた強力な",
-  "en": "",
-  "status": "new",
+  "en": "power: a mighty",
+  "status": "done",
   "ptrs": [
    "0xfe38"
   ],
@@ -1620,8 +1620,8 @@
   "id": "r013634",
   "kind": "string",
   "jp": "スピア",
-  "en": "",
-  "status": "new",
+  "en": "spear",
+  "status": "done",
   "ptrs": [
    "0xfe3c"
   ],
@@ -1631,8 +1631,8 @@
   "id": "r01363c",
   "kind": "string",
   "jp": "ランバー",
-  "en": "",
-  "status": "new",
+  "en": "Lumber",
+  "status": "done",
   "ptrs": [
    "0xfea8"
   ],
@@ -1642,8 +1642,8 @@
   "id": "r013648",
   "kind": "string",
   "jp": "こうげきの高さが",
-  "en": "",
-  "status": "new",
+  "en": "Popular ax for",
+  "status": "done",
   "ptrs": [
    "0xfeac"
   ],
@@ -1653,8 +1653,8 @@
   "id": "r01365c",
   "kind": "string",
   "jp": "人気のアックス",
-  "en": "",
-  "status": "new",
+  "en": "high attack",
+  "status": "done",
   "ptrs": [
    "0xfeb0"
   ],
@@ -1664,8 +1664,8 @@
   "id": "r013670",
   "kind": "string",
   "jp": "カーバンクル",
-  "en": "",
-  "status": "new",
+  "en": "Carbuncle",
+  "status": "done",
   "ptrs": [
    "0xff20"
   ],
@@ -1675,8 +1675,8 @@
   "id": "r013680",
   "kind": "string",
   "jp": "見た目に反して　",
-  "en": "",
-  "status": "new",
+  "en": "Despite looks,",
+  "status": "done",
   "ptrs": [
    "0xff24"
   ],
@@ -1686,8 +1686,8 @@
   "id": "r013694",
   "kind": "string",
   "jp": "こうげき力が高い",
-  "en": "",
-  "status": "new",
+  "en": "strong attack",
+  "status": "done",
   "ptrs": [
    "0xff28"
   ],
@@ -1697,8 +1697,8 @@
   "id": "r0136a8",
   "kind": "string",
   "jp": "ハンマー",
-  "en": "",
-  "status": "new",
+  "en": "hammer",
+  "status": "done",
   "ptrs": [
    "0xff2c"
   ],
@@ -1708,8 +1708,8 @@
   "id": "r0136b4",
   "kind": "string",
   "jp": "ベルドセング",
-  "en": "",
-  "status": "new",
+  "en": "Beldseng",
+  "status": "done",
   "ptrs": [
    "0xff98"
   ],
@@ -1719,8 +1719,8 @@
   "id": "r0136c4",
   "kind": "string",
   "jp": "重さを利用して",
-  "en": "",
-  "status": "new",
+  "en": "Using weight,",
+  "status": "done",
   "ptrs": [
    "0xff9c"
   ],
@@ -1730,8 +1730,8 @@
   "id": "r0136d4",
   "kind": "string",
   "jp": "大きなヤイバを",
-  "en": "",
-  "status": "new",
+  "en": "it swings a",
+  "status": "done",
   "ptrs": [
    "0xffa0"
   ],
@@ -1741,8 +1741,8 @@
   "id": "r0136e4",
   "kind": "string",
   "jp": "ふりまわす",
-  "en": "",
-  "status": "new",
+  "en": "huge blade",
+  "status": "done",
   "ptrs": [
    "0xffa4"
   ],
@@ -1752,8 +1752,8 @@
   "id": "r0136f0",
   "kind": "string",
   "jp": "スマッシャー",
-  "en": "",
-  "status": "new",
+  "en": "Smasher",
+  "status": "done",
   "ptrs": [
    "0x10010"
   ],
@@ -1763,8 +1763,8 @@
   "id": "r013700",
   "kind": "string",
   "jp": "地面をたたいて",
-  "en": "",
-  "status": "new",
+  "en": "Slamming the",
+  "status": "done",
   "ptrs": [
    "0x10014"
   ],
@@ -1774,8 +1774,8 @@
   "id": "r013710",
   "kind": "string",
   "jp": "ダメージになる",
-  "en": "",
-  "status": "new",
+  "en": "ground hurts",
+  "status": "done",
   "ptrs": [
    "0x10018"
   ],
@@ -1785,8 +1785,8 @@
   "id": "r013720",
   "kind": "string",
   "jp": "ほど重いアーム",
-  "en": "",
-  "status": "new",
+  "en": "-- heavy Arm!",
+  "status": "done",
   "ptrs": [
    "0x1001c"
   ],
@@ -1796,8 +1796,8 @@
   "id": "r013730",
   "kind": "string",
   "jp": "フリューゲル",
-  "en": "",
-  "status": "new",
+  "en": "Flugel",
+  "status": "done",
   "ptrs": [
    "0x10088"
   ],
@@ -1807,8 +1807,8 @@
   "id": "r013740",
   "kind": "string",
   "jp": "ツバサを連想",
-  "en": "",
-  "status": "new",
+  "en": "Wing-like,",
+  "status": "done",
   "ptrs": [
    "0x1008c"
   ],
@@ -1818,8 +1818,8 @@
   "id": "r013750",
   "kind": "string",
   "jp": "させる　ゆうがで",
-  "en": "",
-  "status": "new",
+  "en": "graceful and",
+  "status": "done",
   "ptrs": [
    "0x10090"
   ],
@@ -1829,8 +1829,8 @@
   "id": "r013764",
   "kind": "string",
   "jp": "強力なアーム",
-  "en": "",
-  "status": "new",
+  "en": "strong Arm",
+  "status": "done",
   "ptrs": [
    "0x10094"
   ],
@@ -1840,8 +1840,8 @@
   "id": "r013774",
   "kind": "string",
   "jp": "ニャックル",
-  "en": "",
-  "status": "new",
+  "en": "Nyackle",
+  "status": "done",
   "ptrs": [
    "0x10100"
   ],
@@ -1851,8 +1851,8 @@
   "id": "r013780",
   "kind": "string",
   "jp": "キュートなネコ",
-  "en": "",
-  "status": "new",
+  "en": "A cute cat-",
+  "status": "done",
   "ptrs": [
    "0x10104"
   ],
@@ -1862,8 +1862,8 @@
   "id": "r013790",
   "kind": "string",
   "jp": "がたナックル",
-  "en": "",
-  "status": "new",
+  "en": "knuckle,",
+  "status": "done",
   "ptrs": [
    "0x10108"
   ],
@@ -1873,8 +1873,8 @@
   "id": "r0137a0",
   "kind": "string",
   "jp": "一部に大人気",
-  "en": "",
-  "status": "new",
+  "en": "a cult hit",
+  "status": "done",
   "ptrs": [
    "0x1010c"
   ],
@@ -1884,8 +1884,8 @@
   "id": "r0137b0",
   "kind": "string",
   "jp": "ベアクロー",
-  "en": "",
-  "status": "new",
+  "en": "Bear Claw",
+  "status": "done",
   "ptrs": [
    "0x10178"
   ],
@@ -1895,8 +1895,8 @@
   "id": "r0137bc",
   "kind": "string",
   "jp": "すばやく何度も",
-  "en": "",
-  "status": "new",
+  "en": "Attacks fast",
+  "status": "done",
   "ptrs": [
    "0x1017c"
   ],
@@ -1906,8 +1906,8 @@
   "id": "r0137cc",
   "kind": "string",
   "jp": "こうげきできる",
-  "en": "",
-  "status": "new",
+  "en": "and often:",
+  "status": "done",
   "ptrs": [
    "0x10180"
   ],
@@ -1917,8 +1917,8 @@
   "id": "r0137dc",
   "kind": "string",
   "jp": "クローがたアーム",
-  "en": "",
-  "status": "new",
+  "en": "a claw Arm",
+  "status": "done",
   "ptrs": [
    "0x10184"
   ],
@@ -1928,8 +1928,8 @@
   "id": "r0137f0",
   "kind": "string",
   "jp": "ギガダスター",
-  "en": "",
-  "status": "new",
+  "en": "Giga Duster",
+  "status": "done",
   "ptrs": [
    "0x101f0"
   ],
@@ -1939,8 +1939,8 @@
   "id": "r013800",
   "kind": "string",
   "jp": "ねだんもいりょく",
-  "en": "",
-  "status": "new",
+  "en": "Price and power",
+  "status": "done",
   "ptrs": [
    "0x101f4"
   ],
@@ -1950,8 +1950,8 @@
   "id": "r013814",
   "kind": "string",
   "jp": "も手ごろなナック",
-  "en": "",
-  "status": "new",
+  "en": "both fair:",
+  "status": "done",
   "ptrs": [
    "0x101f8"
   ],
@@ -1961,8 +1961,8 @@
   "id": "r013828",
   "kind": "string",
   "jp": "ルタイプのアーム",
-  "en": "",
-  "status": "new",
+  "en": "a knuckle Arm",
+  "status": "done",
   "ptrs": [
    "0x101fc"
   ],
@@ -1972,8 +1972,8 @@
   "id": "r01383c",
   "kind": "string",
   "jp": "スナッガー",
-  "en": "",
-  "status": "new",
+  "en": "Snagger",
+  "status": "done",
   "ptrs": [
    "0x10268"
   ],
@@ -1983,8 +1983,8 @@
   "id": "r013848",
   "kind": "string",
   "jp": "そのツメで相手を",
-  "en": "",
-  "status": "new",
+  "en": "Its claws scare",
+  "status": "done",
   "ptrs": [
    "0x1026c"
   ],
@@ -1994,8 +1994,8 @@
   "id": "r01385c",
   "kind": "string",
   "jp": "いかくするクロー",
-  "en": "",
-  "status": "new",
+  "en": "foes: claw-",
+  "status": "done",
   "ptrs": [
    "0x10270"
   ],
@@ -2005,8 +2005,8 @@
   "id": "r013870",
   "kind": "string",
   "jp": "タイプのアーム",
-  "en": "",
-  "status": "new",
+  "en": "type Arm",
+  "status": "done",
   "ptrs": [
    "0x10274"
   ],
@@ -2016,8 +2016,8 @@
   "id": "r013880",
   "kind": "string",
   "jp": "ボルトロン",
-  "en": "",
-  "status": "new",
+  "en": "Boltron",
+  "status": "done",
   "ptrs": [
    "0x102e0"
   ],
@@ -2027,8 +2027,8 @@
   "id": "r01388c",
   "kind": "string",
   "jp": "強力なオーラを",
-  "en": "",
-  "status": "new",
+  "en": "Strong aura",
+  "status": "done",
   "ptrs": [
    "0x102e4"
   ],
@@ -2038,8 +2038,8 @@
   "id": "r01389c",
   "kind": "string",
   "jp": "くりだし　相手を",
-  "en": "",
-  "status": "new",
+  "en": "blasts send",
+  "status": "done",
   "ptrs": [
    "0x102e8"
   ],
@@ -2049,8 +2049,8 @@
   "id": "r0138b0",
   "kind": "string",
   "jp": "ふっ飛ばす",
-  "en": "",
-  "status": "new",
+  "en": "foes away",
+  "status": "done",
   "ptrs": [
    "0x102ec"
   ],
@@ -2060,8 +2060,8 @@
   "id": "r0138bc",
   "kind": "string",
   "jp": "テンタークス",
-  "en": "",
-  "status": "new",
+  "en": "Tentarks",
+  "status": "done",
   "ptrs": [
    "0x10358"
   ],
@@ -2071,8 +2071,8 @@
   "id": "r0138cc",
   "kind": "string",
   "jp": "す早いこうげきで",
-  "en": "",
-  "status": "new",
+  "en": "Attacks so fast",
+  "status": "done",
   "ptrs": [
    "0x1035c"
   ],
@@ -2082,8 +2082,8 @@
   "id": "r0138e0",
   "kind": "string",
   "jp": "何本にも見える",
-  "en": "",
-  "status": "new",
+  "en": "it seems many:",
+  "status": "done",
   "ptrs": [
    "0x10360"
   ],
@@ -2093,8 +2093,8 @@
   "id": "r0138f0",
   "kind": "string",
   "jp": "というアーム",
-  "en": "",
-  "status": "new",
+  "en": "a wild Arm",
+  "status": "done",
   "ptrs": [
    "0x10364"
   ],
@@ -2104,8 +2104,8 @@
   "id": "r013900",
   "kind": "string",
   "jp": "サージオン",
-  "en": "",
-  "status": "new",
+  "en": "Sargion",
+  "status": "done",
   "ptrs": [
    "0x103d0"
   ],
@@ -2115,8 +2115,8 @@
   "id": "r01390c",
   "kind": "string",
   "jp": "女せいに愛用者",
-  "en": "",
-  "status": "new",
+  "en": "Women love it:",
+  "status": "done",
   "ptrs": [
    "0x103d4"
   ],
@@ -2126,8 +2126,8 @@
   "id": "r01391c",
   "kind": "string",
   "jp": "が多いナギナタ",
-  "en": "",
-  "status": "new",
+  "en": "a naginata-",
+  "status": "done",
   "ptrs": [
    "0x103d8"
   ],
@@ -2137,8 +2137,8 @@
   "id": "r01392c",
   "kind": "string",
   "jp": "タイプのアーム",
-  "en": "",
-  "status": "new",
+  "en": "type Arm",
+  "status": "done",
   "ptrs": [
    "0x103dc"
   ],
@@ -2148,8 +2148,8 @@
   "id": "r01393c",
   "kind": "string",
   "jp": "ロザネイル",
-  "en": "",
-  "status": "new",
+  "en": "Rosa Nail",
+  "status": "done",
   "ptrs": [
    "0x10448"
   ],
@@ -2159,8 +2159,8 @@
   "id": "r013948",
   "kind": "string",
   "jp": "バラにそまった",
-  "en": "",
-  "status": "new",
+  "en": "Its rose-dyed",
+  "status": "done",
   "ptrs": [
    "0x1044c"
   ],
@@ -2170,8 +2170,8 @@
   "id": "r013958",
   "kind": "string",
   "jp": "ヤイバで相手の",
-  "en": "",
-  "status": "new",
+  "en": "blade steals",
+  "status": "done",
   "ptrs": [
    "0x10450"
   ],
@@ -2181,8 +2181,8 @@
   "id": "r013968",
   "kind": "string",
   "jp": "ＡＰをうばう",
-  "en": "",
-  "status": "new",
+  "en": "foes' AP",
+  "status": "done",
   "ptrs": [
    "0x10454"
   ],
@@ -2192,8 +2192,8 @@
   "id": "r013978",
   "kind": "string",
   "jp": "リュウエンノタチ",
-  "en": "",
-  "status": "new",
+  "en": "Ryuen no Tachi",
+  "status": "done",
   "ptrs": [
    "0x104c0"
   ],
@@ -2203,8 +2203,8 @@
   "id": "r01398c",
   "kind": "string",
   "jp": "名工が手がけた",
-  "en": "",
-  "status": "new",
+  "en": "Modeled on a",
+  "status": "done",
   "ptrs": [
    "0x104c4"
   ],
@@ -2214,8 +2214,8 @@
   "id": "r01399c",
   "kind": "string",
   "jp": "ナギナタが",
-  "en": "",
-  "status": "new",
+  "en": "master's",
+  "status": "done",
   "ptrs": [
    "0x104c8"
   ],
@@ -2225,8 +2225,8 @@
   "id": "r0139a8",
   "kind": "string",
   "jp": "モデルのアーム",
-  "en": "",
-  "status": "new",
+  "en": "naginata Arm",
+  "status": "done",
   "ptrs": [
    "0x104cc"
   ],
@@ -2236,8 +2236,8 @@
   "id": "r0139b8",
   "kind": "string",
   "jp": "ステュクス",
-  "en": "",
-  "status": "new",
+  "en": "Styx",
+  "status": "done",
   "ptrs": [
    "0x10538"
   ],
@@ -2247,8 +2247,8 @@
   "id": "r0139c4",
   "kind": "string",
   "jp": "まがまがしくも",
-  "en": "",
-  "status": "new",
+  "en": "Sinister yet",
+  "status": "done",
   "ptrs": [
    "0x1053c"
   ],
@@ -2258,8 +2258,8 @@
   "id": "r0139d4",
   "kind": "string",
   "jp": "美しい見た目で",
-  "en": "",
-  "status": "new",
+  "en": "beautiful,",
+  "status": "done",
   "ptrs": [
    "0x10540"
   ],
@@ -2269,8 +2269,8 @@
   "id": "r0139e4",
   "kind": "string",
   "jp": "ファンが多い",
-  "en": "",
-  "status": "new",
+  "en": "many fans",
+  "status": "done",
   "ptrs": [
    "0x10544"
   ],
@@ -2280,8 +2280,8 @@
   "id": "r0139f4",
   "kind": "string",
   "jp": "ヴァンガード",
-  "en": "",
-  "status": "new",
+  "en": "Vanguard",
+  "status": "done",
   "ptrs": [
    "0x105b0"
   ],
@@ -2291,8 +2291,8 @@
   "id": "r013a04",
   "kind": "string",
   "jp": "テスト中のアーム",
-  "en": "",
-  "status": "new",
+  "en": "Test-phase Arm:",
+  "status": "done",
   "ptrs": [
    "0x105b4"
   ],
@@ -2302,8 +2302,8 @@
   "id": "r013a18",
   "kind": "string",
   "jp": "強力だが使うのが",
-  "en": "",
-  "status": "new",
+  "en": "strong but",
+  "status": "done",
   "ptrs": [
    "0x105b8"
   ],
@@ -2313,8 +2313,8 @@
   "id": "r013a2c",
   "kind": "string",
   "jp": "むずかしい",
-  "en": "",
-  "status": "new",
+  "en": "tricky",
+  "status": "done",
   "ptrs": [
    "0x105bc"
   ],
@@ -2324,8 +2324,8 @@
   "id": "r013a38",
   "kind": "string",
   "jp": "リボレイダー",
-  "en": "",
-  "status": "new",
+  "en": "Revoraider",
+  "status": "done",
   "ptrs": [
    "0x10628"
   ],
@@ -2335,8 +2335,8 @@
   "id": "r013a48",
   "kind": "string",
   "jp": "一部に高い人気の",
-  "en": "",
-  "status": "new",
+  "en": "A cult-favorite",
+  "status": "done",
   "ptrs": [
    "0x1062c"
   ],
@@ -2346,8 +2346,8 @@
   "id": "r013a5c",
   "kind": "string",
   "jp": "ドリルタイプの",
-  "en": "",
-  "status": "new",
+  "en": "drill-type",
+  "status": "done",
   "ptrs": [
    "0x10630"
   ],
@@ -2357,8 +2357,8 @@
   "id": "r013a6c",
   "kind": "string",
   "jp": "アーム",
-  "en": "",
-  "status": "new",
+  "en": "Arm",
+  "status": "done",
   "ptrs": [
    "0x10634"
   ],
@@ -2368,8 +2368,8 @@
   "id": "r013a74",
   "kind": "string",
   "jp": "ブラッドホーン",
-  "en": "",
-  "status": "new",
+  "en": "Blood Horn",
+  "status": "done",
   "ptrs": [
    "0x106a0"
   ],
@@ -2379,8 +2379,8 @@
   "id": "r013a84",
   "kind": "string",
   "jp": "相手のＨＰを",
-  "en": "",
-  "status": "new",
+  "en": "Drains HP",
+  "status": "done",
   "ptrs": [
    "0x106a4"
   ],
@@ -2390,8 +2390,8 @@
   "id": "r013a94",
   "kind": "string",
   "jp": "すいとってしまう",
-  "en": "",
-  "status": "new",
+  "en": "from foes:",
+  "status": "done",
   "ptrs": [
    "0x106a8"
   ],
@@ -2401,8 +2401,8 @@
   "id": "r013aa8",
   "kind": "string",
   "jp": "きょうふのドリル",
-  "en": "",
-  "status": "new",
+  "en": "a dread drill",
+  "status": "done",
   "ptrs": [
    "0x106ac"
   ],
@@ -2412,8 +2412,8 @@
   "id": "r013abc",
   "kind": "string",
   "jp": "ガンドレック",
-  "en": "",
-  "status": "new",
+  "en": "Gundrek",
+  "status": "done",
   "ptrs": [
    "0x10718"
   ],
@@ -2423,8 +2423,8 @@
   "id": "r013acc",
   "kind": "string",
   "jp": "あまりのパワーで",
-  "en": "",
-  "status": "new",
+  "en": "So powerful it",
+  "status": "done",
   "ptrs": [
    "0x1071c"
   ],
@@ -2434,8 +2434,8 @@
   "id": "r013ae0",
   "kind": "string",
   "jp": "発売中止に",
-  "en": "",
-  "status": "new",
+  "en": "got pulled",
+  "status": "done",
   "ptrs": [
    "0x10720"
   ],
@@ -2445,8 +2445,8 @@
   "id": "r013aec",
   "kind": "string",
   "jp": "なりそうになった",
-  "en": "",
-  "status": "new",
+  "en": "...almost!",
+  "status": "done",
   "ptrs": [
    "0x10724"
   ],
@@ -2456,8 +2456,8 @@
   "id": "r013b00",
   "kind": "string",
   "jp": "グランペクタ",
-  "en": "",
-  "status": "new",
+  "en": "Gran Pecta",
+  "status": "done",
   "ptrs": [
    "0x10790"
   ],
@@ -2467,8 +2467,8 @@
   "id": "r013b10",
   "kind": "string",
   "jp": "バウンダーにも",
-  "en": "",
-  "status": "new",
+  "en": "Bounder too:",
+  "status": "done",
   "ptrs": [
    "0x10794"
   ],
@@ -2478,8 +2478,8 @@
   "id": "r013b20",
   "kind": "string",
   "jp": "なるスグレものの",
-  "en": "",
-  "status": "new",
+  "en": "an excellent",
+  "status": "done",
   "ptrs": [
    "0x10798"
   ],
@@ -2489,8 +2489,8 @@
   "id": "r013b34",
   "kind": "string",
   "jp": "アーム",
-  "en": "",
-  "status": "new",
+  "en": "Arm",
+  "status": "done",
   "ptrs": [
    "0x1079c"
   ],
@@ -2500,8 +2500,8 @@
   "id": "r013b3c",
   "kind": "string",
   "jp": "グランブレム",
-  "en": "",
-  "status": "new",
+  "en": "Gran Blem",
+  "status": "done",
   "ptrs": [
    "0x10808"
   ],
@@ -2511,8 +2511,8 @@
   "id": "r013b4c",
   "kind": "string",
   "jp": "重く大きいので",
-  "en": "",
-  "status": "new",
+  "en": "Heavy and big,",
+  "status": "done",
   "ptrs": [
    "0x1080c"
   ],
@@ -2522,8 +2522,8 @@
   "id": "r013b5c",
   "kind": "string",
   "jp": "ムダな動きを",
-  "en": "",
-  "status": "new",
+  "en": "so cut out",
+  "status": "done",
   "ptrs": [
    "0x10810"
   ],
@@ -2533,8 +2533,8 @@
   "id": "r013b6c",
   "kind": "string",
   "jp": "なくして使おう",
-  "en": "",
-  "status": "new",
+  "en": "wasted motion",
+  "status": "done",
   "ptrs": [
    "0x10814"
   ],
@@ -2544,8 +2544,8 @@
   "id": "r013b7c",
   "kind": "string",
   "jp": "グランウォルタ",
-  "en": "",
-  "status": "new",
+  "en": "Gran Walta",
+  "status": "done",
   "ptrs": [
    "0x10880"
   ],
@@ -2555,8 +2555,8 @@
   "id": "r013b8c",
   "kind": "string",
   "jp": "グランシリーズ",
-  "en": "",
-  "status": "new",
+  "en": "Of the Gran",
+  "status": "done",
   "ptrs": [
    "0x10884"
   ],
@@ -2566,8 +2566,8 @@
   "id": "r013b9c",
   "kind": "string",
   "jp": "中でもこうかで",
-  "en": "",
-  "status": "new",
+  "en": "line, pricey;",
+  "status": "done",
   "ptrs": [
    "0x10888"
   ],
@@ -2577,8 +2577,8 @@
   "id": "r013bac",
   "kind": "string",
   "jp": "タマをはね返す",
-  "en": "",
-  "status": "new",
+  "en": "deflects shots",
+  "status": "done",
   "ptrs": [
    "0x1088c"
   ],
@@ -2588,8 +2588,8 @@
   "id": "r013bbc",
   "kind": "string",
   "jp": "グランディウス",
-  "en": "",
-  "status": "new",
+  "en": "Grandius",
+  "status": "done",
   "ptrs": [
    "0x108f8"
   ],
@@ -2599,8 +2599,8 @@
   "id": "r013bcc",
   "kind": "string",
   "jp": "ＭーＶＬ開発の",
-  "en": "",
-  "status": "new",
+  "en": "M-VL-made",
+  "status": "done",
   "ptrs": [
    "0x108fc"
   ],
@@ -2610,8 +2610,8 @@
   "id": "r013bdc",
   "kind": "string",
   "jp": "グランシリーズの",
-  "en": "",
-  "status": "new",
+  "en": "Gran series'",
+  "status": "done",
   "ptrs": [
    "0x10900"
   ],
@@ -2621,8 +2621,8 @@
   "id": "r013bf0",
   "kind": "string",
   "jp": "最高級アーム",
-  "en": "",
-  "status": "new",
+  "en": "finest Arm",
+  "status": "done",
   "ptrs": [
    "0x10904"
   ],
@@ -2632,8 +2632,8 @@
   "id": "r013c00",
   "kind": "string",
   "jp": "クロスガン",
-  "en": "",
-  "status": "new",
+  "en": "Crossgun",
+  "status": "done",
   "ptrs": [
    "0x10970"
   ],
@@ -2643,8 +2643,8 @@
   "id": "r013c0c",
   "kind": "string",
   "jp": "一番手ごろな",
-  "en": "",
-  "status": "new",
+  "en": "The cheapest",
+  "status": "done",
   "ptrs": [
    "0x10974"
   ],
@@ -2654,8 +2654,8 @@
   "id": "r013c1c",
   "kind": "string",
   "jp": "矢をはなつハント",
-  "en": "",
-  "status": "new",
+  "en": "arrow Hunt-type",
+  "status": "done",
   "ptrs": [
    "0x10978"
   ],
@@ -2665,8 +2665,8 @@
   "id": "r013c30",
   "kind": "string",
   "jp": "けいのアーム",
-  "en": "",
-  "status": "new",
+  "en": "Arm",
+  "status": "done",
   "ptrs": [
    "0x1097c"
   ],
@@ -2676,8 +2676,8 @@
   "id": "r013c40",
   "kind": "string",
   "jp": "ラックスアロー",
-  "en": "",
-  "status": "new",
+  "en": "Lux Arrow",
+  "status": "done",
   "ptrs": [
    "0x109e8"
   ],
@@ -2687,8 +2687,8 @@
   "id": "r013c50",
   "kind": "string",
   "jp": "ヤブーノデザイン",
-  "en": "",
-  "status": "new",
+  "en": "Yabuno-designed",
+  "status": "done",
   "ptrs": [
    "0x109ec"
   ],
@@ -2698,8 +2698,8 @@
   "id": "r013c64",
   "kind": "string",
   "jp": "のエレガント",
-  "en": "",
-  "status": "new",
+  "en": "elegant",
+  "status": "done",
   "ptrs": [
    "0x109f0"
   ],
@@ -2709,8 +2709,8 @@
   "id": "r013c74",
   "kind": "string",
   "jp": "なアロータイプ",
-  "en": "",
-  "status": "new",
+  "en": "arrow type",
+  "status": "done",
   "ptrs": [
    "0x109f4"
   ],
@@ -2720,8 +2720,8 @@
   "id": "r013c84",
   "kind": "string",
   "jp": "アルバレスト",
-  "en": "",
-  "status": "new",
+  "en": "Arbalest",
+  "status": "done",
   "ptrs": [
    "0x10a60"
   ],
@@ -2731,8 +2731,8 @@
   "id": "r013c94",
   "kind": "string",
   "jp": "バランスが良く",
-  "en": "",
-  "status": "new",
+  "en": "Well-balanced,",
+  "status": "done",
   "ptrs": [
    "0x10a64"
   ],
@@ -2742,8 +2742,8 @@
   "id": "r013ca4",
   "kind": "string",
   "jp": "主力そうびとして",
-  "en": "",
-  "status": "new",
+  "en": "often used as",
+  "status": "done",
   "ptrs": [
    "0x10a68"
   ],
@@ -2753,8 +2753,8 @@
   "id": "r013cb8",
   "kind": "string",
   "jp": "使われる事が多い",
-  "en": "",
-  "status": "new",
+  "en": "main gear",
+  "status": "done",
   "ptrs": [
    "0x10a6c"
   ],
@@ -2764,8 +2764,8 @@
   "id": "r013ccc",
   "kind": "string",
   "jp": "エンジェハイロウ",
-  "en": "",
-  "status": "new",
+  "en": "Angel Halo",
+  "status": "done",
   "ptrs": [
    "0x10ad8"
   ],
@@ -2775,8 +2775,8 @@
   "id": "r013ce0",
   "kind": "string",
   "jp": "かわいい見た目に",
-  "en": "",
-  "status": "new",
+  "en": "Cute looks, but",
+  "status": "done",
   "ptrs": [
    "0x10adc"
   ],
@@ -2786,8 +2786,8 @@
   "id": "r013cf4",
   "kind": "string",
   "jp": "反してパワフルな",
-  "en": "",
-  "status": "new",
+  "en": "a powerful",
+  "status": "done",
   "ptrs": [
    "0x10ae0"
   ],
@@ -2797,8 +2797,8 @@
   "id": "r013d08",
   "kind": "string",
   "jp": "アロータイプ",
-  "en": "",
-  "status": "new",
+  "en": "arrow type",
+  "status": "done",
   "ptrs": [
    "0x10ae4"
   ],
@@ -2808,8 +2808,8 @@
   "id": "r013d18",
   "kind": "string",
   "jp": "ファイバスター",
-  "en": "",
-  "status": "new",
+  "en": "Fibuster",
+  "status": "done",
   "ptrs": [
    "0x10b50"
   ],
@@ -2819,8 +2819,8 @@
   "id": "r013d28",
   "kind": "string",
   "jp": "アロータイプの",
-  "en": "",
-  "status": "new",
+  "en": "Arrow fans'",
+  "status": "done",
   "ptrs": [
    "0x10b54"
   ],
@@ -2830,8 +2830,8 @@
   "id": "r013d38",
   "kind": "string",
   "jp": "ファンあこがれの",
-  "en": "",
-  "status": "new",
+  "en": "dream: a top",
+  "status": "done",
   "ptrs": [
    "0x10b58"
   ],
@@ -2841,8 +2841,8 @@
   "id": "r013d4c",
   "kind": "string",
   "jp": "高せいのうモデル",
-  "en": "",
-  "status": "new",
+  "en": "high-end model",
+  "status": "done",
   "ptrs": [
    "0x10b5c"
   ],
@@ -2852,8 +2852,8 @@
   "id": "r013d60",
   "kind": "string",
   "jp": "セツナ",
-  "en": "",
-  "status": "new",
+  "en": "Setsuna",
+  "status": "done",
   "ptrs": [
    "0x10bc8"
   ],
@@ -2863,8 +2863,8 @@
   "id": "r013d68",
   "kind": "string",
   "jp": "たくさん投げる",
-  "en": "",
-  "status": "new",
+  "en": "Throw lots",
+  "status": "done",
   "ptrs": [
    "0x10bcc"
   ],
@@ -2874,8 +2874,8 @@
   "id": "r013d78",
   "kind": "string",
   "jp": "事ができるダート",
-  "en": "",
-  "status": "new",
+  "en": "at once: dart-",
+  "status": "done",
   "ptrs": [
    "0x10bd0"
   ],
@@ -2885,8 +2885,8 @@
   "id": "r013d8c",
   "kind": "string",
   "jp": "タイプのアーム",
-  "en": "",
-  "status": "new",
+  "en": "type Arm",
+  "status": "done",
   "ptrs": [
    "0x10bd4"
   ],
@@ -2896,8 +2896,8 @@
   "id": "r013d9c",
   "kind": "string",
   "jp": "マツカゼ",
-  "en": "",
-  "status": "new",
+  "en": "Matsukaze",
+  "status": "done",
   "ptrs": [
    "0x10c40"
   ],
@@ -2907,8 +2907,8 @@
   "id": "r013da8",
   "kind": "string",
   "jp": "マキビシにもなる",
-  "en": "",
-  "status": "new",
+  "en": "Doubles as",
+  "status": "done",
   "ptrs": [
    "0x10c44"
   ],
@@ -2918,8 +2918,8 @@
   "id": "r013dbc",
   "kind": "string",
   "jp": "のでサブアーム",
-  "en": "",
-  "status": "new",
+  "en": "caltrops, a",
+  "status": "done",
   "ptrs": [
    "0x10c48"
   ],
@@ -2929,8 +2929,8 @@
   "id": "r013dcc",
   "kind": "string",
   "jp": "として人気が高い",
-  "en": "",
-  "status": "new",
+  "en": "popular sub-Arm",
+  "status": "done",
   "ptrs": [
    "0x10c4c"
   ],
@@ -2940,8 +2940,8 @@
   "id": "r013de0",
   "kind": "string",
   "jp": "ムラカムイ",
-  "en": "",
-  "status": "new",
+  "en": "Murakamui",
+  "status": "done",
   "ptrs": [
    "0x10cb8"
   ],
@@ -2951,8 +2951,8 @@
   "id": "r013dec",
   "kind": "string",
   "jp": "するどいヤイバで",
-  "en": "",
-  "status": "new",
+  "en": "Its blade is so",
+  "status": "done",
   "ptrs": [
    "0x10cbc"
   ],
@@ -2962,8 +2962,8 @@
   "id": "r013e00",
   "kind": "string",
   "jp": "あつかいには",
-  "en": "",
-  "status": "new",
+  "en": "sharp, use",
+  "status": "done",
   "ptrs": [
    "0x10cc0"
   ],
@@ -2973,8 +2973,8 @@
   "id": "r013e10",
   "kind": "string",
   "jp": "注意がひつよう",
-  "en": "",
-  "status": "new",
+  "en": "with caution",
+  "status": "done",
   "ptrs": [
    "0x10cc4"
   ],
@@ -2984,8 +2984,8 @@
   "id": "r013e20",
   "kind": "string",
   "jp": "サクラフブキ",
-  "en": "",
-  "status": "new",
+  "en": "Sakurafubuki",
+  "status": "done",
   "ptrs": [
    "0x10d30"
   ],
@@ -2995,8 +2995,8 @@
   "id": "r013e30",
   "kind": "string",
   "jp": "外見の美しさと",
-  "en": "",
-  "status": "new",
+  "en": "Beautiful and",
+  "status": "done",
   "ptrs": [
    "0x10d34"
   ],
@@ -3006,8 +3006,8 @@
   "id": "r013e40",
   "kind": "string",
   "jp": "せいのうの高さが",
-  "en": "",
-  "status": "new",
+  "en": "high-spec:",
+  "status": "done",
   "ptrs": [
    "0x10d38"
   ],
@@ -3017,8 +3017,8 @@
   "id": "r013e54",
   "kind": "string",
   "jp": "人気のアーム",
-  "en": "",
-  "status": "new",
+  "en": "a hit Arm",
+  "status": "done",
   "ptrs": [
    "0x10d3c"
   ],
@@ -3028,8 +3028,8 @@
   "id": "r013e64",
   "kind": "string",
   "jp": "ダイニチリン",
-  "en": "",
-  "status": "new",
+  "en": "Dainichirin",
+  "status": "done",
   "ptrs": [
    "0x10da8"
   ],
@@ -3039,8 +3039,8 @@
   "id": "r013e74",
   "kind": "string",
   "jp": "こうげきりょくは",
-  "en": "",
-  "status": "new",
+  "en": "In attack power",
+  "status": "done",
   "ptrs": [
    "0x10dac"
   ],
@@ -3050,8 +3050,8 @@
   "id": "r013e88",
   "kind": "string",
   "jp": "ダートタイプでは",
-  "en": "",
-  "status": "new",
+  "en": "among darts,",
+  "status": "done",
   "ptrs": [
    "0x10db0"
   ],
@@ -3061,8 +3061,8 @@
   "id": "r013e9c",
   "kind": "string",
   "jp": "一番のアーム",
-  "en": "",
-  "status": "new",
+  "en": "the top Arm",
+  "status": "done",
   "ptrs": [
    "0x10db4"
   ],
@@ -3072,8 +3072,8 @@
   "id": "r013eac",
   "kind": "string",
   "jp": "スフィアロッド",
-  "en": "",
-  "status": "new",
+  "en": "Sphere Rod",
+  "status": "done",
   "ptrs": [
    "0x10e20"
   ],
@@ -3083,8 +3083,8 @@
   "id": "r013ebc",
   "kind": "string",
   "jp": "Ａこうげきが高く",
-  "en": "",
-  "status": "new",
+  "en": "High aura atk,",
+  "status": "done",
   "ptrs": [
    "0x10e24"
   ],
@@ -3094,8 +3094,8 @@
   "id": "r013ed0",
   "kind": "string",
   "jp": "オーラもうてる",
-  "en": "",
-  "status": "new",
+  "en": "shoots aura:",
+  "status": "done",
   "ptrs": [
    "0x10e28"
   ],
@@ -3105,8 +3105,8 @@
   "id": "r013ee0",
   "kind": "string",
   "jp": "ツエがたアーム",
-  "en": "",
-  "status": "new",
+  "en": "a staff Arm",
+  "status": "done",
   "ptrs": [
    "0x10e2c"
   ],
@@ -3116,8 +3116,8 @@
   "id": "r013ef0",
   "kind": "string",
   "jp": "フェザーステッキ",
-  "en": "",
-  "status": "new",
+  "en": "Feather Stick",
+  "status": "done",
   "ptrs": [
    "0x10e98"
   ],
@@ -3127,8 +3127,8 @@
   "id": "r013f04",
   "kind": "string",
   "jp": "男のコより女のコ",
-  "en": "",
-  "status": "new",
+  "en": "More girls than",
+  "status": "done",
   "ptrs": [
    "0x10e9c"
   ],
@@ -3138,8 +3138,8 @@
   "id": "r013f18",
   "kind": "string",
   "jp": "が使っている事",
-  "en": "",
-  "status": "new",
+  "en": "boys use this",
+  "status": "done",
   "ptrs": [
    "0x10ea0"
   ],
@@ -3149,8 +3149,8 @@
   "id": "r013f28",
   "kind": "string",
   "jp": "が多いアーム",
-  "en": "",
-  "status": "new",
+  "en": "Arm",
+  "status": "done",
   "ptrs": [
    "0x10ea4"
   ],
@@ -3160,8 +3160,8 @@
   "id": "r013f38",
   "kind": "string",
   "jp": "クリスタルロッド",
-  "en": "",
-  "status": "new",
+  "en": "Crystal Rod",
+  "status": "done",
   "ptrs": [
    "0x10f10"
   ],
@@ -3171,8 +3171,8 @@
   "id": "r013f4c",
   "kind": "string",
   "jp": "外見からマホウを",
-  "en": "",
-  "status": "new",
+  "en": "From its looks,",
+  "status": "done",
   "ptrs": [
    "0x10f14"
   ],
@@ -3182,8 +3182,8 @@
   "id": "r013f60",
   "kind": "string",
   "jp": "使っているように",
-  "en": "",
-  "status": "new",
+  "en": "it looks like",
+  "status": "done",
   "ptrs": [
    "0x10f18"
   ],
@@ -3193,8 +3193,8 @@
   "id": "r013f74",
   "kind": "string",
   "jp": "見えるアーム",
-  "en": "",
-  "status": "new",
+  "en": "a magic Arm",
+  "status": "done",
   "ptrs": [
    "0x10f1c"
   ],
@@ -3204,8 +3204,8 @@
   "id": "r013f84",
   "kind": "string",
   "jp": "ブイステッキ",
-  "en": "",
-  "status": "new",
+  "en": "V Stick",
+  "status": "done",
   "ptrs": [
    "0x10f88"
   ],
@@ -3215,8 +3215,8 @@
   "id": "r013f94",
   "kind": "string",
   "jp": "勝利のねがいが",
-  "en": "",
-  "status": "new",
+  "en": "A wish to win",
+  "status": "done",
   "ptrs": [
    "0x10f8c"
   ],
@@ -3226,8 +3226,8 @@
   "id": "r013fa4",
   "kind": "string",
   "jp": "こめられたアーム",
-  "en": "",
-  "status": "new",
+  "en": "fills this Arm,",
+  "status": "done",
   "ptrs": [
    "0x10f90"
   ],
@@ -3237,8 +3237,8 @@
   "id": "r013fb8",
   "kind": "string",
   "jp": "せいのうも高い",
-  "en": "",
-  "status": "new",
+  "en": "high spec, too",
+  "status": "done",
   "ptrs": [
    "0x10f94"
   ],
@@ -3248,8 +3248,8 @@
   "id": "r013fc8",
   "kind": "string",
   "jp": "ダイアロッド",
-  "en": "",
-  "status": "new",
+  "en": "Dia Rod",
+  "status": "done",
   "ptrs": [
    "0x11000"
   ],
@@ -3259,8 +3259,8 @@
   "id": "r013fd8",
   "kind": "string",
   "jp": "美しいデザインで",
-  "en": "",
-  "status": "new",
+  "en": "Lovely design:",
+  "status": "done",
   "ptrs": [
    "0x11004"
   ],
@@ -3270,8 +3270,8 @@
   "id": "r013fec",
   "kind": "string",
   "jp": "とくにコレクター",
-  "en": "",
-  "status": "new",
+  "en": "collectors love",
+  "status": "done",
   "ptrs": [
    "0x11008"
   ],
@@ -3281,8 +3281,8 @@
   "id": "r014000",
   "kind": "string",
   "jp": "に人気なアーム",
-  "en": "",
-  "status": "new",
+  "en": "this Arm",
+  "status": "done",
   "ptrs": [
    "0x1100c"
   ],
@@ -3292,8 +3292,8 @@
   "id": "r014010",
   "kind": "string",
   "jp": "ヴァジュベーゼン",
-  "en": "",
-  "status": "new",
+  "en": "Vaju Besen",
+  "status": "done",
   "ptrs": [
    "0x11078"
   ],
@@ -3303,8 +3303,8 @@
   "id": "r014024",
   "kind": "string",
   "jp": "はねかえるタマを",
-  "en": "",
-  "status": "new",
+  "en": "Fires bouncy",
+  "status": "done",
   "ptrs": [
    "0x1107c"
   ],
@@ -3314,8 +3314,8 @@
   "id": "r014038",
   "kind": "string",
   "jp": "うつアーム",
-  "en": "",
-  "status": "new",
+  "en": "shot Arm",
+  "status": "done",
   "ptrs": [
    "0x11080"
   ],
@@ -3325,8 +3325,8 @@
   "id": "r014044",
   "kind": "string",
   "jp": "のこりＡＰに注意",
-  "en": "",
-  "status": "new",
+  "en": "Mind your AP",
+  "status": "done",
   "ptrs": [
    "0x11084"
   ],
@@ -3336,8 +3336,8 @@
   "id": "r014058",
   "kind": "string",
   "jp": "サイファブルーム",
-  "en": "",
-  "status": "new",
+  "en": "Cipher Broom",
+  "status": "done",
   "ptrs": [
    "0x110f0"
   ],
@@ -3347,8 +3347,8 @@
   "id": "r01406c",
   "kind": "string",
   "jp": "ロッドタイプでは",
-  "en": "",
-  "status": "new",
+  "en": "Well balanced",
+  "status": "done",
   "ptrs": [
    "0x110f4"
   ],
@@ -3358,8 +3358,8 @@
   "id": "r014080",
   "kind": "string",
   "jp": "バランスが良く",
-  "en": "",
-  "status": "new",
+  "en": "among rods,",
+  "status": "done",
   "ptrs": [
    "0x110f8"
   ],
@@ -3369,8 +3369,8 @@
   "id": "r014090",
   "kind": "string",
   "jp": "広く使われている",
-  "en": "",
-  "status": "new",
+  "en": "widely used",
+  "status": "done",
   "ptrs": [
    "0x110fc"
   ],
@@ -3380,8 +3380,8 @@
   "id": "r0140a4",
   "kind": "string",
   "jp": "クロースベーゼン",
-  "en": "",
-  "status": "new",
+  "en": "Close Besen",
+  "status": "done",
   "ptrs": [
    "0x11168"
   ],
@@ -3391,8 +3391,8 @@
   "id": "r0140b8",
   "kind": "string",
   "jp": "ムラサキのボディ",
-  "en": "",
-  "status": "new",
+  "en": "Purple body:",
+  "status": "done",
   "ptrs": [
    "0x1116c"
   ],
@@ -3402,8 +3402,8 @@
   "id": "r0140cc",
   "kind": "string",
   "jp": "がお姉さんＶＲに",
-  "en": "",
-  "status": "new",
+  "en": "older VR girls",
+  "status": "done",
   "ptrs": [
    "0x11170"
   ],
@@ -3413,8 +3413,8 @@
   "id": "r0140e0",
   "kind": "string",
   "jp": "人気のロッド",
-  "en": "",
-  "status": "new",
+  "en": "adore it",
+  "status": "done",
   "ptrs": [
    "0x11174"
   ],
@@ -3424,8 +3424,8 @@
   "id": "r0140f0",
   "kind": "string",
   "jp": "クラブブルーム",
-  "en": "",
-  "status": "new",
+  "en": "Club Broom",
+  "status": "done",
   "ptrs": [
    "0x111e0"
   ],
@@ -3435,8 +3435,8 @@
   "id": "r014100",
   "kind": "string",
   "jp": "オーラのタマを",
-  "en": "",
-  "status": "new",
+  "en": "Shoots aura",
+  "status": "done",
   "ptrs": [
    "0x111e4"
   ],
@@ -3446,8 +3446,8 @@
   "id": "r014110",
   "kind": "string",
   "jp": "だすクローバーが",
-  "en": "",
-  "status": "new",
+  "en": "from a clover:",
+  "status": "done",
   "ptrs": [
    "0x111e8"
   ],
@@ -3457,8 +3457,8 @@
   "id": "r014124",
   "kind": "string",
   "jp": "とくちょう",
-  "en": "",
-  "status": "new",
+  "en": "its trait",
+  "status": "done",
   "ptrs": [
    "0x111ec"
   ],
@@ -3468,8 +3468,8 @@
   "id": "r014130",
   "kind": "string",
   "jp": "バショウベーゼン",
-  "en": "",
-  "status": "new",
+  "en": "Basho Besen",
+  "status": "done",
   "ptrs": [
    "0x11258"
   ],
@@ -3479,8 +3479,8 @@
   "id": "r014144",
   "kind": "string",
   "jp": "バショウの花が",
-  "en": "",
-  "status": "new",
+  "en": "Based on the",
+  "status": "done",
   "ptrs": [
    "0x1125c"
   ],
@@ -3490,8 +3490,8 @@
   "id": "r014154",
   "kind": "string",
   "jp": "モデルのひじょう",
-  "en": "",
-  "status": "new",
+  "en": "banana flower:",
+  "status": "done",
   "ptrs": [
    "0x11260"
   ],
@@ -3501,8 +3501,8 @@
   "id": "r014168",
   "kind": "string",
   "jp": "に強力なアーム",
-  "en": "",
-  "status": "new",
+  "en": "a mighty Arm",
+  "status": "done",
   "ptrs": [
    "0x11264"
   ],
@@ -3512,8 +3512,8 @@
   "id": "r014178",
   "kind": "string",
   "jp": "ソルセプター",
-  "en": "",
-  "status": "new",
+  "en": "Sol Scepter",
+  "status": "done",
   "ptrs": [
    "0x112d0"
   ],
@@ -3523,8 +3523,8 @@
   "id": "r014188",
   "kind": "string",
   "jp": "太陽がイメージの",
-  "en": "",
-  "status": "new",
+  "en": "Sun-themed",
+  "status": "done",
   "ptrs": [
    "0x112d4"
   ],
@@ -3534,8 +3534,8 @@
   "id": "r01419c",
   "kind": "string",
   "jp": "サモンタイプの",
-  "en": "",
-  "status": "new",
+  "en": "summon-type",
+  "status": "done",
   "ptrs": [
    "0x112d8"
   ],
@@ -3545,8 +3545,8 @@
   "id": "r0141ac",
   "kind": "string",
   "jp": "アーム",
-  "en": "",
-  "status": "new",
+  "en": "Arm",
+  "status": "done",
   "ptrs": [
    "0x112dc"
   ],
@@ -3556,8 +3556,8 @@
   "id": "r0141b4",
   "kind": "string",
   "jp": "ルナセプター",
-  "en": "",
-  "status": "new",
+  "en": "Luna Scepter",
+  "status": "done",
   "ptrs": [
    "0x11348"
   ],
@@ -3567,8 +3567,8 @@
   "id": "r0141c4",
   "kind": "string",
   "jp": "相手のＨＰを",
-  "en": "",
-  "status": "new",
+  "en": "Saps foes'",
+  "status": "done",
   "ptrs": [
    "0x1134c"
   ],
@@ -3578,8 +3578,8 @@
   "id": "r0141d4",
   "kind": "string",
   "jp": "ジワジワへらす",
-  "en": "",
-  "status": "new",
+  "en": "HP bit by bit",
+  "status": "done",
   "ptrs": [
    "0x11350"
   ],
@@ -3589,8 +3589,8 @@
   "id": "r0141e4",
   "kind": "string",
   "jp": "アーム",
-  "en": "",
-  "status": "new",
+  "en": "Arm",
+  "status": "done",
   "ptrs": [
    "0x11354"
   ],
@@ -3600,8 +3600,8 @@
   "id": "r0141ec",
   "kind": "string",
   "jp": "エストセプター",
-  "en": "",
-  "status": "new",
+  "en": "Est Scepter",
+  "status": "done",
   "ptrs": [
    "0x113c0"
   ],
@@ -3611,8 +3611,8 @@
   "id": "r0141fc",
   "kind": "string",
   "jp": "その見た目通り",
-  "en": "",
-  "status": "new",
+  "en": "As it looks,",
+  "status": "done",
   "ptrs": [
    "0x113c4"
   ],
@@ -3622,8 +3622,8 @@
   "id": "r01420c",
   "kind": "string",
   "jp": "やられると星が",
-  "en": "",
-  "status": "new",
+  "en": "they say a hit",
+  "status": "done",
   "ptrs": [
    "0x113c8"
   ],
@@ -3633,8 +3633,8 @@
   "id": "r01421c",
   "kind": "string",
   "jp": "見えると言われる",
-  "en": "",
-  "status": "new",
+  "en": "shows you stars",
+  "status": "done",
   "ptrs": [
    "0x113cc"
   ],
@@ -3644,8 +3644,8 @@
   "id": "r014230",
   "kind": "string",
   "jp": "ノヴァセプター",
-  "en": "",
-  "status": "new",
+  "en": "Nova Scepter",
+  "status": "done",
   "ptrs": [
    "0x11438"
   ],
@@ -3655,8 +3655,8 @@
   "id": "r014240",
   "kind": "string",
   "jp": "相手の動きを",
-  "en": "",
-  "status": "new",
+  "en": "Slows foes'",
+  "status": "done",
   "ptrs": [
    "0x1143c"
   ],
@@ -3666,8 +3666,8 @@
   "id": "r014250",
   "kind": "string",
   "jp": "にぶらせる力を",
-  "en": "",
-  "status": "new",
+  "en": "movements:",
+  "status": "done",
   "ptrs": [
    "0x11440"
   ],
@@ -3677,8 +3677,8 @@
   "id": "r014260",
   "kind": "string",
   "jp": "もったアーム",
-  "en": "",
-  "status": "new",
+  "en": "an Arm",
+  "status": "done",
   "ptrs": [
    "0x11444"
   ],
@@ -3688,8 +3688,8 @@
   "id": "r014270",
   "kind": "string",
   "jp": "ネプトセプター",
-  "en": "",
-  "status": "new",
+  "en": "Nept Scepter",
+  "status": "done",
   "ptrs": [
    "0x114b0"
   ],
@@ -3699,8 +3699,8 @@
   "id": "r014280",
   "kind": "string",
   "jp": "相手のＡＰを",
-  "en": "",
-  "status": "new",
+  "en": "Saps foes'",
+  "status": "done",
   "ptrs": [
    "0x114b4"
   ],
@@ -3710,8 +3710,8 @@
   "id": "r014290",
   "kind": "string",
   "jp": "ジワジワへらす",
-  "en": "",
-  "status": "new",
+  "en": "AP bit by bit",
+  "status": "done",
   "ptrs": [
    "0x114b8"
   ],
@@ -3721,8 +3721,8 @@
   "id": "r0142a0",
   "kind": "string",
   "jp": "アーム",
-  "en": "",
-  "status": "new",
+  "en": "Arm",
+  "status": "done",
   "ptrs": [
    "0x114bc"
   ],
@@ -3732,8 +3732,8 @@
   "id": "r0142a8",
   "kind": "string",
   "jp": "プルトセプター",
-  "en": "",
-  "status": "new",
+  "en": "Pluto Scepter",
+  "status": "done",
   "ptrs": [
    "0x11528"
   ],
@@ -3743,8 +3743,8 @@
   "id": "r0142b8",
   "kind": "string",
   "jp": "アームを１つ",
-  "en": "",
-  "status": "new",
+  "en": "1 Arm gets",
+  "status": "done",
   "ptrs": [
    "0x1152c"
   ],
@@ -3754,8 +3754,8 @@
   "id": "r0142c8",
   "kind": "string",
   "jp": "ふうじる力がある",
-  "en": "",
-  "status": "new",
+  "en": "sealed by this",
+  "status": "done",
   "ptrs": [
    "0x11530"
   ],
@@ -3765,8 +3765,8 @@
   "id": "r0142dc",
   "kind": "string",
   "jp": "アーム",
-  "en": "",
-  "status": "new",
+  "en": "Arm",
+  "status": "done",
   "ptrs": [
    "0x11534"
   ],
@@ -3776,8 +3776,8 @@
   "id": "r0142e4",
   "kind": "string",
   "jp": "ネクロマーダー",
-  "en": "",
-  "status": "new",
+  "en": "Necromurder",
+  "status": "done",
   "ptrs": [
    "0x115a0"
   ],
@@ -3787,8 +3787,8 @@
   "id": "r0142f4",
   "kind": "string",
   "jp": "アームを２つも",
-  "en": "",
-  "status": "new",
+  "en": "Seals 2 Arms",
+  "status": "done",
   "ptrs": [
    "0x115a4"
   ],
@@ -3798,8 +3798,8 @@
   "id": "r014304",
   "kind": "string",
   "jp": "ふうじる力がある",
-  "en": "",
-  "status": "new",
+  "en": "with its power:",
+  "status": "done",
   "ptrs": [
    "0x115a8"
   ],
@@ -3809,8 +3809,8 @@
   "id": "r014318",
   "kind": "string",
   "jp": "アーム",
-  "en": "",
-  "status": "new",
+  "en": "Arm",
+  "status": "done",
   "ptrs": [
    "0x115ac"
   ],
@@ -3820,8 +3820,8 @@
   "id": "r014320",
   "kind": "string",
   "jp": "ブラムショット",
-  "en": "",
-  "status": "new",
+  "en": "Brahm Shot",
+  "status": "done",
   "ptrs": [
    "0x11618"
   ],
@@ -3831,8 +3831,8 @@
   "id": "r014330",
   "kind": "string",
   "jp": "一部で人気が高い",
-  "en": "",
-  "status": "new",
+  "en": "A cult-favorite",
+  "status": "done",
   "ptrs": [
    "0x1161c"
   ],
@@ -3842,8 +3842,8 @@
   "id": "r014344",
   "kind": "string",
   "jp": "ガンタイプの",
-  "en": "",
-  "status": "new",
+  "en": "gun-type",
+  "status": "done",
   "ptrs": [
    "0x11620"
   ],
@@ -3853,8 +3853,8 @@
   "id": "r014354",
   "kind": "string",
   "jp": "ハントけいアーム",
-  "en": "",
-  "status": "new",
+  "en": "Hunt-type Arm",
+  "status": "done",
   "ptrs": [
    "0x11624"
   ],
@@ -3864,8 +3864,8 @@
   "id": "r014368",
   "kind": "string",
   "jp": "フラッシーカノン",
-  "en": "",
-  "status": "new",
+  "en": "Flashy Cannon",
+  "status": "done",
   "ptrs": [
    "0x11690"
   ],
@@ -3875,8 +3875,8 @@
   "id": "r01437c",
   "kind": "string",
   "jp": "発売したばかりの",
-  "en": "",
-  "status": "new",
+  "en": "Just released",
+  "status": "done",
   "ptrs": [
    "0x11694"
   ],
@@ -3886,8 +3886,8 @@
   "id": "r014390",
   "kind": "string",
   "jp": "ガンタイプアーム",
-  "en": "",
-  "status": "new",
+  "en": "gun-type Arm,",
+  "status": "done",
   "ptrs": [
    "0x11698"
   ],
@@ -3897,8 +3897,8 @@
   "id": "r0143a4",
   "kind": "string",
   "jp": "せいのうも高い",
-  "en": "",
-  "status": "new",
+  "en": "high spec, too",
+  "status": "done",
   "ptrs": [
    "0x1169c"
   ],
@@ -3908,8 +3908,8 @@
   "id": "r0143b4",
   "kind": "string",
   "jp": "バーニアレイター",
-  "en": "",
-  "status": "new",
+  "en": "Vernia Raider",
+  "status": "done",
   "ptrs": [
    "0x11708"
   ],
@@ -3919,8 +3919,8 @@
   "id": "r0143c8",
   "kind": "string",
   "jp": "ガンタイプでは",
-  "en": "",
-  "status": "new",
+  "en": "Among guns,",
+  "status": "done",
   "ptrs": [
    "0x1170c"
   ],
@@ -3930,8 +3930,8 @@
   "id": "r0143d8",
   "kind": "string",
   "jp": "一番強力なアーム",
-  "en": "",
-  "status": "new",
+  "en": "the top Arm;",
+  "status": "done",
   "ptrs": [
    "0x11710"
   ],
@@ -3941,8 +3941,8 @@
   "id": "r0143ec",
   "kind": "string",
   "jp": "ＶＰも高い",
-  "en": "",
-  "status": "new",
+  "en": "costly",
+  "status": "done",
   "ptrs": [
    "0x11714"
   ],
@@ -3952,8 +3952,8 @@
   "id": "r0143f8",
   "kind": "string",
   "jp": "へクサイド",
-  "en": "",
-  "status": "new",
+  "en": "Hexide",
+  "status": "done",
   "ptrs": [
    "0x11780"
   ],
@@ -3963,8 +3963,8 @@
   "id": "r014404",
   "kind": "string",
   "jp": "最もポピュラーな",
-  "en": "",
-  "status": "new",
+  "en": "Most popular",
+  "status": "done",
   "ptrs": [
    "0x11784",
    "0x7ff9bc"
@@ -3975,8 +3975,8 @@
   "id": "r014418",
   "kind": "string",
   "jp": "バウンダー",
-  "en": "",
-  "status": "new",
+  "en": "Bounder;",
+  "status": "done",
   "ptrs": [
    "0x11788"
   ],
@@ -3986,8 +3986,8 @@
   "id": "r014424",
   "kind": "string",
   "jp": "大きな弱点はない",
-  "en": "",
-  "status": "new",
+  "en": "no big weakness",
+  "status": "done",
   "ptrs": [
    "0x1178c"
   ],
@@ -3997,8 +3997,8 @@
   "id": "r014438",
   "kind": "string",
   "jp": "エスクード",
-  "en": "",
-  "status": "new",
+  "en": "Escudo",
+  "status": "done",
   "ptrs": [
    "0x117f8"
   ],
@@ -4008,8 +4008,8 @@
   "id": "r014444",
   "kind": "string",
   "jp": "コンパクトで軽く",
-  "en": "",
-  "status": "new",
+  "en": "Compact, light,",
+  "status": "done",
   "ptrs": [
    "0x117fc"
   ],
@@ -4019,8 +4019,8 @@
   "id": "r014458",
   "kind": "string",
   "jp": "こうげきにも使い",
-  "en": "",
-  "status": "new",
+  "en": "handy on offense",
+  "status": "done",
   "ptrs": [
    "0x11800"
   ],
@@ -4030,8 +4030,8 @@
   "id": "r01446c",
   "kind": "string",
   "jp": "やすいバウンダー",
-  "en": "",
-  "status": "new",
+  "en": "too: a Bounder",
+  "status": "done",
   "ptrs": [
    "0x11804"
   ],
@@ -4041,8 +4041,8 @@
   "id": "r014480",
   "kind": "string",
   "jp": "シェルクリーク",
-  "en": "",
-  "status": "new",
+  "en": "Shell Creek",
+  "status": "done",
   "ptrs": [
    "0x11870"
   ],
@@ -4052,8 +4052,8 @@
   "id": "r014490",
   "kind": "string",
   "jp": "カメのこうらを",
-  "en": "",
-  "status": "new",
+  "en": "Inspired by a",
+  "status": "done",
   "ptrs": [
    "0x11874"
   ],
@@ -4063,8 +4063,8 @@
   "id": "r0144a0",
   "kind": "string",
   "jp": "ヒントに作られた",
-  "en": "",
-  "status": "new",
+  "en": "turtle's shell:",
+  "status": "done",
   "ptrs": [
    "0x11878"
   ],
@@ -4074,8 +4074,8 @@
   "id": "r0144b4",
   "kind": "string",
   "jp": "バウンダー",
-  "en": "",
-  "status": "new",
+  "en": "a Bounder",
+  "status": "done",
   "ptrs": [
    "0x1187c"
   ],
@@ -4085,8 +4085,8 @@
   "id": "r0144c0",
   "kind": "string",
   "jp": "ファイバンパー",
-  "en": "",
-  "status": "new",
+  "en": "Fire Bumper",
+  "status": "done",
   "ptrs": [
    "0x118e8"
   ],
@@ -4096,8 +4096,8 @@
   "id": "r0144d0",
   "kind": "string",
   "jp": "大きめサイズだが",
-  "en": "",
-  "status": "new",
+  "en": "Big Size, but",
+  "status": "done",
   "ptrs": [
    "0x118ec"
   ],
@@ -4107,8 +4107,8 @@
   "id": "r0144e4",
   "kind": "string",
   "jp": "クセが少なく",
-  "en": "",
-  "status": "new",
+  "en": "few quirks",
+  "status": "done",
   "ptrs": [
    "0x118f0"
   ],
@@ -4118,8 +4118,8 @@
   "id": "r0144f4",
   "kind": "string",
   "jp": "せいのうも高い",
-  "en": "",
-  "status": "new",
+  "en": "and high spec",
+  "status": "done",
   "ptrs": [
    "0x118f4"
   ],
@@ -4129,8 +4129,8 @@
   "id": "r014504",
   "kind": "string",
   "jp": "ライネックス",
-  "en": "",
-  "status": "new",
+  "en": "Rynex",
+  "status": "done",
   "ptrs": [
    "0x11960"
   ],
@@ -4140,8 +4140,8 @@
   "id": "r014514",
   "kind": "string",
   "jp": "かなり高せいのう",
-  "en": "",
-  "status": "new",
+  "en": "Very high spec;",
+  "status": "done",
   "ptrs": [
    "0x11964"
   ],
@@ -4151,8 +4151,8 @@
   "id": "r014528",
   "kind": "string",
   "jp": "なみのアームより",
-  "en": "",
-  "status": "new",
+  "en": "beats most Arms",
+  "status": "done",
   "ptrs": [
    "0x11968"
   ],
@@ -4162,8 +4162,8 @@
   "id": "r01453c",
   "kind": "string",
   "jp": "こうげき力が高い",
-  "en": "",
-  "status": "new",
+  "en": "in attack power",
+  "status": "done",
   "ptrs": [
    "0x1196c"
   ],
@@ -4173,8 +4173,8 @@
   "id": "r014550",
   "kind": "string",
   "jp": "ハートポワン",
-  "en": "",
-  "status": "new",
+  "en": "Heart Point",
+  "status": "done",
   "ptrs": [
    "0x119d8"
   ],
@@ -4184,8 +4184,8 @@
   "id": "r014560",
   "kind": "string",
   "jp": "女の子向けに",
-  "en": "",
-  "status": "new",
+  "en": "For girls,",
+  "status": "done",
   "ptrs": [
    "0x119dc"
   ],
@@ -4195,8 +4195,8 @@
   "id": "r014570",
   "kind": "string",
   "jp": "作られたアーム",
-  "en": "",
-  "status": "new",
+  "en": "this Arm is",
+  "status": "done",
   "ptrs": [
    "0x119e0"
   ],
@@ -4206,8 +4206,8 @@
   "id": "r014580",
   "kind": "string",
   "jp": "意外に使いやすい",
-  "en": "",
-  "status": "new",
+  "en": "easy to use!",
+  "status": "done",
   "ptrs": [
    "0x119e4"
   ],
@@ -4217,8 +4217,8 @@
   "id": "r014594",
   "kind": "string",
   "jp": "オンミョウヘキ",
-  "en": "",
-  "status": "new",
+  "en": "Onmyo Wall",
+  "status": "done",
   "ptrs": [
    "0x11a50"
   ],
@@ -4228,8 +4228,8 @@
   "id": "r0145a4",
   "kind": "string",
   "jp": "オンミョウの力を",
-  "en": "",
-  "status": "new",
+  "en": "Using onmyo",
+  "status": "done",
   "ptrs": [
    "0x11a54"
   ],
@@ -4239,8 +4239,8 @@
   "id": "r0145b8",
   "kind": "string",
   "jp": "利用したテスト",
-  "en": "",
-  "status": "new",
+  "en": "power: a test-",
+  "status": "done",
   "ptrs": [
    "0x11a58"
   ],
@@ -4250,8 +4250,8 @@
   "id": "r0145c8",
   "kind": "string",
   "jp": "タイプのアーム",
-  "en": "",
-  "status": "new",
+  "en": "type Arm",
+  "status": "done",
   "ptrs": [
    "0x11a5c"
   ],
@@ -4261,8 +4261,8 @@
   "id": "r0145d8",
   "kind": "string",
   "jp": "トライフィールド",
-  "en": "",
-  "status": "new",
+  "en": "Tri-Field",
+  "status": "done",
   "ptrs": [
    "0x11ac8"
   ],
@@ -4272,8 +4272,8 @@
   "id": "r0145ec",
   "kind": "string",
   "jp": "ぼうぎょが苦手な",
-  "en": "",
-  "status": "new",
+  "en": "Weak defenders",
+  "status": "done",
   "ptrs": [
    "0x11acc"
   ],
@@ -4283,8 +4283,8 @@
   "id": "r014600",
   "kind": "string",
   "jp": "せんしゅに人気の",
-  "en": "",
-  "status": "new",
+  "en": "love this",
+  "status": "done",
   "ptrs": [
    "0x11ad0"
   ],
@@ -4294,8 +4294,8 @@
   "id": "r014614",
   "kind": "string",
   "jp": "バリアタイプ",
-  "en": "",
-  "status": "new",
+  "en": "barrier type",
+  "status": "done",
   "ptrs": [
    "0x11ad4"
   ],
@@ -4305,8 +4305,8 @@
   "id": "r014624",
   "kind": "string",
   "jp": "レオバリア",
-  "en": "",
-  "status": "new",
+  "en": "Leobarrier",
+  "status": "done",
   "ptrs": [
    "0x11b40"
   ],
@@ -4316,8 +4316,8 @@
   "id": "r014630",
   "kind": "string",
   "jp": "人気とうひょうの",
-  "en": "",
-  "status": "new",
+  "en": "Fan poll",
+  "status": "done",
   "ptrs": [
    "0x11b44"
   ],
@@ -4327,8 +4327,8 @@
   "id": "r014644",
   "kind": "string",
   "jp": "バウンダー部門で",
-  "en": "",
-  "status": "new",
+  "en": "Bounder ranks:",
+  "status": "done",
   "ptrs": [
    "0x11b48"
   ],
@@ -4338,8 +4338,8 @@
   "id": "r014658",
   "kind": "string",
   "jp": "１位のアーム",
-  "en": "",
-  "status": "new",
+  "en": "No. 1 Arm",
+  "status": "done",
   "ptrs": [
    "0x11b4c"
   ],
@@ -4349,8 +4349,8 @@
   "id": "r014668",
   "kind": "string",
   "jp": "ヴィナスウィング",
-  "en": "",
-  "status": "new",
+  "en": "Venus Wing",
+  "status": "done",
   "ptrs": [
    "0x11bb8"
   ],
@@ -4360,8 +4360,8 @@
   "id": "r01467c",
   "kind": "string",
   "jp": "青く光るオーラが",
-  "en": "",
-  "status": "new",
+  "en": "Its blue aura",
+  "status": "done",
   "ptrs": [
    "0x11bbc"
   ],
@@ -4371,8 +4371,8 @@
   "id": "r014690",
   "kind": "string",
   "jp": "力強い最強クラス",
-  "en": "",
-  "status": "new",
+  "en": "is mighty: a top",
+  "status": "done",
   "ptrs": [
    "0x11bc0"
   ],
@@ -4382,8 +4382,8 @@
   "id": "r0146a4",
   "kind": "string",
   "jp": "のバリアタイプ",
-  "en": "",
-  "status": "new",
+  "en": "barrier type",
+  "status": "done",
   "ptrs": [
    "0x11bc4"
   ],
@@ -4393,8 +4393,8 @@
   "id": "r0146b4",
   "kind": "string",
   "jp": "カースシンボル",
-  "en": "",
-  "status": "new",
+  "en": "Curse Symbol",
+  "status": "done",
   "ptrs": [
    "0x11c30"
   ],
@@ -4404,8 +4404,8 @@
   "id": "r0146c4",
   "kind": "string",
   "jp": "せいなる力で",
-  "en": "",
-  "status": "new",
+  "en": "Holy power",
+  "status": "done",
   "ptrs": [
    "0x11c34"
   ],
@@ -4415,8 +4415,8 @@
   "id": "r0146d4",
   "kind": "string",
   "jp": "せんしゅを守る",
-  "en": "",
-  "status": "new",
+  "en": "guards you:",
+  "status": "done",
   "ptrs": [
    "0x11c38"
   ],
@@ -4426,8 +4426,8 @@
   "id": "r0146e4",
   "kind": "string",
   "jp": "シンボルタイプ",
-  "en": "",
-  "status": "new",
+  "en": "symbol type",
+  "status": "done",
   "ptrs": [
    "0x11c3c"
   ],
@@ -4437,8 +4437,8 @@
   "id": "r0146f4",
   "kind": "string",
   "jp": "デフューザー",
-  "en": "",
-  "status": "new",
+  "en": "Diffuser",
+  "status": "done",
   "ptrs": [
    "0x11ca8"
   ],
@@ -4448,8 +4448,8 @@
   "id": "r014704",
   "kind": "string",
   "jp": "ロールをはじく",
-  "en": "",
-  "status": "new",
+  "en": "Bats Rolls,",
+  "status": "done",
   "ptrs": [
    "0x11cac"
   ],
@@ -4459,8 +4459,8 @@
   "id": "r014714",
   "kind": "string",
   "jp": "タマをうつ新がた",
-  "en": "",
-  "status": "new",
+  "en": "fires shots: new",
+  "status": "done",
   "ptrs": [
    "0x11cb0"
   ],
@@ -4470,8 +4470,8 @@
   "id": "r014728",
   "kind": "string",
   "jp": "のバウンダー",
-  "en": "",
-  "status": "new",
+  "en": "Bounder",
+  "status": "done",
   "ptrs": [
    "0x11cb4"
   ],
@@ -4481,8 +4481,8 @@
   "id": "r014738",
   "kind": "string",
   "jp": "ロッカクジン",
-  "en": "",
-  "status": "new",
+  "en": "Rokkakujin",
+  "status": "done",
   "ptrs": [
    "0x11d20"
   ],
@@ -4492,8 +4492,8 @@
   "id": "r014748",
   "kind": "string",
   "jp": "Ａこうげきが",
-  "en": "",
-  "status": "new",
+  "en": "Very high",
+  "status": "done",
   "ptrs": [
    "0x11d24"
   ],
@@ -4503,8 +4503,8 @@
   "id": "r014758",
   "kind": "string",
   "jp": "とても高い",
-  "en": "",
-  "status": "new",
+  "en": "aura atk",
+  "status": "done",
   "ptrs": [
    "0x11d28"
   ],
@@ -4514,8 +4514,8 @@
   "id": "r014764",
   "kind": "string",
   "jp": "バウンダー",
-  "en": "",
-  "status": "new",
+  "en": "Bounder",
+  "status": "done",
   "ptrs": [
    "0x11d2c"
   ],
@@ -4525,8 +4525,8 @@
   "id": "r014770",
   "kind": "string",
   "jp": "オービター",
-  "en": "",
-  "status": "new",
+  "en": "Orbiter",
+  "status": "done",
   "ptrs": [
    "0x11d98"
   ],
@@ -4536,8 +4536,8 @@
   "id": "r01477c",
   "kind": "string",
   "jp": "たてを投げて使う",
-  "en": "",
-  "status": "new",
+  "en": "Inspired by",
+  "status": "done",
   "ptrs": [
    "0x11d9c"
   ],
@@ -4547,8 +4547,8 @@
   "id": "r014790",
   "kind": "string",
   "jp": "戦ぽうをヒントに",
-  "en": "",
-  "status": "new",
+  "en": "shield-throwing",
+  "status": "done",
   "ptrs": [
    "0x11da0"
   ],
@@ -4558,8 +4558,8 @@
   "id": "r0147a4",
   "kind": "string",
   "jp": "かいはつされた",
-  "en": "",
-  "status": "new",
+  "en": "tactics",
+  "status": "done",
   "ptrs": [
    "0x11da4"
   ],
@@ -4569,8 +4569,8 @@
   "id": "r0147b4",
   "kind": "string",
   "jp": "ブルーローズ",
-  "en": "",
-  "status": "new",
+  "en": "Blue Rose",
+  "status": "done",
   "ptrs": [
    "0x11e10"
   ],
@@ -4580,8 +4580,8 @@
   "id": "r0147c4",
   "kind": "string",
   "jp": "さいきん使うひと",
-  "en": "",
-  "status": "new",
+  "en": "More people use",
+  "status": "done",
   "ptrs": [
    "0x11e14"
   ],
@@ -4591,8 +4591,8 @@
   "id": "r0147d8",
   "kind": "string",
   "jp": "がふえたソーサー",
-  "en": "",
-  "status": "new",
+  "en": "this saucer-",
+  "status": "done",
   "ptrs": [
    "0x11e18"
   ],
@@ -4602,8 +4602,8 @@
   "id": "r0147ec",
   "kind": "string",
   "jp": "タイプのアーム",
-  "en": "",
-  "status": "new",
+  "en": "type Arm now",
+  "status": "done",
   "ptrs": [
    "0x11e1c"
   ],
@@ -4613,8 +4613,8 @@
   "id": "r0147fc",
   "kind": "string",
   "jp": "ディスカーム",
-  "en": "",
-  "status": "new",
+  "en": "Discarm",
+  "status": "done",
   "ptrs": [
    "0x11e88"
   ],
@@ -4624,8 +4624,8 @@
   "id": "r01480c",
   "kind": "string",
   "jp": "これをメインに",
-  "en": "",
-  "status": "new",
+  "en": "A saucer type",
+  "status": "done",
   "ptrs": [
    "0x11e8c"
   ],
@@ -4635,8 +4635,8 @@
   "id": "r01481c",
   "kind": "string",
   "jp": "使えるほど強力な",
-  "en": "",
-  "status": "new",
+  "en": "strong enough",
+  "status": "done",
   "ptrs": [
    "0x11e90"
   ],
@@ -4646,8 +4646,8 @@
   "id": "r014830",
   "kind": "string",
   "jp": "ソーサータイプ",
-  "en": "",
-  "status": "new",
+  "en": "for main use",
+  "status": "done",
   "ptrs": [
    "0x11e94"
   ],
@@ -4657,8 +4657,8 @@
   "id": "r014840",
   "kind": "string",
   "jp": "ミカガミ",
-  "en": "",
-  "status": "new",
+  "en": "Mikagami",
+  "status": "done",
   "ptrs": [
    "0x11f00"
   ],
@@ -4668,8 +4668,8 @@
   "id": "r01484c",
   "kind": "string",
   "jp": "最近発明された",
-  "en": "",
-  "status": "new",
+  "en": "Newly invented",
+  "status": "done",
   "ptrs": [
    "0x11f04"
   ],
@@ -4679,8 +4679,8 @@
   "id": "r01485c",
   "kind": "string",
   "jp": "タマをはね返す力",
-  "en": "",
-  "status": "new",
+  "en": "power to deflect",
+  "status": "done",
   "ptrs": [
    "0x11f08"
   ],
@@ -4690,8 +4690,8 @@
   "id": "r014870",
   "kind": "string",
   "jp": "を持ったアーム",
-  "en": "",
-  "status": "new",
+  "en": "shots: Arm",
+  "status": "done",
   "ptrs": [
    "0x11f0c"
   ],
@@ -4701,8 +4701,8 @@
   "id": "r014880",
   "kind": "string",
   "jp": "パゥンダー",
-  "en": "",
-  "status": "new",
+  "en": "Pounder",
+  "status": "done",
   "ptrs": [
    "0x11f78"
   ],
@@ -4712,8 +4712,8 @@
   "id": "r01488c",
   "kind": "string",
   "jp": "シャレのつもりで",
-  "en": "",
-  "status": "new",
+  "en": "Made as a joke,",
+  "status": "done",
   "ptrs": [
    "0x11f7c"
   ],
@@ -4723,8 +4723,8 @@
   "id": "r0148a0",
   "kind": "string",
   "jp": "げんていで発売",
-  "en": "",
-  "status": "new",
+  "en": "a limited run,",
+  "status": "done",
   "ptrs": [
    "0x11f80"
   ],
@@ -4734,8 +4734,8 @@
   "id": "r0148b0",
   "kind": "string",
   "jp": "しかし大人気に！",
-  "en": "",
-  "status": "new",
+  "en": "but a huge hit!",
+  "status": "done",
   "ptrs": [
    "0x11f84"
   ],
@@ -4745,8 +4745,8 @@
   "id": "r0148c4",
   "kind": "string",
   "jp": "アマルティア",
-  "en": "",
-  "status": "new",
+  "en": "Amartia",
+  "status": "done",
   "ptrs": [
    "0x11ff0"
   ],
@@ -4756,8 +4756,8 @@
   "id": "r0148d4",
   "kind": "string",
   "jp": "美じゅつてきな",
-  "en": "",
-  "status": "new",
+  "en": "Artful, with",
+  "status": "done",
   "ptrs": [
    "0x11ff4"
   ],
@@ -4767,8 +4767,8 @@
   "id": "r0148e4",
   "kind": "string",
   "jp": "かちも高い",
-  "en": "",
-  "status": "new",
+  "en": "fine value",
+  "status": "done",
   "ptrs": [
    "0x11ff8"
   ],
@@ -4778,8 +4778,8 @@
   "id": "r0148f0",
   "kind": "string",
   "jp": "強力なバウンダー",
-  "en": "",
-  "status": "new",
+  "en": "strong Bounder",
+  "status": "done",
   "ptrs": [
    "0x11ffc"
   ],
@@ -4789,8 +4789,8 @@
   "id": "r014904",
   "kind": "string",
   "jp": "ダイジテン",
-  "en": "",
-  "status": "new",
+  "en": "Daijiten",
+  "status": "done",
   "ptrs": [
    "0x12068"
   ],
@@ -4800,8 +4800,8 @@
   "id": "r014910",
   "kind": "string",
   "jp": "バトローリングの",
-  "en": "",
-  "status": "new",
+  "en": "Vattrolling",
+  "status": "done",
   "ptrs": [
    "0x1206c"
   ],
@@ -4811,8 +4811,8 @@
   "id": "r014924",
   "kind": "string",
   "jp": "ひでんの書",
-  "en": "",
-  "status": "new",
+  "en": "secrets;",
+  "status": "done",
   "ptrs": [
    "0x12070"
   ],
@@ -4822,8 +4822,8 @@
   "id": "r014930",
   "kind": "string",
   "jp": "カドがイタイ",
-  "en": "",
-  "status": "new",
+  "en": "edges hurt!",
+  "status": "done",
   "ptrs": [
    "0x12074"
   ],
@@ -4833,8 +4833,8 @@
   "id": "r014940",
   "kind": "string",
   "jp": "スパロスライダー",
-  "en": "",
-  "status": "new",
+  "en": "Sparrow Slider",
+  "status": "done",
   "ptrs": [
    "0x120e0"
   ],
@@ -4844,8 +4844,8 @@
   "id": "r014954",
   "kind": "string",
   "jp": "オーラの力で",
-  "en": "",
-  "status": "new",
+  "en": "Aura power",
+  "status": "done",
   "ptrs": [
    "0x120e4"
   ],
@@ -4855,8 +4855,8 @@
   "id": "r014964",
   "kind": "string",
   "jp": "すばやく動ける",
-  "en": "",
-  "status": "new",
+  "en": "lets you zip:",
+  "status": "done",
   "ptrs": [
    "0x120e8"
   ],
@@ -4866,8 +4866,8 @@
   "id": "r014974",
   "kind": "string",
   "jp": "アーム",
-  "en": "",
-  "status": "new",
+  "en": "Arm",
+  "status": "done",
   "ptrs": [
    "0x120ec"
   ],
@@ -4877,8 +4877,8 @@
   "id": "r01497c",
   "kind": "string",
   "jp": "ガルスライダー",
-  "en": "",
-  "status": "new",
+  "en": "Gull Slider",
+  "status": "done",
   "ptrs": [
    "0x12158"
   ],
@@ -4888,8 +4888,8 @@
   "id": "r01498c",
   "kind": "string",
   "jp": "Ｍ・ヨイチの",
-  "en": "",
-  "status": "new",
+  "en": "M. Yoichi",
+  "status": "done",
   "ptrs": [
    "0x1215c"
   ],
@@ -4899,8 +4899,8 @@
   "id": "r01499c",
   "kind": "string",
   "jp": "デザインで話題に",
-  "en": "",
-  "status": "new",
+  "en": "design made this",
+  "status": "done",
   "ptrs": [
    "0x12160"
   ],
@@ -4910,8 +4910,8 @@
   "id": "r0149b0",
   "kind": "string",
   "jp": "なったアーム",
-  "en": "",
-  "status": "new",
+  "en": "a hot Arm",
+  "status": "done",
   "ptrs": [
    "0x12164"
   ],
@@ -4921,8 +4921,8 @@
   "id": "r0149c0",
   "kind": "string",
   "jp": "シェイドアクセル",
-  "en": "",
-  "status": "new",
+  "en": "Shade Axel",
+  "status": "done",
   "ptrs": [
    "0x121d0"
   ],
@@ -4932,8 +4932,8 @@
   "id": "r0149d4",
   "kind": "string",
   "jp": "オーラで光を曲げ",
-  "en": "",
-  "status": "new",
+  "en": "Aura bends",
+  "status": "done",
   "ptrs": [
    "0x121d4"
   ],
@@ -4943,8 +4943,8 @@
   "id": "r0149e8",
   "kind": "string",
   "jp": "すがたが消える",
-  "en": "",
-  "status": "new",
+  "en": "light: vanish!",
+  "status": "done",
   "ptrs": [
    "0x121d8"
   ],
@@ -4954,8 +4954,8 @@
   "id": "r0149f8",
   "kind": "string",
   "jp": "画期てきなアーム",
-  "en": "",
-  "status": "new",
+  "en": "a novel Arm",
+  "status": "done",
   "ptrs": [
    "0x121dc"
   ],
@@ -4965,8 +4965,8 @@
   "id": "r014a0c",
   "kind": "string",
   "jp": "シノビアクセル",
-  "en": "",
-  "status": "new",
+  "en": "Shinobi Axel",
+  "status": "done",
   "ptrs": [
    "0x12248"
   ],
@@ -4976,8 +4976,8 @@
   "id": "r014a1c",
   "kind": "string",
   "jp": "ＡＰ消ひを",
-  "en": "",
-  "status": "new",
+  "en": "Less AP",
+  "status": "done",
   "ptrs": [
    "0x1224c"
   ],
@@ -4987,8 +4987,8 @@
   "id": "r014a28",
   "kind": "string",
   "jp": "おさえた新モデル",
-  "en": "",
-  "status": "new",
+  "en": "used: new model,",
+  "status": "done",
   "ptrs": [
    "0x12250"
   ],
@@ -4998,8 +4998,8 @@
   "id": "r014a3c",
   "kind": "string",
   "jp": "外国人に人気",
-  "en": "",
-  "status": "new",
+  "en": "big abroad",
+  "status": "done",
   "ptrs": [
    "0x12254"
   ],
@@ -5009,8 +5009,8 @@
   "id": "r014a4c",
   "kind": "string",
   "jp": "ラウンダーＬ",
-  "en": "",
-  "status": "new",
+  "en": "Rounder L",
+  "status": "done",
   "ptrs": [
    "0x122c0"
   ],
@@ -5020,8 +5020,8 @@
   "id": "r014a5c",
   "kind": "string",
   "jp": "重りょう級の",
-  "en": "",
-  "status": "new",
+  "en": "Heavyweight",
+  "status": "done",
   "ptrs": [
    "0x122c4"
   ],
@@ -5031,8 +5031,8 @@
   "id": "r014a6c",
   "kind": "string",
   "jp": "バトローラーに",
-  "en": "",
-  "status": "new",
+  "en": "Vattrollers",
+  "status": "done",
   "ptrs": [
    "0x122c8"
   ],
@@ -5042,8 +5042,8 @@
   "id": "r014a7c",
   "kind": "string",
   "jp": "愛用者が多い",
-  "en": "",
-  "status": "new",
+  "en": "love it",
+  "status": "done",
   "ptrs": [
    "0x122cc"
   ],
@@ -5053,8 +5053,8 @@
   "id": "r014a8c",
   "kind": "string",
   "jp": "ラウンダーＲ",
-  "en": "",
-  "status": "new",
+  "en": "Rounder R",
+  "status": "done",
   "ptrs": [
    "0x12338"
   ],
@@ -5064,8 +5064,8 @@
   "id": "r014a9c",
   "kind": "string",
   "jp": "意表をついた",
-  "en": "",
-  "status": "new",
+  "en": "Surprising",
+  "status": "done",
   "ptrs": [
    "0x1233c"
   ],
@@ -5075,8 +5075,8 @@
   "id": "r014aac",
   "kind": "string",
   "jp": "動きができる",
-  "en": "",
-  "status": "new",
+  "en": "moves: this",
+  "status": "done",
   "ptrs": [
    "0x12340"
   ],
@@ -5086,8 +5086,8 @@
   "id": "r014abc",
   "kind": "string",
   "jp": "アーム",
-  "en": "",
-  "status": "new",
+  "en": "Arm",
+  "status": "done",
   "ptrs": [
    "0x12344"
   ],
@@ -5097,8 +5097,8 @@
   "id": "r014ac4",
   "kind": "string",
   "jp": "フログホッパー",
-  "en": "",
-  "status": "new",
+  "en": "Frog Hopper",
+  "status": "done",
   "ptrs": [
    "0x123b0"
   ],
@@ -5108,8 +5108,8 @@
   "id": "r014ad4",
   "kind": "string",
   "jp": "後ろに高速移動",
-  "en": "",
-  "status": "new",
+  "en": "Zips backward:",
+  "status": "done",
   "ptrs": [
    "0x123b4"
   ],
@@ -5119,8 +5119,8 @@
   "id": "r014ae4",
   "kind": "string",
   "jp": "するアシストけい",
-  "en": "",
-  "status": "new",
+  "en": "Assist type:",
+  "status": "done",
   "ptrs": [
    "0x123b8"
   ],
@@ -5130,8 +5130,8 @@
   "id": "r014af8",
   "kind": "string",
   "jp": "アーム",
-  "en": "",
-  "status": "new",
+  "en": "Arm",
+  "status": "done",
   "ptrs": [
    "0x123bc"
   ],
@@ -5141,8 +5141,8 @@
   "id": "r014b00",
   "kind": "string",
   "jp": "ロブスホッパー",
-  "en": "",
-  "status": "new",
+  "en": "Lobs Hopper",
+  "status": "done",
   "ptrs": [
    "0x12428"
   ],
@@ -5152,8 +5152,8 @@
   "id": "r014b10",
   "kind": "string",
   "jp": "ハントけいの",
-  "en": "",
-  "status": "new",
+  "en": "Hunt-type",
+  "status": "done",
   "ptrs": [
    "0x1242c"
   ],
@@ -5163,8 +5163,8 @@
   "id": "r014b20",
   "kind": "string",
   "jp": "ユーザーが好んで",
-  "en": "",
-  "status": "new",
+  "en": "users often",
+  "status": "done",
   "ptrs": [
    "0x12430"
   ],
@@ -5174,8 +5174,8 @@
   "id": "r014b34",
   "kind": "string",
   "jp": "使う事が多い",
-  "en": "",
-  "status": "new",
+  "en": "favor it",
+  "status": "done",
   "ptrs": [
    "0x12434"
   ],
@@ -5185,8 +5185,8 @@
   "id": "r014b44",
   "kind": "string",
   "jp": "ゴーストローブ",
-  "en": "",
-  "status": "new",
+  "en": "Ghost Robe",
+  "status": "done",
   "ptrs": [
    "0x124a0"
   ],
@@ -5196,8 +5196,8 @@
   "id": "r014b54",
   "kind": "string",
   "jp": "すがたが消える",
-  "en": "",
-  "status": "new",
+  "en": "You vanish:",
+  "status": "done",
   "ptrs": [
    "0x124a4"
   ],
@@ -5207,8 +5207,8 @@
   "id": "r014b64",
   "kind": "string",
   "jp": "すごいアームだが",
-  "en": "",
-  "status": "new",
+  "en": "an amazing Arm",
+  "status": "done",
   "ptrs": [
    "0x124a8"
   ],
@@ -5218,8 +5218,8 @@
   "id": "r014b78",
   "kind": "string",
   "jp": "消ひＡＰが多い",
-  "en": "",
-  "status": "new",
+  "en": "but eats AP",
+  "status": "done",
   "ptrs": [
    "0x124ac"
   ],
@@ -5229,8 +5229,8 @@
   "id": "r014b88",
   "kind": "string",
   "jp": "ミラージュローブ",
-  "en": "",
-  "status": "new",
+  "en": "Mirage Robe",
+  "status": "done",
   "ptrs": [
    "0x12518"
   ],
@@ -5240,8 +5240,8 @@
   "id": "r014b9c",
   "kind": "string",
   "jp": "最新モデルで",
-  "en": "",
-  "status": "new",
+  "en": "New model,",
+  "status": "done",
   "ptrs": [
    "0x1251c"
   ],
@@ -5251,8 +5251,8 @@
   "id": "r014bac",
   "kind": "string",
   "jp": "消ひＡＰも少ない",
-  "en": "",
-  "status": "new",
+  "en": "uses less AP,",
+  "status": "done",
   "ptrs": [
    "0x12520"
   ],
@@ -5262,8 +5262,8 @@
   "id": "r014bc0",
   "kind": "string",
   "jp": "ぶんＶＰも高い",
-  "en": "",
-  "status": "new",
+  "en": "but more VP",
+  "status": "done",
   "ptrs": [
    "0x12524"
   ],
@@ -5273,8 +5273,8 @@
   "id": "r014bd0",
   "kind": "string",
   "jp": "ノイズリスト",
-  "en": "",
-  "status": "new",
+  "en": "Noise Wrist",
+  "status": "done",
   "ptrs": [
    "0x12590"
   ],
@@ -5284,8 +5284,8 @@
   "id": "r014be0",
   "kind": "string",
   "jp": "使われるとイヤラ",
-  "en": "",
-  "status": "new",
+  "en": "Most-hated",
+  "status": "done",
   "ptrs": [
    "0x12594"
   ],
@@ -5295,8 +5295,8 @@
   "id": "r014bf4",
   "kind": "string",
   "jp": "ンキング２年連ぞ",
-  "en": "",
-  "status": "new",
+  "en": "ranking No. 1",
+  "status": "done",
   "ptrs": [
    "0x12598"
   ],
@@ -5306,8 +5306,8 @@
   "id": "r014c08",
   "kind": "string",
   "jp": "く１位のアーム",
-  "en": "",
-  "status": "new",
+  "en": "Arm, 2 years",
+  "status": "done",
   "ptrs": [
    "0x1259c"
   ],
@@ -5317,8 +5317,8 @@
   "id": "r014c18",
   "kind": "string",
   "jp": "ジャミングリスト",
-  "en": "",
-  "status": "new",
+  "en": "Jamming Wrist",
+  "status": "done",
   "ptrs": [
    "0x12608"
   ],
@@ -5328,8 +5328,8 @@
   "id": "r014c2c",
   "kind": "string",
   "jp": "ノイズリストを",
-  "en": "",
-  "status": "new",
+  "en": "A Noise Wrist",
+  "status": "done",
   "ptrs": [
    "0x1260c"
   ],
@@ -5339,8 +5339,8 @@
   "id": "r014c3c",
   "kind": "string",
   "jp": "強化した最強？の",
-  "en": "",
-  "status": "new",
+  "en": "upgrade: best?",
+  "status": "done",
   "ptrs": [
    "0x12610"
   ],
@@ -5350,8 +5350,8 @@
   "id": "r014c50",
   "kind": "string",
   "jp": "オジャマアーム",
-  "en": "",
-  "status": "new",
+  "en": "nuisance Arm",
+  "status": "done",
   "ptrs": [
    "0x12614"
   ],
@@ -5361,8 +5361,8 @@
   "id": "r014c60",
   "kind": "string",
   "jp": "スニッピーバッジ",
-  "en": "",
-  "status": "new",
+  "en": "Snippy Badge",
+  "status": "done",
   "ptrs": [
    "0x12680"
   ],
@@ -5372,8 +5372,8 @@
   "id": "r014c74",
   "kind": "string",
   "jp": "とにかく相手を",
-  "en": "",
-  "status": "new",
+  "en": "When you just",
+  "status": "done",
   "ptrs": [
    "0x12684"
   ],
@@ -5383,8 +5383,8 @@
   "id": "r014c84",
   "kind": "string",
   "jp": "からかいたい時に",
-  "en": "",
-  "status": "new",
+  "en": "want to tease",
+  "status": "done",
   "ptrs": [
    "0x12688"
   ],
@@ -5394,8 +5394,8 @@
   "id": "r014c98",
   "kind": "string",
   "jp": "使うアーム",
-  "en": "",
-  "status": "new",
+  "en": "foes: Arm",
+  "status": "done",
   "ptrs": [
    "0x1268c"
   ],
@@ -5405,8 +5405,8 @@
   "id": "r014ca4",
   "kind": "string",
   "jp": "デビリィバッジ",
-  "en": "",
-  "status": "new",
+  "en": "Devily Badge",
+  "status": "done",
   "ptrs": [
    "0x126f8"
   ],
@@ -5416,8 +5416,8 @@
   "id": "r014cb4",
   "kind": "string",
   "jp": "相手にせいしん",
-  "en": "",
-  "status": "new",
+  "en": "Deals mental",
+  "status": "done",
   "ptrs": [
    "0x126fc"
   ],
@@ -5427,8 +5427,8 @@
   "id": "r014cc4",
   "kind": "string",
   "jp": "てきダメージ？を",
-  "en": "",
-  "status": "new",
+  "en": "damage(?) to",
+  "status": "done",
   "ptrs": [
    "0x12700"
   ],
@@ -5438,8 +5438,8 @@
   "id": "r014cd8",
   "kind": "string",
   "jp": "あたえるアーム",
-  "en": "",
-  "status": "new",
+  "en": "foes: an Arm",
+  "status": "done",
   "ptrs": [
    "0x12704"
   ],
@@ -5449,8 +5449,8 @@
   "id": "r014ce8",
   "kind": "string",
   "jp": "リーブレード",
-  "en": "",
-  "status": "new",
+  "en": "Reeveblade",
+  "status": "done",
   "ptrs": [
    "0x12770"
   ],
@@ -5460,8 +5460,8 @@
   "id": "r014cf8",
   "kind": "string",
   "jp": "初心者のための",
-  "en": "",
-  "status": "new",
+  "en": "A beginner's",
+  "status": "done",
   "ptrs": [
    "0x12774"
   ],
@@ -5471,8 +5471,8 @@
   "id": "r014d08",
   "kind": "string",
   "jp": "アームでだれでも",
-  "en": "",
-  "status": "new",
+  "en": "Arm: anyone",
+  "status": "done",
   "ptrs": [
    "0x12778"
   ],
@@ -5482,8 +5482,8 @@
   "id": "r014d1c",
   "kind": "string",
   "jp": "セットができる",
-  "en": "",
-  "status": "new",
+  "en": "can set it",
+  "status": "done",
   "ptrs": [
    "0x1277c"
   ],
@@ -5493,8 +5493,8 @@
   "id": "r014d2c",
   "kind": "string",
   "jp": "リーグレイブ",
-  "en": "",
-  "status": "new",
+  "en": "Reeveglaive",
+  "status": "done",
   "ptrs": [
    "0x127e8"
   ],
@@ -5504,8 +5504,8 @@
   "id": "r014d3c",
   "kind": "string",
   "jp": "ストライクけい",
-  "en": "",
-  "status": "new",
+  "en": "Strike-type",
+  "status": "done",
   "ptrs": [
    "0x127ec"
   ],
@@ -5515,8 +5515,8 @@
   "id": "r014d4c",
   "kind": "string",
   "jp": "練習用のヤリがた",
-  "en": "",
-  "status": "new",
+  "en": "practice spear",
+  "status": "done",
   "ptrs": [
    "0x127f0"
   ],
@@ -5526,8 +5526,8 @@
   "id": "r014d60",
   "kind": "string",
   "jp": "アーム",
-  "en": "",
-  "status": "new",
+  "en": "Arm",
+  "status": "done",
   "ptrs": [
    "0x127f4"
   ],
@@ -5537,8 +5537,8 @@
   "id": "r014d68",
   "kind": "string",
   "jp": "リーブラスター",
-  "en": "",
-  "status": "new",
+  "en": "Reeveblaster",
+  "status": "done",
   "ptrs": [
    "0x12860"
   ],
@@ -5548,8 +5548,8 @@
   "id": "r014d78",
   "kind": "string",
   "jp": "ハントけい練習用",
-  "en": "",
-  "status": "new",
+  "en": "Hunt practice",
+  "status": "done",
   "ptrs": [
    "0x12864"
   ],
@@ -5559,8 +5559,8 @@
   "id": "r014d8c",
   "kind": "string",
   "jp": "のアーム　遠くの",
-  "en": "",
-  "status": "new",
+  "en": "Arm: use it on",
+  "status": "done",
   "ptrs": [
    "0x12868"
   ],
@@ -5570,8 +5570,8 @@
   "id": "r014da0",
   "kind": "string",
   "jp": "相手に使おう",
-  "en": "",
-  "status": "new",
+  "en": "far-off foes",
+  "status": "done",
   "ptrs": [
    "0x1286c"
   ],
@@ -5581,8 +5581,8 @@
   "id": "r014db0",
   "kind": "string",
   "jp": "リーバウンダー",
-  "en": "",
-  "status": "new",
+  "en": "Reebounder",
+  "status": "done",
   "ptrs": [
    "0x128d8"
   ],
@@ -5592,8 +5592,8 @@
   "id": "r014dc0",
   "kind": "string",
   "jp": "バウンダーの使い",
-  "en": "",
-  "status": "new",
+  "en": "Learn Bounder",
+  "status": "done",
   "ptrs": [
    "0x128dc"
   ],
@@ -5603,8 +5603,8 @@
   "id": "r014dd4",
   "kind": "string",
   "jp": "方をおぼえるには",
-  "en": "",
-  "status": "new",
+  "en": "basics with it:",
+  "status": "done",
   "ptrs": [
    "0x128e0"
   ],
@@ -5614,8 +5614,8 @@
   "id": "r014de8",
   "kind": "string",
   "jp": "ピッタリ",
-  "en": "",
-  "status": "new",
+  "en": "ideal",
+  "status": "done",
   "ptrs": [
    "0x128e4"
   ],
@@ -5625,8 +5625,8 @@
   "id": "r014df4",
   "kind": "string",
   "jp": "ユバシリトキテツ",
-  "en": "",
-  "status": "new",
+  "en": "Yubashiri&Kitetsu",
+  "status": "done",
   "ptrs": [
    "0x12950"
   ],
@@ -5636,8 +5636,8 @@
   "id": "r014e08",
   "kind": "string",
   "jp": "どちらも「業物」",
-  "en": "",
-  "status": "new",
+  "en": "Both rated",
+  "status": "done",
   "ptrs": [
    "0x12954"
   ],
@@ -5647,8 +5647,8 @@
   "id": "r014e1c",
   "kind": "string",
   "jp": "と言われる",
-  "en": "",
-  "status": "new",
+  "en": "top grade:",
+  "status": "done",
   "ptrs": [
    "0x12958"
   ],
@@ -5658,8 +5658,8 @@
   "id": "r014e28",
   "kind": "string",
   "jp": "すごい刀",
-  "en": "",
-  "status": "new",
+  "en": "swords",
+  "status": "done",
   "ptrs": [
    "0x1295c"
   ],
@@ -5669,8 +5669,8 @@
   "id": "r014e34",
   "kind": "string",
   "jp": "ワドウイチモンジ",
-  "en": "",
-  "status": "new",
+  "en": "Wado Ichimonji",
+  "status": "done",
   "ptrs": [
    "0x129c8"
   ],
@@ -5680,8 +5680,8 @@
   "id": "r014e48",
   "kind": "string",
   "jp": "世界で２１本のみ",
-  "en": "",
-  "status": "new",
+  "en": "One of only 21",
+  "status": "done",
   "ptrs": [
    "0x129cc"
   ],
@@ -5691,8 +5691,8 @@
   "id": "r014e5c",
   "kind": "string",
   "jp": "と言われる名刀",
-  "en": "",
-  "status": "new",
+  "en": "great swords;",
+  "status": "done",
   "ptrs": [
    "0x129d0"
   ],
@@ -5702,8 +5702,8 @@
   "id": "r014e6c",
   "kind": "string",
   "jp": "形見の刀でもある",
-  "en": "",
-  "status": "new",
+  "en": "and a keepsake",
+  "status": "done",
   "ptrs": [
    "0x129d4"
   ],
@@ -5713,8 +5713,8 @@
   "id": "r014e80",
   "kind": "string",
   "jp": "エクセリオンＢ",
-  "en": "",
-  "status": "new",
+  "en": "Excelion B",
+  "status": "done",
   "ptrs": [
    "0x12a40"
   ],
@@ -5724,8 +5724,8 @@
   "id": "r014e90",
   "kind": "string",
   "jp": "ツバサをまとった",
-  "en": "",
-  "status": "new",
+  "en": "A winged",
+  "status": "done",
   "ptrs": [
    "0x12a44"
   ],
@@ -5735,8 +5735,8 @@
   "id": "r014ea4",
   "kind": "string",
   "jp": "強力な剣のサイガ",
-  "en": "",
-  "status": "new",
+  "en": "sword Saiga",
+  "status": "done",
   "ptrs": [
    "0x12a48"
   ],
