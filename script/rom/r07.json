@@ -990,18 +990,18 @@
   "id": "r075e38",
   "kind": "string",
   "jp": "お",
-  "en": "Qu",
+  "en": "Th",
   "status": "done",
   "ptrs": [
    "0x387fc"
   ],
-  "notes": ""
+  "notes": "おしまい end card after the credits: one 12 px cell per string on a 16 px pitch, so Th|e |En|d reads 'The End' (was 'Qu it! !', phase 8)"
  },
  {
   "id": "r075e3c",
   "kind": "string",
   "jp": "し",
-  "en": "it",
+  "en": "e ",
   "status": "done",
   "ptrs": [
    "0x38838"
@@ -1012,7 +1012,7 @@
   "id": "r075e40",
   "kind": "string",
   "jp": "ま",
-  "en": "!",
+  "en": "En",
   "status": "done",
   "ptrs": [
    "0x38874"
@@ -1023,7 +1023,7 @@
   "id": "r075e44",
   "kind": "string",
   "jp": "い",
-  "en": "!",
+  "en": "d",
   "status": "done",
   "ptrs": [
    "0x388b0"
