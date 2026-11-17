@@ -19,6 +19,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import archive  # noqa: E402
 import font  # noqa: E402
+import namegrid  # noqa: E402
 import romdiff  # noqa: E402
 import romtext  # noqa: E402
 import tagfont  # noqa: E402
@@ -56,6 +57,8 @@ def region_errors(orig, log):
                 ok = lo <= a and b <= lo + 8
         elif what.startswith("tagfont:"):
             ok = (a, b) in tagfont.regions()
+        elif what.startswith("namegrid:"):
+            ok = (a, b) in namegrid.regions()
         elif what.startswith("font:"):
             ok = ((a, b) == (font.NEW_WIDTHS, font.NEW_WIDTHS + 0x10000) or (a in lits and b == a + 4)
                   or (GLYPHS[0] <= a and b <= GLYPHS[1]))

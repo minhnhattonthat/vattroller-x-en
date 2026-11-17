@@ -21,6 +21,7 @@ ARROW_W = 4                    # columns of the ▶ kept from the original first
 # (first tile, tile count, English); every run is one row of 8x8 tiles laid side by side by its sprites
 LABELS = [
     (4, 4, "OK"),              # ▶けってい   (A: confirm)
+    (99, 4, "OK"),             # ▶けってい   (START: confirm, creation screens; same art as 4-7)
     (36, 3, "Back"),           # ▶もどる     (B: back)
     (64, 4, "Check"),          # ▶かくにん   (SELECT: check)
     (76, 7, "Back to title"),  # ▶タイトルにもどる
@@ -67,6 +68,56 @@ def render_label(orig, first, count, text, glyphs):
     return px
 
 
+# #431 (raw 4bpp, 192 tiles, OBJ sheet of the creation-confirm / status screens): boxed labels, each a run of
+# tiles with a 2 px border (colour 4) at the run's left and right ends, background 2, ink d with shadow 1
+# right/below. (first tile, tile count, English); English centred, 3 px font3 letters (advance 4).
+SHEET_431 = 431
+BOXES_431 = [
+    (33, 7, "Character"),      # キャラクター
+    (40, 7, "Armalet"),        # アーマレット
+    (47, 7, "Fav. Word"),      # すきなことば (glossary: "Fav. Word")
+]
+BOX_BG, BOX_BORDER, BOX_INK, BOX_SHADOW = 2, 4, 0xD, 1
+
+
+def render_box(orig, first, count, text, glyphs):
+    w = 8 * count
+    px = [[BOX_BG] * w for _ in range(8)]
+    l, r = tile_px(orig, first), tile_px(orig, first + count - 1)
+    for y in range(8):                          # keep the borders (and their corner shading) as drawn
+        px[y][0:2] = l[y][0:2]
+        px[y][w - 2:w] = r[y][6:8]
+    width = sum(2 if ch == " " else 4 for ch in text) - 1
+    x = (w - width) // 2
+    ink = [[False] * w for _ in range(8)]
+    for ch in text:
+        if ch == " ":
+            x += 2
+            continue
+        for gy, row in enumerate(glyphs[ch]):
+            for gx, c in enumerate(row):
+                if c == "#":
+                    ink[1 + gy][x + gx] = True
+        x += 4
+    for y in range(8):
+        for xx in range(2, w - 2):
+            if ink[y][xx]:
+                px[y][xx] = BOX_INK
+            elif (xx > 0 and ink[y][xx - 1]) or (y > 0 and ink[y - 1][xx]) or (y > 0 and xx > 0 and ink[y - 1][xx - 1]):
+                px[y][xx] = BOX_SHADOW
+    return px
+
+
+def sheet_431(orig):
+    glyphs = tagfont.load_font3()
+    out = bytearray(orig)
+    for first, count, text in BOXES_431:
+        px = render_box(orig, first, count, text, glyphs)
+        for k in range(count):
+            put_tile(out, first + k, [row[k * 8:k * 8 + 8] for row in px])
+    return bytes(out)
+
+
 def sheet_446(orig):
     glyphs = tagfont.load_font3()
     out = bytearray(orig)
@@ -79,9 +130,9 @@ def sheet_446(orig):
 
 def files(ar):
     """{archive file index: new bytes} for every redrawn graphics file."""
-    orig = ar.file(SHEET)
-    assert archive.unpack(orig)[1] == "raw"
-    return {SHEET: sheet_446(orig)}
+    orig, o431 = ar.file(SHEET), ar.file(SHEET_431)
+    assert archive.unpack(orig)[1] == "raw" and archive.unpack(o431)[1] == "raw"
+    return {SHEET: sheet_446(orig), SHEET_431: sheet_431(o431)}
 
 
 def preview(path):

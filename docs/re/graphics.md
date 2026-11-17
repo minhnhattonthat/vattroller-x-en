@@ -10,8 +10,9 @@ build (phase 5) and every mid-game card reached with the debug tool (phase 2). A
 
 | # | Element | Source | Seen where | State |
 |---|---|---|---|---|
+| G1a | Creation-confirm boxed labels キャラクター / アーマレット / すきなことば (#431 tiles 33-39, 40-46, 47-53) | archive #431 | create_confirm | **done** 2026-11-17 (`gfx.BOXES_431`): Character / Armalet / Fav. Word, verified f2520; also START "▶けってい" = #446 tiles 99-102 → "OK" |
 | G1 | Status menu labels: キャラクター, アームレット, すきなことば, せつめい, アイトウタ?, ヒトガタ, ロール, チャージ, スマッシュ, アタック, アーマレットサイズ, ガタ, ツッカエル | archive #431 (4bpp, 0x1800) | sweep page 1 | to redraw |
-| G2 | Name-entry keyboard: kana grid, カタカナ / ABC toggles, END | archive #432 (0x6580) | sweep page 1 | to redraw (kana grid becomes A-Z) |
+| G2 | Name-entry keyboard: kana grid, カタカナ / ABC toggles, END | archive #432 (0x6580) tiles + #893 BG2 map (32x64, 16-byte header; pages at map rows 5/25/45) + code-row pointer table ROM 0xEEC4C | sweep page 1 | **done** 2026-11-17 (`tools/namegrid.py`, D13): pages abc / !? / ABC, tabs and DEL redrawn; verified `create_word` + `tools/lua/pages.lua` (R switches pages) |
 | G3 | Menu/shop UI labels: ねだん, そうび, しなもの, なまえ, きりかえ, プレイヤー, ダウン, セレクト/スタート hints (ＰＡＧＥ, SELECT, タイトルにもどる), もっている, NEW | archive #446 (0x5000) | sweep page 1, zoom | to redraw |
 | G4 | Single kanji tiles (一二三, 刀, 法, 術, 日, 川, 八 ...; likely attribute or day icons) | archive #472 (0x400) | sweep page 2, zoom | identify in game, redraw |
 | G5 | Small labels in #433 (icons with tiny text) and #442 (digits/labels) | archive #433, #442 | sweep page 1 | check zoomed |

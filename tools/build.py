@@ -21,6 +21,7 @@ import check_rom  # noqa: E402
 import events  # noqa: E402
 import font  # noqa: E402
 import gfx  # noqa: E402
+import namegrid  # noqa: E402
 import romtext  # noqa: E402
 import tagfont  # noqa: E402
 import text  # noqa: E402
@@ -91,11 +92,13 @@ def build(rom, marker=False, identity=False):
     if identity:
         return archive.write_files(rom, files)
     files.update(gfx.files(ar))
+    files.update(namegrid.files(ar, rom))
     out, log = archive.write_files(rom, files, free=EVENTS_FREE)
     font.patch(out, log, ar.offset(font.FONT_FILE))
     rom_rows = [x for rel, rs in rows.items() if rel.startswith("rom/") for x in rs]
     romtext.apply(out, log, rom_rows, enc)
     tagfont.patch(out, log)
+    namegrid.patch(out, log, rom)
     return out, log
 
 
