@@ -589,15 +589,15 @@
  },
  {
   "id": "r0741c8",
-  "kind": "string",
+  "kind": "data",
   "jp": "　",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0xee50c",
    "0xee514"
   ],
-  "notes": ""
+  "notes": "fullwidth-space blank/padding used by code, not text; keep as is"
  },
  {
   "id": "r0741cc",
@@ -964,27 +964,27 @@
  },
  {
   "id": "r074570",
-  "kind": "string",
+  "kind": "data",
   "jp": "ＶａｔｔｒｏｌｌｅｒＸ",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0x38608",
    "0x38afc",
    "0x38b5c"
   ],
-  "notes": ""
+  "notes": "credits table base (code adds index*0x2C; literals 0x38608 0x38AFC 0x38B5C): the text is credit c074570, written in place; repointing it broke the credits (marker tour)"
  },
  {
   "id": "r075e34",
-  "kind": "string",
+  "kind": "data",
   "jp": "　",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0x385fc"
   ],
-  "notes": ""
+  "notes": "fullwidth-space blank/padding used by code, not text; keep as is"
  },
  {
   "id": "r075e38",
@@ -1297,16 +1297,16 @@
  },
  {
   "id": "r075ff0",
-  "kind": "string",
+  "kind": "data",
   "jp": "　",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0xee578",
    "0xee588",
    "0xee5d4"
   ],
-  "notes": ""
+  "notes": "fullwidth-space blank/padding used by code, not text; keep as is"
  },
  {
   "id": "r075ff4",
@@ -1699,15 +1699,15 @@
  },
  {
   "id": "r076354",
-  "kind": "string",
+  "kind": "data",
   "jp": "　",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0xee610",
    "0xee618"
   ],
-  "notes": ""
+  "notes": "fullwidth-space blank/padding used by code, not text; keep as is"
  },
  {
   "id": "r076358",
@@ -2052,14 +2052,14 @@
  },
  {
   "id": "r076630",
-  "kind": "string",
+  "kind": "data",
   "jp": "　　　　　　",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0xeea94"
   ],
-  "notes": ""
+  "notes": "fullwidth-space blank/padding used by code, not text; keep as is"
  },
  {
   "id": "r076640",
@@ -3073,14 +3073,14 @@
  },
  {
   "id": "r076b60",
-  "kind": "string",
+  "kind": "data",
   "jp": "　",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0xef200"
   ],
-  "notes": ""
+  "notes": "fullwidth-space blank/padding used by code, not text; keep as is"
  },
  {
   "id": "r076b64",
@@ -3699,7 +3699,9 @@
   "ptrs": [
    "0xeec60"
   ],
-  "notes": ""
+  "wide": true,
+  "max": 14,
+  "notes": "name-entry grid row: exactly 14 characters (cells), fullwidth in game"
  },
  {
   "id": "r077738",
@@ -3710,7 +3712,9 @@
   "ptrs": [
    "0xeec5c"
   ],
-  "notes": ""
+  "wide": true,
+  "max": 14,
+  "notes": "name-entry grid row: exactly 14 characters (cells), fullwidth in game"
  },
  {
   "id": "r077758",
@@ -3721,7 +3725,9 @@
   "ptrs": [
    "0xeec58"
   ],
-  "notes": ""
+  "wide": true,
+  "max": 14,
+  "notes": "name-entry grid row: exactly 14 characters (cells), fullwidth in game"
  },
  {
   "id": "r077778",
@@ -3732,7 +3738,9 @@
   "ptrs": [
    "0xeec54"
   ],
-  "notes": ""
+  "wide": true,
+  "max": 14,
+  "notes": "name-entry grid row: exactly 14 characters (cells), fullwidth in game"
  },
  {
   "id": "r077798",
@@ -3743,14 +3751,16 @@
   "ptrs": [
    "0xeec50"
   ],
-  "notes": ""
+  "wide": true,
+  "max": 14,
+  "notes": "name-entry grid row: exactly 14 characters (cells), fullwidth in game"
  },
  {
   "id": "r0777b8",
-  "kind": "string",
+  "kind": "data",
   "jp": "　　　　　　　　　　　　　　",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0xeec4c",
    "0xeec64",
@@ -3759,7 +3769,7 @@
    "0xeec84",
    "0xeec9c"
   ],
-  "notes": ""
+  "notes": "fullwidth-space blank/padding used by code, not text; keep as is"
  },
  {
   "id": "r0777d8",
@@ -3770,7 +3780,9 @@
   "ptrs": [
    "0xeec7c"
   ],
-  "notes": ""
+  "wide": true,
+  "max": 14,
+  "notes": "name-entry grid row: exactly 14 characters (cells), fullwidth in game"
  },
  {
   "id": "r0777f8",
@@ -3781,7 +3793,9 @@
   "ptrs": [
    "0xeec78"
   ],
-  "notes": ""
+  "wide": true,
+  "max": 14,
+  "notes": "name-entry grid row: exactly 14 characters (cells), fullwidth in game"
  },
  {
   "id": "r077818",
@@ -3792,7 +3806,9 @@
   "ptrs": [
    "0xeec74"
   ],
-  "notes": ""
+  "wide": true,
+  "max": 14,
+  "notes": "name-entry grid row: exactly 14 characters (cells), fullwidth in game"
  },
  {
   "id": "r077838",
@@ -3803,7 +3819,9 @@
   "ptrs": [
    "0xeec70"
   ],
-  "notes": ""
+  "wide": true,
+  "max": 14,
+  "notes": "name-entry grid row: exactly 14 characters (cells), fullwidth in game"
  },
  {
   "id": "r077858",
@@ -3814,7 +3832,9 @@
   "ptrs": [
    "0xeec6c"
   ],
-  "notes": ""
+  "wide": true,
+  "max": 14,
+  "notes": "name-entry grid row: exactly 14 characters (cells), fullwidth in game"
  },
  {
   "id": "r077878",
@@ -3825,7 +3845,9 @@
   "ptrs": [
    "0xeec98"
   ],
-  "notes": ""
+  "wide": true,
+  "max": 14,
+  "notes": "name-entry grid row: exactly 14 characters (cells), fullwidth in game"
  },
  {
   "id": "r077898",
@@ -3836,7 +3858,9 @@
   "ptrs": [
    "0xeec94"
   ],
-  "notes": ""
+  "wide": true,
+  "max": 14,
+  "notes": "name-entry grid row: exactly 14 characters (cells), fullwidth in game"
  },
  {
   "id": "r0778b8",
@@ -3847,7 +3871,9 @@
   "ptrs": [
    "0xeec90"
   ],
-  "notes": ""
+  "wide": true,
+  "max": 14,
+  "notes": "name-entry grid row: exactly 14 characters (cells), fullwidth in game"
  },
  {
   "id": "r0778d8",
@@ -3858,7 +3884,9 @@
   "ptrs": [
    "0xeec8c"
   ],
-  "notes": ""
+  "wide": true,
+  "max": 14,
+  "notes": "name-entry grid row: exactly 14 characters (cells), fullwidth in game"
  },
  {
   "id": "r0778f8",
@@ -3869,7 +3897,9 @@
   "ptrs": [
    "0xeec88"
   ],
-  "notes": ""
+  "wide": true,
+  "max": 14,
+  "notes": "name-entry grid row: exactly 14 characters (cells), fullwidth in game"
  },
  {
   "id": "r07791c",
@@ -4324,91 +4354,91 @@
  },
  {
   "id": "r077a64",
-  "kind": "string",
+  "kind": "data",
   "jp": "　　　　　　　　",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0xeed64"
   ],
-  "notes": ""
+  "notes": "fullwidth-space blank/padding used by code, not text; keep as is"
  },
  {
   "id": "r077a78",
-  "kind": "string",
+  "kind": "data",
   "jp": "　　　　　　　",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0xeed60"
   ],
-  "notes": ""
+  "notes": "fullwidth-space blank/padding used by code, not text; keep as is"
  },
  {
   "id": "r077a88",
-  "kind": "string",
+  "kind": "data",
   "jp": "　　　　　　",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0xeed5c"
   ],
-  "notes": ""
+  "notes": "fullwidth-space blank/padding used by code, not text; keep as is"
  },
  {
   "id": "r077a98",
-  "kind": "string",
+  "kind": "data",
   "jp": "　　　　　",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0xeed58"
   ],
-  "notes": ""
+  "notes": "fullwidth-space blank/padding used by code, not text; keep as is"
  },
  {
   "id": "r077aa4",
-  "kind": "string",
+  "kind": "data",
   "jp": "　　　　",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0xeed54"
   ],
-  "notes": ""
+  "notes": "fullwidth-space blank/padding used by code, not text; keep as is"
  },
  {
   "id": "r077ab0",
-  "kind": "string",
+  "kind": "data",
   "jp": "　　　",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0xeed50"
   ],
-  "notes": ""
+  "notes": "fullwidth-space blank/padding used by code, not text; keep as is"
  },
  {
   "id": "r077ab8",
-  "kind": "string",
+  "kind": "data",
   "jp": "　　",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0xeed4c"
   ],
-  "notes": ""
+  "notes": "fullwidth-space blank/padding used by code, not text; keep as is"
  },
  {
   "id": "r077ac0",
-  "kind": "string",
+  "kind": "data",
   "jp": "　",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0xeed48"
   ],
-  "notes": ""
+  "notes": "fullwidth-space blank/padding used by code, not text; keep as is"
  },
  {
   "id": "r077ac4",
@@ -4419,7 +4449,9 @@
   "ptrs": [
    "0xeed7c"
   ],
-  "notes": ""
+  "wide": true,
+  "max": 6,
+  "notes": "default player/rival name: fullwidth, name field 6 slots (create_name)"
  },
  {
   "id": "r077acc",
@@ -4430,7 +4462,9 @@
   "ptrs": [
    "0xeed78"
   ],
-  "notes": ""
+  "wide": true,
+  "max": 6,
+  "notes": "default player/rival name: fullwidth, name field 6 slots (create_name)"
  },
  {
   "id": "r077ad4",
@@ -4441,7 +4475,9 @@
   "ptrs": [
    "0xeed74"
   ],
-  "notes": ""
+  "wide": true,
+  "max": 6,
+  "notes": "default player/rival name: fullwidth, name field 6 slots (create_name)"
  },
  {
   "id": "r077adc",
@@ -4452,7 +4488,9 @@
   "ptrs": [
    "0xeed70"
   ],
-  "notes": ""
+  "wide": true,
+  "max": 6,
+  "notes": "default player/rival name: fullwidth, name field 6 slots (create_name)"
  },
  {
   "id": "r077ae8",
@@ -4463,7 +4501,9 @@
   "ptrs": [
    "0xeed6c"
   ],
-  "notes": ""
+  "wide": true,
+  "max": 6,
+  "notes": "default player/rival name: fullwidth, name field 6 slots (create_name)"
  },
  {
   "id": "r077af0",
@@ -4474,7 +4514,9 @@
   "ptrs": [
    "0xeed90"
   ],
-  "notes": ""
+  "wide": true,
+  "max": 8,
+  "notes": "default phrase in the names/words table: fullwidth; 8 = JP length, a guess until seen"
  },
  {
   "id": "r077afc",
@@ -4485,7 +4527,9 @@
   "ptrs": [
    "0xeed8c"
   ],
-  "notes": ""
+  "wide": true,
+  "max": 8,
+  "notes": "default phrase in the names/words table: fullwidth; 8 = JP length, a guess until seen"
  },
  {
   "id": "r077b10",
@@ -4496,7 +4540,9 @@
   "ptrs": [
    "0xeed88"
   ],
-  "notes": ""
+  "wide": true,
+  "max": 8,
+  "notes": "default phrase in the names/words table: fullwidth; 8 = JP length, a guess until seen"
  },
  {
   "id": "r077b18",
@@ -4507,7 +4553,9 @@
   "ptrs": [
    "0xeed84"
   ],
-  "notes": ""
+  "wide": true,
+  "max": 8,
+  "notes": "default phrase in the names/words table: fullwidth; 8 = JP length, a guess until seen"
  },
  {
   "id": "r077b24",
@@ -4518,7 +4566,9 @@
   "ptrs": [
    "0xeed80"
   ],
-  "notes": ""
+  "wide": true,
+  "max": 8,
+  "notes": "default phrase in the names/words table: fullwidth; 8 = JP length, a guess until seen"
  },
  {
   "id": "r077b30",
@@ -4529,7 +4579,9 @@
   "ptrs": [
    "0xeeda4"
   ],
-  "notes": ""
+  "wide": true,
+  "max": 8,
+  "notes": "default phrase in the names/words table: fullwidth; 8 = JP length, a guess until seen"
  },
  {
   "id": "r077b38",
@@ -4540,7 +4592,9 @@
   "ptrs": [
    "0xeeda0"
   ],
-  "notes": ""
+  "wide": true,
+  "max": 8,
+  "notes": "default phrase in the names/words table: fullwidth; 8 = JP length, a guess until seen"
  },
  {
   "id": "r077b40",
@@ -4551,7 +4605,9 @@
   "ptrs": [
    "0xeed9c"
   ],
-  "notes": ""
+  "wide": true,
+  "max": 8,
+  "notes": "default phrase in the names/words table: fullwidth; 8 = JP length, a guess until seen"
  },
  {
   "id": "r077b4c",
@@ -4562,7 +4618,9 @@
   "ptrs": [
    "0xeed98"
   ],
-  "notes": ""
+  "wide": true,
+  "max": 8,
+  "notes": "default phrase in the names/words table: fullwidth; 8 = JP length, a guess until seen"
  },
  {
   "id": "r077b54",
@@ -4575,7 +4633,9 @@
    "0xeedd4",
    "0xeeddc"
   ],
-  "notes": ""
+  "wide": true,
+  "max": 8,
+  "notes": "default phrase in the names/words table: fullwidth; 8 = JP length, a guess until seen"
  },
  {
   "id": "r077b60",
@@ -4586,7 +4646,9 @@
   "ptrs": [
    "0xeedb8"
   ],
-  "notes": ""
+  "wide": true,
+  "max": 4,
+  "notes": "default favourite word: fullwidth, word field 4 slots (create_word)"
  },
  {
   "id": "r077b68",
@@ -4597,7 +4659,9 @@
   "ptrs": [
    "0xeedb4"
   ],
-  "notes": ""
+  "wide": true,
+  "max": 4,
+  "notes": "default favourite word: fullwidth, word field 4 slots (create_word)"
  },
  {
   "id": "r077b70",
@@ -4608,7 +4672,9 @@
   "ptrs": [
    "0xeedb0"
   ],
-  "notes": ""
+  "wide": true,
+  "max": 4,
+  "notes": "default favourite word: fullwidth, word field 4 slots (create_word)"
  },
  {
   "id": "r077b78",
@@ -4619,7 +4685,9 @@
   "ptrs": [
    "0xeedac"
   ],
-  "notes": ""
+  "wide": true,
+  "max": 4,
+  "notes": "default favourite word: fullwidth, word field 4 slots (create_word)"
  },
  {
   "id": "r077b80",
@@ -4630,7 +4698,9 @@
   "ptrs": [
    "0xeeda8"
   ],
-  "notes": ""
+  "wide": true,
+  "max": 4,
+  "notes": "default favourite word: fullwidth, word field 4 slots (create_word)"
  },
  {
   "id": "r077b8c",
@@ -4641,7 +4711,9 @@
   "ptrs": [
    "0xeedc4"
   ],
-  "notes": ""
+  "wide": true,
+  "max": 6,
+  "notes": "default player/rival name: fullwidth, name field 6 slots (create_name)"
  },
  {
   "id": "r077b94",
@@ -4652,7 +4724,9 @@
   "ptrs": [
    "0xeedc0"
   ],
-  "notes": ""
+  "wide": true,
+  "max": 6,
+  "notes": "default player/rival name: fullwidth, name field 6 slots (create_name)"
  },
  {
   "id": "r077b9c",
@@ -4663,7 +4737,9 @@
   "ptrs": [
    "0xeedbc"
   ],
-  "notes": ""
+  "wide": true,
+  "max": 6,
+  "notes": "default player/rival name: fullwidth, name field 6 slots (create_name)"
  },
  {
   "id": "r077ba4",
@@ -4674,7 +4750,9 @@
   "ptrs": [
    "0xeedd0"
   ],
-  "notes": ""
+  "wide": true,
+  "max": 8,
+  "notes": "default phrase in the names/words table: fullwidth; 8 = JP length, a guess until seen"
  },
  {
   "id": "r077bb4",
@@ -4685,7 +4763,9 @@
   "ptrs": [
    "0xeedcc"
   ],
-  "notes": ""
+  "wide": true,
+  "max": 8,
+  "notes": "default phrase in the names/words table: fullwidth; 8 = JP length, a guess until seen"
  },
  {
   "id": "r077bc4",
@@ -4696,7 +4776,9 @@
   "ptrs": [
    "0xeedc8"
   ],
-  "notes": ""
+  "wide": true,
+  "max": 8,
+  "notes": "default phrase in the names/words table: fullwidth; 8 = JP length, a guess until seen"
  },
  {
   "id": "r077bd0",
@@ -4707,7 +4789,9 @@
   "ptrs": [
    "0xeedd8"
   ],
-  "notes": ""
+  "wide": true,
+  "max": 8,
+  "notes": "default phrase in the names/words table: fullwidth; 8 = JP length, a guess until seen"
  },
  {
   "id": "r077bdc",
@@ -4718,7 +4802,9 @@
   "ptrs": [
    "0xeede8"
   ],
-  "notes": ""
+  "wide": true,
+  "max": 4,
+  "notes": "default favourite word: fullwidth, word field 4 slots (create_word)"
  },
  {
   "id": "r077be4",
@@ -4729,7 +4815,9 @@
   "ptrs": [
    "0xeede4"
   ],
-  "notes": ""
+  "wide": true,
+  "max": 4,
+  "notes": "default favourite word: fullwidth, word field 4 slots (create_word)"
  },
  {
   "id": "r077bf0",
@@ -4740,7 +4828,9 @@
   "ptrs": [
    "0xeede0"
   ],
-  "notes": ""
+  "wide": true,
+  "max": 4,
+  "notes": "default favourite word: fullwidth, word field 4 slots (create_word)"
  },
  {
   "id": "r077bfc",
@@ -4920,14 +5010,14 @@
  },
  {
   "id": "r077df4",
-  "kind": "string",
+  "kind": "data",
   "jp": "　　　",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0x5445c"
   ],
-  "notes": ""
+  "notes": "fullwidth-space blank/padding used by code, not text; keep as is"
  },
  {
   "id": "r077dfc",

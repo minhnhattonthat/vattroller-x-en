@@ -166,6 +166,12 @@ def encode(s, sjis_encode):
     return bytes(out)
 
 
+def widen(s):
+    """ASCII -> fullwidth SJIS-able text (space -> U+3000), for rows the game reads as 2-byte codes in 8 px slots
+    (name-entry grid, default names and words: `"wide": true` in script/rom)."""
+    return "".join("　" if c == " " else chr(ord(c) + 0xFEE0) if "!" <= c <= "~" else c for c in s)
+
+
 def width_px(s):
     """Pixel width of an encoded English string (6 px per ASCII char, 12 per 2-byte char)."""
     n, w = 0, 0

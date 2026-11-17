@@ -1,14 +1,14 @@
 [
  {
   "id": "r0e1de0",
-  "kind": "string",
+  "kind": "data",
   "jp": "　",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0xe49c0"
   ],
-  "notes": ""
+  "notes": "fullwidth-space blank/padding used by code, not text; keep as is"
  },
  {
   "id": "r0e1e6c",

@@ -38,3 +38,19 @@ exactly). Code buffer limit 56 bytes per line is not reached by 36 chars.
   as fullwidth SJIS Latin (the original 8 px glyphs, 6 chars = 48 px), i.e. the name-entry grid offers fullwidth
   letters, and check the default names.
 - Box variants still to measure: lines per box, choices, comic titles, menus/list fields, credits, VS labels.
+
+### Name entry (marker tour 2026-11-17, second session)
+
+- The **visible grid is graphics** (kana still drawn in the marker build); the pointered rows at `0xEEC4C`
+  (21 rows of 14 codes: blank, hiragana ×5, blank, blank, katakana ×5, blank, blank, alphanumeric ×5, blank) only
+  give the code a cell enters. They and the default names/words (`0xEED68-0xEEDE8`) are now `"wide": true` rows
+  (`text.py WIDE/WIDE_IDS`): English in ASCII, the build writes fullwidth SJIS (`font.widen`), `max` in characters
+  (grid row 14, name 6, favourite word 4, phrases 8 = guess). The grid tiles need a graphics redraw (phase 8) to
+  match whatever English rows are chosen.
+- RAM name buffer after `rpg_start` on the marker build (`tools/lua/namebuf.lua` on `work/states/rpg_start.mss`):
+  `82 56` then `37 37 ...`: the first code came from the widened grid, the next ten bytes are ASCII `7`, so some
+  other non-wide source feeds the name (the warp's `a,start,a,down` clicking; candidates: the dakuten tables
+  r07791c-r077a5c, a default name read from elsewhere, or a code-built string). Find it before the name tag can be
+  judged.
+- Credits end "おしまい" = four one-code strings r075e38-r075e44, each drawn alone in a 16 px cell
+  (`0x08029260`, width 0x10): at most 2 ASCII chars per cell.

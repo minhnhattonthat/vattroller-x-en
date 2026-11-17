@@ -51,6 +51,8 @@ def marker_text(row, chars=36):
         n = chars
     elif row["kind"] == "choice":
         n = 18
+    elif row.get("wide"):
+        n = row["max"]
     else:
         n = max(len(m) - 1, len(text.encode(row["jp"])))
         if "max" in row:
@@ -65,6 +67,8 @@ def english_rows(marker):
         if r["kind"] == "data":
             continue
         s = marker_text(r) if marker else r.get(text.LANG)
+        if s and r.get("wide"):
+            s = font.widen(s)
         if s:
             out.setdefault(rel, []).append((r, s))
     return out

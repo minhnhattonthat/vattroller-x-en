@@ -174,9 +174,39 @@ DATA = [
     (0x007890, 0x007894, "bytes of the pointer 0x08008C90, not text"),
     (0x02FDF9, 0x02FDFC, "code bytes"),
     (0x048979, 0x04897D, "code bytes"),
+    (0x074570, 0x074571, "credits table base (code adds index*0x2C; literals 0x38608 0x38AFC 0x38B5C): the text is credit "
+                         "c074570, written in place; repointing it broke the credits (marker tour)"),
     (0x0E21D8, 0x0E21DA, "name marker ∴: the typer (0x080735C0) compares each text code with it, keep as is"),
     (0x0F1828, 0x0F182A, "name marker ∴ (second copy), keep as is"),
 ]
+
+
+# Strings of fullwidth spaces only: blank fills and right-align padding (credits panel clear r075e34, the 8..1-space
+# table r077a64-r077ac0, a blank RPG box line r0e1de0). A marker in them paints garbage (marker tour: credits,
+# ending3, rpg_coliseum), so they keep their 12 px blanks.
+BLANK = "fullwidth-space blank/padding used by code, not text; keep as is"
+
+
+# Strings the game copies code by code into an SJIS buffer drawn in 8 px slots (player name 6 codes, favourite word):
+# the name-entry grid rows (14 codes each, one scrolling list of 21 rows at 0xEEC4C) and the default names and
+# words (0xEED68-0xEEDE8). Their English is written in ASCII and turned into fullwidth SJIS by the build
+# (`"wide": true`); `max` is in characters.
+WIDE = [
+    (0x077718, 0x077918, 14, "name-entry grid row: exactly 14 characters (cells), fullwidth in game"),
+]
+WIDE_IDS = {
+    **dict.fromkeys((0x77AC4, 0x77ACC, 0x77AD4, 0x77ADC, 0x77AE8, 0x77B8C, 0x77B94, 0x77B9C),
+                    (6, "default player/rival name: fullwidth, name field 6 slots (create_name)")),
+    **dict.fromkeys((0x77B80, 0x77B78, 0x77B70, 0x77B68, 0x77B60, 0x77BF0, 0x77BE4, 0x77BDC),
+                    (4, "default favourite word: fullwidth, word field 4 slots (create_word)")),
+    **dict.fromkeys((0x77B24, 0x77B18, 0x77B10, 0x77AFC, 0x77AF0, 0x77B54, 0x77B4C, 0x77B40, 0x77B38, 0x77B30,
+                     0x77BC4, 0x77BB4, 0x77BA4, 0x77BD0),
+                    (8, "default phrase in the names/words table: fullwidth; 8 = JP length, a guess until seen")),
+}
+
+
+def wide_rule(t):
+    return WIDE_IDS.get(t) or next(((n, why) for a, b, n, why in WIDE if a <= t < b), None)
 
 
 def data_reason(t):
@@ -190,8 +220,12 @@ def rom_entries(d):
         if inside is not None:
             extra["inside"] = f"r{inside:06x}"
         why = data_reason(t)
+        if not why and set(decode(bytes(d[t:e]))) <= {"　"}:
+            why = BLANK
         if why:
             extra["notes"] = why
+        elif wide_rule(t):
+            extra["wide"], extra["max"], extra["notes"] = True, *wide_rule(t)
         out.append((f"r{t:06x}", "data" if why else "string", bytes(d[t:e]), extra))
     return out
 
