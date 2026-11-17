@@ -146,8 +146,10 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 | バトリーグさんかパス | Vattleague Pass | | key item | |
 
 ## Decisions from earlier batches
-- RPG mode (b016-b023): Minami and her brother are the Premium Gym twins (Takumi's ex-gym mates); the brother blames
-  his horoscope (Scorpio). Raiba is Komachi's big brother (she calls him "big brother"). Ikazuchi speaks Kansai
+- RPG mode (b016-b030): Minami and her brother Hokuto are the Premium Gym twins (Takumi's ex-gym mates); Hokuto blames
+  his horoscope (Scorpio, Cancer) and calls Komachi "Miss Komachi" / "little lady"; Minami laughs "Ohohoho".
+  Kodama = Komachi's cat. Suzuka writes bottle letters to Mars; Komachi's crush is "Shu-sama".
+  急がば転がれ (pun on 急がば回れ) = "Practice makes Roll-fect!". Ikazuchi's センチメートル malaprop = "centimental". Raiba is Komachi's big brother (she calls him "big brother"). Ikazuchi speaks Kansai
   dialect: casual drawl ("ain't", "ya", dropped g's). グローブ (the man) = Mr. Globe / President Globe, Globe Corp.
   president and the sleepy "...mnya" old man; laughs "Hyo hyo hyo".
 - Club Force naming joke (e2528): "Four, so Force?" / "what's with the 'ce'" / "English puts 's' on the end".
