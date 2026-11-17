@@ -12345,21 +12345,21 @@
  },
  {
   "id": "r01dba8",
-  "kind": "string",
+  "kind": "data",
   "jp": "１０ＬＥＧＳ",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0x1d6c0"
   ],
-  "notes": ""
+  "notes": "V Shop password (ＪｉｎＳＷＤ...): compared with what the player types in the fullwidth entry grid, keep the SJIS bytes"
  },
  {
   "id": "r01dbb8",
   "kind": "string",
   "jp": "テンタークスをＶショップで",
-  "en": "",
-  "status": "new",
+  "en": "Tentarks now sold",
+  "status": "done",
   "ptrs": [
    "0x1d6c4"
   ],
@@ -12369,8 +12369,8 @@
   "id": "r01dbd4",
   "kind": "string",
   "jp": "かえるようになった∇",
-  "en": "",
-  "status": "new",
+  "en": "at the V Shop!!",
+  "status": "done",
   "ptrs": [
    "0x1d6c8"
   ],
@@ -12378,21 +12378,21 @@
  },
  {
   "id": "r01dbec",
-  "kind": "string",
+  "kind": "data",
   "jp": "ＮｅｃＲｏｍ",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0x1d6d4"
   ],
-  "notes": ""
+  "notes": "V Shop password (ＪｉｎＳＷＤ...): compared with what the player types in the fullwidth entry grid, keep the SJIS bytes"
  },
  {
   "id": "r01dbfc",
   "kind": "string",
   "jp": "ネクロマーダーをＶショップで",
-  "en": "",
-  "status": "new",
+  "en": "Necromurder now sold",
+  "status": "done",
   "ptrs": [
    "0x1d6d8"
   ],
@@ -12402,8 +12402,8 @@
   "id": "r01dc1c",
   "kind": "string",
   "jp": "かえるようになった∇",
-  "en": "",
-  "status": "new",
+  "en": "at the V Shop!!",
+  "status": "done",
   "ptrs": [
    "0x1d6dc"
   ],
@@ -12411,21 +12411,21 @@
  },
  {
   "id": "r01dc34",
-  "kind": "string",
+  "kind": "data",
   "jp": "Ｔｉａｍａｔ",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0x1d6e8"
   ],
-  "notes": ""
+  "notes": "V Shop password (ＪｉｎＳＷＤ...): compared with what the player types in the fullwidth entry grid, keep the SJIS bytes"
  },
  {
   "id": "r01dc44",
   "kind": "string",
   "jp": "ディアマンダーをＶショップで",
-  "en": "",
-  "status": "new",
+  "en": "Diamander now sold",
+  "status": "done",
   "ptrs": [
    "0x1d6ec"
   ],
@@ -12435,8 +12435,8 @@
   "id": "r01dc64",
   "kind": "string",
   "jp": "かえるようになった∇",
-  "en": "",
-  "status": "new",
+  "en": "at the V Shop!!",
+  "status": "done",
   "ptrs": [
    "0x1d6f0"
   ],
@@ -12444,21 +12444,21 @@
  },
  {
   "id": "r01dc7c",
-  "kind": "string",
+  "kind": "data",
   "jp": "ＨｅｖｅｎＢ",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0x1d6fc"
   ],
-  "notes": ""
+  "notes": "V Shop password (ＪｉｎＳＷＤ...): compared with what the player types in the fullwidth entry grid, keep the SJIS bytes"
  },
  {
   "id": "r01dc8c",
   "kind": "string",
   "jp": "ヘブンブレイカーをＶショップで",
-  "en": "",
-  "status": "new",
+  "en": "Heaven Breaker now sold",
+  "status": "done",
   "ptrs": [
    "0x1d700"
   ],
@@ -12468,8 +12468,8 @@
   "id": "r01dcac",
   "kind": "string",
   "jp": "かえるようになった∇",
-  "en": "",
-  "status": "new",
+  "en": "at the V Shop!!",
+  "status": "done",
   "ptrs": [
    "0x1d704"
   ],
@@ -12477,21 +12477,21 @@
  },
  {
   "id": "r01dcc4",
-  "kind": "string",
+  "kind": "data",
   "jp": "ＹｕｂＫｉｔ",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0x1d710"
   ],
-  "notes": ""
+  "notes": "V Shop password (ＪｉｎＳＷＤ...): compared with what the player types in the fullwidth entry grid, keep the SJIS bytes"
  },
  {
   "id": "r01dcd4",
   "kind": "string",
   "jp": "ユバシリトキテツをＶショップで",
-  "en": "",
-  "status": "new",
+  "en": "Yubashiri&Kitetsu now sold",
+  "status": "done",
   "ptrs": [
    "0x1d714"
   ],
@@ -12501,8 +12501,8 @@
   "id": "r01dcf4",
   "kind": "string",
   "jp": "かえるようになった∇",
-  "en": "",
-  "status": "new",
+  "en": "at the V Shop!!",
+  "status": "done",
   "ptrs": [
    "0x1d718"
   ],
@@ -12510,21 +12510,21 @@
  },
  {
   "id": "r01dd0c",
-  "kind": "string",
+  "kind": "data",
   "jp": "Ｗａｄｏｕ１",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0x1d724"
   ],
-  "notes": ""
+  "notes": "V Shop password (ＪｉｎＳＷＤ...): compared with what the player types in the fullwidth entry grid, keep the SJIS bytes"
  },
  {
   "id": "r01dd1c",
   "kind": "string",
   "jp": "ワドウイチモンジをＶショップで",
-  "en": "",
-  "status": "new",
+  "en": "Wado Ichimonji now sold",
+  "status": "done",
   "ptrs": [
    "0x1d728"
   ],
@@ -12534,8 +12534,8 @@
   "id": "r01dd3c",
   "kind": "string",
   "jp": "かえるようになった∇",
-  "en": "",
-  "status": "new",
+  "en": "at the V Shop!!",
+  "status": "done",
   "ptrs": [
    "0x1d72c"
   ],
@@ -12543,21 +12543,21 @@
  },
  {
   "id": "r01dd54",
-  "kind": "string",
+  "kind": "data",
   "jp": "ＥｘｒｉｏＢ",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0x1d738"
   ],
-  "notes": ""
+  "notes": "V Shop password (ＪｉｎＳＷＤ...): compared with what the player types in the fullwidth entry grid, keep the SJIS bytes"
  },
  {
   "id": "r01dd64",
   "kind": "string",
   "jp": "エクセリオンＢをＶショップで",
-  "en": "",
-  "status": "new",
+  "en": "Excelion B now sold",
+  "status": "done",
   "ptrs": [
    "0x1d73c"
   ],
@@ -12567,8 +12567,8 @@
   "id": "r01dd84",
   "kind": "string",
   "jp": "かえるようになった∇",
-  "en": "",
-  "status": "new",
+  "en": "at the V Shop!!",
+  "status": "done",
   "ptrs": [
    "0x1d740"
   ],
@@ -12576,21 +12576,21 @@
  },
  {
   "id": "r01dd9c",
-  "kind": "string",
+  "kind": "data",
   "jp": "ＶｏｌｔｉＡ",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0x1d74c"
   ],
-  "notes": ""
+  "notes": "V Shop password (ＪｉｎＳＷＤ...): compared with what the player types in the fullwidth entry grid, keep the SJIS bytes"
  },
  {
   "id": "r01ddac",
   "kind": "string",
   "jp": "ボルティックＡをＶショップで",
-  "en": "",
-  "status": "new",
+  "en": "Voltic A now sold",
+  "status": "done",
   "ptrs": [
    "0x1d750"
   ],
@@ -12600,8 +12600,8 @@
   "id": "r01ddcc",
   "kind": "string",
   "jp": "かえるようになった∇",
-  "en": "",
-  "status": "new",
+  "en": "at the V Shop!!",
+  "status": "done",
   "ptrs": [
    "0x1d754"
   ],
@@ -12609,21 +12609,21 @@
  },
  {
   "id": "r01dde4",
-  "kind": "string",
+  "kind": "data",
   "jp": "ＣｌｏｗｎＳ",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0x1d760"
   ],
-  "notes": ""
+  "notes": "V Shop password (ＪｉｎＳＷＤ...): compared with what the player types in the fullwidth entry grid, keep the SJIS bytes"
  },
  {
   "id": "r01ddf4",
   "kind": "string",
   "jp": "クラウンシールドをＶショップで",
-  "en": "",
-  "status": "new",
+  "en": "Crown Shield now sold",
+  "status": "done",
   "ptrs": [
    "0x1d764"
   ],
@@ -12633,8 +12633,8 @@
   "id": "r01de14",
   "kind": "string",
   "jp": "かえるようになった∇",
-  "en": "",
-  "status": "new",
+  "en": "at the V Shop!!",
+  "status": "done",
   "ptrs": [
    "0x1d768"
   ],
@@ -12642,21 +12642,21 @@
  },
  {
   "id": "r01de2c",
-  "kind": "string",
+  "kind": "data",
   "jp": "Ｓｅｉｋａｉ",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0x1d774"
   ],
-  "notes": ""
+  "notes": "V Shop password (ＪｉｎＳＷＤ...): compared with what the player types in the fullwidth entry grid, keep the SJIS bytes"
  },
  {
   "id": "r01de3c",
   "kind": "string",
   "jp": "コテツをＶショップで",
-  "en": "",
-  "status": "new",
+  "en": "Kotetsu now sold",
+  "status": "done",
   "ptrs": [
    "0x1d778"
   ],
@@ -12666,8 +12666,8 @@
   "id": "r01de54",
   "kind": "string",
   "jp": "かえるようになった∇",
-  "en": "",
-  "status": "new",
+  "en": "at the V Shop!!",
+  "status": "done",
   "ptrs": [
    "0x1d77c"
   ],
@@ -12675,21 +12675,21 @@
  },
  {
   "id": "r01de6c",
-  "kind": "string",
+  "kind": "data",
   "jp": "ＢＯＵＧＹＯ",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0x1d788"
   ],
-  "notes": ""
+  "notes": "V Shop password (ＪｉｎＳＷＤ...): compared with what the player types in the fullwidth entry grid, keep the SJIS bytes"
  },
  {
   "id": "r01de7c",
   "kind": "string",
   "jp": "ボウギョノインをＶショップで",
-  "en": "",
-  "status": "new",
+  "en": "Defense Seal now sold",
+  "status": "done",
   "ptrs": [
    "0x1d78c"
   ],
@@ -12699,8 +12699,8 @@
   "id": "r01de9c",
   "kind": "string",
   "jp": "かえるようになった∇",
-  "en": "",
-  "status": "new",
+  "en": "at the V Shop!!",
+  "status": "done",
   "ptrs": [
    "0x1d790"
   ],
@@ -12708,21 +12708,21 @@
  },
  {
   "id": "r01deb4",
-  "kind": "string",
+  "kind": "data",
   "jp": "Ｋｒ＠Ｋｅｎ",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0x1d79c"
   ],
-  "notes": ""
+  "notes": "V Shop password (ＪｉｎＳＷＤ...): compared with what the player types in the fullwidth entry grid, keep the SJIS bytes"
  },
  {
   "id": "r01dec4",
   "kind": "string",
   "jp": "アーマレット『クラッケン』を",
-  "en": "",
-  "status": "new",
+  "en": "Armalet Kraken",
+  "status": "done",
   "ptrs": [
    "0x1d7a0"
   ],
@@ -12732,8 +12732,8 @@
   "id": "r01dee4",
   "kind": "string",
   "jp": "せんたくできるようになった∇",
-  "en": "",
-  "status": "new",
+  "en": "now selectable!!",
+  "status": "done",
   "ptrs": [
    "0x1d7a4"
   ],
@@ -12741,21 +12741,21 @@
  },
  {
   "id": "r01df04",
-  "kind": "string",
+  "kind": "data",
   "jp": "Ｂｅｅｌ２ｅ",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0x1d7b0"
   ],
-  "notes": ""
+  "notes": "V Shop password (ＪｉｎＳＷＤ...): compared with what the player types in the fullwidth entry grid, keep the SJIS bytes"
  },
  {
   "id": "r01df14",
   "kind": "string",
   "jp": "アーマレット『ベルゼーブ』を",
-  "en": "",
-  "status": "new",
+  "en": "Armalet Beelzeb",
+  "status": "done",
   "ptrs": [
    "0x1d7b4"
   ],
@@ -12765,8 +12765,8 @@
   "id": "r01df34",
   "kind": "string",
   "jp": "せんたくできるようになった∇",
-  "en": "",
-  "status": "new",
+  "en": "now selectable!!",
+  "status": "done",
   "ptrs": [
    "0x1d7b8"
   ],
@@ -12774,21 +12774,21 @@
  },
  {
   "id": "r01df54",
-  "kind": "string",
+  "kind": "data",
   "jp": "Ａｓｕｒ＠ｍ",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0x1d7c4"
   ],
-  "notes": ""
+  "notes": "V Shop password (ＪｉｎＳＷＤ...): compared with what the player types in the fullwidth entry grid, keep the SJIS bytes"
  },
  {
   "id": "r01df64",
   "kind": "string",
   "jp": "アーマレット『アシュラム』を",
-  "en": "",
-  "status": "new",
+  "en": "Armalet Ashram",
+  "status": "done",
   "ptrs": [
    "0x1d7c8"
   ],
@@ -12798,8 +12798,8 @@
   "id": "r01df84",
   "kind": "string",
   "jp": "せんたくできるようになった∇",
-  "en": "",
-  "status": "new",
+  "en": "now selectable!!",
+  "status": "done",
   "ptrs": [
    "0x1d7cc"
   ],
@@ -12807,21 +12807,21 @@
  },
  {
   "id": "r01dfa4",
-  "kind": "string",
+  "kind": "data",
   "jp": "Ｄｅ＠ｔｈＲ",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0x1d7d8"
   ],
-  "notes": ""
+  "notes": "V Shop password (ＪｉｎＳＷＤ...): compared with what the player types in the fullwidth entry grid, keep the SJIS bytes"
  },
  {
   "id": "r01dfb4",
   "kind": "string",
   "jp": "アーマレット『デスロード』を",
-  "en": "",
-  "status": "new",
+  "en": "Armalet Death Lord",
+  "status": "done",
   "ptrs": [
    "0x1d7dc"
   ],
@@ -12831,8 +12831,8 @@
   "id": "r01dfd4",
   "kind": "string",
   "jp": "せんたくできるようになった∇",
-  "en": "",
-  "status": "new",
+  "en": "now selectable!!",
+  "status": "done",
   "ptrs": [
    "0x1d7e0"
   ],
@@ -12840,21 +12840,21 @@
  },
  {
   "id": "r01dff4",
-  "kind": "string",
+  "kind": "data",
   "jp": "Ｐｏｈｅｎｉ",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0x1d7ec"
   ],
-  "notes": ""
+  "notes": "V Shop password (ＪｉｎＳＷＤ...): compared with what the player types in the fullwidth entry grid, keep the SJIS bytes"
  },
  {
   "id": "r01e004",
   "kind": "string",
   "jp": "アーマレット『ファイバード』を",
-  "en": "",
-  "status": "new",
+  "en": "Armalet Firebird",
+  "status": "done",
   "ptrs": [
    "0x1d7f0"
   ],
@@ -12864,8 +12864,8 @@
   "id": "r01e024",
   "kind": "string",
   "jp": "せんたくできるようになった∇",
-  "en": "",
-  "status": "new",
+  "en": "now selectable!!",
+  "status": "done",
   "ptrs": [
    "0x1d7f4"
   ],
@@ -12873,21 +12873,21 @@
  },
  {
   "id": "r01e044",
-  "kind": "string",
+  "kind": "data",
   "jp": "Ｆａ１ｃｏｎ",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0x1d800"
   ],
-  "notes": ""
+  "notes": "V Shop password (ＪｉｎＳＷＤ...): compared with what the player types in the fullwidth entry grid, keep the SJIS bytes"
  },
  {
   "id": "r01e054",
   "kind": "string",
   "jp": "アーマレット『ファルコーン』を",
-  "en": "",
-  "status": "new",
+  "en": "Armalet Falcorn",
+  "status": "done",
   "ptrs": [
    "0x1d804"
   ],
@@ -12897,8 +12897,8 @@
   "id": "r01e074",
   "kind": "string",
   "jp": "せんたくできるようになった∇",
-  "en": "",
-  "status": "new",
+  "en": "now selectable!!",
+  "status": "done",
   "ptrs": [
    "0x1d808"
   ],
@@ -12906,21 +12906,21 @@
  },
  {
   "id": "r01e094",
-  "kind": "string",
+  "kind": "data",
   "jp": "Ａｎｇｅ１Ｎ",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0x1d814"
   ],
-  "notes": ""
+  "notes": "V Shop password (ＪｉｎＳＷＤ...): compared with what the player types in the fullwidth entry grid, keep the SJIS bytes"
  },
  {
   "id": "r01e0a4",
   "kind": "string",
   "jp": "アーマレット『エンジェラン』を",
-  "en": "",
-  "status": "new",
+  "en": "Armalet Angelan",
+  "status": "done",
   "ptrs": [
    "0x1d818"
   ],
@@ -12930,8 +12930,8 @@
   "id": "r01e0c4",
   "kind": "string",
   "jp": "せんたくできるようになった∇",
-  "en": "",
-  "status": "new",
+  "en": "now selectable!!",
+  "status": "done",
   "ptrs": [
    "0x1d81c"
   ],
@@ -12939,21 +12939,21 @@
  },
  {
   "id": "r01e0e4",
-  "kind": "string",
+  "kind": "data",
   "jp": "Ｇｏ１ｅｍｓ",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0x1d828"
   ],
-  "notes": ""
+  "notes": "V Shop password (ＪｉｎＳＷＤ...): compared with what the player types in the fullwidth entry grid, keep the SJIS bytes"
  },
  {
   "id": "r01e0f4",
   "kind": "string",
   "jp": "アーマレット『ゴラムス』を",
-  "en": "",
-  "status": "new",
+  "en": "Armalet Golamus",
+  "status": "done",
   "ptrs": [
    "0x1d82c"
   ],
@@ -12963,8 +12963,8 @@
   "id": "r01e110",
   "kind": "string",
   "jp": "せんたくできるようになった∇",
-  "en": "",
-  "status": "new",
+  "en": "now selectable!!",
+  "status": "done",
   "ptrs": [
    "0x1d830"
   ],
@@ -12972,21 +12972,21 @@
  },
  {
   "id": "r01e130",
-  "kind": "string",
+  "kind": "data",
   "jp": "Ｄｏｒ＠ｇｏ",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0x1d83c"
   ],
-  "notes": ""
+  "notes": "V Shop password (ＪｉｎＳＷＤ...): compared with what the player types in the fullwidth entry grid, keep the SJIS bytes"
  },
  {
   "id": "r01e140",
   "kind": "string",
   "jp": "アーマレット『ドラグーン』を",
-  "en": "",
-  "status": "new",
+  "en": "Armalet Dragoon",
+  "status": "done",
   "ptrs": [
    "0x1d840"
   ],
@@ -12996,8 +12996,8 @@
   "id": "r01e160",
   "kind": "string",
   "jp": "せんたくできるようになった∇",
-  "en": "",
-  "status": "new",
+  "en": "now selectable!!",
+  "status": "done",
   "ptrs": [
    "0x1d844"
   ],
@@ -13005,21 +13005,21 @@
  },
  {
   "id": "r01e180",
-  "kind": "string",
+  "kind": "data",
   "jp": "Ｌｉｏｎｅ１",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0x1d850"
   ],
-  "notes": ""
+  "notes": "V Shop password (ＪｉｎＳＷＤ...): compared with what the player types in the fullwidth entry grid, keep the SJIS bytes"
  },
  {
   "id": "r01e190",
   "kind": "string",
   "jp": "アーマレット『ライオネル』を",
-  "en": "",
-  "status": "new",
+  "en": "Armalet Lionel",
+  "status": "done",
   "ptrs": [
    "0x1d854"
   ],
@@ -13029,8 +13029,8 @@
   "id": "r01e1b0",
   "kind": "string",
   "jp": "せんたくできるようになった∇",
-  "en": "",
-  "status": "new",
+  "en": "now selectable!!",
+  "status": "done",
   "ptrs": [
    "0x1d858"
   ],
@@ -13038,21 +13038,21 @@
  },
  {
   "id": "r01e1d0",
-  "kind": "string",
+  "kind": "data",
   "jp": "３ｍｐｅｒｏ",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0x1d864"
   ],
-  "notes": ""
+  "notes": "V Shop password (ＪｉｎＳＷＤ...): compared with what the player types in the fullwidth entry grid, keep the SJIS bytes"
  },
  {
   "id": "r01e1e0",
   "kind": "string",
   "jp": "アーマレット『エンペリオル』を",
-  "en": "",
-  "status": "new",
+  "en": "Armalet Emperiol",
+  "status": "done",
   "ptrs": [
    "0x1d868"
   ],
@@ -13062,8 +13062,8 @@
   "id": "r01e200",
   "kind": "string",
   "jp": "せんたくできるようになった∇",
-  "en": "",
-  "status": "new",
+  "en": "now selectable!!",
+  "status": "done",
   "ptrs": [
    "0x1d86c"
   ],
@@ -13071,21 +13071,21 @@
  },
  {
   "id": "r01e220",
-  "kind": "string",
+  "kind": "data",
   "jp": "ｕｏｇｎｅＫ",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0x1d878"
   ],
-  "notes": ""
+  "notes": "V Shop password (ＪｉｎＳＷＤ...): compared with what the player types in the fullwidth entry grid, keep the SJIS bytes"
  },
  {
   "id": "r01e230",
   "kind": "string",
   "jp": "ゾロのＶＲＸデータがＶショップで",
-  "en": "",
-  "status": "new",
+  "en": "Zoro's VRX data on",
+  "status": "done",
   "ptrs": [
    "0x1d87c"
   ],
@@ -13095,8 +13095,8 @@
   "id": "r01e254",
   "kind": "string",
   "jp": "かえるようになった∇",
-  "en": "",
-  "status": "new",
+  "en": "sale at the V Shop!",
+  "status": "done",
   "ptrs": [
    "0x1d880"
   ],
@@ -13104,21 +13104,21 @@
  },
  {
   "id": "r01e26c",
-  "kind": "string",
+  "kind": "data",
   "jp": "ｒｅｔｓｕＢ",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0x1d88c"
   ],
-  "notes": ""
+  "notes": "V Shop password (ＪｉｎＳＷＤ...): compared with what the player types in the fullwidth entry grid, keep the SJIS bytes"
  },
  {
   "id": "r01e27c",
   "kind": "string",
   "jp": "ビィトのＶＲＸデータがＶショップで",
-  "en": "",
-  "status": "new",
+  "en": "Beet's VRX data on",
+  "status": "done",
   "ptrs": [
    "0x1d890"
   ],
@@ -13128,8 +13128,8 @@
   "id": "r01e2a0",
   "kind": "string",
   "jp": "かえるようになった∇",
-  "en": "",
-  "status": "new",
+  "en": "sale at the V Shop!",
+  "status": "done",
   "ptrs": [
    "0x1d894"
   ],
@@ -13137,21 +13137,21 @@
  },
  {
   "id": "r01e2b8",
-  "kind": "string",
+  "kind": "data",
   "jp": "ｏｋｋａｙＢ",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0x1d8a0"
   ],
-  "notes": ""
+  "notes": "V Shop password (ＪｉｎＳＷＤ...): compared with what the player types in the fullwidth entry grid, keep the SJIS bytes"
  },
  {
   "id": "r01e2c8",
   "kind": "string",
   "jp": "コゲンタのＶＲＸデータがＶショップで",
-  "en": "",
-  "status": "new",
+  "en": "Kogenta's VRX data on",
+  "status": "done",
   "ptrs": [
    "0x1d8a4"
   ],
@@ -13161,8 +13161,8 @@
   "id": "r01e2f0",
   "kind": "string",
   "jp": "かえるようになった∇",
-  "en": "",
-  "status": "new",
+  "en": "sale at the V Shop!",
+  "status": "done",
   "ptrs": [
    "0x1d8a8"
   ],
@@ -13170,21 +13170,21 @@
  },
  {
   "id": "r01e308",
-  "kind": "string",
+  "kind": "data",
   "jp": "ＮＥＷｍａｎ",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0x1d8b4"
   ],
-  "notes": ""
+  "notes": "V Shop password (ＪｉｎＳＷＤ...): compared with what the player types in the fullwidth entry grid, keep the SJIS bytes"
  },
  {
   "id": "r01e318",
   "kind": "string",
   "jp": "キャラメイクでつかえる男のコキャラが",
-  "en": "",
-  "status": "new",
+  "en": "New boy for character creation",
+  "status": "done",
   "ptrs": [
    "0x1d8b8"
   ],
@@ -13194,8 +13194,8 @@
   "id": "r01e340",
   "kind": "string",
   "jp": "ついかされた∇",
-  "en": "",
-  "status": "new",
+  "en": "added!!",
+  "status": "done",
   "ptrs": [
    "0x1d8bc"
   ],
@@ -13203,21 +13203,21 @@
  },
  {
   "id": "r01e350",
-  "kind": "string",
+  "kind": "data",
   "jp": "ＮＥＷｗｏｍ",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0x1d8c8"
   ],
-  "notes": ""
+  "notes": "V Shop password (ＪｉｎＳＷＤ...): compared with what the player types in the fullwidth entry grid, keep the SJIS bytes"
  },
  {
   "id": "r01e360",
   "kind": "string",
   "jp": "キャラメイクでつかえる女のコキャラが",
-  "en": "",
-  "status": "new",
+  "en": "New girl for character creation",
+  "status": "done",
   "ptrs": [
    "0x1d8cc"
   ],
@@ -13227,8 +13227,8 @@
   "id": "r01e388",
   "kind": "string",
   "jp": "ついかされた∇",
-  "en": "",
-  "status": "new",
+  "en": "added!!",
+  "status": "done",
   "ptrs": [
    "0x1d8d0"
   ],
@@ -13236,21 +13236,21 @@
  },
  {
   "id": "r01e398",
-  "kind": "string",
+  "kind": "data",
   "jp": "Ｄ＝Ｎｕｔｓ",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0x1d8dc"
   ],
-  "notes": ""
+  "notes": "V Shop password (ＪｉｎＳＷＤ...): compared with what the player types in the fullwidth entry grid, keep the SJIS bytes"
  },
  {
   "id": "r01e3a8",
   "kind": "string",
   "jp": "デスロール編が本だなに",
-  "en": "",
-  "status": "new",
+  "en": "\"Death Roll Arc\" on",
+  "status": "done",
   "ptrs": [
    "0x1d8e0"
   ],
@@ -13260,8 +13260,8 @@
   "id": "r01e3c0",
   "kind": "string",
   "jp": "ついかされた∇",
-  "en": "",
-  "status": "new",
+  "en": "your shelf!!",
+  "status": "done",
   "ptrs": [
    "0x1d8e4"
   ],

@@ -3,8 +3,8 @@
   "id": "r073cc8",
   "kind": "string",
   "jp": "ボックス１６",
-  "en": "",
-  "status": "new",
+  "en": "Box 16",
+  "status": "done",
   "ptrs": [
    "0xec260"
   ],
@@ -14,8 +14,8 @@
   "id": "r073cd8",
   "kind": "string",
   "jp": "ボックス１５",
-  "en": "",
-  "status": "new",
+  "en": "Box 15",
+  "status": "done",
   "ptrs": [
    "0xec25c"
   ],
@@ -25,8 +25,8 @@
   "id": "r073ce8",
   "kind": "string",
   "jp": "ボックス１４",
-  "en": "",
-  "status": "new",
+  "en": "Box 14",
+  "status": "done",
   "ptrs": [
    "0xec258"
   ],
@@ -36,8 +36,8 @@
   "id": "r073cf8",
   "kind": "string",
   "jp": "ボックス１３",
-  "en": "",
-  "status": "new",
+  "en": "Box 13",
+  "status": "done",
   "ptrs": [
    "0xec254"
   ],
@@ -47,8 +47,8 @@
   "id": "r073d08",
   "kind": "string",
   "jp": "ボックス１２",
-  "en": "",
-  "status": "new",
+  "en": "Box 12",
+  "status": "done",
   "ptrs": [
    "0xec250"
   ],
@@ -58,8 +58,8 @@
   "id": "r073d18",
   "kind": "string",
   "jp": "ボックス１１",
-  "en": "",
-  "status": "new",
+  "en": "Box 11",
+  "status": "done",
   "ptrs": [
    "0xec24c"
   ],
@@ -69,8 +69,8 @@
   "id": "r073d28",
   "kind": "string",
   "jp": "ボックス１０",
-  "en": "",
-  "status": "new",
+  "en": "Box 10",
+  "status": "done",
   "ptrs": [
    "0xec248"
   ],
@@ -80,8 +80,8 @@
   "id": "r073d38",
   "kind": "string",
   "jp": "ボックス　９",
-  "en": "",
-  "status": "new",
+  "en": "Box 9",
+  "status": "done",
   "ptrs": [
    "0xec244"
   ],
@@ -91,8 +91,8 @@
   "id": "r073d48",
   "kind": "string",
   "jp": "ボックス　８",
-  "en": "",
-  "status": "new",
+  "en": "Box 8",
+  "status": "done",
   "ptrs": [
    "0xec240"
   ],
@@ -102,8 +102,8 @@
   "id": "r073d58",
   "kind": "string",
   "jp": "ボックス　７",
-  "en": "",
-  "status": "new",
+  "en": "Box 7",
+  "status": "done",
   "ptrs": [
    "0xec23c"
   ],
@@ -113,8 +113,8 @@
   "id": "r073d68",
   "kind": "string",
   "jp": "ボックス　６",
-  "en": "",
-  "status": "new",
+  "en": "Box 6",
+  "status": "done",
   "ptrs": [
    "0xec238"
   ],
@@ -124,8 +124,8 @@
   "id": "r073d78",
   "kind": "string",
   "jp": "ボックス　５",
-  "en": "",
-  "status": "new",
+  "en": "Box 5",
+  "status": "done",
   "ptrs": [
    "0xec234"
   ],
@@ -135,8 +135,8 @@
   "id": "r073d88",
   "kind": "string",
   "jp": "ボックス　４",
-  "en": "",
-  "status": "new",
+  "en": "Box 4",
+  "status": "done",
   "ptrs": [
    "0xec230"
   ],
@@ -146,8 +146,8 @@
   "id": "r073d98",
   "kind": "string",
   "jp": "ボックス　３",
-  "en": "",
-  "status": "new",
+  "en": "Box 3",
+  "status": "done",
   "ptrs": [
    "0xec22c"
   ],
@@ -157,8 +157,8 @@
   "id": "r073da8",
   "kind": "string",
   "jp": "ボックス　２",
-  "en": "",
-  "status": "new",
+  "en": "Box 2",
+  "status": "done",
   "ptrs": [
    "0xec228"
   ],
@@ -168,8 +168,8 @@
   "id": "r073db8",
   "kind": "string",
   "jp": "ボックス　１",
-  "en": "",
-  "status": "new",
+  "en": "Box 1",
+  "status": "done",
   "ptrs": [
    "0xec224"
   ],
@@ -179,8 +179,8 @@
   "id": "r073dc8",
   "kind": "string",
   "jp": "を手に入れた！",
-  "en": "",
-  "status": "new",
+  "en": " obtained!",
+  "status": "done",
   "ptrs": [
    "0xec748"
   ],
@@ -190,8 +190,8 @@
   "id": "r073e3c",
   "kind": "string",
   "jp": "ありがとうございました",
-  "en": "",
-  "status": "new",
+  "en": "Thank you very much.",
+  "status": "done",
   "ptrs": [
    "0xee48c"
   ],
@@ -201,8 +201,8 @@
   "id": "r073e54",
   "kind": "string",
   "jp": "ほかにごようはありますか？",
-  "en": "",
-  "status": "new",
+  "en": "Anything else I can do?",
+  "status": "done",
   "ptrs": [
    "0xee488"
   ],
@@ -212,8 +212,8 @@
   "id": "r073e70",
   "kind": "string",
   "jp": "Ｖショップへ　ようこそ",
-  "en": "",
-  "status": "new",
+  "en": "Welcome to V Shop!",
+  "status": "done",
   "ptrs": [
    "0xee484"
   ],
@@ -223,8 +223,8 @@
   "id": "r073e88",
   "kind": "string",
   "jp": "いらっしゃいませ",
-  "en": "",
-  "status": "new",
+  "en": "Welcome!",
+  "status": "done",
   "ptrs": [
    "0xee480"
   ],
@@ -234,8 +234,8 @@
   "id": "r073e9c",
   "kind": "string",
   "jp": "ありがとうございました～♪",
-  "en": "",
-  "status": "new",
+  "en": "Thank you so much~",
+  "status": "done",
   "ptrs": [
    "0xee47c"
   ],
@@ -245,8 +245,8 @@
   "id": "r073eb8",
   "kind": "string",
   "jp": "他に　ようはあるかな？",
-  "en": "",
-  "status": "new",
+  "en": "Anything else?",
+  "status": "done",
   "ptrs": [
    "0xee478"
   ],
@@ -256,8 +256,8 @@
   "id": "r073ed0",
   "kind": "string",
   "jp": "『レア』Ｖショップへ　よくきたね！",
-  "en": "",
-  "status": "new",
+  "en": "Welcome to the \"Rare\" V Shop!",
+  "status": "done",
   "ptrs": [
    "0xee474"
   ],
@@ -267,8 +267,8 @@
   "id": "r073ef4",
   "kind": "string",
   "jp": "やあ　いらっしゃい！",
-  "en": "",
-  "status": "new",
+  "en": "Hey, welcome!",
+  "status": "done",
   "ptrs": [
    "0xee470"
   ],
@@ -278,8 +278,8 @@
   "id": "r073f0c",
   "kind": "string",
   "jp": "ありがとうございました！",
-  "en": "",
-  "status": "new",
+  "en": "Thank you very much!",
+  "status": "done",
   "ptrs": [
    "0xee46c"
   ],
@@ -289,8 +289,8 @@
   "id": "r073f28",
   "kind": "string",
   "jp": "他に　ご用はありますか？",
-  "en": "",
-  "status": "new",
+  "en": "Anything else for you?",
+  "status": "done",
   "ptrs": [
    "0xee468"
   ],
@@ -300,8 +300,8 @@
   "id": "r073f44",
   "kind": "string",
   "jp": "Ｖショップへ　ようこそ！",
-  "en": "",
-  "status": "new",
+  "en": "Welcome to V Shop!",
+  "status": "done",
   "ptrs": [
    "0xee464"
   ],
@@ -311,8 +311,8 @@
   "id": "r073f60",
   "kind": "string",
   "jp": "いらっしゃいませ！",
-  "en": "",
-  "status": "new",
+  "en": "Welcome!",
+  "status": "done",
   "ptrs": [
    "0xee460"
   ],
@@ -322,8 +322,8 @@
   "id": "r073f74",
   "kind": "string",
   "jp": "Ｖマシンにアーマレットをセットした！",
-  "en": "",
-  "status": "new",
+  "en": "Armalet set in the V Machine!",
+  "status": "done",
   "ptrs": [
    "0xee4a0"
   ],
@@ -333,8 +333,8 @@
   "id": "r073fac",
   "kind": "string",
   "jp": "Ｂボタン…キャンセル",
-  "en": "",
-  "status": "new",
+  "en": "B Button: Cancel",
+  "status": "done",
   "ptrs": [
    "0xee4a8",
    "0xee4b0",
@@ -347,8 +347,8 @@
   "id": "r073fc4",
   "kind": "string",
   "jp": "しょうしょうおまちください",
-  "en": "",
-  "status": "new",
+  "en": "One moment, please.",
+  "status": "done",
   "ptrs": [
    "0xee4a4"
   ],
@@ -358,8 +358,8 @@
   "id": "r073fe0",
   "kind": "string",
   "jp": "Ａボタン…かいし",
-  "en": "",
-  "status": "new",
+  "en": "A Button: Start",
+  "status": "done",
   "ptrs": [
    "0xee4ac",
    "0xee4d4"
@@ -370,8 +370,8 @@
   "id": "r073ff4",
   "kind": "string",
   "jp": "グループをえらんでください",
-  "en": "",
-  "status": "new",
+  "en": "Please choose a group.",
+  "status": "done",
   "ptrs": [
    "0xee4b8"
   ],
@@ -381,8 +381,8 @@
   "id": "r074010",
   "kind": "string",
   "jp": "リーダーを一人きめて　ほかの人は",
-  "en": "",
-  "status": "new",
+  "en": "Pick one leader; everyone else",
+  "status": "done",
   "ptrs": [
    "0xee4b4"
   ],
@@ -392,8 +392,8 @@
   "id": "r074034",
   "kind": "string",
   "jp": "しばらく　おまちください",
-  "en": "",
-  "status": "new",
+  "en": "please wait a moment.",
+  "status": "done",
   "ptrs": [
    "0xee4c8"
   ],
@@ -403,8 +403,8 @@
   "id": "r074050",
   "kind": "string",
   "jp": "へんじを　まっています",
-  "en": "",
-  "status": "new",
+  "en": "Waiting for reply...",
+  "status": "done",
   "ptrs": [
    "0xee4c4",
    "0xee4cc"
@@ -415,8 +415,8 @@
   "id": "r074068",
   "kind": "string",
   "jp": "リーダーをえらんでください",
-  "en": "",
-  "status": "new",
+  "en": "Please choose a leader.",
+  "status": "done",
   "ptrs": [
    "0xee4bc"
   ],
@@ -426,8 +426,8 @@
   "id": "r074084",
   "kind": "string",
   "jp": "にんずうが　おおいようです",
-  "en": "",
-  "status": "new",
+  "en": "Too many players.",
+  "status": "done",
   "ptrs": [
    "0xee4e0"
   ],
@@ -437,8 +437,8 @@
   "id": "r0740a0",
   "kind": "string",
   "jp": "せんたくされたものが　ちがいます",
-  "en": "",
-  "status": "new",
+  "en": "The selections don't match.",
+  "status": "done",
   "ptrs": [
    "0xee4dc"
   ],
@@ -448,8 +448,8 @@
   "id": "r0740c4",
   "kind": "string",
   "jp": "つうしんエラーです",
-  "en": "",
-  "status": "new",
+  "en": "Link error.",
+  "status": "done",
   "ptrs": [
    "0xee4d8"
   ],
@@ -459,8 +459,8 @@
   "id": "r0740d8",
   "kind": "string",
   "jp": "記録に失敗しました",
-  "en": "",
-  "status": "new",
+  "en": "Save failed.",
+  "status": "done",
   "ptrs": [
    "0xee4f4"
   ],
@@ -470,8 +470,8 @@
   "id": "r0740ec",
   "kind": "string",
   "jp": "記録しました",
-  "en": "",
-  "status": "new",
+  "en": "Saved.",
+  "status": "done",
   "ptrs": [
    "0xee4f0"
   ],
@@ -481,8 +481,8 @@
   "id": "r0740fc",
   "kind": "string",
   "jp": "電源を切らないで下さい",
-  "en": "",
-  "status": "new",
+  "en": "Don't turn off power.",
+  "status": "done",
   "ptrs": [
    "0xee4ec"
   ],
@@ -492,8 +492,8 @@
   "id": "r074114",
   "kind": "string",
   "jp": "記録中です",
-  "en": "",
-  "status": "new",
+  "en": "Saving...",
+  "status": "done",
   "ptrs": [
    "0xee4e8"
   ],
@@ -503,8 +503,8 @@
   "id": "r074120",
   "kind": "string",
   "jp": "これまでのかつやくを記録しますか？",
-  "en": "",
-  "status": "new",
+  "en": "Save your progress so far?",
+  "status": "done",
   "ptrs": [
    "0xee4e4"
   ],
@@ -514,8 +514,8 @@
   "id": "r074144",
   "kind": "string",
   "jp": "プレイじかん",
-  "en": "",
-  "status": "new",
+  "en": "Play Time",
+  "status": "done",
   "ptrs": [
    "0x34d74"
   ],
@@ -525,8 +525,8 @@
   "id": "r074154",
   "kind": "string",
   "jp": "：",
-  "en": "",
-  "status": "new",
+  "en": ":",
+  "status": "done",
   "ptrs": [
    "0x34d84"
   ],
@@ -536,8 +536,8 @@
   "id": "r074158",
   "kind": "string",
   "jp": "ＶＰ",
-  "en": "",
-  "status": "new",
+  "en": "VP",
+  "status": "done",
   "ptrs": [
    "0x34d8c"
   ],
@@ -547,8 +547,8 @@
   "id": "r074160",
   "kind": "string",
   "jp": "バトルかいすう",
-  "en": "",
-  "status": "new",
+  "en": "Battles",
+  "status": "done",
   "ptrs": [
    "0x34d98"
   ],
@@ -558,8 +558,8 @@
   "id": "r074170",
   "kind": "string",
   "jp": "ボックス・アームのかず",
-  "en": "",
-  "status": "new",
+  "en": "Arms in Box",
+  "status": "done",
   "ptrs": [
    "0x34d9c"
   ],
@@ -569,8 +569,8 @@
   "id": "r074188",
   "kind": "string",
   "jp": "ボックス・ツールのかず",
-  "en": "",
-  "status": "new",
+  "en": "Tools in Box",
+  "status": "done",
   "ptrs": [
    "0x34da0"
   ],
@@ -580,8 +580,8 @@
   "id": "r0741a0",
   "kind": "string",
   "jp": "データのじゅしんに　しっぱいしました",
-  "en": "",
-  "status": "new",
+  "en": "Failed to receive data.",
+  "status": "done",
   "ptrs": [
    "0xee510"
   ],
@@ -603,8 +603,8 @@
   "id": "r0741cc",
   "kind": "string",
   "jp": "データをじゅしんしました！",
-  "en": "",
-  "status": "new",
+  "en": "Data received!",
+  "status": "done",
   "ptrs": [
    "0xee508"
   ],
@@ -614,8 +614,8 @@
   "id": "r0741e8",
   "kind": "string",
   "jp": "アダプタを　せつぞくしてください",
-  "en": "",
-  "status": "new",
+  "en": "Please connect the adapter.",
+  "status": "done",
   "ptrs": [
    "0xee504"
   ],
@@ -625,8 +625,8 @@
   "id": "r07420c",
   "kind": "string",
   "jp": "電源をきってから　ワイヤレス",
-  "en": "",
-  "status": "new",
+  "en": "Turn off the power, then",
+  "status": "done",
   "ptrs": [
    "0xee500"
   ],
@@ -636,8 +636,8 @@
   "id": "r07422c",
   "kind": "string",
   "jp": "しばらく　おまちください",
-  "en": "",
-  "status": "new",
+  "en": "Please wait a moment.",
+  "status": "done",
   "ptrs": [
    "0xee4fc"
   ],
@@ -647,8 +647,8 @@
   "id": "r074248",
   "kind": "string",
   "jp": "ジョイスポットを　さがしています",
-  "en": "",
-  "status": "new",
+  "en": "Searching for a Joy Spot...",
+  "status": "done",
   "ptrs": [
    "0xee4f8"
   ],
@@ -658,8 +658,8 @@
   "id": "r07426c",
   "kind": "string",
   "jp": "を手に入れた！",
-  "en": "",
-  "status": "new",
+  "en": " obtained!",
+  "status": "done",
   "ptrs": [
    "0xec744"
   ],
@@ -669,8 +669,8 @@
   "id": "r0742f0",
   "kind": "string",
   "jp": "記録に失敗しました",
-  "en": "",
-  "status": "new",
+  "en": "Save failed.",
+  "status": "done",
   "ptrs": [
    "0xecbf8"
   ],
@@ -680,8 +680,8 @@
   "id": "r074304",
   "kind": "string",
   "jp": "Ｖボックスがいっぱいです！",
-  "en": "",
-  "status": "new",
+  "en": "Your V Box is full!",
+  "status": "done",
   "ptrs": [
    "0xecbf4"
   ],
@@ -691,8 +691,8 @@
   "id": "r074320",
   "kind": "string",
   "jp": "ＶＰがたりません！",
-  "en": "",
-  "status": "new",
+  "en": "Not enough VP!",
+  "status": "done",
   "ptrs": [
    "0xecbf0"
   ],
@@ -702,8 +702,8 @@
   "id": "r074334",
   "kind": "string",
   "jp": "ＶＰをてんそうした！",
-  "en": "",
-  "status": "new",
+  "en": "VP transferred!",
+  "status": "done",
   "ptrs": [
    "0xecbec"
   ],
@@ -713,8 +713,8 @@
   "id": "r07434c",
   "kind": "string",
   "jp": "ＶＰ",
-  "en": "",
-  "status": "new",
+  "en": "VP",
+  "status": "done",
   "ptrs": [
    "0xecbe8"
   ],
@@ -724,8 +724,8 @@
   "id": "r074354",
   "kind": "string",
   "jp": "よろしいですか？",
-  "en": "",
-  "status": "new",
+  "en": "Is that OK?",
+  "status": "done",
   "ptrs": [
    "0xecbe4"
   ],
@@ -735,8 +735,8 @@
   "id": "r074368",
   "kind": "string",
   "jp": "ＶＰひつようですが",
-  "en": "",
-  "status": "new",
+  "en": " VP is needed,",
+  "status": "done",
   "ptrs": [
    "0xecbe0"
   ],
@@ -746,8 +746,8 @@
   "id": "r07437c",
   "kind": "string",
   "jp": "Ｖポンをみつけた！",
-  "en": "",
-  "status": "new",
+  "en": "Found a V-Pon!",
+  "status": "done",
   "ptrs": [
    "0xecbdc"
   ],
@@ -757,8 +757,8 @@
   "id": "r074390",
   "kind": "string",
   "jp": "記録しました",
-  "en": "",
-  "status": "new",
+  "en": "Saved.",
+  "status": "done",
   "ptrs": [
    "0xecc04"
   ],
@@ -768,8 +768,8 @@
   "id": "r0743a0",
   "kind": "string",
   "jp": "電源を切らないで下さい",
-  "en": "",
-  "status": "new",
+  "en": "Don't turn off power.",
+  "status": "done",
   "ptrs": [
    "0xecc00"
   ],
@@ -779,8 +779,8 @@
   "id": "r0743b8",
   "kind": "string",
   "jp": "記録中です",
-  "en": "",
-  "status": "new",
+  "en": "Saving...",
+  "status": "done",
   "ptrs": [
    "0xecbfc"
   ],
@@ -790,8 +790,8 @@
   "id": "r0743c4",
   "kind": "string",
   "jp": "最終試合結果",
-  "en": "",
-  "status": "new",
+  "en": "Final Result",
+  "status": "done",
   "ptrs": [
    "0xecc30"
   ],
@@ -801,8 +801,8 @@
   "id": "r0743d4",
   "kind": "string",
   "jp": "第９試合結果",
-  "en": "",
-  "status": "new",
+  "en": "Match 9",
+  "status": "done",
   "ptrs": [
    "0xecc2c"
   ],
@@ -812,8 +812,8 @@
   "id": "r0743e4",
   "kind": "string",
   "jp": "第８試合結果",
-  "en": "",
-  "status": "new",
+  "en": "Match 8",
+  "status": "done",
   "ptrs": [
    "0xecc28"
   ],
@@ -823,8 +823,8 @@
   "id": "r0743f4",
   "kind": "string",
   "jp": "第７試合結果",
-  "en": "",
-  "status": "new",
+  "en": "Match 7",
+  "status": "done",
   "ptrs": [
    "0xecc24"
   ],
@@ -834,8 +834,8 @@
   "id": "r074404",
   "kind": "string",
   "jp": "第６試合結果",
-  "en": "",
-  "status": "new",
+  "en": "Match 6",
+  "status": "done",
   "ptrs": [
    "0xecc20"
   ],
@@ -845,8 +845,8 @@
   "id": "r074414",
   "kind": "string",
   "jp": "第５試合結果",
-  "en": "",
-  "status": "new",
+  "en": "Match 5",
+  "status": "done",
   "ptrs": [
    "0xecc1c"
   ],
@@ -856,8 +856,8 @@
   "id": "r074424",
   "kind": "string",
   "jp": "第４試合結果",
-  "en": "",
-  "status": "new",
+  "en": "Match 4",
+  "status": "done",
   "ptrs": [
    "0xecc18"
   ],
@@ -867,8 +867,8 @@
   "id": "r074434",
   "kind": "string",
   "jp": "第３試合結果",
-  "en": "",
-  "status": "new",
+  "en": "Match 3",
+  "status": "done",
   "ptrs": [
    "0xecc14"
   ],
@@ -878,8 +878,8 @@
   "id": "r074444",
   "kind": "string",
   "jp": "第２試合結果",
-  "en": "",
-  "status": "new",
+  "en": "Match 2",
+  "status": "done",
   "ptrs": [
    "0xecc10"
   ],
@@ -889,8 +889,8 @@
   "id": "r074454",
   "kind": "string",
   "jp": "第１試合結果",
-  "en": "",
-  "status": "new",
+  "en": "Match 1",
+  "status": "done",
   "ptrs": [
    "0xecc0c"
   ],
@@ -900,8 +900,8 @@
   "id": "r074468",
   "kind": "string",
   "jp": "Ｓ",
-  "en": "",
-  "status": "new",
+  "en": "S",
+  "status": "done",
   "ptrs": [
    "0xecc40"
   ],
@@ -911,8 +911,8 @@
   "id": "r07446c",
   "kind": "string",
   "jp": "Ａ",
-  "en": "",
-  "status": "new",
+  "en": "A",
+  "status": "done",
   "ptrs": [
    "0xecc3c"
   ],
@@ -922,8 +922,8 @@
   "id": "r074470",
   "kind": "string",
   "jp": "Ｂ",
-  "en": "",
-  "status": "new",
+  "en": "B",
+  "status": "done",
   "ptrs": [
    "0xecc38"
   ],
@@ -933,8 +933,8 @@
   "id": "r074474",
   "kind": "string",
   "jp": "Ｃ",
-  "en": "",
-  "status": "new",
+  "en": "C",
+  "status": "done",
   "ptrs": [
    "0xecc34"
   ],
@@ -944,8 +944,8 @@
   "id": "r074478",
   "kind": "string",
   "jp": "バトリーグ順位表",
-  "en": "",
-  "status": "new",
+  "en": "Vattleague Rank",
+  "status": "done",
   "ptrs": [
    "0x373d4"
   ],
@@ -955,8 +955,8 @@
   "id": "r07448c",
   "kind": "string",
   "jp": "．",
-  "en": "",
-  "status": "new",
+  "en": ".",
+  "status": "done",
   "ptrs": [
    "0x373e4"
   ],
@@ -990,8 +990,8 @@
   "id": "r075e38",
   "kind": "string",
   "jp": "お",
-  "en": "",
-  "status": "new",
+  "en": "Qu",
+  "status": "done",
   "ptrs": [
    "0x387fc"
   ],
@@ -1001,8 +1001,8 @@
   "id": "r075e3c",
   "kind": "string",
   "jp": "し",
-  "en": "",
-  "status": "new",
+  "en": "it",
+  "status": "done",
   "ptrs": [
    "0x38838"
   ],
@@ -1012,8 +1012,8 @@
   "id": "r075e40",
   "kind": "string",
   "jp": "ま",
-  "en": "",
-  "status": "new",
+  "en": "!",
+  "status": "done",
   "ptrs": [
    "0x38874"
   ],
@@ -1023,8 +1023,8 @@
   "id": "r075e44",
   "kind": "string",
   "jp": "い",
-  "en": "",
-  "status": "new",
+  "en": "!",
+  "status": "done",
   "ptrs": [
    "0x388b0"
   ],
@@ -1034,8 +1034,8 @@
   "id": "r075e48",
   "kind": "string",
   "jp": "おしえてもらうＶスキル",
-  "en": "",
-  "status": "new",
+  "en": "V Skills to learn",
+  "status": "done",
   "ptrs": [
    "0x39238"
   ],
@@ -1045,8 +1045,8 @@
   "id": "r075e60",
   "kind": "string",
   "jp": "？？？？？？？？",
-  "en": "",
-  "status": "new",
+  "en": "????????",
+  "status": "done",
   "ptrs": [
    "0x39278"
   ],
@@ -1056,8 +1056,8 @@
   "id": "r075e74",
   "kind": "string",
   "jp": "本当にやめますか？",
-  "en": "",
-  "status": "new",
+  "en": "Really quit?",
+  "status": "done",
   "ptrs": [
    "0xee530"
   ],
@@ -1067,8 +1067,8 @@
   "id": "r075e88",
   "kind": "string",
   "jp": "』をおぼえている……",
-  "en": "",
-  "status": "new",
+  "en": "\" known already...",
+  "status": "done",
   "ptrs": [
    "0xee52c"
   ],
@@ -1078,8 +1078,8 @@
   "id": "r075ea0",
   "kind": "string",
   "jp": "すでに∴は",
-  "en": "",
-  "status": "new",
+  "en": "∴ already",
+  "status": "done",
   "ptrs": [
    "0xee528"
   ],
@@ -1089,8 +1089,8 @@
   "id": "r075eac",
   "kind": "string",
   "jp": "ＶＰがたりないようです……",
-  "en": "",
-  "status": "new",
+  "en": "Not enough VP...",
+  "status": "done",
   "ptrs": [
    "0xee524"
   ],
@@ -1100,8 +1100,8 @@
   "id": "r075ec8",
   "kind": "string",
   "jp": "おそれ入りますが",
-  "en": "",
-  "status": "new",
+  "en": "Sorry, but",
+  "status": "done",
   "ptrs": [
    "0xee520"
   ],
@@ -1111,8 +1111,8 @@
   "id": "r075edc",
   "kind": "string",
   "jp": "』を思い出しますか？",
-  "en": "",
-  "status": "new",
+  "en": "\": recall it?",
+  "status": "done",
   "ptrs": [
    "0xee51c"
   ],
@@ -1122,8 +1122,8 @@
   "id": "r075ef4",
   "kind": "string",
   "jp": "『",
-  "en": "",
-  "status": "new",
+  "en": "\"",
+  "status": "done",
   "ptrs": [
    "0xee518"
   ],
@@ -1133,8 +1133,8 @@
   "id": "r075ef8",
   "kind": "string",
   "jp": "ＶＰ",
-  "en": "",
-  "status": "new",
+  "en": "VP",
+  "status": "done",
   "ptrs": [
    "0x3977c"
   ],
@@ -1144,8 +1144,8 @@
   "id": "r075f00",
   "kind": "string",
   "jp": "本当にやめますか？",
-  "en": "",
-  "status": "new",
+  "en": "Really quit?",
+  "status": "done",
   "ptrs": [
    "0xee550"
   ],
@@ -1155,8 +1155,8 @@
   "id": "r075f14",
   "kind": "string",
   "jp": "おぼえているようです",
-  "en": "",
-  "status": "new",
+  "en": "learned already.",
+  "status": "done",
   "ptrs": [
    "0xee54c"
   ],
@@ -1166,8 +1166,8 @@
   "id": "r075f2c",
   "kind": "string",
   "jp": "』を",
-  "en": "",
-  "status": "new",
+  "en": "\"",
+  "status": "done",
   "ptrs": [
    "0xee548"
   ],
@@ -1177,8 +1177,8 @@
   "id": "r075f34",
   "kind": "string",
   "jp": "すでにあいてが『",
-  "en": "",
-  "status": "new",
+  "en": "Partner has \"",
+  "status": "done",
   "ptrs": [
    "0xee544"
   ],
@@ -1188,8 +1188,8 @@
   "id": "r075f48",
   "kind": "string",
   "jp": "あいてのＶＰがたりないようです！",
-  "en": "",
-  "status": "new",
+  "en": "Your partner lacks VP!",
+  "status": "done",
   "ptrs": [
    "0xee540"
   ],
@@ -1199,8 +1199,8 @@
   "id": "r075f6c",
   "kind": "string",
   "jp": "おそれ入りますが",
-  "en": "",
-  "status": "new",
+  "en": "Sorry, but",
+  "status": "done",
   "ptrs": [
    "0xee53c"
   ],
@@ -1210,8 +1210,8 @@
   "id": "r075f80",
   "kind": "string",
   "jp": "』を教えますか？",
-  "en": "",
-  "status": "new",
+  "en": "\"? Teach it?",
+  "status": "done",
   "ptrs": [
    "0xee538"
   ],
@@ -1221,8 +1221,8 @@
   "id": "r075f94",
   "kind": "string",
   "jp": "『",
-  "en": "",
-  "status": "new",
+  "en": "\"",
+  "status": "done",
   "ptrs": [
    "0xee534",
    "0xee594"
@@ -1233,8 +1233,8 @@
   "id": "r075f98",
   "kind": "string",
   "jp": "あいて",
-  "en": "",
-  "status": "new",
+  "en": "Other",
+  "status": "done",
   "ptrs": [
    "0x3a89c"
   ],
@@ -1244,8 +1244,8 @@
   "id": "r075fa0",
   "kind": "string",
   "jp": "ＶＰ",
-  "en": "",
-  "status": "new",
+  "en": "VP",
+  "status": "done",
   "ptrs": [
    "0x3a90c"
   ],
@@ -1255,8 +1255,8 @@
   "id": "r075fa8",
   "kind": "string",
   "jp": "しゅうりょうします",
-  "en": "",
-  "status": "new",
+  "en": "Quitting.",
+  "status": "done",
   "ptrs": [
    "0xee58c"
   ],
@@ -1266,8 +1266,8 @@
   "id": "r075fbc",
   "kind": "string",
   "jp": "記録しました",
-  "en": "",
-  "status": "new",
+  "en": "Saved.",
+  "status": "done",
   "ptrs": [
    "0xee584"
   ],
@@ -1277,8 +1277,8 @@
   "id": "r075fcc",
   "kind": "string",
   "jp": "電源を切らないで下さい",
-  "en": "",
-  "status": "new",
+  "en": "Don't turn off power.",
+  "status": "done",
   "ptrs": [
    "0xee580"
   ],
@@ -1288,8 +1288,8 @@
   "id": "r075fe4",
   "kind": "string",
   "jp": "記録中です",
-  "en": "",
-  "status": "new",
+  "en": "Saving...",
+  "status": "done",
   "ptrs": [
    "0xee57c"
   ],
@@ -1312,8 +1312,8 @@
   "id": "r075ff4",
   "kind": "string",
   "jp": "しゅうりょうまちです……",
-  "en": "",
-  "status": "new",
+  "en": "Waiting to end...",
+  "status": "done",
   "ptrs": [
    "0xee574"
   ],
@@ -1323,8 +1323,8 @@
   "id": "r076010",
   "kind": "string",
   "jp": "もういちど　えらんでください",
-  "en": "",
-  "status": "new",
+  "en": "Please choose again.",
+  "status": "done",
   "ptrs": [
    "0xee570"
   ],
@@ -1334,8 +1334,8 @@
   "id": "r076030",
   "kind": "string",
   "jp": "ちがうＶスキルが　いいようです",
-  "en": "",
-  "status": "new",
+  "en": "They want another V Skill.",
+  "status": "done",
   "ptrs": [
    "0xee56c"
   ],
@@ -1345,8 +1345,8 @@
   "id": "r076050",
   "kind": "string",
   "jp": "けっていをまっています",
-  "en": "",
-  "status": "new",
+  "en": "Waiting for choice",
+  "status": "done",
   "ptrs": [
    "0xee568"
   ],
@@ -1356,8 +1356,8 @@
   "id": "r076068",
   "kind": "string",
   "jp": "教えてもらう　Ｖスキルの",
-  "en": "",
-  "status": "new",
+  "en": "V Skill to learn:",
+  "status": "done",
   "ptrs": [
    "0xee564"
   ],
@@ -1367,8 +1367,8 @@
   "id": "r076084",
   "kind": "string",
   "jp": "あいての　けっていをまっています",
-  "en": "",
-  "status": "new",
+  "en": "waiting for partner...",
+  "status": "done",
   "ptrs": [
    "0xee55c"
   ],
@@ -1378,8 +1378,8 @@
   "id": "r0760a8",
   "kind": "string",
   "jp": "しばらく　おまちください",
-  "en": "",
-  "status": "new",
+  "en": "Please wait a moment.",
+  "status": "done",
   "ptrs": [
    "0xee558",
    "0xee560",
@@ -1391,8 +1391,8 @@
   "id": "r0760c4",
   "kind": "string",
   "jp": "つうしんちゅうです",
-  "en": "",
-  "status": "new",
+  "en": "Linking...",
+  "status": "done",
   "ptrs": [
    "0xee554"
   ],
@@ -1402,8 +1402,8 @@
   "id": "r0760d8",
   "kind": "string",
   "jp": "ＶＰをてんそうしました！",
-  "en": "",
-  "status": "new",
+  "en": "VP sent!",
+  "status": "done",
   "ptrs": [
    "0xee5a4"
   ],
@@ -1413,8 +1413,8 @@
   "id": "r0760f4",
   "kind": "string",
   "jp": "ＶＰをじゅしんしました！",
-  "en": "",
-  "status": "new",
+  "en": "VP received!",
+  "status": "done",
   "ptrs": [
    "0xee5a0"
   ],
@@ -1424,8 +1424,8 @@
   "id": "r076110",
   "kind": "string",
   "jp": "』をおぼえた！",
-  "en": "",
-  "status": "new",
+  "en": "\" learned!",
+  "status": "done",
   "ptrs": [
    "0xee59c"
   ],
@@ -1435,8 +1435,8 @@
   "id": "r076120",
   "kind": "string",
   "jp": "』を教えた！",
-  "en": "",
-  "status": "new",
+  "en": "\" taught!",
+  "status": "done",
   "ptrs": [
    "0xee598"
   ],
@@ -1446,8 +1446,8 @@
   "id": "r076130",
   "kind": "string",
   "jp": "ゲームにもどります",
-  "en": "",
-  "status": "new",
+  "en": "Back to the game.",
+  "status": "done",
   "ptrs": [
    "0xee5dc"
   ],
@@ -1457,8 +1457,8 @@
   "id": "r076144",
   "kind": "string",
   "jp": "しゅうりょうが　えらばれました",
-  "en": "",
-  "status": "new",
+  "en": "Quit was selected.",
+  "status": "done",
   "ptrs": [
    "0xee5d8"
   ],
@@ -1468,8 +1468,8 @@
   "id": "r076164",
   "kind": "string",
   "jp": "記録に失敗しました",
-  "en": "",
-  "status": "new",
+  "en": "Save failed.",
+  "status": "done",
   "ptrs": [
    "0xee5d0"
   ],
@@ -1479,8 +1479,8 @@
   "id": "r076178",
   "kind": "string",
   "jp": "教わるには",
-  "en": "",
-  "status": "new",
+  "en": "To learn,",
+  "status": "done",
   "ptrs": [
    "0xee5c8"
   ],
@@ -1490,8 +1490,8 @@
   "id": "r076184",
   "kind": "string",
   "jp": "ＶＰがたりないようです",
-  "en": "",
-  "status": "new",
+  "en": "not enough VP.",
+  "status": "done",
   "ptrs": [
    "0xee5c4",
    "0xee5cc"
@@ -1502,8 +1502,8 @@
   "id": "r07619c",
   "kind": "string",
   "jp": "教えるには　あいての",
-  "en": "",
-  "status": "new",
+  "en": "To teach, partner",
+  "status": "done",
   "ptrs": [
    "0xee5c0"
   ],
@@ -1513,8 +1513,8 @@
   "id": "r0761b4",
   "kind": "string",
   "jp": "教わるＶスキルが",
-  "en": "",
-  "status": "new",
+  "en": "No V Skill to",
+  "status": "done",
   "ptrs": [
    "0xee5b8"
   ],
@@ -1524,8 +1524,8 @@
   "id": "r0761c8",
   "kind": "string",
   "jp": "ありません",
-  "en": "",
-  "status": "new",
+  "en": "learn.",
+  "status": "done",
   "ptrs": [
    "0xee5b4",
    "0xee5bc"
@@ -1536,8 +1536,8 @@
   "id": "r0761d4",
   "kind": "string",
   "jp": "教えられるＶスキルが",
-  "en": "",
-  "status": "new",
+  "en": "No V Skill to teach",
+  "status": "done",
   "ptrs": [
    "0xee5b0"
   ],
@@ -1547,8 +1547,8 @@
   "id": "r0761ec",
   "kind": "string",
   "jp": "ちゅうだんします",
-  "en": "",
-  "status": "new",
+  "en": "Cancelling.",
+  "status": "done",
   "ptrs": [
    "0xee5ac"
   ],
@@ -1558,8 +1558,8 @@
   "id": "r076200",
   "kind": "string",
   "jp": "つうしんエラーです",
-  "en": "",
-  "status": "new",
+  "en": "Link error.",
+  "status": "done",
   "ptrs": [
    "0xee5a8"
   ],
@@ -1569,8 +1569,8 @@
   "id": "r076214",
   "kind": "string",
   "jp": "本当にやめますか？",
-  "en": "",
-  "status": "new",
+  "en": "Really quit?",
+  "status": "done",
   "ptrs": [
    "0xee5f8"
   ],
@@ -1580,8 +1580,8 @@
   "id": "r076228",
   "kind": "string",
   "jp": "しゅうりょうまちです……",
-  "en": "",
-  "status": "new",
+  "en": "Waiting to end...",
+  "status": "done",
   "ptrs": [
    "0xee5f4"
   ],
@@ -1591,8 +1591,8 @@
   "id": "r076244",
   "kind": "string",
   "jp": "こうかんしました！！",
-  "en": "",
-  "status": "new",
+  "en": "Trade complete!!",
+  "status": "done",
   "ptrs": [
    "0xee5f0"
   ],
@@ -1602,8 +1602,8 @@
   "id": "r07625c",
   "kind": "string",
   "jp": "キャンセルされました",
-  "en": "",
-  "status": "new",
+  "en": "Cancelled.",
+  "status": "done",
   "ptrs": [
    "0xee5ec"
   ],
@@ -1613,8 +1613,8 @@
   "id": "r076274",
   "kind": "string",
   "jp": "しばらく　おまちください",
-  "en": "",
-  "status": "new",
+  "en": "Please wait a moment.",
+  "status": "done",
   "ptrs": [
    "0xee5e8"
   ],
@@ -1624,8 +1624,8 @@
   "id": "r076290",
   "kind": "string",
   "jp": "つうしんちゅうです",
-  "en": "",
-  "status": "new",
+  "en": "Linking...",
+  "status": "done",
   "ptrs": [
    "0xee5e4"
   ],
@@ -1635,8 +1635,8 @@
   "id": "r0762a4",
   "kind": "string",
   "jp": "本当にこちらでよろしいですか？",
-  "en": "",
-  "status": "new",
+  "en": "Are you sure about this?",
+  "status": "done",
   "ptrs": [
    "0xee5e0"
   ],
@@ -1646,8 +1646,8 @@
   "id": "r0762c4",
   "kind": "string",
   "jp": "ちゅうだんします",
-  "en": "",
-  "status": "new",
+  "en": "Cancelling.",
+  "status": "done",
   "ptrs": [
    "0xee600"
   ],
@@ -1657,8 +1657,8 @@
   "id": "r0762d8",
   "kind": "string",
   "jp": "つうしんエラーです",
-  "en": "",
-  "status": "new",
+  "en": "Link error.",
+  "status": "done",
   "ptrs": [
    "0xee5fc"
   ],
@@ -1668,8 +1668,8 @@
   "id": "r07630c",
   "kind": "string",
   "jp": "ゲームにもどります",
-  "en": "",
-  "status": "new",
+  "en": "Back to the game.",
+  "status": "done",
   "ptrs": [
    "0xee620"
   ],
@@ -1679,8 +1679,8 @@
   "id": "r076320",
   "kind": "string",
   "jp": "しゅうりょうが　えらばれました",
-  "en": "",
-  "status": "new",
+  "en": "Quit was selected.",
+  "status": "done",
   "ptrs": [
    "0xee61c"
   ],
@@ -1690,8 +1690,8 @@
   "id": "r076340",
   "kind": "string",
   "jp": "記録に失敗しました",
-  "en": "",
-  "status": "new",
+  "en": "Save failed.",
+  "status": "done",
   "ptrs": [
    "0xee614"
   ],
@@ -1713,8 +1713,8 @@
   "id": "r076358",
   "kind": "string",
   "jp": "記録しました",
-  "en": "",
-  "status": "new",
+  "en": "Saved.",
+  "status": "done",
   "ptrs": [
    "0xee60c"
   ],
@@ -1724,8 +1724,8 @@
   "id": "r076368",
   "kind": "string",
   "jp": "電源を切らないで下さい",
-  "en": "",
-  "status": "new",
+  "en": "Don't turn off power.",
+  "status": "done",
   "ptrs": [
    "0xee608"
   ],
@@ -1735,8 +1735,8 @@
   "id": "r076380",
   "kind": "string",
   "jp": "記録中です",
-  "en": "",
-  "status": "new",
+  "en": "Saving...",
+  "status": "done",
   "ptrs": [
    "0xee604"
   ],
@@ -1746,8 +1746,8 @@
   "id": "r07638c",
   "kind": "string",
   "jp": "』を",
-  "en": "",
-  "status": "new",
+  "en": "\"",
+  "status": "done",
   "ptrs": [
    "0xee644"
   ],
@@ -1757,8 +1757,8 @@
   "id": "r076394",
   "kind": "string",
   "jp": "Ｖスキル『",
-  "en": "",
-  "status": "new",
+  "en": "V Skill \"",
+  "status": "done",
   "ptrs": [
    "0xee640"
   ],
@@ -1768,8 +1768,8 @@
   "id": "r0763a0",
   "kind": "string",
   "jp": "わすれました！",
-  "en": "",
-  "status": "new",
+  "en": "forgotten!",
+  "status": "done",
   "ptrs": [
    "0xee63c"
   ],
@@ -1779,8 +1779,8 @@
   "id": "r0763b0",
   "kind": "string",
   "jp": "おぼえました！",
-  "en": "",
-  "status": "new",
+  "en": "learned!",
+  "status": "done",
   "ptrs": [
    "0xee638"
   ],
@@ -1790,8 +1790,8 @@
   "id": "r0763c0",
   "kind": "string",
   "jp": "わすれて・・・",
-  "en": "",
-  "status": "new",
+  "en": "Forgotten...",
+  "status": "done",
   "ptrs": [
    "0xee634"
   ],
@@ -1801,8 +1801,8 @@
   "id": "r0763d0",
   "kind": "string",
   "jp": "わすれていいですか？",
-  "en": "",
-  "status": "new",
+  "en": "OK to forget it?",
+  "status": "done",
   "ptrs": [
    "0xee630"
   ],
@@ -1812,8 +1812,8 @@
   "id": "r0763e8",
   "kind": "string",
   "jp": "わすれるＶスキルをえらんでください！",
-  "en": "",
-  "status": "new",
+  "en": "Choose a V Skill to forget!",
+  "status": "done",
   "ptrs": [
    "0xee62c"
   ],
@@ -1823,8 +1823,8 @@
   "id": "r076410",
   "kind": "string",
   "jp": "アーマレットサイズを",
-  "en": "",
-  "status": "new",
+  "en": "Armalet Size is",
+  "status": "done",
   "ptrs": [
    "0x3d26c"
   ],
@@ -1834,8 +1834,8 @@
   "id": "r076428",
   "kind": "string",
   "jp": "オーバーしています　よろしいですか？",
-  "en": "",
-  "status": "new",
+  "en": "exceeded. Is that OK?",
+  "status": "done",
   "ptrs": [
    "0x3d2ac"
   ],
@@ -1845,8 +1845,8 @@
   "id": "r076450",
   "kind": "string",
   "jp": "』は",
-  "en": "",
-  "status": "new",
+  "en": "\":",
+  "status": "done",
   "ptrs": [
    "0xee66c"
   ],
@@ -1856,8 +1856,8 @@
   "id": "r076458",
   "kind": "string",
   "jp": "』を",
-  "en": "",
-  "status": "new",
+  "en": "\"",
+  "status": "done",
   "ptrs": [
    "0xee668"
   ],
@@ -1867,8 +1867,8 @@
   "id": "r076460",
   "kind": "string",
   "jp": "Ｖスキル『",
-  "en": "",
-  "status": "new",
+  "en": "V Skill \"",
+  "status": "done",
   "ptrs": [
    "0xee664"
   ],
@@ -1878,8 +1878,8 @@
   "id": "r07646c",
   "kind": "string",
   "jp": "すでにおぼえています！",
-  "en": "",
-  "status": "new",
+  "en": "is already learned!",
+  "status": "done",
   "ptrs": [
    "0xee660"
   ],
@@ -1889,8 +1889,8 @@
   "id": "r076484",
   "kind": "string",
   "jp": "しゅとくした！",
-  "en": "",
-  "status": "new",
+  "en": "acquired!",
+  "status": "done",
   "ptrs": [
    "0xee65c"
   ],
@@ -1900,8 +1900,8 @@
   "id": "r076494",
   "kind": "string",
   "jp": "ＥＸＰ",
-  "en": "",
-  "status": "new",
+  "en": "EXP",
+  "status": "done",
   "ptrs": [
    "0xee658"
   ],
@@ -1911,8 +1911,8 @@
   "id": "r07649c",
   "kind": "string",
   "jp": "るいけい",
-  "en": "",
-  "status": "new",
+  "en": "Total",
+  "status": "done",
   "ptrs": [
    "0xee654"
   ],
@@ -1922,8 +1922,8 @@
   "id": "r0764a8",
   "kind": "string",
   "jp": "ボーナスＶＰ",
-  "en": "",
-  "status": "new",
+  "en": "Bonus VP",
+  "status": "done",
   "ptrs": [
    "0xee650"
   ],
@@ -1933,8 +1933,8 @@
   "id": "r0764b8",
   "kind": "string",
   "jp": "ＶＰ",
-  "en": "",
-  "status": "new",
+  "en": "VP",
+  "status": "done",
   "ptrs": [
    "0xee64c"
   ],
@@ -1944,8 +1944,8 @@
   "id": "r0764c0",
   "kind": "string",
   "jp": "Ｖポイント",
-  "en": "",
-  "status": "new",
+  "en": "V Points",
+  "status": "done",
   "ptrs": [
    "0xee648"
   ],
@@ -1955,8 +1955,8 @@
   "id": "r0764e0",
   "kind": "string",
   "jp": "，",
-  "en": "",
-  "status": "new",
+  "en": ",",
+  "status": "done",
   "ptrs": [
    "0x3dcb4"
   ],
@@ -1966,8 +1966,8 @@
   "id": "r0764ec",
   "kind": "string",
   "jp": "強いこうげき力があるロールです",
-  "en": "",
-  "status": "new",
+  "en": "this strong Roll!",
+  "status": "done",
   "ptrs": [
    "0xee694"
   ],
@@ -1977,8 +1977,8 @@
   "id": "r07650c",
   "kind": "string",
   "jp": "バウンダーに弾かれない",
-  "en": "",
-  "status": "new",
+  "en": "Bounders can't stop",
+  "status": "done",
   "ptrs": [
    "0xee690"
   ],
@@ -1988,8 +1988,8 @@
   "id": "r076524",
   "kind": "string",
   "jp": "使えます",
-  "en": "",
-  "status": "new",
+  "en": "use it.",
+  "status": "done",
   "ptrs": [
    "0xee688"
   ],
@@ -1999,8 +1999,8 @@
   "id": "r076530",
   "kind": "string",
   "jp": "Ｂボタン　Ｒボタンのどれかをおすと",
-  "en": "",
-  "status": "new",
+  "en": "A, B, or R Button to",
+  "status": "done",
   "ptrs": [
    "0xee680"
   ],
@@ -2010,8 +2010,8 @@
   "id": "r076554",
   "kind": "string",
   "jp": "アタックロール中に　Ａボタン",
-  "en": "",
-  "status": "new",
+  "en": "In an Attack Roll, press",
+  "status": "done",
   "ptrs": [
    "0xee67c"
   ],
@@ -2021,8 +2021,8 @@
   "id": "r076578",
   "kind": "string",
   "jp": "使えるようになりました！",
-  "en": "",
-  "status": "new",
+  "en": "is now yours to use!",
+  "status": "done",
   "ptrs": [
    "0xee674"
   ],
@@ -2032,8 +2032,8 @@
   "id": "r076594",
   "kind": "string",
   "jp": "新しい力『ブレイクロール』を",
-  "en": "",
-  "status": "new",
+  "en": "New power \"Break Roll\"",
+  "status": "done",
   "ptrs": [
    "0xee670"
   ],
@@ -2043,8 +2043,8 @@
   "id": "r076618",
   "kind": "string",
   "jp": "？？？？？？？？？？",
-  "en": "",
-  "status": "new",
+  "en": "??????????",
+  "status": "done",
   "ptrs": [
    "0xeea90"
   ],
@@ -2065,8 +2065,8 @@
   "id": "r076640",
   "kind": "string",
   "jp": "－－－",
-  "en": "",
-  "status": "new",
+  "en": "---",
+  "status": "done",
   "ptrs": [
    "0x40088"
   ],
@@ -2076,8 +2076,8 @@
   "id": "r076648",
   "kind": "string",
   "jp": "じょうしきに",
-  "en": "",
-  "status": "new",
+  "en": "An outside-",
+  "status": "done",
   "ptrs": [
    "0xeeac8"
   ],
@@ -2087,8 +2087,8 @@
   "id": "r076658",
   "kind": "string",
   "jp": "さかなやさんで",
-  "en": "",
-  "status": "new",
+  "en": "From the fish",
+  "status": "done",
   "ptrs": [
    "0xeeac4"
   ],
@@ -2098,8 +2098,8 @@
   "id": "r076668",
   "kind": "string",
   "jp": "田万里村に",
-  "en": "",
-  "status": "new",
+  "en": "Tamari's",
+  "status": "done",
   "ptrs": [
    "0xeeac0"
   ],
@@ -2109,8 +2109,8 @@
   "id": "r076674",
   "kind": "string",
   "jp": "弾打浜のワカメ",
-  "en": "",
-  "status": "new",
+  "en": "Dandahama kelp",
+  "status": "done",
   "ptrs": [
    "0xeeabc"
   ],
@@ -2120,8 +2120,8 @@
   "id": "r076684",
   "kind": "string",
   "jp": "真丸タワーの",
-  "en": "",
-  "status": "new",
+  "en": "The tower's",
+  "status": "done",
   "ptrs": [
    "0xeeab8"
   ],
@@ -2131,8 +2131,8 @@
   "id": "r076694",
   "kind": "string",
   "jp": "１人前の",
-  "en": "",
-  "status": "new",
+  "en": "Badge:",
+  "status": "done",
   "ptrs": [
    "0xeeab4"
   ],
@@ -2142,8 +2142,8 @@
   "id": "r0766a0",
   "kind": "string",
   "jp": "バトローリングの",
-  "en": "",
-  "status": "new",
+  "en": "Vattrolling",
+  "status": "done",
   "ptrs": [
    "0xeeab0"
   ],
@@ -2153,8 +2153,8 @@
   "id": "r0766b4",
   "kind": "string",
   "jp": "ふうとうの中には",
-  "en": "",
-  "status": "new",
+  "en": "In the envelope",
+  "status": "done",
   "ptrs": [
    "0xeeaac"
   ],
@@ -2164,8 +2164,8 @@
   "id": "r0766c8",
   "kind": "string",
   "jp": "まんげつの",
-  "en": "",
-  "status": "new",
+  "en": "Mangetsu's",
+  "status": "done",
   "ptrs": [
    "0xeeaa8"
   ],
@@ -2175,8 +2175,8 @@
   "id": "r0766d4",
   "kind": "string",
   "jp": "田万里村の",
-  "en": "",
-  "status": "new",
+  "en": "Tamari's",
+  "status": "done",
   "ptrs": [
    "0xeeaa4"
   ],
@@ -2186,8 +2186,8 @@
   "id": "r0766e0",
   "kind": "string",
   "jp": "マルスに",
-  "en": "",
-  "status": "new",
+  "en": "\"Mars\"",
+  "status": "done",
   "ptrs": [
    "0xeeaa0"
   ],
@@ -2197,8 +2197,8 @@
   "id": "r0766ec",
   "kind": "string",
   "jp": "プロの",
-  "en": "",
-  "status": "new",
+  "en": "Pro",
+  "status": "done",
   "ptrs": [
    "0xeea9c"
   ],
@@ -2208,8 +2208,8 @@
   "id": "r0766f4",
   "kind": "string",
   "jp": "クラブフォースの",
-  "en": "",
-  "status": "new",
+  "en": "Club Force",
+  "status": "done",
   "ptrs": [
    "0xeea98"
   ],
@@ -2219,8 +2219,8 @@
   "id": "r076708",
   "kind": "string",
   "jp": "とらわれない",
-  "en": "",
-  "status": "new",
+  "en": "the-box",
+  "status": "done",
   "ptrs": [
    "0xeeafc"
   ],
@@ -2230,8 +2230,8 @@
   "id": "r076718",
   "kind": "string",
   "jp": "もらったウナギ",
-  "en": "",
-  "status": "new",
+  "en": "shop: an eel,",
+  "status": "done",
   "ptrs": [
    "0xeeaf8"
   ],
@@ -2241,8 +2241,8 @@
   "id": "r076728",
   "kind": "string",
   "jp": "むかしから",
-  "en": "",
-  "status": "new",
+  "en": "age-old",
+  "status": "done",
   "ptrs": [
    "0xeeaf4"
   ],
@@ -2252,8 +2252,8 @@
   "id": "r076734",
   "kind": "string",
   "jp": "さみしいあたまも",
-  "en": "",
-  "status": "new",
+  "en": "makes thin hair",
+  "status": "done",
   "ptrs": [
    "0xeeaf0"
   ],
@@ -2263,8 +2263,8 @@
   "id": "r076748",
   "kind": "string",
   "jp": "パンフレット",
-  "en": "",
-  "status": "new",
+  "en": "pamphlet;",
+  "status": "done",
   "ptrs": [
    "0xeeaec"
   ],
@@ -2274,8 +2274,8 @@
   "id": "r076758",
   "kind": "string",
   "jp": "マスターになった",
-  "en": "",
-  "status": "new",
+  "en": "a full master",
+  "status": "done",
   "ptrs": [
    "0xeeae8"
   ],
@@ -2285,8 +2285,8 @@
   "id": "r07676c",
   "kind": "string",
   "jp": "すべてがのってる",
-  "en": "",
-  "status": "new",
+  "en": "all in here",
+  "status": "done",
   "ptrs": [
    "0xeeae4"
   ],
@@ -2296,8 +2296,8 @@
   "id": "r076780",
   "kind": "string",
   "jp": "なにがはいって",
-  "en": "",
-  "status": "new",
+  "en": "what could it",
+  "status": "done",
   "ptrs": [
    "0xeeae0"
   ],
@@ -2307,8 +2307,8 @@
   "id": "r076790",
   "kind": "string",
   "jp": "めいぶつだんご",
-  "en": "",
-  "status": "new",
+  "en": "famous dango",
+  "status": "done",
   "ptrs": [
    "0xeeadc"
   ],
@@ -2318,8 +2318,8 @@
   "id": "r0767a0",
   "kind": "string",
   "jp": "めいさん品",
-  "en": "",
-  "status": "new",
+  "en": "specialty",
+  "status": "done",
   "ptrs": [
    "0xeead8"
   ],
@@ -2329,8 +2329,8 @@
   "id": "r0767ac",
   "kind": "string",
   "jp": "チャレンジする",
-  "en": "",
-  "status": "new",
+  "en": "challenge",
+  "status": "done",
   "ptrs": [
    "0xeead4"
   ],
@@ -2340,8 +2340,8 @@
   "id": "r0767bc",
   "kind": "string",
   "jp": "バトローラー",
-  "en": "",
-  "status": "new",
+  "en": "Vattroller",
+  "status": "done",
   "ptrs": [
    "0xeead0"
   ],
@@ -2351,8 +2351,8 @@
   "id": "r0767cc",
   "kind": "string",
   "jp": "一員であるあかし",
-  "en": "",
-  "status": "new",
+  "en": "member's proof",
+  "status": "done",
   "ptrs": [
    "0xeeacc"
   ],
@@ -2362,8 +2362,8 @@
   "id": "r0767e0",
   "kind": "string",
   "jp": "ケーキ",
-  "en": "",
-  "status": "new",
+  "en": "cake",
+  "status": "done",
   "ptrs": [
    "0xeeb30"
   ],
@@ -2373,8 +2373,8 @@
   "id": "r0767e8",
   "kind": "string",
   "jp": "あぶらがのってて",
-  "en": "",
-  "status": "new",
+  "en": "nice and fatty",
+  "status": "done",
   "ptrs": [
    "0xeeb2c"
   ],
@@ -2384,8 +2384,8 @@
   "id": "r0767fc",
   "kind": "string",
   "jp": "つたわるおたから",
-  "en": "",
-  "status": "new",
+  "en": "family treasure",
+  "status": "done",
   "ptrs": [
    "0xeeb28"
   ],
@@ -2395,8 +2395,8 @@
   "id": "r076810",
   "kind": "string",
   "jp": "ツヤツヤになる",
-  "en": "",
-  "status": "new",
+  "en": "glossy",
+  "status": "done",
   "ptrs": [
    "0xeeb24"
   ],
@@ -2406,8 +2406,8 @@
   "id": "r076820",
   "kind": "string",
   "jp": "つかうとゴワゴワ",
-  "en": "",
-  "status": "new",
+  "en": "rough if used",
+  "status": "done",
   "ptrs": [
    "0xeeb20"
   ],
@@ -2417,8 +2417,8 @@
   "id": "r076834",
   "kind": "string",
   "jp": "あかし",
-  "en": "",
-  "status": "new",
+  "en": "proven",
+  "status": "done",
   "ptrs": [
    "0xeeb1c"
   ],
@@ -2428,8 +2428,8 @@
   "id": "r07683c",
   "kind": "string",
   "jp": "むずかしくて",
-  "en": "",
-  "status": "new",
+  "en": "but too hard",
+  "status": "done",
   "ptrs": [
    "0xeeb18"
   ],
@@ -2439,8 +2439,8 @@
   "id": "r07684c",
   "kind": "string",
   "jp": "いるのだろう？",
-  "en": "",
-  "status": "new",
+  "en": "be, I wonder?",
+  "status": "done",
   "ptrs": [
    "0xeeb14"
   ],
@@ -2450,8 +2450,8 @@
   "id": "r07685c",
   "kind": "string",
   "jp": "中にはクリが",
-  "en": "",
-  "status": "new",
+  "en": "chestnut in",
+  "status": "done",
   "ptrs": [
    "0xeeb10"
   ],
