@@ -20,8 +20,29 @@ def test_446_changes_only_label_tiles():
     assert len(new) == len(orig)
     allowed = {t for first, count, _ in gfx.LABELS + gfx.PILLS for t in range(first, first + count)}
     allowed |= {n for blocks, _ in gfx.TALL_LABELS for n, _, _ in gfx.tall_tiles(blocks)}
+    allowed |= {t for head in gfx.SHOP_HEADS for t in head[0]}
+    allowed |= {t for row in gfx.SHOP_CANT[0] for t in row} | set(gfx.PAGE_LABEL[0]) | set(gfx.PAGE_LABEL[1])
     changed = {i // 32 for i in range(len(orig)) if orig[i] != new[i]}
     assert changed and changed <= allowed
+
+
+def test_717_changes_only_the_vpon_message_sprites():
+    ar = archive.Archive()
+    orig, new = ar.file(gfx.VPON_FILE), gfx.files(ar)[gfx.VPON_FILE]
+    assert len(new) == len(orig)
+    changed = {i // 32 for i in range(len(orig)) if orig[i] != new[i]}
+    assert changed and changed <= set(gfx.vpon_cells().values())
+    assert set(range(640, 680)) <= set(gfx.vpon_cells().values())
+
+
+def test_shop_heads_keep_their_box_border():
+    ar = archive.Archive()
+    orig, new = ar.file(gfx.SHEET), gfx.files(ar)[gfx.SHEET]
+    for head in gfx.SHOP_HEADS:
+        for t in head[0]:
+            o, n = gfx.tile_px(orig, t), gfx.tile_px(new, t)
+            assert o[7] == n[7]                                   # bottom border row kept
+            assert all(v in (0, 0xD, 0xE, 9) for row in n for v in row)
 
 
 def test_431_changes_only_box_and_status_tiles():
@@ -30,9 +51,12 @@ def test_431_changes_only_box_and_status_tiles():
     assert len(new) == len(orig)
     allowed = {t for first, count, _ in gfx.BOXES_431 for t in range(first, first + count)}
     allowed |= {t for row in gfx.STATUS_431 + gfx.ARM_431 for t in row[0]} | {dst for _, dst in gfx.COPIES_431}
+    allowed |= set(gfx.HEAD_431[0])
     changed = {i // 32 for i in range(len(orig)) if orig[i] != new[i]}
     assert changed and changed <= allowed
     assert new[117 * 32:118 * 32] == new[132 * 32:133 * 32]      # the two copies of the タ end tile stay equal
+    corner = gfx.tile_px(orig, 143)
+    assert [r[5:] for r in gfx.tile_px(new, 143)] == [r[5:] for r in corner]   # G17 head keeps its box corner
 
 
 def test_434_changes_only_the_special_tab():

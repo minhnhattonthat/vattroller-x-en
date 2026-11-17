@@ -87,14 +87,14 @@ def render_tall(orig, blocks, text, glyphs):
     return {n: [row[x0:x0 + 8] for row in px[y0:y0 + 8]] for n, x0, y0 in tiles}
 
 
-def label_px(arrow, w, text, glyphs):
-    """8 x w label pixels: the arrow's first ARROW_W columns, then English cores with an outline."""
+def label_px(arrow, w, text, glyphs, arrow_w=ARROW_W):
+    """8 x w label pixels: the arrow's first `arrow_w` columns, then English cores with an outline."""
     px = [[BG] * w for _ in range(8)]
     for y in range(8):
-        for x in range(ARROW_W):
+        for x in range(arrow_w):
             px[y][x] = arrow[y][x]
     core = [[False] * w for _ in range(8)]
-    x = ARROW_W + 2
+    x = arrow_w + 2
     for ch in text:
         if ch == " ":
             x += 2
@@ -106,10 +106,10 @@ def label_px(arrow, w, text, glyphs):
                     core[1 + gy][x + gx] = True
         x += 4
     for y in range(8):
-        for xx in range(ARROW_W, w):
+        for xx in range(arrow_w, w):
             if core[y][xx]:
                 px[y][xx] = FILL
-            elif any(0 <= y + dy < 8 and ARROW_W <= xx + dx < w and core[y + dy][xx + dx]
+            elif any(0 <= y + dy < 8 and arrow_w <= xx + dx < w and core[y + dy][xx + dx]
                      for dy in (-1, 0, 1) for dx in (-1, 0, 1)):
                 px[y][xx] = OUTLINE
     return px
@@ -166,6 +166,12 @@ STATUS_431 = [
     ((185, 186, 187, 188, 189, 118), "Usable", 0xD, 3, None, 3, 4, 46, (3, 0xE, 1)),       # ツカエル (box line 1)
     ((64, 65, 66, 110, 111, 112), "Arm Types", 0xD, 3, None, 1, 3, 46, (3, 0xE)),         # アームケイトウ (line 2)
 ]
+# G17: ひっさつわざしょうさい, head of the special-details panel (Arm Data device, combo slot): BG3 map row 0 lays
+# #431 tiles 175-177, 101-103, 143 (cb 0xC000, tile n = #431 n; found with tilefind.py on a specialsweep dump).
+# Ink 4 on 6 with shadow 2 under the kana feet (row 7); tile 143 cols 5-7 / row 7 cols 3-7 are the box corner.
+# "Special Details" (57 px) cannot fit the 53 px box: "Special Info".
+HEAD_431 = ((175, 176, 177, 101, 102, 103, 143), "Special Info", 6, 4, None, 1, 0, 53, (4, 2, 5))
+HEAD_431_FOOT = 51             # row 7 is cleared of the kana shadow up to the corner
 COPIES_431 = [(117, 132)]      # 132 is an identical copy of 117 (the タ end of ヒトガタ) in the original: keep it so
 
 
@@ -240,6 +246,9 @@ def sheet_431(orig):
     narrow = dict(glyphs, **NARROW)
     for *args, rows in ARM_431:
         relabel(orig, out, *args, narrow, rows=rows)
+    tiles = HEAD_431[0]
+    relabel(orig, out, *HEAD_431, glyphs, rows=(0, 7))
+    relabel(bytes(out), out, tiles, "", 6, 4, None, 0, 0, HEAD_431_FOOT, (2, 4), glyphs, rows=(7, 8))
     for src, dst in COPIES_431:
         out[dst * 32:dst * 32 + 32] = out[src * 32:src * 32 + 32]
     return bytes(out)
@@ -267,9 +276,56 @@ def render_pill(orig, first, count, text, glyphs):
     return px
 
 
+# Shop screen (G3, game mode 10; tiles from `oamlabels.py --file 446` on a `shop_arms` dump). Column heads are 32x16
+# sprites: a d box (border e) with ink 9 (antialias 7/8) on the second tile row. Rows as in relabel(): tiles, text,
+# bg, ink, shadow, glyph top, x range, cleared colours, pixel rows.
+SHOP_HEADS = [
+    ((437, 438, 439, 440), "Item", 0xD, 9, None, 1, 1, 31, (9, 8, 7), (0, 7)),     # しなもの (433-436 above: border only)
+    ((460, 461, 462, 463), "Equip", 0xD, 9, None, 1, 2, 30, (9, 8, 7), (0, 7)),    # そうび (448-451 above)
+    ((452, 453, 454, 455), "Price", 0xD, 9, None, 1, 2, 30, (9, 8, 7), (0, 7)),    # ねだん (448-451 above)
+]
+# できない in each row's Equip column (32x16, tiles 464-467 over 468-471): fill 8 with an outline 5 (antialias 7).
+SHOP_CANT = (((464, 465, 466, 467), (468, 469, 470, 471)), "No", 8, 5, 6)   # "Can't": the ' outline clogs it
+# ▶ページきりかえ (L/R: change page): a 32x16 sprite (tiles 56-59 over 60-63, the top row holds only dakuten) at
+# x 26 plus a 16x8 one (574-575) at x 58, label style like LABELS but with a 5 px arrow (its outline reaches col 4).
+PAGE_LABEL = ((60, 61, 62, 63, 574, 575), (56, 57, 58, 59), "Turn page", 5)    # "Change page" is 2 px too long
+
+
+def outlined(data, out, grid, text, fill, outline, top, glyphs):
+    """Clear the tile grid to BG and draw `text` centred in `fill` with an 8-neighbour `outline` ring."""
+    w, h = 8 * len(grid[0]), 8 * len(grid)
+    width = sum(2 if ch == " " else 4 for ch in text) - 1
+    assert width + 2 <= w, f"{text!r} does not fit {w} px"
+    x, core = (w - width) // 2, set()
+    for ch in text:
+        if ch != " ":
+            core |= {(top + gy, x + gx) for gy, row in enumerate(glyphs[ch]) for gx, c in enumerate(row) if c == "#"}
+        x += 2 if ch == " " else 4
+    px = [[BG] * w for _ in range(h)]
+    for y, xx in core:
+        for dy in (-1, 0, 1):
+            for dx in (-1, 0, 1):
+                if 0 <= y + dy < h and 0 <= xx + dx < w and (y + dy, xx + dx) not in core:
+                    px[y + dy][xx + dx] = outline
+        px[y][xx] = fill
+    for r, trow in enumerate(grid):
+        for k, t in enumerate(trow):
+            put_tile(out, t, [row[k * 8:k * 8 + 8] for row in px[8 * r:8 * r + 8]])
+
+
 def sheet_446(orig):
     glyphs = tagfont.load_font3()
     out = bytearray(orig)
+    for args in SHOP_HEADS:
+        relabel(orig, out, *args[:9], glyphs, rows=args[9])
+    grid, text, fill, outline, top = SHOP_CANT
+    outlined(orig, out, grid, text, fill, outline, top, glyphs)
+    tiles, above, text, arrow_w = PAGE_LABEL
+    px = label_px(tile_px(orig, tiles[0]), 8 * len(tiles), text, glyphs, arrow_w)
+    for k, t in enumerate(tiles):
+        put_tile(out, t, [row[k * 8:k * 8 + 8] for row in px])
+    for t in above:
+        put_tile(out, t, [[BG] * 8 for _ in range(8)])
     for first, count, text in LABELS:
         px = render_label(orig, first, count, text, glyphs)
         for k in range(count):
@@ -659,6 +715,49 @@ def sheet_441(orig):
     return bytes(out)
 
 
+# #717 (raw 4bpp, V-Pon machine screen, game mode 13; G16): the message かきかえを / かくにんしました!!! over the
+# machine's screen is six opaque sprites (OAM of a `md13` dump, 1D mapping) whose tiles are #717 640-679 plus the
+# 8x16 piece 254-255 (a kana tail kept in the OBJ strip right of the BG picture). (x, y, w, h, first tile); the
+# canvas spans x 69-181, y 0-31. Background 1 (screen grey), ink 3, soft 2 right of / below the ink.
+VPON_FILE = 717
+VPON_SPRITES = [(85, 16, 8, 16, 254), (93, 0, 32, 32, 640), (69, 16, 16, 16, 656), (125, 0, 16, 32, 660),
+                (141, 0, 8, 32, 668), (149, 16, 32, 16, 672)]
+# text, centre x, top y (screen pixels); the prize card covers y >= ~24, so line 2 sits as high as its sprites allow
+VPON_LINES = [("REWRITE", 121, 4), ("CONFIRMED!!!", 125, 16)]
+VPON_BG, VPON_INK, VPON_SOFT = 1, 3, 2
+VPON_FONT = {"M": ["#...#", "##.##", "#.#.#", "#.#.#", "#...#", "#...#", "#...#"]}    # added to CARD_FONT
+
+
+def vpon_cells():
+    """{(screen x, y) of each 8x8 cell: #717 tile} for the message sprites (1D: tiles row-major per sprite)."""
+    return {(x + 8 * c, y + 8 * r): first + r * (w // 8) + c
+            for x, y, w, h, first in VPON_SPRITES for r in range(h // 8) for c in range(w // 8)}
+
+
+def sheet_717(orig):
+    font = dict(CARD_FONT, **VPON_FONT)
+    cells = vpon_cells()
+    ink = set()
+    for text, cx, top in VPON_LINES:
+        width = sum(len(font[c][0]) + 1 if c != " " else 3 for c in text) - 1
+        x = cx - width // 2
+        for c in text:
+            if c == " ":
+                x += 3
+                continue
+            ink |= {(x + gx, top + gy) for gy, row in enumerate(font[c]) for gx, b in enumerate(row) if b == "#"}
+            x += len(font[c][0]) + 1
+    covered = {(cx + i, cy + j) for cx, cy in cells for i in range(8) for j in range(8)}
+    assert ink <= covered, "V-Pon text runs off its sprites"
+    soft = {(x + 1, y) for x, y in ink} | {(x, y + 1) for x, y in ink}
+    out = bytearray(orig)
+    for (cx, cy), t in cells.items():
+        px = [[VPON_INK if (cx + i, cy + j) in ink else VPON_SOFT if (cx + i, cy + j) in soft else VPON_BG
+               for i in range(8)] for j in range(8)]
+        put_tile(out, t, px)
+    return bytes(out)
+
+
 def files(ar):
     """{archive file index: new bytes} for every redrawn graphics file."""
     orig, o431, o452, o433 = (ar.file(n) for n in (SHEET, SHEET_431, SHEET_452, SHEET_433))
@@ -674,6 +773,9 @@ def files(ar):
     o441 = ar.file(CARD_FILE)
     assert archive.unpack(o441)[1] == "raw"
     out[CARD_FILE] = sheet_441(o441)
+    o717 = ar.file(VPON_FILE)
+    assert archive.unpack(o717)[1] == "raw"
+    out[VPON_FILE] = sheet_717(o717)
     for s in SIGNS:
         n = s["file"]
         data = out.get(n) or ar.file(n)
