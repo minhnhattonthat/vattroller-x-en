@@ -5080,7 +5080,7 @@
   "id": "r07801c",
   "kind": "string",
   "jp": "バトローラーシュウ　番外編",
-  "en": "Vattroller Shu: Side Story",
+  "en": "Vattroller Shu Side Story",
   "status": "done",
   "ptrs": [
    "0x77ff0"
@@ -5091,7 +5091,7 @@
   "id": "r078038",
   "kind": "string",
   "jp": "バトローラートータ　番外編",
-  "en": "Vattroller Totta: Side Story",
+  "en": "Vattroller Totta Side Story",
   "status": "done",
   "ptrs": [
    "0x77fd8"
@@ -5102,7 +5102,7 @@
   "id": "r078054",
   "kind": "string",
   "jp": "バトローラーリョウ　番外編",
-  "en": "Vattroller Ryo: Side Story",
+  "en": "Vattroller Ryo Side Story",
   "status": "done",
   "ptrs": [
    "0x77fc0"
@@ -5113,7 +5113,7 @@
   "id": "r078070",
   "kind": "string",
   "jp": "バトローラージン　アレーナ編",
-  "en": "Vattroller Jin: Arena Arc",
+  "en": "Vattroller Jin Arena Arc",
   "status": "done",
   "ptrs": [
    "0x77fa8"
@@ -5124,7 +5124,7 @@
   "id": "r078090",
   "kind": "string",
   "jp": "バトローラージン　修行編",
-  "en": "Vattroller Jin: Training Arc",
+  "en": "Vattroller Jin Training Arc",
   "status": "done",
   "ptrs": [
    "0x77f90"
@@ -5135,7 +5135,7 @@
   "id": "r0780ac",
   "kind": "string",
   "jp": "バトローラージン　げきとう編",
-  "en": "Vattroller Jin: Showdown Arc",
+  "en": "Vattroller Jin Showdown Arc",
   "status": "done",
   "ptrs": [
    "0x77f78"
@@ -5146,7 +5146,7 @@
   "id": "r0780cc",
   "kind": "string",
   "jp": "バトローラージン　登場編",
-  "en": "Vattroller Jin: Debut Arc",
+  "en": "Vattroller Jin Debut Arc",
   "status": "done",
   "ptrs": [
    "0x77f60"
