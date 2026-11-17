@@ -14,6 +14,7 @@
 --   UNLOCK    shelf unlock mask (default 0xFFFF; the game's fresh-save value is 0x100)
 --   STATE_OUT absolute path: save a state after the shot
 --   MASHPOST  1 = after POST, keep pressing down,A during HOLD (choices need a direction first)
+--   NODE      CPU address of an event command to run once when POST starts (see below)
 local M = emu.memType.gbaMemory
 local ROOM_VAR = 0x030054F8          -- s16 room id read by the room loader
 local UNLOCK_VAR = 0x03003D38        -- u32 shelf unlock mask (bit = book index)
@@ -25,6 +26,20 @@ local phase, t0 = "boot", 0
 local loaded_room, warped = nil, false
 
 local function set_phase(p) phase = p; t0 = L.frame; L.log(string.format("f%d phase %s", L.frame, p)) end
+
+-- NODE: CPU address of one event command (warp.py resolves scene field "node" from build/strings.tsv) that the
+-- script interpreter runs once, POST starting at the same time: at the step entry 0x08030B40 with no wait
+-- pending (callback 0x030063EC = 0) the command pointer 0x030063F4 is set to NODE. Used for commands no room
+-- reaches from a warp, e.g. op 0x2A arg 1 = start the VRX game (V Center 2F single-player machine, e2617).
+local node_due = false
+if NODE then
+  L.on_exec(0x08030B40, 0x08030B40, function()
+    if not node_due or emu.read32(0x030063EC, M) ~= 0 then return end
+    node_due = false
+    emu.write32(0x030063F4, NODE, M)
+    L.log(string.format("f%d node %08X", L.frame, NODE))
+  end)
+end
 
 local function play(route)
   for step in (route or ""):gmatch("[^;]+") do
@@ -129,7 +144,10 @@ L.on_frame(function(f)
     -- story text and choices (nothing is selected until a direction is pressed)
     if dt % 40 == 0 and L.route_done() then L.press("down", 6); L.press("-", 8); L.press("a", 6) end
   elseif phase == "loaded" then
-    if dt == 30 then play(POST); set_phase("post") end
+    if dt == 30 then
+      if NODE then node_due = true end
+      play(POST); set_phase("post")
+    end
   elseif phase == "post" then
     if L.route_done() then set_phase("hold") end
   elseif phase == "hold" then

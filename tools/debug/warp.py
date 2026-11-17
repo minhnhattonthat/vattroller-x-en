@@ -61,6 +61,25 @@ def with_premash(scene):
     return {**scene, "post": post}
 
 
+def node_addr(rom, node):
+    """Scene field node = {"after": text id, "op": hex bytes}: CPU address of the first copy of those command
+    bytes after the text line's address in the build's layout (build/strings.tsv). Build only: the original
+    ROM's event files have no strings.tsv (JP tours skip node scenes)."""
+    data = Path(rom).read_bytes()
+    tsv = ROOT / "build" / "strings.tsv"
+    start = None
+    if Path(rom).resolve() == (ROOT / "build" / "vattroller_x_en.gba").resolve() and tsv.exists():
+        for line in tsv.read_text(encoding="utf-8").splitlines():
+            if line.split("\t")[0] == node["after"]:
+                start = int(line.split("\t")[1], 16)
+    if start is None:
+        sys.exit(f"node: {node['after']} not in {tsv} (run tools/strings_tsv.py after the build)")
+    at = data.find(bytes.fromhex(node["op"]), start, start + 0x400)
+    if at < 0:
+        sys.exit(f"node: {node['op']} not within 0x400 bytes after {node['after']}")
+    return 0x08000000 + at
+
+
 def run(scene, rom, outroot, state, sheet):
     scene = with_premash(with_entry(scene))
     out = outroot / scene["name"]
@@ -74,6 +93,10 @@ def run(scene, rom, outroot, state, sheet):
             cmd += ["--var", f"{k}={lua_str(scene[k.lower()])}"]
     if state:
         cmd += ["--var", f"STATE_OUT={lua_str((ROOT / 'work' / 'states' / (scene['name'] + '.mss')).as_posix())}"]
+    if "node" in scene:
+        cmd += ["--var", f"NODE=0x{node_addr(rom, scene['node']):08X}"]
+    for s in scene.get("scripts", []):
+        cmd += ["--script", (ROOT / s).as_posix()]
     if sheet:
         cmd += ["--shot-every", "120", "--sheet"]
     for extra in EXTRA:

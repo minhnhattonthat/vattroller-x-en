@@ -62,8 +62,22 @@ scene's state with the textcover probe into `work/qa/cover/ids/<name>` (textcove
 | page | HOOK | PTR / OFF | record | status |
 |---|---|---|---|---|
 | Arm Data (`menu_armdata`, KEY right, N 134) | `0x0804D2E0` (`ldrb r1,[r0,#1]`, r0 = `*0x03002BF4`+0x4C) | `0x03002BF4` / `0x4D` | `*0x02009D58` + id*0x78 = ROM 0xED50 (name + 3 desc ptrs) | verified, 134 Arms drawn, +529 strings |
-| V Skills (`menu_vskills`) | desc drawn by `0x08040830` (id = `0x0802DEE8(list idx)`; record `*0x02009D48` + id*0x28 = ROM 0x7C78, names list ROM 0x7890) | — | — | **not working yet**: `0x0802DEE8` reads `*(0x03002A90)+0x73+idx` (5 signed slots), but overwriting those blanks the description and the name list does not change: the shown list comes from elsewhere; hook the return of `0x0802DEE8` at `0x08040830` (set r0 with `emu.setState`/register write) instead |
+| V Skills (`menu_vskills`, KEY down, N 103) | `0x0803FB8E` = return of `0x0802DEE8(list idx)` in the desc draw; `REG=0` sets r0 = id there | owned bits u32[4] at `*(0x03002AA0)+0x53C` (unowned → blank page): `OWN_PTR=0x03002AA0 OWN_OFF=0x53C OWN_N=16` | `*0x02009D48` + id*0x28 = ROM 0x7C78 (name + 5 desc line ptrs) | verified, 103 skills drawn (`work/qa/cover/ids/vskills/id###.png`), +449 strings |
 | Arm Data page header (`0x0803FDFE`, id `*(0x03002BF8)+0xD`, V Skill record) | fires once per page open only | | | |
+
+## VRX (the single-player VR game, 2026-11-17)
+
+V Center 2F's single-player machine runs event op `0x2A` arg 1 (`2a00080001000000`, e2617 after line
+e2617_00a24). warp.lua var `NODE` (scene field `node` = `{"after": id, "op": hex}`, resolved by warp.py from
+`build/strings.tsv`, build only) runs that one command from the comic room when POST starts: scenes `vrx_title`,
+`vrx_players`, `vrx_player`, `vrx_opponent`, `vrx_rules`, `vrx_stage` (states saved). A battle then runs on its
+own (both sides CPU-like; ~120 s timer, a draw returns to the comic). `tools/lua/vrxall.lua` (scene field
+`scripts`) unlocks every character: the test `0x08065748(id)` reads bit id of u32[6] at IWRAM `0x03002CF8`
+(re-read from the save on screen init, so the bits are set at the function's entry). Roster: id → record map at
+`0x03002D10`, records `*0x02009D38` + idx*0x58 = ROM 0xCE0 (22 pointers: +0 name, +4 "…", +8.. profile lines and
+win quote); the list draw is `0x080668CC`. The profile panel (lines from record +8) is drawn by `0x0806A2F4(id)`,
+called from the state machine at `0x0806A4C8` — not seen in a draw-ended battle: probably the winner screen;
+needs a forced win (next).
 
 ## Gaps (next)
 

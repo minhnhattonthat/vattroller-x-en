@@ -12,7 +12,7 @@ sys.path.insert(0, str(ROOT / "tools"))
 sys.path.insert(0, str(DEBUG))
 HAVE_ROM = any((ROOT / "rom").glob("*.gba"))
 FIELDS = {"name", "book", "room", "post", "hold", "stop_at", "csteps", "mashpost", "frames", "desc", "from_room",
-          "from_nth", "expect", "x", "y", "face", "entry", "via", "unlock", "premash"}
+          "from_nth", "expect", "x", "y", "face", "entry", "via", "unlock", "premash", "node", "scripts"}
 
 
 def test_scenes_are_well_formed():

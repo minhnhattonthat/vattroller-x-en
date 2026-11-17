@@ -70,6 +70,12 @@
     {"name": "help_armalet", "book": 0, "from_room": 84, "from_nth": 2, "premash": 2400, "post": "30 -;10 start;60 -;8 a;90 -;8 select;90 -", "hold": 90, "frames": 46000, "desc": "RPG: Armalet Data > SELECT help bubble"},
     {"name": "menu_vskills", "book": 0, "from_room": 84, "from_nth": 2, "premash": 2400, "post": "30 -;10 start;60 -;8 a;90 -;8 right;90 -;8 a;90 -", "hold": 90, "frames": 46000, "desc": "RPG: Character Data > A: V Skills"},
     {"name": "help_vskills", "book": 0, "from_room": 84, "from_nth": 2, "premash": 2400, "post": "30 -;10 start;60 -;8 a;90 -;8 right;90 -;8 a;90 -;8 select;90 -", "hold": 90, "frames": 46000, "desc": "RPG: V Skills > SELECT help bubble"},
-    {"name": "rpg_coliseum", "book": 0, "room": 83, "hold": 120, "desc": "RPG: 界天コロシアム (room 83)"}
+    {"name": "rpg_coliseum", "book": 0, "room": 83, "hold": 120, "desc": "RPG: 界天コロシアム (room 83)"},
+    {"name": "vrx_title", "book": 8, "node": {"after": "e2617_00a24", "op": "2a00080001000000"}, "post": "300 -", "hold": 30, "desc": "VRX game title (op 0x2A run from the comic room; build only)"},
+    {"name": "vrx_players", "book": 8, "node": {"after": "e2617_00a24", "op": "2a00080001000000"}, "post": "300 -;6 start;120 -", "hold": 30, "desc": "VRX: number of players"},
+    {"name": "vrx_player", "book": 8, "node": {"after": "e2617_00a24", "op": "2a00080001000000"}, "scripts": ["tools/lua/vrxall.lua"], "post": "300 -;6 start;120 -;6 a;120 -", "hold": 30, "desc": "VRX: Player Select, every character unlocked (vrxall.lua)"},
+    {"name": "vrx_opponent", "book": 8, "node": {"after": "e2617_00a24", "op": "2a00080001000000"}, "scripts": ["tools/lua/vrxall.lua"], "post": "300 -;6 start;120 -;6 a;120 -;6 a;120 -", "hold": 30, "desc": "VRX: Opponent Select, every character unlocked"},
+    {"name": "vrx_rules", "book": 8, "node": {"after": "e2617_00a24", "op": "2a00080001000000"}, "scripts": ["tools/lua/vrxall.lua"], "post": "300 -;6 start;120 -;6 a;120 -;6 a;120 -;6 a;120 -", "hold": 30, "desc": "VRX: Rule Select (Official / Survival)"},
+    {"name": "vrx_stage", "book": 8, "node": {"after": "e2617_00a24", "op": "2a00080001000000"}, "scripts": ["tools/lua/vrxall.lua"], "post": "300 -;6 start;120 -;6 a;120 -;6 a;120 -;6 a;120 -;6 a;120 -", "hold": 30, "desc": "VRX: Stage Select"}
   ]
 }
