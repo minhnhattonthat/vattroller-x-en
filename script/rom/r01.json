@@ -5746,8 +5746,8 @@
   "id": "r014ebc",
   "kind": "string",
   "jp": "ボルティックＡ",
-  "en": "",
-  "status": "new",
+  "en": "Voltic A",
+  "status": "done",
   "ptrs": [
    "0x12ab8"
   ],
@@ -5757,8 +5757,8 @@
   "id": "r014ecc",
   "kind": "string",
   "jp": "オノのサイガ　",
-  "en": "",
-  "status": "new",
+  "en": "An axe Saiga;",
+  "status": "done",
   "ptrs": [
    "0x12abc"
   ],
@@ -5768,8 +5768,8 @@
   "id": "r014edc",
   "kind": "string",
   "jp": "しょうげきはも",
-  "en": "",
-  "status": "new",
+  "en": "its shockwave",
+  "status": "done",
   "ptrs": [
    "0x12ac0"
   ],
@@ -5779,8 +5779,8 @@
   "id": "r014eec",
   "kind": "string",
   "jp": "強力",
-  "en": "",
-  "status": "new",
+  "en": "big!",
+  "status": "done",
   "ptrs": [
    "0x12ac4"
   ],
@@ -5790,8 +5790,8 @@
   "id": "r014ef4",
   "kind": "string",
   "jp": "クラウンシールド",
-  "en": "",
-  "status": "new",
+  "en": "Crown Shield",
+  "status": "done",
   "ptrs": [
    "0x12b30"
   ],
@@ -5801,8 +5801,8 @@
   "id": "r014f08",
   "kind": "string",
   "jp": "最強のたてと",
-  "en": "",
-  "status": "new",
+  "en": "Called the",
+  "status": "done",
   "ptrs": [
    "0x12b34"
   ],
@@ -5812,8 +5812,8 @@
   "id": "r014f18",
   "kind": "string",
   "jp": "言われるほどの",
-  "en": "",
-  "status": "new",
+  "en": "top shield:",
+  "status": "done",
   "ptrs": [
    "0x12b38"
   ],
@@ -5823,8 +5823,8 @@
   "id": "r014f28",
   "kind": "string",
   "jp": "サイガ",
-  "en": "",
-  "status": "new",
+  "en": "Saiga",
+  "status": "done",
   "ptrs": [
    "0x12b3c"
   ],
@@ -5834,8 +5834,8 @@
   "id": "r014f30",
   "kind": "string",
   "jp": "コテツ",
-  "en": "",
-  "status": "new",
+  "en": "Kotetsu",
+  "status": "done",
   "ptrs": [
    "0x12ba8"
   ],
@@ -5845,8 +5845,8 @@
   "id": "r014f38",
   "kind": "string",
   "jp": "コゲンタ愛用の",
-  "en": "",
-  "status": "new",
+  "en": "Kogenta's own",
+  "status": "done",
   "ptrs": [
    "0x12bac"
   ],
@@ -5856,8 +5856,8 @@
   "id": "r014f48",
   "kind": "string",
   "jp": "大きな剣",
-  "en": "",
-  "status": "new",
+  "en": "claymore",
+  "status": "done",
   "ptrs": [
    "0x12bb0"
   ],
@@ -5867,8 +5867,8 @@
   "id": "r014f58",
   "kind": "string",
   "jp": "ボウギョノイン",
-  "en": "",
-  "status": "new",
+  "en": "Defense Seal",
+  "status": "done",
   "ptrs": [
    "0x12c20"
   ],
@@ -5878,8 +5878,8 @@
   "id": "r014f68",
   "kind": "string",
   "jp": "トウジンキにより",
-  "en": "",
-  "status": "new",
+  "en": "A shield made",
+  "status": "done",
   "ptrs": [
    "0x12c24"
   ],
@@ -5889,8 +5889,8 @@
   "id": "r014f7c",
   "kind": "string",
   "jp": "生み出されるタテ",
-  "en": "",
-  "status": "new",
+  "en": "by the Tojinki",
+  "status": "done",
   "ptrs": [
    "0x12c28"
   ],
@@ -5900,8 +5900,8 @@
   "id": "r015400",
   "kind": "string",
   "jp": "キュアメイト",
-  "en": "",
-  "status": "new",
+  "en": "Cure Mate",
+  "status": "done",
   "ptrs": [
    "0x14fb0"
   ],
@@ -5911,8 +5911,8 @@
   "id": "r015410",
   "kind": "string",
   "jp": "ＨＰが０になると",
-  "en": "",
-  "status": "new",
+  "en": "At 0 HP, it",
+  "status": "done",
   "ptrs": [
    "0x14fb4"
   ],
@@ -5922,8 +5922,8 @@
   "id": "r015424",
   "kind": "string",
   "jp": "自動で１回",
-  "en": "",
-  "status": "new",
+  "en": "heals you",
+  "status": "done",
   "ptrs": [
    "0x14fb8"
   ],
@@ -5933,8 +5933,8 @@
   "id": "r015430",
   "kind": "string",
   "jp": "少しカイフクする",
-  "en": "",
-  "status": "new",
+  "en": "a bit, once",
+  "status": "done",
   "ptrs": [
    "0x14fbc"
   ],
@@ -5944,8 +5944,8 @@
   "id": "r015444",
   "kind": "string",
   "jp": "Ｓキュアメイト",
-  "en": "",
-  "status": "new",
+  "en": "S Cure Mate",
+  "status": "done",
   "ptrs": [
    "0x14fc8"
   ],
@@ -5955,8 +5955,8 @@
   "id": "r015454",
   "kind": "string",
   "jp": "ＨＰが０になると",
-  "en": "",
-  "status": "new",
+  "en": "At 0 HP, it",
+  "status": "done",
   "ptrs": [
    "0x14fcc"
   ],
@@ -5966,8 +5966,8 @@
   "id": "r015468",
   "kind": "string",
   "jp": "自動で１回",
-  "en": "",
-  "status": "new",
+  "en": "heals you",
+  "status": "done",
   "ptrs": [
    "0x14fd0"
   ],
@@ -5977,8 +5977,8 @@
   "id": "r015474",
   "kind": "string",
   "jp": "カイフクする",
-  "en": "",
-  "status": "new",
+  "en": "once",
+  "status": "done",
   "ptrs": [
    "0x14fd4"
   ],
@@ -5988,8 +5988,8 @@
   "id": "r015484",
   "kind": "string",
   "jp": "キュアメイト２",
-  "en": "",
-  "status": "new",
+  "en": "Cure Mate 2",
+  "status": "done",
   "ptrs": [
    "0x14fe0"
   ],
@@ -5999,8 +5999,8 @@
   "id": "r015494",
   "kind": "string",
   "jp": "ＨＰが０になると",
-  "en": "",
-  "status": "new",
+  "en": "At 0 HP, it",
+  "status": "done",
   "ptrs": [
    "0x14fe4"
   ],
@@ -6010,8 +6010,8 @@
   "id": "r0154a8",
   "kind": "string",
   "jp": "自動で２回",
-  "en": "",
-  "status": "new",
+  "en": "heals you",
+  "status": "done",
   "ptrs": [
    "0x14fe8"
   ],
@@ -6021,8 +6021,8 @@
   "id": "r0154b4",
   "kind": "string",
   "jp": "少しカイフクする",
-  "en": "",
-  "status": "new",
+  "en": "a bit, twice",
+  "status": "done",
   "ptrs": [
    "0x14fec"
   ],
@@ -6032,8 +6032,8 @@
   "id": "r0154c8",
   "kind": "string",
   "jp": "Ｓキュアメイト２",
-  "en": "",
-  "status": "new",
+  "en": "S Cure Mate 2",
+  "status": "done",
   "ptrs": [
    "0x14ff8"
   ],
@@ -6043,8 +6043,8 @@
   "id": "r0154dc",
   "kind": "string",
   "jp": "ＨＰが０になると",
-  "en": "",
-  "status": "new",
+  "en": "At 0 HP, it",
+  "status": "done",
   "ptrs": [
    "0x14ffc"
   ],
@@ -6054,8 +6054,8 @@
   "id": "r0154f0",
   "kind": "string",
   "jp": "自動で２回",
-  "en": "",
-  "status": "new",
+  "en": "heals you",
+  "status": "done",
   "ptrs": [
    "0x15000"
   ],
@@ -6065,8 +6065,8 @@
   "id": "r0154fc",
   "kind": "string",
   "jp": "カイフクする",
-  "en": "",
-  "status": "new",
+  "en": "twice",
+  "status": "done",
   "ptrs": [
    "0x15004"
   ],
@@ -6076,8 +6076,8 @@
   "id": "r01550c",
   "kind": "string",
   "jp": "キュアメイト３",
-  "en": "",
-  "status": "new",
+  "en": "Cure Mate 3",
+  "status": "done",
   "ptrs": [
    "0x15010"
   ],
@@ -6087,8 +6087,8 @@
   "id": "r01551c",
   "kind": "string",
   "jp": "ＨＰが０になると",
-  "en": "",
-  "status": "new",
+  "en": "At 0 HP, it",
+  "status": "done",
   "ptrs": [
    "0x15014"
   ],
@@ -6098,8 +6098,8 @@
   "id": "r015530",
   "kind": "string",
   "jp": "自動で３回",
-  "en": "",
-  "status": "new",
+  "en": "heals you",
+  "status": "done",
   "ptrs": [
    "0x15018"
   ],
@@ -6109,8 +6109,8 @@
   "id": "r01553c",
   "kind": "string",
   "jp": "少しカイフクする",
-  "en": "",
-  "status": "new",
+  "en": "a bit, 3 times",
+  "status": "done",
   "ptrs": [
    "0x1501c"
   ],
@@ -6120,8 +6120,8 @@
   "id": "r015550",
   "kind": "string",
   "jp": "Ｓキュアメイト３",
-  "en": "",
-  "status": "new",
+  "en": "S Cure Mate 3",
+  "status": "done",
   "ptrs": [
    "0x15028"
   ],
@@ -6131,8 +6131,8 @@
   "id": "r015564",
   "kind": "string",
   "jp": "ＨＰが０になると",
-  "en": "",
-  "status": "new",
+  "en": "At 0 HP, it",
+  "status": "done",
   "ptrs": [
    "0x1502c"
   ],
@@ -6142,8 +6142,8 @@
   "id": "r015578",
   "kind": "string",
   "jp": "自動で３回",
-  "en": "",
-  "status": "new",
+  "en": "heals you",
+  "status": "done",
   "ptrs": [
    "0x15030"
   ],
@@ -6153,8 +6153,8 @@
   "id": "r015584",
   "kind": "string",
   "jp": "カイフクする",
-  "en": "",
-  "status": "new",
+  "en": "3 times",
+  "status": "done",
   "ptrs": [
    "0x15034"
   ],
@@ -6164,8 +6164,8 @@
   "id": "r015594",
   "kind": "string",
   "jp": "オーラメイト",
-  "en": "",
-  "status": "new",
+  "en": "Aura Mate",
+  "status": "done",
   "ptrs": [
    "0x15040"
   ],
@@ -6175,8 +6175,8 @@
   "id": "r0155a4",
   "kind": "string",
   "jp": "ＡＰが０になると",
-  "en": "",
-  "status": "new",
+  "en": "At 0 AP, it",
+  "status": "done",
   "ptrs": [
    "0x15044"
   ],
@@ -6186,8 +6186,8 @@
   "id": "r0155b8",
   "kind": "string",
   "jp": "自動で１回",
-  "en": "",
-  "status": "new",
+  "en": "heals AP",
+  "status": "done",
   "ptrs": [
    "0x15048"
   ],
@@ -6197,8 +6197,8 @@
   "id": "r0155c4",
   "kind": "string",
   "jp": "少しカイフクする",
-  "en": "",
-  "status": "new",
+  "en": "a bit, once",
+  "status": "done",
   "ptrs": [
    "0x1504c"
   ],
@@ -6208,8 +6208,8 @@
   "id": "r0155d8",
   "kind": "string",
   "jp": "Ｓオーラメイト",
-  "en": "",
-  "status": "new",
+  "en": "S Aura Mate",
+  "status": "done",
   "ptrs": [
    "0x15058"
   ],
@@ -6219,8 +6219,8 @@
   "id": "r0155e8",
   "kind": "string",
   "jp": "ＡＰが０になると",
-  "en": "",
-  "status": "new",
+  "en": "At 0 AP, it",
+  "status": "done",
   "ptrs": [
    "0x1505c"
   ],
@@ -6230,8 +6230,8 @@
   "id": "r0155fc",
   "kind": "string",
   "jp": "自動で１回",
-  "en": "",
-  "status": "new",
+  "en": "heals AP",
+  "status": "done",
   "ptrs": [
    "0x15060"
   ],
@@ -6241,8 +6241,8 @@
   "id": "r015608",
   "kind": "string",
   "jp": "カイフクする",
-  "en": "",
-  "status": "new",
+  "en": "once",
+  "status": "done",
   "ptrs": [
    "0x15064"
   ],
@@ -6252,8 +6252,8 @@
   "id": "r015618",
   "kind": "string",
   "jp": "オーラメイト２",
-  "en": "",
-  "status": "new",
+  "en": "Aura Mate 2",
+  "status": "done",
   "ptrs": [
    "0x15070"
   ],
@@ -6263,8 +6263,8 @@
   "id": "r015628",
   "kind": "string",
   "jp": "ＡＰが０になると",
-  "en": "",
-  "status": "new",
+  "en": "At 0 AP, it",
+  "status": "done",
   "ptrs": [
    "0x15074"
   ],
@@ -6274,8 +6274,8 @@
   "id": "r01563c",
   "kind": "string",
   "jp": "自動で２回",
-  "en": "",
-  "status": "new",
+  "en": "heals AP",
+  "status": "done",
   "ptrs": [
    "0x15078"
   ],
@@ -6285,8 +6285,8 @@
   "id": "r015648",
   "kind": "string",
   "jp": "少しカイフクする",
-  "en": "",
-  "status": "new",
+  "en": "a bit, twice",
+  "status": "done",
   "ptrs": [
    "0x1507c"
   ],
@@ -6296,8 +6296,8 @@
   "id": "r01565c",
   "kind": "string",
   "jp": "Ｓオーラメイト２",
-  "en": "",
-  "status": "new",
+  "en": "S Aura Mate 2",
+  "status": "done",
   "ptrs": [
    "0x15088"
   ],
@@ -6307,8 +6307,8 @@
   "id": "r015670",
   "kind": "string",
   "jp": "ＡＰが０になると",
-  "en": "",
-  "status": "new",
+  "en": "At 0 AP, it",
+  "status": "done",
   "ptrs": [
    "0x1508c"
   ],
@@ -6318,8 +6318,8 @@
   "id": "r015684",
   "kind": "string",
   "jp": "自動で２回",
-  "en": "",
-  "status": "new",
+  "en": "heals AP",
+  "status": "done",
   "ptrs": [
    "0x15090"
   ],
@@ -6329,8 +6329,8 @@
   "id": "r015690",
   "kind": "string",
   "jp": "カイフクする",
-  "en": "",
-  "status": "new",
+  "en": "twice",
+  "status": "done",
   "ptrs": [
    "0x15094"
   ],
@@ -6340,8 +6340,8 @@
   "id": "r0156a0",
   "kind": "string",
   "jp": "オーラメイト３",
-  "en": "",
-  "status": "new",
+  "en": "Aura Mate 3",
+  "status": "done",
   "ptrs": [
    "0x150a0"
   ],
@@ -6351,8 +6351,8 @@
   "id": "r0156b0",
   "kind": "string",
   "jp": "ＡＰが０になると",
-  "en": "",
-  "status": "new",
+  "en": "At 0 AP, it",
+  "status": "done",
   "ptrs": [
    "0x150a4"
   ],
@@ -6362,8 +6362,8 @@
   "id": "r0156c4",
   "kind": "string",
   "jp": "自動で３回",
-  "en": "",
-  "status": "new",
+  "en": "heals AP",
+  "status": "done",
   "ptrs": [
    "0x150a8"
   ],
@@ -6373,8 +6373,8 @@
   "id": "r0156d0",
   "kind": "string",
   "jp": "少しカイフクする",
-  "en": "",
-  "status": "new",
+  "en": "a bit, 3 times",
+  "status": "done",
   "ptrs": [
    "0x150ac"
   ],
@@ -6384,8 +6384,8 @@
   "id": "r0156e4",
   "kind": "string",
   "jp": "Ｓオーラメイト３",
-  "en": "",
-  "status": "new",
+  "en": "S Aura Mate 3",
+  "status": "done",
   "ptrs": [
    "0x150b8"
   ],
@@ -6395,8 +6395,8 @@
   "id": "r0156f8",
   "kind": "string",
   "jp": "ＡＰが０になると",
-  "en": "",
-  "status": "new",
+  "en": "At 0 AP, it",
+  "status": "done",
   "ptrs": [
    "0x150bc"
   ],
@@ -6406,8 +6406,8 @@
   "id": "r01570c",
   "kind": "string",
   "jp": "自動で３回",
-  "en": "",
-  "status": "new",
+  "en": "heals AP",
+  "status": "done",
   "ptrs": [
    "0x150c0"
   ],
@@ -6417,8 +6417,8 @@
   "id": "r015718",
   "kind": "string",
   "jp": "カイフクする",
-  "en": "",
-  "status": "new",
+  "en": "3 times",
+  "status": "done",
   "ptrs": [
    "0x150c4"
   ],
@@ -6428,8 +6428,8 @@
   "id": "r015728",
   "kind": "string",
   "jp": "エクスキュア",
-  "en": "",
-  "status": "new",
+  "en": "Ex Cure",
+  "status": "done",
   "ptrs": [
    "0x150d0"
   ],
@@ -6439,8 +6439,8 @@
   "id": "r015738",
   "kind": "string",
   "jp": "ヒールロールから",
-  "en": "",
-  "status": "new",
+  "en": "Post-Heal Roll",
+  "status": "done",
   "ptrs": [
    "0x150d4"
   ],
@@ -6450,8 +6450,8 @@
   "id": "r01574c",
   "kind": "string",
   "jp": "もどった時ＨＰの",
-  "en": "",
-  "status": "new",
+  "en": "your max HP",
+  "status": "done",
   "ptrs": [
    "0x150d8"
   ],
@@ -6461,8 +6461,8 @@
   "id": "r015760",
   "kind": "string",
   "jp": "ＭＡＸがカイフク",
-  "en": "",
-  "status": "new",
+  "en": "is restored",
+  "status": "done",
   "ptrs": [
    "0x150dc"
   ],
@@ -6472,8 +6472,8 @@
   "id": "r015774",
   "kind": "string",
   "jp": "エクスキュア２",
-  "en": "",
-  "status": "new",
+  "en": "Ex Cure 2",
+  "status": "done",
   "ptrs": [
    "0x150e8"
   ],
@@ -6483,8 +6483,8 @@
   "id": "r015784",
   "kind": "string",
   "jp": "ＨＰのＭＡＸが",
-  "en": "",
-  "status": "new",
+  "en": "Max HP is",
+  "status": "done",
   "ptrs": [
    "0x150ec"
   ],
@@ -6494,8 +6494,8 @@
   "id": "r015794",
   "kind": "string",
   "jp": "２回カイフクする",
-  "en": "",
-  "status": "new",
+  "en": "restored twice",
+  "status": "done",
   "ptrs": [
    "0x150f0"
   ],
@@ -6505,8 +6505,8 @@
   "id": "r0157ac",
   "kind": "string",
   "jp": "ドロップドール",
-  "en": "",
-  "status": "new",
+  "en": "Drop Doll",
+  "status": "done",
   "ptrs": [
    "0x15100"
   ],
@@ -6516,8 +6516,8 @@
   "id": "r0157bc",
   "kind": "string",
   "jp": "ドロップされても",
-  "en": "",
-  "status": "new",
+  "en": "When Dropped,",
+  "status": "done",
   "ptrs": [
    "0x15104"
   ],
@@ -6527,8 +6527,8 @@
   "id": "r0157d0",
   "kind": "string",
   "jp": "１回だけ　かいひ",
-  "en": "",
-  "status": "new",
+  "en": "you dodge it",
+  "status": "done",
   "ptrs": [
    "0x15108"
   ],
@@ -6538,8 +6538,8 @@
   "id": "r0157e4",
   "kind": "string",
   "jp": "できる",
-  "en": "",
-  "status": "new",
+  "en": "once",
+  "status": "done",
   "ptrs": [
    "0x1510c"
   ],
@@ -6549,8 +6549,8 @@
   "id": "r0157ec",
   "kind": "string",
   "jp": "ドロップドール２",
-  "en": "",
-  "status": "new",
+  "en": "Drop Doll 2",
+  "status": "done",
   "ptrs": [
    "0x15118"
   ],
@@ -6560,8 +6560,8 @@
   "id": "r015800",
   "kind": "string",
   "jp": "ドロップされても",
-  "en": "",
-  "status": "new",
+  "en": "When Dropped,",
+  "status": "done",
   "ptrs": [
    "0x1511c"
   ],
@@ -6571,8 +6571,8 @@
   "id": "r015814",
   "kind": "string",
   "jp": "２回　かいひ",
-  "en": "",
-  "status": "new",
+  "en": "dodge it",
+  "status": "done",
   "ptrs": [
    "0x15120"
   ],
@@ -6582,8 +6582,8 @@
   "id": "r015824",
   "kind": "string",
   "jp": "できる",
-  "en": "",
-  "status": "new",
+  "en": "twice",
+  "status": "done",
   "ptrs": [
    "0x15124"
   ],
@@ -6593,8 +6593,8 @@
   "id": "r01582c",
   "kind": "string",
   "jp": "アームスケープ",
-  "en": "",
-  "status": "new",
+  "en": "Arm Escape",
+  "status": "done",
   "ptrs": [
    "0x15130"
   ],
@@ -6604,8 +6604,8 @@
   "id": "r01583c",
   "kind": "string",
   "jp": "必殺技を使っても",
-  "en": "",
-  "status": "new",
+  "en": "Post-special,",
+  "status": "done",
   "ptrs": [
    "0x15134"
   ],
@@ -6615,8 +6615,8 @@
   "id": "r015850",
   "kind": "string",
   "jp": "１回だけアームが",
-  "en": "",
-  "status": "new",
+  "en": "Arms work once",
+  "status": "done",
   "ptrs": [
    "0x15138"
   ],
@@ -6626,8 +6626,8 @@
   "id": "r015864",
   "kind": "string",
   "jp": "使える",
-  "en": "",
-  "status": "new",
+  "en": "more",
+  "status": "done",
   "ptrs": [
    "0x1513c"
   ],
@@ -6637,8 +6637,8 @@
   "id": "r01586c",
   "kind": "string",
   "jp": "アームスケープ２",
-  "en": "",
-  "status": "new",
+  "en": "Arm Escape 2",
+  "status": "done",
   "ptrs": [
    "0x15148"
   ],
@@ -6648,8 +6648,8 @@
   "id": "r015880",
   "kind": "string",
   "jp": "必殺技を使っても",
-  "en": "",
-  "status": "new",
+  "en": "Post-special,",
+  "status": "done",
   "ptrs": [
    "0x1514c"
   ],
@@ -6659,8 +6659,8 @@
   "id": "r015894",
   "kind": "string",
   "jp": "２回　アームが",
-  "en": "",
-  "status": "new",
+  "en": "Arms work",
+  "status": "done",
   "ptrs": [
    "0x15150"
   ],
@@ -6670,8 +6670,8 @@
   "id": "r0158a4",
   "kind": "string",
   "jp": "使える",
-  "en": "",
-  "status": "new",
+  "en": "twice",
+  "status": "done",
   "ptrs": [
    "0x15154"
   ],
@@ -6681,8 +6681,8 @@
   "id": "r0158ac",
   "kind": "string",
   "jp": "パライアンチ",
-  "en": "",
-  "status": "new",
+  "en": "Anti-Para",
+  "status": "done",
   "ptrs": [
    "0x15160"
   ],
@@ -6692,8 +6692,8 @@
   "id": "r0158bc",
   "kind": "string",
   "jp": "マヒこうげきを",
-  "en": "",
-  "status": "new",
+  "en": "Paralysis hits",
+  "status": "done",
   "ptrs": [
    "0x15164"
   ],
@@ -6703,8 +6703,8 @@
   "id": "r0158cc",
   "kind": "string",
   "jp": "５回だけ",
-  "en": "",
-  "status": "new",
+  "en": "only x5",
+  "status": "done",
   "ptrs": [
    "0x15168"
   ],
@@ -6714,8 +6714,8 @@
   "id": "r0158d8",
   "kind": "string",
   "jp": "ぼうぎょする",
-  "en": "",
-  "status": "new",
+  "en": "are blocked",
+  "status": "done",
   "ptrs": [
    "0x1516c"
   ],
@@ -6725,8 +6725,8 @@
   "id": "r0158e8",
   "kind": "string",
   "jp": "Ｓパライアンチ",
-  "en": "",
-  "status": "new",
+  "en": "S Anti-Para",
+  "status": "done",
   "ptrs": [
    "0x15178"
   ],
@@ -6736,8 +6736,8 @@
   "id": "r0158f8",
   "kind": "string",
   "jp": "マヒこうげきを",
-  "en": "",
-  "status": "new",
+  "en": "Paralysis hits",
+  "status": "done",
   "ptrs": [
    "0x1517c"
   ],
@@ -6747,8 +6747,8 @@
   "id": "r015908",
   "kind": "string",
   "jp": "１２回も",
-  "en": "",
-  "status": "new",
+  "en": "x12!",
+  "status": "done",
   "ptrs": [
    "0x15180"
   ],
@@ -6758,8 +6758,8 @@
   "id": "r015914",
   "kind": "string",
   "jp": "ぼうぎょする",
-  "en": "",
-  "status": "new",
+  "en": "are blocked",
+  "status": "done",
   "ptrs": [
    "0x15184"
   ],
@@ -6769,8 +6769,8 @@
   "id": "r015924",
   "kind": "string",
   "jp": "コンフュアンチ",
-  "en": "",
-  "status": "new",
+  "en": "Anti-Confuse",
+  "status": "done",
   "ptrs": [
    "0x15190"
   ],
@@ -6780,8 +6780,8 @@
   "id": "r015934",
   "kind": "string",
   "jp": "こんらんこうげき",
-  "en": "",
-  "status": "new",
+  "en": "Confusion hits",
+  "status": "done",
   "ptrs": [
    "0x15194"
   ],
@@ -6791,8 +6791,8 @@
   "id": "r015948",
   "kind": "string",
   "jp": "を５回",
-  "en": "",
-  "status": "new",
+  "en": "x5",
+  "status": "done",
   "ptrs": [
    "0x15198"
   ],
@@ -6802,8 +6802,8 @@
   "id": "r015950",
   "kind": "string",
   "jp": "ぼうぎょする",
-  "en": "",
-  "status": "new",
+  "en": "are blocked",
+  "status": "done",
   "ptrs": [
    "0x1519c"
   ],
@@ -6813,8 +6813,8 @@
   "id": "r015960",
   "kind": "string",
   "jp": "Ｓコンフュアンチ",
-  "en": "",
-  "status": "new",
+  "en": "S Anti-Confuse",
+  "status": "done",
   "ptrs": [
    "0x151a8"
   ],
@@ -6824,8 +6824,8 @@
   "id": "r015974",
   "kind": "string",
   "jp": "こんらんこうげき",
-  "en": "",
-  "status": "new",
+  "en": "Confusion hits",
+  "status": "done",
   "ptrs": [
    "0x151ac"
   ],
@@ -6835,8 +6835,8 @@
   "id": "r015988",
   "kind": "string",
   "jp": "を１２回も",
-  "en": "",
-  "status": "new",
+  "en": "x12!",
+  "status": "done",
   "ptrs": [
    "0x151b0"
   ],
@@ -6846,8 +6846,8 @@
   "id": "r015994",
   "kind": "string",
   "jp": "ぼうぎょする",
-  "en": "",
-  "status": "new",
+  "en": "are blocked",
+  "status": "done",
   "ptrs": [
    "0x151b4"
   ],
@@ -6857,8 +6857,8 @@
   "id": "r0159a4",
   "kind": "string",
   "jp": "ブラインアンチ",
-  "en": "",
-  "status": "new",
+  "en": "Anti-Blind",
+  "status": "done",
   "ptrs": [
    "0x151c0"
   ],
@@ -6868,8 +6868,8 @@
   "id": "r0159b4",
   "kind": "string",
   "jp": "目が見えなくなる",
-  "en": "",
-  "status": "new",
+  "en": "Blinding",
+  "status": "done",
   "ptrs": [
    "0x151c4"
   ],
@@ -6879,8 +6879,8 @@
   "id": "r0159c8",
   "kind": "string",
   "jp": "こうげきを２回",
-  "en": "",
-  "status": "new",
+  "en": "attacks x2",
+  "status": "done",
   "ptrs": [
    "0x151c8"
   ],
@@ -6890,8 +6890,8 @@
   "id": "r0159d8",
   "kind": "string",
   "jp": "ぼうぎょする",
-  "en": "",
-  "status": "new",
+  "en": "are blocked",
+  "status": "done",
   "ptrs": [
    "0x151cc"
   ],
@@ -6901,8 +6901,8 @@
   "id": "r0159e8",
   "kind": "string",
   "jp": "Ｓブラインアンチ",
-  "en": "",
-  "status": "new",
+  "en": "S Anti-Blind",
+  "status": "done",
   "ptrs": [
    "0x151d8"
   ],
@@ -6912,8 +6912,8 @@
   "id": "r0159fc",
   "kind": "string",
   "jp": "目が見えなくなる",
-  "en": "",
-  "status": "new",
+  "en": "Blinding",
+  "status": "done",
   "ptrs": [
    "0x151dc"
   ],
@@ -6923,8 +6923,8 @@
   "id": "r015a10",
   "kind": "string",
   "jp": "こうげきを５回",
-  "en": "",
-  "status": "new",
+  "en": "attacks x5",
+  "status": "done",
   "ptrs": [
    "0x151e0"
   ],
@@ -6934,8 +6934,8 @@
   "id": "r015a20",
   "kind": "string",
   "jp": "ぼうぎょする",
-  "en": "",
-  "status": "new",
+  "en": "are blocked",
+  "status": "done",
   "ptrs": [
    "0x151e4"
   ],
@@ -6945,8 +6945,8 @@
   "id": "r015a30",
   "kind": "string",
   "jp": "モザイクアンチ",
-  "en": "",
-  "status": "new",
+  "en": "Anti-Mosaic",
+  "status": "done",
   "ptrs": [
    "0x151f0"
   ],
@@ -6956,8 +6956,8 @@
   "id": "r015a40",
   "kind": "string",
   "jp": "モザイクこうげき",
-  "en": "",
-  "status": "new",
+  "en": "Mosaic attacks",
+  "status": "done",
   "ptrs": [
    "0x151f4"
   ],
@@ -6967,8 +6967,8 @@
   "id": "r015a54",
   "kind": "string",
   "jp": "を５回だけ",
-  "en": "",
-  "status": "new",
+  "en": "x5 only",
+  "status": "done",
   "ptrs": [
    "0x151f8"
   ],
@@ -6978,8 +6978,8 @@
   "id": "r015a60",
   "kind": "string",
   "jp": "ぼうぎょする",
-  "en": "",
-  "status": "new",
+  "en": "are blocked",
+  "status": "done",
   "ptrs": [
    "0x151fc"
   ],
@@ -6989,8 +6989,8 @@
   "id": "r015a70",
   "kind": "string",
   "jp": "Ｓモザイクアンチ",
-  "en": "",
-  "status": "new",
+  "en": "S Anti-Mosaic",
+  "status": "done",
   "ptrs": [
    "0x15208"
   ],
@@ -7000,8 +7000,8 @@
   "id": "r015a84",
   "kind": "string",
   "jp": "モザイクこうげき",
-  "en": "",
-  "status": "new",
+  "en": "Mosaic attacks",
+  "status": "done",
   "ptrs": [
    "0x1520c"
   ],
@@ -7011,8 +7011,8 @@
   "id": "r015a98",
   "kind": "string",
   "jp": "を１２回も",
-  "en": "",
-  "status": "new",
+  "en": "x12!",
+  "status": "done",
   "ptrs": [
    "0x15210"
   ],
@@ -7022,8 +7022,8 @@
   "id": "r015aa4",
   "kind": "string",
   "jp": "ぼうぎょする",
-  "en": "",
-  "status": "new",
+  "en": "are blocked",
+  "status": "done",
   "ptrs": [
    "0x15214"
   ],
@@ -7033,8 +7033,8 @@
   "id": "r015ab4",
   "kind": "string",
   "jp": "ハイドマーカー",
-  "en": "",
-  "status": "new",
+  "en": "Hide Marker",
+  "status": "done",
   "ptrs": [
    "0x15220"
   ],
@@ -7044,8 +7044,8 @@
   "id": "r015ac4",
   "kind": "string",
   "jp": "すがたを消す相手",
-  "en": "",
-  "status": "new",
+  "en": "Vanishing foes",
+  "status": "done",
   "ptrs": [
    "0x15224"
   ],
@@ -7055,8 +7055,8 @@
   "id": "r015ad8",
   "kind": "string",
   "jp": "が２回だけ見える",
-  "en": "",
-  "status": "new",
+  "en": "are seen twice",
+  "status": "done",
   "ptrs": [
    "0x15228"
   ],
@@ -7066,8 +7066,8 @@
   "id": "r015aec",
   "kind": "string",
   "jp": "ようになる",
-  "en": "",
-  "status": "new",
+  "en": "only",
+  "status": "done",
   "ptrs": [
    "0x1522c"
   ],
@@ -7077,8 +7077,8 @@
   "id": "r015af8",
   "kind": "string",
   "jp": "Ｓハイドマーカー",
-  "en": "",
-  "status": "new",
+  "en": "S Hide Marker",
+  "status": "done",
   "ptrs": [
    "0x15238"
   ],
@@ -7088,8 +7088,8 @@
   "id": "r015b0c",
   "kind": "string",
   "jp": "すがたを消す相手",
-  "en": "",
-  "status": "new",
+  "en": "Vanishing foes",
+  "status": "done",
   "ptrs": [
    "0x1523c"
   ],
@@ -7099,8 +7099,8 @@
   "id": "r015b20",
   "kind": "string",
   "jp": "が５回見える",
-  "en": "",
-  "status": "new",
+  "en": "are seen x5",
+  "status": "done",
   "ptrs": [
    "0x15240"
   ],
@@ -7110,8 +7110,8 @@
   "id": "r015b30",
   "kind": "string",
   "jp": "ようになる",
-  "en": "",
-  "status": "new",
+  "en": "now",
+  "status": "done",
   "ptrs": [
    "0x15244"
   ],
@@ -7121,8 +7121,8 @@
   "id": "r015b3c",
   "kind": "string",
   "jp": "アームガード",
-  "en": "",
-  "status": "new",
+  "en": "Arm Guard",
+  "status": "done",
   "ptrs": [
    "0x15250"
   ],
@@ -7132,8 +7132,8 @@
   "id": "r015b4c",
   "kind": "string",
   "jp": "アームふういん",
-  "en": "",
-  "status": "new",
+  "en": "Arm-seal",
+  "status": "done",
   "ptrs": [
    "0x15254"
   ],
@@ -7143,8 +7143,8 @@
   "id": "r015b5c",
   "kind": "string",
   "jp": "こうげきを５回",
-  "en": "",
-  "status": "new",
+  "en": "attacks x5",
+  "status": "done",
   "ptrs": [
    "0x15258"
   ],
@@ -7154,8 +7154,8 @@
   "id": "r015b6c",
   "kind": "string",
   "jp": "ぼうぎょする",
-  "en": "",
-  "status": "new",
+  "en": "are blocked",
+  "status": "done",
   "ptrs": [
    "0x1525c"
   ],
@@ -7165,8 +7165,8 @@
   "id": "r015b7c",
   "kind": "string",
   "jp": "Ｓアームガード",
-  "en": "",
-  "status": "new",
+  "en": "S Arm Guard",
+  "status": "done",
   "ptrs": [
    "0x15268"
   ],
@@ -7176,8 +7176,8 @@
   "id": "r015b8c",
   "kind": "string",
   "jp": "アームふういん",
-  "en": "",
-  "status": "new",
+  "en": "Arm-seal",
+  "status": "done",
   "ptrs": [
    "0x1526c"
   ],
@@ -7187,8 +7187,8 @@
   "id": "r015b9c",
   "kind": "string",
   "jp": "こうげきを１２回",
-  "en": "",
-  "status": "new",
+  "en": "attacks x12",
+  "status": "done",
   "ptrs": [
    "0x15270"
   ],
@@ -7198,8 +7198,8 @@
   "id": "r015bb0",
   "kind": "string",
   "jp": "ぼうぎょする",
-  "en": "",
-  "status": "new",
+  "en": "are blocked",
+  "status": "done",
   "ptrs": [
    "0x15274"
   ],
@@ -7209,8 +7209,8 @@
   "id": "r015bc0",
   "kind": "string",
   "jp": "スマッシガード",
-  "en": "",
-  "status": "new",
+  "en": "Smash Guard",
+  "status": "done",
   "ptrs": [
    "0x15280"
   ],
@@ -7220,8 +7220,8 @@
   "id": "r015bd0",
   "kind": "string",
   "jp": "スマッシュ",
-  "en": "",
-  "status": "new",
+  "en": "Smash",
+  "status": "done",
   "ptrs": [
    "0x15284"
   ],
@@ -7231,8 +7231,8 @@
   "id": "r015bdc",
   "kind": "string",
   "jp": "ふういんこうげき",
-  "en": "",
-  "status": "new",
+  "en": "seal attacks",
+  "status": "done",
   "ptrs": [
    "0x15288"
   ],
@@ -7242,8 +7242,8 @@
   "id": "r015bf0",
   "kind": "string",
   "jp": "を５回ぼうぎょ",
-  "en": "",
-  "status": "new",
+  "en": "x5: blocked",
+  "status": "done",
   "ptrs": [
    "0x1528c"
   ],
@@ -7253,8 +7253,8 @@
   "id": "r015c00",
   "kind": "string",
   "jp": "Ｓスマッシガード",
-  "en": "",
-  "status": "new",
+  "en": "S Smash Guard",
+  "status": "done",
   "ptrs": [
    "0x15298"
   ],
@@ -7264,8 +7264,8 @@
   "id": "r015c02",
   "kind": "string",
   "jp": "スマッシガード",
-  "en": "",
-  "status": "new",
+  "en": "Smash Guard",
+  "status": "done",
   "ptrs": [
    "0x1d870"
   ],
@@ -7276,8 +7276,8 @@
   "id": "r015c14",
   "kind": "string",
   "jp": "スマッシュ",
-  "en": "",
-  "status": "new",
+  "en": "Smash",
+  "status": "done",
   "ptrs": [
    "0x1529c"
   ],
@@ -7287,8 +7287,8 @@
   "id": "r015c20",
   "kind": "string",
   "jp": "ふういんこうげき",
-  "en": "",
-  "status": "new",
+  "en": "seal attacks",
+  "status": "done",
   "ptrs": [
    "0x152a0"
   ],
@@ -7298,8 +7298,8 @@
   "id": "r015c34",
   "kind": "string",
   "jp": "を１２回ぼうぎょ",
-  "en": "",
-  "status": "new",
+  "en": "x12: blocked",
+  "status": "done",
   "ptrs": [
    "0x152a4"
   ],
@@ -7309,8 +7309,8 @@
   "id": "r015c48",
   "kind": "string",
   "jp": "チャージガード",
-  "en": "",
-  "status": "new",
+  "en": "Charge Guard",
+  "status": "done",
   "ptrs": [
    "0x152b0"
   ],
@@ -7320,8 +7320,8 @@
   "id": "r015c58",
   "kind": "string",
   "jp": "チャージふういん",
-  "en": "",
-  "status": "new",
+  "en": "Charge-seal",
+  "status": "done",
   "ptrs": [
    "0x152b4"
   ],
@@ -7331,8 +7331,8 @@
   "id": "r015c6c",
   "kind": "string",
   "jp": "こうげきを５回",
-  "en": "",
-  "status": "new",
+  "en": "attacks x5",
+  "status": "done",
   "ptrs": [
    "0x152b8"
   ],
@@ -7342,8 +7342,8 @@
   "id": "r015c7c",
   "kind": "string",
   "jp": "ぼうぎょする",
-  "en": "",
-  "status": "new",
+  "en": "are blocked",
+  "status": "done",
   "ptrs": [
    "0x152bc"
   ],
@@ -7353,8 +7353,8 @@
   "id": "r015c8c",
   "kind": "string",
   "jp": "Ｓチャージガード",
-  "en": "",
-  "status": "new",
+  "en": "S Charge Guard",
+  "status": "done",
   "ptrs": [
    "0x152c8"
   ],
@@ -7364,8 +7364,8 @@
   "id": "r015ca0",
   "kind": "string",
   "jp": "チャージふういん",
-  "en": "",
-  "status": "new",
+  "en": "Charge-seal",
+  "status": "done",
   "ptrs": [
    "0x152cc"
   ],
@@ -7375,8 +7375,8 @@
   "id": "r015cb4",
   "kind": "string",
   "jp": "こうげきを１２回",
-  "en": "",
-  "status": "new",
+  "en": "attacks x12",
+  "status": "done",
   "ptrs": [
    "0x152d0"
   ],
@@ -7386,8 +7386,8 @@
   "id": "r015cc8",
   "kind": "string",
   "jp": "ぼうぎょする",
-  "en": "",
-  "status": "new",
+  "en": "are blocked",
+  "status": "done",
   "ptrs": [
    "0x152d4"
   ],
@@ -7397,8 +7397,8 @@
   "id": "r015cd8",
   "kind": "string",
   "jp": "ラックアンチ",
-  "en": "",
-  "status": "new",
+  "en": "Anti-Crit",
+  "status": "done",
   "ptrs": [
    "0x152e0"
   ],
@@ -7408,8 +7408,8 @@
   "id": "r015ce8",
   "kind": "string",
   "jp": "クリティカルの",
-  "en": "",
-  "status": "new",
+  "en": "Critical",
+  "status": "done",
   "ptrs": [
    "0x152e4"
   ],
@@ -7419,8 +7419,8 @@
   "id": "r015cf8",
   "kind": "string",
   "jp": "こうげきを５回",
-  "en": "",
-  "status": "new",
+  "en": "attacks x5",
+  "status": "done",
   "ptrs": [
    "0x152e8"
   ],
@@ -7430,8 +7430,8 @@
   "id": "r015d08",
   "kind": "string",
   "jp": "ぼうぎょする",
-  "en": "",
-  "status": "new",
+  "en": "are blocked",
+  "status": "done",
   "ptrs": [
    "0x152ec"
   ],
@@ -7441,8 +7441,8 @@
   "id": "r015d18",
   "kind": "string",
   "jp": "Ｓラックアンチ",
-  "en": "",
-  "status": "new",
+  "en": "S Anti-Crit",
+  "status": "done",
   "ptrs": [
    "0x152f8"
   ],
@@ -7452,8 +7452,8 @@
   "id": "r015d28",
   "kind": "string",
   "jp": "クリティカルの",
-  "en": "",
-  "status": "new",
+  "en": "Critical",
+  "status": "done",
   "ptrs": [
    "0x152fc"
   ],
@@ -7463,8 +7463,8 @@
   "id": "r015d38",
   "kind": "string",
   "jp": "こうげきを１２回",
-  "en": "",
-  "status": "new",
+  "en": "attacks x12",
+  "status": "done",
   "ptrs": [
    "0x15300"
   ],
@@ -7474,8 +7474,8 @@
   "id": "r015d4c",
   "kind": "string",
   "jp": "ぼうぎょする",
-  "en": "",
-  "status": "new",
+  "en": "are blocked",
+  "status": "done",
   "ptrs": [
    "0x15304"
   ],
@@ -7485,8 +7485,8 @@
   "id": "r015d5c",
   "kind": "string",
   "jp": "スローアンチ",
-  "en": "",
-  "status": "new",
+  "en": "Anti-Slow",
+  "status": "done",
   "ptrs": [
    "0x15310"
   ],
@@ -7496,8 +7496,8 @@
   "id": "r015d6c",
   "kind": "string",
   "jp": "動きがスローに",
-  "en": "",
-  "status": "new",
+  "en": "Slowing",
+  "status": "done",
   "ptrs": [
    "0x15314"
   ],
@@ -7507,8 +7507,8 @@
   "id": "r015d7c",
   "kind": "string",
   "jp": "なるこうげきを",
-  "en": "",
-  "status": "new",
+  "en": "attacks",
+  "status": "done",
   "ptrs": [
    "0x15318"
   ],
@@ -7518,8 +7518,8 @@
   "id": "r015d8c",
   "kind": "string",
   "jp": "５回ぼうぎょ",
-  "en": "",
-  "status": "new",
+  "en": "x5 blocked",
+  "status": "done",
   "ptrs": [
    "0x1531c"
   ],
@@ -7529,8 +7529,8 @@
   "id": "r015d9c",
   "kind": "string",
   "jp": "Ｓスローアンチ",
-  "en": "",
-  "status": "new",
+  "en": "S Anti-Slow",
+  "status": "done",
   "ptrs": [
    "0x15328"
   ],
@@ -7540,8 +7540,8 @@
   "id": "r015dac",
   "kind": "string",
   "jp": "動きがスローに",
-  "en": "",
-  "status": "new",
+  "en": "Slowing",
+  "status": "done",
   "ptrs": [
    "0x1532c"
   ],
@@ -7551,8 +7551,8 @@
   "id": "r015dbc",
   "kind": "string",
   "jp": "なるこうげきを",
-  "en": "",
-  "status": "new",
+  "en": "attacks",
+  "status": "done",
   "ptrs": [
    "0x15330"
   ],
@@ -7562,8 +7562,8 @@
   "id": "r015dcc",
   "kind": "string",
   "jp": "１２回ぼうぎょ",
-  "en": "",
-  "status": "new",
+  "en": "x12 blocked",
+  "status": "done",
   "ptrs": [
    "0x15334"
   ],
@@ -7573,8 +7573,8 @@
   "id": "r015ddc",
   "kind": "string",
   "jp": "ストップアンチ",
-  "en": "",
-  "status": "new",
+  "en": "Anti-Stop",
+  "status": "done",
   "ptrs": [
    "0x15340"
   ],
@@ -7584,8 +7584,8 @@
   "id": "r015dec",
   "kind": "string",
   "jp": "動きが止まる",
-  "en": "",
-  "status": "new",
+  "en": "Freezing",
+  "status": "done",
   "ptrs": [
    "0x15344"
   ],
@@ -7595,8 +7595,8 @@
   "id": "r015dfc",
   "kind": "string",
   "jp": "こうげきを２回",
-  "en": "",
-  "status": "new",
+  "en": "attacks x2",
+  "status": "done",
   "ptrs": [
    "0x15348"
   ],
@@ -7606,8 +7606,8 @@
   "id": "r015e0c",
   "kind": "string",
   "jp": "ぼうぎょする",
-  "en": "",
-  "status": "new",
+  "en": "are blocked",
+  "status": "done",
   "ptrs": [
    "0x1534c"
   ],
@@ -7617,8 +7617,8 @@
   "id": "r015e1c",
   "kind": "string",
   "jp": "Ｓストップアンチ",
-  "en": "",
-  "status": "new",
+  "en": "S Anti-Stop",
+  "status": "done",
   "ptrs": [
    "0x15358"
   ],
@@ -7628,8 +7628,8 @@
   "id": "r015e30",
   "kind": "string",
   "jp": "動きが止まる",
-  "en": "",
-  "status": "new",
+  "en": "Freezing",
+  "status": "done",
   "ptrs": [
    "0x1535c"
   ],
@@ -7639,8 +7639,8 @@
   "id": "r015e40",
   "kind": "string",
   "jp": "こうげきを５回",
-  "en": "",
-  "status": "new",
+  "en": "attacks x5",
+  "status": "done",
   "ptrs": [
    "0x15360"
   ],
@@ -7650,8 +7650,8 @@
   "id": "r015e50",
   "kind": "string",
   "jp": "ぼうぎょする",
-  "en": "",
-  "status": "new",
+  "en": "are blocked",
+  "status": "done",
   "ptrs": [
    "0x15364"
   ],
@@ -7661,8 +7661,8 @@
   "id": "r015e60",
   "kind": "string",
   "jp": "ポイズンアンチ",
-  "en": "",
-  "status": "new",
+  "en": "Anti-Poison",
+  "status": "done",
   "ptrs": [
    "0x15370"
   ],
@@ -7672,8 +7672,8 @@
   "id": "r015e70",
   "kind": "string",
   "jp": "ドクになる",
-  "en": "",
-  "status": "new",
+  "en": "Poison",
+  "status": "done",
   "ptrs": [
    "0x15374"
   ],
@@ -7683,8 +7683,8 @@
   "id": "r015e7c",
   "kind": "string",
   "jp": "こうげきを５回",
-  "en": "",
-  "status": "new",
+  "en": "attacks x5",
+  "status": "done",
   "ptrs": [
    "0x15378"
   ],
@@ -7694,8 +7694,8 @@
   "id": "r015e8c",
   "kind": "string",
   "jp": "ぼうぎょする",
-  "en": "",
-  "status": "new",
+  "en": "are blocked",
+  "status": "done",
   "ptrs": [
    "0x1537c"
   ],
@@ -7705,8 +7705,8 @@
   "id": "r015e9c",
   "kind": "string",
   "jp": "Ｓポイズンアンチ",
-  "en": "",
-  "status": "new",
+  "en": "S Anti-Poison",
+  "status": "done",
   "ptrs": [
    "0x15388"
   ],
@@ -7716,8 +7716,8 @@
   "id": "r015eb0",
   "kind": "string",
   "jp": "ドクになる",
-  "en": "",
-  "status": "new",
+  "en": "Poison",
+  "status": "done",
   "ptrs": [
    "0x1538c"
   ],
@@ -7727,8 +7727,8 @@
   "id": "r015ebc",
   "kind": "string",
   "jp": "こうげきを１２回",
-  "en": "",
-  "status": "new",
+  "en": "attacks x12",
+  "status": "done",
   "ptrs": [
    "0x15390"
   ],
@@ -7738,8 +7738,8 @@
   "id": "r015ed0",
   "kind": "string",
   "jp": "ぼうぎょする",
-  "en": "",
-  "status": "new",
+  "en": "are blocked",
+  "status": "done",
   "ptrs": [
    "0x15394"
   ],
@@ -7749,8 +7749,8 @@
   "id": "r015ee0",
   "kind": "string",
   "jp": "スペルアンチ",
-  "en": "",
-  "status": "new",
+  "en": "Anti-Spell",
+  "status": "done",
   "ptrs": [
    "0x153a0"
   ],
@@ -7760,8 +7760,8 @@
   "id": "r015ef0",
   "kind": "string",
   "jp": "のろわれる",
-  "en": "",
-  "status": "new",
+  "en": "Curse",
+  "status": "done",
   "ptrs": [
    "0x153a4"
   ],
@@ -7771,8 +7771,8 @@
   "id": "r015efc",
   "kind": "string",
   "jp": "こうげきを５回",
-  "en": "",
-  "status": "new",
+  "en": "attacks x5",
+  "status": "done",
   "ptrs": [
    "0x153a8"
   ],
@@ -7782,8 +7782,8 @@
   "id": "r015f0c",
   "kind": "string",
   "jp": "ぼうぎょする",
-  "en": "",
-  "status": "new",
+  "en": "are blocked",
+  "status": "done",
   "ptrs": [
    "0x153ac"
   ],
@@ -7793,8 +7793,8 @@
   "id": "r015f1c",
   "kind": "string",
   "jp": "Ｓスペルアンチ",
-  "en": "",
-  "status": "new",
+  "en": "S Anti-Spell",
+  "status": "done",
   "ptrs": [
    "0x153b8"
   ],
@@ -7804,8 +7804,8 @@
   "id": "r015f2c",
   "kind": "string",
   "jp": "のろわれる",
-  "en": "",
-  "status": "new",
+  "en": "Curse",
+  "status": "done",
   "ptrs": [
    "0x153bc"
   ],
@@ -7815,8 +7815,8 @@
   "id": "r015f38",
   "kind": "string",
   "jp": "こうげきを１２回",
-  "en": "",
-  "status": "new",
+  "en": "attacks x12",
+  "status": "done",
   "ptrs": [
    "0x153c0"
   ],
@@ -7826,8 +7826,8 @@
   "id": "r015f4c",
   "kind": "string",
   "jp": "ぼうぎょする",
-  "en": "",
-  "status": "new",
+  "en": "are blocked",
+  "status": "done",
   "ptrs": [
    "0x153c4"
   ],
@@ -7837,8 +7837,8 @@
   "id": "r015f5c",
   "kind": "string",
   "jp": "ストレスアンチ",
-  "en": "",
-  "status": "new",
+  "en": "Anti-Stress",
+  "status": "done",
   "ptrs": [
    "0x153d0"
   ],
@@ -7848,8 +7848,8 @@
   "id": "r015f6c",
   "kind": "string",
   "jp": "ストレスになる",
-  "en": "",
-  "status": "new",
+  "en": "Stress",
+  "status": "done",
   "ptrs": [
    "0x153d4"
   ],
@@ -7859,8 +7859,8 @@
   "id": "r015f7c",
   "kind": "string",
   "jp": "こうげきを５回",
-  "en": "",
-  "status": "new",
+  "en": "attacks x5",
+  "status": "done",
   "ptrs": [
    "0x153d8"
   ],
@@ -7870,8 +7870,8 @@
   "id": "r015f8c",
   "kind": "string",
   "jp": "ぼうぎょする",
-  "en": "",
-  "status": "new",
+  "en": "are blocked",
+  "status": "done",
   "ptrs": [
    "0x153dc"
   ],
@@ -7881,8 +7881,8 @@
   "id": "r015f9c",
   "kind": "string",
   "jp": "Ｓストレスアンチ",
-  "en": "",
-  "status": "new",
+  "en": "S Anti-Stress",
+  "status": "done",
   "ptrs": [
    "0x153e8"
   ],
@@ -7892,8 +7892,8 @@
   "id": "r015fb0",
   "kind": "string",
   "jp": "ストレスになる",
-  "en": "",
-  "status": "new",
+  "en": "Stress",
+  "status": "done",
   "ptrs": [
    "0x153ec"
   ],
@@ -7903,8 +7903,8 @@
   "id": "r015fc0",
   "kind": "string",
   "jp": "こうげきを１２回",
-  "en": "",
-  "status": "new",
+  "en": "attacks x12",
+  "status": "done",
   "ptrs": [
    "0x153f0"
   ],
@@ -7914,8 +7914,8 @@
   "id": "r015fd4",
   "kind": "string",
   "jp": "ぼうぎょする",
-  "en": "",
-  "status": "new",
+  "en": "are blocked",
+  "status": "done",
   "ptrs": [
    "0x153f4"
   ],
@@ -7925,8 +7925,8 @@
   "id": "r0168b0",
   "kind": "string",
   "jp": "ノヴァ",
-  "en": "",
-  "status": "new",
+  "en": "Nova",
+  "status": "done",
   "ptrs": [
    "0x160d0"
   ],
@@ -7936,8 +7936,8 @@
   "id": "r0168b8",
   "kind": "string",
   "jp": "フラッシュ",
-  "en": "",
-  "status": "new",
+  "en": "Flash",
+  "status": "done",
   "ptrs": [
    "0x160d4"
   ],
@@ -7947,8 +7947,8 @@
   "id": "r0168c4",
   "kind": "string",
   "jp": "スパーク",
-  "en": "",
-  "status": "new",
+  "en": "Spark",
+  "status": "done",
   "ptrs": [
    "0x160d8"
   ],
@@ -7958,8 +7958,8 @@
   "id": "r0168d0",
   "kind": "string",
   "jp": "アステイル",
-  "en": "",
-  "status": "new",
+  "en": "Astail",
+  "status": "done",
   "ptrs": [
    "0x160dc"
   ],
@@ -7969,8 +7969,8 @@
   "id": "r0168dc",
   "kind": "string",
   "jp": "バニッシュ",
-  "en": "",
-  "status": "new",
+  "en": "Vanish",
+  "status": "done",
   "ptrs": [
    "0x160e0"
   ],
@@ -7980,8 +7980,8 @@
   "id": "r0168e8",
   "kind": "string",
   "jp": "オーラをためて",
-  "en": "",
-  "status": "new",
+  "en": "Builds aura",
+  "status": "done",
   "ptrs": [
    "0x160e4"
   ],
@@ -7991,8 +7991,8 @@
   "id": "r0168f8",
   "kind": "string",
   "jp": "大ばく発させ",
-  "en": "",
-  "status": "new",
+  "en": "to explode:",
+  "status": "done",
   "ptrs": [
    "0x160e8"
   ],
@@ -8002,8 +8002,8 @@
   "id": "r016908",
   "kind": "string",
   "jp": "広いはんいに",
-  "en": "",
-  "status": "new",
+  "en": "wide-area",
+  "status": "done",
   "ptrs": [
    "0x160ec"
   ],
@@ -8013,8 +8013,8 @@
   "id": "r016918",
   "kind": "string",
   "jp": "ダメージ",
-  "en": "",
-  "status": "new",
+  "en": "damage",
+  "status": "done",
   "ptrs": [
    "0x160f0"
   ],
@@ -8024,8 +8024,8 @@
   "id": "r016924",
   "kind": "string",
   "jp": "スラッシャー",
-  "en": "",
-  "status": "new",
+  "en": "Slasher",
+  "status": "done",
   "ptrs": [
    "0x16108"
   ],
@@ -8035,8 +8035,8 @@
   "id": "r016934",
   "kind": "string",
   "jp": "スライザー",
-  "en": "",
-  "status": "new",
+  "en": "Slicer",
+  "status": "done",
   "ptrs": [
    "0x1610c"
   ],
@@ -8046,8 +8046,8 @@
   "id": "r016940",
   "kind": "string",
   "jp": "ゼツ",
-  "en": "",
-  "status": "new",
+  "en": "Zetsu",
+  "status": "done",
   "ptrs": [
    "0x16110"
   ],
@@ -8057,8 +8057,8 @@
   "id": "r016948",
   "kind": "string",
   "jp": "エッジ",
-  "en": "",
-  "status": "new",
+  "en": "Edge",
+  "status": "done",
   "ptrs": [
    "0x16114"
   ],
@@ -8068,8 +8068,8 @@
   "id": "r016950",
   "kind": "string",
   "jp": "カッター",
-  "en": "",
-  "status": "new",
+  "en": "Cutter",
+  "status": "done",
   "ptrs": [
    "0x16118"
   ],
@@ -8079,8 +8079,8 @@
   "id": "r01695c",
   "kind": "string",
   "jp": "オーラの刀で",
-  "en": "",
-  "status": "new",
+  "en": "Aura blade",
+  "status": "done",
   "ptrs": [
    "0x1611c"
   ],
@@ -8090,8 +8090,8 @@
   "id": "r01696c",
   "kind": "string",
   "jp": "まわりをきる",
-  "en": "",
-  "status": "new",
+  "en": "cuts around:",
+  "status": "done",
   "ptrs": [
    "0x16120"
   ],
@@ -8101,8 +8101,8 @@
   "id": "r01697c",
   "kind": "string",
   "jp": "円形のまわりに",
-  "en": "",
-  "status": "new",
+  "en": "circle-area",
+  "status": "done",
   "ptrs": [
    "0x16124"
   ],
@@ -8112,8 +8112,8 @@
   "id": "r01698c",
   "kind": "string",
   "jp": "ダメージ",
-  "en": "",
-  "status": "new",
+  "en": "damage",
+  "status": "done",
   "ptrs": [
    "0x16128"
   ],
@@ -8123,8 +8123,8 @@
   "id": "r016998",
   "kind": "string",
   "jp": "ブリッツ",
-  "en": "",
-  "status": "new",
+  "en": "Blitz",
+  "status": "done",
   "ptrs": [
    "0x16140"
   ],
@@ -8134,8 +8134,8 @@
   "id": "r0169a4",
   "kind": "string",
   "jp": "スプリット",
-  "en": "",
-  "status": "new",
+  "en": "Split",
+  "status": "done",
   "ptrs": [
    "0x16144"
   ],
@@ -8145,8 +8145,8 @@
   "id": "r0169b0",
   "kind": "string",
   "jp": "フレア",
-  "en": "",
-  "status": "new",
+  "en": "Flare",
+  "status": "done",
   "ptrs": [
    "0x16148"
   ],
@@ -8156,8 +8156,8 @@
   "id": "r0169b8",
   "kind": "string",
   "jp": "ダスト",
-  "en": "",
-  "status": "new",
+  "en": "Dust",
+  "status": "done",
   "ptrs": [
    "0x1614c"
   ],
@@ -8167,8 +8167,8 @@
   "id": "r0169c0",
   "kind": "string",
   "jp": "スター",
-  "en": "",
-  "status": "new",
+  "en": "Star",
+  "status": "done",
   "ptrs": [
    "0x16150"
   ],
@@ -8178,8 +8178,8 @@
   "id": "r0169c8",
   "kind": "string",
   "jp": "大きな光の玉を",
-  "en": "",
-  "status": "new",
+  "en": "Drops a big",
+  "status": "done",
   "ptrs": [
    "0x16154"
   ],
@@ -8189,8 +8189,8 @@
   "id": "r0169d8",
   "kind": "string",
   "jp": "空中から落とし",
-  "en": "",
-  "status": "new",
+  "en": "light orb:",
+  "status": "done",
   "ptrs": [
    "0x16158"
   ],
@@ -8200,8 +8200,8 @@
   "id": "r0169e8",
   "kind": "string",
   "jp": "十字とななめに",
-  "en": "",
-  "status": "new",
+  "en": "cross+diagonal",
+  "status": "done",
   "ptrs": [
    "0x1615c"
   ],
@@ -8211,8 +8211,8 @@
   "id": "r0169f8",
   "kind": "string",
   "jp": "ダメージ",
-  "en": "",
-  "status": "new",
+  "en": "damage",
+  "status": "done",
   "ptrs": [
    "0x16160"
   ],
@@ -8222,8 +8222,8 @@
   "id": "r016a04",
   "kind": "string",
   "jp": "ランザー",
-  "en": "",
-  "status": "new",
+  "en": "Lanzer",
+  "status": "done",
   "ptrs": [
    "0x16178"
   ],
@@ -8233,8 +8233,8 @@
   "id": "r016a10",
   "kind": "string",
   "jp": "スティンガー",
-  "en": "",
-  "status": "new",
+  "en": "Stinger",
+  "status": "done",
   "ptrs": [
    "0x1617c"
   ],
@@ -8244,8 +8244,8 @@
   "id": "r016a20",
   "kind": "string",
   "jp": "クライン",
-  "en": "",
-  "status": "new",
+  "en": "Klein",
+  "status": "done",
   "ptrs": [
    "0x16180"
   ],
@@ -8255,8 +8255,8 @@
   "id": "r016a2c",
   "kind": "string",
   "jp": "ライズ",
-  "en": "",
-  "status": "new",
+  "en": "Rise",
+  "status": "done",
   "ptrs": [
    "0x16184"
   ],
@@ -8266,8 +8266,8 @@
   "id": "r016a34",
   "kind": "string",
   "jp": "ピアス",
-  "en": "",
-  "status": "new",
+  "en": "Pierce",
+  "status": "done",
   "ptrs": [
    "0x16188"
   ],
@@ -8277,8 +8277,8 @@
   "id": "r016a3c",
   "kind": "string",
   "jp": "地面から光のヤリ",
-  "en": "",
-  "status": "new",
+  "en": "Light spears",
+  "status": "done",
   "ptrs": [
    "0x1618c"
   ],
@@ -8288,8 +8288,8 @@
   "id": "r016a50",
   "kind": "string",
   "jp": "がつき出て",
-  "en": "",
-  "status": "new",
+  "en": "erupt:",
+  "status": "done",
   "ptrs": [
    "0x16190"
   ],
@@ -8299,8 +8299,8 @@
   "id": "r016a5c",
   "kind": "string",
   "jp": "十字方向に",
-  "en": "",
-  "status": "new",
+  "en": "cross-wise",
+  "status": "done",
   "ptrs": [
    "0x16194"
   ],
@@ -8310,8 +8310,8 @@
   "id": "r016a68",
   "kind": "string",
   "jp": "ダメージ",
-  "en": "",
-  "status": "new",
+  "en": "damage",
+  "status": "done",
   "ptrs": [
    "0x16198"
   ],
@@ -8321,8 +8321,8 @@
   "id": "r016a74",
   "kind": "string",
   "jp": "ブレス",
-  "en": "",
-  "status": "new",
+  "en": "Breath",
+  "status": "done",
   "ptrs": [
    "0x161b0"
   ],
@@ -8332,8 +8332,8 @@
   "id": "r016a7c",
   "kind": "string",
   "jp": "ロー",
-  "en": "",
-  "status": "new",
+  "en": "Low",
+  "status": "done",
   "ptrs": [
    "0x161b4"
   ],
@@ -8343,8 +8343,8 @@
   "id": "r016a84",
   "kind": "string",
   "jp": "バイド",
-  "en": "",
-  "status": "new",
+  "en": "Bide",
+  "status": "done",
   "ptrs": [
    "0x161b8"
   ],
@@ -8354,8 +8354,8 @@
   "id": "r016a8c",
   "kind": "string",
   "jp": "グランチ",
-  "en": "",
-  "status": "new",
+  "en": "Grunch",
+  "status": "done",
   "ptrs": [
    "0x161bc"
   ],
@@ -8365,8 +8365,8 @@
   "id": "r016a98",
   "kind": "string",
   "jp": "ハウリング",
-  "en": "",
-  "status": "new",
+  "en": "Howling",
+  "status": "done",
   "ptrs": [
    "0x161c0"
   ],
@@ -8376,8 +8376,8 @@
   "id": "r016aa4",
   "kind": "string",
   "jp": "ためたオーラを",
-  "en": "",
-  "status": "new",
+  "en": "Stored aura",
+  "status": "done",
   "ptrs": [
    "0x161c4"
   ],
@@ -8387,8 +8387,8 @@
   "id": "r016ab4",
   "kind": "string",
   "jp": "一気にはっしゃし",
-  "en": "",
-  "status": "new",
+  "en": "fires at once:",
+  "status": "done",
   "ptrs": [
    "0x161c8"
   ],
@@ -8398,8 +8398,8 @@
   "id": "r016ac8",
   "kind": "string",
   "jp": "自分のまわりに",
-  "en": "",
-  "status": "new",
+  "en": "around you",
+  "status": "done",
   "ptrs": [
    "0x161cc"
   ],
@@ -8409,8 +8409,8 @@
   "id": "r016ad8",
   "kind": "string",
   "jp": "ダメージ",
-  "en": "",
-  "status": "new",
+  "en": "damage",
+  "status": "done",
   "ptrs": [
    "0x161d0"
   ],
@@ -8420,8 +8420,8 @@
   "id": "r016ae4",
   "kind": "string",
   "jp": "メガロール",
-  "en": "",
-  "status": "new",
+  "en": "Mega Roll",
+  "status": "done",
   "ptrs": [
    "0x161e8"
   ],
@@ -8431,8 +8431,8 @@
   "id": "r016af0",
   "kind": "string",
   "jp": "メガロール",
-  "en": "",
-  "status": "new",
+  "en": "Mega Roll",
+  "status": "done",
   "ptrs": [
    "0x161ec"
   ],
@@ -8442,8 +8442,8 @@
   "id": "r016afc",
   "kind": "string",
   "jp": "メガロール",
-  "en": "",
-  "status": "new",
+  "en": "Mega Roll",
+  "status": "done",
   "ptrs": [
    "0x161f0"
   ],
@@ -8453,8 +8453,8 @@
   "id": "r016b08",
   "kind": "string",
   "jp": "メガロール",
-  "en": "",
-  "status": "new",
+  "en": "Mega Roll",
+  "status": "done",
   "ptrs": [
    "0x161f4"
   ],
@@ -8464,8 +8464,8 @@
   "id": "r016b14",
   "kind": "string",
   "jp": "メガロール",
-  "en": "",
-  "status": "new",
+  "en": "Mega Roll",
+  "status": "done",
   "ptrs": [
    "0x161f8"
   ],
@@ -8475,8 +8475,8 @@
   "id": "r016b20",
   "kind": "string",
   "jp": "いつもより",
-  "en": "",
-  "status": "new",
+  "en": "A stronger",
+  "status": "done",
   "ptrs": [
    "0x161fc"
   ],
@@ -8486,8 +8486,8 @@
   "id": "r016b2c",
   "kind": "string",
   "jp": "すごいオーラの",
-  "en": "",
-  "status": "new",
+  "en": "aura-charged",
+  "status": "done",
   "ptrs": [
    "0x16200"
   ],
@@ -8497,8 +8497,8 @@
   "id": "r016b3c",
   "kind": "string",
   "jp": "アタックロールで",
-  "en": "",
-  "status": "new",
+  "en": "Attack Roll",
+  "status": "done",
   "ptrs": [
    "0x16204"
   ],
@@ -8508,8 +8508,8 @@
   "id": "r016b50",
   "kind": "string",
   "jp": "ダメージ",
-  "en": "",
-  "status": "new",
+  "en": "damage",
+  "status": "done",
   "ptrs": [
    "0x16208"
   ],
@@ -8519,8 +8519,8 @@
   "id": "r016b5c",
   "kind": "string",
   "jp": "バルカン",
-  "en": "",
-  "status": "new",
+  "en": "Vulcan",
+  "status": "done",
   "ptrs": [
    "0x16220"
   ],
@@ -8530,8 +8530,8 @@
   "id": "r016b68",
   "kind": "string",
   "jp": "ブリザード",
-  "en": "",
-  "status": "new",
+  "en": "Blizzard",
+  "status": "done",
   "ptrs": [
    "0x16224"
   ],
@@ -8541,8 +8541,8 @@
   "id": "r016b74",
   "kind": "string",
   "jp": "コメット",
-  "en": "",
-  "status": "new",
+  "en": "Comet",
+  "status": "done",
   "ptrs": [
    "0x16228"
   ],
@@ -8552,8 +8552,8 @@
   "id": "r016b80",
   "kind": "string",
   "jp": "ヘイル",
-  "en": "",
-  "status": "new",
+  "en": "Hail",
+  "status": "done",
   "ptrs": [
    "0x1622c"
   ],
@@ -8563,8 +8563,8 @@
   "id": "r016b88",
   "kind": "string",
   "jp": "ステラー",
-  "en": "",
-  "status": "new",
+  "en": "Stellar",
+  "status": "done",
   "ptrs": [
    "0x16230"
   ],
@@ -8574,8 +8574,8 @@
   "id": "r016b94",
   "kind": "string",
   "jp": "むすうの小さい",
-  "en": "",
-  "status": "new",
+  "en": "Countless",
+  "status": "done",
   "ptrs": [
    "0x16234"
   ],
@@ -8585,8 +8585,8 @@
   "id": "r016ba4",
   "kind": "string",
   "jp": "石を落として",
-  "en": "",
-  "status": "new",
+  "en": "stones fall:",
+  "status": "done",
   "ptrs": [
    "0x16238"
   ],
@@ -8596,8 +8596,8 @@
   "id": "r016bb4",
   "kind": "string",
   "jp": "広いはんいに",
-  "en": "",
-  "status": "new",
+  "en": "wide-area",
+  "status": "done",
   "ptrs": [
    "0x1623c"
   ],
@@ -8607,8 +8607,8 @@
   "id": "r016bc4",
   "kind": "string",
   "jp": "ＨＰＡＰダメージ",
-  "en": "",
-  "status": "new",
+  "en": "HP+AP damage",
+  "status": "done",
   "ptrs": [
    "0x16240"
   ],
@@ -8618,8 +8618,8 @@
   "id": "r016bd8",
   "kind": "string",
   "jp": "ストライク",
-  "en": "",
-  "status": "new",
+  "en": "Strike",
+  "status": "done",
   "ptrs": [
    "0x16258"
   ],
@@ -8629,8 +8629,8 @@
   "id": "r016be4",
   "kind": "string",
   "jp": "スティンガー",
-  "en": "",
-  "status": "new",
+  "en": "Stinger",
+  "status": "done",
   "ptrs": [
    "0x1625c"
   ],
@@ -8640,8 +8640,8 @@
   "id": "r016bf4",
   "kind": "string",
   "jp": "キャリバー",
-  "en": "",
-  "status": "new",
+  "en": "Caliber",
+  "status": "done",
   "ptrs": [
    "0x16260"
   ],
@@ -8651,8 +8651,8 @@
   "id": "r016c00",
   "kind": "string",
   "jp": "ハンダー",
-  "en": "",
-  "status": "new",
+  "en": "Hander",
+  "status": "done",
   "ptrs": [
    "0x16264"
   ],
@@ -8662,8 +8662,8 @@
   "id": "r016c0c",
   "kind": "string",
   "jp": "ドーン",
-  "en": "",
-  "status": "new",
+  "en": "Dawn",
+  "status": "done",
   "ptrs": [
    "0x16268"
   ],
@@ -8673,8 +8673,8 @@
   "id": "r016c14",
   "kind": "string",
   "jp": "大きなオーラの",
-  "en": "",
-  "status": "new",
+  "en": "A huge aura",
+  "status": "done",
   "ptrs": [
    "0x1626c"
   ],
@@ -8684,8 +8684,8 @@
   "id": "r016c24",
   "kind": "string",
   "jp": "剣をよびだし",
-  "en": "",
-  "status": "new",
+  "en": "sword rises:",
+  "status": "done",
   "ptrs": [
    "0x16270"
   ],
@@ -8695,8 +8695,8 @@
   "id": "r016c34",
   "kind": "string",
   "jp": "円形のまわりに",
-  "en": "",
-  "status": "new",
+  "en": "circle-area",
+  "status": "done",
   "ptrs": [
    "0x16274"
   ],
@@ -8706,8 +8706,8 @@
   "id": "r016c44",
   "kind": "string",
   "jp": "ＨＰＡＰダメージ",
-  "en": "",
-  "status": "new",
+  "en": "HP+AP damage",
+  "status": "done",
   "ptrs": [
    "0x16278"
   ],
@@ -8717,8 +8717,8 @@
   "id": "r016c58",
   "kind": "string",
   "jp": "ビーム",
-  "en": "",
-  "status": "new",
+  "en": "Beam",
+  "status": "done",
   "ptrs": [
    "0x16290"
   ],
@@ -8728,8 +8728,8 @@
   "id": "r016c60",
   "kind": "string",
   "jp": "レイン",
-  "en": "",
-  "status": "new",
+  "en": "Rain",
+  "status": "done",
   "ptrs": [
    "0x16294"
   ],
@@ -8739,8 +8739,8 @@
   "id": "r016c68",
   "kind": "string",
   "jp": "レイザー",
-  "en": "",
-  "status": "new",
+  "en": "Laser",
+  "status": "done",
   "ptrs": [
    "0x16298"
   ],
@@ -8750,8 +8750,8 @@
   "id": "r016c74",
   "kind": "string",
   "jp": "シャワー",
-  "en": "",
-  "status": "new",
+  "en": "Shower",
+  "status": "done",
   "ptrs": [
    "0x1629c"
   ],
@@ -8761,8 +8761,8 @@
   "id": "r016c80",
   "kind": "string",
   "jp": "ホープ",
-  "en": "",
-  "status": "new",
+  "en": "Hope",
+  "status": "done",
   "ptrs": [
    "0x162a0"
   ],
@@ -8772,8 +8772,8 @@
   "id": "r016c88",
   "kind": "string",
   "jp": "空中から光線を",
-  "en": "",
-  "status": "new",
+  "en": "Rays fall from",
+  "status": "done",
   "ptrs": [
    "0x162a4"
   ],
@@ -8783,8 +8783,8 @@
   "id": "r016c98",
   "kind": "string",
   "jp": "ふらせて",
-  "en": "",
-  "status": "new",
+  "en": "the sky:",
+  "status": "done",
   "ptrs": [
    "0x162a8"
   ],
@@ -8794,8 +8794,8 @@
   "id": "r016ca4",
   "kind": "string",
   "jp": "十字とななめに",
-  "en": "",
-  "status": "new",
+  "en": "cross+diagonal",
+  "status": "done",
   "ptrs": [
    "0x162ac"
   ],
@@ -8805,8 +8805,8 @@
   "id": "r016cb4",
   "kind": "string",
   "jp": "ＨＰＡＰダメージ",
-  "en": "",
-  "status": "new",
+  "en": "HP+AP damage",
+  "status": "done",
   "ptrs": [
    "0x162b0"
   ],
@@ -8816,8 +8816,8 @@
   "id": "r016cc8",
   "kind": "string",
   "jp": "クロウ",
-  "en": "",
-  "status": "new",
+  "en": "Claw",
+  "status": "done",
   "ptrs": [
    "0x162c8"
   ],
@@ -8827,8 +8827,8 @@
   "id": "r016cd0",
   "kind": "string",
   "jp": "ファング",
-  "en": "",
-  "status": "new",
+  "en": "Fang",
+  "status": "done",
   "ptrs": [
    "0x162cc"
   ],
@@ -8838,8 +8838,8 @@
   "id": "r016cdc",
   "kind": "string",
   "jp": "スクラッチ",
-  "en": "",
-  "status": "new",
+  "en": "Scratch",
+  "status": "done",
   "ptrs": [
    "0x162d0"
   ],
@@ -8849,8 +8849,8 @@
   "id": "r016ce8",
   "kind": "string",
   "jp": "スパイク",
-  "en": "",
-  "status": "new",
+  "en": "Spike",
+  "status": "done",
   "ptrs": [
    "0x162d4"
   ],
@@ -8860,8 +8860,8 @@
   "id": "r016cf4",
   "kind": "string",
   "jp": "ネイル",
-  "en": "",
-  "status": "new",
+  "en": "Nail",
+  "status": "done",
   "ptrs": [
    "0x162d8"
   ],
@@ -8871,8 +8871,8 @@
   "id": "r016cfc",
   "kind": "string",
   "jp": "オーラのツメで",
-  "en": "",
-  "status": "new",
+  "en": "Aura claws",
+  "status": "done",
   "ptrs": [
    "0x162dc"
   ],
@@ -8882,8 +8882,8 @@
   "id": "r016d0c",
   "kind": "string",
   "jp": "きりさき",
-  "en": "",
-  "status": "new",
+  "en": "slash:",
+  "status": "done",
   "ptrs": [
    "0x162e0"
   ],
@@ -8893,8 +8893,8 @@
   "id": "r016d18",
   "kind": "string",
   "jp": "十字方向に",
-  "en": "",
-  "status": "new",
+  "en": "cross-wise",
+  "status": "done",
   "ptrs": [
    "0x162e4"
   ],
@@ -8904,8 +8904,8 @@
   "id": "r016d24",
   "kind": "string",
   "jp": "ＨＰＡＰダメージ",
-  "en": "",
-  "status": "new",
+  "en": "HP+AP damage",
+  "status": "done",
   "ptrs": [
    "0x162e8"
   ],
@@ -8915,8 +8915,8 @@
   "id": "r016d38",
   "kind": "string",
   "jp": "テンペスト",
-  "en": "",
-  "status": "new",
+  "en": "Tempest",
+  "status": "done",
   "ptrs": [
    "0x16300"
   ],
@@ -8926,8 +8926,8 @@
   "id": "r016d44",
   "kind": "string",
   "jp": "ストーム",
-  "en": "",
-  "status": "new",
+  "en": "Storm",
+  "status": "done",
   "ptrs": [
    "0x16304"
   ],
@@ -8937,8 +8937,8 @@
   "id": "r016d50",
   "kind": "string",
   "jp": "ディザスター",
-  "en": "",
-  "status": "new",
+  "en": "Disaster",
+  "status": "done",
   "ptrs": [
    "0x16308"
   ],
@@ -8948,8 +8948,8 @@
   "id": "r016d60",
   "kind": "string",
   "jp": "ストライフ",
-  "en": "",
-  "status": "new",
+  "en": "Strife",
+  "status": "done",
   "ptrs": [
    "0x1630c"
   ],
@@ -8959,8 +8959,8 @@
   "id": "r016d6c",
   "kind": "string",
   "jp": "ライオット",
-  "en": "",
-  "status": "new",
+  "en": "Riot",
+  "status": "done",
   "ptrs": [
    "0x16310"
   ],
@@ -8970,8 +8970,8 @@
   "id": "r016d78",
   "kind": "string",
   "jp": "あらしのような",
-  "en": "",
-  "status": "new",
+  "en": "Storm-like",
+  "status": "done",
   "ptrs": [
    "0x16314"
   ],
@@ -8981,8 +8981,8 @@
   "id": "r016d88",
   "kind": "string",
   "jp": "オーラで",
-  "en": "",
-  "status": "new",
+  "en": "aura:",
+  "status": "done",
   "ptrs": [
    "0x16318"
   ],
@@ -8992,8 +8992,8 @@
   "id": "r016d94",
   "kind": "string",
   "jp": "自分のまわりに",
-  "en": "",
-  "status": "new",
+  "en": "around you",
+  "status": "done",
   "ptrs": [
    "0x1631c"
   ],
@@ -9003,8 +9003,8 @@
   "id": "r016da4",
   "kind": "string",
   "jp": "ＨＰＡＰダメージ",
-  "en": "",
-  "status": "new",
+  "en": "HP+AP damage",
+  "status": "done",
   "ptrs": [
    "0x16320"
   ],
@@ -9014,8 +9014,8 @@
   "id": "r016db8",
   "kind": "string",
   "jp": "ギガロール",
-  "en": "",
-  "status": "new",
+  "en": "Giga Roll",
+  "status": "done",
   "ptrs": [
    "0x16338"
   ],
@@ -9025,8 +9025,8 @@
   "id": "r016dc4",
   "kind": "string",
   "jp": "ギガロール",
-  "en": "",
-  "status": "new",
+  "en": "Giga Roll",
+  "status": "done",
   "ptrs": [
    "0x1633c"
   ],
@@ -9036,8 +9036,8 @@
   "id": "r016dd0",
   "kind": "string",
   "jp": "ギガロール",
-  "en": "",
-  "status": "new",
+  "en": "Giga Roll",
+  "status": "done",
   "ptrs": [
    "0x16340"
   ],
@@ -9047,8 +9047,8 @@
   "id": "r016ddc",
   "kind": "string",
   "jp": "ギガロール",
-  "en": "",
-  "status": "new",
+  "en": "Giga Roll",
+  "status": "done",
   "ptrs": [
    "0x16344"
   ],
@@ -9058,8 +9058,8 @@
   "id": "r016de8",
   "kind": "string",
   "jp": "ギガロール",
-  "en": "",
-  "status": "new",
+  "en": "Giga Roll",
+  "status": "done",
   "ptrs": [
    "0x16348"
   ],
@@ -9069,8 +9069,8 @@
   "id": "r016df4",
   "kind": "string",
   "jp": "いつもより",
-  "en": "",
-  "status": "new",
+  "en": "A stronger",
+  "status": "done",
   "ptrs": [
    "0x1634c"
   ],
@@ -9080,8 +9080,8 @@
   "id": "r016e00",
   "kind": "string",
   "jp": "すごいオーラの",
-  "en": "",
-  "status": "new",
+  "en": "aura-charged",
+  "status": "done",
   "ptrs": [
    "0x16350"
   ],
@@ -9091,8 +9091,8 @@
   "id": "r016e10",
   "kind": "string",
   "jp": "アタックロールで",
-  "en": "",
-  "status": "new",
+  "en": "Attack Roll",
+  "status": "done",
   "ptrs": [
    "0x16354"
   ],
@@ -9102,8 +9102,8 @@
   "id": "r016e24",
   "kind": "string",
   "jp": "ＨＰＡＰダメージ",
-  "en": "",
-  "status": "new",
+  "en": "HP+AP damage",
+  "status": "done",
   "ptrs": [
    "0x16358"
   ],
@@ -9113,8 +9113,8 @@
   "id": "r016e38",
   "kind": "string",
   "jp": "ブレイク",
-  "en": "",
-  "status": "new",
+  "en": "Break",
+  "status": "done",
   "ptrs": [
    "0x16370"
   ],
@@ -9124,8 +9124,8 @@
   "id": "r016e44",
   "kind": "string",
   "jp": "ストライク",
-  "en": "",
-  "status": "new",
+  "en": "Strike",
+  "status": "done",
   "ptrs": [
    "0x16374"
   ],
@@ -9135,8 +9135,8 @@
   "id": "r016e50",
   "kind": "string",
   "jp": "ボルト",
-  "en": "",
-  "status": "new",
+  "en": "Bolt",
+  "status": "done",
   "ptrs": [
    "0x16378"
   ],
@@ -9146,8 +9146,8 @@
   "id": "r016e58",
   "kind": "string",
   "jp": "ブロー",
-  "en": "",
-  "status": "new",
+  "en": "Blow",
+  "status": "done",
   "ptrs": [
    "0x1637c"
   ],
@@ -9157,8 +9157,8 @@
   "id": "r016e60",
   "kind": "string",
   "jp": "バンカー",
-  "en": "",
-  "status": "new",
+  "en": "Bunker",
+  "status": "done",
   "ptrs": [
    "0x16380"
   ],
@@ -9168,8 +9168,8 @@
   "id": "r016e6c",
   "kind": "string",
   "jp": "オーラをたたき",
-  "en": "",
-  "status": "new",
+  "en": "Slams aura",
+  "status": "done",
   "ptrs": [
    "0x16384"
   ],
@@ -9179,8 +9179,8 @@
   "id": "r016e7c",
   "kind": "string",
   "jp": "つけスマッシュを",
-  "en": "",
-  "status": "new",
+  "en": "down: a Smash-",
+  "status": "done",
   "ptrs": [
    "0x16388"
   ],
@@ -9190,8 +9190,8 @@
   "id": "r016e90",
   "kind": "string",
   "jp": "ふうじるこうげき",
-  "en": "",
-  "status": "new",
+  "en": "sealing attack",
+  "status": "done",
   "ptrs": [
    "0x1638c"
   ],
@@ -9201,8 +9201,8 @@
   "id": "r016ea4",
   "kind": "string",
   "jp": "を広はんいにだす",
-  "en": "",
-  "status": "new",
+  "en": "over a wide area",
+  "status": "done",
   "ptrs": [
    "0x16390"
   ],
@@ -9212,8 +9212,8 @@
   "id": "r016eb8",
   "kind": "string",
   "jp": "シェイカー",
-  "en": "",
-  "status": "new",
+  "en": "Shaker",
+  "status": "done",
   "ptrs": [
    "0x163a8"
   ],
@@ -9223,8 +9223,8 @@
   "id": "r016ec4",
   "kind": "string",
   "jp": "クラック",
-  "en": "",
-  "status": "new",
+  "en": "Crack",
+  "status": "done",
   "ptrs": [
    "0x163ac"
   ],
@@ -9234,8 +9234,8 @@
   "id": "r016ed0",
   "kind": "string",
   "jp": "ウェイブ",
-  "en": "",
-  "status": "new",
+  "en": "Wave",
+  "status": "done",
   "ptrs": [
    "0x163b0"
   ],
@@ -9245,8 +9245,8 @@
   "id": "r016edc",
   "kind": "string",
   "jp": "クエイク",
-  "en": "",
-  "status": "new",
+  "en": "Quake",
+  "status": "done",
   "ptrs": [
    "0x163b4"
   ],
@@ -9256,8 +9256,8 @@
   "id": "r016ee8",
   "kind": "string",
   "jp": "ランブル",
-  "en": "",
-  "status": "new",
+  "en": "Rumble",
+  "status": "done",
   "ptrs": [
    "0x163b8"
   ],
@@ -9267,8 +9267,8 @@
   "id": "r016ef4",
   "kind": "string",
   "jp": "地面をわり",
-  "en": "",
-  "status": "new",
+  "en": "Quakes:",
+  "status": "done",
   "ptrs": [
    "0x163bc"
   ],
@@ -9278,8 +9278,8 @@
   "id": "r016f00",
   "kind": "string",
   "jp": "スマッシュを",
-  "en": "",
-  "status": "new",
+  "en": "Smash-",
+  "status": "done",
   "ptrs": [
    "0x163c0"
   ],
@@ -9289,8 +9289,8 @@
   "id": "r016f10",
   "kind": "string",
   "jp": "ふうじるこうげき",
-  "en": "",
-  "status": "new",
+  "en": "sealing attack",
+  "status": "done",
   "ptrs": [
    "0x163c4"
   ],
@@ -9300,8 +9300,8 @@
   "id": "r016f24",
   "kind": "string",
   "jp": "をしゅういにだす",
-  "en": "",
-  "status": "new",
+  "en": "all around",
+  "status": "done",
   "ptrs": [
    "0x163c8"
   ],
@@ -9311,8 +9311,8 @@
   "id": "r016f38",
   "kind": "string",
   "jp": "スリンガー",
-  "en": "",
-  "status": "new",
+  "en": "Slinger",
+  "status": "done",
   "ptrs": [
    "0x163e0"
   ],
@@ -9322,8 +9322,8 @@
   "id": "r016f44",
   "kind": "string",
   "jp": "ハンター",
-  "en": "",
-  "status": "new",
+  "en": "Hunter",
+  "status": "done",
   "ptrs": [
    "0x163e4"
   ],
@@ -9333,8 +9333,8 @@
   "id": "r016f50",
   "kind": "string",
   "jp": "シュート",
-  "en": "",
-  "status": "new",
+  "en": "Shoot",
+  "status": "done",
   "ptrs": [
    "0x163e8"
   ],
@@ -9344,8 +9344,8 @@
   "id": "r016f5c",
   "kind": "string",
   "jp": "スコール",
-  "en": "",
-  "status": "new",
+  "en": "Squall",
+  "status": "done",
   "ptrs": [
    "0x163ec"
   ],
@@ -9355,8 +9355,8 @@
   "id": "r016f68",
   "kind": "string",
   "jp": "アロー",
-  "en": "",
-  "status": "new",
+  "en": "Arrow",
+  "status": "done",
   "ptrs": [
    "0x163f0"
   ],
@@ -9366,8 +9366,8 @@
   "id": "r016f70",
   "kind": "string",
   "jp": "オーラの矢で",
-  "en": "",
-  "status": "new",
+  "en": "Aura arrows",
+  "status": "done",
   "ptrs": [
    "0x163f4"
   ],
@@ -9377,8 +9377,8 @@
   "id": "r016f80",
   "kind": "string",
   "jp": "十字とななめに",
-  "en": "",
-  "status": "new",
+  "en": "cross+diagonal",
+  "status": "done",
   "ptrs": [
    "0x163f8"
   ],
@@ -9388,8 +9388,8 @@
   "id": "r016f90",
   "kind": "string",
   "jp": "チャージを",
-  "en": "",
-  "status": "new",
+  "en": "Charge-",
+  "status": "done",
   "ptrs": [
    "0x163fc"
   ],
@@ -9399,8 +9399,8 @@
   "id": "r016f9c",
   "kind": "string",
   "jp": "ふうじるこうげき",
-  "en": "",
-  "status": "new",
+  "en": "sealing attack",
+  "status": "done",
   "ptrs": [
    "0x16400"
   ],
@@ -9410,8 +9410,8 @@
   "id": "r016fb0",
   "kind": "string",
   "jp": "セイバー",
-  "en": "",
-  "status": "new",
+  "en": "Saber",
+  "status": "done",
   "ptrs": [
    "0x16418"
   ],
@@ -9421,8 +9421,8 @@
   "id": "r016fbc",
   "kind": "string",
   "jp": "ストラッシュ",
-  "en": "",
-  "status": "new",
+  "en": "Strash",
+  "status": "done",
   "ptrs": [
    "0x1641c"
   ],
@@ -9432,8 +9432,8 @@
   "id": "r016fcc",
   "kind": "string",
   "jp": "ザンバー",
-  "en": "",
-  "status": "new",
+  "en": "Zamber",
+  "status": "done",
   "ptrs": [
    "0x16420"
   ],
@@ -9443,8 +9443,8 @@
   "id": "r016fd8",
   "kind": "string",
   "jp": "スライダー",
-  "en": "",
-  "status": "new",
+  "en": "Slider",
+  "status": "done",
   "ptrs": [
    "0x16424"
   ],
@@ -9454,8 +9454,8 @@
   "id": "r016fe4",
   "kind": "string",
   "jp": "ソード",
-  "en": "",
-  "status": "new",
+  "en": "Sword",
+  "status": "done",
   "ptrs": [
    "0x16428"
   ],
@@ -9465,8 +9465,8 @@
   "id": "r016fec",
   "kind": "string",
   "jp": "光の剣をふり",
-  "en": "",
-  "status": "new",
+  "en": "Light sword",
+  "status": "done",
   "ptrs": [
    "0x1642c"
   ],
@@ -9476,8 +9476,8 @@
   "id": "r016ffc",
   "kind": "string",
   "jp": "十字方向に",
-  "en": "",
-  "status": "new",
+  "en": "cross-wise",
+  "status": "done",
   "ptrs": [
    "0x16430"
   ],
@@ -9487,8 +9487,8 @@
   "id": "r017008",
   "kind": "string",
   "jp": "チャージを",
-  "en": "",
-  "status": "new",
+  "en": "Charge-",
+  "status": "done",
   "ptrs": [
    "0x16434"
   ],
@@ -9498,8 +9498,8 @@
   "id": "r017014",
   "kind": "string",
   "jp": "ふうじるこうげき",
-  "en": "",
-  "status": "new",
+  "en": "sealing attack",
+  "status": "done",
   "ptrs": [
    "0x16438"
   ],
@@ -9509,8 +9509,8 @@
   "id": "r017028",
   "kind": "string",
   "jp": "ヴァルカン",
-  "en": "",
-  "status": "new",
+  "en": "Valcan",
+  "status": "done",
   "ptrs": [
    "0x16450"
   ],
@@ -9520,8 +9520,8 @@
   "id": "r017034",
   "kind": "string",
   "jp": "ワイズ",
-  "en": "",
-  "status": "new",
+  "en": "Wise",
+  "status": "done",
   "ptrs": [
    "0x16454"
   ],
@@ -9531,8 +9531,8 @@
   "id": "r01703c",
   "kind": "string",
   "jp": "デヴァイン",
-  "en": "",
-  "status": "new",
+  "en": "Divine",
+  "status": "done",
   "ptrs": [
    "0x16458"
   ],
@@ -9542,8 +9542,8 @@
   "id": "r017048",
   "kind": "string",
   "jp": "ラウド",
-  "en": "",
-  "status": "new",
+  "en": "Loud",
+  "status": "done",
   "ptrs": [
    "0x1645c"
   ],
@@ -9553,8 +9553,8 @@
   "id": "r017050",
   "kind": "string",
   "jp": "オラクル",
-  "en": "",
-  "status": "new",
+  "en": "Oracle",
+  "status": "done",
   "ptrs": [
    "0x16460"
   ],
@@ -9564,8 +9564,8 @@
   "id": "r01705c",
   "kind": "string",
   "jp": "オーラこうげきで",
-  "en": "",
-  "status": "new",
+  "en": "Aura attack",
+  "status": "done",
   "ptrs": [
    "0x16464"
   ],
@@ -9575,8 +9575,8 @@
   "id": "r017070",
   "kind": "string",
   "jp": "自分のまわりに",
-  "en": "",
-  "status": "new",
+  "en": "around you",
+  "status": "done",
   "ptrs": [
    "0x16468"
   ],
@@ -9586,8 +9586,8 @@
   "id": "r017080",
   "kind": "string",
   "jp": "動きがにぶくなる",
-  "en": "",
-  "status": "new",
+  "en": "slows foes",
+  "status": "done",
   "ptrs": [
    "0x1646c"
   ],
@@ -9597,8 +9597,8 @@
   "id": "r017094",
   "kind": "string",
   "jp": "こうげきをする",
-  "en": "",
-  "status": "new",
+  "en": "down",
+  "status": "done",
   "ptrs": [
    "0x16470"
   ],
@@ -9608,8 +9608,8 @@
   "id": "r0170a4",
   "kind": "string",
   "jp": "テラロール",
-  "en": "",
-  "status": "new",
+  "en": "Tera Roll",
+  "status": "done",
   "ptrs": [
    "0x16488"
   ],
@@ -9619,8 +9619,8 @@
   "id": "r0170b0",
   "kind": "string",
   "jp": "テラロール",
-  "en": "",
-  "status": "new",
+  "en": "Tera Roll",
+  "status": "done",
   "ptrs": [
    "0x1648c"
   ],
@@ -9630,8 +9630,8 @@
   "id": "r0170bc",
   "kind": "string",
   "jp": "テラロール",
-  "en": "",
-  "status": "new",
+  "en": "Tera Roll",
+  "status": "done",
   "ptrs": [
    "0x16490"
   ],
@@ -9641,8 +9641,8 @@
   "id": "r0170c8",
   "kind": "string",
   "jp": "テラロール",
-  "en": "",
-  "status": "new",
+  "en": "Tera Roll",
+  "status": "done",
   "ptrs": [
    "0x16494"
   ],
@@ -9652,8 +9652,8 @@
   "id": "r0170d4",
   "kind": "string",
   "jp": "テラロール",
-  "en": "",
-  "status": "new",
+  "en": "Tera Roll",
+  "status": "done",
   "ptrs": [
    "0x16498"
   ],
@@ -9663,8 +9663,8 @@
   "id": "r0170e0",
   "kind": "string",
   "jp": "すごいオーラの",
-  "en": "",
-  "status": "new",
+  "en": "Aura-charged",
+  "status": "done",
   "ptrs": [
    "0x1649c"
   ],
@@ -9674,8 +9674,8 @@
   "id": "r0170f0",
   "kind": "string",
   "jp": "アタックロールで",
-  "en": "",
-  "status": "new",
+  "en": "Attack Roll",
+  "status": "done",
   "ptrs": [
    "0x164a0"
   ],
@@ -9685,8 +9685,8 @@
   "id": "r017104",
   "kind": "string",
   "jp": "動けなくなる",
-  "en": "",
-  "status": "new",
+  "en": "that freezes",
+  "status": "done",
   "ptrs": [
    "0x164a4"
   ],
@@ -9696,8 +9696,8 @@
   "id": "r017114",
   "kind": "string",
   "jp": "こうげきをする",
-  "en": "",
-  "status": "new",
+  "en": "foes in place",
+  "status": "done",
   "ptrs": [
    "0x164a8"
   ],
@@ -9707,8 +9707,8 @@
   "id": "r017124",
   "kind": "string",
   "jp": "ノクターン",
-  "en": "",
-  "status": "new",
+  "en": "Nocturne",
+  "status": "done",
   "ptrs": [
    "0x164c0"
   ],
@@ -9718,8 +9718,8 @@
   "id": "r017130",
   "kind": "string",
   "jp": "ルナ",
-  "en": "",
-  "status": "new",
+  "en": "Luna",
+  "status": "done",
   "ptrs": [
    "0x164c4"
   ],
@@ -9729,8 +9729,8 @@
   "id": "r017138",
   "kind": "string",
   "jp": "セレーネ",
-  "en": "",
-  "status": "new",
+  "en": "Selene",
+  "status": "done",
   "ptrs": [
    "0x164c8"
   ],
@@ -9740,8 +9740,8 @@
   "id": "r017144",
   "kind": "string",
   "jp": "ナイト",
-  "en": "",
-  "status": "new",
+  "en": "Night",
+  "status": "done",
   "ptrs": [
    "0x164cc"
   ],
@@ -9751,8 +9751,8 @@
   "id": "r01714c",
   "kind": "string",
   "jp": "ムーン",
-  "en": "",
-  "status": "new",
+  "en": "Moon",
+  "status": "done",
   "ptrs": [
    "0x164d0"
   ],
@@ -9762,8 +9762,8 @@
   "id": "r017154",
   "kind": "string",
   "jp": "オーラの月を",
-  "en": "",
-  "status": "new",
+  "en": "Aura moon",
+  "status": "done",
   "ptrs": [
    "0x164d4"
   ],
@@ -9773,8 +9773,8 @@
   "id": "r017164",
   "kind": "string",
   "jp": "作り出し",
-  "en": "",
-  "status": "new",
+  "en": "rises:",
+  "status": "done",
   "ptrs": [
    "0x164d8"
   ],
@@ -9784,8 +9784,8 @@
   "id": "r017170",
   "kind": "string",
   "jp": "広いはんいを",
-  "en": "",
-  "status": "new",
+  "en": "wide-area",
+  "status": "done",
   "ptrs": [
    "0x164dc"
   ],
@@ -9795,8 +9795,8 @@
   "id": "r017180",
   "kind": "string",
   "jp": "こんらんさせる",
-  "en": "",
-  "status": "new",
+  "en": "confusion",
+  "status": "done",
   "ptrs": [
    "0x164e0"
   ],
@@ -9806,8 +9806,8 @@
   "id": "r017190",
   "kind": "string",
   "jp": "ディ",
-  "en": "",
-  "status": "new",
+  "en": "Di",
+  "status": "done",
   "ptrs": [
    "0x164f8"
   ],
@@ -9817,8 +9817,8 @@
   "id": "r017198",
   "kind": "string",
   "jp": "シェード",
-  "en": "",
-  "status": "new",
+  "en": "Shade",
+  "status": "done",
   "ptrs": [
    "0x164fc"
   ],
@@ -9828,8 +9828,8 @@
   "id": "r0171a4",
   "kind": "string",
   "jp": "スピリット",
-  "en": "",
-  "status": "new",
+  "en": "Spirit",
+  "status": "done",
   "ptrs": [
    "0x16500"
   ],
@@ -9839,8 +9839,8 @@
   "id": "r0171b0",
   "kind": "string",
   "jp": "ドレイク",
-  "en": "",
-  "status": "new",
+  "en": "Drake",
+  "status": "done",
   "ptrs": [
    "0x16504"
   ],
@@ -9850,8 +9850,8 @@
   "id": "r0171bc",
   "kind": "string",
   "jp": "ウィスプ",
-  "en": "",
-  "status": "new",
+  "en": "Wisp",
+  "status": "done",
   "ptrs": [
    "0x16508"
   ],
@@ -9861,8 +9861,8 @@
   "id": "r0171c8",
   "kind": "string",
   "jp": "ぶ気味なオーラの",
-  "en": "",
-  "status": "new",
+  "en": "Eerie aura orbs",
+  "status": "done",
   "ptrs": [
    "0x1650c"
   ],
@@ -9872,8 +9872,8 @@
   "id": "r0171dc",
   "kind": "string",
   "jp": "玉をよびだし",
-  "en": "",
-  "status": "new",
+  "en": "appear:",
+  "status": "done",
   "ptrs": [
    "0x16510"
   ],
@@ -9883,8 +9883,8 @@
   "id": "r0171ec",
   "kind": "string",
   "jp": "円形のまわりを",
-  "en": "",
-  "status": "new",
+  "en": "circle-area",
+  "status": "done",
   "ptrs": [
    "0x16514"
   ],
@@ -9894,8 +9894,8 @@
   "id": "r0171fc",
   "kind": "string",
   "jp": "こんらんさせる",
-  "en": "",
-  "status": "new",
+  "en": "confusion",
+  "status": "done",
   "ptrs": [
    "0x16518"
   ],
@@ -9905,8 +9905,8 @@
   "id": "r01720c",
   "kind": "string",
   "jp": "ストリーマー",
-  "en": "",
-  "status": "new",
+  "en": "Streamer",
+  "status": "done",
   "ptrs": [
    "0x16530"
   ],
@@ -9916,8 +9916,8 @@
   "id": "r01721c",
   "kind": "string",
   "jp": "サイクロン",
-  "en": "",
-  "status": "new",
+  "en": "Cyclone",
+  "status": "done",
   "ptrs": [
    "0x16534"
   ],
@@ -9927,8 +9927,8 @@
   "id": "r017228",
   "kind": "string",
   "jp": "トルネード",
-  "en": "",
-  "status": "new",
+  "en": "Tornado",
+  "status": "done",
   "ptrs": [
    "0x16538"
   ],
@@ -9938,8 +9938,8 @@
   "id": "r017234",
   "kind": "string",
   "jp": "ブリンガー",
-  "en": "",
-  "status": "new",
+  "en": "Bringer",
+  "status": "done",
   "ptrs": [
    "0x1653c"
   ],
@@ -9949,8 +9949,8 @@
   "id": "r017240",
   "kind": "string",
   "jp": "グラビトン",
-  "en": "",
-  "status": "new",
+  "en": "Graviton",
+  "status": "done",
   "ptrs": [
    "0x16540"
   ],
@@ -9960,8 +9960,8 @@
   "id": "r01724c",
   "kind": "string",
   "jp": "オーラのうずで",
-  "en": "",
-  "status": "new",
+  "en": "Aura vortex:",
+  "status": "done",
   "ptrs": [
    "0x16544"
   ],
@@ -9971,8 +9971,8 @@
   "id": "r01725c",
   "kind": "string",
   "jp": "十字とななめに",
-  "en": "",
-  "status": "new",
+  "en": "cross+diagonal",
+  "status": "done",
   "ptrs": [
    "0x16548"
   ],
@@ -9982,8 +9982,8 @@
   "id": "r01726c",
   "kind": "string",
   "jp": "オーラがカイフク",
-  "en": "",
-  "status": "new",
+  "en": "no aura regen",
+  "status": "done",
   "ptrs": [
    "0x1654c"
   ],
@@ -9993,8 +9993,8 @@
   "id": "r017280",
   "kind": "string",
   "jp": "しないこうげき",
-  "en": "",
-  "status": "new",
+  "en": "after the hit",
+  "status": "done",
   "ptrs": [
    "0x16550"
   ],
@@ -10004,8 +10004,8 @@
   "id": "r017290",
   "kind": "string",
   "jp": "クラッシャー",
-  "en": "",
-  "status": "new",
+  "en": "Crusher",
+  "status": "done",
   "ptrs": [
    "0x16568"
   ],
@@ -10015,8 +10015,8 @@
   "id": "r0172a0",
   "kind": "string",
   "jp": "プレッシャー",
-  "en": "",
-  "status": "new",
+  "en": "Pressure",
+  "status": "done",
   "ptrs": [
    "0x1656c"
   ],
@@ -10026,8 +10026,8 @@
   "id": "r0172b0",
   "kind": "string",
   "jp": "ハンマー",
-  "en": "",
-  "status": "new",
+  "en": "Hammer",
+  "status": "done",
   "ptrs": [
    "0x16570"
   ],
@@ -10037,8 +10037,8 @@
   "id": "r0172bc",
   "kind": "string",
   "jp": "インパクト",
-  "en": "",
-  "status": "new",
+  "en": "Impact",
+  "status": "done",
   "ptrs": [
    "0x16574"
   ],
@@ -10048,8 +10048,8 @@
   "id": "r0172c8",
   "kind": "string",
   "jp": "パウンド",
-  "en": "",
-  "status": "new",
+  "en": "Pound",
+  "status": "done",
   "ptrs": [
    "0x16578"
   ],
@@ -10059,8 +10059,8 @@
   "id": "r0172d4",
   "kind": "string",
   "jp": "光のハンマーで",
-  "en": "",
-  "status": "new",
+  "en": "Light hammer",
+  "status": "done",
   "ptrs": [
    "0x1657c"
   ],
@@ -10070,8 +10070,8 @@
   "id": "r0172e4",
   "kind": "string",
   "jp": "十字方向に",
-  "en": "",
-  "status": "new",
+  "en": "cross-wise",
+  "status": "done",
   "ptrs": [
    "0x16580"
   ],
@@ -10081,8 +10081,8 @@
   "id": "r0172f0",
   "kind": "string",
   "jp": "オーラがカイフク",
-  "en": "",
-  "status": "new",
+  "en": "no aura regen",
+  "status": "done",
   "ptrs": [
    "0x16584"
   ],
@@ -10092,8 +10092,8 @@
   "id": "r017304",
   "kind": "string",
   "jp": "しないこうげき",
-  "en": "",
-  "status": "new",
+  "en": "after the hit",
+  "status": "done",
   "ptrs": [
    "0x16588"
   ],
@@ -10103,8 +10103,8 @@
   "id": "r017314",
   "kind": "string",
   "jp": "メテオ",
-  "en": "",
-  "status": "new",
+  "en": "Meteor",
+  "status": "done",
   "ptrs": [
    "0x165a0"
   ],
@@ -10114,8 +10114,8 @@
   "id": "r01731c",
   "kind": "string",
   "jp": "ブラスト",
-  "en": "",
-  "status": "new",
+  "en": "Blast",
+  "status": "done",
   "ptrs": [
    "0x165a4"
   ],
@@ -10125,8 +10125,8 @@
   "id": "r017328",
   "kind": "string",
   "jp": "フォール",
-  "en": "",
-  "status": "new",
+  "en": "Fall",
+  "status": "done",
   "ptrs": [
    "0x165a8"
   ],
@@ -10136,8 +10136,8 @@
   "id": "r017334",
   "kind": "string",
   "jp": "アステロイド",
-  "en": "",
-  "status": "new",
+  "en": "Asteroid",
+  "status": "done",
   "ptrs": [
    "0x165ac"
   ],
@@ -10147,8 +10147,8 @@
   "id": "r017344",
   "kind": "string",
   "jp": "ミーティア",
-  "en": "",
-  "status": "new",
+  "en": "Meteora",
+  "status": "done",
   "ptrs": [
    "0x165b0"
   ],
@@ -10158,8 +10158,8 @@
   "id": "r017350",
   "kind": "string",
   "jp": "いん石のような",
-  "en": "",
-  "status": "new",
+  "en": "Meteor-like",
+  "status": "done",
   "ptrs": [
    "0x165b4"
   ],
@@ -10169,8 +10169,8 @@
   "id": "r017360",
   "kind": "string",
   "jp": "オーラを落として",
-  "en": "",
-  "status": "new",
+  "en": "aura falls:",
+  "status": "done",
   "ptrs": [
    "0x165b8"
   ],
@@ -10180,8 +10180,8 @@
   "id": "r017374",
   "kind": "string",
   "jp": "じわじわオーラが",
-  "en": "",
-  "status": "new",
+  "en": "aura drains",
+  "status": "done",
   "ptrs": [
    "0x165bc"
   ],
@@ -10191,8 +10191,8 @@
   "id": "r017388",
   "kind": "string",
   "jp": "へるこうげき",
-  "en": "",
-  "status": "new",
+  "en": "bit by bit",
+  "status": "done",
   "ptrs": [
    "0x165c0"
   ],
@@ -10202,8 +10202,8 @@
   "id": "r017398",
   "kind": "string",
   "jp": "エクサロール",
-  "en": "",
-  "status": "new",
+  "en": "Exa Roll",
+  "status": "done",
   "ptrs": [
    "0x165d8"
   ],
@@ -10213,8 +10213,8 @@
   "id": "r0173a8",
   "kind": "string",
   "jp": "エクサロール",
-  "en": "",
-  "status": "new",
+  "en": "Exa Roll",
+  "status": "done",
   "ptrs": [
    "0x165dc"
   ],
@@ -10224,8 +10224,8 @@
   "id": "r0173b8",
   "kind": "string",
   "jp": "エクサロール",
-  "en": "",
-  "status": "new",
+  "en": "Exa Roll",
+  "status": "done",
   "ptrs": [
    "0x165e0"
   ],
@@ -10235,8 +10235,8 @@
   "id": "r0173c8",
   "kind": "string",
   "jp": "エクサロール",
-  "en": "",
-  "status": "new",
+  "en": "Exa Roll",
+  "status": "done",
   "ptrs": [
    "0x165e4"
   ],
@@ -10246,8 +10246,8 @@
   "id": "r0173d8",
   "kind": "string",
   "jp": "エクサロール",
-  "en": "",
-  "status": "new",
+  "en": "Exa Roll",
+  "status": "done",
   "ptrs": [
    "0x165e8"
   ],
@@ -10257,8 +10257,8 @@
   "id": "r0173e8",
   "kind": "string",
   "jp": "すごいオーラの",
-  "en": "",
-  "status": "new",
+  "en": "Aura-charged",
+  "status": "done",
   "ptrs": [
    "0x165ec"
   ],
@@ -10268,8 +10268,8 @@
   "id": "r0173f8",
   "kind": "string",
   "jp": "アタックロールで",
-  "en": "",
-  "status": "new",
+  "en": "Attack Roll",
+  "status": "done",
   "ptrs": [
    "0x165f0"
   ],
@@ -10279,8 +10279,8 @@
   "id": "r01740c",
   "kind": "string",
   "jp": "じわじわＨＰが",
-  "en": "",
-  "status": "new",
+  "en": "HP drains",
+  "status": "done",
   "ptrs": [
    "0x165f4"
   ],
@@ -10290,8 +10290,8 @@
   "id": "r01741c",
   "kind": "string",
   "jp": "へるこうげき",
-  "en": "",
-  "status": "new",
+  "en": "bit by bit",
+  "status": "done",
   "ptrs": [
    "0x165f8"
   ],
@@ -10301,8 +10301,8 @@
   "id": "r01742c",
   "kind": "string",
   "jp": "シャイン",
-  "en": "",
-  "status": "new",
+  "en": "Shine",
+  "status": "done",
   "ptrs": [
    "0x16610"
   ],
@@ -10312,8 +10312,8 @@
   "id": "r017438",
   "kind": "string",
   "jp": "ブライド",
-  "en": "",
-  "status": "new",
+  "en": "Blind",
+  "status": "done",
   "ptrs": [
    "0x16614"
   ],
@@ -10323,8 +10323,8 @@
   "id": "r017444",
   "kind": "string",
   "jp": "スパーク",
-  "en": "",
-  "status": "new",
+  "en": "Spark",
+  "status": "done",
   "ptrs": [
    "0x16618"
   ],
@@ -10334,8 +10334,8 @@
   "id": "r017450",
   "kind": "string",
   "jp": "スクリーム",
-  "en": "",
-  "status": "new",
+  "en": "Scream",
+  "status": "done",
   "ptrs": [
    "0x1661c"
   ],
@@ -10345,8 +10345,8 @@
   "id": "r01745c",
   "kind": "string",
   "jp": "レクイエム",
-  "en": "",
-  "status": "new",
+  "en": "Requiem",
+  "status": "done",
   "ptrs": [
    "0x16620"
   ],
@@ -10356,8 +10356,8 @@
   "id": "r017468",
   "kind": "string",
   "jp": "オーラの",
-  "en": "",
-  "status": "new",
+  "en": "Aura",
+  "status": "done",
   "ptrs": [
    "0x16624"
   ],
@@ -10367,8 +10367,8 @@
   "id": "r017474",
   "kind": "string",
   "jp": "光をてらし",
-  "en": "",
-  "status": "new",
+  "en": "flashes:",
+  "status": "done",
   "ptrs": [
    "0x16628"
   ],
@@ -10378,8 +10378,8 @@
   "id": "r017480",
   "kind": "string",
   "jp": "十字とななめの",
-  "en": "",
-  "status": "new",
+  "en": "cross+diagonal",
+  "status": "done",
   "ptrs": [
    "0x1662c"
   ],
@@ -10389,8 +10389,8 @@
   "id": "r017490",
   "kind": "string",
   "jp": "しかいをうばう",
-  "en": "",
-  "status": "new",
+  "en": "foes blinded",
+  "status": "done",
   "ptrs": [
    "0x16630"
   ],
@@ -10400,8 +10400,8 @@
   "id": "r0174a0",
   "kind": "string",
   "jp": "シャインＳ",
-  "en": "",
-  "status": "new",
+  "en": "Shine S",
+  "status": "done",
   "ptrs": [
    "0x16648"
   ],
@@ -10411,8 +10411,8 @@
   "id": "r0174ac",
   "kind": "string",
   "jp": "ブライドＳ",
-  "en": "",
-  "status": "new",
+  "en": "Blind S",
+  "status": "done",
   "ptrs": [
    "0x1664c"
   ],
@@ -10422,8 +10422,8 @@
   "id": "r0174b8",
   "kind": "string",
   "jp": "スパークＳ",
-  "en": "",
-  "status": "new",
+  "en": "Spark S",
+  "status": "done",
   "ptrs": [
    "0x16650"
   ],
@@ -10433,8 +10433,8 @@
   "id": "r0174c4",
   "kind": "string",
   "jp": "スクリームＳ",
-  "en": "",
-  "status": "new",
+  "en": "Scream S",
+  "status": "done",
   "ptrs": [
    "0x16654"
   ],
@@ -10444,8 +10444,8 @@
   "id": "r0174d4",
   "kind": "string",
   "jp": "レクイエムＳ",
-  "en": "",
-  "status": "new",
+  "en": "Requiem S",
+  "status": "done",
   "ptrs": [
    "0x16658"
   ],
@@ -10455,8 +10455,8 @@
   "id": "r0174e4",
   "kind": "string",
   "jp": "まぶしいオーラの",
-  "en": "",
-  "status": "new",
+  "en": "Dazzling aura",
+  "status": "done",
   "ptrs": [
    "0x1665c"
   ],
@@ -10466,8 +10466,8 @@
   "id": "r0174f8",
   "kind": "string",
   "jp": "光をてらし",
-  "en": "",
-  "status": "new",
+  "en": "flashes:",
+  "status": "done",
   "ptrs": [
    "0x16660"
   ],
@@ -10477,8 +10477,8 @@
   "id": "r017504",
   "kind": "string",
   "jp": "十字方向の",
-  "en": "",
-  "status": "new",
+  "en": "cross-wise",
+  "status": "done",
   "ptrs": [
    "0x16664"
   ],
@@ -10488,8 +10488,8 @@
   "id": "r017510",
   "kind": "string",
   "jp": "しかいをうばう",
-  "en": "",
-  "status": "new",
+  "en": "foes blinded",
+  "status": "done",
   "ptrs": [
    "0x16668"
   ],
@@ -10499,8 +10499,8 @@
   "id": "r017520",
   "kind": "string",
   "jp": "シャインＨ",
-  "en": "",
-  "status": "new",
+  "en": "Shine H",
+  "status": "done",
   "ptrs": [
    "0x16680"
   ],
@@ -10510,8 +10510,8 @@
   "id": "r01752c",
   "kind": "string",
   "jp": "ブライドＨ",
-  "en": "",
-  "status": "new",
+  "en": "Blind H",
+  "status": "done",
   "ptrs": [
    "0x16684"
   ],
@@ -10521,8 +10521,8 @@
   "id": "r017538",
   "kind": "string",
   "jp": "スパークＨ",
-  "en": "",
-  "status": "new",
+  "en": "Spark H",
+  "status": "done",
   "ptrs": [
    "0x16688"
   ],
@@ -10532,8 +10532,8 @@
   "id": "r017544",
   "kind": "string",
   "jp": "スクリームＨ",
-  "en": "",
-  "status": "new",
+  "en": "Scream H",
+  "status": "done",
   "ptrs": [
    "0x1668c"
   ],
@@ -10543,8 +10543,8 @@
   "id": "r017554",
   "kind": "string",
   "jp": "レクイエムＨ",
-  "en": "",
-  "status": "new",
+  "en": "Requiem H",
+  "status": "done",
   "ptrs": [
    "0x16690"
   ],
@@ -10554,8 +10554,8 @@
   "id": "r017564",
   "kind": "string",
   "jp": "はげしいオーラの",
-  "en": "",
-  "status": "new",
+  "en": "Fierce aura",
+  "status": "done",
   "ptrs": [
    "0x16694"
   ],
@@ -10565,8 +10565,8 @@
   "id": "r017578",
   "kind": "string",
   "jp": "光をてらし",
-  "en": "",
-  "status": "new",
+  "en": "flashes:",
+  "status": "done",
   "ptrs": [
    "0x16698"
   ],
@@ -10576,8 +10576,8 @@
   "id": "r017584",
   "kind": "string",
   "jp": "自分のまわりの",
-  "en": "",
-  "status": "new",
+  "en": "nearby foes",
+  "status": "done",
   "ptrs": [
    "0x1669c"
   ],
@@ -10587,8 +10587,8 @@
   "id": "r017594",
   "kind": "string",
   "jp": "しかいをうばう",
-  "en": "",
-  "status": "new",
+  "en": "are blinded",
+  "status": "done",
   "ptrs": [
    "0x166a0"
   ],
@@ -10598,8 +10598,8 @@
   "id": "r0175a4",
   "kind": "string",
   "jp": "ミラージュ",
-  "en": "",
-  "status": "new",
+  "en": "Mirage",
+  "status": "done",
   "ptrs": [
    "0x166b8"
   ],
@@ -10609,8 +10609,8 @@
   "id": "r0175b0",
   "kind": "string",
   "jp": "イレイザー",
-  "en": "",
-  "status": "new",
+  "en": "Eraser",
+  "status": "done",
   "ptrs": [
    "0x166bc"
   ],
@@ -10620,8 +10620,8 @@
   "id": "r0175bc",
   "kind": "string",
   "jp": "イリューズ",
-  "en": "",
-  "status": "new",
+  "en": "Illusion",
+  "status": "done",
   "ptrs": [
    "0x166c0"
   ],
@@ -10631,8 +10631,8 @@
   "id": "r0175c8",
   "kind": "string",
   "jp": "ロスト",
-  "en": "",
-  "status": "new",
+  "en": "Lost",
+  "status": "done",
   "ptrs": [
    "0x166c4"
   ],
@@ -10642,8 +10642,8 @@
   "id": "r0175d0",
   "kind": "string",
   "jp": "ホロウ",
-  "en": "",
-  "status": "new",
+  "en": "Hollow",
+  "status": "done",
   "ptrs": [
    "0x166c8"
   ],
@@ -10653,8 +10653,8 @@
   "id": "r0175d8",
   "kind": "string",
   "jp": "オーラでまわりの",
-  "en": "",
-  "status": "new",
+  "en": "Aura reflects",
+  "status": "done",
   "ptrs": [
    "0x166cc"
   ],
@@ -10664,8 +10664,8 @@
   "id": "r0175ec",
   "kind": "string",
   "jp": "光をはんしゃし",
-  "en": "",
-  "status": "new",
+  "en": "light around:",
+  "status": "done",
   "ptrs": [
    "0x166d0"
   ],
@@ -10675,8 +10675,8 @@
   "id": "r0175fc",
   "kind": "string",
   "jp": "自分のすがたを",
-  "en": "",
-  "status": "new",
+  "en": "to make you",
+  "status": "done",
   "ptrs": [
    "0x166d4"
   ],
@@ -10686,8 +10686,8 @@
   "id": "r01760c",
   "kind": "string",
   "jp": "消す",
-  "en": "",
-  "status": "new",
+  "en": "fade",
+  "status": "done",
   "ptrs": [
    "0x166d8"
   ],
@@ -10697,8 +10697,8 @@
   "id": "r017614",
   "kind": "string",
   "jp": "ミラージュＳ",
-  "en": "",
-  "status": "new",
+  "en": "Mirage S",
+  "status": "done",
   "ptrs": [
    "0x166f0"
   ],
@@ -10708,8 +10708,8 @@
   "id": "r017624",
   "kind": "string",
   "jp": "イレイザーＳ",
-  "en": "",
-  "status": "new",
+  "en": "Eraser S",
+  "status": "done",
   "ptrs": [
    "0x166f4"
   ],
@@ -10719,8 +10719,8 @@
   "id": "r017634",
   "kind": "string",
   "jp": "イリューズＳ",
-  "en": "",
-  "status": "new",
+  "en": "Illusion S",
+  "status": "done",
   "ptrs": [
    "0x166f8"
   ],
@@ -10730,8 +10730,8 @@
   "id": "r017644",
   "kind": "string",
   "jp": "ロストＳ",
-  "en": "",
-  "status": "new",
+  "en": "Lost S",
+  "status": "done",
   "ptrs": [
    "0x166fc"
   ],
@@ -10741,8 +10741,8 @@
   "id": "r017650",
   "kind": "string",
   "jp": "ホロウＳ",
-  "en": "",
-  "status": "new",
+  "en": "Void S",
+  "status": "done",
   "ptrs": [
    "0x16700"
   ],
@@ -10752,8 +10752,8 @@
   "id": "r01765c",
   "kind": "string",
   "jp": "オーラでまわりの",
-  "en": "",
-  "status": "new",
+  "en": "Aura reflects",
+  "status": "done",
   "ptrs": [
    "0x16704"
   ],
@@ -10763,8 +10763,8 @@
   "id": "r017670",
   "kind": "string",
   "jp": "光をはんしゃし",
-  "en": "",
-  "status": "new",
+  "en": "light around:",
+  "status": "done",
   "ptrs": [
    "0x16708"
   ],
@@ -10774,8 +10774,8 @@
   "id": "r017680",
   "kind": "string",
   "jp": "自分のすがたを",
-  "en": "",
-  "status": "new",
+  "en": "you vanish",
+  "status": "done",
   "ptrs": [
    "0x1670c"
   ],
@@ -10785,8 +10785,8 @@
   "id": "r017690",
   "kind": "string",
   "jp": "しばらく消す",
-  "en": "",
-  "status": "new",
+  "en": "for a while",
+  "status": "done",
   "ptrs": [
    "0x16710"
   ],
@@ -10796,8 +10796,8 @@
   "id": "r0176a0",
   "kind": "string",
   "jp": "ミラージュＨ",
-  "en": "",
-  "status": "new",
+  "en": "Mirage H",
+  "status": "done",
   "ptrs": [
    "0x16728"
   ],
@@ -10807,8 +10807,8 @@
   "id": "r0176b0",
   "kind": "string",
   "jp": "イレイザーＨ",
-  "en": "",
-  "status": "new",
+  "en": "Eraser H",
+  "status": "done",
   "ptrs": [
    "0x1672c"
   ],
@@ -10818,8 +10818,8 @@
   "id": "r0176c0",
   "kind": "string",
   "jp": "イリューズＨ",
-  "en": "",
-  "status": "new",
+  "en": "Illusion H",
+  "status": "done",
   "ptrs": [
    "0x16730"
   ],
@@ -10829,8 +10829,8 @@
   "id": "r0176d0",
   "kind": "string",
   "jp": "ロストＨ",
-  "en": "",
-  "status": "new",
+  "en": "Lost H",
+  "status": "done",
   "ptrs": [
    "0x16734"
   ],
@@ -10840,8 +10840,8 @@
   "id": "r0176dc",
   "kind": "string",
   "jp": "ホロウＨ",
-  "en": "",
-  "status": "new",
+  "en": "Void H",
+  "status": "done",
   "ptrs": [
    "0x16738"
   ],
@@ -10851,8 +10851,8 @@
   "id": "r0176e8",
   "kind": "string",
   "jp": "オーラでまわりの",
-  "en": "",
-  "status": "new",
+  "en": "Aura reflects",
+  "status": "done",
   "ptrs": [
    "0x1673c"
   ],
@@ -10862,8 +10862,8 @@
   "id": "r0176fc",
   "kind": "string",
   "jp": "光をはんしゃし",
-  "en": "",
-  "status": "new",
+  "en": "light around:",
+  "status": "done",
   "ptrs": [
    "0x16740"
   ],
@@ -10873,8 +10873,8 @@
   "id": "r01770c",
   "kind": "string",
   "jp": "自分のすがたを",
-  "en": "",
-  "status": "new",
+  "en": "you vanish",
+  "status": "done",
   "ptrs": [
    "0x16744"
   ],
@@ -10884,8 +10884,8 @@
   "id": "r01771c",
   "kind": "string",
   "jp": "長い間消す",
-  "en": "",
-  "status": "new",
+  "en": "for long",
+  "status": "done",
   "ptrs": [
    "0x16748"
   ],
@@ -10895,8 +10895,8 @@
   "id": "r017728",
   "kind": "string",
   "jp": "インフェルノ",
-  "en": "",
-  "status": "new",
+  "en": "Inferno",
+  "status": "done",
   "ptrs": [
    "0x16760"
   ],
@@ -10906,8 +10906,8 @@
   "id": "r017738",
   "kind": "string",
   "jp": "クライシス",
-  "en": "",
-  "status": "new",
+  "en": "Crisis",
+  "status": "done",
   "ptrs": [
    "0x16764"
   ],
@@ -10917,8 +10917,8 @@
   "id": "r017744",
   "kind": "string",
   "jp": "インフィニー",
-  "en": "",
-  "status": "new",
+  "en": "Infiny",
+  "status": "done",
   "ptrs": [
    "0x16768"
   ],
@@ -10928,8 +10928,8 @@
   "id": "r017754",
   "kind": "string",
   "jp": "デトネイター",
-  "en": "",
-  "status": "new",
+  "en": "Detonator",
+  "status": "done",
   "ptrs": [
    "0x1676c"
   ],
@@ -10939,8 +10939,8 @@
   "id": "r017764",
   "kind": "string",
   "jp": "カタストロフ",
-  "en": "",
-  "status": "new",
+  "en": "Catastrophe",
+  "status": "done",
   "ptrs": [
    "0x16770"
   ],
@@ -10950,8 +10950,8 @@
   "id": "r017774",
   "kind": "string",
   "jp": "とくしゅな光で",
-  "en": "",
-  "status": "new",
+  "en": "Special light",
+  "status": "done",
   "ptrs": [
    "0x16774"
   ],
@@ -10961,8 +10961,8 @@
   "id": "r017784",
   "kind": "string",
   "jp": "広いはんいに",
-  "en": "",
-  "status": "new",
+  "en": "wide-area:",
+  "status": "done",
   "ptrs": [
    "0x16778"
   ],
@@ -10972,8 +10972,8 @@
   "id": "r017794",
   "kind": "string",
   "jp": "アーム２つを",
-  "en": "",
-  "status": "new",
+  "en": "2-Arm seal",
+  "status": "done",
   "ptrs": [
    "0x1677c"
   ],
@@ -10983,8 +10983,8 @@
   "id": "r0177a4",
   "kind": "string",
   "jp": "ふうじるこうげき",
-  "en": "",
-  "status": "new",
+  "en": "attack",
+  "status": "done",
   "ptrs": [
    "0x16780"
   ],
@@ -10994,8 +10994,8 @@
   "id": "r0177b8",
   "kind": "string",
   "jp": "フィーバー",
-  "en": "",
-  "status": "new",
+  "en": "Fever",
+  "status": "done",
   "ptrs": [
    "0x16798"
   ],
@@ -11005,8 +11005,8 @@
   "id": "r0177c4",
   "kind": "string",
   "jp": "フェスター",
-  "en": "",
-  "status": "new",
+  "en": "Fester",
+  "status": "done",
   "ptrs": [
    "0x1679c"
   ],
@@ -11016,8 +11016,8 @@
   "id": "r0177d0",
   "kind": "string",
   "jp": "パレード",
-  "en": "",
-  "status": "new",
+  "en": "Parade",
+  "status": "done",
   "ptrs": [
    "0x167a0"
   ],
@@ -11027,8 +11027,8 @@
   "id": "r0177dc",
   "kind": "string",
   "jp": "マーブル",
-  "en": "",
-  "status": "new",
+  "en": "Marble",
+  "status": "done",
   "ptrs": [
    "0x167a4"
   ],
@@ -11038,8 +11038,8 @@
   "id": "r0177e8",
   "kind": "string",
   "jp": "ジュエル",
-  "en": "",
-  "status": "new",
+  "en": "Jewel",
+  "status": "done",
   "ptrs": [
    "0x167a8"
   ],
@@ -11049,8 +11049,8 @@
   "id": "r0177f4",
   "kind": "string",
   "jp": "オーラの玉で",
-  "en": "",
-  "status": "new",
+  "en": "Aura orbs:",
+  "status": "done",
   "ptrs": [
    "0x167ac"
   ],
@@ -11060,8 +11060,8 @@
   "id": "r017804",
   "kind": "string",
   "jp": "円形のまわりに",
-  "en": "",
-  "status": "new",
+  "en": "circle-area",
+  "status": "done",
   "ptrs": [
    "0x167b0"
   ],
@@ -11071,8 +11071,8 @@
   "id": "r017814",
   "kind": "string",
   "jp": "アーム２つを",
-  "en": "",
-  "status": "new",
+  "en": "2-Arm seal",
+  "status": "done",
   "ptrs": [
    "0x167b4"
   ],
@@ -11082,8 +11082,8 @@
   "id": "r017824",
   "kind": "string",
   "jp": "ふうじるこうげき",
-  "en": "",
-  "status": "new",
+  "en": "attack",
+  "status": "done",
   "ptrs": [
    "0x167b8"
   ],
@@ -11093,8 +11093,8 @@
   "id": "r017838",
   "kind": "string",
   "jp": "エヴォルダー",
-  "en": "",
-  "status": "new",
+  "en": "Evolder",
+  "status": "done",
   "ptrs": [
    "0x167d0"
   ],
@@ -11104,8 +11104,8 @@
   "id": "r017848",
   "kind": "string",
   "jp": "クレイドル",
-  "en": "",
-  "status": "new",
+  "en": "Cradle",
+  "status": "done",
   "ptrs": [
    "0x167d4"
   ],
@@ -11115,8 +11115,8 @@
   "id": "r017854",
   "kind": "string",
   "jp": "コレダー",
-  "en": "",
-  "status": "new",
+  "en": "Coreder",
+  "status": "done",
   "ptrs": [
    "0x167d8"
   ],
@@ -11126,8 +11126,8 @@
   "id": "r017860",
   "kind": "string",
   "jp": "バーティカル",
-  "en": "",
-  "status": "new",
+  "en": "Vertical",
+  "status": "done",
   "ptrs": [
    "0x167dc"
   ],
@@ -11137,8 +11137,8 @@
   "id": "r017870",
   "kind": "string",
   "jp": "ペネトレイタ",
-  "en": "",
-  "status": "new",
+  "en": "Penetrator",
+  "status": "done",
   "ptrs": [
    "0x167e0"
   ],
@@ -11148,8 +11148,8 @@
   "id": "r017880",
   "kind": "string",
   "jp": "光のヤリで",
-  "en": "",
-  "status": "new",
+  "en": "Light pike",
+  "status": "done",
   "ptrs": [
    "0x167e4"
   ],
@@ -11159,8 +11159,8 @@
   "id": "r01788c",
   "kind": "string",
   "jp": "十字とななめに",
-  "en": "",
-  "status": "new",
+  "en": "cross+diagonal",
+  "status": "done",
   "ptrs": [
    "0x167e8"
   ],
@@ -11170,8 +11170,8 @@
   "id": "r01789c",
   "kind": "string",
   "jp": "アーム２つを",
-  "en": "",
-  "status": "new",
+  "en": "2-Arm seal",
+  "status": "done",
   "ptrs": [
    "0x167ec"
   ],
@@ -11181,8 +11181,8 @@
   "id": "r0178ac",
   "kind": "string",
   "jp": "ふうじるこうげき",
-  "en": "",
-  "status": "new",
+  "en": "attack",
+  "status": "done",
   "ptrs": [
    "0x167f0"
   ],
@@ -11192,8 +11192,8 @@
   "id": "r0178c0",
   "kind": "string",
   "jp": "ブースター",
-  "en": "",
-  "status": "new",
+  "en": "Booster",
+  "status": "done",
   "ptrs": [
    "0x16808"
   ],
@@ -11203,8 +11203,8 @@
   "id": "r0178cc",
   "kind": "string",
   "jp": "フォーム",
-  "en": "",
-  "status": "new",
+  "en": "Form",
+  "status": "done",
   "ptrs": [
    "0x1680c"
   ],
@@ -11214,8 +11214,8 @@
   "id": "r0178d8",
   "kind": "string",
   "jp": "フィールド",
-  "en": "",
-  "status": "new",
+  "en": "Field",
+  "status": "done",
   "ptrs": [
    "0x16810"
   ],
@@ -11225,8 +11225,8 @@
   "id": "r0178e4",
   "kind": "string",
   "jp": "シェル",
-  "en": "",
-  "status": "new",
+  "en": "Hull",
+  "status": "done",
   "ptrs": [
    "0x16814"
   ],
@@ -11236,8 +11236,8 @@
   "id": "r0178ec",
   "kind": "string",
   "jp": "モード",
-  "en": "",
-  "status": "new",
+  "en": "Mode",
+  "status": "done",
   "ptrs": [
    "0x16818"
   ],
@@ -11247,8 +11247,8 @@
   "id": "r0178f4",
   "kind": "string",
   "jp": "強力なオーラで",
-  "en": "",
-  "status": "new",
+  "en": "Mighty aura:",
+  "status": "done",
   "ptrs": [
    "0x1681c"
   ],
@@ -11258,8 +11258,8 @@
   "id": "r017904",
   "kind": "string",
   "jp": "ほんの少しの間",
-  "en": "",
-  "status": "new",
+  "en": "for a moment,",
+  "status": "done",
   "ptrs": [
    "0x16820"
   ],
@@ -11269,8 +11269,8 @@
   "id": "r017914",
   "kind": "string",
   "jp": "スピードアップと",
-  "en": "",
-  "status": "new",
+  "en": "speed UP and",
+  "status": "done",
   "ptrs": [
    "0x16824"
   ],
@@ -11280,8 +11280,8 @@
   "id": "r017928",
   "kind": "string",
   "jp": "ムテキになる",
-  "en": "",
-  "status": "new",
+  "en": "invincible",
+  "status": "done",
   "ptrs": [
    "0x16828"
   ],
@@ -11291,8 +11291,8 @@
   "id": "r017938",
   "kind": "string",
   "jp": "ブースターＳ",
-  "en": "",
-  "status": "new",
+  "en": "Booster S",
+  "status": "done",
   "ptrs": [
    "0x16840"
   ],
@@ -11302,8 +11302,8 @@
   "id": "r017948",
   "kind": "string",
   "jp": "フォームＳ",
-  "en": "",
-  "status": "new",
+  "en": "Form S",
+  "status": "done",
   "ptrs": [
    "0x16844"
   ],
@@ -11313,8 +11313,8 @@
   "id": "r017954",
   "kind": "string",
   "jp": "フィールドＳ",
-  "en": "",
-  "status": "new",
+  "en": "Field S",
+  "status": "done",
   "ptrs": [
    "0x16848"
   ],
@@ -11324,8 +11324,8 @@
   "id": "r017964",
   "kind": "string",
   "jp": "シェルＳ",
-  "en": "",
-  "status": "new",
+  "en": "Hull S",
+  "status": "done",
   "ptrs": [
    "0x1684c"
   ],
@@ -11335,8 +11335,8 @@
   "id": "r017970",
   "kind": "string",
   "jp": "モードＳ",
-  "en": "",
-  "status": "new",
+  "en": "Mode S",
+  "status": "done",
   "ptrs": [
    "0x16850"
   ],
@@ -11346,8 +11346,8 @@
   "id": "r01797c",
   "kind": "string",
   "jp": "強力なオーラで",
-  "en": "",
-  "status": "new",
+  "en": "Mighty aura:",
+  "status": "done",
   "ptrs": [
    "0x16854"
   ],
@@ -11357,8 +11357,8 @@
   "id": "r01798c",
   "kind": "string",
   "jp": "少しの間",
-  "en": "",
-  "status": "new",
+  "en": "briefly,",
+  "status": "done",
   "ptrs": [
    "0x16858"
   ],
@@ -11368,8 +11368,8 @@
   "id": "r017998",
   "kind": "string",
   "jp": "スピードアップと",
-  "en": "",
-  "status": "new",
+  "en": "speed UP and",
+  "status": "done",
   "ptrs": [
    "0x1685c"
   ],
@@ -11379,8 +11379,8 @@
   "id": "r0179ac",
   "kind": "string",
   "jp": "ムテキになる",
-  "en": "",
-  "status": "new",
+  "en": "invincible",
+  "status": "done",
   "ptrs": [
    "0x16860"
   ],
@@ -11390,8 +11390,8 @@
   "id": "r0179bc",
   "kind": "string",
   "jp": "ブースターＨ",
-  "en": "",
-  "status": "new",
+  "en": "Booster H",
+  "status": "done",
   "ptrs": [
    "0x16878"
   ],
@@ -11401,8 +11401,8 @@
   "id": "r0179cc",
   "kind": "string",
   "jp": "フォームＨ",
-  "en": "",
-  "status": "new",
+  "en": "Form H",
+  "status": "done",
   "ptrs": [
    "0x1687c"
   ],
@@ -11412,8 +11412,8 @@
   "id": "r0179d8",
   "kind": "string",
   "jp": "フィールドＨ",
-  "en": "",
-  "status": "new",
+  "en": "Field H",
+  "status": "done",
   "ptrs": [
    "0x16880"
   ],
@@ -11423,8 +11423,8 @@
   "id": "r0179e8",
   "kind": "string",
   "jp": "シェルＨ",
-  "en": "",
-  "status": "new",
+  "en": "Hull H",
+  "status": "done",
   "ptrs": [
    "0x16884"
   ],
@@ -11434,8 +11434,8 @@
   "id": "r0179f4",
   "kind": "string",
   "jp": "モードＨ",
-  "en": "",
-  "status": "new",
+  "en": "Mode H",
+  "status": "done",
   "ptrs": [
    "0x16888"
   ],
@@ -11445,8 +11445,8 @@
   "id": "r017a00",
   "kind": "string",
   "jp": "強力なオーラで",
-  "en": "",
-  "status": "new",
+  "en": "Mighty aura:",
+  "status": "done",
   "ptrs": [
    "0x1688c"
   ],
@@ -11456,8 +11456,8 @@
   "id": "r017a10",
   "kind": "string",
   "jp": "しばらくの間",
-  "en": "",
-  "status": "new",
+  "en": "for a while,",
+  "status": "done",
   "ptrs": [
    "0x16890"
   ],
@@ -11467,8 +11467,8 @@
   "id": "r017a20",
   "kind": "string",
   "jp": "スピードアップと",
-  "en": "",
-  "status": "new",
+  "en": "speed UP and",
+  "status": "done",
   "ptrs": [
    "0x16894"
   ],
@@ -11478,8 +11478,8 @@
   "id": "r017a34",
   "kind": "string",
   "jp": "ムテキになる",
-  "en": "",
-  "status": "new",
+  "en": "invincible",
+  "status": "done",
   "ptrs": [
    "0x16898"
   ],
@@ -11489,8 +11489,8 @@
   "id": "r017b44",
   "kind": "string",
   "jp": "サラマンド",
-  "en": "",
-  "status": "new",
+  "en": "Salamand",
+  "status": "done",
   "ptrs": [
    "0x17a60"
   ],
@@ -11500,8 +11500,8 @@
   "id": "r017b50",
   "kind": "string",
   "jp": "フレイザンド",
-  "en": "",
-  "status": "new",
+  "en": "Flaizand",
+  "status": "done",
   "ptrs": [
    "0x17a64"
   ],
@@ -11511,8 +11511,8 @@
   "id": "r017b60",
   "kind": "string",
   "jp": "ヴォルガード",
-  "en": "",
-  "status": "new",
+  "en": "Volgard",
+  "status": "done",
   "ptrs": [
    "0x17a68"
   ],
@@ -11522,8 +11522,8 @@
   "id": "r017b70",
   "kind": "string",
   "jp": "フェンリー",
-  "en": "",
-  "status": "new",
+  "en": "Fenrie",
+  "status": "done",
   "ptrs": [
    "0x17a6c"
   ],
@@ -11533,8 +11533,8 @@
   "id": "r017b7c",
   "kind": "string",
   "jp": "ウルフェン",
-  "en": "",
-  "status": "new",
+  "en": "Wulfen",
+  "status": "done",
   "ptrs": [
    "0x17a70"
   ],
@@ -11544,8 +11544,8 @@
   "id": "r017b88",
   "kind": "string",
   "jp": "グレイブニル",
-  "en": "",
-  "status": "new",
+  "en": "Gleipnir",
+  "status": "done",
   "ptrs": [
    "0x17a74"
   ],
@@ -11555,8 +11555,8 @@
   "id": "r017b98",
   "kind": "string",
   "jp": "ユニホース",
-  "en": "",
-  "status": "new",
+  "en": "Unihorse",
+  "status": "done",
   "ptrs": [
    "0x17a78"
   ],
@@ -11566,8 +11566,8 @@
   "id": "r017ba4",
   "kind": "string",
   "jp": "スレイプニル",
-  "en": "",
-  "status": "new",
+  "en": "Sleipnir",
+  "status": "done",
   "ptrs": [
    "0x17a7c"
   ],
@@ -11577,8 +11577,8 @@
   "id": "r017bb4",
   "kind": "string",
   "jp": "プロマキス",
-  "en": "",
-  "status": "new",
+  "en": "Promachis",
+  "status": "done",
   "ptrs": [
    "0x17a80"
   ],
@@ -11588,8 +11588,8 @@
   "id": "r017bc0",
   "kind": "string",
   "jp": "ニャティー",
-  "en": "",
-  "status": "new",
+  "en": "Nyatty",
+  "status": "done",
   "ptrs": [
    "0x17a84"
   ],
@@ -11599,8 +11599,8 @@
   "id": "r017bcc",
   "kind": "string",
   "jp": "ニャイトニン",
-  "en": "",
-  "status": "new",
+  "en": "Nyaitonin",
+  "status": "done",
   "ptrs": [
    "0x17a88"
   ],
@@ -11610,8 +11610,8 @@
   "id": "r017bdc",
   "kind": "string",
   "jp": "ニャーバンク",
-  "en": "",
-  "status": "new",
+  "en": "Nyarbank",
+  "status": "done",
   "ptrs": [
    "0x17a8c"
   ],
@@ -11621,8 +11621,8 @@
   "id": "r017bec",
   "kind": "string",
   "jp": "ゲンブール",
-  "en": "",
-  "status": "new",
+  "en": "Genbull",
+  "status": "done",
   "ptrs": [
    "0x17a90"
   ],
@@ -11632,8 +11632,8 @@
   "id": "r017bf8",
   "kind": "string",
   "jp": "ガーディアン",
-  "en": "",
-  "status": "new",
+  "en": "Guardian",
+  "status": "done",
   "ptrs": [
    "0x17a94"
   ],
@@ -11643,8 +11643,8 @@
   "id": "r017c08",
   "kind": "string",
   "jp": "グラン",
-  "en": "",
-  "status": "new",
+  "en": "Gran",
+  "status": "done",
   "ptrs": [
    "0x17a98"
   ],
@@ -11654,8 +11654,8 @@
   "id": "r017c10",
   "kind": "string",
   "jp": "ファルコーン",
-  "en": "",
-  "status": "new",
+  "en": "Falcorn",
+  "status": "done",
   "ptrs": [
    "0x17a9c"
   ],
@@ -11665,8 +11665,8 @@
   "id": "r017c20",
   "kind": "string",
   "jp": "ウィンガル",
-  "en": "",
-  "status": "new",
+  "en": "Wingal",
+  "status": "done",
   "ptrs": [
    "0x17aa0"
   ],
@@ -11676,8 +11676,8 @@
   "id": "r017c2c",
   "kind": "string",
   "jp": "シームルグ",
-  "en": "",
-  "status": "new",
+  "en": "Simurgh",
+  "status": "done",
   "ptrs": [
    "0x17aa4"
   ],
@@ -11687,8 +11687,8 @@
   "id": "r017c38",
   "kind": "string",
   "jp": "エンジェラン",
-  "en": "",
-  "status": "new",
+  "en": "Angelan",
+  "status": "done",
   "ptrs": [
    "0x17aa8"
   ],
@@ -11698,8 +11698,8 @@
   "id": "r017c48",
   "kind": "string",
   "jp": "ヴァルキリー",
-  "en": "",
-  "status": "new",
+  "en": "Valkyrie",
+  "status": "done",
   "ptrs": [
    "0x17aac"
   ],
@@ -11709,8 +11709,8 @@
   "id": "r017c58",
   "kind": "string",
   "jp": "セラフィム",
-  "en": "",
-  "status": "new",
+  "en": "Seraphim",
+  "status": "done",
   "ptrs": [
    "0x17ab0"
   ],
@@ -11720,8 +11720,8 @@
   "id": "r017c64",
   "kind": "string",
   "jp": "クラッケン",
-  "en": "",
-  "status": "new",
+  "en": "Kraken",
+  "status": "done",
   "ptrs": [
    "0x17ab4"
   ],
@@ -11731,8 +11731,8 @@
   "id": "r017c70",
   "kind": "string",
   "jp": "ノーチラス",
-  "en": "",
-  "status": "new",
+  "en": "Nautilus",
+  "status": "done",
   "ptrs": [
    "0x17ab8"
   ],
@@ -11742,8 +11742,8 @@
   "id": "r017c7c",
   "kind": "string",
   "jp": "リヴァイアス",
-  "en": "",
-  "status": "new",
+  "en": "Leviath",
+  "status": "done",
   "ptrs": [
    "0x17abc"
   ],
@@ -11753,8 +11753,8 @@
   "id": "r017c8c",
   "kind": "string",
   "jp": "ゴラムス",
-  "en": "",
-  "status": "new",
+  "en": "Golamus",
+  "status": "done",
   "ptrs": [
    "0x17ac0"
   ],
@@ -11764,8 +11764,8 @@
   "id": "r017c98",
   "kind": "string",
   "jp": "マキシマス",
-  "en": "",
-  "status": "new",
+  "en": "Maximus",
+  "status": "done",
   "ptrs": [
    "0x17ac4"
   ],
@@ -11775,8 +11775,8 @@
   "id": "r017ca4",
   "kind": "string",
   "jp": "ギガース",
-  "en": "",
-  "status": "new",
+  "en": "Gigas",
+  "status": "done",
   "ptrs": [
    "0x17ac8"
   ],
@@ -11786,8 +11786,8 @@
   "id": "r017cb0",
   "kind": "string",
   "jp": "ドラグーン",
-  "en": "",
-  "status": "new",
+  "en": "Dragoon",
+  "status": "done",
   "ptrs": [
    "0x17acc"
   ],
@@ -11797,8 +11797,8 @@
   "id": "r017cbc",
   "kind": "string",
   "jp": "リンドブルム",
-  "en": "",
-  "status": "new",
+  "en": "Lindblum",
+  "status": "done",
   "ptrs": [
    "0x17ad0"
   ],
@@ -11808,8 +11808,8 @@
   "id": "r017ccc",
   "kind": "string",
   "jp": "ガイア",
-  "en": "",
-  "status": "new",
+  "en": "Gaia",
+  "status": "done",
   "ptrs": [
    "0x17ad4"
   ],
@@ -11819,8 +11819,8 @@
   "id": "r017cd4",
   "kind": "string",
   "jp": "ライオネル",
-  "en": "",
-  "status": "new",
+  "en": "Lionel",
+  "status": "done",
   "ptrs": [
    "0x17ad8"
   ],
@@ -11830,8 +11830,8 @@
   "id": "r017ce0",
   "kind": "string",
   "jp": "レオパルド",
-  "en": "",
-  "status": "new",
+  "en": "Leopard",
+  "status": "done",
   "ptrs": [
    "0x17adc"
   ],
@@ -11841,8 +11841,8 @@
   "id": "r017cec",
   "kind": "string",
   "jp": "スフィンクス",
-  "en": "",
-  "status": "new",
+  "en": "Sphinx",
+  "status": "done",
   "ptrs": [
    "0x17ae0"
   ],
@@ -11852,8 +11852,8 @@
   "id": "r017cfc",
   "kind": "string",
   "jp": "アシュラム",
-  "en": "",
-  "status": "new",
+  "en": "Ashram",
+  "status": "done",
   "ptrs": [
    "0x17ae4"
   ],
@@ -11863,8 +11863,8 @@
   "id": "r017d08",
   "kind": "string",
   "jp": "サウザンド",
-  "en": "",
-  "status": "new",
+  "en": "Thousand",
+  "status": "done",
   "ptrs": [
    "0x17ae8"
   ],
@@ -11874,8 +11874,8 @@
   "id": "r017d14",
   "kind": "string",
   "jp": "バーミリオン",
-  "en": "",
-  "status": "new",
+  "en": "Vermilion",
+  "status": "done",
   "ptrs": [
    "0x17aec"
   ],
@@ -11885,8 +11885,8 @@
   "id": "r017d24",
   "kind": "string",
   "jp": "デスロード",
-  "en": "",
-  "status": "new",
+  "en": "Death Lord",
+  "status": "done",
   "ptrs": [
    "0x17af0"
   ],
@@ -11896,8 +11896,8 @@
   "id": "r017d30",
   "kind": "string",
   "jp": "ナイトメア",
-  "en": "",
-  "status": "new",
+  "en": "Nightmare",
+  "status": "done",
   "ptrs": [
    "0x17af4"
   ],
@@ -11907,8 +11907,8 @@
   "id": "r017d3c",
   "kind": "string",
   "jp": "インプラン",
-  "en": "",
-  "status": "new",
+  "en": "Implan",
+  "status": "done",
   "ptrs": [
    "0x17af8"
   ],
@@ -11918,8 +11918,8 @@
   "id": "r017d48",
   "kind": "string",
   "jp": "ベルゼーブ",
-  "en": "",
-  "status": "new",
+  "en": "Beelzeb",
+  "status": "done",
   "ptrs": [
    "0x17afc"
   ],
@@ -11929,8 +11929,8 @@
   "id": "r017d54",
   "kind": "string",
   "jp": "デヴィル",
-  "en": "",
-  "status": "new",
+  "en": "Devil",
+  "status": "done",
   "ptrs": [
    "0x17b00"
   ],
@@ -11940,8 +11940,8 @@
   "id": "r017d60",
   "kind": "string",
   "jp": "ジェイダル",
-  "en": "",
-  "status": "new",
+  "en": "Jaydal",
+  "status": "done",
   "ptrs": [
    "0x17b04"
   ],
@@ -11951,8 +11951,8 @@
   "id": "r017d6c",
   "kind": "string",
   "jp": "エンペリオル",
-  "en": "",
-  "status": "new",
+  "en": "Emperiol",
+  "status": "done",
   "ptrs": [
    "0x17b08"
   ],
@@ -11962,8 +11962,8 @@
   "id": "r017d7c",
   "kind": "string",
   "jp": "アルセイデス",
-  "en": "",
-  "status": "new",
+  "en": "Alseides",
+  "status": "done",
   "ptrs": [
    "0x17b0c"
   ],
@@ -11973,8 +11973,8 @@
   "id": "r017d8c",
   "kind": "string",
   "jp": "カイゼル",
-  "en": "",
-  "status": "new",
+  "en": "Kaiser",
+  "status": "done",
   "ptrs": [
    "0x17b10"
   ],
@@ -11984,8 +11984,8 @@
   "id": "r017d98",
   "kind": "string",
   "jp": "ファイバード",
-  "en": "",
-  "status": "new",
+  "en": "Firebird",
+  "status": "done",
   "ptrs": [
    "0x17b14"
   ],
@@ -11995,8 +11995,8 @@
   "id": "r017da8",
   "kind": "string",
   "jp": "ブレイジング",
-  "en": "",
-  "status": "new",
+  "en": "Blazing",
+  "status": "done",
   "ptrs": [
    "0x17b18"
   ],
@@ -12006,8 +12006,8 @@
   "id": "r017db8",
   "kind": "string",
   "jp": "バーニング",
-  "en": "",
-  "status": "new",
+  "en": "Burning",
+  "status": "done",
   "ptrs": [
    "0x17b1c"
   ],
@@ -12015,21 +12015,21 @@
  },
  {
   "id": "r01d8f0",
-  "kind": "string",
+  "kind": "data",
   "jp": "ＪｉｎＳＷＤ",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0x1d5f8"
   ],
-  "notes": ""
+  "notes": "V Shop password (ＪｉｎＳＷＤ...): compared with what the player types in the fullwidth entry grid, keep the SJIS bytes"
  },
  {
   "id": "r01d900",
   "kind": "string",
   "jp": "ファイバーンをＶショップで",
-  "en": "",
-  "status": "new",
+  "en": "Fiburn now sold",
+  "status": "done",
   "ptrs": [
    "0x1d5fc"
   ],
@@ -12039,8 +12039,8 @@
   "id": "r01d91c",
   "kind": "string",
   "jp": "かえるようになった∇",
-  "en": "",
-  "status": "new",
+  "en": "at the V Shop!!",
+  "status": "done",
   "ptrs": [
    "0x1d600"
   ],
@@ -12048,21 +12048,21 @@
  },
  {
   "id": "r01d934",
-  "kind": "string",
+  "kind": "data",
   "jp": "ＳｈｕＩＮＴ",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0x1d60c"
   ],
-  "notes": ""
+  "notes": "V Shop password (ＪｉｎＳＷＤ...): compared with what the player types in the fullwidth entry grid, keep the SJIS bytes"
  },
  {
   "id": "r01d944",
   "kind": "string",
   "jp": "インテンションをＶショップで",
-  "en": "",
-  "status": "new",
+  "en": "Intention now sold",
+  "status": "done",
   "ptrs": [
    "0x1d610"
   ],
@@ -12072,8 +12072,8 @@
   "id": "r01d964",
   "kind": "string",
   "jp": "かえるようになった∇",
-  "en": "",
-  "status": "new",
+  "en": "at the V Shop!!",
+  "status": "done",
   "ptrs": [
    "0x1d614"
   ],
@@ -12081,21 +12081,21 @@
  },
  {
   "id": "r01d97c",
-  "kind": "string",
+  "kind": "data",
   "jp": "ＲｙｏＫＥＮ",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0x1d620"
   ],
-  "notes": ""
+  "notes": "V Shop password (ＪｉｎＳＷＤ...): compared with what the player types in the fullwidth entry grid, keep the SJIS bytes"
  },
  {
   "id": "r01d98c",
   "kind": "string",
   "jp": "コマガサネをＶショップで",
-  "en": "",
-  "status": "new",
+  "en": "Komagasane now sold",
+  "status": "done",
   "ptrs": [
    "0x1d624"
   ],
@@ -12105,8 +12105,8 @@
   "id": "r01d9a8",
   "kind": "string",
   "jp": "かえるようになった∇",
-  "en": "",
-  "status": "new",
+  "en": "at the V Shop!!",
+  "status": "done",
   "ptrs": [
    "0x1d628"
   ],
@@ -12114,21 +12114,21 @@
  },
  {
   "id": "r01d9c0",
-  "kind": "string",
+  "kind": "data",
   "jp": "ＴｏｔａＡＸ",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0x1d634"
   ],
-  "notes": ""
+  "notes": "V Shop password (ＪｉｎＳＷＤ...): compared with what the player types in the fullwidth entry grid, keep the SJIS bytes"
  },
  {
   "id": "r01d9d0",
   "kind": "string",
   "jp": "ベルドセングをＶショップで",
-  "en": "",
-  "status": "new",
+  "en": "Beldseng now sold",
+  "status": "done",
   "ptrs": [
    "0x1d638"
   ],
@@ -12138,8 +12138,8 @@
   "id": "r01d9ec",
   "kind": "string",
   "jp": "かえるようになった∇",
-  "en": "",
-  "status": "new",
+  "en": "at the V Shop!!",
+  "status": "done",
   "ptrs": [
    "0x1d63c"
   ],
@@ -12147,21 +12147,21 @@
  },
  {
   "id": "r01da04",
-  "kind": "string",
+  "kind": "data",
   "jp": "Ｈｏｕｏｕ０",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0x1d648"
   ],
-  "notes": ""
+  "notes": "V Shop password (ＪｉｎＳＷＤ...): compared with what the player types in the fullwidth entry grid, keep the SJIS bytes"
  },
  {
   "id": "r01da14",
   "kind": "string",
   "jp": "ファイバラッシュをＶショップで",
-  "en": "",
-  "status": "new",
+  "en": "Fiburash now sold",
+  "status": "done",
   "ptrs": [
    "0x1d64c"
   ],
@@ -12171,8 +12171,8 @@
   "id": "r01da34",
   "kind": "string",
   "jp": "かえるようになった∇",
-  "en": "",
-  "status": "new",
+  "en": "at the V Shop!!",
+  "status": "done",
   "ptrs": [
    "0x1d650"
   ],
@@ -12180,21 +12180,21 @@
  },
  {
   "id": "r01da4c",
-  "kind": "string",
+  "kind": "data",
   "jp": "ＩＮＺｗｅｉ",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0x1d65c"
   ],
-  "notes": ""
+  "notes": "V Shop password (ＪｉｎＳＷＤ...): compared with what the player types in the fullwidth entry grid, keep the SJIS bytes"
  },
  {
   "id": "r01da5c",
   "kind": "string",
   "jp": "インテンションＺをＶショップで",
-  "en": "",
-  "status": "new",
+  "en": "Intention Z now sold",
+  "status": "done",
   "ptrs": [
    "0x1d660"
   ],
@@ -12204,8 +12204,8 @@
   "id": "r01da7c",
   "kind": "string",
   "jp": "かえるようになった∇",
-  "en": "",
-  "status": "new",
+  "en": "at the V Shop!!",
+  "status": "done",
   "ptrs": [
    "0x1d664"
   ],
@@ -12213,21 +12213,21 @@
  },
  {
   "id": "r01da94",
-  "kind": "string",
+  "kind": "data",
   "jp": "ＢＷＧｒｅｙ",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0x1d670"
   ],
-  "notes": ""
+  "notes": "V Shop password (ＪｉｎＳＷＤ...): compared with what the player types in the fullwidth entry grid, keep the SJIS bytes"
  },
  {
   "id": "r01daa4",
   "kind": "string",
   "jp": "グレイサーをＶショップで",
-  "en": "",
-  "status": "new",
+  "en": "Grayser now sold",
+  "status": "done",
   "ptrs": [
    "0x1d674"
   ],
@@ -12237,8 +12237,8 @@
   "id": "r01dac0",
   "kind": "string",
   "jp": "かえるようになった∇",
-  "en": "",
-  "status": "new",
+  "en": "at the V Shop!!",
+  "status": "done",
   "ptrs": [
    "0x1d678"
   ],
@@ -12246,21 +12246,21 @@
  },
  {
   "id": "r01dad8",
-  "kind": "string",
+  "kind": "data",
   "jp": "ＧＬＤｉｕｓ",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0x1d684"
   ],
-  "notes": ""
+  "notes": "V Shop password (ＪｉｎＳＷＤ...): compared with what the player types in the fullwidth entry grid, keep the SJIS bytes"
  },
  {
   "id": "r01dae8",
   "kind": "string",
   "jp": "グランディウスをＶショップで",
-  "en": "",
-  "status": "new",
+  "en": "Grandius now sold",
+  "status": "done",
   "ptrs": [
    "0x1d688"
   ],
@@ -12270,8 +12270,8 @@
   "id": "r01db08",
   "kind": "string",
   "jp": "かえるようになった∇",
-  "en": "",
-  "status": "new",
+  "en": "at the V Shop!!",
+  "status": "done",
   "ptrs": [
    "0x1d68c"
   ],
@@ -12279,21 +12279,21 @@
  },
  {
   "id": "r01db20",
-  "kind": "string",
+  "kind": "data",
   "jp": "ＧｒｅＢＬＤ",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0x1d698"
   ],
-  "notes": ""
+  "notes": "V Shop password (ＪｉｎＳＷＤ...): compared with what the player types in the fullwidth entry grid, keep the SJIS bytes"
  },
  {
   "id": "r01db30",
   "kind": "string",
   "jp": "エクセリーザをＶショップで",
-  "en": "",
-  "status": "new",
+  "en": "Excelisa now sold",
+  "status": "done",
   "ptrs": [
    "0x1d69c"
   ],
@@ -12303,8 +12303,8 @@
   "id": "r01db4c",
   "kind": "string",
   "jp": "かえるようになった∇",
-  "en": "",
-  "status": "new",
+  "en": "at the V Shop!!",
+  "status": "done",
   "ptrs": [
    "0x1d6a0"
   ],
@@ -12312,21 +12312,21 @@
  },
  {
   "id": "r01db64",
-  "kind": "string",
+  "kind": "data",
   "jp": "ｕｙＲｕｏＳ",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0x1d6ac"
   ],
-  "notes": ""
+  "notes": "V Shop password (ＪｉｎＳＷＤ...): compared with what the player types in the fullwidth entry grid, keep the SJIS bytes"
  },
  {
   "id": "r01db74",
   "kind": "string",
   "jp": "ソウリュウをＶショップで",
-  "en": "",
-  "status": "new",
+  "en": "Soryu now sold",
+  "status": "done",
   "ptrs": [
    "0x1d6b0"
   ],
@@ -12336,8 +12336,8 @@
   "id": "r01db90",
   "kind": "string",
   "jp": "かえるようになった∇",
-  "en": "",
-  "status": "new",
+  "en": "at the V Shop!!",
+  "status": "done",
   "ptrs": [
    "0x1d6b4"
   ],

@@ -75,6 +75,10 @@
     "r013d9c": {"unit": "px", "limit": 54, "source": "guess", "notes": "Arm name 'Matsukaze' (JP 48 px); measure where it shows"},
     "r0141b4": {"unit": "px", "limit": 72, "source": "guess", "notes": "Arm name 'Luna Scepter' (JP 68 px); measure where it shows"},
     "r014df4": {"unit": "px", "limit": 102, "source": "guess", "notes": "Zoro's swords 'Yubashiri&Kitetsu' (JP 96 px) in the Arm description list; measure where it shows"},
+    "r014f30": {"unit": "px", "limit": 42, "source": "guess", "notes": "Kogenta's sword 'Kotetsu' (JP 36 px) in the Arm description list; measure where it shows"},
+    "r015c8c": {"unit": "px", "limit": 84, "source": "guess", "notes": "Tool name 'S Charge Guard' (JP 80 px); measure the Tool list"},
+    "r016940": {"unit": "px", "limit": 30, "source": "guess", "notes": "special-move tier name 'Zetsu' (ゼツ, JP 24 px); measure the special-move name display"},
+    "r017d24": {"unit": "px", "limit": 60, "source": "guess", "notes": "Armalet name 'Death Lord' in the Armalet name list (JP 56 px); measure where it shows"},
     "r004954": {"unit": "px", "limit": 66, "source": "guess", "notes": "VRX character profile line 'Katsutobi's' (JP 48 px); measure the profile panel in phase 8"}
   }
 }

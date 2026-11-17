@@ -180,7 +180,9 @@ DATA = [
                          "slot; the entry code tests for it), keep as is"),
     (0x0E21D8, 0x0E21DA, "name marker ∴: the typer (0x080735C0) compares each text code with it, keep as is"),
     (0x0F1828, 0x0F182A, "name marker ∴ (second copy), keep as is"),
-]
+] + [(a, a + 12, "V Shop password (ＪｉｎＳＷＤ...): compared with what the player types in the fullwidth entry "
+                 "grid, keep the SJIS bytes")
+     for a in (0x01D8F0, 0x01D934, 0x01D97C, 0x01D9C0, 0x01DA04, 0x01DA4C, 0x01DA94, 0x01DAD8, 0x01DB20, 0x01DB64)]
 
 
 # Strings of fullwidth spaces only: blank fills and right-align padding (credits panel clear r075e34, the 8..1-space
