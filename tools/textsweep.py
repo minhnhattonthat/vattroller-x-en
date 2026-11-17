@@ -10,6 +10,7 @@ probe (ROM reads). Each chunk: OUT/chunk_NN/log.txt. Prints per-chunk progress a
 --shots keeps one shot per command (n#####.png) for spot checks.
 """
 import argparse
+import hashlib
 import subprocess
 import sys
 from concurrent.futures import ThreadPoolExecutor
@@ -66,6 +67,7 @@ def main():
     a = ap.parse_args()
     out = Path(a.out)
     out.mkdir(parents=True, exist_ok=True)
+    stamp = hashlib.sha1(BUILD.read_bytes()).hexdigest() + "\n"  # per chunk run: tools/cover.py maps logs by it
     nodes_file = out / "nodes_all.txt"
     subprocess.run([sys.executable, "-X", "utf8", str(ROOT / "tools" / "strings_tsv.py"), "--nodes", str(nodes_file)],
                    check=True)
@@ -76,6 +78,7 @@ def main():
         d.mkdir(exist_ok=True)
         (d / "nodes.txt").write_text("".join(f"{addr}\n" for addr, _ in ch), encoding="utf-8")
         if a.only is None or k in a.only:
+            (d / "build.sha1").write_text(stamp, encoding="utf-8")
             jobs.append((d, ch))
     with ThreadPoolExecutor(a.jobs) as ex:
         for name, rc, done, taken, total, stalls in ex.map(lambda j: run(j[0], j[1], a.shots), jobs):

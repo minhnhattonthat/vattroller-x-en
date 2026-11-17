@@ -9,6 +9,7 @@ with --state, saves work/states/<scene>.mss. warp.lua asserts the room id before
 wrong place fails (exit 1). Default ROM: build/vattroller_x_en.gba if it exists, else the original dump.
 """
 import argparse
+import hashlib
 import json
 import re
 import subprocess
@@ -112,6 +113,8 @@ def run(scene, rom, outroot, state, sheet):
     for extra in EXTRA:
         cmd += extra
     out.mkdir(parents=True, exist_ok=True)
+    # which build this run's probe logs belong to (tools/cover.py maps logs to ids by it)
+    (out / "build.sha1").write_text(hashlib.sha1(Path(rom).read_bytes()).hexdigest() + "\n", encoding="utf-8")
     with open(out / "emu.out", "w", encoding="utf-8") as f:
         r = subprocess.run(cmd, stdout=f, stderr=subprocess.STDOUT, cwd=ROOT)
     log = (out / "log.txt").read_text(encoding="utf-8", errors="replace") if (out / "log.txt").exists() else ""
