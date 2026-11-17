@@ -23,7 +23,7 @@
   "id": "e2673_00194.0",
   "kind": "choice",
   "jp": "おねがいします",
-  "en": "Yes, please",
+  "en": "I'm ready!",
   "status": "done",
   "script": 4,
   "notes": ""
@@ -111,7 +111,7 @@
   "id": "e2673_00300",
   "kind": "line",
   "jp": "自分をみがくといい",
-  "en": "Keep polishing yourself.",
+  "en": "Keep honing your skills.",
   "status": "done",
   "flags": "0x0000",
   "script": 4,

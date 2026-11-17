@@ -1144,7 +1144,7 @@
   "id": "r004944",
   "kind": "string",
   "jp": "あたしのかちね",
-  "en": "I win, huh!",
+  "en": "I win!",
   "status": "done",
   "ptrs": [
    "0x1104"
@@ -2409,7 +2409,7 @@
   "id": "r004ff8",
   "kind": "string",
   "jp": "おきにいりの",
-  "en": "With his pet",
+  "en": "His favorite",
   "status": "done",
   "ptrs": [
    "0x17e8"
@@ -2651,7 +2651,7 @@
   "id": "r00513c",
   "kind": "string",
   "jp": "かならず",
-  "en": "always",
+  "en": "he gets",
   "status": "done",
   "ptrs": [
    "0x18fc"
@@ -2662,7 +2662,7 @@
   "id": "r005148",
   "kind": "string",
   "jp": "手に入れるぞ",
-  "en": "he gets!",
+  "en": "for sure!",
   "status": "done",
   "ptrs": [
    "0x1900"
@@ -2783,7 +2783,7 @@
   "id": "r0051dc",
   "kind": "string",
   "jp": "ちしきはほうふ",
-  "en": "know-it-all",
+  "en": "well-read",
   "status": "done",
   "ptrs": [
    "0x19a4"
@@ -2805,7 +2805,7 @@
   "id": "r0051fc",
   "kind": "string",
   "jp": "さがしてるぞ",
-  "en": "sparmates",
+  "en": "partners",
   "status": "done",
   "ptrs": [
    "0x19ac"
@@ -4532,7 +4532,7 @@
   "id": "r005b04",
   "kind": "string",
   "jp": "かってとうぜん",
-  "en": "Natural win.",
+  "en": "Of course!",
   "status": "done",
   "ptrs": [
    "0x22e4"
@@ -4543,7 +4543,7 @@
   "id": "r005b14",
   "kind": "string",
   "jp": "つぎのマルスを",
-  "en": "Next \"Mars\"?",
+  "en": "Next \"Mars\" is",
   "status": "done",
   "ptrs": [
    "0x22e8"
@@ -5302,7 +5302,7 @@
   "id": "r005ef4",
   "kind": "string",
   "jp": "口はわるいが",
-  "en": "Rude mouth,",
+  "en": "Rude,",
   "status": "done",
   "ptrs": [
    "0x26b0"
@@ -5951,7 +5951,7 @@
   "id": "r006240",
   "kind": "string",
   "jp": "攻げきよりも",
-  "en": "Not attack,",
+  "en": "Likes to",
   "status": "done",
   "ptrs": [
    "0x29c8"
@@ -5962,7 +5962,7 @@
   "id": "r006250",
   "kind": "string",
   "jp": "はじくのが好き",
-  "en": "deflecting fan",
+  "en": "deflect more,",
   "status": "done",
   "ptrs": [
    "0x29cc"
@@ -6303,7 +6303,7 @@
   "id": "r006428",
   "kind": "string",
   "jp": "わかいものには",
-  "en": "To the young",
+  "en": "Won't lose to",
   "status": "done",
   "ptrs": [
    "0x2b88"
@@ -6314,7 +6314,7 @@
   "id": "r006438",
   "kind": "string",
   "jp": "負けません",
-  "en": "won't lose",
+  "en": "the young!",
   "status": "done",
   "ptrs": [
    "0x2b8c"
@@ -8361,7 +8361,7 @@
   "id": "r008cf4",
   "kind": "string",
   "jp": "もえる心で",
-  "en": "Hot heart:",
+  "en": "Fired up:",
   "status": "done",
   "ptrs": [
    "0x78bc"
@@ -8647,7 +8647,7 @@
   "id": "r008ea0",
   "kind": "string",
   "jp": "いつもとちがう",
-  "en": "Act unusually",
+  "en": "Mix things up",
   "status": "done",
   "ptrs": [
    "0x7984"
@@ -9373,7 +9373,7 @@
   "id": "r0092a0",
   "kind": "string",
   "jp": "あついファイトで",
-  "en": "Hot fighting:",
+  "en": "Fiery spirit:",
   "status": "done",
   "ptrs": [
    "0x7b8c"
@@ -12079,7 +12079,7 @@
   "id": "r00a23c",
   "kind": "string",
   "jp": "わきでるいげんで",
-  "en": "Welling majesty:",
+  "en": "Regal presence:",
   "status": "done",
   "ptrs": [
    "0x82e4"
@@ -12156,7 +12156,7 @@
   "id": "r00a2ac",
   "kind": "string",
   "jp": "どくそうだ",
-  "en": "run solo!",
+  "en": "race away!",
   "status": "done",
   "ptrs": [
    "0x8310"
@@ -12464,7 +12464,7 @@
   "id": "r00a46c",
   "kind": "string",
   "jp": "あついとうこんで",
-  "en": "Burning fight:",
+  "en": "Fiery spirit:",
   "status": "done",
   "ptrs": [
    "0x83d4"
@@ -14213,7 +14213,7 @@
   "id": "r00aeb8",
   "kind": "string",
   "jp": "もえるとうこんで",
-  "en": "Blazing fight:",
+  "en": "Blazing spirit:",
   "status": "done",
   "ptrs": [
    "0x8834"
@@ -14345,7 +14345,7 @@
   "id": "r00af70",
   "kind": "string",
   "jp": "やられても",
-  "en": "Even hit,",
+  "en": "If beaten,",
   "status": "done",
   "ptrs": [
    "0x8884"
@@ -14367,7 +14367,7 @@
   "id": "r00af90",
   "kind": "string",
   "jp": "ふっきだ",
-  "en": "via HR",
+  "en": "from HR",
   "status": "done",
   "ptrs": [
    "0x888c"

@@ -1155,7 +1155,7 @@
   "id": "r075f14",
   "kind": "string",
   "jp": "おぼえているようです",
-  "en": "learned already.",
+  "en": "already.",
   "status": "done",
   "ptrs": [
    "0xee54c"
@@ -1177,7 +1177,7 @@
   "id": "r075f34",
   "kind": "string",
   "jp": "すでにあいてが『",
-  "en": "Partner has \"",
+  "en": "Partner knows \"",
   "status": "done",
   "ptrs": [
    "0xee544"
@@ -1513,7 +1513,7 @@
   "id": "r0761b4",
   "kind": "string",
   "jp": "教わるＶスキルが",
-  "en": "No V Skill to",
+  "en": "New V Skills:",
   "status": "done",
   "ptrs": [
    "0xee5b8"
@@ -1524,7 +1524,7 @@
   "id": "r0761c8",
   "kind": "string",
   "jp": "ありません",
-  "en": "learn.",
+  "en": "none.",
   "status": "done",
   "ptrs": [
    "0xee5b4",
@@ -1536,7 +1536,7 @@
   "id": "r0761d4",
   "kind": "string",
   "jp": "教えられるＶスキルが",
-  "en": "No V Skill to teach",
+  "en": "V Skills to teach:",
   "status": "done",
   "ptrs": [
    "0xee5b0"
@@ -7028,7 +7028,7 @@
   "id": "r07badc",
   "kind": "string",
   "jp": "そうびできませんが",
-  "en": "You can't equip,",
+  "en": "Can't equip this,",
   "status": "done",
   "ptrs": [
    "0xeff3c"

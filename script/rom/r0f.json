@@ -3,7 +3,7 @@
   "id": "r0f0be8",
   "kind": "string",
   "jp": "たいせんにんずうせんたく",
-  "en": "Choose No. of Players",
+  "en": "Choose Player Count",
   "status": "done",
   "ptrs": [
    "0xffb94"

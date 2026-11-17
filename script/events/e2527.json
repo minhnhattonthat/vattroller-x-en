@@ -201,7 +201,7 @@
   "id": "e2527_00434",
   "kind": "line",
   "jp": "つかえないから　ちゅういしてください",
-  "en": "types that stance up, so be careful.",
+  "en": "types that take a stance. Careful.",
   "status": "done",
   "flags": "0x0200",
   "script": 0,

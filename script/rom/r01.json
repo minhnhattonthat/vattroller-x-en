@@ -36,7 +36,7 @@
   "id": "r012cd0",
   "kind": "string",
   "jp": "サイズも小さい",
-  "en": "and small Size",
+  "en": "& compact",
   "status": "done",
   "ptrs": [
    "0xed5c"
@@ -773,7 +773,7 @@
   "id": "r01313c",
   "kind": "string",
   "jp": "とまるでおどって",
-  "en": "and you look",
+  "en": "and it's like",
   "status": "done",
   "ptrs": [
    "0xf550"
@@ -784,7 +784,7 @@
   "id": "r013150",
   "kind": "string",
   "jp": "いるかのようだ",
-  "en": "like dancing",
+  "en": "you're dancing",
   "status": "done",
   "ptrs": [
    "0xf554"
@@ -5767,7 +5767,7 @@
   "id": "r014edc",
   "kind": "string",
   "jp": "しょうげきはも",
-  "en": "its shockwave",
+  "en": "its waves hit",
   "status": "done",
   "ptrs": [
    "0x12ac0"
@@ -5778,7 +5778,7 @@
   "id": "r014eec",
   "kind": "string",
   "jp": "強力",
-  "en": "big!",
+  "en": "hard",
   "status": "done",
   "ptrs": [
    "0x12ac4"
@@ -8088,7 +8088,7 @@
   "id": "r01697c",
   "kind": "string",
   "jp": "円形のまわりに",
-  "en": "circle-area",
+  "en": "circular area",
   "status": "done",
   "ptrs": [
    "0x16124"
@@ -8682,7 +8682,7 @@
   "id": "r016c34",
   "kind": "string",
   "jp": "円形のまわりに",
-  "en": "circle-area",
+  "en": "circular area",
   "status": "done",
   "ptrs": [
    "0x16274"
@@ -9870,7 +9870,7 @@
   "id": "r0171ec",
   "kind": "string",
   "jp": "円形のまわりを",
-  "en": "circle-area",
+  "en": "circular area",
   "status": "done",
   "ptrs": [
    "0x16514"
