@@ -497,6 +497,38 @@ CARD_LINES = [
          back=[(0xD20, 32, 16, 77, 100), (0xE20, 32, 8, 77, 116), (0xEA0, 32, 16, 109, 100),
                (0x1E40, 32, 8, 109, 116), (0x1EC0, 16, 16, 141, 100), (0x1F40, 16, 8, 141, 116),
                (0xFE0, 8, 8, 157, 116), (0xFA0, 8, 16, 157, 100)]),
+    # The other five rule words (tools/cardframes.py: final frames 13/16/19/22/25 of the set at ROM 0x273B94).
+    # Their blocks hold nothing else, so `clear` blanks them whole; shadow = pixel offset of the JP shadow.
+    dict(text="SURVIVAL", y0=99, y1=123, shadow=(0, 4), bold=True, clear=True,       # サバイバル
+         front=[(0x40E0, 32, 16, 85, 99), (0x41E0, 32, 8, 85, 115), (0x4260, 32, 16, 117, 99),
+                (0x4360, 32, 8, 117, 115), (0x43E0, 8, 16, 149, 99), (0x4420, 8, 8, 149, 115)],
+         back=[(0x4440, 32, 16, 85, 103), (0x4540, 8, 8, 149, 119), (0x4560, 32, 8, 85, 119),
+               (0x45E0, 32, 16, 117, 103), (0x46E0, 32, 8, 117, 119), (0x4760, 8, 16, 149, 103)]),
+    dict(text="GRAB LOTS!!!", y0=97, y1=121, shadow=(1, 5), bold=False, clear=True,   # たくさんとれ!!!
+         front=[(0x3480, 32, 16, 76, 97), (0x3580, 32, 8, 76, 113), (0x3600, 32, 16, 108, 97),
+                (0x3700, 32, 8, 108, 113), (0x3780, 16, 16, 140, 97), (0x3800, 16, 8, 140, 113),
+                (0x3840, 8, 16, 156, 97), (0x3880, 8, 8, 156, 113)],
+         back=[(0x38A0, 32, 16, 77, 102), (0x39A0, 32, 8, 77, 118), (0x3A20, 32, 16, 109, 102),
+               (0x3B20, 32, 8, 109, 118), (0x3BE0, 8, 8, 157, 118), (0x3BA0, 8, 16, 157, 102),
+               (0x3C00, 16, 16, 141, 102), (0x3C80, 16, 8, 141, 118)]),
+    dict(text="KNOCK DOWN!!!", y0=99, y1=123, shadow=(-1, 5), bold=False, clear=True,  # いっぱいたおせ!!!
+         front=[(0x47A0, 32, 16, 73, 99), (0x48A0, 32, 8, 73, 115), (0x4920, 32, 16, 105, 99),
+                (0x4A20, 32, 8, 105, 115), (0x4AA0, 32, 16, 137, 99), (0x6240, 32, 8, 137, 115)],
+         back=[(0x4D20, 32, 16, 72, 104), (0x4E20, 32, 8, 72, 120), (0x4EA0, 32, 16, 104, 104),
+               (0x5000, 32, 16, 136, 104), (0x62C0, 32, 8, 104, 120), (0x6340, 32, 8, 136, 120)],
+         blank=[(0x4BA0, 8, 8, 105, 115)]),       # a stray 8x8 of shadow inside the front rows
+    dict(text="DRAIN HP!!!", y0=100, y1=124, shadow=(0, 5), bold=True, clear=True,   # HPをへらせ!!!
+         front=[(0x3CC0, 32, 16, 81, 100), (0x3DC0, 32, 8, 81, 116), (0x3E40, 32, 16, 113, 100),
+                (0x3F40, 32, 8, 113, 116), (0x3FC0, 16, 16, 145, 100), (0x4040, 16, 8, 145, 116),
+                (0x4080, 8, 16, 161, 100), (0x40C0, 8, 8, 161, 116)],
+         back=[(0x5520, 32, 16, 81, 103), (0x5620, 32, 8, 81, 119), (0x56A0, 32, 16, 113, 103),
+               (0x57A0, 32, 8, 113, 119), (0x5820, 16, 16, 145, 103), (0x58A0, 16, 8, 145, 119),
+               (0x58E0, 8, 16, 161, 103), (0x5920, 8, 8, 161, 119)]),
+    dict(text="BEAT THE BOSS!", y0=100, y1=124, shadow=(0, 5), bold=False, clear=True, gap=2,  # ボスをたおせ!!!
+         front=[(0x5940, 32, 16, 75, 100), (0x5A40, 32, 8, 75, 116), (0x5AC0, 32, 16, 107, 100),
+                (0x5BC0, 32, 8, 107, 116), (0x5C40, 32, 16, 139, 100), (0x5D40, 32, 8, 139, 116)],
+         back=[(0x5DC0, 32, 16, 75, 103), (0x5EC0, 32, 8, 75, 119), (0x5F40, 32, 16, 107, 103),
+               (0x6040, 32, 8, 107, 119), (0x60C0, 32, 16, 139, 103), (0x61C0, 32, 8, 139, 119)]),
 ]
 CARD_CORE, CARD_RING, CARD_OUTER = 2, 4, 3
 CARD_FONT = dict(SIGN_FONT, **{        # 5x7, drawn with every row doubled (14 px tall)
@@ -506,6 +538,12 @@ CARD_FONT = dict(SIGN_FONT, **{        # 5x7, drawn with every row doubled (14 p
     "E": ["#####", "#....", "#....", "####.", "#....", "#....", "#####"],
     "F": ["#####", "#....", "#....", "####.", "#....", "#....", "#...."],
     "I": ["###", ".#.", ".#.", ".#.", ".#.", ".#.", "###"],
+    "V": ["#...#", "#...#", "#...#", "#...#", ".#.#.", ".#.#.", "..#.."],
+    "K": ["#...#", "#..#.", "#.#..", "##...", "#.#..", "#..#.", "#...#"],
+    "D": ["####.", "#...#", "#...#", "#...#", "#...#", "#...#", "####."],
+    "W": ["#...#", "#...#", "#...#", "#.#.#", "#.#.#", "##.##", "#...#"],
+    "H": ["#...#", "#...#", "#...#", "#####", "#...#", "#...#", "#...#"],
+    "P": ["####.", "#...#", "#...#", "####.", "#....", "#....", "#...."],
 })
 
 
@@ -533,26 +571,29 @@ def card_line(data, out, ln):
     front, back = card_blocks(data, ln["front"]), card_blocks(data, ln["back"])
     xs = [x for x, _ in front]
     lo, hi = min(xs), max(xs) + 1
-    y0, y1, bold = ln["y0"], ln["y1"], int(ln["bold"])
+    y0, y1, bold, gap = ln["y0"], ln["y1"], int(ln["bold"]), ln.get("gap", 3)
     core = set()
     widths = [len(CARD_FONT[c][0]) + bold if c != " " else 1 for c in ln["text"]]
-    total = sum(widths) + 3 * (len(widths) - 1)
+    total = sum(widths) + gap * (len(widths) - 1)
     x = lo + (hi - lo - total) // 2
     top = y0 + (y1 - y0 - 14) // 2
-    assert x - 2 >= lo and top - 2 >= y0 and top + 16 <= y1, f"{ln['text']!r} does not fit the card"
+    assert x - 2 >= lo and x + total + 2 <= hi and top - 2 >= y0 and top + 16 <= y1, \
+        f"{ln['text']!r} does not fit the card"
     for c, w in zip(ln["text"], widths):
         if c != " ":
             for gy, row in enumerate(CARD_FONT[c]):
                 for gx, b in enumerate(row):
                     if b == "#":
                         core.update((x + gx + d, top + 2 * gy + e) for d in range(bold + 1) for e in (0, 1))
-        x += w + 3
+        x += w + gap
 
     def ring(s):
         return {(a + dx, b + dy) for a, b in s for dx in (-1, 0, 1) for dy in (-1, 0, 1)} - s
     dark = ring(core)
     white = ring(core | dark)
-    for (a, b) in [p for p in front if y0 <= p[1] < y1]:
+    if ln.get("clear"):
+        y0 = y1 = None
+    for (a, b) in [p for p in front if y0 is None or y0 <= p[1] < y1]:
         front[(a, b)] = 0
     for p in white:
         front[p] = CARD_OUTER
@@ -561,13 +602,15 @@ def card_line(data, out, ln):
     for p in core:
         front[p] = CARD_CORE
     dx, dy = ln["shadow"]
-    for (a, b) in [p for p in back if y0 + dy <= p[1] < y1 + dy]:
+    for (a, b) in [p for p in back if y0 is None or y0 + dy <= p[1] < y1 + dy]:
         back[(a, b)] = 0
     for (a, b) in core | dark | white:
         assert (a + dx, b + dy) in back, "shadow outside the back blocks"
         back[(a + dx, b + dy)] = CARD_RING
     card_store(out, ln["front"], front)
     card_store(out, ln["back"], back)
+    for off, w, h, _, _ in ln.get("blank", []):
+        out[off:off + w * h // 2] = bytes(w * h // 2)
 
 
 def sheet_441(orig):

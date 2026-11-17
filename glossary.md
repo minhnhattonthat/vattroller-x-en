@@ -177,6 +177,7 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 | アームスケープ | Arm Escape | | Tool | |
 | ハイドマーカー | Hide Marker | | Tool | |
 | サバイバルルール / オフィシャルルール | Survival Rules / Official Rules | | VRX rules | |
+| バトルルール card: オフィシャル / サバイバル / たくさんとれ!!! / いっぱいたおせ!!! / HPをへらせ!!! / ボスをたおせ!!! | BATTLE RULE: OFFICIAL / SURVIVAL / GRAB LOTS!!! / KNOCK DOWN!!! / DRAIN HP!!! / BEAT THE BOSS! | | VS rule-card graphics (#441, `gfx.CARD_LINES`); width-bound | |
 | サインアーム | Sign Arm | | Arm engraved with the player's favourite word | |
 | バトローリングじてん | Vattrolling Encyclopedia | | library book | |
 

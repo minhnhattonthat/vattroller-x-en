@@ -90,14 +90,25 @@ def test_441_changes_only_card_blocks_and_keeps_the_dots():
     ar = archive.Archive()
     orig, new = ar.file(gfx.CARD_FILE), gfx.files(ar)[gfx.CARD_FILE]
     assert len(new) == len(orig)
-    allowed = {off + i for ln in gfx.CARD_LINES for off, w, h, _, _ in ln["front"] + ln["back"]
+    allowed = {off + i for ln in gfx.CARD_LINES for off, w, h, _, _ in ln["front"] + ln["back"] + ln.get("blank", [])
                for i in range(w * h // 2)}
     changed = {i for i in range(len(orig)) if orig[i] != new[i]}
     assert changed and changed <= allowed
     for ln in gfx.CARD_LINES:
+        if ln.get("clear"):
+            continue
         for layer, dy in (("front", 0), ("back", ln["shadow"][1])):
             a, b = gfx.card_blocks(orig, ln[layer]), gfx.card_blocks(new, ln[layer])
             assert all(a[p] == b[p] for p in a if not ln["y0"] + dy <= p[1] < ln["y1"] + dy)
+
+
+def test_every_rule_card_word_is_redrawn():
+    import cardframes
+    rom = (ROOT / "rom" / "Vattroller X (Japan).gba").read_bytes()
+    assert len(cardframes.frames(rom)) == 26
+    assert cardframes.uncovered(rom) == [0x680]     # one tile of the OFFICIAL block reused in a 1-frame slide-in
+    assert {ln["text"] for ln in gfx.CARD_LINES} >= {"OFFICIAL", "SURVIVAL", "GRAB LOTS!!!", "KNOCK DOWN!!!",
+                                                     "DRAIN HP!!!", "BEAT THE BOSS!"}
 
 
 def test_labels_keep_their_arrow():
