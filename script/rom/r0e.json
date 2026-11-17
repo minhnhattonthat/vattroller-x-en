@@ -14,8 +14,8 @@
   "id": "r0e1e6c",
   "kind": "string",
   "jp": "つうしんエラーが　はっせいしました",
-  "en": "",
-  "status": "new",
+  "en": "A link error has occurred.",
+  "status": "done",
   "ptrs": [
    "0x70234",
    "0x70300",
@@ -27,8 +27,8 @@
   "id": "r0e1e90",
   "kind": "string",
   "jp": "しゅうへんきき　との　せつぞくを",
-  "en": "",
-  "status": "new",
+  "en": "Check the connection to",
+  "status": "done",
   "ptrs": [
    "0x7023c"
   ],
@@ -38,8 +38,8 @@
   "id": "r0e1eb4",
   "kind": "string",
   "jp": "きちんと　かくにんしてから",
-  "en": "",
-  "status": "new",
+  "en": "your peripherals, then",
+  "status": "done",
   "ptrs": [
    "0x70244"
   ],
@@ -49,8 +49,8 @@
   "id": "r0e1ed0",
   "kind": "string",
   "jp": "電源を　いれなおしてください",
-  "en": "",
-  "status": "new",
+  "en": "turn the power off and on.",
+  "status": "done",
   "ptrs": [
    "0x7024c"
   ],
@@ -60,8 +60,8 @@
   "id": "r0e1ef0",
   "kind": "string",
   "jp": "もっと近づいたり",
-  "en": "",
-  "status": "new",
+  "en": "Move closer or",
+  "status": "done",
   "ptrs": [
    "0x70308"
   ],
@@ -71,8 +71,8 @@
   "id": "r0e1f04",
   "kind": "string",
   "jp": "しょうがいぶつを　さけてください",
-  "en": "",
-  "status": "new",
+  "en": "avoid obstacles.",
+  "status": "done",
   "ptrs": [
    "0x70310"
   ],
@@ -82,8 +82,8 @@
   "id": "r0e1f0a",
   "kind": "string",
   "jp": "がいぶつを　さけてください",
-  "en": "",
-  "status": "new",
+  "en": "avoid obstacles.",
+  "status": "done",
   "ptrs": [
    "0xab028"
   ],
@@ -94,8 +94,8 @@
   "id": "r0e1f28",
   "kind": "string",
   "jp": "ＳＴＡＲＴボタンで　もどります",
-  "en": "",
-  "status": "new",
+  "en": "START Button: go back.",
+  "status": "done",
   "ptrs": [
    "0x70318"
   ],
@@ -105,8 +105,8 @@
   "id": "r0e1f48",
   "kind": "string",
   "jp": "ゲームにもどります",
-  "en": "",
-  "status": "new",
+  "en": "Back to the game.",
+  "status": "done",
   "ptrs": [
    "0x703c4"
   ],
@@ -116,8 +116,8 @@
   "id": "r0e1f5c",
   "kind": "string",
   "jp": "ＳＴＡＲＴボタンをおしてください",
-  "en": "",
-  "status": "new",
+  "en": "Please press START.",
+  "status": "done",
   "ptrs": [
    "0x703cc"
   ],
@@ -127,8 +127,8 @@
   "id": "r0e20b0",
   "kind": "string",
   "jp": "は　い",
-  "en": "",
-  "status": "new",
+  "en": "Yes",
+  "status": "done",
   "ptrs": [
    "0x71550",
    "0x72314",
@@ -140,8 +140,8 @@
   "id": "r0e20b8",
   "kind": "string",
   "jp": "いいえ",
-  "en": "",
-  "status": "new",
+  "en": "No",
+  "status": "done",
   "ptrs": [
    "0x71558",
    "0x7231c",
@@ -153,8 +153,8 @@
   "id": "r0e20c0",
   "kind": "string",
   "jp": "どっち？",
-  "en": "",
-  "status": "new",
+  "en": "Which?",
+  "status": "done",
   "ptrs": [
    "0x71604"
   ],
@@ -164,8 +164,8 @@
   "id": "r0e20cc",
   "kind": "string",
   "jp": "アーマレット",
-  "en": "",
-  "status": "new",
+  "en": "Armalet",
+  "status": "done",
   "ptrs": [
    "0x71744"
   ],
@@ -175,8 +175,8 @@
   "id": "r0e20dc",
   "kind": "string",
   "jp": "だいじなもの",
-  "en": "",
-  "status": "new",
+  "en": "Key Items",
+  "status": "done",
   "ptrs": [
    "0x7174c"
   ],
@@ -186,8 +186,8 @@
   "id": "r0e20ec",
   "kind": "string",
   "jp": "せってい",
-  "en": "",
-  "status": "new",
+  "en": "Settings",
+  "status": "done",
   "ptrs": [
    "0x71754"
   ],
@@ -197,8 +197,8 @@
   "id": "r0e20f8",
   "kind": "string",
   "jp": "きろく",
-  "en": "",
-  "status": "new",
+  "en": "Save",
+  "status": "done",
   "ptrs": [
    "0x7175c"
   ],
@@ -208,8 +208,8 @@
   "id": "r0e2100",
   "kind": "string",
   "jp": "アームセット",
-  "en": "",
-  "status": "new",
+  "en": "Arm Set",
+  "status": "done",
   "ptrs": [
    "0x7189c"
   ],
@@ -219,8 +219,8 @@
   "id": "r0e2110",
   "kind": "string",
   "jp": "ボックス",
-  "en": "",
-  "status": "new",
+  "en": "Box",
+  "status": "done",
   "ptrs": [
    "0x718a4"
   ],
@@ -230,8 +230,8 @@
   "id": "r0e211c",
   "kind": "string",
   "jp": "リスト",
-  "en": "",
-  "status": "new",
+  "en": "List",
+  "status": "done",
   "ptrs": [
    "0x718ac"
   ],
@@ -241,8 +241,8 @@
   "id": "r0e2124",
   "kind": "string",
   "jp": "パスワード",
-  "en": "",
-  "status": "new",
+  "en": "Password",
+  "status": "done",
   "ptrs": [
    "0x718b4"
   ],
@@ -252,8 +252,8 @@
   "id": "r0e2130",
   "kind": "string",
   "jp": "Ｖポンする",
-  "en": "",
-  "status": "new",
+  "en": "V-Pon",
+  "status": "done",
   "ptrs": [
    "0x71998"
   ],
@@ -263,8 +263,8 @@
   "id": "r0e213c",
   "kind": "string",
   "jp": "やめる",
-  "en": "",
-  "status": "new",
+  "en": "Quit",
+  "status": "done",
   "ptrs": [
    "0x719a0",
    "0x71ac0",
@@ -277,8 +277,8 @@
   "id": "r0e2144",
   "kind": "string",
   "jp": "かう",
-  "en": "",
-  "status": "new",
+  "en": "Buy",
+  "status": "done",
   "ptrs": [
    "0x71ab0"
   ],
@@ -288,8 +288,8 @@
   "id": "r0e214c",
   "kind": "string",
   "jp": "うる",
-  "en": "",
-  "status": "new",
+  "en": "Sell",
+  "status": "done",
   "ptrs": [
    "0x71ab8"
   ],
@@ -299,8 +299,8 @@
   "id": "r0e2154",
   "kind": "string",
   "jp": "ＶＰ",
-  "en": "",
-  "status": "new",
+  "en": "VP",
+  "status": "done",
   "ptrs": [
    "0x71b60"
   ],
@@ -310,8 +310,8 @@
   "id": "r0e215c",
   "kind": "string",
   "jp": "もどる",
-  "en": "",
-  "status": "new",
+  "en": "Back",
+  "status": "done",
   "ptrs": [
    "0x71bfc",
    "0x71ce0"
@@ -322,8 +322,8 @@
   "id": "r0e2164",
   "kind": "string",
   "jp": "人プレイ",
-  "en": "",
-  "status": "new",
+  "en": " Player",
+  "status": "done",
   "ptrs": [
    "0x71d80",
    "0x721e4"
@@ -334,8 +334,8 @@
   "id": "r0e2170",
   "kind": "string",
   "jp": "グループにはいる",
-  "en": "",
-  "status": "new",
+  "en": "Join a group",
+  "status": "done",
   "ptrs": [
    "0x71e84"
   ],
@@ -345,8 +345,8 @@
   "id": "r0e2184",
   "kind": "string",
   "jp": "リーダーになる",
-  "en": "",
-  "status": "new",
+  "en": "Be leader",
+  "status": "done",
   "ptrs": [
    "0x71e8c"
   ],
@@ -356,8 +356,8 @@
   "id": "r0e2194",
   "kind": "string",
   "jp": "：",
-  "en": "",
-  "status": "new",
+  "en": ":",
+  "status": "done",
   "ptrs": [
    "0x71f80"
   ],
@@ -367,8 +367,8 @@
   "id": "r0e219c",
   "kind": "string",
   "jp": "こうかんするのは",
-  "en": "",
-  "status": "new",
+  "en": "Trading:",
+  "status": "done",
   "ptrs": [
    "0x72324"
   ],
@@ -378,8 +378,8 @@
   "id": "r0e21b0",
   "kind": "string",
   "jp": "これでいいですか？",
-  "en": "",
-  "status": "new",
+  "en": "Is this OK?",
+  "status": "done",
   "ptrs": [
    "0x7232c",
    "0x7244c"

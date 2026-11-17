@@ -6003,8 +6003,8 @@
   "id": "r07b484",
   "kind": "string",
   "jp": "－－",
-  "en": "",
-  "status": "new",
+  "en": "--",
+  "status": "done",
   "ptrs": [
    "0x68e90"
   ],
@@ -6014,8 +6014,8 @@
   "id": "r07b4e4",
   "kind": "string",
   "jp": "ボックスに空きがありません！",
-  "en": "",
-  "status": "new",
+  "en": "No room in the Box!",
+  "status": "done",
   "ptrs": [
    "0xefd30"
   ],
@@ -6025,8 +6025,8 @@
   "id": "r07b504",
   "kind": "string",
   "jp": "ポイントが足りません！",
-  "en": "",
-  "status": "new",
+  "en": "Not enough points!",
+  "status": "done",
   "ptrs": [
    "0xefd2c"
   ],
@@ -6036,8 +6036,8 @@
   "id": "r07b51c",
   "kind": "string",
   "jp": "ありがとうございました！",
-  "en": "",
-  "status": "new",
+  "en": "Thank you very much!",
+  "status": "done",
   "ptrs": [
    "0xefd28"
   ],
@@ -6047,8 +6047,8 @@
   "id": "r07b538",
   "kind": "string",
   "jp": "　　うりきれ",
-  "en": "",
-  "status": "new",
+  "en": "Sold out",
+  "status": "done",
   "ptrs": [
    "0xefd58"
   ],
@@ -6058,8 +6058,8 @@
   "id": "r07b548",
   "kind": "string",
   "jp": "？？？？？？？？？？？？",
-  "en": "",
-  "status": "new",
+  "en": "????????????",
+  "status": "done",
   "ptrs": [
    "0xefd54"
   ],
@@ -6069,8 +6069,8 @@
   "id": "r07b564",
   "kind": "string",
   "jp": "になりますがよろしいですか？",
-  "en": "",
-  "status": "new",
+  "en": " -- is that OK?",
+  "status": "done",
   "ptrs": [
    "0xefd50"
   ],
@@ -6080,8 +6080,8 @@
   "id": "r07b584",
   "kind": "string",
   "jp": "いいえ",
-  "en": "",
-  "status": "new",
+  "en": "No",
+  "status": "done",
   "ptrs": [
    "0xefd4c"
   ],
@@ -6091,8 +6091,8 @@
   "id": "r07b58c",
   "kind": "string",
   "jp": "はい",
-  "en": "",
-  "status": "new",
+  "en": "Yes",
+  "status": "done",
   "ptrs": [
    "0xefd48"
   ],
@@ -6102,8 +6102,8 @@
   "id": "r07b598",
   "kind": "string",
   "jp": "やっぱりやめる",
-  "en": "",
-  "status": "new",
+  "en": "Never mind",
+  "status": "done",
   "ptrs": [
    "0xefd40"
   ],
@@ -6113,8 +6113,8 @@
   "id": "r07b5a8",
   "kind": "string",
   "jp": "ＶＲＸデータ",
-  "en": "",
-  "status": "new",
+  "en": "VRX Data",
+  "status": "done",
   "ptrs": [
    "0xefd3c"
   ],
@@ -6124,8 +6124,8 @@
   "id": "r07b5b8",
   "kind": "string",
   "jp": "ツール",
-  "en": "",
-  "status": "new",
+  "en": "Tools",
+  "status": "done",
   "ptrs": [
    "0xefd38"
   ],
@@ -6135,8 +6135,8 @@
   "id": "r07b5c0",
   "kind": "string",
   "jp": "アーム",
-  "en": "",
-  "status": "new",
+  "en": "Arms",
+  "status": "done",
   "ptrs": [
    "0xefd34"
   ],
@@ -6146,8 +6146,8 @@
   "id": "r07b5c8",
   "kind": "string",
   "jp": "デスロールコロシアム",
-  "en": "",
-  "status": "new",
+  "en": "Death Roll Colosseum",
+  "status": "done",
   "ptrs": [
    "0xefda8"
   ],
@@ -6157,8 +6157,8 @@
   "id": "r07b5e0",
   "kind": "string",
   "jp": "ヘクサ社開発室",
-  "en": "",
-  "status": "new",
+  "en": "Hexa Corp. Lab",
+  "status": "done",
   "ptrs": [
    "0xefda4"
   ],
@@ -6168,8 +6168,8 @@
   "id": "r07b5f0",
   "kind": "string",
   "jp": "界天コロシアム",
-  "en": "",
-  "status": "new",
+  "en": "Kaiten Colosseum",
+  "status": "done",
   "ptrs": [
    "0xefda0"
   ],
@@ -6179,8 +6179,8 @@
   "id": "r07b600",
   "kind": "string",
   "jp": "レイオンジム",
-  "en": "",
-  "status": "new",
+  "en": "Reion Gym",
+  "status": "done",
   "ptrs": [
    "0xefd9c"
   ],
@@ -6190,8 +6190,8 @@
   "id": "r07b610",
   "kind": "string",
   "jp": "光円寺",
-  "en": "",
-  "status": "new",
+  "en": "Koenji",
+  "status": "done",
   "ptrs": [
    "0xefd98"
   ],
@@ -6201,8 +6201,8 @@
   "id": "r07b618",
   "kind": "string",
   "jp": "グレンの道場",
-  "en": "",
-  "status": "new",
+  "en": "Glen's Dojo",
+  "status": "done",
   "ptrs": [
    "0xefd94"
   ],
@@ -6212,8 +6212,8 @@
   "id": "r07b628",
   "kind": "string",
   "jp": "真丸体育館",
-  "en": "",
-  "status": "new",
+  "en": "Mamaru Gym",
+  "status": "done",
   "ptrs": [
    "0xefd90"
   ],
@@ -6223,8 +6223,8 @@
   "id": "r07b634",
   "kind": "string",
   "jp": "真丸ジム",
-  "en": "",
-  "status": "new",
+  "en": "Mamaru Gym",
+  "status": "done",
   "ptrs": [
    "0xefd8c"
   ],
@@ -6234,8 +6234,8 @@
   "id": "r07b640",
   "kind": "string",
   "jp": "マーブルスタジアム",
-  "en": "",
-  "status": "new",
+  "en": "Marble Stadium",
+  "status": "done",
   "ptrs": [
    "0xefd88"
   ],
@@ -6245,8 +6245,8 @@
   "id": "r07b654",
   "kind": "string",
   "jp": "真丸中ＶＲ場",
-  "en": "",
-  "status": "new",
+  "en": "Mamaru VR",
+  "status": "done",
   "ptrs": [
    "0xefd84"
   ],
@@ -6256,8 +6256,8 @@
   "id": "r07b664",
   "kind": "string",
   "jp": "グローブスタジアム",
-  "en": "",
-  "status": "new",
+  "en": "Globe Stadium",
+  "status": "done",
   "ptrs": [
    "0xefd80"
   ],
@@ -6267,8 +6267,8 @@
   "id": "r07b678",
   "kind": "string",
   "jp": "プレミアムジム",
-  "en": "",
-  "status": "new",
+  "en": "Premium Gym",
+  "status": "done",
   "ptrs": [
    "0xefd7c"
   ],
@@ -6278,8 +6278,8 @@
   "id": "r07b688",
   "kind": "string",
   "jp": "グローブ公園",
-  "en": "",
-  "status": "new",
+  "en": "Globe Park",
+  "status": "done",
   "ptrs": [
    "0xefd78"
   ],
@@ -6289,8 +6289,8 @@
   "id": "r07b698",
   "kind": "string",
   "jp": "弾打ビーチ",
-  "en": "",
-  "status": "new",
+  "en": "Danda Beach",
+  "status": "done",
   "ptrs": [
    "0xefd74"
   ],
@@ -6300,8 +6300,8 @@
   "id": "r07b6a4",
   "kind": "string",
   "jp": "スパイルスタジアム",
-  "en": "",
-  "status": "new",
+  "en": "Spile Stadium",
+  "status": "done",
   "ptrs": [
    "0xefd70"
   ],
@@ -6311,8 +6311,8 @@
   "id": "r07b6b8",
   "kind": "string",
   "jp": "ワシュー道場",
-  "en": "",
-  "status": "new",
+  "en": "Washu Dojo",
+  "status": "done",
   "ptrs": [
    "0xefd6c"
   ],
@@ -6322,8 +6322,8 @@
   "id": "r07b6c8",
   "kind": "string",
   "jp": "田万里村ジム",
-  "en": "",
-  "status": "new",
+  "en": "Tamari Gym",
+  "status": "done",
   "ptrs": [
    "0xefd68"
   ],
@@ -6333,8 +6333,8 @@
   "id": "r07b6d8",
   "kind": "string",
   "jp": "勝飛ジム",
-  "en": "",
-  "status": "new",
+  "en": "Katsutobi Gym",
+  "status": "done",
   "ptrs": [
    "0xefd64"
   ],
@@ -6344,8 +6344,8 @@
   "id": "r07b6e4",
   "kind": "string",
   "jp": "勝飛体育舘",
-  "en": "",
-  "status": "new",
+  "en": "Katsutobi Gym",
+  "status": "done",
   "ptrs": [
    "0xefd60"
   ],
@@ -6355,8 +6355,8 @@
   "id": "r07b6f0",
   "kind": "string",
   "jp": "勝飛中ＶＲ場",
-  "en": "",
-  "status": "new",
+  "en": "Katsutobi VR",
+  "status": "done",
   "ptrs": [
    "0xefd5c"
   ],
@@ -6366,8 +6366,8 @@
   "id": "r07b700",
   "kind": "string",
   "jp": "たのしんでいる",
-  "en": "",
-  "status": "new",
+  "en": "battle here",
+  "status": "done",
   "ptrs": [
    "0xeff30"
   ],
@@ -6377,8 +6377,8 @@
   "id": "r07b710",
   "kind": "string",
   "jp": "が戦いを",
-  "en": "",
-  "status": "new",
+  "en": "enjoy",
+  "status": "done",
   "ptrs": [
    "0xeff2c"
   ],
@@ -6388,8 +6388,8 @@
   "id": "r07b71c",
   "kind": "string",
   "jp": "デスローラーたち",
-  "en": "",
-  "status": "new",
+  "en": "Death Rollers",
+  "status": "done",
   "ptrs": [
    "0xeff28"
   ],
@@ -6399,8 +6399,8 @@
   "id": "r07b730",
   "kind": "string",
   "jp": "あるきにくい",
-  "en": "",
-  "status": "new",
+  "en": "hard to walk",
+  "status": "done",
   "ptrs": [
    "0xeff1c"
   ],
@@ -6410,8 +6410,8 @@
   "id": "r07b740",
   "kind": "string",
   "jp": "じっけんしせつ",
-  "en": "",
-  "status": "new",
+  "en": "test site;",
+  "status": "done",
   "ptrs": [
    "0xeff18"
   ],
@@ -6421,8 +6421,8 @@
   "id": "r07b750",
   "kind": "string",
   "jp": "ヘクサ社の",
-  "en": "",
-  "status": "new",
+  "en": "Hexa Corp.",
+  "status": "done",
   "ptrs": [
    "0xeff14"
   ],
@@ -6432,8 +6432,8 @@
   "id": "r07b75c",
   "kind": "string",
   "jp": "コロシアム",
-  "en": "",
-  "status": "new",
+  "en": "this arena",
+  "status": "done",
   "ptrs": [
    "0xeff08"
   ],
@@ -6443,8 +6443,8 @@
   "id": "r07b768",
   "kind": "string",
   "jp": "するための",
-  "en": "",
-  "status": "new",
+  "en": "happen in",
+  "status": "done",
   "ptrs": [
    "0xeff04"
   ],
@@ -6454,8 +6454,8 @@
   "id": "r07b774",
   "kind": "string",
   "jp": "マルスとたいせん",
-  "en": "",
-  "status": "new",
+  "en": "\"Mars\" battles",
+  "status": "done",
   "ptrs": [
    "0xeff00"
   ],
@@ -6465,8 +6465,8 @@
   "id": "r07b788",
   "kind": "string",
   "jp": "れんしゅうのため",
-  "en": "",
-  "status": "new",
+  "en": "for training",
+  "status": "done",
   "ptrs": [
    "0xefef4"
   ],
@@ -6476,8 +6476,8 @@
   "id": "r07b79c",
   "kind": "string",
   "jp": "光円寺にある",
-  "en": "",
-  "status": "new",
+  "en": "In Koenji,",
+  "status": "done",
   "ptrs": [
    "0xefeec"
   ],
@@ -6487,8 +6487,8 @@
   "id": "r07b7ac",
   "kind": "string",
   "jp": "じゃりですべる",
-  "en": "",
-  "status": "new",
+  "en": "gravel: slick",
+  "status": "done",
   "ptrs": [
    "0xefee0"
   ],
@@ -6498,8 +6498,8 @@
   "id": "r07b7bc",
   "kind": "string",
   "jp": "大人気のＶＲ場",
-  "en": "",
-  "status": "new",
+  "en": "seniors' VR",
+  "status": "done",
   "ptrs": [
    "0xefedc"
   ],
@@ -6509,8 +6509,8 @@
   "id": "r07b7cc",
   "kind": "string",
   "jp": "おとしよりに",
-  "en": "",
-  "status": "new",
+  "en": "Popular with",
+  "status": "done",
   "ptrs": [
    "0xefed8"
   ],
@@ -6520,8 +6520,8 @@
   "id": "r07b7dc",
   "kind": "string",
   "jp": "グレンの",
-  "en": "",
-  "status": "new",
+  "en": "Glen's",
+  "status": "done",
   "ptrs": [
    "0xefec4"
   ],
@@ -6531,8 +6531,8 @@
   "id": "r07b7e8",
   "kind": "string",
   "jp": "おこなわれている",
-  "en": "",
-  "status": "new",
+  "en": "are held here",
+  "status": "done",
   "ptrs": [
    "0xefebc"
   ],
@@ -6542,8 +6542,8 @@
   "id": "r07b7fc",
   "kind": "string",
   "jp": "毎日大会が",
-  "en": "",
-  "status": "new",
+  "en": "daily cups",
+  "status": "done",
   "ptrs": [
    "0xefeb8"
   ],
@@ -6553,8 +6553,8 @@
   "id": "r07b808",
   "kind": "string",
   "jp": "真丸町いこいの",
-  "en": "",
-  "status": "new",
+  "en": "Mamaru Town's",
+  "status": "done",
   "ptrs": [
    "0xefeb0"
   ],
@@ -6564,8 +6564,8 @@
   "id": "r07b818",
   "kind": "string",
   "jp": "真丸町にある",
-  "en": "",
-  "status": "new",
+  "en": "Mamaru Town",
+  "status": "done",
   "ptrs": [
    "0xefea0"
   ],
@@ -6575,8 +6575,8 @@
   "id": "r07b828",
   "kind": "string",
   "jp": "ＶＲがさかんな",
-  "en": "",
-  "status": "new",
+  "en": "VR-mad",
+  "status": "done",
   "ptrs": [
    "0xefe9c"
   ],
@@ -6586,8 +6586,8 @@
   "id": "r07b838",
   "kind": "string",
   "jp": "マーブルアレーナ",
-  "en": "",
-  "status": "new",
+  "en": "Marble Arena",
+  "status": "done",
   "ptrs": [
    "0xefe88"
   ],
@@ -6597,8 +6597,8 @@
   "id": "r07b84c",
   "kind": "string",
   "jp": "せんようの",
-  "en": "",
-  "status": "new",
+  "en": "own court",
+  "status": "done",
   "ptrs": [
    "0xefe78"
   ],
@@ -6608,8 +6608,8 @@
   "id": "r07b858",
   "kind": "string",
   "jp": "真丸中のＶＲ部",
-  "en": "",
-  "status": "new",
+  "en": "Mamaru VR's",
+  "status": "done",
   "ptrs": [
    "0xefe74"
   ],
@@ -6619,8 +6619,8 @@
   "id": "r07b868",
   "kind": "string",
   "jp": "一番大きい",
-  "en": "",
-  "status": "new",
+  "en": "largest",
+  "status": "done",
   "ptrs": [
    "0xefe6c"
   ],
@@ -6630,8 +6630,8 @@
   "id": "r07b874",
   "kind": "string",
   "jp": "かいさいされる",
-  "en": "",
-  "status": "new",
+  "en": "matches held:",
+  "status": "done",
   "ptrs": [
    "0xefe64"
   ],
@@ -6641,8 +6641,8 @@
   "id": "r07b884",
   "kind": "string",
   "jp": "バトリーグが",
-  "en": "",
-  "status": "new",
+  "en": "Vattleague",
+  "status": "done",
   "ptrs": [
    "0xefe60"
   ],
@@ -6652,8 +6652,8 @@
   "id": "r07b894",
   "kind": "string",
   "jp": "最新せつびだ",
-  "en": "",
-  "status": "new",
+  "en": "newest gear",
+  "status": "done",
   "ptrs": [
    "0xefe58"
   ],
@@ -6663,8 +6663,8 @@
   "id": "r07b8a4",
   "kind": "string",
   "jp": "プレミアムジムの",
-  "en": "",
-  "status": "new",
+  "en": "Premium Gym's",
+  "status": "done",
   "ptrs": [
    "0xefe50"
   ],
@@ -6674,8 +6674,8 @@
   "id": "r07b8b8",
   "kind": "string",
   "jp": "ヘクサ社がたてた",
-  "en": "",
-  "status": "new",
+  "en": "Hexa Corp. built",
+  "status": "done",
   "ptrs": [
    "0xefe4c"
   ],
@@ -6685,8 +6685,8 @@
   "id": "r07b8cc",
   "kind": "string",
   "jp": "場になっている",
-  "en": "",
-  "status": "new",
+  "en": "your skills",
+  "status": "done",
   "ptrs": [
    "0xefe44"
   ],
@@ -6696,8 +6696,8 @@
   "id": "r07b8dc",
   "kind": "string",
   "jp": "うでだめしの",
-  "en": "",
-  "status": "new",
+  "en": "for testing",
+  "status": "done",
   "ptrs": [
    "0xefe40"
   ],
@@ -6707,8 +6707,8 @@
   "id": "r07b8ec",
   "kind": "string",
   "jp": "ストリートＶＲ場",
-  "en": "",
-  "status": "new",
+  "en": "street VR",
+  "status": "done",
   "ptrs": [
    "0xefe3c"
   ],
@@ -6718,8 +6718,8 @@
   "id": "r07b900",
   "kind": "string",
   "jp": "グローブ公園の",
-  "en": "",
-  "status": "new",
+  "en": "Globe Park's",
+  "status": "done",
   "ptrs": [
    "0xefe38"
   ],
@@ -6729,8 +6729,8 @@
   "id": "r07b910",
   "kind": "string",
   "jp": "砂浜のフィールド",
-  "en": "",
-  "status": "new",
+  "en": "a sandy field",
+  "status": "done",
   "ptrs": [
    "0xefe30"
   ],
@@ -6740,8 +6740,8 @@
   "id": "r07b924",
   "kind": "string",
   "jp": "ジムのＶＲ場",
-  "en": "",
-  "status": "new",
+  "en": "VR court:",
+  "status": "done",
   "ptrs": [
    "0xefe2c",
    "0xefea4",
@@ -6753,8 +6753,8 @@
   "id": "r07b934",
   "kind": "string",
   "jp": "が浜にたてた",
-  "en": "",
-  "status": "new",
+  "en": "built this",
+  "status": "done",
   "ptrs": [
    "0xefe28"
   ],
@@ -6764,8 +6764,8 @@
   "id": "r07b944",
   "kind": "string",
   "jp": "海の家のおばさん",
-  "en": "",
-  "status": "new",
+  "en": "Beach-hut lady",
+  "status": "done",
   "ptrs": [
    "0xefe24"
   ],
@@ -6775,8 +6775,8 @@
   "id": "r07b958",
   "kind": "string",
   "jp": "スタジアム",
-  "en": "",
-  "status": "new",
+  "en": "stadium",
+  "status": "done",
   "ptrs": [
    "0xefe1c",
    "0xefe68",
@@ -6789,8 +6789,8 @@
   "id": "r07b964",
   "kind": "string",
   "jp": "されている",
-  "en": "",
-  "status": "new",
+  "en": "this",
+  "status": "done",
   "ptrs": [
    "0xefe18",
    "0xefe90"
@@ -6801,8 +6801,8 @@
   "id": "r07b970",
   "kind": "string",
   "jp": "がかいさい",
-  "en": "",
-  "status": "new",
+  "en": "is held in",
+  "status": "done",
   "ptrs": [
    "0xefe14",
    "0xefe8c"
@@ -6813,8 +6813,8 @@
   "id": "r07b97c",
   "kind": "string",
   "jp": "スパイルアレーナ",
-  "en": "",
-  "status": "new",
+  "en": "Spile Arena",
+  "status": "done",
   "ptrs": [
    "0xefe10"
   ],
@@ -6824,8 +6824,8 @@
   "id": "r07b990",
   "kind": "string",
   "jp": "すべる",
-  "en": "",
-  "status": "new",
+  "en": "slide!",
+  "status": "done",
   "ptrs": [
    "0xefe0c",
    "0xefefc"
@@ -6836,8 +6836,8 @@
   "id": "r07b998",
   "kind": "string",
   "jp": "こおりでつるつる",
-  "en": "",
-  "status": "new",
+  "en": "slick ice,",
+  "status": "done",
   "ptrs": [
    "0xefe08",
    "0xefef8"
@@ -6848,8 +6848,8 @@
   "id": "r07b9ac",
   "kind": "string",
   "jp": "プライベート",
-  "en": "",
-  "status": "new",
+  "en": "private",
+  "status": "done",
   "ptrs": [
    "0xefe00",
    "0xefec8"
@@ -6860,8 +6860,8 @@
   "id": "r07b9bc",
   "kind": "string",
   "jp": "イカヅチ家の",
-  "en": "",
-  "status": "new",
+  "en": "Ikazuchi's",
+  "status": "done",
   "ptrs": [
    "0xefdfc"
   ],
@@ -6871,8 +6871,8 @@
   "id": "r07b9cc",
   "kind": "string",
   "jp": "田万里村のジム",
-  "en": "",
-  "status": "new",
+  "en": "Tamari Village",
+  "status": "done",
   "ptrs": [
    "0xefdf0"
   ],
@@ -6882,8 +6882,8 @@
   "id": "r07b9dc",
   "kind": "string",
   "jp": "はやっている",
-  "en": "",
-  "status": "new",
+  "en": "rule here",
+  "status": "done",
   "ptrs": [
    "0xefdec"
   ],
@@ -6893,8 +6893,8 @@
   "id": "r07b9ec",
   "kind": "string",
   "jp": "ヘンな方言が",
-  "en": "",
-  "status": "new",
+  "en": "Odd dialects",
+  "status": "done",
   "ptrs": [
    "0xefde8"
   ],
@@ -6904,8 +6904,8 @@
   "id": "r07b9fc",
   "kind": "string",
   "jp": "いつも大いそがし",
-  "en": "",
-  "status": "new",
+  "en": "always busy",
+  "status": "done",
   "ptrs": [
    "0xefddc"
   ],
@@ -6915,8 +6915,8 @@
   "id": "r07ba10",
   "kind": "string",
   "jp": "ここのマスターは",
-  "en": "",
-  "status": "new",
+  "en": "hit gym; master",
+  "status": "done",
   "ptrs": [
    "0xefdd8"
   ],
@@ -6926,8 +6926,8 @@
   "id": "r07ba24",
   "kind": "string",
   "jp": "勝飛町の人気ジム",
-  "en": "",
-  "status": "new",
+  "en": "Katsutobi Town",
+  "status": "done",
   "ptrs": [
    "0xefdd4"
   ],
@@ -6937,8 +6937,8 @@
   "id": "r07ba38",
   "kind": "string",
   "jp": "りようしている",
-  "en": "",
-  "status": "new",
+  "en": "all come",
+  "status": "done",
   "ptrs": [
    "0xefdd0"
   ],
@@ -6948,8 +6948,8 @@
   "id": "r07ba48",
   "kind": "string",
   "jp": "わかものまで",
-  "en": "",
-  "status": "new",
+  "en": "to kids,",
+  "status": "done",
   "ptrs": [
    "0xefdcc"
   ],
@@ -6959,8 +6959,8 @@
   "id": "r07ba58",
   "kind": "string",
   "jp": "おとしよりから",
-  "en": "",
-  "status": "new",
+  "en": "from seniors",
+  "status": "done",
   "ptrs": [
    "0xefdc8"
   ],
@@ -6970,8 +6970,8 @@
   "id": "r07ba68",
   "kind": "string",
   "jp": "ＶＲ場",
-  "en": "",
-  "status": "new",
+  "en": "VR",
+  "status": "done",
   "ptrs": [
    "0xefdc4",
    "0xefe04",
@@ -6986,8 +6986,8 @@
   "id": "r07ba70",
   "kind": "string",
   "jp": "勝飛町いこいの",
-  "en": "",
-  "status": "new",
+  "en": "Katsutobi Town",
+  "status": "done",
   "ptrs": [
    "0xefdc0"
   ],
@@ -6997,8 +6997,8 @@
   "id": "r07ba80",
   "kind": "string",
   "jp": "につかわれている",
-  "en": "",
-  "status": "new",
+  "en": "P.E. classes",
+  "status": "done",
   "ptrs": [
    "0xefdb8"
   ],
@@ -7008,8 +7008,8 @@
   "id": "r07ba94",
   "kind": "string",
   "jp": "体育のじゅぎょう",
-  "en": "",
-  "status": "new",
+  "en": "used in",
+  "status": "done",
   "ptrs": [
    "0xefdb4"
   ],
@@ -7019,8 +7019,8 @@
   "id": "r07baa8",
   "kind": "string",
   "jp": "にあるＶＲ場",
-  "en": "",
-  "status": "new",
+  "en": "VR court",
+  "status": "done",
   "ptrs": [
    "0xefdb0"
   ],
@@ -7030,8 +7030,8 @@
   "id": "r07bab8",
   "kind": "string",
   "jp": "勝飛中の体育館",
-  "en": "",
-  "status": "new",
+  "en": "Katsutobi gym",
+  "status": "done",
   "ptrs": [
    "0xefdac"
   ],
@@ -7041,8 +7041,8 @@
   "id": "r07bac8",
   "kind": "string",
   "jp": "よろしいですか？",
-  "en": "",
-  "status": "new",
+  "en": "Is that OK?",
+  "status": "done",
   "ptrs": [
    "0xeff40"
   ],
@@ -7052,8 +7052,8 @@
   "id": "r07badc",
   "kind": "string",
   "jp": "そうびできませんが",
-  "en": "",
-  "status": "new",
+  "en": "You can't equip,",
+  "status": "done",
   "ptrs": [
    "0xeff3c"
   ],
@@ -7063,8 +7063,8 @@
   "id": "r07baf0",
   "kind": "string",
   "jp": "ＶＰ",
-  "en": "",
-  "status": "new",
+  "en": "VP",
+  "status": "done",
   "ptrs": [
    "0x6a1b4",
    "0x6a2d0",
@@ -7076,8 +7076,8 @@
   "id": "r07bb08",
   "kind": "string",
   "jp": "ありがとうございました！",
-  "en": "",
-  "status": "new",
+  "en": "Thank you very much!",
+  "status": "done",
   "ptrs": [
    "0xeff6c"
   ],
@@ -7087,8 +7087,8 @@
   "id": "r07bb24",
   "kind": "string",
   "jp": "になりますがよろしいですか？",
-  "en": "",
-  "status": "new",
+  "en": " -- is that OK?",
+  "status": "done",
   "ptrs": [
    "0xeff68"
   ],
@@ -7098,8 +7098,8 @@
   "id": "r07bb44",
   "kind": "string",
   "jp": "いいえ",
-  "en": "",
-  "status": "new",
+  "en": "No",
+  "status": "done",
   "ptrs": [
    "0xeff64"
   ],
@@ -7109,8 +7109,8 @@
   "id": "r07bb4c",
   "kind": "string",
   "jp": "はい",
-  "en": "",
-  "status": "new",
+  "en": "Yes",
+  "status": "done",
   "ptrs": [
    "0xeff60"
   ],
@@ -7120,8 +7120,8 @@
   "id": "r07bb54",
   "kind": "string",
   "jp": "ＶＰ",
-  "en": "",
-  "status": "new",
+  "en": "VP",
+  "status": "done",
   "ptrs": [
    "0x6c868",
    "0x6c998",

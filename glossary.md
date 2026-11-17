@@ -168,6 +168,15 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 | ゴラムス | Golamus | | Armalet | |
 | エンペリオル | Emperiol | | Armalet | |
 | ブレイクロール | Break Roll | | Attack Roll a Bounder cannot deflect | |
+| ウナギケーキ | Eel Cake | | key item | |
+| カッパのて / カッパの手 | Kappa Hand | | key item (trade chain) | |
+| ワカメ | Seaweed | | key item | |
+| マスターのあかし | Master's Proof | | key item | |
+| ぶいんバッチ | Club Badge | | key item (Club Force) | |
+| ドロップドール | Drop Doll | | Tool | |
+| アームスケープ | Arm Escape | | Tool | |
+| ハイドマーカー | Hide Marker | | Tool | |
+| サバイバルルール / オフィシャルルール | Survival Rules / Official Rules | | VRX rules | |
 | サインアーム | Sign Arm | | Arm engraved with the player's favourite word | |
 | バトローリングじてん | Vattrolling Encyclopedia | | library book | |
 
