@@ -3,8 +3,8 @@
   "id": "e2610_001c0",
   "kind": "line",
   "jp": "心のじゅんびは　できておるかな",
-  "en": "",
-  "status": "new",
+  "en": "Is your heart prepared,",
+  "status": "done",
   "flags": "0x0000",
   "script": 6,
   "notes": ""
@@ -13,8 +13,8 @@
   "id": "e2610_001e8",
   "kind": "line",
   "jp": "バトローリングの勇者よ",
-  "en": "",
-  "status": "new",
+  "en": "hero of Vattrolling?",
+  "status": "done",
   "flags": "0x0200",
   "script": 6,
   "notes": ""
@@ -23,8 +23,8 @@
   "id": "e2610_00208",
   "kind": "line",
   "jp": "強きいしと勇気をもって",
-  "en": "",
-  "status": "new",
+  "en": "With a strong will and courage,",
+  "status": "done",
   "flags": "0x0000",
   "script": 6,
   "notes": ""
@@ -33,8 +33,8 @@
   "id": "e2610_00228",
   "kind": "line",
   "jp": "このおくへとすすむがいいぞ！",
-  "en": "",
-  "status": "new",
+  "en": "proceed into the depths!",
+  "status": "done",
   "flags": "0x0200",
   "script": 6,
   "notes": ""

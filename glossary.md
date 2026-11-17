@@ -82,6 +82,9 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 | プレミアムジム | Premium Gym | | | |
 | レイオンジム | Reion Gym | | | |
 | クラブフォース | Club Force | | | |
+| 界天島 | Kaiten Island | | where "Mars" waits (reading guessed) | |
+| 界天コロシアム | Kaiten Colosseum | | | |
+| グローブスタジアム | Globe Stadium | | Vattleague venue | |
 
 ## Items / skills / terms
 | JP | EN | max | notes | Avoid |
@@ -129,7 +132,7 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 | デスロード | Death Lord | | Armalet | |
 | ベルゼーブ | Beelzeb | | Armalet | |
 | Ｖポイント | V Points | | short for Vattrolling Points | |
-| Ｖスキル | V Skills | | | |
+| Ｖスキル | V Skills / V Skill | | singular when one skill is meant | |
 | だいじなもの | Key Items | | menu entry | |
 | せってい | Settings | | menu entry | |
 | きろく | Save | | menu entry (quoted as "Save") | |
@@ -144,6 +147,14 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 | ヘクサ社 | Hexa Corp. | | runs Premium Gym; president Todo | |
 | バトリーグさんかパス | Vattleague Pass | | key item | |
 | エンジェラン | Angelan | | Armalet (Corona side event, e2591) | |
+| マルスパス | Mars Pass | | key item, Vattleague 1st prize (e2613) | |
+| リーグパス | League Pass | | pro entry pass | |
+| エクスバウンダー | Ex-Bounder | | arm type (エクスバウンダーけい) | |
+| バトレンジャー | Vattranger | | TV hero show; バトレンピンク Vattranger Pink | |
+| Ｖセンター | V Center | | link-battle / V Skill building | |
+| ＶＲＸ | VRX | | in-world fighting video game | |
+| ジャマーボール | Jammer Ball | | link-battle obstacle | |
+| ジョイスポット | Joy Spot | | data receive service | |
 
 ## Decisions from earlier batches
 - RPG mode (b016-b030): Minami and her brother Hokuto are the Premium Gym twins (Takumi's ex-gym mates); Hokuto blames
