@@ -2109,7 +2109,7 @@
   "id": "r076674",
   "kind": "string",
   "jp": "弾打浜のワカメ",
-  "en": "Beach Seaweed",
+  "en": "Dandahama",
   "status": "done",
   "ptrs": [
    "0xeeabc"
@@ -2252,7 +2252,7 @@
   "id": "r076734",
   "kind": "string",
   "jp": "さみしいあたまも",
-  "en": "makes thin hair",
+  "en": "Seaweed. Said to",
   "status": "done",
   "ptrs": [
    "0xeeaf0"
@@ -2395,7 +2395,7 @@
   "id": "r076810",
   "kind": "string",
   "jp": "ツヤツヤになる",
-  "en": "glossy",
+  "en": "make thin hair",
   "status": "done",
   "ptrs": [
    "0xeeb24"
@@ -2527,7 +2527,7 @@
   "id": "r0768c4",
   "kind": "string",
   "jp": "らしい",
-  "en": "maybe",
+  "en": "glossy.",
   "status": "done",
   "ptrs": [
    "0xeeb58"
@@ -4450,7 +4450,7 @@
   "id": "r077ad4",
   "kind": "string",
   "jp": "ツバサ",
-  "en": "Sora",
+  "en": "Tubasa",
   "status": "done",
   "ptrs": [
    "0xeed74"

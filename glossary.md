@@ -198,3 +198,5 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 - ケイコ in the script is always 稽古 "training/practice" (Raiba, e2582-e2583), never a name: the old "Keiko" row
   was dropped (b032).
 - The glossary check needs the literal "Vattrolling": write "Vattrolling" rather than the verb "Vattroll".
+- Default player names (r077ac4-r077ae8): Gen, Jun, Tubasa (ツバサ; 6-cell name limit, Kunrei spelling, D10), Yoichi, Kai.
+  ツバサ elsewhere is the word "wing(s)", so it has no table row.
