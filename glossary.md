@@ -52,7 +52,6 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 | ムチャピー | Muchapy | | Jin's pet; cries "Pyii!" | |
 | ムニャ | mnya | | sleepy mumble of an old man (e2533) | |
 | アサマ | Asama | | | |
-| ケイコ | Keiko | | | |
 | ライバ | Raiba | | an opponent (not ライバル rival) | |
 | レイナ | Reina | | ex-member of the Tsuchioni Gang (Ryo side story) | |
 | カタマリ | Katamari | | Tsuchioni Gang leader | |
@@ -144,6 +143,7 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 | ファルコーン | Falcorn | | Armalet | |
 | ヘクサ社 | Hexa Corp. | | runs Premium Gym; president Todo | |
 | バトリーグさんかパス | Vattleague Pass | | key item | |
+| エンジェラン | Angelan | | Armalet (Corona side event, e2591) | |
 
 ## Decisions from earlier batches
 - RPG mode (b016-b030): Minami and her brother Hokuto are the Premium Gym twins (Takumi's ex-gym mates); Hokuto blames
@@ -153,4 +153,13 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
   dialect: casual drawl ("ain't", "ya", dropped g's). グローブ (the man) = Mr. Globe / President Globe, Globe Corp.
   president and the sleepy "...mnya" old man; laughs "Hyo hyo hyo".
 - Club Force naming joke (e2528): "Four, so Force?" / "what's with the 'ce'" / "English puts 's' on the end".
+- Side events b031-b036: Komachi's family runs a Japanese-sweets shop (和がし = "Japanese sweets"); Komachi calls
+  the twins "the Dopey Twins" (おまぬけツインズ), Hokuto calls her "the shrimpy girl" (チンチクリン女); Corona is
+  called a "cutesy faker" (ブリっ子). Puns: つきあって = "be my partner" (date / sparring), ヘナチョコ scrambled =
+  "pipsqueak" -> "squeakpip", "peaksquip", "squippeak"; ロマン/マロン = "romance" / "MARRONS, chestnuts".
+  アームセットしゅうりょう / をつづける = "Finish Arm Set" / "Continue Arm Set".
+- A glossary JP run that is an ordinary word on one line (カタマリ "lump") is waived per id in
+  `script/glossary_waive.tsv` (id, JP term, reason), read by `tools/batches.py`.
+- ケイコ in the script is always 稽古 "training/practice" (Raiba, e2582-e2583), never a name: the old "Keiko" row
+  was dropped (b032).
 - The glossary check needs the literal "Vattrolling": write "Vattrolling" rather than the verb "Vattroll".

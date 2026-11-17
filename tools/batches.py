@@ -7,6 +7,7 @@
 Copied from the skill's assets/batches.py. Fit the ADAPTER section to this game's text format; the rest is shared.
 Batch TSV: id, speaker, form, limit, JP. Output: work/tl/bNNN.out.tsv, id<TAB>English, every id once, same order.
 """
+import functools
 import json
 import re
 import sys
@@ -17,7 +18,17 @@ ROOT = Path(__file__).resolve().parents[1]
 TL = ROOT / "work/tl"
 SCRIPT = ROOT / "script"
 GLOSSARY = ROOT / "glossary.md"
+GLOSSARY_WAIVE = ROOT / "script/glossary_waive.tsv"  # id<TAB>JP term<TAB>reason: the JP run is an ordinary word there
 MAX_ENTRIES = 150
+
+
+@functools.lru_cache(maxsize=None)
+def glossary_waivers():
+    """{(id, JP term)} the glossary check skips (a homograph: カタマリ "lump", not the name Katamari)."""
+    if not GLOSSARY_WAIVE.exists():
+        return set()
+    rows = (line.split("\t") for line in GLOSSARY_WAIVE.read_text(encoding="utf-8").splitlines())
+    return {(r[0], r[1]) for r in rows if len(r) >= 2 and not r[0].startswith("#")}
 
 # ---- ADAPTER: this game's text format ----
 TOKEN = re.compile(r"\[[^\]\n]*\]|∴")  # raw byte codes [XX] (text.TOKEN) and the player-name code ∴
@@ -143,8 +154,11 @@ def problems(entry, en, terms):
         out.append('ordinal suffix after a variable (write "No. [var]")')
     jp_plain = TOKEN.sub("", jp)
     box_jp, box_en = BOX.get(entry.get("id"), (jp_plain, en))  # dialogue: terms may sit on another line of the box
+    waived = glossary_waivers()
     for jps, ens, avoid in terms:
-        if any(has_term(jp_plain, j) for j in jps) and not any(e.lower() in box_en.lower() for e in ens):
+        if (entry.get("id"), jps[0]) in waived:
+            pass
+        elif any(has_term(jp_plain, j) for j in jps) and not any(e.lower() in box_en.lower() for e in ens):
             out.append(f"glossary: {jps[0]} -> {ens[0]}")
         out += [f"glossary Avoid: {a}" for a in avoid if re.search(rf"\b{re.escape(a)}\b", en)]
     for jp_form, en_form in HONORIFICS.items():
