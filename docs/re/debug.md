@@ -140,6 +140,31 @@ needs its arg meaning, scenes and id sweeps (next worker).
   `0x0805F0A6`, `0x0805FF74`, `0x08060052`, `0x08061B2C`) are battle logic/effects. Next: watch reads of
   ROM 0x0168B0-0x017D90 (`probes/watch.lua`, WATCH_MODE read) in a battle where a special is used.
 
+## Key Items, V Skill list, V Shop unlocks, rulers (2026-11-17, 19th worker)
+
+- The data-table block ROM 0xED48C.. is copied to EWRAM at boot (f274, DMA): ROM 0xEEBD8 (Key Item name table)
+  = EWRAM 0x0200B494, so ROM X = EWRAM X - 0x080E3744 + 0x02000000 for the whole block; `*0x02009D44..0x02009D98`
+  are its table pointers. `tools/lua/findword.lua --var WORD=0x...` finds where a (built) pointer value sits in RAM.
+- **Key Items**: owned = bit i of u32 `*(0x03002A90)+0x1E0` (13 items, names ROM 0xEEBD8.., descriptions 4-5
+  pointer arrays of 13 from 0xEEA98, stride 0x34); drawer `0x080410BC`, unowned rows show r076618 "??????????"
+  (ptr 0xEEA90). `tools/lua/keyall.lua`; scene `key_items_all` walks all 13 (names + descriptions covered).
+- **V Skills page list** = the 5 equipped slots, s8 at `*(0x03002A90)+0x73..0x77` (`0x0802DEE8(i)`), each row
+  the record's +0 name (`0x0804084C`); owning all 128 (bits at +0x53C) does not lengthen it.
+  `tools/lua/vsslots.lua` puts ids 5g..5g+4 in the slots and moves g on each B press of the post route (needs
+  `WARP_PHASE`, now a global set by warp.lua); scene `vskills_names` reopens the page 26 times: all 128 names.
+- **V Shop unlock table** `*0x02009D94` = ROM 0x1D5F0.. (count at ROM 0x1E3D0; records 0x14: +0 handler type,
+  +3 s8 bit in u16 save+0x58C (-1 none), +4 s16 threshold, +8 name ptr, +0xC/+0x10 message lines
+  "X now sold / at the V Shop!!∇", r01d900-r01e3xx). `0x0802D874(delta)` adds to the counter save+0x588
+  (`*(0x03002AA0)+0x588`, clamped 0..999; called from `0x0802D500`, probably the battle result) then
+  `0x0802CCC0` runs the handler (`*0x02008EE8`[type]) of every record whose threshold <= counter and sets its
+  0x58C bit; `0x0802D044` re-applies the handlers for set bits (room load `0x08034E50`). The **message** is printed
+  by callbacks `0x0804FE60` (+0xC) / `0x0804FE9C` (+0x10) with the record index at `*(*0x03003648)`, via the
+  text printer `0x08073064`: find who queues them (likely the VS result screen after `0x0802D874`), then sweep
+  the index like idsweep.lua. Holding 0x58C = 0xFFFF on `rpg_free` with the field menu opened shows nothing.
+- Rulers (`romruler.lua`, no rebuild; free 0xFF run at ROM 0x26BA4F-0x26BC91 for AT): Key Items list 16 chars,
+  Arm Data header 24, Armalet Data Name box 12, shop Tools list 20 (to the price column), VRX Data list name 16,
+  shop profile panel line 16, Character Data "Fav. Word" label 12 (`work/qa/keyruler`, `work/qa/ruler19/*`).
+
 ## Gaps (next)
 
 - RPG mode: free control and the field menu are reached (above). Shops are reached as rooms, but shopkeepers need
