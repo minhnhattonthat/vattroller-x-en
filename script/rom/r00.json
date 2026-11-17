@@ -7403,7 +7403,7 @@
   "id": "r00733c",
   "kind": "string",
   "jp": "こうげき力が高い",
-  "en": "High attack",
+  "en": "A fire-lizard",
   "status": "done",
   "ptrs": [
    "0x7084"
@@ -7414,7 +7414,7 @@
   "id": "r007350",
   "kind": "string",
   "jp": "火トカゲの",
-  "en": "Fire newt",
+  "en": "Armalet with high",
   "status": "done",
   "ptrs": [
    "0x7088"
@@ -7425,7 +7425,7 @@
   "id": "r00735c",
   "kind": "string",
   "jp": "アーマレット",
-  "en": "Armalet",
+  "en": "attack power.",
   "status": "done",
   "ptrs": [
    "0x708c"
@@ -7447,7 +7447,7 @@
   "id": "r00737c",
   "kind": "string",
   "jp": "ＨＰいがいは強い",
-  "en": "Strong save HP",
+  "en": "A wolf Armalet,",
   "status": "done",
   "ptrs": [
    "0x70a8"
@@ -7458,7 +7458,7 @@
   "id": "r007390",
   "kind": "string",
   "jp": "オオカミの",
-  "en": "Wolf",
+  "en": "strong in every",
   "status": "done",
   "ptrs": [
    "0x70ac"
@@ -7469,7 +7469,7 @@
   "id": "r00739c",
   "kind": "string",
   "jp": "アーマレット",
-  "en": "Armalet",
+  "en": "stat but HP.",
   "status": "done",
   "ptrs": [
    "0x70b0"
@@ -7491,7 +7491,7 @@
   "id": "r0073bc",
   "kind": "string",
   "jp": "バランスの取れた",
-  "en": "Well-balanced",
+  "en": "A well-balanced",
   "status": "done",
   "ptrs": [
    "0x70cc"
@@ -7502,7 +7502,7 @@
   "id": "r0073d0",
   "kind": "string",
   "jp": "一角じゅうの",
-  "en": "unicorn",
+  "en": "unicorn Armalet,",
   "status": "done",
   "ptrs": [
    "0x70d0"
@@ -7513,7 +7513,7 @@
   "id": "r0073e0",
   "kind": "string",
   "jp": "アーマレット",
-  "en": "Armalet",
+  "en": "just right for",
   "status": "done",
   "ptrs": [
    "0x70d4"
@@ -7524,7 +7524,7 @@
   "id": "r0073f0",
   "kind": "string",
   "jp": "初心者向け",
-  "en": "beginners",
+  "en": "beginners.",
   "status": "done",
   "ptrs": [
    "0x70d8"
@@ -7546,7 +7546,7 @@
   "id": "r007408",
   "kind": "string",
   "jp": "オーラとスピードが",
-  "en": "Aura and speed",
+  "en": "A cat Armalet",
   "status": "done",
   "ptrs": [
    "0x70f0"
@@ -7557,7 +7557,7 @@
   "id": "r00741c",
   "kind": "string",
   "jp": "少しトクイな",
-  "en": "a bit good,",
+  "en": "with a knack for",
   "status": "done",
   "ptrs": [
    "0x70f4"
@@ -7568,7 +7568,7 @@
   "id": "r00742c",
   "kind": "string",
   "jp": "ネコのアーマレット",
-  "en": "Cat Armalet",
+  "en": "aura and speed.",
   "status": "done",
   "ptrs": [
    "0x70f8"
@@ -7590,7 +7590,7 @@
   "id": "r007450",
   "kind": "string",
   "jp": "ＨＰとサイズが",
-  "en": "Lots of HP,",
+  "en": "A Genbu tortoise",
   "status": "done",
   "ptrs": [
    "0x7114"
@@ -7601,7 +7601,7 @@
   "id": "r007460",
   "kind": "string",
   "jp": "多いゲンブの",
-  "en": "Size: turtle",
+  "en": "Armalet with lots",
   "status": "done",
   "ptrs": [
    "0x7118"
@@ -7612,7 +7612,7 @@
   "id": "r007470",
   "kind": "string",
   "jp": "アーマレット",
-  "en": "Armalet",
+  "en": "of HP and Size.",
   "status": "done",
   "ptrs": [
    "0x711c"
@@ -7634,7 +7634,7 @@
   "id": "r007494",
   "kind": "string",
   "jp": "もっともスピードが",
-  "en": "Fastest of all:",
+  "en": "A falcon Armalet,",
   "status": "done",
   "ptrs": [
    "0x7138"
@@ -7645,7 +7645,7 @@
   "id": "r0074a8",
   "kind": "string",
   "jp": "速いハヤブサの",
-  "en": "the falcon",
+  "en": "the fastest of",
   "status": "done",
   "ptrs": [
    "0x713c"
@@ -7656,7 +7656,7 @@
   "id": "r0074b8",
   "kind": "string",
   "jp": "アーマレット",
-  "en": "Armalet",
+  "en": "them all.",
   "status": "done",
   "ptrs": [
    "0x7140"
@@ -7678,7 +7678,7 @@
   "id": "r0074dc",
   "kind": "string",
   "jp": "オーラ全体が強い",
-  "en": "Strong aura",
+  "en": "An angel Armalet",
   "status": "done",
   "ptrs": [
    "0x715c"
@@ -7689,7 +7689,7 @@
   "id": "r0074f0",
   "kind": "string",
   "jp": "天使のアーマレット",
-  "en": "Angel Armalet",
+  "en": "with strong aura.",
   "status": "done",
   "ptrs": [
    "0x7160"
@@ -7711,7 +7711,7 @@
   "id": "r007518",
   "kind": "string",
   "jp": "サイズが多い海の",
-  "en": "Lots of Size;",
+  "en": "A sea-monster",
   "status": "done",
   "ptrs": [
    "0x7180"
@@ -7722,7 +7722,7 @@
   "id": "r00752c",
   "kind": "string",
   "jp": "かいぶつがモデルの",
-  "en": "sea-monster",
+  "en": "Armalet with lots",
   "status": "done",
   "ptrs": [
    "0x7184"
@@ -7733,7 +7733,7 @@
   "id": "r007540",
   "kind": "string",
   "jp": "アーマレット",
-  "en": "Armalet",
+  "en": "of Size.",
   "status": "done",
   "ptrs": [
    "0x7188"
@@ -7755,7 +7755,7 @@
   "id": "r007560",
   "kind": "string",
   "jp": "こうげきとＨＰが",
-  "en": "Attack and HP",
+  "en": "An Armalet modeled",
   "status": "done",
   "ptrs": [
    "0x71a4"
@@ -7766,7 +7766,7 @@
   "id": "r007574",
   "kind": "string",
   "jp": "とても高い",
-  "en": "very high;",
+  "en": "on an earth giant,",
   "status": "done",
   "ptrs": [
    "0x71a8"
@@ -7777,7 +7777,7 @@
   "id": "r007580",
   "kind": "string",
   "jp": "土のきょじんの",
-  "en": "earth giant",
+  "en": "with very high",
   "status": "done",
   "ptrs": [
    "0x71ac"
@@ -7788,7 +7788,7 @@
   "id": "r007590",
   "kind": "string",
   "jp": "アーマレット",
-  "en": "Armalet",
+  "en": "attack and HP.",
   "status": "done",
   "ptrs": [
    "0x71b0"
@@ -7810,7 +7810,7 @@
   "id": "r0075ac",
   "kind": "string",
   "jp": "バランスが良い",
-  "en": "Well-balanced",
+  "en": "A dragon Armalet,",
   "status": "done",
   "ptrs": [
    "0x71c8"
@@ -7821,7 +7821,7 @@
   "id": "r0075bc",
   "kind": "string",
   "jp": "ドラゴンの",
-  "en": "Dragon",
+  "en": "well-balanced in",
   "status": "done",
   "ptrs": [
    "0x71cc"
@@ -7832,7 +7832,7 @@
   "id": "r0075c8",
   "kind": "string",
   "jp": "アーマレット",
-  "en": "Armalet",
+  "en": "every way.",
   "status": "done",
   "ptrs": [
    "0x71d0"
@@ -7854,7 +7854,7 @@
   "id": "r0075e8",
   "kind": "string",
   "jp": "こうげき全体が高い",
-  "en": "All attacks high",
+  "en": "A lion Armalet,",
   "status": "done",
   "ptrs": [
    "0x71ec"
@@ -7865,7 +7865,7 @@
   "id": "r0075fc",
   "kind": "string",
   "jp": "ライオンの",
-  "en": "Lion",
+  "en": "high in every",
   "status": "done",
   "ptrs": [
    "0x71f0"
@@ -7876,7 +7876,7 @@
   "id": "r007608",
   "kind": "string",
   "jp": "アーマレット",
-  "en": "Armalet",
+  "en": "kind of attack.",
   "status": "done",
   "ptrs": [
    "0x71f4"
@@ -7898,7 +7898,7 @@
   "id": "r007628",
   "kind": "string",
   "jp": "サイズが一番多い",
-  "en": "Most Size of all",
+  "en": "A war-god Armalet",
   "status": "done",
   "ptrs": [
    "0x7210"
@@ -7909,7 +7909,7 @@
   "id": "r00763c",
   "kind": "string",
   "jp": "戦いの神の",
-  "en": "War god",
+  "en": "with the most",
   "status": "done",
   "ptrs": [
    "0x7214"
@@ -7920,7 +7920,7 @@
   "id": "r007648",
   "kind": "string",
   "jp": "アーマレット",
-  "en": "Armalet",
+  "en": "Size of all.",
   "status": "done",
   "ptrs": [
    "0x7218"
@@ -7942,7 +7942,7 @@
   "id": "r007668",
   "kind": "string",
   "jp": "とてつもなく",
-  "en": "Incredibly",
+  "en": "A reaper Armalet",
   "status": "done",
   "ptrs": [
    "0x7234"
@@ -7953,7 +7953,7 @@
   "id": "r007678",
   "kind": "string",
   "jp": "ロールが強い",
-  "en": "mighty Roll",
+  "en": "with an incredibly",
   "status": "done",
   "ptrs": [
    "0x7238"
@@ -7964,7 +7964,7 @@
   "id": "r007688",
   "kind": "string",
   "jp": "死神のアーマレット",
-  "en": "Reaper Armalet",
+  "en": "mighty Roll.",
   "status": "done",
   "ptrs": [
    "0x723c"
@@ -7986,7 +7986,7 @@
   "id": "r0076ac",
   "kind": "string",
   "jp": "オーラがとても強い",
-  "en": "Very strong aura",
+  "en": "A demon-king",
   "status": "done",
   "ptrs": [
    "0x7258"
@@ -7997,7 +7997,7 @@
   "id": "r0076c0",
   "kind": "string",
   "jp": "アクマの王の",
-  "en": "Demon king",
+  "en": "Armalet with very",
   "status": "done",
   "ptrs": [
    "0x725c"
@@ -8008,7 +8008,7 @@
   "id": "r0076d0",
   "kind": "string",
   "jp": "アーマレット",
-  "en": "Armalet",
+  "en": "strong aura.",
   "status": "done",
   "ptrs": [
    "0x7260"
@@ -8030,7 +8030,7 @@
   "id": "r0076f4",
   "kind": "string",
   "jp": "人タイプが強い",
-  "en": "Body form ace",
+  "en": "A Gold Knight",
   "status": "done",
   "ptrs": [
    "0x727c"
@@ -8041,7 +8041,7 @@
   "id": "r007704",
   "kind": "string",
   "jp": "ゴールドナイトの",
-  "en": "Gold Knight",
+  "en": "Armalet, strong in",
   "status": "done",
   "ptrs": [
    "0x7280"
@@ -8052,7 +8052,7 @@
   "id": "r007718",
   "kind": "string",
   "jp": "アーマレット",
-  "en": "Armalet",
+  "en": "the Human type.",
   "status": "done",
   "ptrs": [
    "0x7284"
@@ -8074,7 +8074,7 @@
   "id": "r00773c",
   "kind": "string",
   "jp": "こうげきとオーラが",
-  "en": "Attack & aura",
+  "en": "A phoenix Armalet",
   "status": "done",
   "ptrs": [
    "0x72a0"
@@ -8085,7 +8085,7 @@
   "id": "r007750",
   "kind": "string",
   "jp": "強いフェニックスの",
-  "en": "strong; phoenix",
+  "en": "with strong attack",
   "status": "done",
   "ptrs": [
    "0x72a4"
@@ -8096,7 +8096,7 @@
   "id": "r007764",
   "kind": "string",
   "jp": "アーマレット",
-  "en": "Armalet",
+  "en": "and aura.",
   "status": "done",
   "ptrs": [
    "0x72a8"

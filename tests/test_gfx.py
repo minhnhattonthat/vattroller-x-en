@@ -19,6 +19,7 @@ def test_446_changes_only_label_tiles():
     orig, new = ar.file(gfx.SHEET), gfx.files(ar)[gfx.SHEET]
     assert len(new) == len(orig)
     allowed = {t for first, count, _ in gfx.LABELS + gfx.PILLS for t in range(first, first + count)}
+    allowed |= {n for blocks, _ in gfx.TALL_LABELS for n, _, _ in gfx.tall_tiles(blocks)}
     changed = {i // 32 for i in range(len(orig)) if orig[i] != new[i]}
     assert changed and changed <= allowed
 
@@ -117,3 +118,18 @@ def test_labels_keep_their_arrow():
     for first, _, _ in gfx.LABELS:
         a, b = gfx.tile_px(orig, first), gfx.tile_px(new, first)
         assert all(a[y][x] == b[y][x] for y in range(8) for x in range(gfx.ARROW_W))
+
+
+def test_tall_label_keeps_its_arrow_and_drops_the_kana_tail():
+    ar = archive.Archive()
+    orig, new = ar.file(gfx.SHEET), gfx.files(ar)[gfx.SHEET]
+    for blocks, _ in gfx.TALL_LABELS:
+        tiles = gfx.tall_tiles(blocks)
+        first = tiles[0][0]
+        cols = blocks[0][1]                       # the arrow: first ARROW_W columns of the first block's column 0
+        for t in (first, first + cols):
+            a, b = gfx.tile_px(orig, t), gfx.tile_px(new, t)
+            assert all(a[y][x] == b[y][x] for y in range(8) for x in range(gfx.ARROW_W))
+        tail = blocks[-1]                         # "Next" is short: the last block (すむ) ends up blank
+        for n in range(tail[0], tail[0] + tail[1] * tail[2]):
+            assert all(v == gfx.BG for row in gfx.tile_px(new, n) for v in row)

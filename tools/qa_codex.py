@@ -65,13 +65,20 @@ def main():
         if path:
             p = (ROOT / path).resolve()
             sheets.append((p, p.relative_to(root).with_suffix("").as_posix()))
+    out = Path(a.out)
+    out.parent.mkdir(parents=True, exist_ok=True)
+    done = set()
+    if out.exists():  # resume: a killed run keeps the verdicts it already wrote
+        done = {ln.split("\t")[0] for ln in out.read_text(encoding="utf-8").splitlines() if ln.strip()}
+    sheets = [s for s in sheets if s[1] not in done]
     rows, bad = [], []
-    with cf.ThreadPoolExecutor(a.jobs) as ex:
+    with cf.ThreadPoolExecutor(a.jobs) as ex, out.open("a", encoding="utf-8") as f:
         for sid, verdict, note in ex.map(lambda s: review(s[0], s[1], brief), sheets):
             (rows if verdict else bad).append((sid, verdict, note))
             print(f"{sid}\t{verdict}\t{note}", flush=True)
-    Path(a.out).parent.mkdir(parents=True, exist_ok=True)
-    Path(a.out).write_text("".join(f"{s}\t{v}\t{n}\n" for s, v, n in rows), encoding="utf-8")
+            if verdict:
+                f.write(f"{sid}\t{verdict}\t{note}\n")
+                f.flush()
     print(f"{len(rows)} verdicts ({sum(v == 'issue' for _, v, _ in rows)} issue), {len(bad)} unparsed", file=sys.stderr)
     sys.exit(1 if bad else 0)
 

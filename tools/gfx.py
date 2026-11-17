@@ -51,9 +51,45 @@ def put_tile(buf, n, px):
 
 def render_label(orig, first, count, text, glyphs):
     """8 x (8*count) pixel rows for one label: original arrow, English cores, outline."""
-    w = 8 * count
+    return label_px(tile_px(orig, first), 8 * count, text, glyphs)
+
+
+# Labels drawn 16 px tall: the kana's dakuten rise above the 8 px strip, so the label is a 32x16 sprite plus
+# a 16x16 one (Ⓐ ▶つぎにすすむ, the "next" hint on the battle result screen: OAM at x 170 + 202, 1D mapping).
+# (blocks as (first tile, columns, rows), English). The blocks are laid side by side into one canvas; the
+# arrow sits on canvas rows 6-10, so the 8-row strip from TALL_TOP has it on rows 2-6 like an 8 px label.
+TALL_LABELS = [
+    (((12, 4, 2), (20, 2, 2)), "Next"),   # ▶つぎにすすむ
+]
+TALL_TOP = 4
+
+
+def tall_tiles(blocks):
+    """(tile, canvas x, canvas y) for every tile of the blocks laid side by side."""
+    out, x0 = [], 0
+    for first, cols, rows in blocks:
+        out += [(first + r * cols + c, x0 + c * 8, r * 8) for r in range(rows) for c in range(cols)]
+        x0 += cols * 8
+    return out
+
+
+def render_tall(orig, blocks, text, glyphs):
+    tiles = tall_tiles(blocks)
+    w, h = max(x for _, x, _ in tiles) + 8, max(y for _, _, y in tiles) + 8
+    canvas = [[BG] * w for _ in range(h)]
+    for n, x0, y0 in tiles:
+        for y, row in enumerate(tile_px(orig, n)):
+            canvas[y0 + y][x0:x0 + 8] = row
+    strip = [row[:ARROW_W] for row in canvas[TALL_TOP:TALL_TOP + 8]]
+    assert all(v == BG for y, row in enumerate(canvas) if not TALL_TOP <= y < TALL_TOP + 8 for v in row[:ARROW_W])
+    px = [[BG] * w for _ in range(h)]
+    px[TALL_TOP:TALL_TOP + 8] = label_px(strip, w, text, glyphs)
+    return {n: [row[x0:x0 + 8] for row in px[y0:y0 + 8]] for n, x0, y0 in tiles}
+
+
+def label_px(arrow, w, text, glyphs):
+    """8 x w label pixels: the arrow's first ARROW_W columns, then English cores with an outline."""
     px = [[BG] * w for _ in range(8)]
-    arrow = tile_px(orig, first)
     for y in range(8):
         for x in range(ARROW_W):
             px[y][x] = arrow[y][x]
@@ -66,7 +102,7 @@ def render_label(orig, first, count, text, glyphs):
         for gy, row in enumerate(glyphs[ch]):
             for gx, c in enumerate(row):
                 if c == "#":
-                    assert x + gx + 1 < w, f"{text!r} does not fit {count} tiles"
+                    assert x + gx + 1 < w, f"{text!r} does not fit {w} px"
                     core[1 + gy][x + gx] = True
         x += 4
     for y in range(8):
@@ -242,6 +278,9 @@ def sheet_446(orig):
         px = render_pill(orig, first, count, text, glyphs)
         for k in range(count):
             put_tile(out, first + k, [row[k * 8:k * 8 + 8] for row in px])
+    for blocks, text in TALL_LABELS:
+        for n, px in render_tall(orig, blocks, text, glyphs).items():
+            put_tile(out, n, px)
     return bytes(out)
 
 
