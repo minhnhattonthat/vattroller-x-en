@@ -12,7 +12,8 @@ sys.path.insert(0, str(ROOT / "tools"))
 sys.path.insert(0, str(DEBUG))
 HAVE_ROM = any((ROOT / "rom").glob("*.gba"))
 FIELDS = {"name", "book", "room", "post", "hold", "stop_at", "csteps", "mashpost", "frames", "desc", "from_room",
-          "from_nth", "expect", "x", "y", "face", "entry", "via", "unlock", "premash", "node", "scripts", "mode", "mode_arg"}
+          "from_nth", "expect", "x", "y", "face", "entry", "via", "unlock", "premash", "node", "scripts", "mode", "mode_arg",
+          "vars"}
 
 
 def test_scenes_are_well_formed():
@@ -24,7 +25,8 @@ def test_scenes_are_well_formed():
         assert ("mode" in s and "book" not in s) or -1 <= s["book"] <= 15   # mode scenes start a game mode, no book
         assert 0 <= s.get("room", 0) < 236
         assert s.get("stop_at", "title") in ("title", "titlemenu", "shelf", "prompt", "creation")
-        for step in s.get("post", "").split(";") if s.get("post") else []:
+        from warp import expand_repeats
+        for step in expand_repeats(s.get("post", "")).split(";") if s.get("post") else []:
             n, keys = step.split()
             assert int(n) > 0 and keys
 

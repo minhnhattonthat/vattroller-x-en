@@ -10,6 +10,7 @@ wrong place fails (exit 1). Default ROM: build/vattroller_x_en.gba if it exists,
 """
 import argparse
 import json
+import re
 import subprocess
 import sys
 from concurrent.futures import ThreadPoolExecutor
@@ -80,8 +81,15 @@ def node_addr(rom, node):
     return 0x08000000 + at
 
 
+def expand_repeats(route):
+    """'[6 down;24 -]*130' in a post route = those steps 130 times (long list walks)."""
+    return re.sub(r"\[([^\]]*)\]\*(\d+)", lambda m: ";".join([m.group(1)] * int(m.group(2))), route)
+
+
 def run(scene, rom, outroot, state, sheet):
     scene = with_premash(with_entry(scene))
+    if "post" in scene:
+        scene = {**scene, "post": expand_repeats(scene["post"])}
     out = outroot / scene["name"]
     cmd = [sys.executable, "-X", "utf8", str(Path(SKILL) / "scripts" / "emu.py"), str(rom), "--out", str(out),
            "--script", WARP.as_posix(), "--frames", str(scene.get("frames", 12000)), "--timeout", "600"]
@@ -97,6 +105,8 @@ def run(scene, rom, outroot, state, sheet):
         cmd += ["--var", f"NODE=0x{node_addr(rom, scene['node']):08X}"]
     for s in scene.get("scripts", []):
         cmd += ["--script", (ROOT / s).as_posix()]
+    for k, v in scene.get("vars", {}).items():  # globals for the scene's scripts, e.g. setbytes.lua's PTR/OFF/N
+        cmd += ["--var", f"{k}={v}"]
     if sheet:
         cmd += ["--shot-every", "120", "--sheet"]
     for extra in EXTRA:

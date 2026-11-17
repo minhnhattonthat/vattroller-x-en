@@ -26,7 +26,7 @@ local hold = HOLD or 240
 local phase, t0 = "boot", 0
 local loaded_room, warped = nil, false
 
-local function set_phase(p) phase = p; t0 = L.frame; L.log(string.format("f%d phase %s", L.frame, p)) end
+local function set_phase(p) phase = p; WARP_PHASE = p; t0 = L.frame; L.log(string.format("f%d phase %s", L.frame, p)) end
 
 -- NODE: CPU address of one event command (warp.py resolves scene field "node" from build/strings.tsv) that the
 -- script interpreter runs once, POST starting at the same time: at the step entry 0x08030B40 with no wait
