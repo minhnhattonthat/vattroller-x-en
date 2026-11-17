@@ -6160,8 +6160,8 @@
   "id": "r006364",
   "kind": "string",
   "jp": "ねらっている",
-  "en": "",
-  "status": "new",
+  "en": "his goal:",
+  "status": "done",
   "ptrs": [
    "0x2ad4"
   ],
@@ -6171,8 +6171,8 @@
   "id": "r006374",
   "kind": "string",
   "jp": "プロのランカー",
-  "en": "",
-  "status": "new",
+  "en": "a pro ranker,",
+  "status": "done",
   "ptrs": [
    "0x2ad8"
   ],
@@ -6182,8 +6182,8 @@
   "id": "r006384",
   "kind": "string",
   "jp": "攻げきじゅうしだ",
-  "en": "",
-  "status": "new",
+  "en": "attack-minded",
+  "status": "done",
   "ptrs": [
    "0x2adc"
   ],
@@ -6193,8 +6193,8 @@
   "id": "r00639c",
   "kind": "string",
   "jp": "ポプラ",
-  "en": "",
-  "status": "new",
+  "en": "Popura",
+  "status": "done",
   "ptrs": [
    "0x2b20"
   ],
@@ -6204,8 +6204,8 @@
   "id": "r0063a4",
   "kind": "string",
   "jp": "フッ",
-  "en": "",
-  "status": "new",
+  "en": "Heh",
+  "status": "done",
   "ptrs": [
    "0x2b24"
   ],
@@ -6215,8 +6215,8 @@
   "id": "r0063ac",
   "kind": "string",
   "jp": "いつもれいせい",
-  "en": "",
-  "status": "new",
+  "en": "Always calm",
+  "status": "done",
   "ptrs": [
    "0x2b28"
   ],
@@ -6226,8 +6226,8 @@
   "id": "r0063bc",
   "kind": "string",
   "jp": "アタックロールで",
-  "en": "",
-  "status": "new",
+  "en": "Attack Roll",
+  "status": "done",
   "ptrs": [
    "0x2b2c"
   ],
@@ -6237,8 +6237,8 @@
   "id": "r0063d0",
   "kind": "string",
   "jp": "ガンガン",
-  "en": "",
-  "status": "new",
+  "en": "nonstop",
+  "status": "done",
   "ptrs": [
    "0x2b30"
   ],
@@ -6248,8 +6248,8 @@
   "id": "r0063dc",
   "kind": "string",
   "jp": "攻げきするぞ",
-  "en": "",
-  "status": "new",
+  "en": "attacks!",
+  "status": "done",
   "ptrs": [
    "0x2b34"
   ],
@@ -6259,8 +6259,8 @@
   "id": "r0063f0",
   "kind": "string",
   "jp": "キク",
-  "en": "",
-  "status": "new",
+  "en": "Kiku",
+  "status": "done",
   "ptrs": [
    "0x2b78"
   ],
@@ -6270,8 +6270,8 @@
   "id": "r0063f8",
   "kind": "string",
   "jp": "もうおわりかい？",
-  "en": "",
-  "status": "new",
+  "en": "Done already?",
+  "status": "done",
   "ptrs": [
    "0x2b7c"
   ],
@@ -6281,8 +6281,8 @@
   "id": "r00640c",
   "kind": "string",
   "jp": "最年長の",
-  "en": "",
-  "status": "new",
+  "en": "Oldest",
+  "status": "done",
   "ptrs": [
    "0x2b80"
   ],
@@ -6292,8 +6292,8 @@
   "id": "r006418",
   "kind": "string",
   "jp": "バトローラー",
-  "en": "",
-  "status": "new",
+  "en": "Vattroller",
+  "status": "done",
   "ptrs": [
    "0x2b84"
   ],
@@ -6303,8 +6303,8 @@
   "id": "r006428",
   "kind": "string",
   "jp": "わかいものには",
-  "en": "",
-  "status": "new",
+  "en": "To the young",
+  "status": "done",
   "ptrs": [
    "0x2b88"
   ],
@@ -6314,8 +6314,8 @@
   "id": "r006438",
   "kind": "string",
   "jp": "負けません",
-  "en": "",
-  "status": "new",
+  "en": "won't lose",
+  "status": "done",
   "ptrs": [
    "0x2b8c"
   ],
@@ -6325,8 +6325,8 @@
   "id": "r006448",
   "kind": "string",
   "jp": "チトセ",
-  "en": "",
-  "status": "new",
+  "en": "Chitose",
+  "status": "done",
   "ptrs": [
    "0x2bd0"
   ],
@@ -6336,8 +6336,8 @@
   "id": "r006450",
   "kind": "string",
   "jp": "まけんです",
-  "en": "",
-  "status": "new",
+  "en": "No losing!",
+  "status": "done",
   "ptrs": [
    "0x2bd4"
   ],
@@ -6347,8 +6347,8 @@
   "id": "r00645c",
   "kind": "string",
   "jp": "田万里村の",
-  "en": "",
-  "status": "new",
+  "en": "Tamari",
+  "status": "done",
   "ptrs": [
    "0x2bd8"
   ],
@@ -6358,8 +6358,8 @@
   "id": "r006468",
   "kind": "string",
   "jp": "おせっきょう",
-  "en": "",
-  "status": "new",
+  "en": "preacher",
+  "status": "done",
   "ptrs": [
    "0x2bdc"
   ],
@@ -6369,8 +6369,8 @@
   "id": "r006478",
   "kind": "string",
   "jp": "バトローラー",
-  "en": "",
-  "status": "new",
+  "en": "Vattroller",
+  "status": "done",
   "ptrs": [
    "0x2be0"
   ],
@@ -6380,8 +6380,8 @@
   "id": "r006490",
   "kind": "string",
   "jp": "ウメ",
-  "en": "",
-  "status": "new",
+  "en": "Ume",
+  "status": "done",
   "ptrs": [
    "0x2c28"
   ],
@@ -6391,8 +6391,8 @@
   "id": "r006498",
   "kind": "string",
   "jp": "やりましたぞい",
-  "en": "",
-  "status": "new",
+  "en": "Did it, I did!",
+  "status": "done",
   "ptrs": [
    "0x2c2c"
   ],
@@ -6402,8 +6402,8 @@
   "id": "r0064a8",
   "kind": "string",
   "jp": "けんこうと",
-  "en": "",
-  "status": "new",
+  "en": "Health and",
+  "status": "done",
   "ptrs": [
    "0x2c30"
   ],
@@ -6413,8 +6413,8 @@
   "id": "r0064b4",
   "kind": "string",
   "jp": "長生きのひけつは",
-  "en": "",
-  "status": "new",
+  "en": "long-life key:",
+  "status": "done",
   "ptrs": [
    "0x2c34"
   ],
@@ -6424,8 +6424,8 @@
   "id": "r0064c8",
   "kind": "string",
   "jp": "バトローリング",
-  "en": "",
-  "status": "new",
+  "en": "Vattrolling",
+  "status": "done",
   "ptrs": [
    "0x2c38"
   ],
@@ -6435,8 +6435,8 @@
   "id": "r0064e0",
   "kind": "string",
   "jp": "ゾロ",
-  "en": "",
-  "status": "new",
+  "en": "Zoro",
+  "status": "done",
   "ptrs": [
    "0x2c80"
   ],
@@ -6446,8 +6446,8 @@
   "id": "r0064e8",
   "kind": "string",
   "jp": "オレはまけねェ！",
-  "en": "",
-  "status": "new",
+  "en": "I won't lose!",
+  "status": "done",
   "ptrs": [
    "0x2c84"
   ],
@@ -6457,8 +6457,8 @@
   "id": "r0064fc",
   "kind": "string",
   "jp": "めざすは",
-  "en": "",
-  "status": "new",
+  "en": "Goal:",
+  "status": "done",
   "ptrs": [
    "0x2c88"
   ],
@@ -6468,8 +6468,8 @@
   "id": "r006508",
   "kind": "string",
   "jp": "世界一の剣豪",
-  "en": "",
-  "status": "new",
+  "en": "world's best",
+  "status": "done",
   "ptrs": [
    "0x2c8c"
   ],
@@ -6479,8 +6479,8 @@
   "id": "r006518",
   "kind": "string",
   "jp": "海ぞくがりのゾロ",
-  "en": "",
-  "status": "new",
+  "en": "swordsman Zoro",
+  "status": "done",
   "ptrs": [
    "0x2c90"
   ],
@@ -6490,8 +6490,8 @@
   "id": "r006534",
   "kind": "string",
   "jp": "ビィト",
-  "en": "",
-  "status": "new",
+  "en": "Beet",
+  "status": "done",
   "ptrs": [
    "0x2cd8"
   ],
@@ -6501,8 +6501,8 @@
   "id": "r00653c",
   "kind": "string",
   "jp": "せかいはすげーな",
-  "en": "",
-  "status": "new",
+  "en": "Wow, the world!",
+  "status": "done",
   "ptrs": [
    "0x2cdc"
   ],
@@ -6512,8 +6512,8 @@
   "id": "r006550",
   "kind": "string",
   "jp": "暗黒のせいきを",
-  "en": "",
-  "status": "new",
+  "en": "Ends the Dark",
+  "status": "done",
   "ptrs": [
    "0x2ce0"
   ],
@@ -6523,8 +6523,8 @@
   "id": "r006560",
   "kind": "string",
   "jp": "終わらせる",
-  "en": "",
-  "status": "new",
+  "en": "Century",
+  "status": "done",
   "ptrs": [
    "0x2ce4"
   ],
@@ -6534,8 +6534,8 @@
   "id": "r00656c",
   "kind": "string",
   "jp": "ヴァンデル",
-  "en": "",
-  "status": "new",
+  "en": "Vandel",
+  "status": "done",
   "ptrs": [
    "0x2ce8"
   ],
@@ -6545,8 +6545,8 @@
   "id": "r006578",
   "kind": "string",
   "jp": "バスター・ビィト",
-  "en": "",
-  "status": "new",
+  "en": "Buster Beet",
+  "status": "done",
   "ptrs": [
    "0x2cec"
   ],
@@ -6556,8 +6556,8 @@
   "id": "r006590",
   "kind": "string",
   "jp": "コゲンタ",
-  "en": "",
-  "status": "new",
+  "en": "Kogenta",
+  "status": "done",
   "ptrs": [
    "0x2d30"
   ],
@@ -6567,8 +6567,8 @@
   "id": "r00659c",
   "kind": "string",
   "jp": "おせぇわ　おまえ",
-  "en": "",
-  "status": "new",
+  "en": "Too slow, you.",
+  "status": "done",
   "ptrs": [
    "0x2d34"
   ],
@@ -6578,8 +6578,8 @@
   "id": "r0065b0",
   "kind": "string",
   "jp": "しんらいを",
-  "en": "",
-  "status": "new",
+  "en": "Lightning",
+  "status": "done",
   "ptrs": [
    "0x2d38"
   ],
@@ -6589,8 +6589,8 @@
   "id": "r0065bc",
   "kind": "string",
   "jp": "つかさどる式神",
-  "en": "",
-  "status": "new",
+  "en": "shikigami",
+  "status": "done",
   "ptrs": [
    "0x2d3c"
   ],
@@ -6600,8 +6600,8 @@
   "id": "r0065cc",
   "kind": "string",
   "jp": "びゃっこの",
-  "en": "",
-  "status": "new",
+  "en": "Byakko's",
+  "status": "done",
   "ptrs": [
    "0x2d40"
   ],
@@ -6611,8 +6611,8 @@
   "id": "r0065d8",
   "kind": "string",
   "jp": "コゲンタ",
-  "en": "",
-  "status": "new",
+  "en": "Kogenta",
+  "status": "done",
   "ptrs": [
    "0x2d44"
   ],
@@ -6622,8 +6622,8 @@
   "id": "r0065e8",
   "kind": "string",
   "jp": "おとこのこ",
-  "en": "",
-  "status": "new",
+  "en": "Boy",
+  "status": "done",
   "ptrs": [
    "0x2d88"
   ],
@@ -6633,8 +6633,8 @@
   "id": "r00660c",
   "kind": "string",
   "jp": "がくせい",
-  "en": "",
-  "status": "new",
+  "en": "Student",
+  "status": "done",
   "ptrs": [
    "0x2de0"
   ],
@@ -6644,8 +6644,8 @@
   "id": "r006630",
   "kind": "string",
   "jp": "へっどほん",
-  "en": "",
-  "status": "new",
+  "en": "Headphone",
+  "status": "done",
   "ptrs": [
    "0x2e38"
   ],
@@ -6655,8 +6655,8 @@
   "id": "r006654",
   "kind": "string",
   "jp": "かくがり",
-  "en": "",
-  "status": "new",
+  "en": "Crewcut",
+  "status": "done",
   "ptrs": [
    "0x2e90"
   ],
@@ -6666,8 +6666,8 @@
   "id": "r006678",
   "kind": "string",
   "jp": "おじさん",
-  "en": "",
-  "status": "new",
+  "en": "Mister",
+  "status": "done",
   "ptrs": [
    "0x2ee8"
   ],
@@ -6677,8 +6677,8 @@
   "id": "r00669c",
   "kind": "string",
   "jp": "ふとり",
-  "en": "",
-  "status": "new",
+  "en": "Chubby",
+  "status": "done",
   "ptrs": [
    "0x2f40"
   ],
@@ -6688,8 +6688,8 @@
   "id": "r0066bc",
   "kind": "string",
   "jp": "あふろ",
-  "en": "",
-  "status": "new",
+  "en": "Afro",
+  "status": "done",
   "ptrs": [
    "0x2f98"
   ],
@@ -6699,8 +6699,8 @@
   "id": "r0066dc",
   "kind": "string",
   "jp": "サングラス",
-  "en": "",
-  "status": "new",
+  "en": "Shades",
+  "status": "done",
   "ptrs": [
    "0x2ff0"
   ],
@@ -6710,8 +6710,8 @@
   "id": "r006700",
   "kind": "string",
   "jp": "ぱんく",
-  "en": "",
-  "status": "new",
+  "en": "Punk",
+  "status": "done",
   "ptrs": [
    "0x3048"
   ],
@@ -6721,8 +6721,8 @@
   "id": "r006720",
   "kind": "string",
   "jp": "レスラー",
-  "en": "",
-  "status": "new",
+  "en": "Brawler",
+  "status": "done",
   "ptrs": [
    "0x30a0"
   ],
@@ -6732,8 +6732,8 @@
   "id": "r006744",
   "kind": "string",
   "jp": "おにいさん",
-  "en": "",
-  "status": "new",
+  "en": "Young man",
+  "status": "done",
   "ptrs": [
    "0x30f8"
   ],
@@ -6743,8 +6743,8 @@
   "id": "r006768",
   "kind": "string",
   "jp": "おじいさん",
-  "en": "",
-  "status": "new",
+  "en": "Grandpa",
+  "status": "done",
   "ptrs": [
    "0x3150"
   ],
@@ -6754,8 +6754,8 @@
   "id": "r00678c",
   "kind": "string",
   "jp": "おんなのこ",
-  "en": "",
-  "status": "new",
+  "en": "Girl",
+  "status": "done",
   "ptrs": [
    "0x31a8"
   ],
@@ -6765,8 +6765,8 @@
   "id": "r0067b0",
   "kind": "string",
   "jp": "ろんぐ",
-  "en": "",
-  "status": "new",
+  "en": "Long",
+  "status": "done",
   "ptrs": [
    "0x3200"
   ],
@@ -6776,8 +6776,8 @@
   "id": "r0067d0",
   "kind": "string",
   "jp": "しょーと",
-  "en": "",
-  "status": "new",
+  "en": "Short",
+  "status": "done",
   "ptrs": [
    "0x3258"
   ],
@@ -6787,8 +6787,8 @@
   "id": "r0067f4",
   "kind": "string",
   "jp": "ぽっちゃり",
-  "en": "",
-  "status": "new",
+  "en": "Plump",
+  "status": "done",
   "ptrs": [
    "0x32b0"
   ],
@@ -6798,8 +6798,8 @@
   "id": "r006818",
   "kind": "string",
   "jp": "ままさん",
-  "en": "",
-  "status": "new",
+  "en": "Mom",
+  "status": "done",
   "ptrs": [
    "0x3308"
   ],
@@ -6809,8 +6809,8 @@
   "id": "r00683c",
   "kind": "string",
   "jp": "かっぱつ",
-  "en": "",
-  "status": "new",
+  "en": "Lively",
+  "status": "done",
   "ptrs": [
    "0x3360"
   ],
@@ -6820,8 +6820,8 @@
   "id": "r006860",
   "kind": "string",
   "jp": "おねえさん",
-  "en": "",
-  "status": "new",
+  "en": "Young lady",
+  "status": "done",
   "ptrs": [
    "0x33b8"
   ],
@@ -6831,8 +6831,8 @@
   "id": "r006884",
   "kind": "string",
   "jp": "おばあさん",
-  "en": "",
-  "status": "new",
+  "en": "Granny",
+  "status": "done",
   "ptrs": [
    "0x3410"
   ],
@@ -6842,8 +6842,8 @@
   "id": "r0068a8",
   "kind": "string",
   "jp": "マール",
-  "en": "",
-  "status": "new",
+  "en": "Marl",
+  "status": "done",
   "ptrs": [
    "0x3468"
   ],
@@ -6853,8 +6853,8 @@
   "id": "r0068c8",
   "kind": "string",
   "jp": "タイラー",
-  "en": "",
-  "status": "new",
+  "en": "Tyler",
+  "status": "done",
   "ptrs": [
    "0x34c0"
   ],
@@ -6864,8 +6864,8 @@
   "id": "r0068ec",
   "kind": "string",
   "jp": "シミズ",
-  "en": "",
-  "status": "new",
+  "en": "Shimizu",
+  "status": "done",
   "ptrs": [
    "0x3518"
   ],
@@ -6875,8 +6875,8 @@
   "id": "r00690c",
   "kind": "string",
   "jp": "ムチャピー",
-  "en": "",
-  "status": "new",
+  "en": "Muchapy",
+  "status": "done",
   "ptrs": [
    "0x3570"
   ],
@@ -6886,8 +6886,8 @@
   "id": "r006930",
   "kind": "string",
   "jp": "コダマ",
-  "en": "",
-  "status": "new",
+  "en": "Kodama",
+  "status": "done",
   "ptrs": [
    "0x35c8"
   ],
@@ -6897,8 +6897,8 @@
   "id": "r006950",
   "kind": "string",
   "jp": "てんいんさん",
-  "en": "",
-  "status": "new",
+  "en": "Clerk",
+  "status": "done",
   "ptrs": [
    "0x3620"
   ],
@@ -6908,8 +6908,8 @@
   "id": "r006978",
   "kind": "string",
   "jp": "てんいんくん",
-  "en": "",
-  "status": "new",
+  "en": "Clerk boy",
+  "status": "done",
   "ptrs": [
    "0x3678"
   ],
@@ -6919,8 +6919,8 @@
   "id": "r0069a0",
   "kind": "string",
   "jp": "テンインさん",
-  "en": "",
-  "status": "new",
+  "en": "Shop clerk",
+  "status": "done",
   "ptrs": [
    "0x36d0"
   ],
@@ -6930,8 +6930,8 @@
   "id": "r0069c8",
   "kind": "string",
   "jp": "カナタ",
-  "en": "",
-  "status": "new",
+  "en": "Kanata",
+  "status": "done",
   "ptrs": [
    "0x3728"
   ],
@@ -6941,8 +6941,8 @@
   "id": "r0069e8",
   "kind": "string",
   "jp": "てんちょう",
-  "en": "",
-  "status": "new",
+  "en": "Manager",
+  "status": "done",
   "ptrs": [
    "0x3780"
   ],
@@ -6952,8 +6952,8 @@
   "id": "r006a0c",
   "kind": "string",
   "jp": "うけつけさん",
-  "en": "",
-  "status": "new",
+  "en": "Receptionist",
+  "status": "done",
   "ptrs": [
    "0x37d8"
   ],
@@ -6963,8 +6963,8 @@
   "id": "r006a34",
   "kind": "string",
   "jp": "あんないさん",
-  "en": "",
-  "status": "new",
+  "en": "Guide",
+  "status": "done",
   "ptrs": [
    "0x3830"
   ],
@@ -6974,8 +6974,8 @@
   "id": "r006a5c",
   "kind": "string",
   "jp": "バトルさん",
-  "en": "",
-  "status": "new",
+  "en": "Battle guy",
+  "status": "done",
   "ptrs": [
    "0x3888"
   ],
@@ -6985,8 +6985,8 @@
   "id": "r006a80",
   "kind": "string",
   "jp": "ウケツケさん",
-  "en": "",
-  "status": "new",
+  "en": "Front desk",
+  "status": "done",
   "ptrs": [
    "0x38e0"
   ],
@@ -6996,8 +6996,8 @@
   "id": "r006aa8",
   "kind": "string",
   "jp": "せんせい１",
-  "en": "",
-  "status": "new",
+  "en": "Teacher 1",
+  "status": "done",
   "ptrs": [
    "0x3938"
   ],
@@ -7007,8 +7007,8 @@
   "id": "r006acc",
   "kind": "string",
   "jp": "せんせい２",
-  "en": "",
-  "status": "new",
+  "en": "Teacher 2",
+  "status": "done",
   "ptrs": [
    "0x3990"
   ],
@@ -7018,8 +7018,8 @@
   "id": "r006af0",
   "kind": "string",
   "jp": "かんごふ",
-  "en": "",
-  "status": "new",
+  "en": "Nurse",
+  "status": "done",
   "ptrs": [
    "0x39e8"
   ],
@@ -7029,8 +7029,8 @@
   "id": "r006b14",
   "kind": "string",
   "jp": "けいび",
-  "en": "",
-  "status": "new",
+  "en": "Guard",
+  "status": "done",
   "ptrs": [
    "0x3a40"
   ],
@@ -7040,8 +7040,8 @@
   "id": "r006b34",
   "kind": "string",
   "jp": "はかせ",
-  "en": "",
-  "status": "new",
+  "en": "Doctor",
+  "status": "done",
   "ptrs": [
    "0x3a98"
   ],
@@ -7051,8 +7051,8 @@
   "id": "r006b54",
   "kind": "string",
   "jp": "シャーク",
-  "en": "",
-  "status": "new",
+  "en": "Shark",
+  "status": "done",
   "ptrs": [
    "0x3af0"
   ],
@@ -7062,8 +7062,8 @@
   "id": "r006b78",
   "kind": "string",
   "jp": "ヒールサラ",
-  "en": "",
-  "status": "new",
+  "en": "Heal Sala",
+  "status": "done",
   "ptrs": [
    "0x3b48"
   ],
@@ -7073,8 +7073,8 @@
   "id": "r006b9c",
   "kind": "string",
   "jp": "ヒールライ",
-  "en": "",
-  "status": "new",
+  "en": "Heal Lio",
+  "status": "done",
   "ptrs": [
    "0x3ba0"
   ],
@@ -7084,8 +7084,8 @@
   "id": "r006bc0",
   "kind": "string",
   "jp": "ヒールファイ",
-  "en": "",
-  "status": "new",
+  "en": "Heal Fire",
+  "status": "done",
   "ptrs": [
    "0x3bf8"
   ],
@@ -7095,8 +7095,8 @@
   "id": "r006be8",
   "kind": "string",
   "jp": "ファイルコン",
-  "en": "",
-  "status": "new",
+  "en": "Firecon",
+  "status": "done",
   "ptrs": [
    "0x3c50"
   ],
@@ -7106,8 +7106,8 @@
   "id": "r006c10",
   "kind": "string",
   "jp": "ベルゼーブ",
-  "en": "",
-  "status": "new",
+  "en": "Beelzeb",
+  "status": "done",
   "ptrs": [
    "0x3ca8"
   ],
@@ -7117,8 +7117,8 @@
   "id": "r006c34",
   "kind": "string",
   "jp": "ファイバード",
-  "en": "",
-  "status": "new",
+  "en": "Firebird",
+  "status": "done",
   "ptrs": [
    "0x3d00"
   ],
@@ -7128,8 +7128,8 @@
   "id": "r006c5c",
   "kind": "string",
   "jp": "みていぎ１",
-  "en": "",
-  "status": "new",
+  "en": "Undef. 1",
+  "status": "done",
   "ptrs": [
    "0x3d58"
   ],
@@ -7139,8 +7139,8 @@
   "id": "r006c80",
   "kind": "string",
   "jp": "みていぎ２",
-  "en": "",
-  "status": "new",
+  "en": "Undef. 2",
+  "status": "done",
   "ptrs": [
    "0x3db0"
   ],
@@ -7150,8 +7150,8 @@
   "id": "r006ca4",
   "kind": "string",
   "jp": "とびら１",
-  "en": "",
-  "status": "new",
+  "en": "Door 1",
+  "status": "done",
   "ptrs": [
    "0x3e08"
   ],
@@ -7161,8 +7161,8 @@
   "id": "r006cc8",
   "kind": "string",
   "jp": "とびら２",
-  "en": "",
-  "status": "new",
+  "en": "Door 2",
+  "status": "done",
   "ptrs": [
    "0x3e60"
   ],
@@ -7172,8 +7172,8 @@
   "id": "r006cec",
   "kind": "string",
   "jp": "とびら３",
-  "en": "",
-  "status": "new",
+  "en": "Door 3",
+  "status": "done",
   "ptrs": [
    "0x3eb8"
   ],
@@ -7183,8 +7183,8 @@
   "id": "r006d10",
   "kind": "string",
   "jp": "とびら４",
-  "en": "",
-  "status": "new",
+  "en": "Door 4",
+  "status": "done",
   "ptrs": [
    "0x3f10"
   ],
@@ -7194,8 +7194,8 @@
   "id": "r006d34",
   "kind": "string",
   "jp": "とびら５",
-  "en": "",
-  "status": "new",
+  "en": "Door 5",
+  "status": "done",
   "ptrs": [
    "0x3f68"
   ],
@@ -7205,8 +7205,8 @@
   "id": "r006d58",
   "kind": "string",
   "jp": "とびら６",
-  "en": "",
-  "status": "new",
+  "en": "Door 6",
+  "status": "done",
   "ptrs": [
    "0x3fc0"
   ],
@@ -7216,8 +7216,8 @@
   "id": "r006d7c",
   "kind": "string",
   "jp": "とびら７",
-  "en": "",
-  "status": "new",
+  "en": "Door 7",
+  "status": "done",
   "ptrs": [
    "0x4018"
   ],
@@ -7227,8 +7227,8 @@
   "id": "r006da0",
   "kind": "string",
   "jp": "とびら８",
-  "en": "",
-  "status": "new",
+  "en": "Door 8",
+  "status": "done",
   "ptrs": [
    "0x4070"
   ],
@@ -7238,8 +7238,8 @@
   "id": "r006dc4",
   "kind": "string",
   "jp": "アーム",
-  "en": "",
-  "status": "new",
+  "en": "Arm",
+  "status": "done",
   "ptrs": [
    "0x40c8"
   ],
@@ -7249,8 +7249,8 @@
   "id": "r006de4",
   "kind": "string",
   "jp": "ひでんしょ",
-  "en": "",
-  "status": "new",
+  "en": "Scroll",
+  "status": "done",
   "ptrs": [
    "0x4120"
   ],
@@ -7260,8 +7260,8 @@
   "id": "r006e08",
   "kind": "string",
   "jp": "おべんと",
-  "en": "",
-  "status": "new",
+  "en": "Bento",
+  "status": "done",
   "ptrs": [
    "0x4178"
   ],
@@ -7271,8 +7271,8 @@
   "id": "r006e2c",
   "kind": "string",
   "jp": "てがみ",
-  "en": "",
-  "status": "new",
+  "en": "Letter",
+  "status": "done",
   "ptrs": [
    "0x41d0"
   ],
@@ -7282,8 +7282,8 @@
   "id": "r006e4c",
   "kind": "string",
   "jp": "おちば",
-  "en": "",
-  "status": "new",
+  "en": "Leaves",
+  "status": "done",
   "ptrs": [
    "0x4228"
   ],
@@ -7293,8 +7293,8 @@
   "id": "r006e6c",
   "kind": "string",
   "jp": "くり",
-  "en": "",
-  "status": "new",
+  "en": "Nuts",
+  "status": "done",
   "ptrs": [
    "0x4280"
   ],
@@ -7304,8 +7304,8 @@
   "id": "r006e8c",
   "kind": "string",
   "jp": "やきいも",
-  "en": "",
-  "status": "new",
+  "en": "Hot yam",
+  "status": "done",
   "ptrs": [
    "0x42d8"
   ],
@@ -7315,8 +7315,8 @@
   "id": "r006eb0",
   "kind": "string",
   "jp": "たまご",
-  "en": "",
-  "status": "new",
+  "en": "Egg",
+  "status": "done",
   "ptrs": [
    "0x4330"
   ],
@@ -7326,8 +7326,8 @@
   "id": "r006ed0",
   "kind": "string",
   "jp": "すいか",
-  "en": "",
-  "status": "new",
+  "en": "Melon",
+  "status": "done",
   "ptrs": [
    "0x4388"
   ],
@@ -7337,8 +7337,8 @@
   "id": "r006ef0",
   "kind": "string",
   "jp": "ひ",
-  "en": "",
-  "status": "new",
+  "en": "Fire",
+  "status": "done",
   "ptrs": [
    "0x43e0"
   ],
@@ -7348,8 +7348,8 @@
   "id": "r006f0c",
   "kind": "string",
   "jp": "はっこう",
-  "en": "",
-  "status": "new",
+  "en": "Issue",
+  "status": "done",
   "ptrs": [
    "0x4438"
   ],
@@ -7359,8 +7359,8 @@
   "id": "r006f30",
   "kind": "string",
   "jp": "やまテレビ",
-  "en": "",
-  "status": "new",
+  "en": "Yama TV",
+  "status": "done",
   "ptrs": [
    "0x4490"
   ],
@@ -7370,8 +7370,8 @@
   "id": "r006f54",
   "kind": "string",
   "jp": "みんかテレビ",
-  "en": "",
-  "status": "new",
+  "en": "Minka TV",
+  "status": "done",
   "ptrs": [
    "0x44e8"
   ],
@@ -7381,8 +7381,8 @@
   "id": "r006f7c",
   "kind": "string",
   "jp": "コロテレビ",
-  "en": "",
-  "status": "new",
+  "en": "Koro TV",
+  "status": "done",
   "ptrs": [
    "0x4540"
   ],
@@ -7392,8 +7392,8 @@
   "id": "r007330",
   "kind": "string",
   "jp": "サラマンド",
-  "en": "",
-  "status": "new",
+  "en": "Salamand",
+  "status": "done",
   "ptrs": [
    "0x7080"
   ],
@@ -7403,8 +7403,8 @@
   "id": "r00733c",
   "kind": "string",
   "jp": "こうげき力が高い",
-  "en": "",
-  "status": "new",
+  "en": "High attack",
+  "status": "done",
   "ptrs": [
    "0x7084"
   ],
@@ -7414,8 +7414,8 @@
   "id": "r007350",
   "kind": "string",
   "jp": "火トカゲの",
-  "en": "",
-  "status": "new",
+  "en": "Fire newt",
+  "status": "done",
   "ptrs": [
    "0x7088"
   ],
@@ -7425,8 +7425,8 @@
   "id": "r00735c",
   "kind": "string",
   "jp": "アーマレット",
-  "en": "",
-  "status": "new",
+  "en": "Armalet",
+  "status": "done",
   "ptrs": [
    "0x708c"
   ],
@@ -7436,8 +7436,8 @@
   "id": "r007370",
   "kind": "string",
   "jp": "フェンリー",
-  "en": "",
-  "status": "new",
+  "en": "Fenrie",
+  "status": "done",
   "ptrs": [
    "0x70a4"
   ],
@@ -7447,8 +7447,8 @@
   "id": "r00737c",
   "kind": "string",
   "jp": "ＨＰいがいは強い",
-  "en": "",
-  "status": "new",
+  "en": "Strong save HP",
+  "status": "done",
   "ptrs": [
    "0x70a8"
   ],
@@ -7458,8 +7458,8 @@
   "id": "r007390",
   "kind": "string",
   "jp": "オオカミの",
-  "en": "",
-  "status": "new",
+  "en": "Wolf",
+  "status": "done",
   "ptrs": [
    "0x70ac"
   ],
@@ -7469,8 +7469,8 @@
   "id": "r00739c",
   "kind": "string",
   "jp": "アーマレット",
-  "en": "",
-  "status": "new",
+  "en": "Armalet",
+  "status": "done",
   "ptrs": [
    "0x70b0"
   ],
@@ -7480,8 +7480,8 @@
   "id": "r0073b0",
   "kind": "string",
   "jp": "ユニホース",
-  "en": "",
-  "status": "new",
+  "en": "Unihorse",
+  "status": "done",
   "ptrs": [
    "0x70c8"
   ],
@@ -7491,8 +7491,8 @@
   "id": "r0073bc",
   "kind": "string",
   "jp": "バランスの取れた",
-  "en": "",
-  "status": "new",
+  "en": "Well-balanced",
+  "status": "done",
   "ptrs": [
    "0x70cc"
   ],
@@ -7502,8 +7502,8 @@
   "id": "r0073d0",
   "kind": "string",
   "jp": "一角じゅうの",
-  "en": "",
-  "status": "new",
+  "en": "unicorn",
+  "status": "done",
   "ptrs": [
    "0x70d0"
   ],
@@ -7513,8 +7513,8 @@
   "id": "r0073e0",
   "kind": "string",
   "jp": "アーマレット",
-  "en": "",
-  "status": "new",
+  "en": "Armalet",
+  "status": "done",
   "ptrs": [
    "0x70d4"
   ],
@@ -7524,8 +7524,8 @@
   "id": "r0073f0",
   "kind": "string",
   "jp": "初心者向け",
-  "en": "",
-  "status": "new",
+  "en": "beginners",
+  "status": "done",
   "ptrs": [
    "0x70d8"
   ],
@@ -7535,8 +7535,8 @@
   "id": "r0073fc",
   "kind": "string",
   "jp": "ニャティー",
-  "en": "",
-  "status": "new",
+  "en": "Nyatty",
+  "status": "done",
   "ptrs": [
    "0x70ec"
   ],
@@ -7546,8 +7546,8 @@
   "id": "r007408",
   "kind": "string",
   "jp": "オーラとスピードが",
-  "en": "",
-  "status": "new",
+  "en": "Aura and speed",
+  "status": "done",
   "ptrs": [
    "0x70f0"
   ],
@@ -7557,8 +7557,8 @@
   "id": "r00741c",
   "kind": "string",
   "jp": "少しトクイな",
-  "en": "",
-  "status": "new",
+  "en": "a bit good,",
+  "status": "done",
   "ptrs": [
    "0x70f4"
   ],
@@ -7568,8 +7568,8 @@
   "id": "r00742c",
   "kind": "string",
   "jp": "ネコのアーマレット",
-  "en": "",
-  "status": "new",
+  "en": "Cat Armalet",
+  "status": "done",
   "ptrs": [
    "0x70f8"
   ],
@@ -7579,8 +7579,8 @@
   "id": "r007444",
   "kind": "string",
   "jp": "ゲンブール",
-  "en": "",
-  "status": "new",
+  "en": "Genbull",
+  "status": "done",
   "ptrs": [
    "0x7110"
   ],
@@ -7590,8 +7590,8 @@
   "id": "r007450",
   "kind": "string",
   "jp": "ＨＰとサイズが",
-  "en": "",
-  "status": "new",
+  "en": "Lots of HP,",
+  "status": "done",
   "ptrs": [
    "0x7114"
   ],
@@ -7601,8 +7601,8 @@
   "id": "r007460",
   "kind": "string",
   "jp": "多いゲンブの",
-  "en": "",
-  "status": "new",
+  "en": "Size: turtle",
+  "status": "done",
   "ptrs": [
    "0x7118"
   ],
@@ -7612,8 +7612,8 @@
   "id": "r007470",
   "kind": "string",
   "jp": "アーマレット",
-  "en": "",
-  "status": "new",
+  "en": "Armalet",
+  "status": "done",
   "ptrs": [
    "0x711c"
   ],
@@ -7623,8 +7623,8 @@
   "id": "r007484",
   "kind": "string",
   "jp": "ファルコーン",
-  "en": "",
-  "status": "new",
+  "en": "Falcorn",
+  "status": "done",
   "ptrs": [
    "0x7134"
   ],
@@ -7634,8 +7634,8 @@
   "id": "r007494",
   "kind": "string",
   "jp": "もっともスピードが",
-  "en": "",
-  "status": "new",
+  "en": "Fastest of all:",
+  "status": "done",
   "ptrs": [
    "0x7138"
   ],
@@ -7645,8 +7645,8 @@
   "id": "r0074a8",
   "kind": "string",
   "jp": "速いハヤブサの",
-  "en": "",
-  "status": "new",
+  "en": "the falcon",
+  "status": "done",
   "ptrs": [
    "0x713c"
   ],
@@ -7656,8 +7656,8 @@
   "id": "r0074b8",
   "kind": "string",
   "jp": "アーマレット",
-  "en": "",
-  "status": "new",
+  "en": "Armalet",
+  "status": "done",
   "ptrs": [
    "0x7140"
   ],
@@ -7667,8 +7667,8 @@
   "id": "r0074cc",
   "kind": "string",
   "jp": "エンジェラン",
-  "en": "",
-  "status": "new",
+  "en": "Angelan",
+  "status": "done",
   "ptrs": [
    "0x7158"
   ],
@@ -7678,8 +7678,8 @@
   "id": "r0074dc",
   "kind": "string",
   "jp": "オーラ全体が強い",
-  "en": "",
-  "status": "new",
+  "en": "Strong aura",
+  "status": "done",
   "ptrs": [
    "0x715c"
   ],
@@ -7689,8 +7689,8 @@
   "id": "r0074f0",
   "kind": "string",
   "jp": "天使のアーマレット",
-  "en": "",
-  "status": "new",
+  "en": "Angel Armalet",
+  "status": "done",
   "ptrs": [
    "0x7160"
   ],
@@ -7700,8 +7700,8 @@
   "id": "r00750c",
   "kind": "string",
   "jp": "クラッケン",
-  "en": "",
-  "status": "new",
+  "en": "Kraken",
+  "status": "done",
   "ptrs": [
    "0x717c"
   ],
@@ -7711,8 +7711,8 @@
   "id": "r007518",
   "kind": "string",
   "jp": "サイズが多い海の",
-  "en": "",
-  "status": "new",
+  "en": "Lots of Size;",
+  "status": "done",
   "ptrs": [
    "0x7180"
   ],
@@ -7722,8 +7722,8 @@
   "id": "r00752c",
   "kind": "string",
   "jp": "かいぶつがモデルの",
-  "en": "",
-  "status": "new",
+  "en": "sea-monster",
+  "status": "done",
   "ptrs": [
    "0x7184"
   ],
@@ -7733,8 +7733,8 @@
   "id": "r007540",
   "kind": "string",
   "jp": "アーマレット",
-  "en": "",
-  "status": "new",
+  "en": "Armalet",
+  "status": "done",
   "ptrs": [
    "0x7188"
   ],
@@ -7744,8 +7744,8 @@
   "id": "r007554",
   "kind": "string",
   "jp": "ゴラムス",
-  "en": "",
-  "status": "new",
+  "en": "Golamus",
+  "status": "done",
   "ptrs": [
    "0x71a0"
   ],
@@ -7755,8 +7755,8 @@
   "id": "r007560",
   "kind": "string",
   "jp": "こうげきとＨＰが",
-  "en": "",
-  "status": "new",
+  "en": "Attack and HP",
+  "status": "done",
   "ptrs": [
    "0x71a4"
   ],
@@ -7766,8 +7766,8 @@
   "id": "r007574",
   "kind": "string",
   "jp": "とても高い",
-  "en": "",
-  "status": "new",
+  "en": "very high;",
+  "status": "done",
   "ptrs": [
    "0x71a8"
   ],
@@ -7777,8 +7777,8 @@
   "id": "r007580",
   "kind": "string",
   "jp": "土のきょじんの",
-  "en": "",
-  "status": "new",
+  "en": "earth giant",
+  "status": "done",
   "ptrs": [
    "0x71ac"
   ],
@@ -7788,8 +7788,8 @@
   "id": "r007590",
   "kind": "string",
   "jp": "アーマレット",
-  "en": "",
-  "status": "new",
+  "en": "Armalet",
+  "status": "done",
   "ptrs": [
    "0x71b0"
   ],
@@ -7799,8 +7799,8 @@
   "id": "r0075a0",
   "kind": "string",
   "jp": "ドラグーン",
-  "en": "",
-  "status": "new",
+  "en": "Dragoon",
+  "status": "done",
   "ptrs": [
    "0x71c4"
   ],
@@ -7810,8 +7810,8 @@
   "id": "r0075ac",
   "kind": "string",
   "jp": "バランスが良い",
-  "en": "",
-  "status": "new",
+  "en": "Well-balanced",
+  "status": "done",
   "ptrs": [
    "0x71c8"
   ],
@@ -7821,8 +7821,8 @@
   "id": "r0075bc",
   "kind": "string",
   "jp": "ドラゴンの",
-  "en": "",
-  "status": "new",
+  "en": "Dragon",
+  "status": "done",
   "ptrs": [
    "0x71cc"
   ],
@@ -7832,8 +7832,8 @@
   "id": "r0075c8",
   "kind": "string",
   "jp": "アーマレット",
-  "en": "",
-  "status": "new",
+  "en": "Armalet",
+  "status": "done",
   "ptrs": [
    "0x71d0"
   ],
@@ -7843,8 +7843,8 @@
   "id": "r0075dc",
   "kind": "string",
   "jp": "ライオネル",
-  "en": "",
-  "status": "new",
+  "en": "Lionel",
+  "status": "done",
   "ptrs": [
    "0x71e8"
   ],
@@ -7854,8 +7854,8 @@
   "id": "r0075e8",
   "kind": "string",
   "jp": "こうげき全体が高い",
-  "en": "",
-  "status": "new",
+  "en": "All attacks high",
+  "status": "done",
   "ptrs": [
    "0x71ec"
   ],
@@ -7865,8 +7865,8 @@
   "id": "r0075fc",
   "kind": "string",
   "jp": "ライオンの",
-  "en": "",
-  "status": "new",
+  "en": "Lion",
+  "status": "done",
   "ptrs": [
    "0x71f0"
   ],
@@ -7876,8 +7876,8 @@
   "id": "r007608",
   "kind": "string",
   "jp": "アーマレット",
-  "en": "",
-  "status": "new",
+  "en": "Armalet",
+  "status": "done",
   "ptrs": [
    "0x71f4"
   ],
@@ -7887,8 +7887,8 @@
   "id": "r00761c",
   "kind": "string",
   "jp": "アシュラム",
-  "en": "",
-  "status": "new",
+  "en": "Ashram",
+  "status": "done",
   "ptrs": [
    "0x720c"
   ],
@@ -7898,8 +7898,8 @@
   "id": "r007628",
   "kind": "string",
   "jp": "サイズが一番多い",
-  "en": "",
-  "status": "new",
+  "en": "Most Size of all",
+  "status": "done",
   "ptrs": [
    "0x7210"
   ],
@@ -7909,8 +7909,8 @@
   "id": "r00763c",
   "kind": "string",
   "jp": "戦いの神の",
-  "en": "",
-  "status": "new",
+  "en": "War god",
+  "status": "done",
   "ptrs": [
    "0x7214"
   ],
@@ -7920,8 +7920,8 @@
   "id": "r007648",
   "kind": "string",
   "jp": "アーマレット",
-  "en": "",
-  "status": "new",
+  "en": "Armalet",
+  "status": "done",
   "ptrs": [
    "0x7218"
   ],
@@ -7931,8 +7931,8 @@
   "id": "r00765c",
   "kind": "string",
   "jp": "デスロード",
-  "en": "",
-  "status": "new",
+  "en": "Death Lord",
+  "status": "done",
   "ptrs": [
    "0x7230"
   ],
@@ -7942,8 +7942,8 @@
   "id": "r007668",
   "kind": "string",
   "jp": "とてつもなく",
-  "en": "",
-  "status": "new",
+  "en": "Incredibly",
+  "status": "done",
   "ptrs": [
    "0x7234"
   ],
@@ -7953,8 +7953,8 @@
   "id": "r007678",
   "kind": "string",
   "jp": "ロールが強い",
-  "en": "",
-  "status": "new",
+  "en": "mighty Roll",
+  "status": "done",
   "ptrs": [
    "0x7238"
   ],
@@ -7964,8 +7964,8 @@
   "id": "r007688",
   "kind": "string",
   "jp": "死神のアーマレット",
-  "en": "",
-  "status": "new",
+  "en": "Reaper Armalet",
+  "status": "done",
   "ptrs": [
    "0x723c"
   ],
@@ -7975,8 +7975,8 @@
   "id": "r0076a0",
   "kind": "string",
   "jp": "ベルゼーブ",
-  "en": "",
-  "status": "new",
+  "en": "Beelzeb",
+  "status": "done",
   "ptrs": [
    "0x7254"
   ],
@@ -7986,8 +7986,8 @@
   "id": "r0076ac",
   "kind": "string",
   "jp": "オーラがとても強い",
-  "en": "",
-  "status": "new",
+  "en": "Very strong aura",
+  "status": "done",
   "ptrs": [
    "0x7258"
   ],
@@ -7997,8 +7997,8 @@
   "id": "r0076c0",
   "kind": "string",
   "jp": "アクマの王の",
-  "en": "",
-  "status": "new",
+  "en": "Demon king",
+  "status": "done",
   "ptrs": [
    "0x725c"
   ],
@@ -8008,8 +8008,8 @@
   "id": "r0076d0",
   "kind": "string",
   "jp": "アーマレット",
-  "en": "",
-  "status": "new",
+  "en": "Armalet",
+  "status": "done",
   "ptrs": [
    "0x7260"
   ],
@@ -8019,8 +8019,8 @@
   "id": "r0076e4",
   "kind": "string",
   "jp": "エンペリオル",
-  "en": "",
-  "status": "new",
+  "en": "Emperiol",
+  "status": "done",
   "ptrs": [
    "0x7278"
   ],
@@ -8030,8 +8030,8 @@
   "id": "r0076f4",
   "kind": "string",
   "jp": "人タイプが強い",
-  "en": "",
-  "status": "new",
+  "en": "Strong in body",
+  "status": "done",
   "ptrs": [
    "0x727c"
   ],
@@ -8041,8 +8041,8 @@
   "id": "r007704",
   "kind": "string",
   "jp": "ゴールドナイトの",
-  "en": "",
-  "status": "new",
+  "en": "Gold Knight",
+  "status": "done",
   "ptrs": [
    "0x7280"
   ],
@@ -8052,8 +8052,8 @@
   "id": "r007718",
   "kind": "string",
   "jp": "アーマレット",
-  "en": "",
-  "status": "new",
+  "en": "Armalet",
+  "status": "done",
   "ptrs": [
    "0x7284"
   ],
@@ -8063,8 +8063,8 @@
   "id": "r00772c",
   "kind": "string",
   "jp": "ファイバード",
-  "en": "",
-  "status": "new",
+  "en": "Firebird",
+  "status": "done",
   "ptrs": [
    "0x729c"
   ],
@@ -8074,8 +8074,8 @@
   "id": "r00773c",
   "kind": "string",
   "jp": "こうげきとオーラが",
-  "en": "",
-  "status": "new",
+  "en": "Attack & aura",
+  "status": "done",
   "ptrs": [
    "0x72a0"
   ],
@@ -8085,8 +8085,8 @@
   "id": "r007750",
   "kind": "string",
   "jp": "強いフェニックスの",
-  "en": "",
-  "status": "new",
+  "en": "strong; phoenix",
+  "status": "done",
   "ptrs": [
    "0x72a4"
   ],
@@ -8096,8 +8096,8 @@
   "id": "r007764",
   "kind": "string",
   "jp": "アーマレット",
-  "en": "",
-  "status": "new",
+  "en": "Armalet",
+  "status": "done",
   "ptrs": [
    "0x72a8"
   ],
@@ -8107,8 +8107,8 @@
   "id": "r007778",
   "kind": "string",
   "jp": "三刀流",
-  "en": "",
-  "status": "new",
+  "en": "Santoryu",
+  "status": "done",
   "ptrs": [
    "0x72c0"
   ],
@@ -8118,8 +8118,8 @@
   "id": "r007780",
   "kind": "string",
   "jp": "三刀流のおうぎ",
-  "en": "",
-  "status": "new",
+  "en": "Santoryu art",
+  "status": "done",
   "ptrs": [
    "0x72c4"
   ],
@@ -8129,8 +8129,8 @@
   "id": "r007790",
   "kind": "string",
   "jp": "「三千世界」で",
-  "en": "",
-  "status": "new",
+  "en": "3000 Worlds",
+  "status": "done",
   "ptrs": [
    "0x72c8"
   ],
@@ -8140,8 +8140,8 @@
   "id": "r0077a0",
   "kind": "string",
   "jp": "なみいる強てきを",
-  "en": "",
-  "status": "new",
+  "en": "mows down all",
+  "status": "done",
   "ptrs": [
    "0x72cc"
   ],
@@ -8151,8 +8151,8 @@
   "id": "r0077b4",
   "kind": "string",
   "jp": "なぎたおす！",
-  "en": "",
-  "status": "new",
+  "en": "tough foes!",
+  "status": "done",
   "ptrs": [
    "0x72d0"
   ],
@@ -8162,8 +8162,8 @@
   "id": "r0077c4",
   "kind": "string",
   "jp": "クラウンＳ",
-  "en": "",
-  "status": "new",
+  "en": "Crown S",
+  "status": "done",
   "ptrs": [
    "0x72e4"
   ],
@@ -8173,8 +8173,8 @@
   "id": "r0077d0",
   "kind": "string",
   "jp": "タテのサイガである",
-  "en": "",
-  "status": "new",
+  "en": "A shield Saiga:",
+  "status": "done",
   "ptrs": [
    "0x72e8"
   ],
@@ -8184,8 +8184,8 @@
   "id": "r0077e4",
   "kind": "string",
   "jp": "クラウンシールドは",
-  "en": "",
-  "status": "new",
+  "en": "the Crown Shield",
+  "status": "done",
   "ptrs": [
    "0x72ec"
   ],
@@ -8195,8 +8195,8 @@
   "id": "r0077f8",
   "kind": "string",
   "jp": "へんけいし　強力な",
-  "en": "",
-  "status": "new",
+  "en": "can turn into",
+  "status": "done",
   "ptrs": [
    "0x72f0"
   ],
@@ -8206,8 +8206,8 @@
   "id": "r00780c",
   "kind": "string",
   "jp": "鉄球にもなるのだ",
-  "en": "",
-  "status": "new",
+  "en": "a big iron ball!",
+  "status": "done",
   "ptrs": [
    "0x72f4"
   ],
@@ -8217,8 +8217,8 @@
   "id": "r007820",
   "kind": "string",
   "jp": "トウジンキ",
-  "en": "",
-  "status": "new",
+  "en": "Tojinki",
+  "status": "done",
   "ptrs": [
    "0x7308"
   ],
@@ -8228,8 +8228,8 @@
   "id": "r00782c",
   "kind": "string",
   "jp": "おんみょう道のひぎ",
-  "en": "",
-  "status": "new",
+  "en": "A machine that",
+  "status": "done",
   "ptrs": [
    "0x730c"
   ],
@@ -8239,8 +8239,8 @@
   "id": "r007840",
   "kind": "string",
   "jp": "で　式神をよびだす",
-  "en": "",
-  "status": "new",
+  "en": "summons shikigami",
+  "status": "done",
   "ptrs": [
    "0x7310"
   ],
@@ -8250,8 +8250,8 @@
   "id": "r007854",
   "kind": "string",
   "jp": "ためのキカイ",
-  "en": "",
-  "status": "new",
+  "en": "via Onmyodo",
+  "status": "done",
   "ptrs": [
    "0x7314"
   ],
@@ -8261,8 +8261,8 @@
   "id": "r007864",
   "kind": "string",
   "jp": "それがトウジンキだ",
-  "en": "",
-  "status": "new",
+  "en": "arts: the Tojinki",
+  "status": "done",
   "ptrs": [
    "0x7318"
   ],
@@ -8284,8 +8284,8 @@
   "id": "r008c90",
   "kind": "string",
   "jp": "たくましい",
-  "en": "",
-  "status": "new",
+  "en": "Sturdy",
+  "status": "done",
   "ptrs": [
    "0x7890"
   ],
@@ -8295,8 +8295,8 @@
   "id": "r008c9c",
   "kind": "string",
   "jp": "きたえた体で",
-  "en": "",
-  "status": "new",
+  "en": "Trained body",
+  "status": "done",
   "ptrs": [
    "0x7894"
   ],
@@ -8306,8 +8306,8 @@
   "id": "r008cac",
   "kind": "string",
   "jp": "ＨＰがふえる",
-  "en": "",
-  "status": "new",
+  "en": "HP rises",
+  "status": "done",
   "ptrs": [
    "0x7898"
   ],
@@ -8317,8 +8317,8 @@
   "id": "r008cbc",
   "kind": "string",
   "jp": "強力なこうげきに",
-  "en": "",
-  "status": "new",
+  "en": "Can withstand",
+  "status": "done",
   "ptrs": [
    "0x789c"
   ],
@@ -8328,8 +8328,8 @@
   "id": "r008cd0",
   "kind": "string",
   "jp": "たえることが",
-  "en": "",
-  "status": "new",
+  "en": "strong",
+  "status": "done",
   "ptrs": [
    "0x78a0"
   ],
@@ -8339,8 +8339,8 @@
   "id": "r008ce0",
   "kind": "string",
   "jp": "できるぞ",
-  "en": "",
-  "status": "new",
+  "en": "attacks!",
+  "status": "done",
   "ptrs": [
    "0x78a4"
   ],
@@ -8350,8 +8350,8 @@
   "id": "r008cec",
   "kind": "string",
   "jp": "とうし",
-  "en": "",
-  "status": "new",
+  "en": "Spirit",
+  "status": "done",
   "ptrs": [
    "0x78b8"
   ],
@@ -8361,8 +8361,8 @@
   "id": "r008cf4",
   "kind": "string",
   "jp": "もえる心で",
-  "en": "",
-  "status": "new",
+  "en": "Hot heart:",
+  "status": "done",
   "ptrs": [
    "0x78bc"
   ],
@@ -8372,8 +8372,8 @@
   "id": "r008d00",
   "kind": "string",
   "jp": "ＡＰがふえる",
-  "en": "",
-  "status": "new",
+  "en": "AP rises",
+  "status": "done",
   "ptrs": [
    "0x78c0"
   ],
@@ -8383,8 +8383,8 @@
   "id": "r008d10",
   "kind": "string",
   "jp": "いっぱいオーラを",
-  "en": "",
-  "status": "new",
+  "en": "Spend aura",
+  "status": "done",
   "ptrs": [
    "0x78c4"
   ],
@@ -8394,8 +8394,8 @@
   "id": "r008d24",
   "kind": "string",
   "jp": "使っても平気だ",
-  "en": "",
-  "status": "new",
+  "en": "fearlessly",
+  "status": "done",
   "ptrs": [
    "0x78c8"
   ],
@@ -8405,8 +8405,8 @@
   "id": "r008d38",
   "kind": "string",
   "jp": "きょうじん",
-  "en": "",
-  "status": "new",
+  "en": "Mighty",
+  "status": "done",
   "ptrs": [
    "0x78e0"
   ],
@@ -8416,8 +8416,8 @@
   "id": "r008d44",
   "kind": "string",
   "jp": "うなるキンニクで",
-  "en": "",
-  "status": "new",
+  "en": "Roaring muscles:",
+  "status": "done",
   "ptrs": [
    "0x78e4"
   ],
@@ -8427,8 +8427,8 @@
   "id": "r008d58",
   "kind": "string",
   "jp": "こうげきＵＰ",
-  "en": "",
-  "status": "new",
+  "en": "attack UP",
+  "status": "done",
   "ptrs": [
    "0x78e8"
   ],
@@ -8438,8 +8438,8 @@
   "id": "r008d68",
   "kind": "string",
   "jp": "相手に大ダメージ",
-  "en": "",
-  "status": "new",
+  "en": "Deal big damage",
+  "status": "done",
   "ptrs": [
    "0x78ec"
   ],
@@ -8449,8 +8449,8 @@
   "id": "r008d7c",
   "kind": "string",
   "jp": "をあたえるぞ",
-  "en": "",
-  "status": "new",
+  "en": "to foes!",
+  "status": "done",
   "ptrs": [
    "0x78f0"
   ],
@@ -8460,8 +8460,8 @@
   "id": "r008d90",
   "kind": "string",
   "jp": "きあい",
-  "en": "",
-  "status": "new",
+  "en": "Guts",
+  "status": "done",
   "ptrs": [
    "0x7908"
   ],
@@ -8471,8 +8471,8 @@
   "id": "r008d98",
   "kind": "string",
   "jp": "気合イッパツで",
-  "en": "",
-  "status": "new",
+  "en": "One big yell:",
+  "status": "done",
   "ptrs": [
    "0x790c"
   ],
@@ -8482,8 +8482,8 @@
   "id": "r008da8",
   "kind": "string",
   "jp": "ＡこうげきＵＰだ",
-  "en": "",
-  "status": "new",
+  "en": "Aura attack UP",
+  "status": "done",
   "ptrs": [
    "0x7910"
   ],
@@ -8493,8 +8493,8 @@
   "id": "r008dbc",
   "kind": "string",
   "jp": "相手のオーラを",
-  "en": "",
-  "status": "new",
+  "en": "Cut foe aura",
+  "status": "done",
   "ptrs": [
    "0x7914"
   ],
@@ -8504,8 +8504,8 @@
   "id": "r008dcc",
   "kind": "string",
   "jp": "へらしてバトルを",
-  "en": "",
-  "status": "new",
+  "en": "and take the",
+  "status": "done",
   "ptrs": [
    "0x7918"
   ],
@@ -8515,8 +8515,8 @@
   "id": "r008de0",
   "kind": "string",
   "jp": "有利に進めよう",
-  "en": "",
-  "status": "new",
+  "en": "upper hand!",
+  "status": "done",
   "ptrs": [
    "0x791c"
   ],
@@ -8526,8 +8526,8 @@
   "id": "r008df0",
   "kind": "string",
   "jp": "きびん",
-  "en": "",
-  "status": "new",
+  "en": "Agile",
+  "status": "done",
   "ptrs": [
    "0x7930"
   ],
@@ -8537,8 +8537,8 @@
   "id": "r008df8",
   "kind": "string",
   "jp": "スピードアップで",
-  "en": "",
-  "status": "new",
+  "en": "With speed UP,",
+  "status": "done",
   "ptrs": [
    "0x7934"
   ],
@@ -8548,8 +8548,8 @@
   "id": "r008e0c",
   "kind": "string",
   "jp": "きびんに動く",
-  "en": "",
-  "status": "new",
+  "en": "move nimbly",
+  "status": "done",
   "ptrs": [
    "0x7938"
   ],
@@ -8559,8 +8559,8 @@
   "id": "r008e1c",
   "kind": "string",
   "jp": "追いかけるのも",
-  "en": "",
-  "status": "new",
+  "en": "Chase or flee,",
+  "status": "done",
   "ptrs": [
    "0x793c"
   ],
@@ -8570,8 +8570,8 @@
   "id": "r008e2c",
   "kind": "string",
   "jp": "にげるのも",
-  "en": "",
-  "status": "new",
+  "en": "both ways",
+  "status": "done",
   "ptrs": [
    "0x7940"
   ],
@@ -8581,8 +8581,8 @@
   "id": "r008e38",
   "kind": "string",
   "jp": "自由じざいだ",
-  "en": "",
-  "status": "new",
+  "en": "it's easy!",
+  "status": "done",
   "ptrs": [
    "0x7944"
   ],
@@ -8592,8 +8592,8 @@
   "id": "r008e48",
   "kind": "string",
   "jp": "とっしん",
-  "en": "",
-  "status": "new",
+  "en": "Charge",
+  "status": "done",
   "ptrs": [
    "0x7958"
   ],
@@ -8603,8 +8603,8 @@
   "id": "r008e54",
   "kind": "string",
   "jp": "球こうげきＵＰで",
-  "en": "",
-  "status": "new",
+  "en": "Ball atk UP:",
+  "status": "done",
   "ptrs": [
    "0x795c"
   ],
@@ -8614,8 +8614,8 @@
   "id": "r008e68",
   "kind": "string",
   "jp": "強力なＡＲが",
-  "en": "",
-  "status": "new",
+  "en": "strong ARs",
+  "status": "done",
   "ptrs": [
    "0x7960"
   ],
@@ -8625,8 +8625,8 @@
   "id": "r008e78",
   "kind": "string",
   "jp": "さらに強くなるぞ",
-  "en": "",
-  "status": "new",
+  "en": "get stronger!",
+  "status": "done",
   "ptrs": [
    "0x7964"
   ],
@@ -8636,8 +8636,8 @@
   "id": "r008e94",
   "kind": "string",
   "jp": "かわりだま",
-  "en": "",
-  "status": "new",
+  "en": "Trickball",
+  "status": "done",
   "ptrs": [
    "0x7980"
   ],
@@ -8647,8 +8647,8 @@
   "id": "r008ea0",
   "kind": "string",
   "jp": "いつもとちがう",
-  "en": "",
-  "status": "new",
+  "en": "Act unusually",
+  "status": "done",
   "ptrs": [
    "0x7984"
   ],
@@ -8658,8 +8658,8 @@
   "id": "r008eb0",
   "kind": "string",
   "jp": "行動で相手の",
-  "en": "",
-  "status": "new",
+  "en": "to catch the",
+  "status": "done",
   "ptrs": [
    "0x7988"
   ],
@@ -8669,8 +8669,8 @@
   "id": "r008ec0",
   "kind": "string",
   "jp": "スキをつこう",
-  "en": "",
-  "status": "new",
+  "en": "foe napping",
+  "status": "done",
   "ptrs": [
    "0x798c"
   ],
@@ -8680,8 +8680,8 @@
   "id": "r008ed0",
   "kind": "string",
   "jp": "ＡＲでＡＰを",
-  "en": "",
-  "status": "new",
+  "en": "ARs drain",
+  "status": "done",
   "ptrs": [
    "0x7990"
   ],
@@ -8691,8 +8691,8 @@
   "id": "r008ee0",
   "kind": "string",
   "jp": "へらせ",
-  "en": "",
-  "status": "new",
+  "en": "AP!",
+  "status": "done",
   "ptrs": [
    "0x7994"
   ],
@@ -8702,8 +8702,8 @@
   "id": "r008ee8",
   "kind": "string",
   "jp": "でんぐりがえり",
-  "en": "",
-  "status": "new",
+  "en": "Somersault",
+  "status": "done",
   "ptrs": [
    "0x79a8"
   ],
@@ -8713,8 +8713,8 @@
   "id": "r008ef8",
   "kind": "string",
   "jp": "すごい回転で",
-  "en": "",
-  "status": "new",
+  "en": "Wild spin:",
+  "status": "done",
   "ptrs": [
    "0x79ac"
   ],
@@ -8724,8 +8724,8 @@
   "id": "r008f08",
   "kind": "string",
   "jp": "球スピードＵＰ",
-  "en": "",
-  "status": "new",
+  "en": "ball spd UP",
+  "status": "done",
   "ptrs": [
    "0x79b0"
   ],
@@ -8735,8 +8735,8 @@
   "id": "r008f18",
   "kind": "string",
   "jp": "ドロップしない",
-  "en": "",
-  "status": "new",
+  "en": "Avoid a Drop,",
+  "status": "done",
   "ptrs": [
    "0x79b4"
   ],
@@ -8746,8 +8746,8 @@
   "id": "r008f28",
   "kind": "string",
   "jp": "よう気をつけよう",
-  "en": "",
-  "status": "new",
+  "en": "be careful!",
+  "status": "done",
   "ptrs": [
    "0x79b8"
   ],
@@ -8757,8 +8757,8 @@
   "id": "r008f40",
   "kind": "string",
   "jp": "ものもち",
-  "en": "",
-  "status": "new",
+  "en": "Thrifty",
+  "status": "done",
   "ptrs": [
    "0x79d0"
   ],
@@ -8768,8 +8768,8 @@
   "id": "r008f4c",
   "kind": "string",
   "jp": "ものを大事にする",
-  "en": "",
-  "status": "new",
+  "en": "Love your things",
+  "status": "done",
   "ptrs": [
    "0x79d4"
   ],
@@ -8779,8 +8779,8 @@
   "id": "r008f60",
   "kind": "string",
   "jp": "気持ちでサイズ",
-  "en": "",
-  "status": "new",
+  "en": "and Size",
+  "status": "done",
   "ptrs": [
    "0x79d8"
   ],
@@ -8790,8 +8790,8 @@
   "id": "r008f70",
   "kind": "string",
   "jp": "をぞうかする",
-  "en": "",
-  "status": "new",
+  "en": "goes up",
+  "status": "done",
   "ptrs": [
    "0x79dc"
   ],
@@ -8801,8 +8801,8 @@
   "id": "r008f80",
   "kind": "string",
   "jp": "バトルのはばが",
-  "en": "",
-  "status": "new",
+  "en": "More battle",
+  "status": "done",
   "ptrs": [
    "0x79e0"
   ],
@@ -8812,8 +8812,8 @@
   "id": "r008f90",
   "kind": "string",
   "jp": "広がるぞ",
-  "en": "",
-  "status": "new",
+  "en": "options!",
+  "status": "done",
   "ptrs": [
    "0x79e4"
   ],
@@ -8823,8 +8823,8 @@
   "id": "r008f9c",
   "kind": "string",
   "jp": "ねばり",
-  "en": "",
-  "status": "new",
+  "en": "Grit",
+  "status": "done",
   "ptrs": [
    "0x79f8"
   ],
@@ -8834,8 +8834,8 @@
   "id": "r008fa4",
   "kind": "string",
   "jp": "あきらめない",
-  "en": "",
-  "status": "new",
+  "en": "Never giving",
+  "status": "done",
   "ptrs": [
    "0x79fc"
   ],
@@ -8845,8 +8845,8 @@
   "id": "r008fb4",
   "kind": "string",
   "jp": "ねばり強さで",
-  "en": "",
-  "status": "new",
+  "en": "up, you",
+  "status": "done",
   "ptrs": [
    "0x7a00"
   ],
@@ -8856,8 +8856,8 @@
   "id": "r008fc4",
   "kind": "string",
   "jp": "ＨＲからすばやく",
-  "en": "",
-  "status": "new",
+  "en": "return fast",
+  "status": "done",
   "ptrs": [
    "0x7a04"
   ],
@@ -8867,8 +8867,8 @@
   "id": "r008fd8",
   "kind": "string",
   "jp": "ふっきだ",
-  "en": "",
-  "status": "new",
+  "en": "from HR",
+  "status": "done",
   "ptrs": [
    "0x7a08"
   ],
@@ -8878,8 +8878,8 @@
   "id": "r008fe8",
   "kind": "string",
   "jp": "まけんき",
-  "en": "",
-  "status": "new",
+  "en": "Drive",
+  "status": "done",
   "ptrs": [
    "0x7a20"
   ],
@@ -8889,8 +8889,8 @@
   "id": "r008ff4",
   "kind": "string",
   "jp": "勝利をのぞむ",
-  "en": "",
-  "status": "new",
+  "en": "Heart set on",
+  "status": "done",
   "ptrs": [
    "0x7a24"
   ],
@@ -8900,8 +8900,8 @@
   "id": "r009004",
   "kind": "string",
   "jp": "心の強さで",
-  "en": "",
-  "status": "new",
+  "en": "winning",
+  "status": "done",
   "ptrs": [
    "0x7a28"
   ],
@@ -8911,8 +8911,8 @@
   "id": "r009010",
   "kind": "string",
   "jp": "ＡＰをすばやく",
-  "en": "",
-  "status": "new",
+  "en": "restores AP",
+  "status": "done",
   "ptrs": [
    "0x7a2c"
   ],
@@ -8922,8 +8922,8 @@
   "id": "r009020",
   "kind": "string",
   "jp": "カイフクだ",
-  "en": "",
-  "status": "new",
+  "en": "quickly!",
+  "status": "done",
   "ptrs": [
    "0x7a30"
   ],
@@ -8933,8 +8933,8 @@
   "id": "r009030",
   "kind": "string",
   "jp": "にんたい",
-  "en": "",
-  "status": "new",
+  "en": "Patience",
+  "status": "done",
   "ptrs": [
    "0x7a48"
   ],
@@ -8944,8 +8944,8 @@
   "id": "r00903c",
   "kind": "string",
   "jp": "ガマン強さで",
-  "en": "",
-  "status": "new",
+  "en": "Endurance",
+  "status": "done",
   "ptrs": [
    "0x7a4c"
   ],
@@ -8955,8 +8955,8 @@
   "id": "r00904c",
   "kind": "string",
   "jp": "ＨＰとＡＰを",
-  "en": "",
-  "status": "new",
+  "en": "HP & AP",
+  "status": "done",
   "ptrs": [
    "0x7a50"
   ],
@@ -8966,8 +8966,8 @@
   "id": "r00905c",
   "kind": "string",
   "jp": "ＵＰだ",
-  "en": "",
-  "status": "new",
+  "en": "UP!",
+  "status": "done",
   "ptrs": [
    "0x7a54"
   ],
@@ -8977,8 +8977,8 @@
   "id": "r00906c",
   "kind": "string",
   "jp": "ちからづよい",
-  "en": "",
-  "status": "new",
+  "en": "Powerful",
+  "status": "done",
   "ptrs": [
    "0x7a70"
   ],
@@ -8988,8 +8988,8 @@
   "id": "r00907c",
   "kind": "string",
   "jp": "あふれるパワーで",
-  "en": "",
-  "status": "new",
+  "en": "Brimming power:",
+  "status": "done",
   "ptrs": [
    "0x7a74"
   ],
@@ -8999,8 +8999,8 @@
   "id": "r009090",
   "kind": "string",
   "jp": "人とロールの",
-  "en": "",
-  "status": "new",
+  "en": "body & Roll",
+  "status": "done",
   "ptrs": [
    "0x7a78"
   ],
@@ -9010,8 +9010,8 @@
   "id": "r0090a0",
   "kind": "string",
   "jp": "こうげきをＵＰだ",
-  "en": "",
-  "status": "new",
+  "en": "attacks UP!",
+  "status": "done",
   "ptrs": [
    "0x7a7c"
   ],
@@ -9021,8 +9021,8 @@
   "id": "r0090bc",
   "kind": "string",
   "jp": "いあつ",
-  "en": "",
-  "status": "new",
+  "en": "Menace",
+  "status": "done",
   "ptrs": [
    "0x7a98"
   ],
@@ -9032,8 +9032,8 @@
   "id": "r0090c4",
   "kind": "string",
   "jp": "するどい気合で",
-  "en": "",
-  "status": "new",
+  "en": "Sharp spirit:",
+  "status": "done",
   "ptrs": [
    "0x7a9c"
   ],
@@ -9043,8 +9043,8 @@
   "id": "r0090d4",
   "kind": "string",
   "jp": "人とロールの",
-  "en": "",
-  "status": "new",
+  "en": "body & Roll",
+  "status": "done",
   "ptrs": [
    "0x7aa0"
   ],
@@ -9054,8 +9054,8 @@
   "id": "r0090e4",
   "kind": "string",
   "jp": "ＡこうげきをＵＰ",
-  "en": "",
-  "status": "new",
+  "en": "aura atk UP",
+  "status": "done",
   "ptrs": [
    "0x7aa4"
   ],
@@ -9065,8 +9065,8 @@
   "id": "r0090f8",
   "kind": "string",
   "jp": "するぞ",
-  "en": "",
-  "status": "new",
+  "en": "now!",
+  "status": "done",
   "ptrs": [
    "0x7aa8"
   ],
@@ -9076,8 +9076,8 @@
   "id": "r009104",
   "kind": "string",
   "jp": "しっそう",
-  "en": "",
-  "status": "new",
+  "en": "Sprint",
+  "status": "done",
   "ptrs": [
    "0x7ac0"
   ],
@@ -9087,8 +9087,8 @@
   "id": "r009110",
   "kind": "string",
   "jp": "目にも止まらぬ",
-  "en": "",
-  "status": "new",
+  "en": "Blindingly",
+  "status": "done",
   "ptrs": [
    "0x7ac4"
   ],
@@ -9098,8 +9098,8 @@
   "id": "r009120",
   "kind": "string",
   "jp": "動きで相手を",
-  "en": "",
-  "status": "new",
+  "en": "fast moves",
+  "status": "done",
   "ptrs": [
    "0x7ac8"
   ],
@@ -9109,8 +9109,8 @@
   "id": "r009130",
   "kind": "string",
   "jp": "かき回す",
-  "en": "",
-  "status": "new",
+  "en": "dazzle!",
+  "status": "done",
   "ptrs": [
    "0x7acc"
   ],
@@ -9120,8 +9120,8 @@
   "id": "r00913c",
   "kind": "string",
   "jp": "人とロールの",
-  "en": "",
-  "status": "new",
+  "en": "body & Roll",
+  "status": "done",
   "ptrs": [
    "0x7ad0"
   ],
@@ -9131,8 +9131,8 @@
   "id": "r00914c",
   "kind": "string",
   "jp": "スピードＵＰだ",
-  "en": "",
-  "status": "new",
+  "en": "speed UP!",
+  "status": "done",
   "ptrs": [
    "0x7ad4"
   ],
@@ -9142,8 +9142,8 @@
   "id": "r00915c",
   "kind": "string",
   "jp": "わんぱく",
-  "en": "",
-  "status": "new",
+  "en": "Rascal",
+  "status": "done",
   "ptrs": [
    "0x7ae8"
   ],
@@ -9153,8 +9153,8 @@
   "id": "r009168",
   "kind": "string",
   "jp": "活発な気持ちで",
-  "en": "",
-  "status": "new",
+  "en": "Lively spirit:",
+  "status": "done",
   "ptrs": [
    "0x7aec"
   ],
@@ -9164,8 +9164,8 @@
   "id": "r009178",
   "kind": "string",
   "jp": "人のこうげきを",
-  "en": "",
-  "status": "new",
+  "en": "body attacks,",
+  "status": "done",
   "ptrs": [
    "0x7af0"
   ],
@@ -9175,8 +9175,8 @@
   "id": "r009188",
   "kind": "string",
   "jp": "両方ＵＰだ",
-  "en": "",
-  "status": "new",
+  "en": "both UP!",
+  "status": "done",
   "ptrs": [
    "0x7af4"
   ],
@@ -9186,8 +9186,8 @@
   "id": "r009194",
   "kind": "string",
   "jp": "たくましく",
-  "en": "",
-  "status": "new",
+  "en": "Grow up",
+  "status": "done",
   "ptrs": [
    "0x7af8"
   ],
@@ -9197,8 +9197,8 @@
   "id": "r0091a0",
   "kind": "string",
   "jp": "育ってほしい",
-  "en": "",
-  "status": "new",
+  "en": "strong now!",
+  "status": "done",
   "ptrs": [
    "0x7afc"
   ],
@@ -9208,8 +9208,8 @@
   "id": "r0091b0",
   "kind": "string",
   "jp": "きょうれつ",
-  "en": "",
-  "status": "new",
+  "en": "Fierce",
+  "status": "done",
   "ptrs": [
    "0x7b10"
   ],
@@ -9219,8 +9219,8 @@
   "id": "r0091bc",
   "kind": "string",
   "jp": "強れつパワーで",
-  "en": "",
-  "status": "new",
+  "en": "Fierce power:",
+  "status": "done",
   "ptrs": [
    "0x7b14"
   ],
@@ -9230,8 +9230,8 @@
   "id": "r0091cc",
   "kind": "string",
   "jp": "ロールこうげきを",
-  "en": "",
-  "status": "new",
+  "en": "Roll attacks,",
+  "status": "done",
   "ptrs": [
    "0x7b18"
   ],
@@ -9241,8 +9241,8 @@
   "id": "r0091e0",
   "kind": "string",
   "jp": "両方ＵＰだ",
-  "en": "",
-  "status": "new",
+  "en": "both UP!",
+  "status": "done",
   "ptrs": [
    "0x7b1c"
   ],
@@ -9252,8 +9252,8 @@
   "id": "r0091f4",
   "kind": "string",
   "jp": "ぶとうは",
-  "en": "",
-  "status": "new",
+  "en": "Fighter",
+  "status": "done",
   "ptrs": [
    "0x7b38"
   ],
@@ -9263,8 +9263,8 @@
   "id": "r009200",
   "kind": "string",
   "jp": "人全てをＵＰで",
-  "en": "",
-  "status": "new",
+  "en": "All body UP:",
+  "status": "done",
   "ptrs": [
    "0x7b3c"
   ],
@@ -9274,8 +9274,8 @@
   "id": "r009210",
   "kind": "string",
   "jp": "コブシで語る",
-  "en": "",
-  "status": "new",
+  "en": "fists talk,",
+  "status": "done",
   "ptrs": [
    "0x7b40"
   ],
@@ -9285,8 +9285,8 @@
   "id": "r009220",
   "kind": "string",
   "jp": "あついハートの",
-  "en": "",
-  "status": "new",
+  "en": "hot-hearted",
+  "status": "done",
   "ptrs": [
    "0x7b44"
   ],
@@ -9296,8 +9296,8 @@
   "id": "r009230",
   "kind": "string",
   "jp": "バトローラーだ",
-  "en": "",
-  "status": "new",
+  "en": "Vattroller!",
+  "status": "done",
   "ptrs": [
    "0x7b48"
   ],
@@ -9307,8 +9307,8 @@
   "id": "r009244",
   "kind": "string",
   "jp": "じょうだま",
-  "en": "",
-  "status": "new",
+  "en": "Ace Ball",
+  "status": "done",
   "ptrs": [
    "0x7b60"
   ],
@@ -9318,8 +9318,8 @@
   "id": "r009250",
   "kind": "string",
   "jp": "ロール全てＵＰで",
-  "en": "",
-  "status": "new",
+  "en": "All Roll UP:",
+  "status": "done",
   "ptrs": [
    "0x7b64"
   ],
@@ -9329,8 +9329,8 @@
   "id": "r009264",
   "kind": "string",
   "jp": "ムダがない",
-  "en": "",
-  "status": "new",
+  "en": "no waste,",
+  "status": "done",
   "ptrs": [
    "0x7b68"
   ],
@@ -9340,8 +9340,8 @@
   "id": "r009270",
   "kind": "string",
   "jp": "クールでデキる",
-  "en": "",
-  "status": "new",
+  "en": "a cool, able",
+  "status": "done",
   "ptrs": [
    "0x7b6c"
   ],
@@ -9351,8 +9351,8 @@
   "id": "r009280",
   "kind": "string",
   "jp": "バトローラーだ",
-  "en": "",
-  "status": "new",
+  "en": "Vattroller!",
+  "status": "done",
   "ptrs": [
    "0x7b70"
   ],
@@ -9362,8 +9362,8 @@
   "id": "r009294",
   "kind": "string",
   "jp": "ファイト",
-  "en": "",
-  "status": "new",
+  "en": "Fight",
+  "status": "done",
   "ptrs": [
    "0x7b88"
   ],
@@ -9373,8 +9373,8 @@
   "id": "r0092a0",
   "kind": "string",
   "jp": "あついファイトで",
-  "en": "",
-  "status": "new",
+  "en": "Hot fighting:",
+  "status": "done",
   "ptrs": [
    "0x7b8c"
   ],
@@ -9384,8 +9384,8 @@
   "id": "r0092b4",
   "kind": "string",
   "jp": "全てのこうげきが",
-  "en": "",
-  "status": "new",
+  "en": "all attacks",
+  "status": "done",
   "ptrs": [
    "0x7b90"
   ],
@@ -9395,8 +9395,8 @@
   "id": "r0092c8",
   "kind": "string",
   "jp": "ＵＰだ",
-  "en": "",
-  "status": "new",
+  "en": "UP!",
+  "status": "done",
   "ptrs": [
    "0x7b94"
   ],
@@ -9406,8 +9406,8 @@
   "id": "r0092d8",
   "kind": "string",
   "jp": "ばんのう",
-  "en": "",
-  "status": "new",
+  "en": "Utility",
+  "status": "done",
   "ptrs": [
    "0x7bb0"
   ],
@@ -9417,8 +9417,8 @@
   "id": "r0092e4",
   "kind": "string",
   "jp": "何をやっても",
-  "en": "",
-  "status": "new",
+  "en": "Does it all",
+  "status": "done",
   "ptrs": [
    "0x7bb4"
   ],
@@ -9428,8 +9428,8 @@
   "id": "r0092f4",
   "kind": "string",
   "jp": "そつなくこなす",
-  "en": "",
-  "status": "new",
+  "en": "smoothly;",
+  "status": "done",
   "ptrs": [
    "0x7bb8"
   ],
@@ -9439,8 +9439,8 @@
   "id": "r009304",
   "kind": "string",
   "jp": "ＨＰやＡＰ",
-  "en": "",
-  "status": "new",
+  "en": "HP, AP,",
+  "status": "done",
   "ptrs": [
    "0x7bbc"
   ],
@@ -9450,8 +9450,8 @@
   "id": "r009310",
   "kind": "string",
   "jp": "こうげきなどが",
-  "en": "",
-  "status": "new",
+  "en": "attack, etc.",
+  "status": "done",
   "ptrs": [
    "0x7bc0"
   ],
@@ -9461,8 +9461,8 @@
   "id": "r009320",
   "kind": "string",
   "jp": "ＵＰだ",
-  "en": "",
-  "status": "new",
+  "en": "UP!",
+  "status": "done",
   "ptrs": [
    "0x7bc4"
   ],
@@ -9472,8 +9472,8 @@
   "id": "r009328",
   "kind": "string",
   "jp": "こうふん",
-  "en": "",
-  "status": "new",
+  "en": "Excited",
+  "status": "done",
   "ptrs": [
    "0x7bd8"
   ],
@@ -9483,8 +9483,8 @@
   "id": "r009334",
   "kind": "string",
   "jp": "たかぶる心で",
-  "en": "",
-  "status": "new",
+  "en": "Fired up:",
+  "status": "done",
   "ptrs": [
    "0x7bdc"
   ],
@@ -9494,8 +9494,8 @@
   "id": "r009344",
   "kind": "string",
   "jp": "ＨＰとこうげきを",
-  "en": "",
-  "status": "new",
+  "en": "HP & attack",
+  "status": "done",
   "ptrs": [
    "0x7be0"
   ],
@@ -9505,8 +9505,8 @@
   "id": "r009358",
   "kind": "string",
   "jp": "ＵＰだ",
-  "en": "",
-  "status": "new",
+  "en": "UP!",
+  "status": "done",
   "ptrs": [
    "0x7be4"
   ],
@@ -9516,8 +9516,8 @@
   "id": "r009368",
   "kind": "string",
   "jp": "ほんごし",
-  "en": "",
-  "status": "new",
+  "en": "Earnest",
+  "status": "done",
   "ptrs": [
    "0x7c00"
   ],
@@ -9527,8 +9527,8 @@
   "id": "r009374",
   "kind": "string",
   "jp": "ほんごしモードの",
-  "en": "",
-  "status": "new",
+  "en": "Earnest mode",
+  "status": "done",
   "ptrs": [
    "0x7c04"
   ],
@@ -9538,8 +9538,8 @@
   "id": "r009388",
   "kind": "string",
   "jp": "スイッチＯＮで",
-  "en": "",
-  "status": "new",
+  "en": "switched ON:",
+  "status": "done",
   "ptrs": [
    "0x7c08"
   ],
@@ -9549,8 +9549,8 @@
   "id": "r009398",
   "kind": "string",
   "jp": "ＡＰとこうげきを",
-  "en": "",
-  "status": "new",
+  "en": "AP & attack",
+  "status": "done",
   "ptrs": [
    "0x7c0c"
   ],
@@ -9560,8 +9560,8 @@
   "id": "r0093ac",
   "kind": "string",
   "jp": "ＵＰだ",
-  "en": "",
-  "status": "new",
+  "en": "UP!",
+  "status": "done",
   "ptrs": [
    "0x7c10"
   ],
@@ -9571,8 +9571,8 @@
   "id": "r0093b8",
   "kind": "string",
   "jp": "がんじょう",
-  "en": "",
-  "status": "new",
+  "en": "Robust",
+  "status": "done",
   "ptrs": [
    "0x7c28"
   ],
@@ -9582,8 +9582,8 @@
   "id": "r0093c4",
   "kind": "string",
   "jp": "びくともしない",
-  "en": "",
-  "status": "new",
+  "en": "Unshakable",
+  "status": "done",
   "ptrs": [
    "0x7c2c"
   ],
@@ -9593,8 +9593,8 @@
   "id": "r0093d4",
   "kind": "string",
   "jp": "心と体でＨＰと",
-  "en": "",
-  "status": "new",
+  "en": "mind & body:",
+  "status": "done",
   "ptrs": [
    "0x7c30"
   ],
@@ -9604,8 +9604,8 @@
   "id": "r0093e4",
   "kind": "string",
   "jp": "ロールこうげきを",
-  "en": "",
-  "status": "new",
+  "en": "HP & Roll atk",
+  "status": "done",
   "ptrs": [
    "0x7c34"
   ],
@@ -9615,8 +9615,8 @@
   "id": "r0093f8",
   "kind": "string",
   "jp": "ＵＰだ",
-  "en": "",
-  "status": "new",
+  "en": "UP!",
+  "status": "done",
   "ptrs": [
    "0x7c38"
   ],
@@ -9626,8 +9626,8 @@
   "id": "r009404",
   "kind": "string",
   "jp": "のんき",
-  "en": "",
-  "status": "new",
+  "en": "Mellow",
+  "status": "done",
   "ptrs": [
    "0x7c50"
   ],
@@ -9637,8 +9637,8 @@
   "id": "r00940c",
   "kind": "string",
   "jp": "マイペースな",
-  "en": "",
-  "status": "new",
+  "en": "Easygoing",
+  "status": "done",
   "ptrs": [
    "0x7c54"
   ],
@@ -9648,8 +9648,8 @@
   "id": "r00941c",
   "kind": "string",
   "jp": "心と体でＡＰと",
-  "en": "",
-  "status": "new",
+  "en": "mind & body:",
+  "status": "done",
   "ptrs": [
    "0x7c58"
   ],
@@ -9659,8 +9659,8 @@
   "id": "r00942c",
   "kind": "string",
   "jp": "ロールこうげきを",
-  "en": "",
-  "status": "new",
+  "en": "AP & Roll atk",
+  "status": "done",
   "ptrs": [
    "0x7c5c"
   ],
@@ -9670,8 +9670,8 @@
   "id": "r009440",
   "kind": "string",
   "jp": "ＵＰだ",
-  "en": "",
-  "status": "new",
+  "en": "UP!",
+  "status": "done",
   "ptrs": [
    "0x7c60"
   ],
@@ -9681,8 +9681,8 @@
   "id": "r00944c",
   "kind": "string",
   "jp": "しんけん",
-  "en": "",
-  "status": "new",
+  "en": "Intent",
+  "status": "done",
   "ptrs": [
    "0x7c78"
   ],
@@ -9692,8 +9692,8 @@
   "id": "r009458",
   "kind": "string",
   "jp": "しんけんな心は",
-  "en": "",
-  "status": "new",
+  "en": "An intent mind",
+  "status": "done",
   "ptrs": [
    "0x7c7c"
   ],
@@ -9703,8 +9703,8 @@
   "id": "r009468",
   "kind": "string",
   "jp": "ＨＰと人とロール",
-  "en": "",
-  "status": "new",
+  "en": "HP, body, Roll",
+  "status": "done",
   "ptrs": [
    "0x7c80"
   ],
@@ -9714,8 +9714,8 @@
   "id": "r00947c",
   "kind": "string",
   "jp": "のこうげきをＵＰ",
-  "en": "",
-  "status": "new",
+  "en": "attack:",
+  "status": "done",
   "ptrs": [
    "0x7c84"
   ],
@@ -9725,8 +9725,8 @@
   "id": "r009490",
   "kind": "string",
   "jp": "させる",
-  "en": "",
-  "status": "new",
+  "en": "UP!",
+  "status": "done",
   "ptrs": [
    "0x7c88"
   ],
@@ -9736,8 +9736,8 @@
   "id": "r00949c",
   "kind": "string",
   "jp": "こんき",
-  "en": "",
-  "status": "new",
+  "en": "Pluck",
+  "status": "done",
   "ptrs": [
    "0x7ca0"
   ],
@@ -9747,8 +9747,8 @@
   "id": "r0094a4",
   "kind": "string",
   "jp": "こんきのある心は",
-  "en": "",
-  "status": "new",
+  "en": "A plucky mind",
+  "status": "done",
   "ptrs": [
    "0x7ca4"
   ],
@@ -9758,8 +9758,8 @@
   "id": "r0094b8",
   "kind": "string",
   "jp": "ＡＰと人とロール",
-  "en": "",
-  "status": "new",
+  "en": "AP, body, Roll",
+  "status": "done",
   "ptrs": [
    "0x7ca8"
   ],
@@ -9769,8 +9769,8 @@
   "id": "r0094cc",
   "kind": "string",
   "jp": "のこうげきをＵＰ",
-  "en": "",
-  "status": "new",
+  "en": "attack:",
+  "status": "done",
   "ptrs": [
    "0x7cac"
   ],
@@ -9780,8 +9780,8 @@
   "id": "r0094e0",
   "kind": "string",
   "jp": "させる",
-  "en": "",
-  "status": "new",
+  "en": "UP!",
+  "status": "done",
   "ptrs": [
    "0x7cb0"
   ],
@@ -9791,8 +9791,8 @@
   "id": "r0094ec",
   "kind": "string",
   "jp": "まえむき",
-  "en": "",
-  "status": "new",
+  "en": "Upbeat",
+  "status": "done",
   "ptrs": [
    "0x7cc8"
   ],
@@ -9802,8 +9802,8 @@
   "id": "r0094f8",
   "kind": "string",
   "jp": "くじけない心は",
-  "en": "",
-  "status": "new",
+  "en": "A hardy mind",
+  "status": "done",
   "ptrs": [
    "0x7ccc"
   ],
@@ -9813,8 +9813,8 @@
   "id": "r009508",
   "kind": "string",
   "jp": "ＨＰと人とロール",
-  "en": "",
-  "status": "new",
+  "en": "HP, body, Roll",
+  "status": "done",
   "ptrs": [
    "0x7cd0"
   ],
@@ -9824,8 +9824,8 @@
   "id": "r00951c",
   "kind": "string",
   "jp": "のスピードをＵＰ",
-  "en": "",
-  "status": "new",
+  "en": "speed:",
+  "status": "done",
   "ptrs": [
    "0x7cd4"
   ],
@@ -9835,8 +9835,8 @@
   "id": "r009530",
   "kind": "string",
   "jp": "させる",
-  "en": "",
-  "status": "new",
+  "en": "UP!",
+  "status": "done",
   "ptrs": [
    "0x7cd8"
   ],
@@ -9846,8 +9846,8 @@
   "id": "r00953c",
   "kind": "string",
   "jp": "ようき",
-  "en": "",
-  "status": "new",
+  "en": "Cheery",
+  "status": "done",
   "ptrs": [
    "0x7cf0"
   ],
@@ -9857,8 +9857,8 @@
   "id": "r009544",
   "kind": "string",
   "jp": "気にしない心は",
-  "en": "",
-  "status": "new",
+  "en": "A breezy mind",
+  "status": "done",
   "ptrs": [
    "0x7cf4"
   ],
@@ -9868,8 +9868,8 @@
   "id": "r009554",
   "kind": "string",
   "jp": "ＡＰと人とロール",
-  "en": "",
-  "status": "new",
+  "en": "AP, body, Roll",
+  "status": "done",
   "ptrs": [
    "0x7cf8"
   ],
@@ -9879,8 +9879,8 @@
   "id": "r009568",
   "kind": "string",
   "jp": "のスピードをＵＰ",
-  "en": "",
-  "status": "new",
+  "en": "speed:",
+  "status": "done",
   "ptrs": [
    "0x7cfc"
   ],
@@ -9890,8 +9890,8 @@
   "id": "r00957c",
   "kind": "string",
   "jp": "させる",
-  "en": "",
-  "status": "new",
+  "en": "UP!",
+  "status": "done",
   "ptrs": [
    "0x7d00"
   ],
@@ -9901,8 +9901,8 @@
   "id": "r009588",
   "kind": "string",
   "jp": "うできき",
-  "en": "",
-  "status": "new",
+  "en": "Skilled",
+  "status": "done",
   "ptrs": [
    "0x7d18"
   ],
@@ -9912,8 +9912,8 @@
   "id": "r009594",
   "kind": "string",
   "jp": "たくみな技で",
-  "en": "",
-  "status": "new",
+  "en": "Deft skill:",
+  "status": "done",
   "ptrs": [
    "0x7d1c"
   ],
@@ -9923,8 +9923,8 @@
   "id": "r0095a4",
   "kind": "string",
   "jp": "人のこうげきと",
-  "en": "",
-  "status": "new",
+  "en": "body attack &",
+  "status": "done",
   "ptrs": [
    "0x7d20"
   ],
@@ -9934,8 +9934,8 @@
   "id": "r0095b4",
   "kind": "string",
   "jp": "サイズがＵＰだ",
-  "en": "",
-  "status": "new",
+  "en": "Size UP!",
+  "status": "done",
   "ptrs": [
    "0x7d24"
   ],
@@ -9945,8 +9945,8 @@
   "id": "r0095cc",
   "kind": "string",
   "jp": "もうれつ",
-  "en": "",
-  "status": "new",
+  "en": "Furious",
+  "status": "done",
   "ptrs": [
    "0x7d40"
   ],
@@ -9956,8 +9956,8 @@
   "id": "r0095d8",
   "kind": "string",
   "jp": "もうれつな技で",
-  "en": "",
-  "status": "new",
+  "en": "Furious moves:",
+  "status": "done",
   "ptrs": [
    "0x7d44"
   ],
@@ -9967,8 +9967,8 @@
   "id": "r0095e8",
   "kind": "string",
   "jp": "ロールこうげきと",
-  "en": "",
-  "status": "new",
+  "en": "Roll attack &",
+  "status": "done",
   "ptrs": [
    "0x7d48"
   ],
@@ -9978,8 +9978,8 @@
   "id": "r0095fc",
   "kind": "string",
   "jp": "サイズがＵＰだ",
-  "en": "",
-  "status": "new",
+  "en": "Size UP!",
+  "status": "done",
   "ptrs": [
    "0x7d4c"
   ],
@@ -9989,8 +9989,8 @@
   "id": "r009614",
   "kind": "string",
   "jp": "ねばりごし",
-  "en": "",
-  "status": "new",
+  "en": "Stubborn",
+  "status": "done",
   "ptrs": [
    "0x7d68"
   ],
@@ -10000,8 +10000,8 @@
   "id": "r009620",
   "kind": "string",
   "jp": "ＨＰとＡＰと",
-  "en": "",
-  "status": "new",
+  "en": "HP, AP &",
+  "status": "done",
   "ptrs": [
    "0x7d6c"
   ],
@@ -10011,8 +10011,8 @@
   "id": "r009630",
   "kind": "string",
   "jp": "サイズをＵＰで",
-  "en": "",
-  "status": "new",
+  "en": "Size UP:",
+  "status": "done",
   "ptrs": [
    "0x7d70"
   ],
@@ -10022,8 +10022,8 @@
   "id": "r009640",
   "kind": "string",
   "jp": "なかなか負けない",
-  "en": "",
-  "status": "new",
+  "en": "Hard to beat,",
+  "status": "done",
   "ptrs": [
    "0x7d74"
   ],
@@ -10033,8 +10033,8 @@
   "id": "r009654",
   "kind": "string",
   "jp": "ネバリをみせろ",
-  "en": "",
-  "status": "new",
+  "en": "show your grit",
+  "status": "done",
   "ptrs": [
    "0x7d78"
   ],
@@ -10044,8 +10044,8 @@
   "id": "r009668",
   "kind": "string",
   "jp": "タフネス",
-  "en": "",
-  "status": "new",
+  "en": "Tough",
+  "status": "done",
   "ptrs": [
    "0x7d90"
   ],
@@ -10055,8 +10055,8 @@
   "id": "r009674",
   "kind": "string",
   "jp": "きたえた体で",
-  "en": "",
-  "status": "new",
+  "en": "Trained body",
+  "status": "done",
   "ptrs": [
    "0x7d94"
   ],
@@ -10066,8 +10066,8 @@
   "id": "r009684",
   "kind": "string",
   "jp": "ＨＰがふえる",
-  "en": "",
-  "status": "new",
+  "en": "HP rises",
+  "status": "done",
   "ptrs": [
    "0x7d98"
   ],
@@ -10077,8 +10077,8 @@
   "id": "r009694",
   "kind": "string",
   "jp": "でもきたえすぎて",
-  "en": "",
-  "status": "new",
+  "en": "but overtrained,",
+  "status": "done",
   "ptrs": [
    "0x7d9c"
   ],
@@ -10088,8 +10088,8 @@
   "id": "r0096a8",
   "kind": "string",
   "jp": "ちょっとＡＰが",
-  "en": "",
-  "status": "new",
+  "en": "AP drops",
+  "status": "done",
   "ptrs": [
    "0x7da0"
   ],
@@ -10099,8 +10099,8 @@
   "id": "r0096b8",
   "kind": "string",
   "jp": "へってしまう",
-  "en": "",
-  "status": "new",
+  "en": "a little",
+  "status": "done",
   "ptrs": [
    "0x7da4"
   ],
@@ -10110,8 +10110,8 @@
   "id": "r0096c8",
   "kind": "string",
   "jp": "ガッツ",
-  "en": "",
-  "status": "new",
+  "en": "Gutsy",
+  "status": "done",
   "ptrs": [
    "0x7db8"
   ],
@@ -10121,8 +10121,8 @@
   "id": "r0096d0",
   "kind": "string",
   "jp": "もえる心で",
-  "en": "",
-  "status": "new",
+  "en": "Hot heart:",
+  "status": "done",
   "ptrs": [
    "0x7dbc"
   ],
@@ -10132,8 +10132,8 @@
   "id": "r0096dc",
   "kind": "string",
   "jp": "ＡＰがふえる",
-  "en": "",
-  "status": "new",
+  "en": "AP rises",
+  "status": "done",
   "ptrs": [
    "0x7dc0"
   ],
@@ -10143,8 +10143,8 @@
   "id": "r0096ec",
   "kind": "string",
   "jp": "でももえすぎて",
-  "en": "",
-  "status": "new",
+  "en": "but too hot,",
+  "status": "done",
   "ptrs": [
    "0x7dc4"
   ],
@@ -10154,8 +10154,8 @@
   "id": "r0096fc",
   "kind": "string",
   "jp": "ちょっとＨＰが",
-  "en": "",
-  "status": "new",
+  "en": "HP drops",
+  "status": "done",
   "ptrs": [
    "0x7dc8"
   ],
@@ -10165,8 +10165,8 @@
   "id": "r00970c",
   "kind": "string",
   "jp": "へってしまう",
-  "en": "",
-  "status": "new",
+  "en": "a little",
+  "status": "done",
   "ptrs": [
    "0x7dcc"
   ],
@@ -10176,8 +10176,8 @@
   "id": "r00971c",
   "kind": "string",
   "jp": "ごうわん",
-  "en": "",
-  "status": "new",
+  "en": "Iron Arm",
+  "status": "done",
   "ptrs": [
    "0x7de0"
   ],
@@ -10187,8 +10187,8 @@
   "id": "r009728",
   "kind": "string",
   "jp": "うなるキンニクで",
-  "en": "",
-  "status": "new",
+  "en": "Roaring muscles:",
+  "status": "done",
   "ptrs": [
    "0x7de4"
   ],
@@ -10198,8 +10198,8 @@
   "id": "r00973c",
   "kind": "string",
   "jp": "こうげきＵＰ",
-  "en": "",
-  "status": "new",
+  "en": "attack UP",
+  "status": "done",
   "ptrs": [
    "0x7de8"
   ],
@@ -10209,8 +10209,8 @@
   "id": "r00974c",
   "kind": "string",
   "jp": "うなりすぎて",
-  "en": "",
-  "status": "new",
+  "en": "Overflexed,",
+  "status": "done",
   "ptrs": [
    "0x7dec"
   ],
@@ -10220,8 +10220,8 @@
   "id": "r00975c",
   "kind": "string",
   "jp": "球こうげきが",
-  "en": "",
-  "status": "new",
+  "en": "ball attack",
+  "status": "done",
   "ptrs": [
    "0x7df0"
   ],
@@ -10231,8 +10231,8 @@
   "id": "r00976c",
   "kind": "string",
   "jp": "へってしまう",
-  "en": "",
-  "status": "new",
+  "en": "drops",
+  "status": "done",
   "ptrs": [
    "0x7df4"
   ],
@@ -10242,8 +10242,8 @@
   "id": "r00977c",
   "kind": "string",
   "jp": "プレッシャー",
-  "en": "",
-  "status": "new",
+  "en": "Pressure",
+  "status": "done",
   "ptrs": [
    "0x7e08"
   ],
@@ -10253,8 +10253,8 @@
   "id": "r00978c",
   "kind": "string",
   "jp": "相手をビビらせる",
-  "en": "",
-  "status": "new",
+  "en": "Spooks the foe:",
+  "status": "done",
   "ptrs": [
    "0x7e0c"
   ],
@@ -10264,8 +10264,8 @@
   "id": "r0097a0",
   "kind": "string",
   "jp": "ＡこうげきＵＰだ",
-  "en": "",
-  "status": "new",
+  "en": "aura attack UP",
+  "status": "done",
   "ptrs": [
    "0x7e10"
   ],
@@ -10275,8 +10275,8 @@
   "id": "r0097b4",
   "kind": "string",
   "jp": "気合いれすぎて",
-  "en": "",
-  "status": "new",
+  "en": "Too keyed up:",
+  "status": "done",
   "ptrs": [
    "0x7e14"
   ],
@@ -10286,8 +10286,8 @@
   "id": "r0097c4",
   "kind": "string",
   "jp": "球Ａこうげきが",
-  "en": "",
-  "status": "new",
+  "en": "ball aura atk",
+  "status": "done",
   "ptrs": [
    "0x7e18"
   ],
@@ -10297,8 +10297,8 @@
   "id": "r0097d4",
   "kind": "string",
   "jp": "へってしまう",
-  "en": "",
-  "status": "new",
+  "en": "drops",
+  "status": "done",
   "ptrs": [
    "0x7e1c"
   ],
@@ -10308,8 +10308,8 @@
   "id": "r0097e4",
   "kind": "string",
   "jp": "しゅんびん",
-  "en": "",
-  "status": "new",
+  "en": "Swift",
+  "status": "done",
   "ptrs": [
    "0x7e30"
   ],
@@ -10319,8 +10319,8 @@
   "id": "r0097f0",
   "kind": "string",
   "jp": "スピードアップで",
-  "en": "",
-  "status": "new",
+  "en": "With speed UP,",
+  "status": "done",
   "ptrs": [
    "0x7e34"
   ],
@@ -10330,8 +10330,8 @@
   "id": "r009804",
   "kind": "string",
   "jp": "きびんに動く",
-  "en": "",
-  "status": "new",
+  "en": "move nimbly",
+  "status": "done",
   "ptrs": [
    "0x7e38"
   ],
@@ -10341,8 +10341,8 @@
   "id": "r009814",
   "kind": "string",
   "jp": "落ち着きがなくて",
-  "en": "",
-  "status": "new",
+  "en": "But restless,",
+  "status": "done",
   "ptrs": [
    "0x7e3c"
   ],
@@ -10352,8 +10352,8 @@
   "id": "r009828",
   "kind": "string",
   "jp": "球スピードが",
-  "en": "",
-  "status": "new",
+  "en": "ball speed",
+  "status": "done",
   "ptrs": [
    "0x7e40"
   ],
@@ -10363,8 +10363,8 @@
   "id": "r009838",
   "kind": "string",
   "jp": "へってしまう",
-  "en": "",
-  "status": "new",
+  "en": "drops",
+  "status": "done",
   "ptrs": [
    "0x7e44"
   ],
@@ -10374,8 +10374,8 @@
   "id": "r009848",
   "kind": "string",
   "jp": "ちょとつもうしん",
-  "en": "",
-  "status": "new",
+  "en": "Reckless",
+  "status": "done",
   "ptrs": [
    "0x7e58"
   ],
@@ -10385,8 +10385,8 @@
   "id": "r00985c",
   "kind": "string",
   "jp": "前へ前へで",
-  "en": "",
-  "status": "new",
+  "en": "All-out:",
+  "status": "done",
   "ptrs": [
    "0x7e5c"
   ],
@@ -10396,8 +10396,8 @@
   "id": "r009868",
   "kind": "string",
   "jp": "球こうげきＵＰ",
-  "en": "",
-  "status": "new",
+  "en": "ball atk UP",
+  "status": "done",
   "ptrs": [
    "0x7e60"
   ],
@@ -10407,8 +10407,8 @@
   "id": "r009878",
   "kind": "string",
   "jp": "でも前に出すぎて",
-  "en": "",
-  "status": "new",
+  "en": "but too forward,",
+  "status": "done",
   "ptrs": [
    "0x7e64"
   ],
@@ -10418,8 +10418,8 @@
   "id": "r00988c",
   "kind": "string",
   "jp": "人こうげきが",
-  "en": "",
-  "status": "new",
+  "en": "body attack",
+  "status": "done",
   "ptrs": [
    "0x7e68"
   ],
@@ -10429,8 +10429,8 @@
   "id": "r00989c",
   "kind": "string",
   "jp": "へってしまう",
-  "en": "",
-  "status": "new",
+  "en": "drops",
+  "status": "done",
   "ptrs": [
    "0x7e6c"
   ],
@@ -10440,8 +10440,8 @@
   "id": "r0098ac",
   "kind": "string",
   "jp": "ひょうろくだま",
-  "en": "",
-  "status": "new",
+  "en": "Bluffer",
+  "status": "done",
   "ptrs": [
    "0x7e80"
   ],
@@ -10451,8 +10451,8 @@
   "id": "r0098bc",
   "kind": "string",
   "jp": "ダメと見せかけて",
-  "en": "",
-  "status": "new",
+  "en": "Faking weakness:",
+  "status": "done",
   "ptrs": [
    "0x7e84"
   ],
@@ -10462,8 +10462,8 @@
   "id": "r0098d0",
   "kind": "string",
   "jp": "球ＡこうげきＵＰ",
-  "en": "",
-  "status": "new",
+  "en": "ball aura UP",
+  "status": "done",
   "ptrs": [
    "0x7e88"
   ],
@@ -10473,8 +10473,8 @@
   "id": "r0098e4",
   "kind": "string",
   "jp": "ダメに見えすぎて",
-  "en": "",
-  "status": "new",
+  "en": "fakes too well,",
+  "status": "done",
   "ptrs": [
    "0x7e8c"
   ],
@@ -10484,8 +10484,8 @@
   "id": "r0098f8",
   "kind": "string",
   "jp": "人Ａこうげきが",
-  "en": "",
-  "status": "new",
+  "en": "body aura atk",
+  "status": "done",
   "ptrs": [
    "0x7e90"
   ],
@@ -10495,8 +10495,8 @@
   "id": "r009908",
   "kind": "string",
   "jp": "へってしまう",
-  "en": "",
-  "status": "new",
+  "en": "drops",
+  "status": "done",
   "ptrs": [
    "0x7e94"
   ],
@@ -10506,8 +10506,8 @@
   "id": "r009918",
   "kind": "string",
   "jp": "どんでんがえし",
-  "en": "",
-  "status": "new",
+  "en": "Turnabout",
+  "status": "done",
   "ptrs": [
    "0x7ea8"
   ],
@@ -10517,8 +10517,8 @@
   "id": "r009928",
   "kind": "string",
   "jp": "すごい回転で",
-  "en": "",
-  "status": "new",
+  "en": "Wild spin:",
+  "status": "done",
   "ptrs": [
    "0x7eac"
   ],
@@ -10528,8 +10528,8 @@
   "id": "r009938",
   "kind": "string",
   "jp": "球スピードＵＰ",
-  "en": "",
-  "status": "new",
+  "en": "ball spd UP",
+  "status": "done",
   "ptrs": [
    "0x7eb0"
   ],
@@ -10539,8 +10539,8 @@
   "id": "r009948",
   "kind": "string",
   "jp": "回りすぎて",
-  "en": "",
-  "status": "new",
+  "en": "Overspun,",
+  "status": "done",
   "ptrs": [
    "0x7eb4"
   ],
@@ -10550,8 +10550,8 @@
   "id": "r009954",
   "kind": "string",
   "jp": "人スピードが",
-  "en": "",
-  "status": "new",
+  "en": "body speed",
+  "status": "done",
   "ptrs": [
    "0x7eb8"
   ],
@@ -10561,8 +10561,8 @@
   "id": "r009964",
   "kind": "string",
   "jp": "へってしまう",
-  "en": "",
-  "status": "new",
+  "en": "drops",
+  "status": "done",
   "ptrs": [
    "0x7ebc"
   ],
@@ -10572,8 +10572,8 @@
   "id": "r009974",
   "kind": "string",
   "jp": "とっておき",
-  "en": "",
-  "status": "new",
+  "en": "Ace Card",
+  "status": "done",
   "ptrs": [
    "0x7ed0"
   ],
@@ -10583,8 +10583,8 @@
   "id": "r009980",
   "kind": "string",
   "jp": "切りふだかくして",
-  "en": "",
-  "status": "new",
+  "en": "A hidden trump:",
+  "status": "done",
   "ptrs": [
    "0x7ed4"
   ],
@@ -10594,8 +10594,8 @@
   "id": "r009994",
   "kind": "string",
   "jp": "サイズＵＰ",
-  "en": "",
-  "status": "new",
+  "en": "Size UP",
+  "status": "done",
   "ptrs": [
    "0x7ed8"
   ],
@@ -10605,8 +10605,8 @@
   "id": "r0099a0",
   "kind": "string",
   "jp": "でもかくしすぎて",
-  "en": "",
-  "status": "new",
+  "en": "hidden too well,",
+  "status": "done",
   "ptrs": [
    "0x7edc"
   ],
@@ -10616,8 +10616,8 @@
   "id": "r0099b4",
   "kind": "string",
   "jp": "ＨＰとＡＰが",
-  "en": "",
-  "status": "new",
+  "en": "HP & AP",
+  "status": "done",
   "ptrs": [
    "0x7ee0"
   ],
@@ -10627,8 +10627,8 @@
   "id": "r0099c4",
   "kind": "string",
   "jp": "へってしまう",
-  "en": "",
-  "status": "new",
+  "en": "drops",
+  "status": "done",
   "ptrs": [
    "0x7ee4"
   ],
@@ -10638,8 +10638,8 @@
   "id": "r0099d4",
   "kind": "string",
   "jp": "ばんかい",
-  "en": "",
-  "status": "new",
+  "en": "Comeback",
+  "status": "done",
   "ptrs": [
    "0x7ef8"
   ],
@@ -10649,8 +10649,8 @@
   "id": "r0099e0",
   "kind": "string",
   "jp": "やられても",
-  "en": "",
-  "status": "new",
+  "en": "Even hit,",
+  "status": "done",
   "ptrs": [
    "0x7efc"
   ],
@@ -10660,8 +10660,8 @@
   "id": "r0099ec",
   "kind": "string",
   "jp": "ＨＲからすばやく",
-  "en": "",
-  "status": "new",
+  "en": "recover fast",
+  "status": "done",
   "ptrs": [
    "0x7f00"
   ],
@@ -10671,8 +10671,8 @@
   "id": "r009a00",
   "kind": "string",
   "jp": "ふっきだ",
-  "en": "",
-  "status": "new",
+  "en": "via HR",
+  "status": "done",
   "ptrs": [
    "0x7f04"
   ],
@@ -10682,8 +10682,8 @@
   "id": "r009a0c",
   "kind": "string",
   "jp": "いろいろ少しづつ",
-  "en": "",
-  "status": "new",
+  "en": "Other stats",
+  "status": "done",
   "ptrs": [
    "0x7f08"
   ],
@@ -10693,8 +10693,8 @@
   "id": "r009a20",
   "kind": "string",
   "jp": "へってしまう",
-  "en": "",
-  "status": "new",
+  "en": "drop a bit",
+  "status": "done",
   "ptrs": [
    "0x7f0c"
   ],
@@ -10704,8 +10704,8 @@
   "id": "r009a30",
   "kind": "string",
   "jp": "こんじょう",
-  "en": "",
-  "status": "new",
+  "en": "Gumption",
+  "status": "done",
   "ptrs": [
    "0x7f20"
   ],
@@ -10715,8 +10715,8 @@
   "id": "r009a3c",
   "kind": "string",
   "jp": "こんじょうで",
-  "en": "",
-  "status": "new",
+  "en": "With grit,",
+  "status": "done",
   "ptrs": [
    "0x7f24"
   ],
@@ -10726,8 +10726,8 @@
   "id": "r009a4c",
   "kind": "string",
   "jp": "ＡＰをすばやく",
-  "en": "",
-  "status": "new",
+  "en": "AP recovers",
+  "status": "done",
   "ptrs": [
    "0x7f28"
   ],
@@ -10737,8 +10737,8 @@
   "id": "r009a5c",
   "kind": "string",
   "jp": "カイフクだ",
-  "en": "",
-  "status": "new",
+  "en": "quickly!",
+  "status": "done",
   "ptrs": [
    "0x7f2c"
   ],
@@ -10748,8 +10748,8 @@
   "id": "r009a68",
   "kind": "string",
   "jp": "いろいろ少しづつ",
-  "en": "",
-  "status": "new",
+  "en": "Other stats",
+  "status": "done",
   "ptrs": [
    "0x7f30"
   ],
@@ -10759,8 +10759,8 @@
   "id": "r009a7c",
   "kind": "string",
   "jp": "へってしまう",
-  "en": "",
-  "status": "new",
+  "en": "drop a bit",
+  "status": "done",
   "ptrs": [
    "0x7f34"
   ],
@@ -10770,8 +10770,8 @@
   "id": "r009a8c",
   "kind": "string",
   "jp": "ぜんのう",
-  "en": "",
-  "status": "new",
+  "en": "Almighty",
+  "status": "done",
   "ptrs": [
    "0x7f48"
   ],
@@ -10781,8 +10781,8 @@
   "id": "r009a98",
   "kind": "string",
   "jp": "すきのない強さで",
-  "en": "",
-  "status": "new",
+  "en": "Flawless might:",
+  "status": "done",
   "ptrs": [
    "0x7f4c"
   ],
@@ -10792,8 +10792,8 @@
   "id": "r009aac",
   "kind": "string",
   "jp": "ほぼ全てがＵＰだ",
-  "en": "",
-  "status": "new",
+  "en": "nearly all UP!",
+  "status": "done",
   "ptrs": [
    "0x7f50"
   ],
@@ -10803,8 +10803,8 @@
   "id": "r009ac0",
   "kind": "string",
   "jp": "そんな人でも",
-  "en": "",
-  "status": "new",
+  "en": "Even so, it",
+  "status": "done",
   "ptrs": [
    "0x7f54"
   ],
@@ -10814,8 +10814,8 @@
   "id": "r009ad0",
   "kind": "string",
   "jp": "サイズがへる",
-  "en": "",
-  "status": "new",
+  "en": "lowers Size:",
+  "status": "done",
   "ptrs": [
    "0x7f58"
   ],
@@ -10825,8 +10825,8 @@
   "id": "r009ae0",
   "kind": "string",
   "jp": "弱点がある",
-  "en": "",
-  "status": "new",
+  "en": "a weakness",
+  "status": "done",
   "ptrs": [
    "0x7f5c"
   ],
@@ -10836,8 +10836,8 @@
   "id": "r009aec",
   "kind": "string",
   "jp": "せっかち",
-  "en": "",
-  "status": "new",
+  "en": "Hasty",
+  "status": "done",
   "ptrs": [
    "0x7f70"
   ],
@@ -10847,8 +10847,8 @@
   "id": "r009af8",
   "kind": "string",
   "jp": "たかぶる心で",
-  "en": "",
-  "status": "new",
+  "en": "Fired up:",
+  "status": "done",
   "ptrs": [
    "0x7f74"
   ],
@@ -10858,8 +10858,8 @@
   "id": "r009b08",
   "kind": "string",
   "jp": "ＨＰとこうげきを",
-  "en": "",
-  "status": "new",
+  "en": "HP & attack",
+  "status": "done",
   "ptrs": [
    "0x7f78"
   ],
@@ -10869,8 +10869,8 @@
   "id": "r009b1c",
   "kind": "string",
   "jp": "ＵＰだ",
-  "en": "",
-  "status": "new",
+  "en": "UP!",
+  "status": "done",
   "ptrs": [
    "0x7f7c"
   ],
@@ -10880,8 +10880,8 @@
   "id": "r009b24",
   "kind": "string",
   "jp": "たかぶりすぎて",
-  "en": "",
-  "status": "new",
+  "en": "Too fired up:",
+  "status": "done",
   "ptrs": [
    "0x7f80"
   ],
@@ -10891,8 +10891,8 @@
   "id": "r009b34",
   "kind": "string",
   "jp": "ＡＰと球がダウン",
-  "en": "",
-  "status": "new",
+  "en": "AP & ball DOWN",
+  "status": "done",
   "ptrs": [
    "0x7f84"
   ],
@@ -10902,8 +10902,8 @@
   "id": "r009b48",
   "kind": "string",
   "jp": "ほんき",
-  "en": "",
-  "status": "new",
+  "en": "Zeal",
+  "status": "done",
   "ptrs": [
    "0x7f98"
   ],
@@ -10913,8 +10913,8 @@
   "id": "r009b50",
   "kind": "string",
   "jp": "ホンキモードで",
-  "en": "",
-  "status": "new",
+  "en": "In zeal mode,",
+  "status": "done",
   "ptrs": [
    "0x7f9c"
   ],
@@ -10924,8 +10924,8 @@
   "id": "r009b60",
   "kind": "string",
   "jp": "ＡＰとこうげきを",
-  "en": "",
-  "status": "new",
+  "en": "AP & attack",
+  "status": "done",
   "ptrs": [
    "0x7fa0"
   ],
@@ -10935,8 +10935,8 @@
   "id": "r009b74",
   "kind": "string",
   "jp": "ＵＰだ",
-  "en": "",
-  "status": "new",
+  "en": "UP!",
+  "status": "done",
   "ptrs": [
    "0x7fa4"
   ],
@@ -10946,8 +10946,8 @@
   "id": "r009b7c",
   "kind": "string",
   "jp": "ホンキすぎて",
-  "en": "",
-  "status": "new",
+  "en": "Too zealous:",
+  "status": "done",
   "ptrs": [
    "0x7fa8"
   ],
@@ -10957,8 +10957,8 @@
   "id": "r009b8c",
   "kind": "string",
   "jp": "ＨＰと球がダウン",
-  "en": "",
-  "status": "new",
+  "en": "HP & ball DOWN",
+  "status": "done",
   "ptrs": [
    "0x7fac"
   ],
@@ -10968,8 +10968,8 @@
   "id": "r009ba0",
   "kind": "string",
   "jp": "へっちゃら",
-  "en": "",
-  "status": "new",
+  "en": "Unfazed",
+  "status": "done",
   "ptrs": [
    "0x7fc0"
   ],
@@ -10979,8 +10979,8 @@
   "id": "r009bac",
   "kind": "string",
   "jp": "びくともしない",
-  "en": "",
-  "status": "new",
+  "en": "Unshakable",
+  "status": "done",
   "ptrs": [
    "0x7fc4"
   ],
@@ -10990,8 +10990,8 @@
   "id": "r009bbc",
   "kind": "string",
   "jp": "心と体でＨＰと",
-  "en": "",
-  "status": "new",
+  "en": "mind & body:",
+  "status": "done",
   "ptrs": [
    "0x7fc8"
   ],
@@ -11001,8 +11001,8 @@
   "id": "r009bcc",
   "kind": "string",
   "jp": "ロールこうげきを",
-  "en": "",
-  "status": "new",
+  "en": "HP & Roll atk",
+  "status": "done",
   "ptrs": [
    "0x7fcc"
   ],
@@ -11012,8 +11012,8 @@
   "id": "r009be0",
   "kind": "string",
   "jp": "ＵＰだ　ＡＰと",
-  "en": "",
-  "status": "new",
+  "en": "UP! AP and",
+  "status": "done",
   "ptrs": [
    "0x7fd0"
   ],
@@ -11023,8 +11023,8 @@
   "id": "r009bf0",
   "kind": "string",
   "jp": "スピードがダウン",
-  "en": "",
-  "status": "new",
+  "en": "speed DOWN",
+  "status": "done",
   "ptrs": [
    "0x7fd4"
   ],
@@ -11034,8 +11034,8 @@
   "id": "r009c04",
   "kind": "string",
   "jp": "のうてんき",
-  "en": "",
-  "status": "new",
+  "en": "Carefree",
+  "status": "done",
   "ptrs": [
    "0x7fe8"
   ],
@@ -11045,8 +11045,8 @@
   "id": "r009c10",
   "kind": "string",
   "jp": "マイペースな",
-  "en": "",
-  "status": "new",
+  "en": "Easygoing",
+  "status": "done",
   "ptrs": [
    "0x7fec"
   ],
@@ -11056,8 +11056,8 @@
   "id": "r009c20",
   "kind": "string",
   "jp": "心と体でＡＰと",
-  "en": "",
-  "status": "new",
+  "en": "mind & body:",
+  "status": "done",
   "ptrs": [
    "0x7ff0"
   ],
@@ -11067,8 +11067,8 @@
   "id": "r009c30",
   "kind": "string",
   "jp": "ロールこうげきを",
-  "en": "",
-  "status": "new",
+  "en": "AP & Roll atk",
+  "status": "done",
   "ptrs": [
    "0x7ff4"
   ],
@@ -11078,8 +11078,8 @@
   "id": "r009c44",
   "kind": "string",
   "jp": "ＵＰだ　ＡＰと",
-  "en": "",
-  "status": "new",
+  "en": "UP! AP and",
+  "status": "done",
   "ptrs": [
    "0x7ff8"
   ],
@@ -11089,8 +11089,8 @@
   "id": "r009c54",
   "kind": "string",
   "jp": "スピードがダウン",
-  "en": "",
-  "status": "new",
+  "en": "speed DOWN",
+  "status": "done",
   "ptrs": [
    "0x7ffc"
   ],
@@ -11100,8 +11100,8 @@
   "id": "r009c68",
   "kind": "string",
   "jp": "がんこ",
-  "en": "",
-  "status": "new",
+  "en": "Mulish",
+  "status": "done",
   "ptrs": [
    "0x8010"
   ],
@@ -11111,8 +11111,8 @@
   "id": "r009c70",
   "kind": "string",
   "jp": "おれない心は",
-  "en": "",
-  "status": "new",
+  "en": "A firm mind",
+  "status": "done",
   "ptrs": [
    "0x8014"
   ],
@@ -11122,8 +11122,8 @@
   "id": "r009c80",
   "kind": "string",
   "jp": "ＨＰとこうげきを",
-  "en": "",
-  "status": "new",
+  "en": "HP & attack",
+  "status": "done",
   "ptrs": [
    "0x8018"
   ],
@@ -11133,8 +11133,8 @@
   "id": "r009c94",
   "kind": "string",
   "jp": "ＵＰだ　ＡＰと",
-  "en": "",
-  "status": "new",
+  "en": "UP! AP and",
+  "status": "done",
   "ptrs": [
    "0x801c"
   ],
@@ -11144,8 +11144,8 @@
   "id": "r009ca4",
   "kind": "string",
   "jp": "ロールＡこうげき",
-  "en": "",
-  "status": "new",
+  "en": "Roll aura atk",
+  "status": "done",
   "ptrs": [
    "0x8020"
   ],
@@ -11155,8 +11155,8 @@
   "id": "r009cb8",
   "kind": "string",
   "jp": "がへってしまう",
-  "en": "",
-  "status": "new",
+  "en": "DOWN",
+  "status": "done",
   "ptrs": [
    "0x8024"
   ],
@@ -11166,8 +11166,8 @@
   "id": "r009cc8",
   "kind": "string",
   "jp": "しゅうちゅう",
-  "en": "",
-  "status": "new",
+  "en": "Focus",
+  "status": "done",
   "ptrs": [
    "0x8038"
   ],
@@ -11177,8 +11177,8 @@
   "id": "r009cd8",
   "kind": "string",
   "jp": "わきみしない心は",
-  "en": "",
-  "status": "new",
+  "en": "A focused mind:",
+  "status": "done",
   "ptrs": [
    "0x803c"
   ],
@@ -11188,8 +11188,8 @@
   "id": "r009cec",
   "kind": "string",
   "jp": "ＡＰとＡこうげき",
-  "en": "",
-  "status": "new",
+  "en": "AP & aura atk",
+  "status": "done",
   "ptrs": [
    "0x8040"
   ],
@@ -11199,8 +11199,8 @@
   "id": "r009d00",
   "kind": "string",
   "jp": "をＵＰだ　ＨＰと",
-  "en": "",
-  "status": "new",
+  "en": "UP! HP and",
+  "status": "done",
   "ptrs": [
    "0x8044"
   ],
@@ -11210,8 +11210,8 @@
   "id": "r009d14",
   "kind": "string",
   "jp": "ロールのこうげき",
-  "en": "",
-  "status": "new",
+  "en": "Roll attack",
+  "status": "done",
   "ptrs": [
    "0x8048"
   ],
@@ -11221,8 +11221,8 @@
   "id": "r009d28",
   "kind": "string",
   "jp": "がへってしまう",
-  "en": "",
-  "status": "new",
+  "en": "DOWN",
+  "status": "done",
   "ptrs": [
    "0x804c"
   ],
@@ -11232,8 +11232,8 @@
   "id": "r009d38",
   "kind": "string",
   "jp": "せっきょくてき",
-  "en": "",
-  "status": "new",
+  "en": "Go-getter",
+  "status": "done",
   "ptrs": [
    "0x8060"
   ],
@@ -11243,8 +11243,8 @@
   "id": "r009d48",
   "kind": "string",
   "jp": "当たってくだける",
-  "en": "",
-  "status": "new",
+  "en": "A go-for-broke",
+  "status": "done",
   "ptrs": [
    "0x8064"
   ],
@@ -11254,8 +11254,8 @@
   "id": "r009d5c",
   "kind": "string",
   "jp": "心はＨＰと",
-  "en": "",
-  "status": "new",
+  "en": "mind: HP",
+  "status": "done",
   "ptrs": [
    "0x8068"
   ],
@@ -11265,8 +11265,8 @@
   "id": "r009d68",
   "kind": "string",
   "jp": "全スピードをＵＰ",
-  "en": "",
-  "status": "new",
+  "en": "& all speed UP",
+  "status": "done",
   "ptrs": [
    "0x806c"
   ],
@@ -11276,8 +11276,8 @@
   "id": "r009d7c",
   "kind": "string",
   "jp": "させる",
-  "en": "",
-  "status": "new",
+  "en": "but",
+  "status": "done",
   "ptrs": [
    "0x8070"
   ],
@@ -11287,8 +11287,8 @@
   "id": "r009d84",
   "kind": "string",
   "jp": "こうげきがダウン",
-  "en": "",
-  "status": "new",
+  "en": "attack DOWN",
+  "status": "done",
   "ptrs": [
    "0x8074"
   ],
@@ -11298,8 +11298,8 @@
   "id": "r009d98",
   "kind": "string",
   "jp": "むじゃき",
-  "en": "",
-  "status": "new",
+  "en": "Naive",
+  "status": "done",
   "ptrs": [
    "0x8088"
   ],
@@ -11309,8 +11309,8 @@
   "id": "r009da4",
   "kind": "string",
   "jp": "あくいのない心は",
-  "en": "",
-  "status": "new",
+  "en": "An innocent mind",
+  "status": "done",
   "ptrs": [
    "0x808c"
   ],
@@ -11320,8 +11320,8 @@
   "id": "r009db8",
   "kind": "string",
   "jp": "ＡＰと",
-  "en": "",
-  "status": "new",
+  "en": "AP &",
+  "status": "done",
   "ptrs": [
    "0x8090"
   ],
@@ -11331,8 +11331,8 @@
   "id": "r009dc0",
   "kind": "string",
   "jp": "全スピードをＵＰ",
-  "en": "",
-  "status": "new",
+  "en": "all speed UP,",
+  "status": "done",
   "ptrs": [
    "0x8094"
   ],
@@ -11342,8 +11342,8 @@
   "id": "r009dd4",
   "kind": "string",
   "jp": "させる",
-  "en": "",
-  "status": "new",
+  "en": "but",
+  "status": "done",
   "ptrs": [
    "0x8098"
   ],
@@ -11353,8 +11353,8 @@
   "id": "r009ddc",
   "kind": "string",
   "jp": "こうげきがダウン",
-  "en": "",
-  "status": "new",
+  "en": "attack DOWN",
+  "status": "done",
   "ptrs": [
    "0x809c"
   ],
@@ -11364,8 +11364,8 @@
   "id": "r009df0",
   "kind": "string",
   "jp": "ＢＬめいじん",
-  "en": "",
-  "status": "new",
+  "en": "BL Ace",
+  "status": "done",
   "ptrs": [
    "0x80b0"
   ],
@@ -11375,8 +11375,8 @@
   "id": "r009e00",
   "kind": "string",
   "jp": "ＢＬをセットで",
-  "en": "",
-  "status": "new",
+  "en": "Set BL:",
+  "status": "done",
   "ptrs": [
    "0x80b4"
   ],
@@ -11386,8 +11386,8 @@
   "id": "r009e10",
   "kind": "string",
   "jp": "人のこうげきが",
-  "en": "",
-  "status": "new",
+  "en": "body attack",
+  "status": "done",
   "ptrs": [
    "0x80b8"
   ],
@@ -11397,8 +11397,8 @@
   "id": "r009e20",
   "kind": "string",
   "jp": "強くなる",
-  "en": "",
-  "status": "new",
+  "en": "rises",
+  "status": "done",
   "ptrs": [
    "0x80bc"
   ],
@@ -11408,8 +11408,8 @@
   "id": "r009e34",
   "kind": "string",
   "jp": "ＥｘＢＬめいじん",
-  "en": "",
-  "status": "new",
+  "en": "ExBL Ace",
+  "status": "done",
   "ptrs": [
    "0x80d8"
   ],
@@ -11419,8 +11419,8 @@
   "id": "r009e48",
   "kind": "string",
   "jp": "ＥｘＢＬセットで",
-  "en": "",
-  "status": "new",
+  "en": "Set ExBL:",
+  "status": "done",
   "ptrs": [
    "0x80dc"
   ],
@@ -11430,8 +11430,8 @@
   "id": "r009e5c",
   "kind": "string",
   "jp": "人のこうげきが",
-  "en": "",
-  "status": "new",
+  "en": "body attack",
+  "status": "done",
   "ptrs": [
    "0x80e0"
   ],
@@ -11441,8 +11441,8 @@
   "id": "r009e6c",
   "kind": "string",
   "jp": "強くなる",
-  "en": "",
-  "status": "new",
+  "en": "rises",
+  "status": "done",
   "ptrs": [
    "0x80e4"
   ],
@@ -11452,8 +11452,8 @@
   "id": "r009e80",
   "kind": "string",
   "jp": "ＳＴめいじん",
-  "en": "",
-  "status": "new",
+  "en": "ST Ace",
+  "status": "done",
   "ptrs": [
    "0x8100"
   ],
@@ -11463,8 +11463,8 @@
   "id": "r009e90",
   "kind": "string",
   "jp": "ＳＴをセットで",
-  "en": "",
-  "status": "new",
+  "en": "Set ST:",
+  "status": "done",
   "ptrs": [
    "0x8104"
   ],
@@ -11474,8 +11474,8 @@
   "id": "r009ea0",
   "kind": "string",
   "jp": "人のこうげきが",
-  "en": "",
-  "status": "new",
+  "en": "body attack",
+  "status": "done",
   "ptrs": [
    "0x8108"
   ],
@@ -11485,8 +11485,8 @@
   "id": "r009eb0",
   "kind": "string",
   "jp": "強くなる",
-  "en": "",
-  "status": "new",
+  "en": "rises",
+  "status": "done",
   "ptrs": [
    "0x810c"
   ],
@@ -11496,8 +11496,8 @@
   "id": "r009ec4",
   "kind": "string",
   "jp": "ＥｘＳＴめいじん",
-  "en": "",
-  "status": "new",
+  "en": "ExST Ace",
+  "status": "done",
   "ptrs": [
    "0x8128"
   ],
@@ -11507,8 +11507,8 @@
   "id": "r009ed8",
   "kind": "string",
   "jp": "ＥｘＳＴセットで",
-  "en": "",
-  "status": "new",
+  "en": "Set ExST:",
+  "status": "done",
   "ptrs": [
    "0x812c"
   ],
@@ -11518,8 +11518,8 @@
   "id": "r009eec",
   "kind": "string",
   "jp": "人のこうげきが",
-  "en": "",
-  "status": "new",
+  "en": "body attack",
+  "status": "done",
   "ptrs": [
    "0x8130"
   ],
@@ -11529,8 +11529,8 @@
   "id": "r009efc",
   "kind": "string",
   "jp": "強くなる",
-  "en": "",
-  "status": "new",
+  "en": "rises",
+  "status": "done",
   "ptrs": [
    "0x8134"
   ],
@@ -11540,8 +11540,8 @@
   "id": "r009f10",
   "kind": "string",
   "jp": "ＨＵめいじん",
-  "en": "",
-  "status": "new",
+  "en": "HU Ace",
+  "status": "done",
   "ptrs": [
    "0x8150"
   ],
@@ -11551,8 +11551,8 @@
   "id": "r009f20",
   "kind": "string",
   "jp": "ＨＵをセットで",
-  "en": "",
-  "status": "new",
+  "en": "Set HU:",
+  "status": "done",
   "ptrs": [
    "0x8154"
   ],
@@ -11562,8 +11562,8 @@
   "id": "r009f30",
   "kind": "string",
   "jp": "人のこうげきが",
-  "en": "",
-  "status": "new",
+  "en": "body attack",
+  "status": "done",
   "ptrs": [
    "0x8158"
   ],
@@ -11573,8 +11573,8 @@
   "id": "r009f40",
   "kind": "string",
   "jp": "強くなる",
-  "en": "",
-  "status": "new",
+  "en": "rises",
+  "status": "done",
   "ptrs": [
    "0x815c"
   ],
@@ -11584,8 +11584,8 @@
   "id": "r009f54",
   "kind": "string",
   "jp": "ＥｘＨＵめいじん",
-  "en": "",
-  "status": "new",
+  "en": "ExHU Ace",
+  "status": "done",
   "ptrs": [
    "0x8178"
   ],
@@ -11595,8 +11595,8 @@
   "id": "r009f68",
   "kind": "string",
   "jp": "ＥｘＨＵセットで",
-  "en": "",
-  "status": "new",
+  "en": "Set ExHU:",
+  "status": "done",
   "ptrs": [
    "0x817c"
   ],
@@ -11606,8 +11606,8 @@
   "id": "r009f7c",
   "kind": "string",
   "jp": "人のこうげきが",
-  "en": "",
-  "status": "new",
+  "en": "body attack",
+  "status": "done",
   "ptrs": [
    "0x8180"
   ],
@@ -11617,8 +11617,8 @@
   "id": "r009f8c",
   "kind": "string",
   "jp": "強くなる",
-  "en": "",
-  "status": "new",
+  "en": "rises",
+  "status": "done",
   "ptrs": [
    "0x8184"
   ],
@@ -11628,8 +11628,8 @@
   "id": "r009fa0",
   "kind": "string",
   "jp": "ＢＯめいじん",
-  "en": "",
-  "status": "new",
+  "en": "BO Ace",
+  "status": "done",
   "ptrs": [
    "0x81a0"
   ],
@@ -11639,8 +11639,8 @@
   "id": "r009fb0",
   "kind": "string",
   "jp": "ＢＯをセットで",
-  "en": "",
-  "status": "new",
+  "en": "Set BO:",
+  "status": "done",
   "ptrs": [
    "0x81a4"
   ],
@@ -11650,8 +11650,8 @@
   "id": "r009fc0",
   "kind": "string",
   "jp": "ＨＰとＡＰが",
-  "en": "",
-  "status": "new",
+  "en": "HP & AP",
+  "status": "done",
   "ptrs": [
    "0x81a8"
   ],
@@ -11661,8 +11661,8 @@
   "id": "r009fd0",
   "kind": "string",
   "jp": "ＵＰする",
-  "en": "",
-  "status": "new",
+  "en": "UP",
+  "status": "done",
   "ptrs": [
    "0x81ac"
   ],
@@ -11672,8 +11672,8 @@
   "id": "r009fe4",
   "kind": "string",
   "jp": "ＥｘＢＯめいじん",
-  "en": "",
-  "status": "new",
+  "en": "ExBO Ace",
+  "status": "done",
   "ptrs": [
    "0x81c8"
   ],
@@ -11683,8 +11683,8 @@
   "id": "r009ff8",
   "kind": "string",
   "jp": "ＥｘＢＯセットで",
-  "en": "",
-  "status": "new",
+  "en": "Set ExBO:",
+  "status": "done",
   "ptrs": [
    "0x81cc"
   ],
@@ -11694,8 +11694,8 @@
   "id": "r00a00c",
   "kind": "string",
   "jp": "ＨＰとＡＰが",
-  "en": "",
-  "status": "new",
+  "en": "HP & AP",
+  "status": "done",
   "ptrs": [
    "0x81d0"
   ],
@@ -11705,8 +11705,8 @@
   "id": "r00a01c",
   "kind": "string",
   "jp": "ＵＰする",
-  "en": "",
-  "status": "new",
+  "en": "UP",
+  "status": "done",
   "ptrs": [
    "0x81d4"
   ],
@@ -11716,8 +11716,8 @@
   "id": "r00a030",
   "kind": "string",
   "jp": "ＢＬアビリティ",
-  "en": "",
-  "status": "new",
+  "en": "BL Ability",
+  "status": "done",
   "ptrs": [
    "0x81f0"
   ],
@@ -11727,8 +11727,8 @@
   "id": "r00a040",
   "kind": "string",
   "jp": "ＢＬ、ＥｘＢＬを",
-  "en": "",
-  "status": "new",
+  "en": "BL or ExBL",
+  "status": "done",
   "ptrs": [
    "0x81f4"
   ],
@@ -11738,8 +11738,8 @@
   "id": "r00a054",
   "kind": "string",
   "jp": "セットすると",
-  "en": "",
-  "status": "new",
+  "en": "set:",
+  "status": "done",
   "ptrs": [
    "0x81f8"
   ],
@@ -11749,8 +11749,8 @@
   "id": "r00a064",
   "kind": "string",
   "jp": "人のこうげきが",
-  "en": "",
-  "status": "new",
+  "en": "body attack",
+  "status": "done",
   "ptrs": [
    "0x81fc"
   ],
@@ -11760,8 +11760,8 @@
   "id": "r00a074",
   "kind": "string",
   "jp": "強くなる",
-  "en": "",
-  "status": "new",
+  "en": "rises",
+  "status": "done",
   "ptrs": [
    "0x8200"
   ],
@@ -11771,8 +11771,8 @@
   "id": "r00a084",
   "kind": "string",
   "jp": "ＳＴアビリティ",
-  "en": "",
-  "status": "new",
+  "en": "ST Ability",
+  "status": "done",
   "ptrs": [
    "0x8218"
   ],
@@ -11782,8 +11782,8 @@
   "id": "r00a094",
   "kind": "string",
   "jp": "ＳＴ、ＥｘＳＴを",
-  "en": "",
-  "status": "new",
+  "en": "ST or ExST",
+  "status": "done",
   "ptrs": [
    "0x821c"
   ],
@@ -11793,8 +11793,8 @@
   "id": "r00a0a8",
   "kind": "string",
   "jp": "セットすると",
-  "en": "",
-  "status": "new",
+  "en": "set:",
+  "status": "done",
   "ptrs": [
    "0x8220"
   ],
@@ -11804,8 +11804,8 @@
   "id": "r00a0b8",
   "kind": "string",
   "jp": "人のこうげきが",
-  "en": "",
-  "status": "new",
+  "en": "body attack",
+  "status": "done",
   "ptrs": [
    "0x8224"
   ],
@@ -11815,8 +11815,8 @@
   "id": "r00a0c8",
   "kind": "string",
   "jp": "強くなる",
-  "en": "",
-  "status": "new",
+  "en": "rises",
+  "status": "done",
   "ptrs": [
    "0x8228"
   ],
@@ -11826,8 +11826,8 @@
   "id": "r00a0d8",
   "kind": "string",
   "jp": "ＨＵアビリティ",
-  "en": "",
-  "status": "new",
+  "en": "HU Ability",
+  "status": "done",
   "ptrs": [
    "0x8240"
   ],
@@ -11837,8 +11837,8 @@
   "id": "r00a0e8",
   "kind": "string",
   "jp": "ＨＵ、ＥｘＨＵを",
-  "en": "",
-  "status": "new",
+  "en": "HU or ExHU",
+  "status": "done",
   "ptrs": [
    "0x8244"
   ],
@@ -11848,8 +11848,8 @@
   "id": "r00a0fc",
   "kind": "string",
   "jp": "セットすると",
-  "en": "",
-  "status": "new",
+  "en": "set:",
+  "status": "done",
   "ptrs": [
    "0x8248"
   ],
@@ -11859,8 +11859,8 @@
   "id": "r00a10c",
   "kind": "string",
   "jp": "人のこうげきが",
-  "en": "",
-  "status": "new",
+  "en": "body attack",
+  "status": "done",
   "ptrs": [
    "0x824c"
   ],
@@ -11870,8 +11870,8 @@
   "id": "r00a11c",
   "kind": "string",
   "jp": "強くなる",
-  "en": "",
-  "status": "new",
+  "en": "rises",
+  "status": "done",
   "ptrs": [
    "0x8250"
   ],
@@ -11881,8 +11881,8 @@
   "id": "r00a12c",
   "kind": "string",
   "jp": "ＢＯアビリティ",
-  "en": "",
-  "status": "new",
+  "en": "BO Ability",
+  "status": "done",
   "ptrs": [
    "0x8268"
   ],
@@ -11892,8 +11892,8 @@
   "id": "r00a13c",
   "kind": "string",
   "jp": "ＢＯ、ＥｘＢＯを",
-  "en": "",
-  "status": "new",
+  "en": "BO or ExBO",
+  "status": "done",
   "ptrs": [
    "0x826c"
   ],
@@ -11903,8 +11903,8 @@
   "id": "r00a150",
   "kind": "string",
   "jp": "セットすると",
-  "en": "",
-  "status": "new",
+  "en": "set:",
+  "status": "done",
   "ptrs": [
    "0x8270"
   ],
@@ -11914,8 +11914,8 @@
   "id": "r00a160",
   "kind": "string",
   "jp": "ＨＰとＡＰが",
-  "en": "",
-  "status": "new",
+  "en": "HP & AP",
+  "status": "done",
   "ptrs": [
    "0x8274"
   ],
@@ -11925,8 +11925,8 @@
   "id": "r00a170",
   "kind": "string",
   "jp": "ＵＰする",
-  "en": "",
-  "status": "new",
+  "en": "UP",
+  "status": "done",
   "ptrs": [
    "0x8278"
   ],
@@ -11936,8 +11936,8 @@
   "id": "r00a180",
   "kind": "string",
   "jp": "ふんばり",
-  "en": "",
-  "status": "new",
+  "en": "Hold Out",
+  "status": "done",
   "ptrs": [
    "0x8290"
   ],
@@ -11947,8 +11947,8 @@
   "id": "r00a18c",
   "kind": "string",
   "jp": "ふんばり強さで",
-  "en": "",
-  "status": "new",
+  "en": "Holding firm:",
+  "status": "done",
   "ptrs": [
    "0x8294"
   ],
@@ -11958,8 +11958,8 @@
   "id": "r00a19c",
   "kind": "string",
   "jp": "ＨＰとＡＰを",
-  "en": "",
-  "status": "new",
+  "en": "HP & AP",
+  "status": "done",
   "ptrs": [
    "0x8298"
   ],
@@ -11969,8 +11969,8 @@
   "id": "r00a1ac",
   "kind": "string",
   "jp": "ＵＰだ",
-  "en": "",
-  "status": "new",
+  "en": "UP!",
+  "status": "done",
   "ptrs": [
    "0x829c"
   ],
@@ -11980,8 +11980,8 @@
   "id": "r00a1b4",
   "kind": "string",
   "jp": "サイズが",
-  "en": "",
-  "status": "new",
+  "en": "but Size",
+  "status": "done",
   "ptrs": [
    "0x82a0"
   ],
@@ -11991,8 +11991,8 @@
   "id": "r00a1c0",
   "kind": "string",
   "jp": "へってしまう",
-  "en": "",
-  "status": "new",
+  "en": "drops",
+  "status": "done",
   "ptrs": [
    "0x82a4"
   ],
@@ -12002,8 +12002,8 @@
   "id": "r00a1d0",
   "kind": "string",
   "jp": "パワフル",
-  "en": "",
-  "status": "new",
+  "en": "Powerful",
+  "status": "done",
   "ptrs": [
    "0x82b8"
   ],
@@ -12013,8 +12013,8 @@
   "id": "r00a1dc",
   "kind": "string",
   "jp": "あふれるパワーで",
-  "en": "",
-  "status": "new",
+  "en": "Brimming power:",
+  "status": "done",
   "ptrs": [
    "0x82bc"
   ],
@@ -12024,8 +12024,8 @@
   "id": "r00a1f0",
   "kind": "string",
   "jp": "人とロールの",
-  "en": "",
-  "status": "new",
+  "en": "body & Roll",
+  "status": "done",
   "ptrs": [
    "0x82c0"
   ],
@@ -12035,8 +12035,8 @@
   "id": "r00a200",
   "kind": "string",
   "jp": "こうげきをＵＰだ",
-  "en": "",
-  "status": "new",
+  "en": "attacks UP!",
+  "status": "done",
   "ptrs": [
    "0x82c4"
   ],
@@ -12046,8 +12046,8 @@
   "id": "r00a214",
   "kind": "string",
   "jp": "Ａこうげきが",
-  "en": "",
-  "status": "new",
+  "en": "aura attack",
+  "status": "done",
   "ptrs": [
    "0x82c8"
   ],
@@ -12057,8 +12057,8 @@
   "id": "r00a224",
   "kind": "string",
   "jp": "へってしまう",
-  "en": "",
-  "status": "new",
+  "en": "drops",
+  "status": "done",
   "ptrs": [
    "0x82cc"
   ],
@@ -12068,8 +12068,8 @@
   "id": "r00a234",
   "kind": "string",
   "jp": "いげん",
-  "en": "",
-  "status": "new",
+  "en": "Regal",
+  "status": "done",
   "ptrs": [
    "0x82e0"
   ],
@@ -12079,8 +12079,8 @@
   "id": "r00a23c",
   "kind": "string",
   "jp": "わきでるいげんで",
-  "en": "",
-  "status": "new",
+  "en": "Welling majesty:",
+  "status": "done",
   "ptrs": [
    "0x82e4"
   ],
@@ -12090,8 +12090,8 @@
   "id": "r00a250",
   "kind": "string",
   "jp": "人とロールの",
-  "en": "",
-  "status": "new",
+  "en": "body & Roll",
+  "status": "done",
   "ptrs": [
    "0x82e8"
   ],
@@ -12101,8 +12101,8 @@
   "id": "r00a260",
   "kind": "string",
   "jp": "ＡこうげきをＵＰ",
-  "en": "",
-  "status": "new",
+  "en": "aura atk UP",
+  "status": "done",
   "ptrs": [
    "0x82ec"
   ],
@@ -12112,8 +12112,8 @@
   "id": "r00a274",
   "kind": "string",
   "jp": "こうげきが",
-  "en": "",
-  "status": "new",
+  "en": "attack",
+  "status": "done",
   "ptrs": [
    "0x82f0"
   ],
@@ -12123,8 +12123,8 @@
   "id": "r00a280",
   "kind": "string",
   "jp": "へってしまう",
-  "en": "",
-  "status": "new",
+  "en": "drops",
+  "status": "done",
   "ptrs": [
    "0x82f4"
   ],
@@ -12134,8 +12134,8 @@
   "id": "r00a290",
   "kind": "string",
   "jp": "どくそう",
-  "en": "",
-  "status": "new",
+  "en": "Solo Run",
+  "status": "done",
   "ptrs": [
    "0x8308"
   ],
@@ -12145,8 +12145,8 @@
   "id": "r00a29c",
   "kind": "string",
   "jp": "スピードＵＰで",
-  "en": "",
-  "status": "new",
+  "en": "Speed UP:",
+  "status": "done",
   "ptrs": [
    "0x830c"
   ],
@@ -12156,8 +12156,8 @@
   "id": "r00a2ac",
   "kind": "string",
   "jp": "どくそうだ",
-  "en": "",
-  "status": "new",
+  "en": "run solo!",
+  "status": "done",
   "ptrs": [
    "0x8310"
   ],
@@ -12167,8 +12167,8 @@
   "id": "r00a2b8",
   "kind": "string",
   "jp": "全こうげきが",
-  "en": "",
-  "status": "new",
+  "en": "all attacks",
+  "status": "done",
   "ptrs": [
    "0x8314"
   ],
@@ -12178,8 +12178,8 @@
   "id": "r00a2c8",
   "kind": "string",
   "jp": "少しへってしまう",
-  "en": "",
-  "status": "new",
+  "en": "drop a little",
+  "status": "done",
   "ptrs": [
    "0x8318"
   ],
@@ -12189,8 +12189,8 @@
   "id": "r00a2e0",
   "kind": "string",
   "jp": "やんちゃ",
-  "en": "",
-  "status": "new",
+  "en": "Brat",
+  "status": "done",
   "ptrs": [
    "0x8330"
   ],
@@ -12200,8 +12200,8 @@
   "id": "r00a2ec",
   "kind": "string",
   "jp": "やんちゃな心で",
-  "en": "",
-  "status": "new",
+  "en": "Bratty heart:",
+  "status": "done",
   "ptrs": [
    "0x8334"
   ],
@@ -12211,8 +12211,8 @@
   "id": "r00a2fc",
   "kind": "string",
   "jp": "人のこうげきを",
-  "en": "",
-  "status": "new",
+  "en": "body attacks,",
+  "status": "done",
   "ptrs": [
    "0x8338"
   ],
@@ -12222,8 +12222,8 @@
   "id": "r00a30c",
   "kind": "string",
   "jp": "両方ＵＰだ",
-  "en": "",
-  "status": "new",
+  "en": "both UP!",
+  "status": "done",
   "ptrs": [
    "0x833c"
   ],
@@ -12233,8 +12233,8 @@
   "id": "r00a318",
   "kind": "string",
   "jp": "球こうげきが",
-  "en": "",
-  "status": "new",
+  "en": "ball attacks",
+  "status": "done",
   "ptrs": [
    "0x8340"
   ],
@@ -12244,8 +12244,8 @@
   "id": "r00a328",
   "kind": "string",
   "jp": "両方へってしまう",
-  "en": "",
-  "status": "new",
+  "en": "both drop",
+  "status": "done",
   "ptrs": [
    "0x8344"
   ],
@@ -12255,8 +12255,8 @@
   "id": "r00a33c",
   "kind": "string",
   "jp": "げきれつ",
-  "en": "",
-  "status": "new",
+  "en": "Violent",
+  "status": "done",
   "ptrs": [
    "0x8358"
   ],
@@ -12266,8 +12266,8 @@
   "id": "r00a348",
   "kind": "string",
   "jp": "げきれつパワーで",
-  "en": "",
-  "status": "new",
+  "en": "Violent power:",
+  "status": "done",
   "ptrs": [
    "0x835c"
   ],
@@ -12277,8 +12277,8 @@
   "id": "r00a35c",
   "kind": "string",
   "jp": "ロールこうげきを",
-  "en": "",
-  "status": "new",
+  "en": "Roll attacks,",
+  "status": "done",
   "ptrs": [
    "0x8360"
   ],
@@ -12288,8 +12288,8 @@
   "id": "r00a370",
   "kind": "string",
   "jp": "両方ＵＰだ",
-  "en": "",
-  "status": "new",
+  "en": "both UP!",
+  "status": "done",
   "ptrs": [
    "0x8364"
   ],
@@ -12299,8 +12299,8 @@
   "id": "r00a37c",
   "kind": "string",
   "jp": "人のこうげきが",
-  "en": "",
-  "status": "new",
+  "en": "body attacks,",
+  "status": "done",
   "ptrs": [
    "0x8368"
   ],
@@ -12310,8 +12310,8 @@
   "id": "r00a38c",
   "kind": "string",
   "jp": "両方へってしまう",
-  "en": "",
-  "status": "new",
+  "en": "both drop",
+  "status": "done",
   "ptrs": [
    "0x836c"
   ],
@@ -12321,8 +12321,8 @@
   "id": "r00a3a0",
   "kind": "string",
   "jp": "とうしょう",
-  "en": "",
-  "status": "new",
+  "en": "Warlord",
+  "status": "done",
   "ptrs": [
    "0x8380"
   ],
@@ -12332,8 +12332,8 @@
   "id": "r00a3ac",
   "kind": "string",
   "jp": "人全てをＵＰで",
-  "en": "",
-  "status": "new",
+  "en": "All body UP:",
+  "status": "done",
   "ptrs": [
    "0x8384"
   ],
@@ -12343,8 +12343,8 @@
   "id": "r00a3bc",
   "kind": "string",
   "jp": "かくとうでは",
-  "en": "",
-  "status": "new",
+  "en": "in a brawl",
+  "status": "done",
   "ptrs": [
    "0x8388"
   ],
@@ -12354,8 +12354,8 @@
   "id": "r00a3cc",
   "kind": "string",
   "jp": "てきなしだ",
-  "en": "",
-  "status": "new",
+  "en": "unbeatable",
+  "status": "done",
   "ptrs": [
    "0x838c"
   ],
@@ -12365,8 +12365,8 @@
   "id": "r00a3d8",
   "kind": "string",
   "jp": "だがロールが全て",
-  "en": "",
-  "status": "new",
+  "en": "but all Roll",
+  "status": "done",
   "ptrs": [
    "0x8390"
   ],
@@ -12376,8 +12376,8 @@
   "id": "r00a3ec",
   "kind": "string",
   "jp": "へってしまう",
-  "en": "",
-  "status": "new",
+  "en": "stats drop",
+  "status": "done",
   "ptrs": [
    "0x8394"
   ],
@@ -12387,8 +12387,8 @@
   "id": "r00a3fc",
   "kind": "string",
   "jp": "ぜんだま",
-  "en": "",
-  "status": "new",
+  "en": "All Ball",
+  "status": "done",
   "ptrs": [
    "0x83a8"
   ],
@@ -12398,8 +12398,8 @@
   "id": "r00a408",
   "kind": "string",
   "jp": "ロール全てＵＰで",
-  "en": "",
-  "status": "new",
+  "en": "All Roll UP:",
+  "status": "done",
   "ptrs": [
    "0x83ac"
   ],
@@ -12409,8 +12409,8 @@
   "id": "r00a41c",
   "kind": "string",
   "jp": "ころがりでは",
-  "en": "",
-  "status": "new",
+  "en": "in rolling",
+  "status": "done",
   "ptrs": [
    "0x83b0"
   ],
@@ -12420,8 +12420,8 @@
   "id": "r00a42c",
   "kind": "string",
   "jp": "てきなしだ　だが",
-  "en": "",
-  "status": "new",
+  "en": "unbeatable, but",
+  "status": "done",
   "ptrs": [
    "0x83b4"
   ],
@@ -12431,8 +12431,8 @@
   "id": "r00a440",
   "kind": "string",
   "jp": "人のこうげきが",
-  "en": "",
-  "status": "new",
+  "en": "body attacks",
+  "status": "done",
   "ptrs": [
    "0x83b8"
   ],
@@ -12442,8 +12442,8 @@
   "id": "r00a450",
   "kind": "string",
   "jp": "へってしまう",
-  "en": "",
-  "status": "new",
+  "en": "drop",
+  "status": "done",
   "ptrs": [
    "0x83bc"
   ],
@@ -12453,8 +12453,8 @@
   "id": "r00a460",
   "kind": "string",
   "jp": "とうこん",
-  "en": "",
-  "status": "new",
+  "en": "Fight On",
+  "status": "done",
   "ptrs": [
    "0x83d0"
   ],
@@ -12464,8 +12464,8 @@
   "id": "r00a46c",
   "kind": "string",
   "jp": "あついとうこんで",
-  "en": "",
-  "status": "new",
+  "en": "Burning fight:",
+  "status": "done",
   "ptrs": [
    "0x83d4"
   ],
@@ -12475,8 +12475,8 @@
   "id": "r00a480",
   "kind": "string",
   "jp": "全てのこうげきが",
-  "en": "",
-  "status": "new",
+  "en": "all attacks",
+  "status": "done",
   "ptrs": [
    "0x83d8"
   ],
@@ -12486,8 +12486,8 @@
   "id": "r00a494",
   "kind": "string",
   "jp": "ＵＰだ",
-  "en": "",
-  "status": "new",
+  "en": "UP!",
+  "status": "done",
   "ptrs": [
    "0x83dc"
   ],
@@ -12497,8 +12497,8 @@
   "id": "r00a49c",
   "kind": "string",
   "jp": "でももえすぎで",
-  "en": "",
-  "status": "new",
+  "en": "but too hot,",
+  "status": "done",
   "ptrs": [
    "0x83e0"
   ],
@@ -12508,8 +12508,8 @@
   "id": "r00a4ac",
   "kind": "string",
   "jp": "スピードダウン",
-  "en": "",
-  "status": "new",
+  "en": "speed DOWN",
+  "status": "done",
   "ptrs": [
    "0x83e4"
   ],
@@ -12519,8 +12519,8 @@
   "id": "r00a4bc",
   "kind": "string",
   "jp": "がんばり",
-  "en": "",
-  "status": "new",
+  "en": "Effort",
+  "status": "done",
   "ptrs": [
    "0x83f8"
   ],
@@ -12530,8 +12530,8 @@
   "id": "r00a4c8",
   "kind": "string",
   "jp": "がんばる気持ちで",
-  "en": "",
-  "status": "new",
+  "en": "Trying hard:",
+  "status": "done",
   "ptrs": [
    "0x83fc"
   ],
@@ -12541,8 +12541,8 @@
   "id": "r00a4dc",
   "kind": "string",
   "jp": "ＨＰとＡＰを",
-  "en": "",
-  "status": "new",
+  "en": "HP & AP",
+  "status": "done",
   "ptrs": [
    "0x8400"
   ],
@@ -12552,8 +12552,8 @@
   "id": "r00a4ec",
   "kind": "string",
   "jp": "ＵＰだ",
-  "en": "",
-  "status": "new",
+  "en": "UP!",
+  "status": "done",
   "ptrs": [
    "0x8404"
   ],
@@ -12563,8 +12563,8 @@
   "id": "r00a4f4",
   "kind": "string",
   "jp": "がんばりすぎで",
-  "en": "",
-  "status": "new",
+  "en": "Overworked,",
+  "status": "done",
   "ptrs": [
    "0x8408"
   ],
@@ -12574,8 +12574,8 @@
   "id": "r00a504",
   "kind": "string",
   "jp": "サイズダウン",
-  "en": "",
-  "status": "new",
+  "en": "Size DOWN",
+  "status": "done",
   "ptrs": [
    "0x840c"
   ],
@@ -12585,8 +12585,8 @@
   "id": "r00a514",
   "kind": "string",
   "jp": "ダイナミック",
-  "en": "",
-  "status": "new",
+  "en": "Dynamic",
+  "status": "done",
   "ptrs": [
    "0x8420"
   ],
@@ -12596,8 +12596,8 @@
   "id": "r00a524",
   "kind": "string",
   "jp": "だいたんパワーで",
-  "en": "",
-  "status": "new",
+  "en": "Daring power:",
+  "status": "done",
   "ptrs": [
    "0x8424"
   ],
@@ -12607,8 +12607,8 @@
   "id": "r00a538",
   "kind": "string",
   "jp": "人とロールの",
-  "en": "",
-  "status": "new",
+  "en": "body & Roll",
+  "status": "done",
   "ptrs": [
    "0x8428"
   ],
@@ -12618,8 +12618,8 @@
   "id": "r00a548",
   "kind": "string",
   "jp": "こうげきをＵＰだ",
-  "en": "",
-  "status": "new",
+  "en": "attacks UP!",
+  "status": "done",
   "ptrs": [
    "0x842c"
   ],
@@ -12629,8 +12629,8 @@
   "id": "r00a55c",
   "kind": "string",
   "jp": "だいたんすぎで",
-  "en": "",
-  "status": "new",
+  "en": "Too daring,",
+  "status": "done",
   "ptrs": [
    "0x8430"
   ],
@@ -12640,8 +12640,8 @@
   "id": "r00a56c",
   "kind": "string",
   "jp": "サイズダウン",
-  "en": "",
-  "status": "new",
+  "en": "Size DOWN",
+  "status": "done",
   "ptrs": [
    "0x8434"
   ],
@@ -12651,8 +12651,8 @@
   "id": "r00a57c",
   "kind": "string",
   "jp": "いこう",
-  "en": "",
-  "status": "new",
+  "en": "Glory",
+  "status": "done",
   "ptrs": [
    "0x8448"
   ],
@@ -12662,8 +12662,8 @@
   "id": "r00a584",
   "kind": "string",
   "jp": "あふれる気合で",
-  "en": "",
-  "status": "new",
+  "en": "Brimming will:",
+  "status": "done",
   "ptrs": [
    "0x844c"
   ],
@@ -12673,8 +12673,8 @@
   "id": "r00a594",
   "kind": "string",
   "jp": "人とロールの",
-  "en": "",
-  "status": "new",
+  "en": "body & Roll",
+  "status": "done",
   "ptrs": [
    "0x8450"
   ],
@@ -12684,8 +12684,8 @@
   "id": "r00a5a4",
   "kind": "string",
   "jp": "ＡこうげきをＵＰ",
-  "en": "",
-  "status": "new",
+  "en": "aura atk UP",
+  "status": "done",
   "ptrs": [
    "0x8454"
   ],
@@ -12695,8 +12695,8 @@
   "id": "r00a5b8",
   "kind": "string",
   "jp": "でもあふれすぎて",
-  "en": "",
-  "status": "new",
+  "en": "but overflowing,",
+  "status": "done",
   "ptrs": [
    "0x8458"
   ],
@@ -12706,8 +12706,8 @@
   "id": "r00a5cc",
   "kind": "string",
   "jp": "サイズダウン",
-  "en": "",
-  "status": "new",
+  "en": "Size DOWN",
+  "status": "done",
   "ptrs": [
    "0x845c"
   ],
@@ -12717,8 +12717,8 @@
   "id": "r00a5dc",
   "kind": "string",
   "jp": "いだてん",
-  "en": "",
-  "status": "new",
+  "en": "Speedy",
+  "status": "done",
   "ptrs": [
    "0x8470"
   ],
@@ -12728,8 +12728,8 @@
   "id": "r00a5e8",
   "kind": "string",
   "jp": "人とロールの",
-  "en": "",
-  "status": "new",
+  "en": "body & Roll",
+  "status": "done",
   "ptrs": [
    "0x8474"
   ],
@@ -12739,8 +12739,8 @@
   "id": "r00a5f8",
   "kind": "string",
   "jp": "スピードＵＰで",
-  "en": "",
-  "status": "new",
+  "en": "speed UP:",
+  "status": "done",
   "ptrs": [
    "0x8478"
   ],
@@ -12750,8 +12750,8 @@
   "id": "r00a608",
   "kind": "string",
   "jp": "ひっかき回せ",
-  "en": "",
-  "status": "new",
+  "en": "run rings!",
+  "status": "done",
   "ptrs": [
    "0x847c"
   ],
@@ -12761,8 +12761,8 @@
   "id": "r00a618",
   "kind": "string",
   "jp": "でも速すぎで",
-  "en": "",
-  "status": "new",
+  "en": "too fast,",
+  "status": "done",
   "ptrs": [
    "0x8480"
   ],
@@ -12772,8 +12772,8 @@
   "id": "r00a628",
   "kind": "string",
   "jp": "サイズダウン",
-  "en": "",
-  "status": "new",
+  "en": "Size DOWN",
+  "status": "done",
   "ptrs": [
    "0x8484"
   ],
@@ -12783,8 +12783,8 @@
   "id": "r00a638",
   "kind": "string",
   "jp": "ぜんち",
-  "en": "",
-  "status": "new",
+  "en": "Sage",
+  "status": "done",
   "ptrs": [
    "0x8498"
   ],
@@ -12794,8 +12794,8 @@
   "id": "r00a640",
   "kind": "string",
   "jp": "ＨＲふっきと",
-  "en": "",
-  "status": "new",
+  "en": "HR return,",
+  "status": "done",
   "ptrs": [
    "0x849c"
   ],
@@ -12805,8 +12805,8 @@
   "id": "r00a650",
   "kind": "string",
   "jp": "ＡＰカイフクが",
-  "en": "",
-  "status": "new",
+  "en": "AP recovery",
+  "status": "done",
   "ptrs": [
    "0x84a0"
   ],
@@ -12816,8 +12816,8 @@
   "id": "r00a660",
   "kind": "string",
   "jp": "早くなる",
-  "en": "",
-  "status": "new",
+  "en": "faster",
+  "status": "done",
   "ptrs": [
    "0x84a4"
   ],
@@ -12827,8 +12827,8 @@
   "id": "r00a674",
   "kind": "string",
   "jp": "かんち",
-  "en": "",
-  "status": "new",
+  "en": "Sense",
+  "status": "done",
   "ptrs": [
    "0x84c0"
   ],
@@ -12838,8 +12838,8 @@
   "id": "r00a67c",
   "kind": "string",
   "jp": "ＨＲふっきと",
-  "en": "",
-  "status": "new",
+  "en": "HR return,",
+  "status": "done",
   "ptrs": [
    "0x84c4"
   ],
@@ -12849,8 +12849,8 @@
   "id": "r00a68c",
   "kind": "string",
   "jp": "ＡＰカイフクが",
-  "en": "",
-  "status": "new",
+  "en": "AP recovery",
+  "status": "done",
   "ptrs": [
    "0x84c8"
   ],
@@ -12860,8 +12860,8 @@
   "id": "r00a69c",
   "kind": "string",
   "jp": "早くなる",
-  "en": "",
-  "status": "new",
+  "en": "faster",
+  "status": "done",
   "ptrs": [
    "0x84cc"
   ],
@@ -12871,8 +12871,8 @@
   "id": "r00a6a8",
   "kind": "string",
   "jp": "少しスピードが",
-  "en": "",
-  "status": "new",
+  "en": "but speed",
+  "status": "done",
   "ptrs": [
    "0x84d0"
   ],
@@ -12882,8 +12882,8 @@
   "id": "r00a6b8",
   "kind": "string",
   "jp": "ダウンしてしまう",
-  "en": "",
-  "status": "new",
+  "en": "drops a little",
+  "status": "done",
   "ptrs": [
    "0x84d4"
   ],
@@ -12893,8 +12893,8 @@
   "id": "r00a6cc",
   "kind": "string",
   "jp": "ちゆ",
-  "en": "",
-  "status": "new",
+  "en": "Cure",
+  "status": "done",
   "ptrs": [
    "0x84e8"
   ],
@@ -12904,8 +12904,8 @@
   "id": "r00a6d4",
   "kind": "string",
   "jp": "ＨＰＡＰがＵＰし",
-  "en": "",
-  "status": "new",
+  "en": "HP, AP UP;",
+  "status": "done",
   "ptrs": [
    "0x84ec"
   ],
@@ -12915,8 +12915,8 @@
   "id": "r00a6e8",
   "kind": "string",
   "jp": "ＨＲふっきと",
-  "en": "",
-  "status": "new",
+  "en": "HR return,",
+  "status": "done",
   "ptrs": [
    "0x84f0"
   ],
@@ -12926,8 +12926,8 @@
   "id": "r00a6f8",
   "kind": "string",
   "jp": "ＡＰカイフクが",
-  "en": "",
-  "status": "new",
+  "en": "AP recovery",
+  "status": "done",
   "ptrs": [
    "0x84f4"
   ],
@@ -12937,8 +12937,8 @@
   "id": "r00a708",
   "kind": "string",
   "jp": "早くなる",
-  "en": "",
-  "status": "new",
+  "en": "faster",
+  "status": "done",
   "ptrs": [
    "0x84f8"
   ],
@@ -12948,8 +12948,8 @@
   "id": "r00a718",
   "kind": "string",
   "jp": "いやし",
-  "en": "",
-  "status": "new",
+  "en": "Heal",
+  "status": "done",
   "ptrs": [
    "0x8510"
   ],
@@ -12959,8 +12959,8 @@
   "id": "r00a720",
   "kind": "string",
   "jp": "ＨＰＡＰがＵＰし",
-  "en": "",
-  "status": "new",
+  "en": "HP, AP UP;",
+  "status": "done",
   "ptrs": [
    "0x8514"
   ],
@@ -12970,8 +12970,8 @@
   "id": "r00a734",
   "kind": "string",
   "jp": "ＨＲふっきと",
-  "en": "",
-  "status": "new",
+  "en": "HR return,",
+  "status": "done",
   "ptrs": [
    "0x8518"
   ],
@@ -12981,8 +12981,8 @@
   "id": "r00a744",
   "kind": "string",
   "jp": "ＡＰカイフクが",
-  "en": "",
-  "status": "new",
+  "en": "AP recovery",
+  "status": "done",
   "ptrs": [
    "0x851c"
   ],
@@ -12992,8 +12992,8 @@
   "id": "r00a754",
   "kind": "string",
   "jp": "早くなる　ただし",
-  "en": "",
-  "status": "new",
+  "en": "faster, but",
+  "status": "done",
   "ptrs": [
    "0x8520"
   ],
@@ -13003,8 +13003,8 @@
   "id": "r00a768",
   "kind": "string",
   "jp": "こうげきがダウン",
-  "en": "",
-  "status": "new",
+  "en": "attack DOWN",
+  "status": "done",
   "ptrs": [
    "0x8524"
   ],
@@ -13014,8 +13014,8 @@
   "id": "r00a77c",
   "kind": "string",
   "jp": "ＢＬマスター",
-  "en": "",
-  "status": "new",
+  "en": "BL Master",
+  "status": "done",
   "ptrs": [
    "0x8538"
   ],
@@ -13025,8 +13025,8 @@
   "id": "r00a78c",
   "kind": "string",
   "jp": "ＢＬをセットで",
-  "en": "",
-  "status": "new",
+  "en": "Set BL:",
+  "status": "done",
   "ptrs": [
    "0x853c"
   ],
@@ -13036,8 +13036,8 @@
   "id": "r00a79c",
   "kind": "string",
   "jp": "人のこうげきが",
-  "en": "",
-  "status": "new",
+  "en": "body attack",
+  "status": "done",
   "ptrs": [
    "0x8540"
   ],
@@ -13047,8 +13047,8 @@
   "id": "r00a7ac",
   "kind": "string",
   "jp": "より強くなる",
-  "en": "",
-  "status": "new",
+  "en": "rises more;",
+  "status": "done",
   "ptrs": [
    "0x8544"
   ],
@@ -13058,8 +13058,8 @@
   "id": "r00a7bc",
   "kind": "string",
   "jp": "その分ロールの",
-  "en": "",
-  "status": "new",
+  "en": "but Roll",
+  "status": "done",
   "ptrs": [
    "0x8548"
   ],
@@ -13069,8 +13069,8 @@
   "id": "r00a7cc",
   "kind": "string",
   "jp": "こうげきが弱まる",
-  "en": "",
-  "status": "new",
+  "en": "attack weakens",
+  "status": "done",
   "ptrs": [
    "0x854c"
   ],
@@ -13080,8 +13080,8 @@
   "id": "r00a7e0",
   "kind": "string",
   "jp": "ＥｘＢＬマスター",
-  "en": "",
-  "status": "new",
+  "en": "ExBL Master",
+  "status": "done",
   "ptrs": [
    "0x8560"
   ],
@@ -13091,8 +13091,8 @@
   "id": "r00a7f4",
   "kind": "string",
   "jp": "ＥｘＢＬセットで",
-  "en": "",
-  "status": "new",
+  "en": "Set ExBL:",
+  "status": "done",
   "ptrs": [
    "0x8564"
   ],
@@ -13102,8 +13102,8 @@
   "id": "r00a808",
   "kind": "string",
   "jp": "人のこうげきが",
-  "en": "",
-  "status": "new",
+  "en": "body attack",
+  "status": "done",
   "ptrs": [
    "0x8568"
   ],
@@ -13113,8 +13113,8 @@
   "id": "r00a818",
   "kind": "string",
   "jp": "より強くなる",
-  "en": "",
-  "status": "new",
+  "en": "rises more;",
+  "status": "done",
   "ptrs": [
    "0x856c"
   ],
@@ -13124,8 +13124,8 @@
   "id": "r00a828",
   "kind": "string",
   "jp": "その分ロールの",
-  "en": "",
-  "status": "new",
+  "en": "but Roll",
+  "status": "done",
   "ptrs": [
    "0x8570"
   ],
@@ -13135,8 +13135,8 @@
   "id": "r00a838",
   "kind": "string",
   "jp": "こうげきが弱まる",
-  "en": "",
-  "status": "new",
+  "en": "attack weakens",
+  "status": "done",
   "ptrs": [
    "0x8574"
   ],
@@ -13146,8 +13146,8 @@
   "id": "r00a84c",
   "kind": "string",
   "jp": "ＳＴマスター",
-  "en": "",
-  "status": "new",
+  "en": "ST Master",
+  "status": "done",
   "ptrs": [
    "0x8588"
   ],
@@ -13157,8 +13157,8 @@
   "id": "r00a85c",
   "kind": "string",
   "jp": "ＳＴをセットで",
-  "en": "",
-  "status": "new",
+  "en": "Set ST:",
+  "status": "done",
   "ptrs": [
    "0x858c"
   ],
@@ -13168,8 +13168,8 @@
   "id": "r00a86c",
   "kind": "string",
   "jp": "人のこうげきが",
-  "en": "",
-  "status": "new",
+  "en": "body attack",
+  "status": "done",
   "ptrs": [
    "0x8590"
   ],
@@ -13179,8 +13179,8 @@
   "id": "r00a87c",
   "kind": "string",
   "jp": "より強くなる",
-  "en": "",
-  "status": "new",
+  "en": "rises more;",
+  "status": "done",
   "ptrs": [
    "0x8594"
   ],
@@ -13190,8 +13190,8 @@
   "id": "r00a88c",
   "kind": "string",
   "jp": "その分スピードが",
-  "en": "",
-  "status": "new",
+  "en": "but speed",
+  "status": "done",
   "ptrs": [
    "0x8598"
   ],
@@ -13201,8 +13201,8 @@
   "id": "r00a8a0",
   "kind": "string",
   "jp": "おそくなる",
-  "en": "",
-  "status": "new",
+  "en": "slows",
+  "status": "done",
   "ptrs": [
    "0x859c"
   ],
@@ -13212,8 +13212,8 @@
   "id": "r00a8ac",
   "kind": "string",
   "jp": "ＥｘＳＴマスター",
-  "en": "",
-  "status": "new",
+  "en": "ExST Master",
+  "status": "done",
   "ptrs": [
    "0x85b0"
   ],
@@ -13223,8 +13223,8 @@
   "id": "r00a8c0",
   "kind": "string",
   "jp": "ＥｘＳＴセットで",
-  "en": "",
-  "status": "new",
+  "en": "Set ExST:",
+  "status": "done",
   "ptrs": [
    "0x85b4"
   ],
@@ -13234,8 +13234,8 @@
   "id": "r00a8d4",
   "kind": "string",
   "jp": "人のこうげきが",
-  "en": "",
-  "status": "new",
+  "en": "body attack",
+  "status": "done",
   "ptrs": [
    "0x85b8"
   ],
@@ -13245,8 +13245,8 @@
   "id": "r00a8e4",
   "kind": "string",
   "jp": "より強くなる",
-  "en": "",
-  "status": "new",
+  "en": "rises more;",
+  "status": "done",
   "ptrs": [
    "0x85bc"
   ],
@@ -13256,8 +13256,8 @@
   "id": "r00a8f4",
   "kind": "string",
   "jp": "その分スピードが",
-  "en": "",
-  "status": "new",
+  "en": "but speed",
+  "status": "done",
   "ptrs": [
    "0x85c0"
   ],
@@ -13267,8 +13267,8 @@
   "id": "r00a908",
   "kind": "string",
   "jp": "おそくなる",
-  "en": "",
-  "status": "new",
+  "en": "slows",
+  "status": "done",
   "ptrs": [
    "0x85c4"
   ],
@@ -13278,8 +13278,8 @@
   "id": "r00a914",
   "kind": "string",
   "jp": "ＨＵマスター",
-  "en": "",
-  "status": "new",
+  "en": "HU Master",
+  "status": "done",
   "ptrs": [
    "0x85d8"
   ],
@@ -13289,8 +13289,8 @@
   "id": "r00a924",
   "kind": "string",
   "jp": "ＨＵをセットで",
-  "en": "",
-  "status": "new",
+  "en": "Set HU:",
+  "status": "done",
   "ptrs": [
    "0x85dc"
   ],
@@ -13300,8 +13300,8 @@
   "id": "r00a934",
   "kind": "string",
   "jp": "人のこうげきが",
-  "en": "",
-  "status": "new",
+  "en": "body attack",
+  "status": "done",
   "ptrs": [
    "0x85e0"
   ],
@@ -13311,8 +13311,8 @@
   "id": "r00a944",
   "kind": "string",
   "jp": "より強くなる",
-  "en": "",
-  "status": "new",
+  "en": "rises more;",
+  "status": "done",
   "ptrs": [
    "0x85e4"
   ],
@@ -13322,8 +13322,8 @@
   "id": "r00a954",
   "kind": "string",
   "jp": "その分ＨＰとＡＰ",
-  "en": "",
-  "status": "new",
+  "en": "but HP & AP",
+  "status": "done",
   "ptrs": [
    "0x85e8"
   ],
@@ -13333,8 +13333,8 @@
   "id": "r00a968",
   "kind": "string",
   "jp": "が弱まる",
-  "en": "",
-  "status": "new",
+  "en": "weaken",
+  "status": "done",
   "ptrs": [
    "0x85ec"
   ],
@@ -13344,8 +13344,8 @@
   "id": "r00a974",
   "kind": "string",
   "jp": "ＥｘＨＵマスター",
-  "en": "",
-  "status": "new",
+  "en": "ExHU Master",
+  "status": "done",
   "ptrs": [
    "0x8600"
   ],
@@ -13355,8 +13355,8 @@
   "id": "r00a988",
   "kind": "string",
   "jp": "ＥｘＨＵセットで",
-  "en": "",
-  "status": "new",
+  "en": "Set ExHU:",
+  "status": "done",
   "ptrs": [
    "0x8604"
   ],
@@ -13366,8 +13366,8 @@
   "id": "r00a99c",
   "kind": "string",
   "jp": "人のこうげきが",
-  "en": "",
-  "status": "new",
+  "en": "body attack",
+  "status": "done",
   "ptrs": [
    "0x8608"
   ],
@@ -13377,8 +13377,8 @@
   "id": "r00a9ac",
   "kind": "string",
   "jp": "より強くなる",
-  "en": "",
-  "status": "new",
+  "en": "rises more;",
+  "status": "done",
   "ptrs": [
    "0x860c"
   ],
@@ -13388,8 +13388,8 @@
   "id": "r00a9bc",
   "kind": "string",
   "jp": "その分ＨＰとＡＰ",
-  "en": "",
-  "status": "new",
+  "en": "but HP & AP",
+  "status": "done",
   "ptrs": [
    "0x8610"
   ],
@@ -13399,8 +13399,8 @@
   "id": "r00a9d0",
   "kind": "string",
   "jp": "が弱まる",
-  "en": "",
-  "status": "new",
+  "en": "weaken",
+  "status": "done",
   "ptrs": [
    "0x8614"
   ],
@@ -13410,8 +13410,8 @@
   "id": "r00a9dc",
   "kind": "string",
   "jp": "ＢＯマスター",
-  "en": "",
-  "status": "new",
+  "en": "BO Master",
+  "status": "done",
   "ptrs": [
    "0x8628"
   ],
@@ -13421,8 +13421,8 @@
   "id": "r00a9ec",
   "kind": "string",
   "jp": "ＢＯをセットで",
-  "en": "",
-  "status": "new",
+  "en": "Set BO:",
+  "status": "done",
   "ptrs": [
    "0x862c"
   ],
@@ -13432,8 +13432,8 @@
   "id": "r00a9fc",
   "kind": "string",
   "jp": "ＨＰとＡＰが",
-  "en": "",
-  "status": "new",
+  "en": "HP & AP",
+  "status": "done",
   "ptrs": [
    "0x8630"
   ],
@@ -13443,8 +13443,8 @@
   "id": "r00aa0c",
   "kind": "string",
   "jp": "よりＵＰする",
-  "en": "",
-  "status": "new",
+  "en": "rise more;",
+  "status": "done",
   "ptrs": [
    "0x8634"
   ],
@@ -13454,8 +13454,8 @@
   "id": "r00aa1c",
   "kind": "string",
   "jp": "その分人の",
-  "en": "",
-  "status": "new",
+  "en": "but body",
+  "status": "done",
   "ptrs": [
    "0x8638"
   ],
@@ -13465,8 +13465,8 @@
   "id": "r00aa28",
   "kind": "string",
   "jp": "こうげきが弱まる",
-  "en": "",
-  "status": "new",
+  "en": "attack weakens",
+  "status": "done",
   "ptrs": [
    "0x863c"
   ],
@@ -13476,8 +13476,8 @@
   "id": "r00aa3c",
   "kind": "string",
   "jp": "ＥｘＢＯマスター",
-  "en": "",
-  "status": "new",
+  "en": "ExBO Master",
+  "status": "done",
   "ptrs": [
    "0x8650"
   ],
@@ -13487,8 +13487,8 @@
   "id": "r00aa50",
   "kind": "string",
   "jp": "ＥｘＢＯセットで",
-  "en": "",
-  "status": "new",
+  "en": "Set ExBO:",
+  "status": "done",
   "ptrs": [
    "0x8654"
   ],
@@ -13498,8 +13498,8 @@
   "id": "r00aa64",
   "kind": "string",
   "jp": "ＨＰとＡＰが",
-  "en": "",
-  "status": "new",
+  "en": "HP & AP",
+  "status": "done",
   "ptrs": [
    "0x8658"
   ],
@@ -13509,8 +13509,8 @@
   "id": "r00aa74",
   "kind": "string",
   "jp": "よりＵＰする",
-  "en": "",
-  "status": "new",
+  "en": "rise more;",
+  "status": "done",
   "ptrs": [
    "0x865c"
   ],
@@ -13520,8 +13520,8 @@
   "id": "r00aa84",
   "kind": "string",
   "jp": "その分人の",
-  "en": "",
-  "status": "new",
+  "en": "but body",
+  "status": "done",
   "ptrs": [
    "0x8660"
   ],
@@ -13531,8 +13531,8 @@
   "id": "r00aa90",
   "kind": "string",
   "jp": "こうげきが弱まる",
-  "en": "",
-  "status": "new",
+  "en": "attack weakens",
+  "status": "done",
   "ptrs": [
    "0x8664"
   ],
@@ -13542,8 +13542,8 @@
   "id": "r00aaa4",
   "kind": "string",
   "jp": "ＢＬエキスパート",
-  "en": "",
-  "status": "new",
+  "en": "BL Expert",
+  "status": "done",
   "ptrs": [
    "0x8678"
   ],
@@ -13553,8 +13553,8 @@
   "id": "r00aab8",
   "kind": "string",
   "jp": "ＢＬ、ＥｘＢＬを",
-  "en": "",
-  "status": "new",
+  "en": "BL or ExBL",
+  "status": "done",
   "ptrs": [
    "0x867c"
   ],
@@ -13564,8 +13564,8 @@
   "id": "r00aacc",
   "kind": "string",
   "jp": "セットすると",
-  "en": "",
-  "status": "new",
+  "en": "set:",
+  "status": "done",
   "ptrs": [
    "0x8680"
   ],
@@ -13575,8 +13575,8 @@
   "id": "r00aadc",
   "kind": "string",
   "jp": "人のこうげきが",
-  "en": "",
-  "status": "new",
+  "en": "body attack",
+  "status": "done",
   "ptrs": [
    "0x8684"
   ],
@@ -13586,8 +13586,8 @@
   "id": "r00aaec",
   "kind": "string",
   "jp": "強くなる　その分",
-  "en": "",
-  "status": "new",
+  "en": "rises, but",
+  "status": "done",
   "ptrs": [
    "0x8688"
   ],
@@ -13597,8 +13597,8 @@
   "id": "r00ab00",
   "kind": "string",
   "jp": "ロールがダウン",
-  "en": "",
-  "status": "new",
+  "en": "Roll DOWN",
+  "status": "done",
   "ptrs": [
    "0x868c"
   ],
@@ -13608,8 +13608,8 @@
   "id": "r00ab10",
   "kind": "string",
   "jp": "ＳＴエキスパート",
-  "en": "",
-  "status": "new",
+  "en": "ST Expert",
+  "status": "done",
   "ptrs": [
    "0x86a0"
   ],
@@ -13619,8 +13619,8 @@
   "id": "r00ab24",
   "kind": "string",
   "jp": "ＳＴ、ＥｘＳＴを",
-  "en": "",
-  "status": "new",
+  "en": "ST or ExST",
+  "status": "done",
   "ptrs": [
    "0x86a4"
   ],
@@ -13630,8 +13630,8 @@
   "id": "r00ab38",
   "kind": "string",
   "jp": "セットすると",
-  "en": "",
-  "status": "new",
+  "en": "set:",
+  "status": "done",
   "ptrs": [
    "0x86a8"
   ],
@@ -13641,8 +13641,8 @@
   "id": "r00ab48",
   "kind": "string",
   "jp": "人のこうげきが",
-  "en": "",
-  "status": "new",
+  "en": "body attack",
+  "status": "done",
   "ptrs": [
    "0x86ac"
   ],
@@ -13652,8 +13652,8 @@
   "id": "r00ab58",
   "kind": "string",
   "jp": "強くなる　その分",
-  "en": "",
-  "status": "new",
+  "en": "rises, but",
+  "status": "done",
   "ptrs": [
    "0x86b0"
   ],
@@ -13663,8 +13663,8 @@
   "id": "r00ab6c",
   "kind": "string",
   "jp": "スピードがダウン",
-  "en": "",
-  "status": "new",
+  "en": "speed DOWN",
+  "status": "done",
   "ptrs": [
    "0x86b4"
   ],
@@ -13674,8 +13674,8 @@
   "id": "r00ab80",
   "kind": "string",
   "jp": "ＨＵエキスパート",
-  "en": "",
-  "status": "new",
+  "en": "HU Expert",
+  "status": "done",
   "ptrs": [
    "0x86c8"
   ],
@@ -13685,8 +13685,8 @@
   "id": "r00ab94",
   "kind": "string",
   "jp": "ＨＵ、ＥｘＨＵを",
-  "en": "",
-  "status": "new",
+  "en": "HU or ExHU",
+  "status": "done",
   "ptrs": [
    "0x86cc"
   ],
@@ -13696,8 +13696,8 @@
   "id": "r00aba8",
   "kind": "string",
   "jp": "セットすると",
-  "en": "",
-  "status": "new",
+  "en": "set:",
+  "status": "done",
   "ptrs": [
    "0x86d0"
   ],
@@ -13707,8 +13707,8 @@
   "id": "r00abb8",
   "kind": "string",
   "jp": "人のこうげきが",
-  "en": "",
-  "status": "new",
+  "en": "body attack",
+  "status": "done",
   "ptrs": [
    "0x86d4"
   ],
@@ -13718,8 +13718,8 @@
   "id": "r00abc8",
   "kind": "string",
   "jp": "強くなる　その分",
-  "en": "",
-  "status": "new",
+  "en": "rises, but",
+  "status": "done",
   "ptrs": [
    "0x86d8"
   ],
@@ -13729,8 +13729,8 @@
   "id": "r00abdc",
   "kind": "string",
   "jp": "ＨＰとＡＰダウン",
-  "en": "",
-  "status": "new",
+  "en": "HP & AP DOWN",
+  "status": "done",
   "ptrs": [
    "0x86dc"
   ],
@@ -13740,8 +13740,8 @@
   "id": "r00abf0",
   "kind": "string",
   "jp": "ＢＯエキスパート",
-  "en": "",
-  "status": "new",
+  "en": "BO Expert",
+  "status": "done",
   "ptrs": [
    "0x86f0"
   ],
@@ -13751,8 +13751,8 @@
   "id": "r00ac04",
   "kind": "string",
   "jp": "ＢＯ、ＥｘＢＯを",
-  "en": "",
-  "status": "new",
+  "en": "BO or ExBO",
+  "status": "done",
   "ptrs": [
    "0x86f4"
   ],
@@ -13762,8 +13762,8 @@
   "id": "r00ac18",
   "kind": "string",
   "jp": "セットすると",
-  "en": "",
-  "status": "new",
+  "en": "set:",
+  "status": "done",
   "ptrs": [
    "0x86f8"
   ],
@@ -13773,8 +13773,8 @@
   "id": "r00ac28",
   "kind": "string",
   "jp": "ＨＰとＡＰが",
-  "en": "",
-  "status": "new",
+  "en": "HP & AP",
+  "status": "done",
   "ptrs": [
    "0x86fc"
   ],
@@ -13784,8 +13784,8 @@
   "id": "r00ac38",
   "kind": "string",
   "jp": "ＵＰする　その分",
-  "en": "",
-  "status": "new",
+  "en": "UP, but",
+  "status": "done",
   "ptrs": [
    "0x8700"
   ],
@@ -13795,8 +13795,8 @@
   "id": "r00ac4c",
   "kind": "string",
   "jp": "人こうげきダウン",
-  "en": "",
-  "status": "new",
+  "en": "body atk DOWN",
+  "status": "done",
   "ptrs": [
    "0x8704"
   ],
@@ -13806,8 +13806,8 @@
   "id": "r00ac60",
   "kind": "string",
   "jp": "けんやくひっさつ",
-  "en": "",
-  "status": "new",
+  "en": "Thrifty Special",
+  "status": "done",
   "ptrs": [
    "0x8718"
   ],
@@ -13817,8 +13817,8 @@
   "id": "r00ac74",
   "kind": "string",
   "jp": "必殺技のしょうひ",
-  "en": "",
-  "status": "new",
+  "en": "Special moves",
+  "status": "done",
   "ptrs": [
    "0x871c"
   ],
@@ -13828,8 +13828,8 @@
   "id": "r00ac88",
   "kind": "string",
   "jp": "ＡＰがちょっと",
-  "en": "",
-  "status": "new",
+  "en": "cost a bit",
+  "status": "done",
   "ptrs": [
    "0x8720"
   ],
@@ -13839,8 +13839,8 @@
   "id": "r00ac98",
   "kind": "string",
   "jp": "少なくなる",
-  "en": "",
-  "status": "new",
+  "en": "less AP",
+  "status": "done",
   "ptrs": [
    "0x8724"
   ],
@@ -13850,8 +13850,8 @@
   "id": "r00acac",
   "kind": "string",
   "jp": "けんやくこうげき",
-  "en": "",
-  "status": "new",
+  "en": "Thrifty Attack",
+  "status": "done",
   "ptrs": [
    "0x8740"
   ],
@@ -13861,8 +13861,8 @@
   "id": "r00acc0",
   "kind": "string",
   "jp": "ふつうこうげきの",
-  "en": "",
-  "status": "new",
+  "en": "Normal attacks",
+  "status": "done",
   "ptrs": [
    "0x8744"
   ],
@@ -13872,8 +13872,8 @@
   "id": "r00acd4",
   "kind": "string",
   "jp": "しょうひＡＰが",
-  "en": "",
-  "status": "new",
+  "en": "cost less AP",
+  "status": "done",
   "ptrs": [
    "0x8748"
   ],
@@ -13883,8 +13883,8 @@
   "id": "r00ace4",
   "kind": "string",
   "jp": "少なくなる",
-  "en": "",
-  "status": "new",
+  "en": "than usual",
+  "status": "done",
   "ptrs": [
    "0x874c"
   ],
@@ -13894,8 +13894,8 @@
   "id": "r00acf8",
   "kind": "string",
   "jp": "けんやくロール",
-  "en": "",
-  "status": "new",
+  "en": "Thrifty Roll",
+  "status": "done",
   "ptrs": [
    "0x8768"
   ],
@@ -13905,8 +13905,8 @@
   "id": "r00ad08",
   "kind": "string",
   "jp": "アタックロールの",
-  "en": "",
-  "status": "new",
+  "en": "Attack Rolls",
+  "status": "done",
   "ptrs": [
    "0x876c"
   ],
@@ -13916,8 +13916,8 @@
   "id": "r00ad1c",
   "kind": "string",
   "jp": "しょうひＡＰが",
-  "en": "",
-  "status": "new",
+  "en": "cost less AP",
+  "status": "done",
   "ptrs": [
    "0x8770"
   ],
@@ -13927,8 +13927,8 @@
   "id": "r00ad2c",
   "kind": "string",
   "jp": "少なくなる",
-  "en": "",
-  "status": "new",
+  "en": "than usual",
+  "status": "done",
   "ptrs": [
    "0x8774"
   ],
@@ -13938,8 +13938,8 @@
   "id": "r00ad40",
   "kind": "string",
   "jp": "あばれんぼう",
-  "en": "",
-  "status": "new",
+  "en": "Rampager",
+  "status": "done",
   "ptrs": [
    "0x8790"
   ],
@@ -13949,8 +13949,8 @@
   "id": "r00ad50",
   "kind": "string",
   "jp": "あらぶる心で",
-  "en": "",
-  "status": "new",
+  "en": "Wild heart:",
+  "status": "done",
   "ptrs": [
    "0x8794"
   ],
@@ -13960,8 +13960,8 @@
   "id": "r00ad60",
   "kind": "string",
   "jp": "人のこうげきを",
-  "en": "",
-  "status": "new",
+  "en": "body attacks,",
+  "status": "done",
   "ptrs": [
    "0x8798"
   ],
@@ -13971,8 +13971,8 @@
   "id": "r00ad70",
   "kind": "string",
   "jp": "両方ＵＰだ",
-  "en": "",
-  "status": "new",
+  "en": "both UP!",
+  "status": "done",
   "ptrs": [
    "0x879c"
   ],
@@ -13982,8 +13982,8 @@
   "id": "r00ad7c",
   "kind": "string",
   "jp": "でもあばれすぎで",
-  "en": "",
-  "status": "new",
+  "en": "but too wild,",
+  "status": "done",
   "ptrs": [
    "0x87a0"
   ],
@@ -13993,8 +13993,8 @@
   "id": "r00ad90",
   "kind": "string",
   "jp": "サイズダウン",
-  "en": "",
-  "status": "new",
+  "en": "Size DOWN",
+  "status": "done",
   "ptrs": [
    "0x87a4"
   ],
@@ -14004,8 +14004,8 @@
   "id": "r00ada0",
   "kind": "string",
   "jp": "つうれつ",
-  "en": "",
-  "status": "new",
+  "en": "Savage",
+  "status": "done",
   "ptrs": [
    "0x87b8"
   ],
@@ -14015,8 +14015,8 @@
   "id": "r00adac",
   "kind": "string",
   "jp": "つうれつパワーで",
-  "en": "",
-  "status": "new",
+  "en": "Savage power:",
+  "status": "done",
   "ptrs": [
    "0x87bc"
   ],
@@ -14026,8 +14026,8 @@
   "id": "r00adc0",
   "kind": "string",
   "jp": "ロールこうげきを",
-  "en": "",
-  "status": "new",
+  "en": "Roll attacks,",
+  "status": "done",
   "ptrs": [
    "0x87c0"
   ],
@@ -14037,8 +14037,8 @@
   "id": "r00add4",
   "kind": "string",
   "jp": "両方ＵＰだ",
-  "en": "",
-  "status": "new",
+  "en": "both UP!",
+  "status": "done",
   "ptrs": [
    "0x87c4"
   ],
@@ -14048,8 +14048,8 @@
   "id": "r00ade0",
   "kind": "string",
   "jp": "でもイタすぎで",
-  "en": "",
-  "status": "new",
+  "en": "too painful,",
+  "status": "done",
   "ptrs": [
    "0x87c8"
   ],
@@ -14059,8 +14059,8 @@
   "id": "r00adf0",
   "kind": "string",
   "jp": "サイズダウン",
-  "en": "",
-  "status": "new",
+  "en": "Size DOWN",
+  "status": "done",
   "ptrs": [
    "0x87cc"
   ],
@@ -14070,8 +14070,8 @@
   "id": "r00ae00",
   "kind": "string",
   "jp": "ぶしん",
-  "en": "",
-  "status": "new",
+  "en": "Titan",
+  "status": "done",
   "ptrs": [
    "0x87e0"
   ],
@@ -14081,8 +14081,8 @@
   "id": "r00ae08",
   "kind": "string",
   "jp": "人全てをＵＰで",
-  "en": "",
-  "status": "new",
+  "en": "All body UP:",
+  "status": "done",
   "ptrs": [
    "0x87e4"
   ],
@@ -14092,8 +14092,8 @@
   "id": "r00ae18",
   "kind": "string",
   "jp": "かくとうの",
-  "en": "",
-  "status": "new",
+  "en": "a god of",
+  "status": "done",
   "ptrs": [
    "0x87e8"
   ],
@@ -14103,8 +14103,8 @@
   "id": "r00ae24",
   "kind": "string",
   "jp": "カミサマだ",
-  "en": "",
-  "status": "new",
+  "en": "brawling",
+  "status": "done",
   "ptrs": [
    "0x87ec"
   ],
@@ -14114,8 +14114,8 @@
   "id": "r00ae30",
   "kind": "string",
   "jp": "だがサイズが",
-  "en": "",
-  "status": "new",
+  "en": "but Size",
+  "status": "done",
   "ptrs": [
    "0x87f0"
   ],
@@ -14125,8 +14125,8 @@
   "id": "r00ae40",
   "kind": "string",
   "jp": "へってしまう",
-  "en": "",
-  "status": "new",
+  "en": "drops",
+  "status": "done",
   "ptrs": [
    "0x87f4"
   ],
@@ -14136,8 +14136,8 @@
   "id": "r00ae50",
   "kind": "string",
   "jp": "おやだま",
-  "en": "",
-  "status": "new",
+  "en": "Big Ball",
+  "status": "done",
   "ptrs": [
    "0x8808"
   ],
@@ -14147,8 +14147,8 @@
   "id": "r00ae5c",
   "kind": "string",
   "jp": "ロール全てＵＰで",
-  "en": "",
-  "status": "new",
+  "en": "All Roll UP:",
+  "status": "done",
   "ptrs": [
    "0x880c"
   ],
@@ -14158,8 +14158,8 @@
   "id": "r00ae70",
   "kind": "string",
   "jp": "ころがりの",
-  "en": "",
-  "status": "new",
+  "en": "a king of",
+  "status": "done",
   "ptrs": [
    "0x8810"
   ],
@@ -14169,8 +14169,8 @@
   "id": "r00ae7c",
   "kind": "string",
   "jp": "オオサマだ",
-  "en": "",
-  "status": "new",
+  "en": "rolling",
+  "status": "done",
   "ptrs": [
    "0x8814"
   ],
@@ -14180,8 +14180,8 @@
   "id": "r00ae88",
   "kind": "string",
   "jp": "だがサイズが",
-  "en": "",
-  "status": "new",
+  "en": "but Size",
+  "status": "done",
   "ptrs": [
    "0x8818"
   ],
@@ -14191,8 +14191,8 @@
   "id": "r00ae98",
   "kind": "string",
   "jp": "へってしまう",
-  "en": "",
-  "status": "new",
+  "en": "drops",
+  "status": "done",
   "ptrs": [
    "0x881c"
   ],
@@ -14202,8 +14202,8 @@
   "id": "r00aea8",
   "kind": "string",
   "jp": "もえるとうこん",
-  "en": "",
-  "status": "new",
+  "en": "Blazing Fight",
+  "status": "done",
   "ptrs": [
    "0x8830"
   ],
@@ -14213,8 +14213,8 @@
   "id": "r00aeb8",
   "kind": "string",
   "jp": "もえるとうこんで",
-  "en": "",
-  "status": "new",
+  "en": "Blazing fight:",
+  "status": "done",
   "ptrs": [
    "0x8834"
   ],
@@ -14224,8 +14224,8 @@
   "id": "r00aecc",
   "kind": "string",
   "jp": "全てのこうげきが",
-  "en": "",
-  "status": "new",
+  "en": "all attacks",
+  "status": "done",
   "ptrs": [
    "0x8838"
   ],
@@ -14235,8 +14235,8 @@
   "id": "r00aee0",
   "kind": "string",
   "jp": "ＵＰだ",
-  "en": "",
-  "status": "new",
+  "en": "UP!",
+  "status": "done",
   "ptrs": [
    "0x883c"
   ],
@@ -14246,8 +14246,8 @@
   "id": "r00aee8",
   "kind": "string",
   "jp": "だがサイズが",
-  "en": "",
-  "status": "new",
+  "en": "but Size",
+  "status": "done",
   "ptrs": [
    "0x8840"
   ],
@@ -14257,8 +14257,8 @@
   "id": "r00aef8",
   "kind": "string",
   "jp": "へってしまう",
-  "en": "",
-  "status": "new",
+  "en": "drops",
+  "status": "done",
   "ptrs": [
    "0x8844"
   ],
@@ -14268,8 +14268,8 @@
   "id": "r00af08",
   "kind": "string",
   "jp": "しんぎたい",
-  "en": "",
-  "status": "new",
+  "en": "Perfect",
+  "status": "done",
   "ptrs": [
    "0x8858"
   ],
@@ -14279,8 +14279,8 @@
   "id": "r00af14",
   "kind": "string",
   "jp": "全てをそなえた",
-  "en": "",
-  "status": "new",
+  "en": "Has it all:",
+  "status": "done",
   "ptrs": [
    "0x885c"
   ],
@@ -14290,8 +14290,8 @@
   "id": "r00af24",
   "kind": "string",
   "jp": "かんぺきスキル",
-  "en": "",
-  "status": "new",
+  "en": "perfect skill",
+  "status": "done",
   "ptrs": [
    "0x8860"
   ],
@@ -14301,8 +14301,8 @@
   "id": "r00af34",
   "kind": "string",
   "jp": "サイズはへるが",
-  "en": "",
-  "status": "new",
+  "en": "Size drops but",
+  "status": "done",
   "ptrs": [
    "0x8864"
   ],
@@ -14312,8 +14312,8 @@
   "id": "r00af44",
   "kind": "string",
   "jp": "それいがいは",
-  "en": "",
-  "status": "new",
+  "en": "everything",
+  "status": "done",
   "ptrs": [
    "0x8868"
   ],
@@ -14323,8 +14323,8 @@
   "id": "r00af54",
   "kind": "string",
   "jp": "ほぼ全てＵＰだ",
-  "en": "",
-  "status": "new",
+  "en": "else is UP!",
+  "status": "done",
   "ptrs": [
    "0x886c"
   ],
@@ -14334,8 +14334,8 @@
   "id": "r00af64",
   "kind": "string",
   "jp": "ふっかつ",
-  "en": "",
-  "status": "new",
+  "en": "Revival",
+  "status": "done",
   "ptrs": [
    "0x8880"
   ],
@@ -14345,8 +14345,8 @@
   "id": "r00af70",
   "kind": "string",
   "jp": "やられても",
-  "en": "",
-  "status": "new",
+  "en": "Even hit,",
+  "status": "done",
   "ptrs": [
    "0x8884"
   ],
@@ -14356,8 +14356,8 @@
   "id": "r00af7c",
   "kind": "string",
   "jp": "ＨＲからスピード",
-  "en": "",
-  "status": "new",
+  "en": "speedy return",
+  "status": "done",
   "ptrs": [
    "0x8888"
   ],
@@ -14367,8 +14367,8 @@
   "id": "r00af90",
   "kind": "string",
   "jp": "ふっきだ",
-  "en": "",
-  "status": "new",
+  "en": "via HR",
+  "status": "done",
   "ptrs": [
    "0x888c"
   ],
@@ -14378,8 +14378,8 @@
   "id": "r00af9c",
   "kind": "string",
   "jp": "そのぶんいろいろ",
-  "en": "",
-  "status": "new",
+  "en": "but many stats",
+  "status": "done",
   "ptrs": [
    "0x8890"
   ],
@@ -14389,8 +14389,8 @@
   "id": "r00afb0",
   "kind": "string",
   "jp": "へってしまう",
-  "en": "",
-  "status": "new",
+  "en": "drop",
+  "status": "done",
   "ptrs": [
    "0x8894"
   ],
@@ -14400,8 +14400,8 @@
   "id": "r00afc0",
   "kind": "string",
   "jp": "どこんじょう",
-  "en": "",
-  "status": "new",
+  "en": "Super Grit",
+  "status": "done",
   "ptrs": [
    "0x88a8"
   ],
@@ -14411,8 +14411,8 @@
   "id": "r00afd0",
   "kind": "string",
   "jp": "どこんじょうで",
-  "en": "",
-  "status": "new",
+  "en": "True grit:",
+  "status": "done",
   "ptrs": [
    "0x88ac"
   ],
@@ -14422,8 +14422,8 @@
   "id": "r00afe0",
   "kind": "string",
   "jp": "ＡＰをスピード",
-  "en": "",
-  "status": "new",
+  "en": "AP recovers",
+  "status": "done",
   "ptrs": [
    "0x88b0"
   ],
@@ -14433,8 +14433,8 @@
   "id": "r00aff0",
   "kind": "string",
   "jp": "カイフクだ",
-  "en": "",
-  "status": "new",
+  "en": "fast!",
+  "status": "done",
   "ptrs": [
    "0x88b4"
   ],
@@ -14444,8 +14444,8 @@
   "id": "r00affc",
   "kind": "string",
   "jp": "そのぶんいろいろ",
-  "en": "",
-  "status": "new",
+  "en": "but many stats",
+  "status": "done",
   "ptrs": [
    "0x88b8"
   ],
@@ -14455,8 +14455,8 @@
   "id": "r00b010",
   "kind": "string",
   "jp": "へってしまう",
-  "en": "",
-  "status": "new",
+  "en": "drop",
+  "status": "done",
   "ptrs": [
    "0x88bc"
   ],
@@ -14466,8 +14466,8 @@
   "id": "r00b020",
   "kind": "string",
   "jp": "はいすいのじん",
-  "en": "",
-  "status": "new",
+  "en": "Last Stand",
+  "status": "done",
   "ptrs": [
    "0x88d0"
   ],
@@ -14477,8 +14477,8 @@
   "id": "r00b030",
   "kind": "string",
   "jp": "ＨＲのふっきは",
-  "en": "",
-  "status": "new",
+  "en": "HR return is",
+  "status": "done",
   "ptrs": [
    "0x88d4"
   ],
@@ -14488,8 +14488,8 @@
   "id": "r00b040",
   "kind": "string",
   "jp": "おそくなるが",
-  "en": "",
-  "status": "new",
+  "en": "slower, but",
+  "status": "done",
   "ptrs": [
    "0x88d8"
   ],
@@ -14499,8 +14499,8 @@
   "id": "r00b050",
   "kind": "string",
   "jp": "決死のカクゴで",
-  "en": "",
-  "status": "new",
+  "en": "do-or-die:",
+  "status": "done",
   "ptrs": [
    "0x88dc"
   ],
@@ -14510,8 +14510,8 @@
   "id": "r00b060",
   "kind": "string",
   "jp": "いろいろＵＰだ",
-  "en": "",
-  "status": "new",
+  "en": "much is UP!",
+  "status": "done",
   "ptrs": [
    "0x88e0"
   ],
@@ -14521,8 +14521,8 @@
   "id": "r00b074",
   "kind": "string",
   "jp": "むしん",
-  "en": "",
-  "status": "new",
+  "en": "Zen",
+  "status": "done",
   "ptrs": [
    "0x88f8"
   ],
@@ -14532,8 +14532,8 @@
   "id": "r00b07c",
   "kind": "string",
   "jp": "ＡＰのカイフクは",
-  "en": "",
-  "status": "new",
+  "en": "AP recovery is",
+  "status": "done",
   "ptrs": [
    "0x88fc"
   ],
@@ -14543,8 +14543,8 @@
   "id": "r00b090",
   "kind": "string",
   "jp": "おそくなるが",
-  "en": "",
-  "status": "new",
+  "en": "slower, but",
+  "status": "done",
   "ptrs": [
    "0x8900"
   ],
@@ -14554,8 +14554,8 @@
   "id": "r00b0a0",
   "kind": "string",
   "jp": "じゃねんをはらい",
-  "en": "",
-  "status": "new",
+  "en": "a clear mind:",
+  "status": "done",
   "ptrs": [
    "0x8904"
   ],
@@ -14565,8 +14565,8 @@
   "id": "r00b0b4",
   "kind": "string",
   "jp": "いろいろＵＰだ",
-  "en": "",
-  "status": "new",
+  "en": "much is UP!",
+  "status": "done",
   "ptrs": [
    "0x8908"
   ],
@@ -14576,8 +14576,8 @@
   "id": "r00b0c8",
   "kind": "string",
   "jp": "ＢＬマニア",
-  "en": "",
-  "status": "new",
+  "en": "BL Mania",
+  "status": "done",
   "ptrs": [
    "0x8920"
   ],
@@ -14587,8 +14587,8 @@
   "id": "r00b0d4",
   "kind": "string",
   "jp": "ＢＬをセットで",
-  "en": "",
-  "status": "new",
+  "en": "Set BL:",
+  "status": "done",
   "ptrs": [
    "0x8924"
   ],
@@ -14598,8 +14598,8 @@
   "id": "r00b0e4",
   "kind": "string",
   "jp": "ロールこうげきが",
-  "en": "",
-  "status": "new",
+  "en": "Roll attack",
+  "status": "done",
   "ptrs": [
    "0x8928"
   ],
@@ -14609,8 +14609,8 @@
   "id": "r00b0f8",
   "kind": "string",
   "jp": "強くなる　　人の",
-  "en": "",
-  "status": "new",
+  "en": "rises; body",
+  "status": "done",
   "ptrs": [
    "0x892c"
   ],
@@ -14620,8 +14620,8 @@
   "id": "r00b10c",
   "kind": "string",
   "jp": "こうげきがへるが",
-  "en": "",
-  "status": "new",
+  "en": "attack drops but",
+  "status": "done",
   "ptrs": [
    "0x8930"
   ],
@@ -14631,8 +14631,8 @@
   "id": "r00b120",
   "kind": "string",
   "jp": "サイズはＵＰだ",
-  "en": "",
-  "status": "new",
+  "en": "Size goes UP",
+  "status": "done",
   "ptrs": [
    "0x8934"
   ],
@@ -14642,8 +14642,8 @@
   "id": "r00b130",
   "kind": "string",
   "jp": "ＥｘＢＬマニア",
-  "en": "",
-  "status": "new",
+  "en": "ExBL Mania",
+  "status": "done",
   "ptrs": [
    "0x8948"
   ],
@@ -14653,8 +14653,8 @@
   "id": "r00b140",
   "kind": "string",
   "jp": "ＥｘＢＬセットで",
-  "en": "",
-  "status": "new",
+  "en": "Set ExBL:",
+  "status": "done",
   "ptrs": [
    "0x894c"
   ],
@@ -14664,8 +14664,8 @@
   "id": "r00b154",
   "kind": "string",
   "jp": "ロールこうげきが",
-  "en": "",
-  "status": "new",
+  "en": "Roll attack",
+  "status": "done",
   "ptrs": [
    "0x8950"
   ],
@@ -14675,8 +14675,8 @@
   "id": "r00b168",
   "kind": "string",
   "jp": "強くなる　　人の",
-  "en": "",
-  "status": "new",
+  "en": "rises; body",
+  "status": "done",
   "ptrs": [
    "0x8954"
   ],
@@ -14686,8 +14686,8 @@
   "id": "r00b17c",
   "kind": "string",
   "jp": "こうげきがへるが",
-  "en": "",
-  "status": "new",
+  "en": "attack drops but",
+  "status": "done",
   "ptrs": [
    "0x8958"
   ],
@@ -14697,8 +14697,8 @@
   "id": "r00b190",
   "kind": "string",
   "jp": "サイズはＵＰだ",
-  "en": "",
-  "status": "new",
+  "en": "Size goes UP",
+  "status": "done",
   "ptrs": [
    "0x895c"
   ],
@@ -14708,8 +14708,8 @@
   "id": "r00b1a0",
   "kind": "string",
   "jp": "ＳＴマニア",
-  "en": "",
-  "status": "new",
+  "en": "ST Mania",
+  "status": "done",
   "ptrs": [
    "0x8970"
   ],
@@ -14719,8 +14719,8 @@
   "id": "r00b1ac",
   "kind": "string",
   "jp": "ＳＴをセットで",
-  "en": "",
-  "status": "new",
+  "en": "Set ST:",
+  "status": "done",
   "ptrs": [
    "0x8974"
   ],
@@ -14730,8 +14730,8 @@
   "id": "r00b1bc",
   "kind": "string",
   "jp": "スピードが",
-  "en": "",
-  "status": "new",
+  "en": "Speed",
+  "status": "done",
   "ptrs": [
    "0x8978"
   ],
@@ -14741,8 +14741,8 @@
   "id": "r00b1c8",
   "kind": "string",
   "jp": "速くなる　　人の",
-  "en": "",
-  "status": "new",
+  "en": "rises; body",
+  "status": "done",
   "ptrs": [
    "0x897c"
   ],
@@ -14752,8 +14752,8 @@
   "id": "r00b1dc",
   "kind": "string",
   "jp": "こうげきがへるが",
-  "en": "",
-  "status": "new",
+  "en": "attack drops but",
+  "status": "done",
   "ptrs": [
    "0x8980"
   ],
@@ -14763,8 +14763,8 @@
   "id": "r00b1f0",
   "kind": "string",
   "jp": "サイズはＵＰだ",
-  "en": "",
-  "status": "new",
+  "en": "Size goes UP",
+  "status": "done",
   "ptrs": [
    "0x8984"
   ],
@@ -14774,8 +14774,8 @@
   "id": "r00b200",
   "kind": "string",
   "jp": "ＥｘＳＴマニア",
-  "en": "",
-  "status": "new",
+  "en": "ExST Mania",
+  "status": "done",
   "ptrs": [
    "0x8998"
   ],
@@ -14785,8 +14785,8 @@
   "id": "r00b210",
   "kind": "string",
   "jp": "ＥｘＳＴセットで",
-  "en": "",
-  "status": "new",
+  "en": "Set ExST:",
+  "status": "done",
   "ptrs": [
    "0x899c"
   ],
@@ -14796,8 +14796,8 @@
   "id": "r00b224",
   "kind": "string",
   "jp": "スピードが",
-  "en": "",
-  "status": "new",
+  "en": "Speed",
+  "status": "done",
   "ptrs": [
    "0x89a0"
   ],
@@ -14807,8 +14807,8 @@
   "id": "r00b230",
   "kind": "string",
   "jp": "速くなる　　人の",
-  "en": "",
-  "status": "new",
+  "en": "rises; body",
+  "status": "done",
   "ptrs": [
    "0x89a4"
   ],
@@ -14818,8 +14818,8 @@
   "id": "r00b244",
   "kind": "string",
   "jp": "こうげきがへるが",
-  "en": "",
-  "status": "new",
+  "en": "attack drops but",
+  "status": "done",
   "ptrs": [
    "0x89a8"
   ],
@@ -14829,8 +14829,8 @@
   "id": "r00b258",
   "kind": "string",
   "jp": "サイズはＵＰだ",
-  "en": "",
-  "status": "new",
+  "en": "Size goes UP",
+  "status": "done",
   "ptrs": [
    "0x89ac"
   ],
@@ -14840,8 +14840,8 @@
   "id": "r00b268",
   "kind": "string",
   "jp": "ＨＵマニア",
-  "en": "",
-  "status": "new",
+  "en": "HU Mania",
+  "status": "done",
   "ptrs": [
    "0x89c0"
   ],
@@ -14851,8 +14851,8 @@
   "id": "r00b274",
   "kind": "string",
   "jp": "ＨＵをセットで",
-  "en": "",
-  "status": "new",
+  "en": "Set HU:",
+  "status": "done",
   "ptrs": [
    "0x89c4"
   ],
@@ -14862,8 +14862,8 @@
   "id": "r00b284",
   "kind": "string",
   "jp": "ＨＰとＡＰが",
-  "en": "",
-  "status": "new",
+  "en": "HP & AP",
+  "status": "done",
   "ptrs": [
    "0x89c8"
   ],
@@ -14873,8 +14873,8 @@
   "id": "r00b294",
   "kind": "string",
   "jp": "ＵＰだ　　　人の",
-  "en": "",
-  "status": "new",
+  "en": "UP; body",
+  "status": "done",
   "ptrs": [
    "0x89cc"
   ],
@@ -14884,8 +14884,8 @@
   "id": "r00b2a8",
   "kind": "string",
   "jp": "こうげきがへるが",
-  "en": "",
-  "status": "new",
+  "en": "attack drops but",
+  "status": "done",
   "ptrs": [
    "0x89d0"
   ],
@@ -14895,8 +14895,8 @@
   "id": "r00b2bc",
   "kind": "string",
   "jp": "サイズはＵＰだ",
-  "en": "",
-  "status": "new",
+  "en": "Size goes UP",
+  "status": "done",
   "ptrs": [
    "0x89d4"
   ],
@@ -14906,8 +14906,8 @@
   "id": "r00b2cc",
   "kind": "string",
   "jp": "ＥｘＨＵマニア",
-  "en": "",
-  "status": "new",
+  "en": "ExHU Mania",
+  "status": "done",
   "ptrs": [
    "0x89e8"
   ],
@@ -14917,8 +14917,8 @@
   "id": "r00b2dc",
   "kind": "string",
   "jp": "ＥｘＨＵセットで",
-  "en": "",
-  "status": "new",
+  "en": "Set ExHU:",
+  "status": "done",
   "ptrs": [
    "0x89ec"
   ],
@@ -14928,8 +14928,8 @@
   "id": "r00b2f0",
   "kind": "string",
   "jp": "ＨＰとＡＰが",
-  "en": "",
-  "status": "new",
+  "en": "HP & AP",
+  "status": "done",
   "ptrs": [
    "0x89f0"
   ],
@@ -14939,8 +14939,8 @@
   "id": "r00b300",
   "kind": "string",
   "jp": "ＵＰだ　　　人の",
-  "en": "",
-  "status": "new",
+  "en": "UP; body",
+  "status": "done",
   "ptrs": [
    "0x89f4"
   ],
@@ -14950,8 +14950,8 @@
   "id": "r00b314",
   "kind": "string",
   "jp": "こうげきがへるが",
-  "en": "",
-  "status": "new",
+  "en": "attack drops but",
+  "status": "done",
   "ptrs": [
    "0x89f8"
   ],
@@ -14961,8 +14961,8 @@
   "id": "r00b328",
   "kind": "string",
   "jp": "サイズはＵＰだ",
-  "en": "",
-  "status": "new",
+  "en": "Size goes UP",
+  "status": "done",
   "ptrs": [
    "0x89fc"
   ],
@@ -14972,8 +14972,8 @@
   "id": "r00b338",
   "kind": "string",
   "jp": "ＢＯマニア",
-  "en": "",
-  "status": "new",
+  "en": "BO Mania",
+  "status": "done",
   "ptrs": [
    "0x8a10"
   ],
@@ -14983,8 +14983,8 @@
   "id": "r00b344",
   "kind": "string",
   "jp": "ＢＯをセットで",
-  "en": "",
-  "status": "new",
+  "en": "Set BO:",
+  "status": "done",
   "ptrs": [
    "0x8a14"
   ],
@@ -14994,8 +14994,8 @@
   "id": "r00b354",
   "kind": "string",
   "jp": "人のこうげきと",
-  "en": "",
-  "status": "new",
+  "en": "body attack &",
+  "status": "done",
   "ptrs": [
    "0x8a18"
   ],
@@ -15005,8 +15005,8 @@
   "id": "r00b364",
   "kind": "string",
   "jp": "サイズがＵＰ",
-  "en": "",
-  "status": "new",
+  "en": "Size UP",
+  "status": "done",
   "ptrs": [
    "0x8a1c"
   ],
@@ -15016,8 +15016,8 @@
   "id": "r00b374",
   "kind": "string",
   "jp": "その分ＨＰとＡＰ",
-  "en": "",
-  "status": "new",
+  "en": "but HP & AP",
+  "status": "done",
   "ptrs": [
    "0x8a20"
   ],
@@ -15027,8 +15027,8 @@
   "id": "r00b388",
   "kind": "string",
   "jp": "がダウンだ",
-  "en": "",
-  "status": "new",
+  "en": "go DOWN",
+  "status": "done",
   "ptrs": [
    "0x8a24"
   ],
@@ -15038,8 +15038,8 @@
   "id": "r00b394",
   "kind": "string",
   "jp": "ＥｘＢＯマニア",
-  "en": "",
-  "status": "new",
+  "en": "ExBO Mania",
+  "status": "done",
   "ptrs": [
    "0x8a38"
   ],
@@ -15049,8 +15049,8 @@
   "id": "r00b3a4",
   "kind": "string",
   "jp": "ＥｘＢＯセットで",
-  "en": "",
-  "status": "new",
+  "en": "Set ExBO:",
+  "status": "done",
   "ptrs": [
    "0x8a3c"
   ],
@@ -15060,8 +15060,8 @@
   "id": "r00b3b8",
   "kind": "string",
   "jp": "人のこうげきと",
-  "en": "",
-  "status": "new",
+  "en": "body attack &",
+  "status": "done",
   "ptrs": [
    "0x8a40"
   ],
@@ -15071,8 +15071,8 @@
   "id": "r00b3c8",
   "kind": "string",
   "jp": "サイズがＵＰ",
-  "en": "",
-  "status": "new",
+  "en": "Size UP",
+  "status": "done",
   "ptrs": [
    "0x8a44"
   ],
@@ -15082,8 +15082,8 @@
   "id": "r00b3d8",
   "kind": "string",
   "jp": "その分ＨＰとＡＰ",
-  "en": "",
-  "status": "new",
+  "en": "but HP & AP",
+  "status": "done",
   "ptrs": [
    "0x8a48"
   ],
@@ -15093,8 +15093,8 @@
   "id": "r00b3ec",
   "kind": "string",
   "jp": "がダウンだ",
-  "en": "",
-  "status": "new",
+  "en": "go DOWN",
+  "status": "done",
   "ptrs": [
    "0x8a4c"
   ],
@@ -15104,8 +15104,8 @@
   "id": "r00b3f8",
   "kind": "string",
   "jp": "ＢＬユーザー",
-  "en": "",
-  "status": "new",
+  "en": "BL User",
+  "status": "done",
   "ptrs": [
    "0x8a60"
   ],
@@ -15115,8 +15115,8 @@
   "id": "r00b408",
   "kind": "string",
   "jp": "ＢＬ、ＥｘＢＬを",
-  "en": "",
-  "status": "new",
+  "en": "BL or ExBL",
+  "status": "done",
   "ptrs": [
    "0x8a64"
   ],
@@ -15126,8 +15126,8 @@
   "id": "r00b41c",
   "kind": "string",
   "jp": "セットでロールが",
-  "en": "",
-  "status": "new",
+  "en": "set: Roll",
+  "status": "done",
   "ptrs": [
    "0x8a68"
   ],
@@ -15137,8 +15137,8 @@
   "id": "r00b430",
   "kind": "string",
   "jp": "強くなる　　人の",
-  "en": "",
-  "status": "new",
+  "en": "rises; body",
+  "status": "done",
   "ptrs": [
    "0x8a6c"
   ],
@@ -15148,8 +15148,8 @@
   "id": "r00b444",
   "kind": "string",
   "jp": "こうげきがへるが",
-  "en": "",
-  "status": "new",
+  "en": "attack drops but",
+  "status": "done",
   "ptrs": [
    "0x8a70"
   ],
@@ -15159,8 +15159,8 @@
   "id": "r00b458",
   "kind": "string",
   "jp": "サイズはＵＰだ",
-  "en": "",
-  "status": "new",
+  "en": "Size goes UP",
+  "status": "done",
   "ptrs": [
    "0x8a74"
   ],
@@ -15170,8 +15170,8 @@
   "id": "r00b468",
   "kind": "string",
   "jp": "ＳＴユーザー",
-  "en": "",
-  "status": "new",
+  "en": "ST User",
+  "status": "done",
   "ptrs": [
    "0x8a88"
   ],
@@ -15181,8 +15181,8 @@
   "id": "r00b478",
   "kind": "string",
   "jp": "ＳＴ、ＥｘＳＴを",
-  "en": "",
-  "status": "new",
+  "en": "ST or ExST",
+  "status": "done",
   "ptrs": [
    "0x8a8c"
   ],
@@ -15192,8 +15192,8 @@
   "id": "r00b48c",
   "kind": "string",
   "jp": "セットでスピード",
-  "en": "",
-  "status": "new",
+  "en": "set: speed",
+  "status": "done",
   "ptrs": [
    "0x8a90"
   ],
@@ -15203,8 +15203,8 @@
   "id": "r00b4a0",
   "kind": "string",
   "jp": "が速くなる　人の",
-  "en": "",
-  "status": "new",
+  "en": "rises; body",
+  "status": "done",
   "ptrs": [
    "0x8a94"
   ],
@@ -15214,8 +15214,8 @@
   "id": "r00b4b4",
   "kind": "string",
   "jp": "こうげきがへるが",
-  "en": "",
-  "status": "new",
+  "en": "attack drops but",
+  "status": "done",
   "ptrs": [
    "0x8a98"
   ],
@@ -15225,8 +15225,8 @@
   "id": "r00b4c8",
   "kind": "string",
   "jp": "サイズはＵＰだ",
-  "en": "",
-  "status": "new",
+  "en": "Size goes UP",
+  "status": "done",
   "ptrs": [
    "0x8a9c"
   ],
@@ -15236,8 +15236,8 @@
   "id": "r00b4d8",
   "kind": "string",
   "jp": "ＨＵユーザー",
-  "en": "",
-  "status": "new",
+  "en": "HU User",
+  "status": "done",
   "ptrs": [
    "0x8ab0"
   ],
@@ -15247,8 +15247,8 @@
   "id": "r00b4e8",
   "kind": "string",
   "jp": "ＨＵ、ＥｘＨＵを",
-  "en": "",
-  "status": "new",
+  "en": "HU or ExHU",
+  "status": "done",
   "ptrs": [
    "0x8ab4"
   ],
@@ -15258,8 +15258,8 @@
   "id": "r00b4fc",
   "kind": "string",
   "jp": "セットでＨＰと",
-  "en": "",
-  "status": "new",
+  "en": "set: HP &",
+  "status": "done",
   "ptrs": [
    "0x8ab8"
   ],
@@ -15269,8 +15269,8 @@
   "id": "r00b50c",
   "kind": "string",
   "jp": "ＡＰがＵＰ　人の",
-  "en": "",
-  "status": "new",
+  "en": "AP UP; body",
+  "status": "done",
   "ptrs": [
    "0x8abc"
   ],
@@ -15280,8 +15280,8 @@
   "id": "r00b520",
   "kind": "string",
   "jp": "こうげきがへるが",
-  "en": "",
-  "status": "new",
+  "en": "attack drops but",
+  "status": "done",
   "ptrs": [
    "0x8ac0"
   ],
@@ -15291,8 +15291,8 @@
   "id": "r00b534",
   "kind": "string",
   "jp": "サイズはＵＰだ",
-  "en": "",
-  "status": "new",
+  "en": "Size goes UP",
+  "status": "done",
   "ptrs": [
    "0x8ac4"
   ],
@@ -15302,8 +15302,8 @@
   "id": "r00b544",
   "kind": "string",
   "jp": "ＢＯユーザー",
-  "en": "",
-  "status": "new",
+  "en": "BO User",
+  "status": "done",
   "ptrs": [
    "0x8ad8"
   ],
@@ -15313,8 +15313,8 @@
   "id": "r00b554",
   "kind": "string",
   "jp": "ＢＯ、ＥｘＢＯを",
-  "en": "",
-  "status": "new",
+  "en": "BO or ExBO",
+  "status": "done",
   "ptrs": [
    "0x8adc"
   ],
@@ -15324,8 +15324,8 @@
   "id": "r00b568",
   "kind": "string",
   "jp": "セットで人の",
-  "en": "",
-  "status": "new",
+  "en": "set: body",
+  "status": "done",
   "ptrs": [
    "0x8ae0"
   ],
@@ -15335,8 +15335,8 @@
   "id": "r00b578",
   "kind": "string",
   "jp": "こうげきＵＰ",
-  "en": "",
-  "status": "new",
+  "en": "attack UP",
+  "status": "done",
   "ptrs": [
    "0x8ae4"
   ],
@@ -15346,8 +15346,8 @@
   "id": "r00b588",
   "kind": "string",
   "jp": "ＨＰＡＰがへるが",
-  "en": "",
-  "status": "new",
+  "en": "HP/AP DOWN,",
+  "status": "done",
   "ptrs": [
    "0x8ae8"
   ],
@@ -15357,8 +15357,8 @@
   "id": "r00b59c",
   "kind": "string",
   "jp": "サイズはＵＰだ",
-  "en": "",
-  "status": "new",
+  "en": "Size goes UP",
+  "status": "done",
   "ptrs": [
    "0x8aec"
   ],
@@ -15368,8 +15368,8 @@
   "id": "r00b5ac",
   "kind": "string",
   "jp": "アームずき",
-  "en": "",
-  "status": "new",
+  "en": "Arm Fan",
+  "status": "done",
   "ptrs": [
    "0x8b00"
   ],
@@ -15379,8 +15379,8 @@
   "id": "r00b5b8",
   "kind": "string",
   "jp": "サイズ１～３の",
-  "en": "",
-  "status": "new",
+  "en": "Size 1-3",
+  "status": "done",
   "ptrs": [
    "0x8b04"
   ],
@@ -15390,8 +15390,8 @@
   "id": "r00b5c8",
   "kind": "string",
   "jp": "アームをセットで",
-  "en": "",
-  "status": "new",
+  "en": "Arms set:",
+  "status": "done",
   "ptrs": [
    "0x8b08"
   ],
@@ -15401,8 +15401,8 @@
   "id": "r00b5dc",
   "kind": "string",
   "jp": "ＨＰとＡＰと",
-  "en": "",
-  "status": "new",
+  "en": "HP, AP,",
+  "status": "done",
   "ptrs": [
    "0x8b0c"
   ],
@@ -15412,8 +15412,8 @@
   "id": "r00b5ec",
   "kind": "string",
   "jp": "ＨＲふっきとＡＰ",
-  "en": "",
-  "status": "new",
+  "en": "HR return &",
+  "status": "done",
   "ptrs": [
    "0x8b10"
   ],
@@ -15423,8 +15423,8 @@
   "id": "r00b600",
   "kind": "string",
   "jp": "カウフクがＵＰ",
-  "en": "",
-  "status": "new",
+  "en": "AP heal UP",
+  "status": "done",
   "ptrs": [
    "0x8b14"
   ],
@@ -15434,8 +15434,8 @@
   "id": "r00b610",
   "kind": "string",
   "jp": "アームコレクター",
-  "en": "",
-  "status": "new",
+  "en": "Arm Collector",
+  "status": "done",
   "ptrs": [
    "0x8b28"
   ],
@@ -15445,8 +15445,8 @@
   "id": "r00b624",
   "kind": "string",
   "jp": "サイズ１～３の",
-  "en": "",
-  "status": "new",
+  "en": "Size 1-3",
+  "status": "done",
   "ptrs": [
    "0x8b2c"
   ],
@@ -15456,8 +15456,8 @@
   "id": "r00b634",
   "kind": "string",
   "jp": "アームをセットで",
-  "en": "",
-  "status": "new",
+  "en": "Arms set:",
+  "status": "done",
   "ptrs": [
    "0x8b30"
   ],
@@ -15467,8 +15467,8 @@
   "id": "r00b648",
   "kind": "string",
   "jp": "人とロールがＵＰ",
-  "en": "",
-  "status": "new",
+  "en": "body & Roll UP",
+  "status": "done",
   "ptrs": [
    "0x8b34"
   ],
@@ -15478,8 +15478,8 @@
   "id": "r00b664",
   "kind": "string",
   "jp": "エクスずき",
-  "en": "",
-  "status": "new",
+  "en": "Ex Fan",
+  "status": "done",
   "ptrs": [
    "0x8b50"
   ],
@@ -15489,8 +15489,8 @@
   "id": "r00b670",
   "kind": "string",
   "jp": "サイズ４、５の",
-  "en": "",
-  "status": "new",
+  "en": "Size 4-5",
+  "status": "done",
   "ptrs": [
    "0x8b54"
   ],
@@ -15500,8 +15500,8 @@
   "id": "r00b680",
   "kind": "string",
   "jp": "アームをセットで",
-  "en": "",
-  "status": "new",
+  "en": "Arms set:",
+  "status": "done",
   "ptrs": [
    "0x8b58"
   ],
@@ -15511,8 +15511,8 @@
   "id": "r00b694",
   "kind": "string",
   "jp": "ＨＰとＡＰと",
-  "en": "",
-  "status": "new",
+  "en": "HP, AP,",
+  "status": "done",
   "ptrs": [
    "0x8b5c"
   ],
@@ -15522,8 +15522,8 @@
   "id": "r00b6a4",
   "kind": "string",
   "jp": "ＨＲふっきとＡＰ",
-  "en": "",
-  "status": "new",
+  "en": "HR return &",
+  "status": "done",
   "ptrs": [
    "0x8b60"
   ],
@@ -15533,8 +15533,8 @@
   "id": "r00b6b8",
   "kind": "string",
   "jp": "カウフクがＵＰ",
-  "en": "",
-  "status": "new",
+  "en": "AP heal UP",
+  "status": "done",
   "ptrs": [
    "0x8b64"
   ],
@@ -15544,8 +15544,8 @@
   "id": "r00b6c8",
   "kind": "string",
   "jp": "エクスコレクター",
-  "en": "",
-  "status": "new",
+  "en": "Ex Collector",
+  "status": "done",
   "ptrs": [
    "0x8b78"
   ],
@@ -15555,8 +15555,8 @@
   "id": "r00b6dc",
   "kind": "string",
   "jp": "サイズ４、５の",
-  "en": "",
-  "status": "new",
+  "en": "Size 4-5",
+  "status": "done",
   "ptrs": [
    "0x8b7c"
   ],
@@ -15566,8 +15566,8 @@
   "id": "r00b6ec",
   "kind": "string",
   "jp": "アームをセットで",
-  "en": "",
-  "status": "new",
+  "en": "Arms set:",
+  "status": "done",
   "ptrs": [
    "0x8b80"
   ],
@@ -15577,8 +15577,8 @@
   "id": "r00b700",
   "kind": "string",
   "jp": "人とロールがＵＰ",
-  "en": "",
-  "status": "new",
+  "en": "body & Roll UP",
+  "status": "done",
   "ptrs": [
    "0x8b84"
   ],
@@ -15588,8 +15588,8 @@
   "id": "r00b71c",
   "kind": "string",
   "jp": "せつやくひっさつ",
-  "en": "",
-  "status": "new",
+  "en": "Frugal Special",
+  "status": "done",
   "ptrs": [
    "0x8ba0"
   ],
@@ -15599,8 +15599,8 @@
   "id": "r00b730",
   "kind": "string",
   "jp": "必殺技のしょうひ",
-  "en": "",
-  "status": "new",
+  "en": "Special moves",
+  "status": "done",
   "ptrs": [
    "0x8ba4"
   ],
@@ -15610,8 +15610,8 @@
   "id": "r00b744",
   "kind": "string",
   "jp": "ＡＰがかなり",
-  "en": "",
-  "status": "new",
+  "en": "cost much",
+  "status": "done",
   "ptrs": [
    "0x8ba8"
   ],
@@ -15621,8 +15621,8 @@
   "id": "r00b754",
   "kind": "string",
   "jp": "少なくなる",
-  "en": "",
-  "status": "new",
+  "en": "less AP",
+  "status": "done",
   "ptrs": [
    "0x8bac"
   ],
@@ -15632,8 +15632,8 @@
   "id": "r00b760",
   "kind": "string",
   "jp": "そのぶんいろいろ",
-  "en": "",
-  "status": "new",
+  "en": "but many stats",
+  "status": "done",
   "ptrs": [
    "0x8bb0"
   ],
@@ -15643,8 +15643,8 @@
   "id": "r00b774",
   "kind": "string",
   "jp": "ダウンしてしまう",
-  "en": "",
-  "status": "new",
+  "en": "go DOWN",
+  "status": "done",
   "ptrs": [
    "0x8bb4"
   ],
@@ -15654,8 +15654,8 @@
   "id": "r00b788",
   "kind": "string",
   "jp": "せつやくこうげき",
-  "en": "",
-  "status": "new",
+  "en": "Frugal Attack",
+  "status": "done",
   "ptrs": [
    "0x8bc8"
   ],
@@ -15665,8 +15665,8 @@
   "id": "r00b79c",
   "kind": "string",
   "jp": "ふつうこうげきの",
-  "en": "",
-  "status": "new",
+  "en": "Normal attacks",
+  "status": "done",
   "ptrs": [
    "0x8bcc"
   ],
@@ -15676,8 +15676,8 @@
   "id": "r00b7b0",
   "kind": "string",
   "jp": "しょうひＡＰが",
-  "en": "",
-  "status": "new",
+  "en": "cost much",
+  "status": "done",
   "ptrs": [
    "0x8bd0"
   ],
@@ -15687,8 +15687,8 @@
   "id": "r00b7c0",
   "kind": "string",
   "jp": "少なくなる",
-  "en": "",
-  "status": "new",
+  "en": "less AP",
+  "status": "done",
   "ptrs": [
    "0x8bd4"
   ],
@@ -15698,8 +15698,8 @@
   "id": "r00b7cc",
   "kind": "string",
   "jp": "そのぶんいろいろ",
-  "en": "",
-  "status": "new",
+  "en": "but many stats",
+  "status": "done",
   "ptrs": [
    "0x8bd8"
   ],
@@ -15709,8 +15709,8 @@
   "id": "r00b7e0",
   "kind": "string",
   "jp": "ダウンしてしまう",
-  "en": "",
-  "status": "new",
+  "en": "go DOWN",
+  "status": "done",
   "ptrs": [
    "0x8bdc"
   ],
@@ -15720,8 +15720,8 @@
   "id": "r00b7f4",
   "kind": "string",
   "jp": "せつやくロール",
-  "en": "",
-  "status": "new",
+  "en": "Frugal Roll",
+  "status": "done",
   "ptrs": [
    "0x8bf0"
   ],
@@ -15731,8 +15731,8 @@
   "id": "r00b804",
   "kind": "string",
   "jp": "アタックロールの",
-  "en": "",
-  "status": "new",
+  "en": "Attack Rolls",
+  "status": "done",
   "ptrs": [
    "0x8bf4"
   ],
@@ -15742,8 +15742,8 @@
   "id": "r00b818",
   "kind": "string",
   "jp": "しょうひＡＰが",
-  "en": "",
-  "status": "new",
+  "en": "cost much",
+  "status": "done",
   "ptrs": [
    "0x8bf8"
   ],
@@ -15753,8 +15753,8 @@
   "id": "r00b828",
   "kind": "string",
   "jp": "少なくなる",
-  "en": "",
-  "status": "new",
+  "en": "less AP",
+  "status": "done",
   "ptrs": [
    "0x8bfc"
   ],
@@ -15764,8 +15764,8 @@
   "id": "r00b834",
   "kind": "string",
   "jp": "そのぶんいろいろ",
-  "en": "",
-  "status": "new",
+  "en": "but many stats",
+  "status": "done",
   "ptrs": [
    "0x8c00"
   ],
@@ -15775,8 +15775,8 @@
   "id": "r00b848",
   "kind": "string",
   "jp": "ダウンしてしまう",
-  "en": "",
-  "status": "new",
+  "en": "go DOWN",
+  "status": "done",
   "ptrs": [
    "0x8c04"
   ],
@@ -15786,8 +15786,8 @@
   "id": "r00b85c",
   "kind": "string",
   "jp": "ぞうふくひっさつ",
-  "en": "",
-  "status": "new",
+  "en": "Boost Special",
+  "status": "done",
   "ptrs": [
    "0x8c18"
   ],
@@ -15797,8 +15797,8 @@
   "id": "r00b870",
   "kind": "string",
   "jp": "必殺技のしょうひ",
-  "en": "",
-  "status": "new",
+  "en": "Special moves",
+  "status": "done",
   "ptrs": [
    "0x8c1c"
   ],
@@ -15808,8 +15808,8 @@
   "id": "r00b884",
   "kind": "string",
   "jp": "ＡＰがふえて",
-  "en": "",
-  "status": "new",
+  "en": "cost more",
+  "status": "done",
   "ptrs": [
    "0x8c20"
   ],
@@ -15819,8 +15819,8 @@
   "id": "r00b894",
   "kind": "string",
   "jp": "しまう",
-  "en": "",
-  "status": "new",
+  "en": "AP",
+  "status": "done",
   "ptrs": [
    "0x8c24"
   ],
@@ -15830,8 +15830,8 @@
   "id": "r00b89c",
   "kind": "string",
   "jp": "その分ほぼ全体が",
-  "en": "",
-  "status": "new",
+  "en": "but nearly all",
+  "status": "done",
   "ptrs": [
    "0x8c28"
   ],
@@ -15841,8 +15841,8 @@
   "id": "r00b8b0",
   "kind": "string",
   "jp": "ＵＰする",
-  "en": "",
-  "status": "new",
+  "en": "is UP",
+  "status": "done",
   "ptrs": [
    "0x8c2c"
   ],
@@ -15852,8 +15852,8 @@
   "id": "r00b8bc",
   "kind": "string",
   "jp": "ぞうふくこうげき",
-  "en": "",
-  "status": "new",
+  "en": "Boost Attack",
+  "status": "done",
   "ptrs": [
    "0x8c40"
   ],
@@ -15863,8 +15863,8 @@
   "id": "r00b8d0",
   "kind": "string",
   "jp": "ふつうこうげきの",
-  "en": "",
-  "status": "new",
+  "en": "Normal attacks",
+  "status": "done",
   "ptrs": [
    "0x8c44"
   ],
@@ -15874,8 +15874,8 @@
   "id": "r00b8e4",
   "kind": "string",
   "jp": "しょうひＡＰが",
-  "en": "",
-  "status": "new",
+  "en": "cost more AP",
+  "status": "done",
   "ptrs": [
    "0x8c48"
   ],
@@ -15885,8 +15885,8 @@
   "id": "r00b8f4",
   "kind": "string",
   "jp": "ふえてしまう",
-  "en": "",
-  "status": "new",
+  "en": "than usual,",
+  "status": "done",
   "ptrs": [
    "0x8c4c"
   ],
@@ -15896,8 +15896,8 @@
   "id": "r00b904",
   "kind": "string",
   "jp": "その分人全てが",
-  "en": "",
-  "status": "new",
+  "en": "but all body",
+  "status": "done",
   "ptrs": [
    "0x8c50"
   ],
@@ -15907,8 +15907,8 @@
   "id": "r00b914",
   "kind": "string",
   "jp": "ＵＰする",
-  "en": "",
-  "status": "new",
+  "en": "is UP",
+  "status": "done",
   "ptrs": [
    "0x8c54"
   ],
@@ -15918,8 +15918,8 @@
   "id": "r00b920",
   "kind": "string",
   "jp": "ぞうふくロール",
-  "en": "",
-  "status": "new",
+  "en": "Boost Roll",
+  "status": "done",
   "ptrs": [
    "0x8c68"
   ],
@@ -15929,8 +15929,8 @@
   "id": "r00b930",
   "kind": "string",
   "jp": "アタックロールの",
-  "en": "",
-  "status": "new",
+  "en": "Attack Rolls",
+  "status": "done",
   "ptrs": [
    "0x8c6c"
   ],
@@ -15940,8 +15940,8 @@
   "id": "r00b944",
   "kind": "string",
   "jp": "しょうひＡＰが",
-  "en": "",
-  "status": "new",
+  "en": "cost more AP",
+  "status": "done",
   "ptrs": [
    "0x8c70"
   ],
@@ -15951,8 +15951,8 @@
   "id": "r00b954",
   "kind": "string",
   "jp": "ふえてしまう",
-  "en": "",
-  "status": "new",
+  "en": "than usual,",
+  "status": "done",
   "ptrs": [
    "0x8c74"
   ],
@@ -15962,8 +15962,8 @@
   "id": "r00b964",
   "kind": "string",
   "jp": "その分ロールが",
-  "en": "",
-  "status": "new",
+  "en": "but Roll",
+  "status": "done",
   "ptrs": [
    "0x8c78"
   ],
@@ -15973,8 +15973,8 @@
   "id": "r00b974",
   "kind": "string",
   "jp": "ＵＰする",
-  "en": "",
-  "status": "new",
+  "en": "is UP",
+  "status": "done",
   "ptrs": [
    "0x8c7c"
   ],
@@ -15984,8 +15984,8 @@
   "id": "r00e100",
   "kind": "string",
   "jp": "グローブタウン",
-  "en": "",
-  "status": "new",
+  "en": "Globe Town",
+  "status": "done",
   "ptrs": [
    "0xbc20"
   ],
@@ -15995,8 +15995,8 @@
   "id": "r00e110",
   "kind": "string",
   "jp": "田万里村",
-  "en": "",
-  "status": "new",
+  "en": "Tamari Village",
+  "status": "done",
   "ptrs": [
    "0xbc48"
   ],
@@ -16006,8 +16006,8 @@
   "id": "r00e11c",
   "kind": "string",
   "jp": "弾打浜",
-  "en": "",
-  "status": "new",
+  "en": "Dandahama",
+  "status": "done",
   "ptrs": [
    "0xbc70"
   ],
@@ -16017,8 +16017,8 @@
   "id": "r00e124",
   "kind": "string",
   "jp": "勝飛町",
-  "en": "",
-  "status": "new",
+  "en": "Katsutobi Town",
+  "status": "done",
   "ptrs": [
    "0xbc98"
   ],
@@ -16028,8 +16028,8 @@
   "id": "r00e12c",
   "kind": "string",
   "jp": "真丸町北",
-  "en": "",
-  "status": "new",
+  "en": "Mamaru Town N.",
+  "status": "done",
   "ptrs": [
    "0xbcc0"
   ],
@@ -16039,8 +16039,8 @@
   "id": "r00e138",
   "kind": "string",
   "jp": "真丸町南",
-  "en": "",
-  "status": "new",
+  "en": "Mamaru Town S.",
+  "status": "done",
   "ptrs": [
    "0xbce8"
   ],
@@ -16050,8 +16050,8 @@
   "id": "r00e144",
   "kind": "string",
   "jp": "光円寺町",
-  "en": "",
-  "status": "new",
+  "en": "Koenji Town",
+  "status": "done",
   "ptrs": [
    "0xbd10"
   ],
@@ -16061,8 +16061,8 @@
   "id": "r00e150",
   "kind": "string",
   "jp": "界天島",
-  "en": "",
-  "status": "new",
+  "en": "Kaiten Island",
+  "status": "done",
   "ptrs": [
    "0xbd38"
   ],

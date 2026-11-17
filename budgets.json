@@ -39,6 +39,18 @@
     "r0051b8": {"unit": "px", "limit": 42, "source": "guess", "notes": "VRX character profile name 'Shinano' (JP 36 px); measure the profile panel in phase 8"},
     "r0056d8": {"unit": "px", "limit": 54, "source": "guess", "notes": "VRX character profile name 'Degarashi' (JP 48 px); measure the profile panel in phase 8"},
     "r005aa8": {"unit": "px", "limit": 42, "source": "guess", "notes": "VRX character profile name 'Musashi' (JP 36 px); measure the profile panel in phase 8"},
+    "r006448": {"unit": "px", "limit": 42, "source": "guess", "notes": "VRX character profile name 'Chitose' (JP 36 px); measure the profile panel in phase 8"},
+    "r0068ec": {"unit": "px", "limit": 42, "source": "guess", "notes": "name 'Shimizu' in the NPC/object name list r006754- (JP 36 px); where it shows is unknown"},
+    "r006ef0": {"unit": "px", "limit": 24, "source": "guess", "notes": "object name 'Fire' (ひ) in the NPC/object name list; where it shows is unknown"},
+    "r00765c": {"unit": "px", "limit": 60, "source": "guess", "notes": "Armalet name 'Death Lord' in the Armalet description list (JP 56 px); measure where it shows"},
+    "r007778": {"unit": "px", "limit": 48, "source": "guess", "notes": "Zoro's Arm 'Santoryu' (三刀流, JP 36 px) in the description list; measure where it shows"},
+    "r00e110": {"unit": "px", "limit": 84, "source": "guess", "notes": "place name 'Tamari Village' (list r00e100-, likely the map/travel menu); measure where it shows"},
+    "r00e11c": {"unit": "px", "limit": 54, "source": "guess", "notes": "place name 'Dandahama' (list r00e100-); measure where it shows"},
+    "r00e124": {"unit": "px", "limit": 84, "source": "guess", "notes": "place name 'Katsutobi Town' (list r00e100-); measure where it shows"},
+    "r00e12c": {"unit": "px", "limit": 84, "source": "guess", "notes": "place name 'Mamaru Town N.' (list r00e100-); measure where it shows"},
+    "r00e138": {"unit": "px", "limit": 84, "source": "guess", "notes": "place name 'Mamaru Town S.' (list r00e100-); measure where it shows"},
+    "r00e144": {"unit": "px", "limit": 66, "source": "guess", "notes": "place name 'Koenji Town' (list r00e100-); measure where it shows"},
+    "r00e150": {"unit": "px", "limit": 78, "source": "guess", "notes": "place name 'Kaiten Island' (list r00e100-); measure where it shows"},
     "r004954": {"unit": "px", "limit": 66, "source": "guess", "notes": "VRX character profile line 'Katsutobi's' (JP 48 px); measure the profile panel in phase 8"}
   }
 }
