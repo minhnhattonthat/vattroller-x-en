@@ -42,6 +42,7 @@ PILLS = [
 # order), drawn like LABELS.
 SPLIT_LABELS = [
     ((388, 389, 390, 391, 160, 161, 162), "Grab/Swap"),   # ▶つかむ・いれかえ (A, Arm Set screen; G18)
+    ((46, 47, 392, 393, 394), "Details"),   # ▶くわしくみる (A, PC menu > List: Character / Friends tabs; G19)
 ]
 PILL_BG, PILL_INK = 4, 5
 
