@@ -102,6 +102,14 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 | シャークボール | Shark Ball | | | |
 | アームリライター | Arm Rewriter | | | |
 | 必殺技 | special move / special | | | |
+| グランディウス | Grandius | | Marble Arena prize Arm (sword + Bounder) | |
+| ホウオウマル | Hououmaru | | Jin's sword | |
+| マール | Marl | | Dr. Marl (マールはかせ), head of the Marl Vattrolling Lab, M-VL "Marble" | |
+| シャークボール | Shark Ball | | training machine | |
+| ヒールロール | Heal Roll | | | |
+| アタックロール | Attack Roll | | | |
+| スマッシュ | Smash | | | |
+| ドロップ | Drop | | | |
 
 ## Decisions from earlier batches
 - (none yet)

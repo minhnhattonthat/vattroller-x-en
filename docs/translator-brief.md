@@ -29,4 +29,11 @@ another `box`.
 `NEW TERM: jp -> en`, `UNSURE: id - note`, `CUT: id - what was dropped`.
 
 ## Notes from earlier batches
-- (none yet)
+- Solo workflow (Orca worker, no subagents): `python -X utf8 tools/tl_pair.py show bNNN 1 75` and `76 150`
+  (keep each print under ~4 KB: the context-mode hook swaps bigger output for a search stub), write all 150 rows
+  of `work/tl/bNNN.en.txt` in ONE file-write (appending with the shell makes the harness echo the file back),
+  `tl_pair.py put bNNN work/tl/bNNN.en.txt`, `batches.py check bNNN`, fix with Edit, `batches.py merge bNNN`.
+- A row flagged `box` starts a new box: never let a sentence spill from a `+` row into the next `box` row.
+- The glossary check is per box: the English term must appear somewhere in the same box as the JP term.
+- Choices come in pairs after a question; translate each as a short reply (<= 35).
+- Most first drafts overflow by 1-4 chars: count before writing (36 = this line's length, roughly ->|).
