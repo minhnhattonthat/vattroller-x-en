@@ -176,3 +176,27 @@ needs its arg meaning, scenes and id sweeps (next worker).
   Battle HP is not found (on-screen gauges are sprite/BG bars; RAM correlation failed). Find it from the op 0x1D
   runner (`0x08032685`) for a `GOD` option.
 - `rooms.json` entry points come from script teleports; 91 story rooms have none (they set their own position).
+
+## Coverage across builds, VRX overlay, link block (2026-11-18, 20th worker)
+
+- **Logs from older builds**: `tools/cover.py` maps every textcover `log.txt` to the build it ran on and reads it
+  as string ids, so probe passes survive text edits (only repointed ROM strings move, ~2000 r ids; event text
+  stays put). Layouts `work/layouts/<rom sha1>.tsv/.gba`; old ones rebuilt from their commits in a scratch
+  worktree (sha1s reproduce exactly). A log's build = its `build.sha1` stamp (warp.py and textsweep.py write it
+  now), else the layout whose ROM puts a NUL in the last halfword of most read runs inside the repointed-string
+  block 0x810000-0x81BCxx (the text loop reads halfwords and stops on the NUL; right layout 0.8-1.0, wrong
+  0.2-0.6). Ties count only ids they agree on. The probe's 2nd field is the frame, not the byte read.
+  Report: `cover.py` then `textcover.py work/qa/cover_now build/strings.tsv --mask 0x1FFFFFF --waive docs/text_unshown.tsv`.
+- **VRX overlay**: boot (`0x08025994`) DMAs ROM 0xE4994-0xEFF78 to EWRAM 0x02001250; VRX tables in that range are
+  read from the copy (stage name table ROM 0xEFBE8 = EWRAM 0x0200C4A4), so a ROM-range read probe on them only sees
+  the boot DMA. Stage Select: list builder `0x0806588C` puts each stage i (0-19) passing `0x080657C4(i)` (bit i of
+  u32 IWRAM 0x03002D90, reloaded on screen init) into the byte list 0x03002D98; records ROM 0x0807AEAC + id*12.
+  `tools/lua/vrxstages.lua` sets the bits at the test's entry: scene `vrx_stage_all` (all 20 stages + size/base/
+  wall lines). `vrx_rules_survival` = Survival description.
+- **Link block ROM 0xEFF78-0xFFFFF** (RFU-MBOOT, Sio32, flash library ids; pointer table 0xFFB94 to twin copies
+  of the VRX/shop strings r0f0b-r0f16 and no-pointer n0f0-n0f1): `tools/lua/execrange.lua` counts 0 instructions
+  there in vrx_stage_all, md19, md20 and rpg_start. VRX 3/4-Player rows are greyed offline; modes 19/20 (V Skill
+  trade) wait on "Linking..." forever (B/START don't cancel). Waived in `docs/text_unshown.tsv`.
+- **VRX roster record** (ROM 0xCE0 + idx*0x58): +4 = the win quote ("Yay!", r004738-r0065a0, '..' for the hero);
+  ids 0x5F+ are NPC/object types (Boy, Student, Clerk, Door 1-8, Undefined 1-2, Arm, Bento...: r0065e8-r006f7c),
+  probably never drawn as names. `tools/lua/pcread.lua` logs PC/regs of a read (romreads.lua missed some).
