@@ -90,6 +90,21 @@
     {"name": "shop_tools", "mode": 10, "mode_arg": 1, "scripts": ["tools/lua/shopall.lua"], "post": "6 r;60 -", "hold": 30, "desc": "Shop: Tools tab"},
     {"name": "shop_vrxdata", "mode": 10, "mode_arg": 1, "scripts": ["tools/lua/shopall.lua"], "post": "6 r;60 -;6 r;60 -", "hold": 30, "desc": "Shop: VRX Data tab, every entry owned (shopall.lua)"},
     {"name": "shop_buy", "mode": 10, "mode_arg": 1, "scripts": ["tools/lua/shopall.lua"], "post": "6 r;60 -;6 r;60 -;6 a;90 -", "hold": 30, "desc": "Shop: buy prompt with the VRX profile panel"},
-    {"name": "shop_buy_arm", "mode": 10, "mode_arg": 1, "scripts": ["tools/lua/shopall.lua"], "post": "60 -;6 a;90 -", "hold": 30, "desc": "Shop: Arm buy prompt"}
+    {"name": "shop_buy_arm", "mode": 10, "mode_arg": 1, "scripts": ["tools/lua/shopall.lua"], "post": "60 -;6 a;90 -", "hold": 30, "desc": "Shop: Arm buy prompt"},
+    {"name": "pc_menu", "book": 0, "room": 0, "scripts": ["tools/lua/pcmenu.lua"], "post": "120 -", "hold": 60, "desc": "RPG: room PC menu (op 0x18 forced by pcmenu.lua): Arm Set / Box / List / Password"},
+    {"name": "pc_armset", "book": 0, "room": 0, "scripts": ["tools/lua/pcmenu.lua"], "post": "60 -;8 a;200 -", "hold": 60, "desc": "RPG: PC menu > Arm Set"},
+    {"name": "pc_box", "book": 0, "room": 0, "scripts": ["tools/lua/pcmenu.lua"], "post": "60 -;8 down;8 -;8 a;200 -", "hold": 60, "desc": "RPG: PC menu > Box"},
+    {"name": "pc_list", "book": 0, "room": 0, "scripts": ["tools/lua/pcmenu.lua"], "post": "60 -;8 down;8 -;8 down;8 -;8 a;200 -", "hold": 60, "desc": "RPG: PC menu > List (G19)"},
+    {"name": "pc_password", "book": 0, "room": 0, "scripts": ["tools/lua/pcmenu.lua"], "post": "60 -;8 down;8 -;8 down;8 -;8 down;8 -;8 a;200 -", "hold": 60, "desc": "RPG: PC menu > Password (text entry, mode 2)"},
+    {"name": "vpon", "book": 0, "room": 0, "scripts": ["tools/lua/pcmenu.lua"], "vars": {"OP": "0x19"}, "post": "120 -", "hold": 60, "desc": "RPG: V-Pon machine (op 0x19 forced by pcmenu.lua)"},
+    {"name": "md3", "mode": 3, "mode_arg": 0, "post": "200 -", "hold": 30, "desc": "Game mode 3: Continue / data screen"},
+    {"name": "md11", "mode": 11, "mode_arg": 0, "post": "200 -", "hold": 30, "desc": "Game mode 11 (VP / Box screen)"},
+    {"name": "md12", "mode": 12, "mode_arg": 0, "post": "200 -", "hold": 30, "desc": "Game mode 12 (Box screen, page 1)"},
+    {"name": "md12_p2", "mode": 12, "mode_arg": 0, "post": "200 -;6 r;300 -", "hold": 30, "desc": "Game mode 12, page 2 after R (the 'Is this OK?' page, init 0x0804568C)"},
+    {"name": "md13", "mode": 13, "mode_arg": 0, "post": "200 -", "hold": 30, "desc": "Game mode 13 (V-Pon)"},
+    {"name": "md14", "mode": 14, "mode_arg": 0, "post": "200 -", "hold": 30, "desc": "Game mode 14 (item discard)"},
+    {"name": "md15", "mode": 15, "mode_arg": 0, "post": "200 -", "hold": 30, "desc": "Game mode 15 (Arm Set: Special box, G18)"},
+    {"name": "md16", "mode": 16, "mode_arg": 0, "post": "200 -", "hold": 30, "desc": "Game mode 16 (V Skill forget list)"},
+    {"name": "md17", "mode": 17, "mode_arg": 0, "post": "200 -", "hold": 30, "desc": "Game mode 17 (V Skill recall list)"}
   ]
 }

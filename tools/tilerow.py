@@ -14,11 +14,13 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--file", type=int, required=True)
     ap.add_argument("--zoom", type=int, default=4)
+    ap.add_argument("--rom", help="read the archive from this ROM (e.g. the build) instead of the original")
     ap.add_argument("out")
     ap.add_argument("runs", nargs="+")
     a = ap.parse_args()
     from PIL import Image, ImageDraw
-    data = archive.unpack(archive.Archive().file(a.file))[0]
+    arc = archive.Archive(Path(a.rom).read_bytes() if a.rom else None)
+    data = archive.unpack(arc.file(a.file))[0]
     runs = [list(range(int(r.split("-")[0]), int(r.split("-")[-1]) + 1)) for r in a.runs]
     w = 40 + 8 * max(len(r) for r in runs)
     im = Image.new("RGB", (w, 10 * len(runs)), (255, 0, 255))

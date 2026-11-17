@@ -5,3 +5,9 @@ menu_settings	work/qa/tour/menu_settings/scene.png	28,121,184,12	not centred by 
 menu_settings	work/qa/tour/menu_settings/scene.png	50,80,162,14	not centred by design	Greeting/Win Quote values are left-aligned wide fields (JP starts at the same x)
 help_armdata	work/qa/tour/help_armdata/scene.png	-	not centred by design	"Arm Data" / "Arms you can set" pills: JP text is left-aligned in the pill too
 titlemenu	work/qa/tour/titlemenu/scene.png	-	not centred by design	"New Game" box: JP さいしょから is left-aligned too
+md12ok	work/qa/cover/md12ok/md12ok/f001080.png	168,64,40,12 168,82,40,12	pass (12/12, 16/16)	mode 12 page 2 "Is this OK?" Sure/No (same box as the book prompt)
+md14ok	work/qa/inkbox/a_md14ok.png	168,64,40,12 168,82,40,12	pass (12/12, 16/16)	item discard "Is this OK?" Sure/No
+recallok3	work/qa/inkbox/b_recall.png	168,64,40,12 168,82,40,12	pass (12/12, 16/16)	V Skill recall Sure/No
+shop_buy_arm	work/qa/tour/shop_buy_arm/scene.png	-	not centred by design	shop "OK to buy?" Yes/No is a cursor list: rows start at one x after the ▶, like JP はい/いいえ
+battle_pause	work/qa/tour/battle_pause/scene.png	-	not centred by design	Back / Quit window: cursor list, text at one fixed x after the ▶ (window 13, ROM strings drawn at a fixed column)
+event choices	work/qa/tour/*/	-	not centred by design	op 0x01 dialogue choices: fixed highlight bar, each choice drawn from the box's left text column (lint budget 35 chars), as in the JP
