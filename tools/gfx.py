@@ -360,12 +360,115 @@ def draw_sign(data, s):
     return bytes(out)
 
 
+# #441 (raw 4bpp, OBJ sheet of the VS / battle-rule card, G12): the card's words are sprites whose tile blocks the
+# game copies out of #441 (cell lists near ROM 0x273CDE, 12-byte records ending c000 0000 0000 00f0). Layout below
+# is the static card frame as OAM shows it (`tools/oamcomp.py`, rpg_tutorial frame 10680): block byte offset,
+# sprite w, h, screen x, y. Each line = a front layer (core 2, dark ring 4, white ring 3) and a drop-shadow layer
+# (silhouette in 4) shifted by `shadow`. Only rows [y0, y1) of the front (and the same rows + shadow dy of the
+# back) are redrawn, so the ・・・ under line 1 stays. The バトルルール header is shared by every rule card.
+CARD_FILE = 441
+CARD_LINES = [
+    dict(text="BATTLE RULE", y0=64, y1=86, shadow=(-1, 4), bold=False,
+         front=[(0x0, 64, 32, 77, 64), (0x400, 16, 16, 141, 64), (0x480, 16, 8, 141, 80), (0x4C0, 8, 16, 157, 64),
+                (0x500, 8, 8, 157, 80)],
+         back=[(0x800, 64, 32, 76, 68), (0xC00, 16, 16, 140, 68), (0xC80, 16, 8, 140, 84), (0xCC0, 8, 16, 156, 68),
+               (0xD00, 8, 8, 156, 84)]),
+    dict(text="OFFICIAL", y0=97, y1=121, shadow=(1, 4), bold=True,
+         front=[(0x520, 32, 16, 76, 97), (0x620, 32, 8, 76, 113), (0x6A0, 32, 16, 108, 97),
+                (0x3320, 32, 8, 108, 113), (0x3400, 16, 16, 140, 97), (0x33A0, 16, 8, 140, 113),
+                (0x7A0, 8, 8, 156, 113), (0x7C0, 8, 16, 156, 97)],
+         back=[(0xD20, 32, 16, 77, 100), (0xE20, 32, 8, 77, 116), (0xEA0, 32, 16, 109, 100),
+               (0x1E40, 32, 8, 109, 116), (0x1EC0, 16, 16, 141, 100), (0x1F40, 16, 8, 141, 116),
+               (0xFE0, 8, 8, 157, 116), (0xFA0, 8, 16, 157, 100)]),
+]
+CARD_CORE, CARD_RING, CARD_OUTER = 2, 4, 3
+CARD_FONT = dict(SIGN_FONT, **{        # 5x7, drawn with every row doubled (14 px tall)
+    "A": [".###.", "#...#", "#...#", "#####", "#...#", "#...#", "#...#"],
+    "B": ["####.", "#...#", "#...#", "####.", "#...#", "#...#", "####."],
+    "C": [".###.", "#...#", "#....", "#....", "#....", "#...#", ".###."],
+    "E": ["#####", "#....", "#....", "####.", "#....", "#....", "#####"],
+    "F": ["#####", "#....", "#....", "####.", "#....", "#....", "#...."],
+    "I": ["###", ".#.", ".#.", ".#.", ".#.", ".#.", "###"],
+})
+
+
+def card_blocks(data, blocks):
+    """{(x, y): colour index} over the blocks (1D tile order inside each sprite)."""
+    px = {}
+    for off, w, h, x0, y0 in blocks:
+        for y in range(h):
+            for x in range(w):
+                t = (y // 8) * (w // 8) + x // 8
+                b = data[off + t * 32 + (y % 8) * 4 + (x % 8) // 2]
+                px[(x0 + x, y0 + y)] = b >> 4 * (x & 1) & 15
+    return px
+
+
+def card_store(out, blocks, px):
+    for off, w, h, x0, y0 in blocks:
+        for y in range(h):
+            for x in range(0, w, 2):
+                t = (y // 8) * (w // 8) + x // 8
+                out[off + t * 32 + (y % 8) * 4 + (x % 8) // 2] = px[(x0 + x, y0 + y)] | px[(x0 + x + 1, y0 + y)] << 4
+
+
+def card_line(data, out, ln):
+    front, back = card_blocks(data, ln["front"]), card_blocks(data, ln["back"])
+    xs = [x for x, _ in front]
+    lo, hi = min(xs), max(xs) + 1
+    y0, y1, bold = ln["y0"], ln["y1"], int(ln["bold"])
+    core = set()
+    widths = [len(CARD_FONT[c][0]) + bold if c != " " else 1 for c in ln["text"]]
+    total = sum(widths) + 3 * (len(widths) - 1)
+    x = lo + (hi - lo - total) // 2
+    top = y0 + (y1 - y0 - 14) // 2
+    assert x - 2 >= lo and top - 2 >= y0 and top + 16 <= y1, f"{ln['text']!r} does not fit the card"
+    for c, w in zip(ln["text"], widths):
+        if c != " ":
+            for gy, row in enumerate(CARD_FONT[c]):
+                for gx, b in enumerate(row):
+                    if b == "#":
+                        core.update((x + gx + d, top + 2 * gy + e) for d in range(bold + 1) for e in (0, 1))
+        x += w + 3
+
+    def ring(s):
+        return {(a + dx, b + dy) for a, b in s for dx in (-1, 0, 1) for dy in (-1, 0, 1)} - s
+    dark = ring(core)
+    white = ring(core | dark)
+    for (a, b) in [p for p in front if y0 <= p[1] < y1]:
+        front[(a, b)] = 0
+    for p in white:
+        front[p] = CARD_OUTER
+    for p in dark:
+        front[p] = CARD_RING
+    for p in core:
+        front[p] = CARD_CORE
+    dx, dy = ln["shadow"]
+    for (a, b) in [p for p in back if y0 + dy <= p[1] < y1 + dy]:
+        back[(a, b)] = 0
+    for (a, b) in core | dark | white:
+        assert (a + dx, b + dy) in back, "shadow outside the back blocks"
+        back[(a + dx, b + dy)] = CARD_RING
+    card_store(out, ln["front"], front)
+    card_store(out, ln["back"], back)
+
+
+def sheet_441(orig):
+    out = bytearray(orig)
+    for ln in CARD_LINES:
+        card_line(orig, out, ln)
+    return bytes(out)
+
+
 def files(ar):
     """{archive file index: new bytes} for every redrawn graphics file."""
     orig, o431, o452, o433 = (ar.file(n) for n in (SHEET, SHEET_431, SHEET_452, SHEET_433))
     assert all(archive.unpack(f)[1] == "raw" for f in (orig, o431, o452, o433))
     out = {SHEET: sheet_446(orig), SHEET_431: sheet_431(o431), SHEET_452: sheet_452(o452),
            SHEET_433: sheet_433(o433)}
+    o441 = ar.file(CARD_FILE)
+    assert archive.unpack(o441)[1] == "raw"
+    out[CARD_FILE] = sheet_441(o441)
     for s in SIGNS:
         n = s["file"]
         data = out.get(n) or ar.file(n)

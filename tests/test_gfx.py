@@ -66,6 +66,20 @@ def test_signs_change_only_their_tiles_inside_the_box():
                    if not (x0 <= x < x1 and y0 <= y < y1)), s["text"]
 
 
+def test_441_changes_only_card_blocks_and_keeps_the_dots():
+    ar = archive.Archive()
+    orig, new = ar.file(gfx.CARD_FILE), gfx.files(ar)[gfx.CARD_FILE]
+    assert len(new) == len(orig)
+    allowed = {off + i for ln in gfx.CARD_LINES for off, w, h, _, _ in ln["front"] + ln["back"]
+               for i in range(w * h // 2)}
+    changed = {i for i in range(len(orig)) if orig[i] != new[i]}
+    assert changed and changed <= allowed
+    for ln in gfx.CARD_LINES:
+        for layer, dy in (("front", 0), ("back", ln["shadow"][1])):
+            a, b = gfx.card_blocks(orig, ln[layer]), gfx.card_blocks(new, ln[layer])
+            assert all(a[p] == b[p] for p in a if not ln["y0"] + dy <= p[1] < ln["y1"] + dy)
+
+
 def test_labels_keep_their_arrow():
     ar = archive.Archive()
     orig, new = ar.file(gfx.SHEET), gfx.files(ar)[gfx.SHEET]
