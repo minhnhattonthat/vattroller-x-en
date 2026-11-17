@@ -167,6 +167,9 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 | ゲンブール | Genbull | | Armalet | |
 | ゴラムス | Golamus | | Armalet | |
 | エンペリオル | Emperiol | | Armalet | |
+| ブレイクロール | Break Roll | | Attack Roll a Bounder cannot deflect | |
+| サインアーム | Sign Arm | | Arm engraved with the player's favourite word | |
+| バトローリングじてん | Vattrolling Encyclopedia | | library book | |
 
 ## Decisions from earlier batches
 - RPG mode (b016-b030): Minami and her brother Hokuto are the Premium Gym twins (Takumi's ex-gym mates); Hokuto blames
