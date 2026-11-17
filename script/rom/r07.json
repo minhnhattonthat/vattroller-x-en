@@ -4915,12 +4915,12 @@
   "id": "r077d50",
   "kind": "string",
   "jp": "・",
-  "en": "-",
+  "en": "  ",
   "status": "done",
   "ptrs": [
    "0x51a80"
   ],
-  "notes": ""
+  "notes": "Separator between Armalet form and name part in the Arm Set Special box (one 8 px cell; JP uses the katakana word dot). Blank: \"Salamand Nova\"; '-' gave \"Salamand- Nova\" after even-length forms (D17)."
  },
  {
   "id": "r077d64",

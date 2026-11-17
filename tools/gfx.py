@@ -36,6 +36,12 @@ LABELS = [
 PILLS = [
     (398, 4, "Player"),        # キャラクター▷ (Armalet Data -> Character Data)
     (402, 4, "Armalet"),       # ◁アーマレット (Character Data -> Armalet Data)
+    (156, 4, "Box"),           # ◁ボックス (Arm Set screen, game mode 15: tab to the Arm Box; G18)
+]
+# Labels whose tiles are not one run: a 32x8 sprite plus a 16x8 and an 8x8 one side by side (tiles in screen
+# order), drawn like LABELS.
+SPLIT_LABELS = [
+    ((388, 389, 390, 391, 160, 161, 162), "Grab/Swap"),   # ▶つかむ・いれかえ (A, Arm Set screen; G18)
 ]
 PILL_BG, PILL_INK = 4, 5
 
@@ -334,6 +340,10 @@ def sheet_446(orig):
         px = render_pill(orig, first, count, text, glyphs)
         for k in range(count):
             put_tile(out, first + k, [row[k * 8:k * 8 + 8] for row in px])
+    for tiles, text in SPLIT_LABELS:
+        px = label_px(tile_px(orig, tiles[0]), 8 * len(tiles), text, glyphs)
+        for k, t in enumerate(tiles):
+            put_tile(out, t, [row[k * 8:k * 8 + 8] for row in px])
     for blocks, text in TALL_LABELS:
         for n, px in render_tall(orig, blocks, text, glyphs).items():
             put_tile(out, n, px)

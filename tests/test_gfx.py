@@ -20,6 +20,7 @@ def test_446_changes_only_label_tiles():
     assert len(new) == len(orig)
     allowed = {t for first, count, _ in gfx.LABELS + gfx.PILLS for t in range(first, first + count)}
     allowed |= {n for blocks, _ in gfx.TALL_LABELS for n, _, _ in gfx.tall_tiles(blocks)}
+    allowed |= {t for tiles, _ in gfx.SPLIT_LABELS for t in tiles}
     allowed |= {t for head in gfx.SHOP_HEADS for t in head[0]}
     allowed |= {t for row in gfx.SHOP_CANT[0] for t in row} | set(gfx.PAGE_LABEL[0]) | set(gfx.PAGE_LABEL[1])
     changed = {i // 32 for i in range(len(orig)) if orig[i] != new[i]}

@@ -39,6 +39,9 @@ VARIABLE = r"\[var[^\]]*\]"  # this game draws no numbers inside text rows
 HONORIFICS = {"さん": "-san", "くん": "-kun", "君": "-kun", "ちゃん": "-chan", "さま": "-sama", "様": "-sama",
               "先生": "-sensei", "せんせい": "-sensei", "先輩": "-senpai", "せんぱい": "-senpai"}
 sys.path.insert(0, str(Path(__file__).resolve().parent))
+# Rows whose English is meant to be blank: r077d50 = the ・ between Armalet form and name part in the Arm Set
+# Special box ("Salamand  Nova"; D17).
+BLANK_OK = {"r077d50"}
 FORM = {"0x0000": "box", "0x0200": "+", "0x0400": "clr", "0x0600": "clr+"}  # line flags (docs/re/font.md §Width gate)
 
 
@@ -142,6 +145,8 @@ def problems(entry, en, terms):
     """Every rule, on one line of English."""
     jp = entry["jp"]
     if not en.strip():
+        if entry.get("id") in BLANK_OK and en:
+            return []
         return ["empty English"]
     out = []
     plain = TOKEN.sub("", en)

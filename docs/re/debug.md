@@ -211,3 +211,20 @@ needs its arg meaning, scenes and id sweeps (next worker).
 - **Armalet records** (table ROM 0x7080 via `*0x02009D44`, stride 0x24: name + 4 lines): creation Armalet Select
   redraws on up/down at `0x080474F4` with the id in r1 at `0x08047508`: `idsweep.lua --var HOOK=0x08047508
   --var REG=1 --var N=19 --var "KEY='down'"` from `work/states/create_armalet.mss` draws all 19.
+
+## Special-move names: the Arm Set screen (2026-11-18, 22nd worker)
+
+- Game mode 15 (`warp.py md15 --set mode=15 --set mode_arg=0`) = the Arm Set / Box screen (Armalet with its Arm
+  slots, tab ◁Box, hint Ⓐ Grab/Swap; G18). Its bottom "Special" box lists the loadout's three specials, each
+  "<Armalet form> <name part>". The loadout fill `0x0805156C` (via `0x080512D8`/`0x0805130C`, from state
+  callbacks `0x0804AD5C`..`0x080507D8` in the EWRAM state tables) computes the combos (state `*0x030051BC`:
+  +0x1C..1E Arms, +0x21 Armalet, +0x25..27 specials) and stores pointer pairs at +4/+8, +0xC/+0x10, +0x14/+0x18:
+  form = `*0x02009D68`[Armalet*3 + special record +0x24] (ROM 0x17A60, 48 names r017b44..), part = special
+  record +4*(Armalet record +0x20) (ROM 0x160D0, r0168b0..). The drawer `0x080517E0` renders each with
+  `0x08029260` (48 px, 8 px pair cells): form at tile x 1, separator r077d50 (one cell) at x pairs+1, part at
+  pairs+2. State bits 0x200/0x400/0x800 swap a row's separator tile for the form's first tile (an empty
+  loadout sets them).
+- `tools/lua/specialnames.lua` loops the drawer over all 180 parts + 48 forms (`FIRST`, `N`; a run stops after
+  ~20 draws, so it ran as FIRST=0/17/20/37/40/56 into `work/qa/cover/ids/specialnames*`). `SHOT=1 NOFLAGS=1
+  FORMS={..} PARTS={..}` shows chosen names: "Death Lord  Catastrophe" fits (`work/qa/spn/shot2`); forms and
+  parts hold at most 6 cells = 12 letters.
