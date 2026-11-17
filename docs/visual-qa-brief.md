@@ -30,6 +30,8 @@ Standing non-bugs, `ok` (the controller adds the game's own below):
 - text still typing out, a box mid-fade or mid-scroll, a cursor caught mid-blink;
 - a map or scene still loading after a warp;
 - anything identical in the original's sheet.
+- A dialogue box whose lines look doubled or overprinted for one frame: the game scrolls the box one line by
+  redrawing it, and a frame caught mid-redraw shows both lines (the original does the same, checked 2026-11-17).
 - English dialogue is drawn as two 6 px letters per 12 px glyph (a deliberately narrow font): narrow letters
   are the engine, not a bug. Speaker tags and small headers ("Which?") use an even smaller 3 px font.
 - The player's name is fullwidth (wider letters) in tags and dialogue: by design (6-cell name buffer, D10).

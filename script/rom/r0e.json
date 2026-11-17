@@ -127,7 +127,7 @@
   "id": "r0e20b0",
   "kind": "string",
   "jp": "は　い",
-  "en": "Yes",
+  "en": " Sure",
   "status": "done",
   "ptrs": [
    "0x71550",
@@ -140,7 +140,7 @@
   "id": "r0e20b8",
   "kind": "string",
   "jp": "いいえ",
-  "en": "No",
+  "en": "  No",
   "status": "done",
   "ptrs": [
    "0x71558",
