@@ -126,6 +126,20 @@ needs its arg meaning, scenes and id sweeps (next worker).
   table `*0x02009D64` = ROM 0x160D0 (36 records, stride 0x38: 5 name parts + 4 desc lines); readers: 14 code
   refs, none draws the strings in the scenes tried (menu_armalet, menu_chara, battle_tutorial).
 
+## Special moves (2026-11-17, 16th worker)
+
+- A special = a combo of two Arms: `0x080534AC` takes the two Arm ids at state `*0x03006D4C` +0x18/+0x19, their
+  type byte (Arm record +0x10), the combo table `*0x02009D60`[type1*16 + type2] = special id (read at
+  `0x080534D8`), and copies the 4 desc pointers (+0x14..+0x20) into the state; `0x0805310C` draws them in the
+  right-hand "special details" panel (head ひっさつわざしょうさい, graphics G17). Caller chain: Arm Data device box
+  `0x0804B0B4` (state `*0x03002D50`, cursor s16 +0x36; up/down in `menu_armdata` moves it 0↔1) → cursor >= 2 =
+  combo slot → `0x08051474(cursor+3)` (special byte `*(0x030051BC)+0x20+n`, < 0 = none) → `0x08053080`.
+- `tools/lua/specialsweep.lua` forces cursor 2, the "has a special" test and the id: all 36 descriptions drawn
+  (`work/qa/cover/ids/specials/id###.png`), +145 strings. The 5 **name parts** per record (+0..+0x10, r0168b0
+  "Nova", "Flash"...; 180 strings) are not read by this page; the other 13 table refs (`0x08051680`..,
+  `0x0805F0A6`, `0x0805FF74`, `0x08060052`, `0x08061B2C`) are battle logic/effects. Next: watch reads of
+  ROM 0x0168B0-0x017D90 (`probes/watch.lua`, WATCH_MODE read) in a battle where a special is used.
+
 ## Gaps (next)
 
 - RPG mode: free control and the field menu are reached (above). Shops are reached as rooms, but shopkeepers need
