@@ -64,6 +64,12 @@
     {"name": "menu_keyitems", "book": 0, "from_room": 84, "from_nth": 2, "premash": 2400, "post": "30 -;10 start;60 -;8 down;20 -;8 a;60 -", "hold": 90, "frames": 46000, "desc": "RPG: field menu > Key Items"},
     {"name": "menu_settings", "book": 0, "from_room": 84, "from_nth": 2, "premash": 2400, "post": "30 -;10 start;60 -;8 down;20 -;8 down;20 -;8 a;60 -", "hold": 90, "frames": 46000, "desc": "RPG: field menu > Settings"},
     {"name": "menu_save", "book": 0, "from_room": 84, "from_nth": 2, "premash": 2400, "post": "30 -;10 start;60 -;8 down;20 -;8 down;20 -;8 down;20 -;8 a;60 -", "hold": 90, "frames": 46000, "desc": "RPG: field menu > Save"},
+    {"name": "menu_armdata", "book": 0, "from_room": 84, "from_nth": 2, "premash": 2400, "post": "30 -;10 start;60 -;8 a;60 -;8 a;90 -", "hold": 90, "frames": 46000, "desc": "RPG: Armalet > A: Arm Data page 1"},
+    {"name": "menu_armdata2", "book": 0, "from_room": 84, "from_nth": 2, "premash": 2400, "post": "30 -;10 start;60 -;8 a;60 -;8 a;90 -;8 start;60 -", "hold": 90, "frames": 46000, "desc": "RPG: Arm Data page 2 (stat table: Human / Roll, Special tab)"},
+    {"name": "help_armdata", "book": 0, "from_room": 84, "from_nth": 2, "premash": 2400, "post": "30 -;10 start;60 -;8 a;60 -;8 a;90 -;8 select;90 -", "hold": 90, "frames": 46000, "desc": "RPG: Arm Data > SELECT help bubble (G14, #437)"},
+    {"name": "help_armalet", "book": 0, "from_room": 84, "from_nth": 2, "premash": 2400, "post": "30 -;10 start;60 -;8 a;90 -;8 select;90 -", "hold": 90, "frames": 46000, "desc": "RPG: Armalet Data > SELECT help bubble"},
+    {"name": "menu_vskills", "book": 0, "from_room": 84, "from_nth": 2, "premash": 2400, "post": "30 -;10 start;60 -;8 a;90 -;8 right;90 -;8 a;90 -", "hold": 90, "frames": 46000, "desc": "RPG: Character Data > A: V Skills"},
+    {"name": "help_vskills", "book": 0, "from_room": 84, "from_nth": 2, "premash": 2400, "post": "30 -;10 start;60 -;8 a;90 -;8 right;90 -;8 a;90 -;8 select;90 -", "hold": 90, "frames": 46000, "desc": "RPG: V Skills > SELECT help bubble"},
     {"name": "rpg_coliseum", "book": 0, "room": 83, "hold": 120, "desc": "RPG: 界天コロシアム (room 83)"}
   ]
 }

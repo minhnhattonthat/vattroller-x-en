@@ -133,14 +133,18 @@ STATUS_431 = [
 COPIES_431 = [(117, 132)]      # 132 is an identical copy of 117 (the タ end of ヒトガタ) in the original: keep it so
 
 
-def relabel(data, out, tiles, text, bg, ink, shadow, top, lo, hi, clear, glyphs):
-    w = 8 * len(tiles)
-    px = [sum((tile_px(data, t)[y] for t in tiles), []) for y in range(8)]
-    for y in range(8):
+def relabel(data, out, tiles, text, bg, ink, shadow, top, lo, hi, clear, glyphs, rows=None):
+    """`tiles`: one row of tile numbers, or a tuple of rows (a label crossing a tile row). Glyph advance = its width
+    + 1 (font3 = 4; narrow override glyphs are allowed). `rows` = (first, end) pixel rows cleared (default all)."""
+    grid = tiles if isinstance(tiles[0], tuple) else (tiles,)
+    w, h = 8 * len(grid[0]), 8 * len(grid)
+    px = [sum((tile_px(data, t)[y % 8] for t in grid[y // 8]), []) for y in range(h)]
+    r0, r1 = rows or (0, h)
+    for y in range(r0, r1):
         for x in range(lo, hi):
             if px[y][x] in clear:
                 px[y][x] = bg
-    width = sum(2 if ch == " " else 4 for ch in text) - 1
+    width = sum(2 if ch == " " else len(glyphs[ch][0]) + 1 for ch in text) - 1
     assert width <= hi - lo, f"{text!r} ({width} px) does not fit {hi - lo} px"
     x = lo + (hi - lo - width) // 2
     dots = set()
@@ -150,18 +154,42 @@ def relabel(data, out, tiles, text, bg, ink, shadow, top, lo, hi, clear, glyphs)
             continue
         for gy, row in enumerate(glyphs[ch]):
             for gx, c in enumerate(row):
-                if c == "#" and top + gy < 8:
+                if c == "#" and top + gy < h:
                     dots.add((top + gy, x + gx))
-        x += 4
+        x += len(glyphs[ch][0]) + 1
     for y, xx in dots:
         px[y][xx] = ink
         if shadow is not None:
             for sy, sx in ((y, xx + 1), (y + 1, xx), (y + 1, xx + 1)):
-                if sy < 8 and sx < hi and (sy, sx) not in dots:
+                if sy < h and sx < hi and (sy, sx) not in dots:
                     px[sy][sx] = shadow
-    for k, t in enumerate(tiles):
-        put_tile(out, t, [row[k * 8:k * 8 + 8] for row in px])
+    for r, trow in enumerate(grid):
+        for k, t in enumerate(trow):
+            put_tile(out, t, [row[k * 8:k * 8 + 8] for row in px[8 * r:8 * r + 8]])
     assert w == len(px[0])
+
+
+# Arm Data page 2 (G1): the stat table head. Human (above, tiles 129-132, done in STATUS_431) spans three columns
+# アタック (166-168) / スマッシュ (163-165) / チャージ (160-162), each a 24 px cell: background f, ink 3, a d border
+# at x 0 and 23 and on the rounded top corners (row 0 is kept). The Roll column box is ロール (134-136) over ガタ
+# (181-183): "Roll" goes on the top row, level with "Human"; ガタ is cleared. "Attack"/"Charge" need 22 px: a 2 px
+# t and r (NARROW) make them fit.
+NARROW = {"t": ["#.", "##", "#.", "#.", ".#", ".."], "r": ["..", "##", "#.", "#.", "#.", ".."]}
+ARM_431 = [
+    ((166, 167, 168), "Attack", 0xF, 3, None, 2, 1, 23, (3, 0xD, 0xE), (1, 8)),
+    ((163, 164, 165), "Smash", 0xF, 3, None, 2, 1, 23, (3, 0xD, 0xE), (1, 8)),
+    ((160, 161, 162), "Charge", 0xF, 3, None, 2, 1, 23, (3, 0xD, 0xE), (1, 8)),
+    ((134, 135, 136), "Roll", 0xD, 3, None, 2, 1, 23, (3, 0xE), (2, 8)),
+    ((181, 182, 183), "", 0xD, 3, None, 2, 1, 24, (3, 0xE), (0, 8)),
+]
+# #434 (raw, Armalet device BG1 tiles): the ひっさつわざ tab over the moves box (BG1 map row 12 = tiles 131-134,
+# row 13 = 135-138). The tab is row 13's rows 0-5 (green 2, ink e, kana feet d; border d/e in rows 6-7, slant at
+# x 30-31); the kana tops stick up into rows 6-7 of row 12, which are cleared to transparent. 必殺技 = "Special".
+SHEET_434 = 434
+TAB_434 = [
+    ((131, 132, 133, 134), "", 0, 0xE, None, 0, 0, 32, (2, 0xE, 0xD), (6, 8)),
+    ((135, 136, 137, 138), "Special", 2, 0xE, None, 0, 0, 30, (0xE, 0xD), (0, 6)),
+]
 
 
 def sheet_431(orig):
@@ -173,6 +201,9 @@ def sheet_431(orig):
             put_tile(out, first + k, [row[k * 8:k * 8 + 8] for row in px])
     for tiles, text, bg, ink, shadow, top, lo, hi, clear in STATUS_431:
         relabel(orig, out, tiles, text, bg, ink, shadow, top, lo, hi, clear, glyphs)
+    narrow = dict(glyphs, **NARROW)
+    for *args, rows in ARM_431:
+        relabel(orig, out, *args, narrow, rows=rows)
     for src, dst in COPIES_431:
         out[dst * 32:dst * 32 + 32] = out[src * 32:src * 32 + 32]
     return bytes(out)
@@ -552,6 +583,12 @@ def files(ar):
     assert all(archive.unpack(f)[1] == "raw" for f in (orig, o431, o452, o433))
     out = {SHEET: sheet_446(orig), SHEET_431: sheet_431(o431), SHEET_452: sheet_452(o452),
            SHEET_433: sheet_433(o433)}
+    o434 = ar.file(SHEET_434)
+    assert archive.unpack(o434)[1] == "raw"
+    out434 = bytearray(o434)
+    for *args, rows in TAB_434:
+        relabel(o434, out434, *args, tagfont.load_font3(), rows=rows)
+    out[SHEET_434] = bytes(out434)
     o441 = ar.file(CARD_FILE)
     assert archive.unpack(o441)[1] == "raw"
     out[CARD_FILE] = sheet_441(o441)
