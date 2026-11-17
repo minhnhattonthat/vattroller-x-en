@@ -38,7 +38,7 @@ exactly). Code buffer limit 56 bytes per line is not reached by 36 chars.
 | choice (op 0x01 fields) | 35 chars | ruler build: 36 visible, but the fixed dashed highlight ends at x=218, cutting the 36th |
 | comic chapter title (op 0x13) | 34 chars per row | ruler build, `comic_jin1` |
 | credits | 20 chars (120 px), ≤ 38 bytes | ruler build: clipped at x=120 for headings and names alike (pair glyphs draw at 6 px in both; the JP headings used an 8 px font) |
-| speaker name tag | 6 fullwidth chars | `tools/lua/setname.lua` poked `ＷＷＷＷＷＷ` into the name at `rpg_start`: fits its tab |
+| speaker name tag | player: 6 fullwidth chars; NPC (character-table name, ASCII): 12 chars = 6 codes, 3 px letters | `tools/lua/setname.lua` poked `ＷＷＷＷＷＷ` into the name at `rpg_start`: fits its tab; NPC tags need the tagfont hook (§Speaker tags) |
 | ROM strings | the Japanese **pixel** width (`font.jp_px`: ROM width table, 8 px for fullwidth Latin/digits/ー/small kana) and ≤ the JP byte length | construction: replacing text never gets wider; menus that need more get a measured `ids` entry in `budgets.json` |
 | in-place strings (noptr) | ≤ original bytes and px | construction |
 | wide rows | name 6, favourite word 4, grid row 14 (cells); default phrases 8 = **guess** (shown on screens not yet warpable; lint warns) | create_name / create_word fields |
@@ -67,3 +67,28 @@ fullwidth SJIS (`７` from the widened grid), tag clean (`rpg_start`).
   fullwidth SJIS.
 - Credits end "おしまい" = four one-code strings r075e38-r075e44, each drawn alone in a 16 px cell
   (`0x08029260`, width 0x10): at most 2 ASCII chars per cell.
+
+## Speaker tags and small headers: the 8x8 font (phase 8, 2026-11-17; `tools/tagfont.py`, `fonts/font3.txt`)
+
+Found in phase 8: every NPC speaker tag and the choice header "Which?" (r0e20c0) showed tile garbage in the full
+build, though the player's tag was fine.
+
+- **Where the name comes from:** the tag routine `0x08072F18(r0 = character id, .., r2 = name, r3 = table)` takes
+  the name from the character table at ROM 0x45A0 (0x58-byte records, the same name field the VRX profile shows;
+  `r00493c` "Komachi" for Komachi). The player's tag passes the name buffer. It copies 6 codes (`0x08028714`) and
+  calls mapper A with width 0x30 and the 4th argument 1 (8 px per code), so the tag holds **6 codes**.
+- **Two text systems:** system 1 (struct `0x030028C0`: +0 8x8 font `0x083E2244`, +4 8x16 font `0x083E5E44`,
+  +0xC 16x16 font `0x083F4E44`, pool pointer at `0x030028D0`) with blitters `0x08027BBC` (8x8),
+  `0x08027BFC` (8x16), `0x08027C3C`, `0x08027C80` (16x16 variant), `0x08027F90` (8 px cells: 8x16 for idx <=
+  0x1DF, left half of the 16x16 glyph above), `0x08028978` (dialogue); system 2 (struct `0x030028E0`, mappers D
+  `0x08028FB4` / E `0x08029110`, draw `0x08028890`) with copies `0x080288B8` (8x8), `0x080288F8`, `0x08028938`.
+- **The bug:** the 8x8 blitters read `font8 + idx*32` with no range check. A pair index (46,848-65,022) lands
+  1.5 MB into archive data. The tag and "Which?" (mapper D, width 0x20) both draw with the 8x8 blitter.
+- **The fix (code hook):** the entry branch at ROM 0 jumps straight to 0x200 (it used to slide through zero
+  words 0xC0-0x1FF), which frees 0x120-0x1FF; a 32-byte Thumb hook at 0x140 returns `TABLE + (idx-46,848)*32`
+  for pair indices and the original address otherwise; both 8x8 blitters call it (`0x27BDA`, `0x288D4`). TABLE
+  (ROM 0xF00000, 581,600 bytes) holds one 8x8 tile per pair: two 3 px letters (`fonts/font3.txt`) at x 0 and 4,
+  shadow right and below. So a tag holds **12 letters** (6 codes), "Komachi" fits. Verified in game:
+  `rpg_start` tags "Komachi", header "Which?" (`work/qa/cmp_en2`, `work/qa/probe/hdr2`).
+- Player names stay fullwidth (8 px letters, 6 cells) because name entry and the save data hold 6 codes; D10.
+- Probe `work/qa/probe/bigidx.lua` (any narrow blitter receiving a pair index) was run over all warp scenes.

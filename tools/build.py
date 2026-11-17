@@ -21,6 +21,7 @@ import check_rom  # noqa: E402
 import events  # noqa: E402
 import font  # noqa: E402
 import romtext  # noqa: E402
+import tagfont  # noqa: E402
 import text  # noqa: E402
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -92,6 +93,7 @@ def build(rom, marker=False, identity=False):
     font.patch(out, log, ar.offset(font.FONT_FILE))
     rom_rows = [x for rel, rs in rows.items() if rel.startswith("rom/") for x in rs]
     romtext.apply(out, log, rom_rows, enc)
+    tagfont.patch(out, log)
     return out, log
 
 
