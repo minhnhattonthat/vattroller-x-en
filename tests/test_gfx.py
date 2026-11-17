@@ -23,8 +23,23 @@ def test_446_changes_only_label_tiles():
     allowed |= {t for tiles, _ in gfx.SPLIT_LABELS for t in tiles}
     allowed |= {t for head in gfx.SHOP_HEADS for t in head[0]}
     allowed |= {t for row in gfx.SHOP_CANT[0] for t in row} | set(gfx.PAGE_LABEL[0]) | set(gfx.PAGE_LABEL[1])
+    allowed |= {t for grid, _, _ in gfx.BUBBLES for row in grid for t in row if t is not None}
     changed = {i // 32 for i in range(len(orig)) if orig[i] != new[i]}
     assert changed and changed <= allowed
+
+
+def test_bubbles_keep_icons_and_never_touch_the_shared_blank():
+    ar = archive.Archive()
+    orig, new = ar.file(gfx.SHEET), gfx.files(ar)[gfx.SHEET]
+    assert new[313 * 32:314 * 32] == orig[313 * 32:314 * 32]      # blank green tile used by many sprites
+    for grid, _, keep in gfx.BUBBLES:
+        tiles = [t for row in grid for t in row if t is not None]
+        assert any(new[t * 32:t * 32 + 32] != orig[t * 32:t * 32 + 32] for t in tiles)
+        if keep and keep != "ink":
+            y0, y1, x0, x1 = keep
+            for y in range(y0, y1):
+                t = grid[y // 8][0]
+                assert gfx.tile_px(new, t)[y % 8][x0:min(x1, 8)] == gfx.tile_px(orig, t)[y % 8][x0:min(x1, 8)]
 
 
 def test_677_redraws_every_map_label_and_keeps_pin_and_cursor():

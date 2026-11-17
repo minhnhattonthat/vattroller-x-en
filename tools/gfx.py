@@ -23,6 +23,7 @@ LABELS = [
     (4, 4, "OK"),              # ▶けってい   (A: confirm)
     (99, 4, "OK"),             # ▶けってい   (START: confirm, creation screens; same art as 4-7)
     (36, 3, "Back"),           # ▶もどる     (B: back)
+    (395, 3, "Exit"),          # ▶とじる     (close; no swept screen draws it, "Close" is 1 px too long)
     (64, 4, "Check"),          # ▶かくにん   (SELECT: check)
     (76, 7, "Back to title"),  # ▶タイトルにもどる
     (323, 3, "Help"),          # ▶ヘルプ
@@ -172,6 +173,8 @@ STATUS_431 = [
     ((147, 148, 149, 150, 151, 152, 153, 154), "Armalet Size", 3, 0xD, 0xE, 2, 0, 64, (0xD, 0xE, 1)),  # アーマレットサイズ
     ((185, 186, 187, 188, 189, 118), "Usable", 0xD, 3, None, 3, 4, 46, (3, 0xE, 1)),       # ツカエル (box line 1)
     ((64, 65, 66, 110, 111, 112), "Arm Types", 0xD, 3, None, 1, 3, 46, (3, 0xE)),         # アームケイトウ (line 2)
+    # せつめい (77-80; graphics.md said 76-79, 76 is a box edge): no swept screen lays it; "Details" as in helpbub
+    ((77, 78, 79, 80), "Details", 2, 0xD, 1, 1, 0, 31, (0xD, 1)),
 ]
 # G17: ひっさつわざしょうさい, head of the special-details panel (Arm Data device, combo slot): BG3 map row 0 lays
 # #431 tiles 175-177, 101-103, 143 (cb 0xC000, tile n = #431 n; found with tilefind.py on a specialsweep dump).
@@ -230,6 +233,7 @@ ARM_431 = [
     ((160, 161, 162), "Charge", 0xF, 3, None, 2, 1, 23, (3, 0xD, 0xE), (1, 8)),
     ((134, 135, 136), "Roll", 0xD, 3, None, 2, 1, 23, (3, 0xE), (2, 8)),
     ((181, 182, 183), "", 0xD, 3, None, 2, 1, 24, (3, 0xE), (0, 8)),
+    ((179,), "", 0xD, 3, None, 0, 0, 7, (3, 0xE), (1, 8)),     # タ of the first ガタ (178 = "l" of the Roll head)
 ]
 # #434 (raw, Armalet device BG1 tiles): the ひっさつわざ tab over the moves box (BG1 map row 12 = tiles 131-134,
 # row 13 = 135-138). The tab is row 13's rows 0-5 (green 2, ink e, kana feet d; border d/e in rows 6-7, slant at
@@ -298,6 +302,78 @@ SHOP_CANT = (((464, 465, 466, 467), (468, 469, 470, 471)), "No", 8, 5, 6)   # "C
 PAGE_LABEL = ((60, 61, 62, 63, 574, 575), (56, 57, 58, 59), "Turn page", 5)    # "Change page" is 2 px too long
 
 
+# SELECT ▶Help bubbles on the shop screen (G3, 29th worker; `warp.py shop_arms` + SELECT, cursor moves, OAM via
+# tools/lua/dumppost.lua + oamlabels.py): green bubbles (background 9, ink 1, outline 5) between cap sprites
+# (374/503/504/506, kept). (tile grid in screen order, [(text, glyph top, x from)], kept rect (y0, y1, x0, x1) or
+# None). Lines are centred between `x from` and the right edge.
+BUBBLE_BG = 9
+BUBBLES = [
+    (((472, 473, 474, 475, 480, 481, 482, 483, 488), (476, 477, 478, 479, 484, 485, 486, 487, 489)),
+     [("Switch", 1, 18), ("item type", 9, 0)], (0, 8, 0, 18)),    # [L][R]で しなものの / しゅるいを きりかえ
+    (((384, 385, 386, 387, 490, 491, 492, 493),), [("Item name", 1, 0)], None),     # しなものの なまえ
+    (((512, 513, 514, 515, 520, 521, 522, 523), (516, 517, 518, 519, 524, 525, 526, 527),
+      (528, 529, 530, 531, 532, 533, 534, 535)),
+     [("Shows if", 1, 0), ("it can be", 9, 0), ("equipped", 17, 0)], None),  # そうびが / できる・できないの / じょうほう
+    (((494, 495, 496, 497, 498, 499, 500, 501, 502),), [("Item price", 1, 0)], None),  # しなものの ねだん
+    (((301, 302, 303, 304, 326, 327, 328),), [("VP you have", 1, 0)], None),        # もっている VP
+    # VRX Data tab, Item column: [face] キャラクターデータ / [stage] ステージデータ. The bubble is OAM 32x32 576-591 +
+    # 592-607 + 16x32 552-559 over 32x8 560-563, 564, 565, 310-313 (shop_vrxdata p000590); grid = their rows 1-4
+    # (row 0 is the bubble's top edge). 313 is the shared blank tile, never written (None). Icons kept.
+    (((580, 581, 582, 583, 596, 597, 598, 599, 554, 555), (584, 585, 586, 587, 600, 601, 602, 603, 556, 557),
+      (588, 589, 590, 591, 604, 605, 606, 607, 558, 559), (560, 561, 562, 563, 564, 565, 310, 311, 312, None)),
+     [("Character data", 5, 21, "left"), ("Stage data", 21, 21, "left")], (0, 32, 0, 18)),
+    # A second しなものの ねだん: two 32x16 blocks with the text across their tile rows (rows 4-11) and transparent
+    # edges. No swept screen draws it (the shop uses 494-502); redrawn so it is English wherever it shows. "ink" =
+    # clear only the ink (1, 5) and keep the bubble's edges.
+    (((536, 537, 538, 539, 544, 545, 546, 547), (540, 541, 542, 543, 548, 549, 550, 551)),
+     [("Item price", 5, 0)], "ink"),
+]
+# font3's 3 px m/w read as n/u at bubble size; the bubbles have room for 5 px ones (advance = width + 1)
+WIDE = {"m": [".....", "##.#.", "#.#.#", "#.#.#", ".....", "....."],
+        "w": [".....", "#...#", "#.#.#", ".#.#.", ".....", "....."]}
+
+
+def bubble(data, out, grid, lines, keep, glyphs):
+    """Clear the grid to BUBBLE_BG (except the kept rect), draw each line centred in FILL with an OUTLINE ring."""
+    w, h = 8 * len(grid[0]), 8 * len(grid)
+    blank = [[BUBBLE_BG] * 8 for _ in range(8)]
+    orig = [sum(((tile_px(data, t) if t is not None else blank)[y % 8] for t in grid[y // 8]), [])
+            for y in range(h)]
+    px = [[BUBBLE_BG] * w for _ in range(h)]
+    if keep == "ink":
+        px = [[BUBBLE_BG if v in (FILL, OUTLINE) else v for v in row] for row in orig]
+    elif keep:
+        y0, y1, x0, x1 = keep
+        for y in range(y0, y1):
+            px[y][x0:x1] = orig[y][x0:x1]
+    core = set()
+    glyphs = dict(glyphs, **WIDE)
+    for text, top, lo, *align in lines:
+        adv = [2 if ch == " " else len(glyphs[ch][0]) + 1 for ch in text]
+        width = sum(adv) - 1
+        assert width + 2 <= w - lo, f"{text!r} ({width} px) does not fit {w - lo} px"
+        x = lo if align == ["left"] else lo + (w - lo - width) // 2
+        for ch, a in zip(text, adv):
+            if ch != " ":
+                core |= {(top + gy, x + gx) for gy, row in enumerate(glyphs[ch]) for gx, c in enumerate(row)
+                         if c == "#"}
+            x += a
+    for y, xx in core:
+        for dy in (-1, 0, 1):
+            for dx in (-1, 0, 1):
+                if 0 <= y + dy < h and 0 <= xx + dx < w and (y + dy, xx + dx) not in core:
+                    px[y + dy][xx + dx] = OUTLINE
+    for y, xx in core:
+        px[y][xx] = FILL
+    for r, trow in enumerate(grid):
+        for k, t in enumerate(trow):
+            cell = [row[k * 8:k * 8 + 8] for row in px[8 * r:8 * r + 8]]
+            if t is None:
+                assert cell == blank, "text reaches a skipped (shared) tile"
+                continue
+            put_tile(out, t, cell)
+
+
 def outlined(data, out, grid, text, fill, outline, top, glyphs):
     """Clear the tile grid to BG and draw `text` centred in `fill` with an 8-neighbour `outline` ring."""
     w, h = 8 * len(grid[0]), 8 * len(grid)
@@ -348,6 +424,8 @@ def sheet_446(orig):
     for blocks, text in TALL_LABELS:
         for n, px in render_tall(orig, blocks, text, glyphs).items():
             put_tile(out, n, px)
+    for grid, lines, keep in BUBBLES:
+        bubble(orig, out, grid, lines, keep, glyphs)
     return bytes(out)
 
 

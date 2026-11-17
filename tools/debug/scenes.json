@@ -91,6 +91,8 @@
     {"name": "shop_vrxdata", "mode": 10, "mode_arg": 1, "scripts": ["tools/lua/shopall.lua"], "post": "6 r;60 -;6 r;60 -", "hold": 30, "desc": "Shop: VRX Data tab, every entry owned (shopall.lua)"},
     {"name": "shop_buy", "mode": 10, "mode_arg": 1, "scripts": ["tools/lua/shopall.lua"], "post": "6 r;60 -;6 r;60 -;6 a;90 -", "hold": 30, "desc": "Shop: buy prompt with the VRX profile panel"},
     {"name": "shop_buy_arm", "mode": 10, "mode_arg": 1, "scripts": ["tools/lua/shopall.lua"], "post": "60 -;6 a;90 -", "hold": 30, "desc": "Shop: Arm buy prompt"},
+    {"name": "shop_help", "mode": 10, "mode_arg": 1, "scripts": ["tools/lua/shopall.lua"], "post": "60 -;6 select;54 -;6 down;54 -;6 right;54 -;6 right;54 -;6 right;54 -;6 up;54 -;6 left;80 -", "hold": 30, "desc": "Shop: SELECT help bubbles (#446 G3: item type, name, equip, price, VP you have)"},
+    {"name": "shop_help_vrx", "mode": 10, "mode_arg": 1, "scripts": ["tools/lua/shopall.lua"], "post": "6 r;60 -;6 r;60 -;6 select;50 -;6 down;50 -;6 down;50 -;6 right;50 -;6 right;50 -;6 right;50 -;6 down;50 -;6 down;70 -", "hold": 30, "desc": "Shop: VRX Data tab SELECT help (Character data / Stage data bubble)"},
     {"name": "pc_menu", "book": 0, "room": 0, "scripts": ["tools/lua/pcmenu.lua"], "post": "120 -", "hold": 60, "desc": "RPG: room PC menu (op 0x18 forced by pcmenu.lua): Arm Set / Box / List / Password"},
     {"name": "pc_armset", "book": 0, "room": 0, "scripts": ["tools/lua/pcmenu.lua"], "post": "60 -;8 a;200 -", "hold": 60, "desc": "RPG: PC menu > Arm Set"},
     {"name": "pc_box", "book": 0, "room": 0, "scripts": ["tools/lua/pcmenu.lua"], "post": "60 -;8 down;8 -;8 a;200 -", "hold": 60, "desc": "RPG: PC menu > Box"},
