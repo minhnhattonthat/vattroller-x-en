@@ -15,4 +15,5 @@ All answered up front by the owner in the Orca run brief (2026-11-17), applied t
 | D5 | 2026-11-17 | Graphics text left in Japanese | none (default), list | Translate all (titles, menus, banners, cards); leave the Japanese logo only if it has no official English version. |
 | D6 | 2026-11-17 | Specs and plans | need approval, pre-approved | Pre-approved: keep going through every checkpoint without asking. |
 | D7 | 2026-11-17 | Existing saves / savestates | user's saves, none | None provided; build the debug tool as usual. |
+| D9 | 2026-11-17 | Register, sound effects, title terms (pre-approved run: skill defaults, decided by the agent) | literal, natural; keep or translate SFX; Battroller / Vattroller | Natural kids'-anime English with each character's verbal tic kept; SFX in English; the title's own spelling "Vattroller" drives バトローラー/バトローリング/バトリーグ (Vattroller, Vattrolling, Vattleague). Owner can overrule; all are glossary rows. |
 | D8 | 2026-11-17 | Publishing | publish, don't | Never `gh release create`, never change repo visibility; the run ends at a built and verified release zip. Pushing to main is allowed. |

@@ -28,8 +28,13 @@ def enc(s):
 
 
 def px(s):
-    """Visible width of English text: 6 px per ASCII char, 12 px per other char (2-byte SJIS glyph)."""
-    return sum(6 if font.FIRST_CHAR <= ord(c) <= font.LAST_CHAR else 12 for c in s.rstrip(" "))
+    """Visible width of English text: 6 px per ASCII char, 12 px per other char (2-byte SJIS glyph);
+    the player-name code ∴ expands to the name, up to 6 fullwidth chars (72 px)."""
+    return sum(6 if font.FIRST_CHAR <= ord(c) <= font.LAST_CHAR else NAME_PX if c == NAME else 12
+               for c in s.rstrip(" "))
+
+
+NAME, NAME_PX = "∴", 72
 
 
 def jp_px(jp):
