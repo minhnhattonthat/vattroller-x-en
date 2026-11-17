@@ -200,3 +200,14 @@ needs its arg meaning, scenes and id sweeps (next worker).
 - **VRX roster record** (ROM 0xCE0 + idx*0x58): +4 = the win quote ("Yay!", r004738-r0065a0, '..' for the hero);
   ids 0x5F+ are NPC/object types (Boy, Student, Clerk, Door 1-8, Undefined 1-2, Arm, Bento...: r0065e8-r006f7c),
   probably never drawn as names. `tools/lua/pcread.lua` logs PC/regs of a read (romreads.lua missed some).
+  +4 is the character's favourite word (8 bytes): the fighter load `0x0802B554` copies +0 and +4 into the slot
+  (+0x8C, getter `0x0802DE6C`); the VRX win handler `0x080693EC` draws winner name + word. Ids 0x5F+ (and id 0)
+  are never drawn: getter `0x0806B0FC` reads roster names only below the count word at ROM 0x73DD8 (0x5F); the
+  box speaker tag is op 0x0A byte 5 when byte 4 = 7 (byte 4 = 3: no tag), and no such box names them; room actors
+  read only +0x1C/+0x1D/+0x1F (pcread in rpg_conbini/rpg_town). Waived in `docs/text_unshown.tsv`.
+- **VRX battle result**: scene `vrx_fight` = Official battle left idle; time-out at ~f9917 → step `0x08068F94`
+  picks the DRAW screen when byte 0x03003557 == 1 (cmp `0x08068FC2`), else the win handler `0x080693ED`.
+  `tools/lua/vrxwin.lua` forces the win and loops the word draw over roster ids (`N`, `FIRST`; N=0 = real winner).
+- **Armalet records** (table ROM 0x7080 via `*0x02009D44`, stride 0x24: name + 4 lines): creation Armalet Select
+  redraws on up/down at `0x080474F4` with the id in r1 at `0x08047508`: `idsweep.lua --var HOOK=0x08047508
+  --var REG=1 --var N=19 --var "KEY='down'"` from `work/states/create_armalet.mss` draws all 19.
