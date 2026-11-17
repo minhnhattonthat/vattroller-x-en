@@ -243,7 +243,7 @@ def load(rel):
 def save(rel, rows):
     p = SCRIPT / rel
     p.parent.mkdir(parents=True, exist_ok=True)
-    p.write_text(json.dumps(rows, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+    p.write_text(json.dumps(rows, ensure_ascii=False, indent=1) + "\n", encoding="utf-8", newline="\n")
 
 
 def dump(force=False):
