@@ -53,6 +53,18 @@ csteps 28 (not 31) after the English name-entry pages (D13). `tools/bgfind.py DU
 entries under a screen rectangle (dump coordinates sit 16 px above the screenshot's: subtract 16 from y) and
 finds their tiles in `work/gfx/unpacked/`.
 
+## Text-coverage id sweeps (`tools/lua/idsweep.lua`)
+
+A detail page that draws one table record per cursor move can show every record: the sweep presses KEY each EVERY
+frames and, at the page's id load (exec HOOK), writes the next id into `*(PTR)+OFF` (FILL bytes). Run it from the
+scene's state with the textcover probe into `work/qa/cover/ids/<name>` (textcover.py searches all of `work/qa/cover`).
+
+| page | HOOK | PTR / OFF | record | status |
+|---|---|---|---|---|
+| Arm Data (`menu_armdata`, KEY right, N 134) | `0x0804D2E0` (`ldrb r1,[r0,#1]`, r0 = `*0x03002BF4`+0x4C) | `0x03002BF4` / `0x4D` | `*0x02009D58` + id*0x78 = ROM 0xED50 (name + 3 desc ptrs) | verified, 134 Arms drawn, +529 strings |
+| V Skills (`menu_vskills`) | desc drawn by `0x08040830` (id = `0x0802DEE8(list idx)`; record `*0x02009D48` + id*0x28 = ROM 0x7C78, names list ROM 0x7890) | — | — | **not working yet**: `0x0802DEE8` reads `*(0x03002A90)+0x73+idx` (5 signed slots), but overwriting those blanks the description and the name list does not change: the shown list comes from elsewhere; hook the return of `0x0802DEE8` at `0x08040830` (set r0 with `emu.setState`/register write) instead |
+| Arm Data page header (`0x0803FDFE`, id `*(0x03002BF8)+0xD`, V Skill record) | fires once per page open only | | | |
+
 ## Gaps (next)
 
 - RPG mode: free control and the field menu are reached (above). Shops are reached as rooms, but shopkeepers need
