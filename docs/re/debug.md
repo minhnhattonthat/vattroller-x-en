@@ -329,3 +329,34 @@ needs its arg meaning, scenes and id sweeps (next worker).
 - **False string pointers** (`text.FALSE_PTRS`): 12 aligned words equal to 0x08000000 + a string offset but not
   pointers (a V Skill record's data field at 0x1D870, graphics data 0x96F44-0xC2D18, link block 0xF0B38/40,
   0x7FF9BC); the build had overwritten all of them. The dump now skips them (11 alias ids gone).
+
+## Forced branches with regset.lua (2026-11-18, 26th worker)
+
+- `tools/lua/regset.lua --var "REGSET={{addr,reg,val[,hits]},..}"` sets a register before an instruction runs
+  (a Yes/No result, a check's return value, a list id); the optional 4th field caps the hits (1 = once, for
+  per-frame callbacks). `REGSET_FROM` = first frame. Probes share globals (`FROM` is read by setbytes.lua and
+  shots.lua alike).
+- **Game mode 17 = V Skill recall list** (mode switch `0x0802D128`, jump table ROM 0x2D168 is indexed mode-1:
+  idx 16 = `0x0803967C`); mode 16 = the V Skill forget list (`0x0803CC24`). Recall list A handler `0x080398FA`:
+  row id `0x03003030` (-1 at a cold boot), `0x0802DFAC` = can recall, cost `0x03002C90+0x3A4` vs VP save+0x584.
+  `warp.py md17 --set mode=17 --set mode_arg=0 --set "post=200 -;6 a;300 -"` + REGSET
+  `{{0x08039914,1,0,1},{0x08039926,0,1,1},{0x0803993C,0,0,1},{0x0803993C,1,100,1},{0x08039A66,1,0,1}}` =
+  '"Sturdy": recall it?' (`recallok3`); cost 0x7fffffff instead = "Sorry, but / Not enough VP..." (`recallvp`);
+  B = "Really quit?" (`recallq`).
+- **Mode 16 forget list** (`0x0803CC24`, strings table EWRAM 0x0200AEE8 = ROM 0xEE62C): the Sure/No result is
+  read at `0x0803CDAA` (r1, 0 = Sure; the cold-boot cursor answers No). `0x0803CDCA` r0 > 0 = Armalet Size
+  exceeded (r076410/r076428, `vsksize`); `0x0803CE24` r0 <= 4 = forget path ("Forgotten..." + "learned!"),
+  r0 = 5 = learn path ("forgotten!", `vsklearn`). Route `200 -` + `6 a;300 -` x9.
+- **Arm Set (mode 15)** "Armalet Size / exceeded!" (r077cb0/cc8): state byte `*(0x03004AC4)+4` (table ROM
+  0xEF110), poke 4 once (setbytes `PTR=0x03004AC4 OFF=4 VAL=4 FROM=500 UNTIL=500`, `armsizeover`).
+- **Battle result** (help_armalet, result screen ~f16650): `0x0803DAC6` r7 = 1 runs the level-up V Skill learn
+  (`0x0803DF38`; full slots → the "forget one for NEW" list, `vskacquire`), + `0x0803E114` r5 = 0 = "is already
+  learned!" (`vskknown`); `0x0803DA0C` r0 = 1 = the Break Roll lines (`breakroll`); `0x0803DC80` r5 = 1 = VP
+  over 1000 (thousands separator r0764e0, `vpcomma2`, D18).
+- **V Skills page** (menu_vskills): stat table `0x0803FF34(0)` draws "---" rows (r076640): REGSET
+  `{{0x0803FBBE,0,1,1},{0x0803FBC4,0,0,1}}` (`vskdash`). List header = EWRAM 0x0200B458[*(0x03002BF8)+4]
+  (kinds: V Skills, Key Items, Arms, Tools, Character, Friends, 13 = Bench): `{{0x0804050C,1,13,1}}` (`bench`).
+- **Character Data** (menu_chara): "---" when byte +0x16 = 0xFF: `{{0x08045EA4,0,255,1}}` (`charadash`).
+- Still open: r076ad8 "Is this OK?" = state 2 of struct `*(0x03005004)` (byte +0xF, state table ROM 0xEF1A0,
+  tick inside `0x08045770`, reached via list-callback table EWRAM 0x0200B4C8 index `task+0x30` = 7); not
+  create_face (its code is 0x08044Fxx-0x080454xx) and not menu_chara.

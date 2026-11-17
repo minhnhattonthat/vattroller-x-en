@@ -1122,12 +1122,12 @@
   "id": "r075ef4",
   "kind": "string",
   "jp": "『",
-  "en": "\"",
+  "en": " \"",
   "status": "done",
   "ptrs": [
    "0xee518"
   ],
-  "notes": ""
+  "notes": "opening quote before a V Skill name (recall list, mode 17): a 1-char '\"' is padded to '\" ' and shows '\" Sturdy'; ' \"' keeps the quote next to the name (D18)"
  },
  {
   "id": "r075ef8",
