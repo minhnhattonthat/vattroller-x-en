@@ -2131,7 +2131,7 @@
   "id": "r076694",
   "kind": "string",
   "jp": "１人前の",
-  "en": "Badge:",
+  "en": "Proof of",
   "status": "done",
   "ptrs": [
    "0xeeab4"
@@ -2142,7 +2142,7 @@
   "id": "r0766a0",
   "kind": "string",
   "jp": "バトローリングの",
-  "en": "Vattrolling",
+  "en": "Vattrolling,",
   "status": "done",
   "ptrs": [
    "0xeeab0"
@@ -2186,7 +2186,7 @@
   "id": "r0766e0",
   "kind": "string",
   "jp": "マルスに",
-  "en": "\"Mars\"",
+  "en": "The pass",
   "status": "done",
   "ptrs": [
    "0xeeaa0"
@@ -2263,7 +2263,7 @@
   "id": "r076748",
   "kind": "string",
   "jp": "パンフレット",
-  "en": "pamphlet;",
+  "en": "pamphlet.",
   "status": "done",
   "ptrs": [
    "0xeeaec"
@@ -2274,7 +2274,7 @@
   "id": "r076758",
   "kind": "string",
   "jp": "マスターになった",
-  "en": "a full master",
+  "en": "full mastery.",
   "status": "done",
   "ptrs": [
    "0xeeae8"
@@ -2285,7 +2285,7 @@
   "id": "r07676c",
   "kind": "string",
   "jp": "すべてがのってる",
-  "en": "all in here",
+  "en": "all in here,",
   "status": "done",
   "ptrs": [
    "0xeeae4"
@@ -2318,7 +2318,7 @@
   "id": "r0767a0",
   "kind": "string",
   "jp": "めいさん品",
-  "en": "specialty",
+  "en": "specialty,",
   "status": "done",
   "ptrs": [
    "0xeead8"
@@ -2329,7 +2329,7 @@
   "id": "r0767ac",
   "kind": "string",
   "jp": "チャレンジする",
-  "en": "challenge",
+  "en": "you need to",
   "status": "done",
   "ptrs": [
    "0xeead4"
@@ -2340,7 +2340,7 @@
   "id": "r0767bc",
   "kind": "string",
   "jp": "バトローラー",
-  "en": "Vattroller",
+  "en": "Vattrollers",
   "status": "done",
   "ptrs": [
    "0xeead0"
@@ -2362,7 +2362,7 @@
   "id": "r0767e0",
   "kind": "string",
   "jp": "ケーキ",
-  "en": "cake",
+  "en": "cake.",
   "status": "done",
   "ptrs": [
    "0xeeb30"
@@ -2384,7 +2384,7 @@
   "id": "r0767fc",
   "kind": "string",
   "jp": "つたわるおたから",
-  "en": "family treasure",
+  "en": "treasure.",
   "status": "done",
   "ptrs": [
    "0xeeb28"
@@ -2406,7 +2406,7 @@
   "id": "r076820",
   "kind": "string",
   "jp": "つかうとゴワゴワ",
-  "en": "rough if used",
+  "en": "Rough to use,",
   "status": "done",
   "ptrs": [
    "0xeeb20"
@@ -2417,7 +2417,7 @@
   "id": "r076834",
   "kind": "string",
   "jp": "あかし",
-  "en": "proven",
+  "en": "I can",
   "status": "done",
   "ptrs": [
    "0xeeb1c"
@@ -2450,7 +2450,7 @@
   "id": "r07685c",
   "kind": "string",
   "jp": "中にはクリが",
-  "en": "chestnut in",
+  "en": "has chestnut",
   "status": "done",
   "ptrs": [
    "0xeeb10"
@@ -2461,7 +2461,7 @@
   "id": "r07686c",
   "kind": "string",
   "jp": "たねがたくさん",
-  "en": "lots of seeds",
+  "en": "packed with",
   "status": "done",
   "ptrs": [
    "0xeeb0c"
@@ -2472,7 +2472,7 @@
   "id": "r07687c",
   "kind": "string",
   "jp": "ために",
-  "en": "the",
+  "en": "face",
   "status": "done",
   "ptrs": [
    "0xeeb08"
@@ -2483,7 +2483,7 @@
   "id": "r076884",
   "kind": "string",
   "jp": "となり",
-  "en": "now,",
+  "en": "may",
   "status": "done",
   "ptrs": [
    "0xeeb04"
@@ -2538,7 +2538,7 @@
   "id": "r0768cc",
   "kind": "string",
   "jp": "しているらしい",
-  "en": "they say",
+  "en": "or so they say.",
   "status": "done",
   "ptrs": [
    "0xeeb54"
@@ -2549,7 +2549,7 @@
   "id": "r0768dc",
   "kind": "string",
   "jp": "Ｖスキルを",
-  "en": "V Skills",
+  "en": "teach you",
   "status": "done",
   "ptrs": [
    "0xeeb50"
@@ -2560,7 +2560,7 @@
   "id": "r0768e8",
   "kind": "string",
   "jp": "読めない",
-  "en": "to read",
+  "en": "to read.",
   "status": "done",
   "ptrs": [
    "0xeeb4c"
@@ -2571,7 +2571,7 @@
   "id": "r0768f4",
   "kind": "string",
   "jp": "はいっている",
-  "en": "inside",
+  "en": "inside.",
   "status": "done",
   "ptrs": [
    "0xeeb44"
@@ -2582,7 +2582,7 @@
   "id": "r076904",
   "kind": "string",
   "jp": "つまっている",
-  "en": "packed in",
+  "en": "many seeds.",
   "status": "done",
   "ptrs": [
    "0xeeb40"
@@ -2593,7 +2593,7 @@
   "id": "r076914",
   "kind": "string",
   "jp": "ひつようなパス",
-  "en": "required pass",
+  "en": "\"Mars\".",
   "status": "done",
   "ptrs": [
    "0xeeb3c"
@@ -2604,7 +2604,7 @@
   "id": "r076924",
   "kind": "string",
   "jp": "バトリーグに",
-  "en": "Vattleague",
+  "en": "enter the",
   "status": "done",
   "ptrs": [
    "0xeeb38"
@@ -2626,7 +2626,7 @@
   "id": "r07693c",
   "kind": "string",
   "jp": "あやしい",
-  "en": "Dubious",
+  "en": "Dubious.",
   "status": "done",
   "ptrs": [
    "0xeeb90"
@@ -2637,7 +2637,7 @@
   "id": "r076948",
   "kind": "string",
   "jp": "おしえてあげよう",
-  "en": "you can teach",
+  "en": "V Skills.",
   "status": "done",
   "ptrs": [
    "0xeeb84"
@@ -2648,7 +2648,7 @@
   "id": "r07695c",
   "kind": "string",
   "jp": "さんかできるぞ",
-  "en": "entry is open!",
+  "en": "Vattleague!",
   "status": "done",
   "ptrs": [
    "0xeeb6c"
