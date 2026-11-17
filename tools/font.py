@@ -184,6 +184,29 @@ def width_px(s):
     return w + 6 * (n + n % 2)
 
 
+_ORIG_WIDTHS = None
+
+
+def jp_px(raw):
+    """Pixel width of original SJIS bytes as the mappers measure it: the ROM width table (8 or 12 px: fullwidth
+    Latin, digits, small kana, ー and much punctuation are 8) for codes 0x8140-0x8396, 12 px for kanji, 6 px for a
+    single byte. The safe width for English replacing it (ROM strings: budgets.json kind "string")."""
+    global _ORIG_WIDTHS
+    if _ORIG_WIDTHS is None:
+        import archive
+        _ORIG_WIDTHS = archive.ROM.read_bytes()[WIDTHS:WIDTHS + N_GLYPHS]
+    w, i = 0, 0
+    while i < len(raw):
+        if raw[i] >= 0x81 and i + 1 < len(raw):
+            code = raw[i] << 8 | raw[i + 1]
+            w += _ORIG_WIDTHS[(raw[i] - 0x81) * 192 + raw[i + 1] - 0x40] if 0x8140 <= code <= 0x8396 else 12
+            i += 2
+        else:
+            w += 6
+            i += 1
+    return w
+
+
 def sheet(path):
     from PIL import Image
     g = load_glyphs()

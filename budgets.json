@@ -1,0 +1,38 @@
+{
+  "_doc": "Width budgets per box variant (phase 5 width gate), read by tools/lint.py. px = visible pixels: ASCII 6 px per char (pair glyphs, docs/re/font.md), any other char 12 px. 'source': measured = read off the shot in-game with a marker or ruler build; construction = the English cannot be wider than the Japanese it replaces (same px per byte); code = taken from the drawing code; guess = not yet seen (lint warns).",
+  "kinds": {
+    "line": {
+      "px": 216, "chars": 36, "lines_per_box": 2, "source": "measured",
+      "shot": "work/qa/mkbox (marker build, mk_mash warp of rpg_start, frames 7840-8100)",
+      "notes": "One op-0x00 command = one line. The box shows 2 lines. flags 0x0000 = new box (speaker/portrait can change), 0x0400 = clear the box, 0x0200 = next line: past the second line it waits for A and scrolls the box up one line, so runs of any length work (verified: 120/7d8, 7fc, 828). The wait arrow sits under the text, so the last line keeps the full 36 chars. Ruler line 120/43c fills 216 px exactly."
+    },
+    "choice": {
+      "px": 210, "chars": 35, "source": "measured",
+      "shot": "work/qa/rc (ruler build, rpg_start choice 120/46c, after pressing down)",
+      "notes": "Two options drawn like dialogue lines (36 chars visible), but the selection highlight is a fixed dashed rectangle ending at x=218, which cuts through the 36th char. 35 chars stay inside it."
+    },
+    "title": {
+      "px": 204, "chars": 34, "source": "measured",
+      "shot": "work/qa/ruler/comic_jin1/scene.png (ruler build)",
+      "notes": "Comic chapter card: two title rows (op 0x13 fields 0 and 1; field 2 is always empty), 34 chars each, then the box edge."
+    },
+    "credit": {
+      "px": 120, "chars": 20, "bytes": 38, "source": "measured",
+      "shot": "work/qa/ruler/credits/scene.png (ruler build, credits warp)",
+      "notes": "Staff credits panel: 20 chars visible (the 0x78 = 120 px width passed to 0x08029260), the 21st is cut. Slot 0x28 bytes: at most 38 text bytes (the encoder pads to even, plus the NUL)."
+    },
+    "noptr": {
+      "source": "construction",
+      "notes": "Written in place: encoded bytes <= the row's max (original byte length)."
+    },
+    "string": {
+      "source": "construction",
+      "notes": "Pointered ROM strings: by default encoded bytes <= the Japanese byte length, i.e. the same px (2 bytes = one 12 px JP glyph = two 6 px letters). Menus that need more get a measured entry under 'ids'. The four 'おしまい' cells r075e38-r075e44 (2 bytes each, 16 px cell, code 0x08029260 width 0x10) fit 2 letters by this rule."
+    },
+    "wide": {
+      "source": "measured",
+      "notes": "`\"wide\": true` rows (name-entry grid, default names/words) are written as fullwidth SJIS: English chars <= the row's max. Name: 6 slots, the speaker tag shows 6 fullwidth Ｗ (widest letter) inside its tab (work/qa/nm, tools/lua/setname.lua on the marker build, rpg_start). Favourite word: 4 slots (create_word field). Grid rows: exactly 14 cells. Default phrases (max 8): guess until seen."
+    }
+  },
+  "ids": {}
+}

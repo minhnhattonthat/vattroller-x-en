@@ -30,14 +30,29 @@ Other fonts in the archive (#1132 8x8, #1133/#1134 8x16) were not read on the di
 Budgets: a dialogue line is 216 px = **36 chars** (marker line `120/43c The quick brown fox jumps ov` fills it
 exactly). Code buffer limit 56 bytes per line is not reached by 36 chars.
 
-## Open (phase 5)
+## Width gate — verified in game (2026-11-17), budgets in `budgets.json`, lint `tools/lint.py` (run by `check.py`)
 
-- **Speaker name tag** (`0x08072F18`): copies the player name (12 bytes) and calls mapper A with width 0x30 and
-  the "count every glyph as 8 px" flag, so a 12 px pair glyph overruns its 8 px slot (garbage in the marker build,
-  where the name is `777777777777` because the name-entry grid is itself a marker string). Plan: keep player names
-  as fullwidth SJIS Latin (the original 8 px glyphs, 6 chars = 48 px), i.e. the name-entry grid offers fullwidth
-  letters, and check the default names.
-- Box variants still to measure: lines per box, choices, comic titles, menus/list fields, credits, VS labels.
+| Variant | Budget | Evidence |
+|---|---|---|
+| dialogue line (op 0x00) | 216 px = 36 chars; box shows **2 lines** | marker `120/43c` fills it; flags 0x0000 new box, 0x0400 clear, 0x0200 next line: past line 2 it waits for A and **scrolls up one line** (`120/7d8, 7fc, 828`), so runs of any length work; the wait arrow sits under the text |
+| choice (op 0x01 fields) | 35 chars | ruler build: 36 visible, but the fixed dashed highlight ends at x=218, cutting the 36th |
+| comic chapter title (op 0x13) | 34 chars per row | ruler build, `comic_jin1` |
+| credits | 20 chars (120 px), ≤ 38 bytes | ruler build: clipped at x=120 for headings and names alike (pair glyphs draw at 6 px in both; the JP headings used an 8 px font) |
+| speaker name tag | 6 fullwidth chars | `tools/lua/setname.lua` poked `ＷＷＷＷＷＷ` into the name at `rpg_start`: fits its tab |
+| ROM strings | the Japanese **pixel** width (`font.jp_px`: ROM width table, 8 px for fullwidth Latin/digits/ー/small kana) and ≤ the JP byte length | construction: replacing text never gets wider; menus that need more get a measured `ids` entry in `budgets.json` |
+| in-place strings (noptr) | ≤ original bytes and px | construction |
+| wide rows | name 6, favourite word 4, grid row 14 (cells); default phrases 8 = **guess** (shown on screens not yet warpable; lint warns) | create_name / create_word fields |
+
+Glyph torture line (`tools/torture_build.py`, all of 0x20-0x7E plus double spaces on `e2520_0043c` and its two
+choices): every glyph and both double spaces render, `work/qa/tort/z.png`. Markers are now cut to these budgets
+(`build.MARKER_CHARS`; ROM strings to their JP px), and `lint.py --all` over the marker text is clean (test).
+
+### Name entry fix
+
+The name and word fields start filled with the **empty-slot sentinel** `≠` (ROM `r077c94`, copied one code per
+slot by `0x08028714`; the entry code tests for it). As a marker string it became `77`, so every blank slot read
+`77` and the stored name kept ASCII pairs. It is now `data`; with it, blank slots show and the name is all
+fullwidth SJIS (`７` from the widened grid), tag clean (`rpg_start`).
 
 ### Name entry (marker tour 2026-11-17, second session)
 
@@ -47,10 +62,8 @@ exactly). Code buffer limit 56 bytes per line is not reached by 36 chars.
   (`text.py WIDE/WIDE_IDS`): English in ASCII, the build writes fullwidth SJIS (`font.widen`), `max` in characters
   (grid row 14, name 6, favourite word 4, phrases 8 = guess). The grid tiles need a graphics redraw (phase 8) to
   match whatever English rows are chosen.
-- RAM name buffer after `rpg_start` on the marker build (`tools/lua/namebuf.lua` on `work/states/rpg_start.mss`):
-  `82 56` then `37 37 ...`: the first code came from the widened grid, the next ten bytes are ASCII `7`, so some
-  other non-wide source feeds the name (the warp's `a,start,a,down` clicking; candidates: the dakuten tables
-  r07791c-r077a5c, a default name read from elsewhere, or a code-built string). Find it before the name tag can be
-  judged.
+- RAM name buffer: `82 56` then `37 37 ...` before the sentinel fix (above); the entry-screen copy is at IWRAM
+  `0x030043CC`. Speaker tag (`0x08072F18`) measures every code as 8 px (width 0x30), which is why names stay
+  fullwidth SJIS.
 - Credits end "おしまい" = four one-code strings r075e38-r075e44, each drawn alone in a 16 px cell
   (`0x08029260`, width 0x10): at most 2 ASCII chars per cell.

@@ -4878,14 +4878,14 @@
  },
  {
   "id": "r077c94",
-  "kind": "string",
+  "kind": "data",
   "jp": "≠",
   "en": "",
-  "status": "new",
+  "status": "data",
   "ptrs": [
    "0x4ed5c"
   ],
-  "notes": ""
+  "notes": "empty-slot sentinel ≠ of the name/word entry fields (0x08028714 copies it into each blank slot; the entry code tests for it), keep as is"
  },
  {
   "id": "r077c98",

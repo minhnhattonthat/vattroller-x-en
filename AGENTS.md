@@ -12,7 +12,7 @@ Skill: translate-retro-game (Claude Code: plugin, enabled in .claude/settings.js
 
 ## Paths
 - Original ROM: `rom/Vattroller X (Japan).gba` (gitignored; SHA-1 in `rom.sha1`, checked by `tools/check_rom.py`). Emulator: this repo's own copy in `tools/mesen/` (MesenCE 2.2.1, https://github.com/nesdev-org/MesenCE/releases/download/2.2.1/Mesen_2.2.1_Windows.zip; gitignored; BIOS `tools/mesen/Firmware/gba_bios.bin` from retrobios `bios/Nintendo/Game Boy Advance/GBA_bios.rom`, SHA-1 300c20df...; settings in `tools/emu-config/`). Savestates: `work/states/`.
-- Text: `script/events/e<file>.json` (dialogue/choices/titles), `script/rom/*.json` (pointered strings, credits, no-pointer strings); fields `id kind jp en status notes` (+ `flags`, `ptrs`, `max`). `python -X utf8 tools/text.py dump|check|stats` (dump never clobbers `en`; layout in docs/re/text.md). Tables: `tbl/`. Glossary: `glossary.md`. RE notes index: `docs/re/README.md`. Fonts and their licences: `docs/fonts.md`.
+- Text: `script/events/e<file>.json` (dialogue/choices/titles), `script/rom/*.json` (pointered strings, credits, no-pointer strings); fields `id kind jp en status notes` (+ `flags`, `ptrs`, `max`). `python -X utf8 tools/text.py dump|check|stats` (dump never clobbers `en`; layout in docs/re/text.md). Width budgets per box variant: `budgets.json` (measured; lint `tools/lint.py`, run by check; table in docs/re/font.md §Width gate). Glossary: `glossary.md`. RE notes index: `docs/re/README.md`. Fonts and their licences: `docs/fonts.md`.
 
 ## Rulings
 - Edit source files (.py .lua .asm .tbl .json) only with the file-edit tool; scripts here read and analyse, never `.replace()` and write back.

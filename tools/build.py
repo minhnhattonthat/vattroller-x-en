@@ -11,6 +11,7 @@ the engine (tools/font.py: pair-glyph font, width table) and the ROM strings (to
 ROM layout past the original 8 MiB: 0x800000 width table, 0x810000-0x9AC000 ROM strings, 0x9ACE44-0xBE4DC4 pair
 glyphs (fixed by the glyph index formula), 0xBE8000+ relocated event files."""
 import hashlib
+import json
 import sys
 from pathlib import Path
 
@@ -28,6 +29,9 @@ MARKER_OUT = ROOT / "build" / "vattroller_x_marker.gba"
 EVENTS_FREE = 0xBE8000
 
 FILLER = "The quick brown fox jumps over the lazy dog, then naps by the warm fire. "
+# Marker length per kind = the measured budget (budgets.json), so markers fill each box variant exactly.
+MARKER_CHARS = {k: v["chars"] for k, v in json.loads((ROOT / "budgets.json").read_text(encoding="utf-8"))["kinds"].items()
+                if k in ("choice", "title", "credit")}
 
 
 def enc(s):
@@ -47,14 +51,15 @@ def marker_text(row, chars=36):
     """Marker for one row: its short id, then filler up to `chars` (event lines) or the original byte length
     (ROM strings: the game may copy them into buffers sized for the Japanese)."""
     m = marker_id(row["id"]) + " "
-    if row["kind"] in ("line", "title"):
+    if row["kind"] == "line":
         n = chars
-    elif row["kind"] == "choice":
-        n = 18
+    elif row["kind"] in MARKER_CHARS:
+        n = MARKER_CHARS[row["kind"]]
     elif row.get("wide"):
         n = row["max"]
-    else:
-        n = max(len(m) - 1, len(text.encode(row["jp"])))
+    else:   # ROM strings: the Japanese pixel width (6 px per letter), never more bytes than the Japanese
+        raw = text.encode(row["jp"])
+        n = max(len(m) - 1, min(len(raw), font.jp_px(raw) // 6))
         if "max" in row:
             n = min(n, row["max"])
     return (m + FILLER * 3)[:n].rstrip() if n > len(m) else m[:n]

@@ -176,6 +176,8 @@ DATA = [
     (0x048979, 0x04897D, "code bytes"),
     (0x074570, 0x074571, "credits table base (code adds index*0x2C; literals 0x38608 0x38AFC 0x38B5C): the text is credit "
                          "c074570, written in place; repointing it broke the credits (marker tour)"),
+    (0x077C94, 0x077C96, "empty-slot sentinel ≠ of the name/word entry fields (0x08028714 copies it into each blank "
+                         "slot; the entry code tests for it), keep as is"),
     (0x0E21D8, 0x0E21DA, "name marker ∴: the typer (0x080735C0) compares each text code with it, keep as is"),
     (0x0F1828, 0x0F182A, "name marker ∴ (second copy), keep as is"),
 ]
