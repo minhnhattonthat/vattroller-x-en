@@ -105,6 +105,27 @@ V Skill to forget!", 17 list with VP (sell/transfer?), 18 blank, 19/20 **link** 
 moment."), 21 VRX, 22 stripes, 23 character portrait panel, 24 stats panel, 25 black, 26 "Rematch?". Each still
 needs its arg meaning, scenes and id sweeps (next worker).
 
+## Room names, V Skill tail (2026-11-17, 15th worker)
+
+- Room table ROM 0xBC20 (`*0x02009D54`, 236 records, stride 0x28, +0 = name pointer, r00e1xx-r00ecxx). The
+  only reader of the name is the **room-name banner** `0x08036678(room)` (top of the screen on entering an
+  area; called by the room loader at `0x0803602C` when `*(0x03003070+0x1684)` != 0). `tools/lua/roomnames.lua`
+  loops the banner over all 236 rooms in one call (re-enters at `0x0803669A` with r4 = next record; Mesen GBA
+  jump = set `cpu.r15` + `cpu.pipeline.reloadRequested`; the text queue `*(0x030028D0)` +0xC0 lines / +0xC1
+  glyphs is reset each loop, or `0x080282B8` bails after ~5). `FIRST=k N=k+1` shows one room's banner
+  (`menu_field` draws it about f21530). All 236 covered; the longest, "Death Roll Colosseum", fits. Left
+  margin = the original's (5 px).
+- World map (mode 9): the place labels on the map are graphics (G15), not the room table.
+- V Skill table `*0x02009D48` = ROM 0x7890 has 128 records (owned bits u32[4]); the 13th-worker sweep did ids
+  0-102. Ids 103-127: `idsweep.lua ... --var FIRST=103 --var N=25` (`work/qa/cover/ids/vskills2`). Field +0 of
+  the record (r008c90 "Sturdy"...) is read only at `0x0804084C` (record 25 in `menu_vskills`); the list rows draw
+  other copies (r00a1xx), so most +0 names are still unshown: find that page.
+- `tools/lua/setbytes.lua` holds bytes (e.g. every owned bit) on every frame, for pages that build their list
+  when opened.
+- Armalet table `*0x02009D44` = ROM 0x7080 (19 records, stride 0x24: name + 4 desc lines + data). Special-move
+  table `*0x02009D64` = ROM 0x160D0 (36 records, stride 0x38: 5 name parts + 4 desc lines); readers: 14 code
+  refs, none draws the strings in the scenes tried (menu_armalet, menu_chara, battle_tutorial).
+
 ## Gaps (next)
 
 - RPG mode: free control and the field menu are reached (above). Shops are reached as rooms, but shopkeepers need
