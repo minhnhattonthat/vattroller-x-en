@@ -55,8 +55,7 @@ def region_errors(orig, log):
                 lo = archive.TABLE + 8 * i
                 ok = lo <= a and b <= lo + 8
         elif what.startswith("tagfont:"):
-            ok = (a, b) in {(tagfont.ENTRY, tagfont.ENTRY + 4), (tagfont.HOOK, tagfont.HOOK + 0x20),
-                            (tagfont.TABLE, tagfont.TABLE_END)} | {(s, s + 8) for s in tagfont.SITES}
+            ok = (a, b) in tagfont.regions()
         elif what.startswith("font:"):
             ok = ((a, b) == (font.NEW_WIDTHS, font.NEW_WIDTHS + 0x10000) or (a in lits and b == a + 4)
                   or (GLYPHS[0] <= a and b <= GLYPHS[1]))

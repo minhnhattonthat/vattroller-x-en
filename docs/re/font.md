@@ -91,4 +91,9 @@ build, though the player's tag was fine.
   shadow right and below. So a tag holds **12 letters** (6 codes), "Komachi" fits. Verified in game:
   `rpg_start` tags "Komachi", header "Which?" (`work/qa/cmp_en2`, `work/qa/probe/hdr2`).
 - Player names stay fullwidth (8 px letters, 6 cells) because name entry and the save data hold 6 codes; D10.
-- Probe `work/qa/probe/bigidx.lua` (any narrow blitter receiving a pair index) was run over all warp scenes.
+- Probe `work/qa/probe/bigidx.lua` (any narrow blitter receiving a pair index) over all 52 warp scenes: the
+  outlined 8x16 font (+8, `0x083ED644`, bg 0, ink 4, shadow 0xD; blitters `0x08027C3C`, `0x08028938`) also gets
+  pairs: the VS-screen player names (battle_tutorial, rpg_tutorial, two comic endings). The same 8 bytes sit in
+  all six narrow blitters, so `tagfont.CELLS` hooks 8x8 (0x140), 8x16 plain (0x160) and 8x16 outlined (0x180),
+  tables at 0xF00000, 0xF90000, 0x10B0000 (ROM now 0x11CBFC0 bytes). Verified: VS bar "Jin" / "Ryo".
+  Not hooked: `0x08027F90` (8 px cells, left half of the 16x16 glyph for idx > 0x1DF); no scene sent it a pair.

@@ -1,16 +1,19 @@
-"""tagfont.py: English in the 8x8-font text path (speaker name tags, small headers; docs/re/font.md §Speaker tags).
+"""tagfont.py: English in the narrow-font text paths (speaker tags, headers, VS names; docs/re/font.md §Speaker tags).
 
-The speaker tag (0x08072F18) maps its name with mapper A at 8 px per code and draws each glyph index with the
-8x8 blitter 0x08027BBC: `src = *(0x030028C0) + idx*32`, one 8x8 4bpp tile per code, no range check. An English
-ASCII pair has index 46,848-65,022 (font.pair_index), so the tile was read from archive data: garbage tags.
+Besides the 16x16 dialogue font, both text systems draw codes with narrow blitters that copy one cell per code
+with no range check: 8x8 `src = font8 + idx*32` (speaker tags, the "Which?" header) and 8x16
+`src = font16 + idx*64` (two fonts: +4 plain, +8 outlined; the VS-screen names). An English ASCII pair has
+glyph index 46,848-65,022 (font.pair_index), so those cells were read from archive data: garbage.
 
-Patch (one hook, Thumb):
+Patch (Thumb hooks, no other code changes):
 - ROM 0x000: the entry branch `b 0xC0` becomes `b 0x200`. 0xC0-0x1FF were zero words the CPU slid through
-  (ARM `andeq` = no-op) on the way to 0x200, so 0x120-0x1FF are now free and BL-reachable from the blitter.
-- 0x27BDA and 0x288D4 (the same 8x8 blitter in text systems 1 and 2: speaker tags; choice headers such as
-  "Which?"): `ldrh r0,[r5]; lsls r0,#5; adds r0,r7; adds r1,r6,#0` -> `bl HOOK; adds r1,r6,#0; nop`.
-- HOOK (0x140): idx = [r5]; idx < 46,848 -> r7 + idx*32 (the original); else TABLE + (idx - 46,848)*32.
-- TABLE: one 8x8 tile per pair index, two 3 px letters from fonts/font3.txt (x 0-2 and 4-6, shadow right/below).
+  (ARM `andeq` = no-op) on the way to 0x200, so 0x120-0x1FF are now free and BL-reachable from the blitters.
+- Every narrow blitter has the same 8 bytes `ldrh r0,[r5]; lsls r0,#S; adds r0,r7; adds r1,r6,#0` (S = 5 or 6,
+  r7 = font base) before its CpuFastSet call; they become `bl HOOK; adds r1,r6,#0; nop`.
+- HOOK (one per cell format, 0x20 bytes each): idx = [r5]; idx < 46,848 -> r7 + idx<<S (the original);
+  else TABLE + (idx - 46,848)<<S.
+- TABLE: one cell per pair index, two 3 px letters from fonts/font3.txt (x 0-2 and 4-6, shadow right and below),
+  in the palette of the font it stands in for.
 """
 import struct
 from pathlib import Path
@@ -22,14 +25,31 @@ FONT3 = ROOT / "fonts" / "font3.txt"
 
 ENTRY = 0x0
 ENTRY_OLD, ENTRY_NEW = 0xEA00002E, 0xEA00007E      # b 0xC0 -> b 0x200
-HOOK = 0x140
-SITES = (0x27BDA, 0x288D4)   # 8x8 blitters of text system 1 (0x08027BBC, tags) and 2 (0x080288B8, headers)
-SITE_OLD = bytes.fromhex("28884001c019311c")
+SITE_OLD5 = bytes.fromhex("28884001c019311c")      # lsls #5 (8x8)
+SITE_OLD6 = bytes.fromhex("28888001c019311c")      # lsls #6 (8x16)
 FIRST = min(font.pair_glyphs_index_range())          # 46,848
 LAST = max(font.pair_glyphs_index_range())           # 65,022
-TABLE = 0xF00000
-TABLE_END = TABLE + (LAST - FIRST + 1) * 32
-BG, INK, SHADOW = font.BG, font.INK, font.SHADOW
+N = LAST - FIRST + 1
+
+
+class Cell:
+    def __init__(self, name, hook, shift, table, sites, colours, top):
+        self.name, self.hook, self.shift, self.table, self.sites = name, hook, shift, table, sites
+        self.bg, self.ink, self.shadow = colours
+        self.top = top                                 # cell row of the font's first row
+        self.h = 8 << (shift - 5)                      # 8 or 16 rows
+        self.table_end = table + N * (32 << (shift - 5))
+
+
+CELLS = (
+    # 8x8 (font +0): system 1 0x08027BBC (speaker tags), system 2 0x080288B8 ("Which?" header)
+    Cell("8x8", 0x140, 5, 0xF00000, (0x27BDA, 0x288D4), (font.BG, font.INK, font.SHADOW), 1),
+    # 8x16 plain (font +4, 0x083E5E44): system 1 0x08027BFC, system 2 0x080288F8
+    Cell("8x16", 0x160, 6, 0xF90000, (0x27C1A, 0x28914), (font.BG, font.INK, font.SHADOW), 7),
+    # 8x16 outlined (font +8, 0x083ED644: bg 0 transparent, ink 4, shadow 0xD): 0x08027C3C, 0x08028938 (VS names)
+    Cell("8x16o", 0x180, 6, 0x10B0000, (0x27C5A, 0x28954), (0x0, 0x4, 0xD), 7),
+)
+TABLE_END = max(c.table_end for c in CELLS)
 
 
 def load_font3(path=FONT3):
@@ -49,35 +69,36 @@ def load_font3(path=FONT3):
     return glyphs
 
 
-def render_tile(glyphs, a, b):
-    """8x8 grid of palette indices for the pair a, b (chars or None): rows 1-6 ink, shadow right and below."""
-    px = [[BG] * 8 for _ in range(8)]
+def render_cell(glyphs, a, b, cell=CELLS[0]):
+    """cell.h x 8 grid of palette indices for the pair a, b (chars or None)."""
+    px = [[cell.bg] * 8 for _ in range(cell.h)]
     for x0, ch in ((0, a), (4, b)):
         if ch is None or ch == " ":
             continue
         for y, r in enumerate(glyphs[ch]):
             for x, c in enumerate(r):
                 if c == "#":
-                    px[1 + y][x0 + x] = INK
-    for y in range(7, -1, -1):
+                    px[cell.top + y][x0 + x] = cell.ink
+    for y in range(cell.h - 1, -1, -1):
         for x in range(7, -1, -1):
-            if px[y][x] == BG and ((x and px[y][x - 1] == INK) or (y and px[y - 1][x] == INK)):
-                px[y][x] = SHADOW
+            if px[y][x] == cell.bg and ((x and px[y][x - 1] == cell.ink) or (y and px[y - 1][x] == cell.ink)):
+                px[y][x] = cell.shadow
     return px
 
 
-def to_tile(px):
-    return bytes(px[y][i] | px[y][i + 1] << 4 for y in range(8) for i in range(0, 8, 2))
+def to_cell(px):
+    """Rows of 8 palette indices -> 4bpp tiles stacked top to bottom (32 bytes per 8 rows)."""
+    return bytes(px[y][i] | px[y][i + 1] << 4 for y in range(len(px)) for i in range(0, 8, 2))
 
 
-def table(glyphs=None):
+def table(cell=CELLS[0], glyphs=None):
     glyphs = glyphs or load_font3()
-    blank = to_tile(render_tile(glyphs, None, None))
-    out = bytearray(blank * (LAST - FIRST + 1))
+    size = 32 << (cell.shift - 5)
+    out = bytearray(to_cell(render_cell(glyphs, None, None, cell)) * N)
     for hi in range(font.FIRST_CHAR, font.LAST_CHAR + 1):
         for lo in font.LO_SET:
             i = font.pair_index(hi, lo) - FIRST
-            out[i * 32:i * 32 + 32] = to_tile(render_tile(glyphs, chr(hi), chr(lo) if lo else None))
+            out[i * size:(i + 1) * size] = to_cell(render_cell(glyphs, chr(hi), chr(lo) if lo else None, cell))
     return bytes(out)
 
 
@@ -88,52 +109,68 @@ def bl(at, target):
     return struct.pack("<HH", 0xF000 | ((off >> 11) & 0x7FF), 0xF800 | (off & 0x7FF))
 
 
-def hook_code():
-    code = struct.pack("<11H",
-                       0x8828,   # 140 ldrh r0,[r5]
-                       0x4905,   # 142 ldr  r1,[pc,#20] -> 158 FIRST
-                       0x4288,   # 144 cmp  r0,r1
-                       0xD202,   # 146 bhs  14E
-                       0x0140,   # 148 lsls r0,r0,#5
-                       0x19C0,   # 14A adds r0,r0,r7
-                       0x4770,   # 14C bx   lr
-                       0x1A40,   # 14E subs r0,r0,r1
-                       0x0140,   # 150 lsls r0,r0,#5
-                       0x4902,   # 152 ldr  r1,[pc,#8] -> 15C TABLE
-                       0x1840)   # 154 adds r0,r0,r1
-    code += struct.pack("<H", 0x4770)                                     # 156 bx lr
-    code += struct.pack("<II", FIRST, 0x08000000 + TABLE)                 # 158, 15C
-    assert len(code) == 0x20
+def hook_code(cell=CELLS[0]):
+    lsl = cell.shift << 6                    # lsls r0,r0,#S
+    code = struct.pack("<12H",
+                       0x8828,               # +00 ldrh r0,[r5]
+                       0x4905,               # +02 ldr  r1,[pc,#20] -> +18 FIRST
+                       0x4288,               # +04 cmp  r0,r1
+                       0xD202,               # +06 bhs  +0E
+                       lsl,                  # +08 lsls r0,r0,#S
+                       0x19C0,               # +0A adds r0,r0,r7
+                       0x4770,               # +0C bx   lr
+                       0x1A40,               # +0E subs r0,r0,r1
+                       lsl,                  # +10 lsls r0,r0,#S
+                       0x4902,               # +12 ldr  r1,[pc,#8] -> +1C TABLE
+                       0x1840,               # +14 adds r0,r0,r1
+                       0x4770)               # +16 bx   lr
+    code += struct.pack("<II", FIRST, 0x08000000 + cell.table)
+    assert len(code) == 0x20 and cell.hook % 4 == 0
     return code
 
 
+def regions():
+    """(start, end) of every write patch() makes: romcheck's allowed list."""
+    out = {(ENTRY, ENTRY + 4)}
+    for c in CELLS:
+        out |= {(c.hook, c.hook + 0x20), (c.table, c.table_end)} | {(s, s + 8) for s in c.sites}
+    return out
+
+
 def patch(out, log):
-    """Write the entry branch, the hook, the call site and the tile table into `out` (bytearray)."""
+    """Write the entry branch, the hooks, the call sites and the cell tables into `out` (bytearray)."""
     assert struct.unpack_from("<I", out, ENTRY)[0] == ENTRY_OLD
     assert not any(out[0xC0:0x200]), "0xC0-0x1FF expected to be zero"
-    for site in SITES:
-        assert bytes(out[site:site + 8]) == SITE_OLD, hex(site)
-    assert len(out) <= TABLE, f"ROM data reaches {len(out):#x}, past the tag table at {TABLE:#x}"
+    assert len(out) <= CELLS[0].table, f"ROM data reaches {len(out):#x}, past the tag tables at {CELLS[0].table:#x}"
     font.put(out, log, ENTRY, struct.pack("<I", ENTRY_NEW), "tagfont: entry branch")
-    font.put(out, log, HOOK, hook_code(), "tagfont: hook")
-    for site in SITES:
-        font.put(out, log, site, bl(site, HOOK) + bytes.fromhex("311cc046"), "tagfont: call site")
-    font.put(out, log, TABLE, table(), "tagfont: tiles")
+    for c in CELLS:
+        old = SITE_OLD5 if c.shift == 5 else SITE_OLD6
+        for site in c.sites:
+            assert bytes(out[site:site + 8]) == old, hex(site)
+            font.put(out, log, site, bl(site, c.hook) + bytes.fromhex("311cc046"), f"tagfont: call site {c.name}")
+        font.put(out, log, c.hook, hook_code(c), f"tagfont: hook {c.name}")
+        font.put(out, log, c.table, table(c), f"tagfont: cells {c.name}")   # put() pads gaps with 0xFF
 
 
 def sheet(path):
-    """Every printable pair's first letter alone, zoomed: a review sheet of font3."""
+    """Every printable char in pairs, each cell format, zoomed: a review sheet of font3."""
     from PIL import Image
     glyphs = load_font3()
     chars = [chr(c) for c in range(font.FIRST_CHAR, font.LAST_CHAR + 1)]
-    pal = {BG: (240, 240, 240), INK: (40, 40, 40), SHADOW: (160, 160, 160)}
-    im = Image.new("RGB", (16 * 8, ((len(chars) + 31) // 32) * 8))
-    for i in range(0, len(chars), 2):
-        px = render_tile(glyphs, chars[i], chars[i + 1] if i + 1 < len(chars) else None)
-        for y in range(8):
-            for x in range(8):
-                im.putpixel(((i // 2) % 16 * 8 + x, (i // 2) // 16 * 8 + y), pal[px[y][x]])
-    im.resize((im.width * 6, im.height * 6), Image.NEAREST).save(path)
+    pal = {0x4: (200, 200, 255), 0x0: (240, 240, 240), font.INK: (40, 40, 40), font.SHADOW: (160, 160, 160),
+           0xD: (60, 60, 120)}
+    pairs = [(chars[i], chars[i + 1] if i + 1 < len(chars) else None) for i in range(0, len(chars), 2)]
+    hs = [c.h for c in CELLS]
+    im = Image.new("RGB", (16 * 8, sum(((len(pairs) + 15) // 16) * h for h in hs)))
+    y0 = 0
+    for c in CELLS:
+        for k, (a, b) in enumerate(pairs):
+            px = render_cell(glyphs, a, b, c)
+            for y in range(c.h):
+                for x in range(8):
+                    im.putpixel((k % 16 * 8 + x, y0 + k // 16 * c.h + y), pal.get(px[y][x], (255, 0, 255)))
+        y0 += ((len(pairs) + 15) // 16) * c.h
+    im.resize((im.width * 5, im.height * 5), Image.NEAREST).save(path)
 
 
 if __name__ == "__main__":
