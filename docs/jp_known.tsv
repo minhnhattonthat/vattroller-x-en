@@ -1,0 +1,39 @@
+0x004824	stale copy (VRX profile text, repointed); reached only by a chance word in archive data at 0x3E0064, target mid-string
+0x004BFC	stale copy (repointed profile name); chance word in archive data 0x3DB484, target mid-string
+0x0053F8	stale copy (repointed); chance word in archive data 0x2A4ACC, target mid-string
+0x0063F8	stale copy (repointed); chance word in archive data 0x299CA4, target mid-string
+0x0073FC	stale copy (repointed); chance word in archive data 0x2EA530, target mid-string
+0x00A3FC	stale copy (repointed); chance word in archive data 0x2EF150, target mid-string
+0x014404	stale copy of r014404 "Most popular" (real pointer 0x11784 repointed); 0x7FF9BC is a chance word in compressed archive data
+0x01481C	stale copy (repointed); chance word in archive data 0x42AB40, target mid-string
+0x015C02	stale copy (repointed); chance word at 0x01D870, odd target mid-string
+0x017114	stale copy (repointed); chance word in archive data 0x1DF778, target mid-string
+0x073E3C	stale copy (repointed); slot 0x0F04E8 is in the link block 0xEFF78-0xFFFFF (never executed, docs/re/debug.md), target mid-string
+0x07417E	stale copy (repointed); link-block slot 0x0F0508, target mid-string
+0x076430	stale copy (repointed); chance word in archive data 0x1C9954, target mid-string
+0x0767E8	stale copy (repointed); link-block slot 0x0F0B30, target mid-string
+0x0E1F04	stale copy of r0e1f04 (real pointer 0x70310 repointed); chance word at 0x0AB028, target mid-string
+0x0F0C1C	link-block twin copy of VRX/shop strings (r0f0b-r0f16, waived in text_unshown.tsv: link code never runs)
+0x0F0F04	link-block twin copy (never executed)
+0x0F10F8	link-block twin copy (never executed)
+0x0F120C	link-block twin copy (never executed)
+0x0F13FC	link-block twin copy (never executed)
+0x0F1504	link-block twin copy (never executed)
+0x0F1510	link-block twin copy (never executed)
+0x0F1614	link-block twin copy (never executed)
+0x750874	old event-file copy in the archive (event files relocated past 8 MiB); chance word in archive data 0x317C68
+0x752FFA	old event-file copy (relocated); chance word in archive data
+0x7536F8	old event-file copy (relocated); chance word in archive data
+0x75FFF0	old event-file copy (relocated); chance word in archive data
+0x760874	old event-file copy (relocated); chance word in archive data
+0x766640	old event-file copy (relocated); chance word in archive data
+0x766674	old event-file copy (relocated); chance word in archive data
+0x76680C	old event-file copy (relocated); chance word in archive data
+0x766FF8	old event-file copy (relocated); chance word in archive data
+0x76FFFC	old event-file copy (relocated); chance word in archive data
+0x77D990	old event-file copy (relocated); chance word in archive data
+0x790868	old event-file copy (relocated); chance word in archive data
+0x7A0878	old event-file copy (relocated); chance word in archive data
+0x7A0884	old event-file copy (relocated); chance word in archive data
+0x7ADF0A	old event-file copy (relocated); chance word in archive data
+0x7C0848	old event-file copy (relocated); chance word in archive data

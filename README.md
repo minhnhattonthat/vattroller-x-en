@@ -1,7 +1,7 @@
-# <Game title> English translation
+# Vattroller X English translation
 
-Unofficial English fan translation of **<Game title>** (<platform>, <publisher>, <year>): the source text and tools
-that build the patch.
+Unofficial English fan translation of **Vattroller X** (Game Boy Advance, Bandai, 2004; developed by Ganbarion): the
+source text and tools that build the patch.
 
 **Just want to play?** Download the patch from [Releases](../../releases) and follow its README. This repository holds
 no game data you can play; you need your own dump of the Japanese game.
@@ -13,13 +13,27 @@ helps most.
 
 | Part | Status |
 |---|---|
-| <Dialogue / story> | <Translated> |
-| <Menus, items, skills, system messages> | <Translated> |
-| <Title screen, logos, graphics with text> | <Translated / Left in Japanese> |
-| <Name entry> | <Translated / Japanese kana only> |
-| <Songs, voiced lines, credits roll> | <Left in Japanese> |
+| Story and dialogue (comic mode, RPG mode, side events, town NPCs) | Translated |
+| Menus, items, Arms, Armalets, V Skills, shops, system messages | Translated |
+| Graphics with text (menu labels, help bubbles, world-map labels, signs, book spines, rule cards) | Translated |
+| Name entry | Translated (Latin keyboard pages replace the kana pages) |
+| Credits roll | Translated |
+| Title logo, Ganbarion boot logo | Left in Japanese (logos, no official English version) |
 
-Known issues: <none known / see [Issues](../../issues)>.
+Known issues: link-cable features (multiplayer battles, V Skill trading) are untested; see [Issues](../../issues).
+
+## Base ROM
+
+Apply the patch to `Vattroller X (Japan).gba` (No-Intro name), 8388608 bytes:
+
+| Hash | Value |
+|---|---|
+| CRC32 | `E368A67A` |
+| MD5 | `ac4f3b73a920ddaabc9f9e003c92e02b` |
+| SHA-1 | `035ae457c23d564ad97392572ab8a422abfce96e` |
+
+The patch is BPS (Flips, beat or RomPatcher.js). The patched ROM is larger than 16 MiB, which is expected; the patched
+CRC32 is in the release README. Tested in MesenCE 2.2.1. Start from a cold boot, not from an old savestate.
 
 ## What's here
 
@@ -40,11 +54,11 @@ Known issues: <none known / see [Issues](../../issues)>.
 Needs Python 3.12+ and your own dump of the Japanese game.
 
 ```sh
-git clone https://github.com/minhnhattonthat/<repo>
-cd <repo>
-# copy your dump to: rom/<file>
-#   (<size> bytes, SHA-1 <sha1>; the build refuses any other dump, see rom.sha1)
-python -X utf8 tools/build.py                          # -> build/<game>_en.<ext>
+git clone https://github.com/minhnhattonthat/vattroller-x-en
+cd vattroller-x-en
+# copy your dump to: rom/Vattroller X (Japan).gba
+#   (8388608 bytes, SHA-1 035ae457c23d564ad97392572ab8a422abfce96e; the build refuses any other dump, see rom.sha1)
+python -X utf8 tools/build.py                          # -> build/vattroller_x_en.gba
 python -X utf8 tools/check.py                          # tests + text lint
 ```
 
@@ -56,8 +70,8 @@ If you enjoy this translation, you can support my work on Ko-fi:
 
 ## Licence
 
-Tools and English translation: MIT. The original Japanese text in `script/` is <publisher>'s and is included only so
-the translation can be checked against it. <Game title> is (c) <publisher>; this project is not affiliated with them.
-Do not share patched ROMs.
+Tools and English translation: MIT. The original Japanese text in `script/` is Bandai's and is included only so the
+translation can be checked against it. Vattroller X is (c) Bandai / Ganbarion / Tenya Yabuno; this project is not
+affiliated with them. Do not share patched ROMs.
 
 The translation was made with extensive AI assistance (Claude by Anthropic). Corrections are very welcome.
