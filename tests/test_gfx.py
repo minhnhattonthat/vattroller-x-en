@@ -23,6 +23,49 @@ def test_446_changes_only_label_tiles():
     assert changed and changed <= allowed
 
 
+def test_credit_outline_rule_reproduces_original():
+    px = gfx.credit_px(archive.Archive().file(gfx.SHEET_452))
+    assert gfx.credit_outline([[c == 1 for c in row] for row in px]) == px
+
+
+def test_452_changes_only_credit_tiles_and_drops_kana():
+    ar = archive.Archive()
+    orig, new = ar.file(gfx.SHEET_452), gfx.files(ar)[gfx.SHEET_452]
+    assert len(new) == len(orig)
+    allowed = {f + k for f in gfx.CREDIT_ROWS for k in range(gfx.CREDIT_TILES)}
+    changed = {i // 32 for i in range(len(orig)) if orig[i] != new[i]}
+    assert changed and changed <= allowed
+    ink = lambda px: sum(c == 1 for row in px for c in row)  # noqa: E731
+    letters = sum(r.count("#") for ch in gfx.CREDIT_TEXT if ch != " " for r in gfx.CREDIT_GLYPHS[ch])
+    keep = sum(1 for row in gfx.credit_px(orig) for lo, hi in gfx.CREDIT_KEEP for c in row[lo:hi] if c == 1)
+    assert ink(gfx.credit_px(new)) == keep + letters
+
+
+def test_433_changes_only_the_death_roll_spine():
+    ar = archive.Archive()
+    orig, new = ar.file(gfx.SHEET_433), gfx.files(ar)[gfx.SHEET_433]
+    assert len(new) == len(orig)
+    first = gfx.SPINE_FIRST
+    changed = {i // 32 for i in range(len(orig)) if orig[i] != new[i]}
+    assert changed and changed <= set(range(first, first + gfx.SPINE_W * gfx.SPINE_H))
+    a, b = gfx.spine_px(orig), gfx.spine_px(new)
+    assert a[:gfx.SPINE_ROWS[0]] == b[:gfx.SPINE_ROWS[0]] and a[gfx.SPINE_ROWS[1]:] == b[gfx.SPINE_ROWS[1]:]
+
+
+def test_signs_change_only_their_tiles_inside_the_box():
+    ar = archive.Archive()
+    new = gfx.files(ar)
+    for s in gfx.SIGNS:
+        orig = ar.file(s["file"])
+        tiles = {n for row in s["grid"] for n in row}
+        changed = {i // 32 for i in range(len(orig)) if orig[i] != new[s["file"]][i]}
+        assert changed and changed <= tiles, s["text"]
+        a, b = gfx.sign_px(orig, s["grid"]), gfx.sign_px(new[s["file"]], s["grid"])
+        x0, y0, x1, y1 = s["box"]
+        assert all(a[y][x] == b[y][x] for y in range(len(a)) for x in range(len(a[0]))
+                   if not (x0 <= x < x1 and y0 <= y < y1)), s["text"]
+
+
 def test_labels_keep_their_arrow():
     ar = archive.Archive()
     orig, new = ar.file(gfx.SHEET), gfx.files(ar)[gfx.SHEET]

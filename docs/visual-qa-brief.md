@@ -38,7 +38,11 @@ Standing non-bugs, `ok` (the controller adds the game's own below):
 - Song lines end in "~" instead of a note symbol (style rule).
 - The Ganbarion boot logo (the developer's trademark, katakana ガンバリオン) and the title logo with its katakana
   subtitle バトローラーエックス stay as they are (D5: no official English logo). The title's *credit line* below
-  "PRESS START" is NOT part of the logo: Japanese there is an issue.
+  "PRESS START" is NOT part of the logo: Japanese there is an issue (now "Created by Tenya Yabuno, Ganbarion /
+  © BANDAI 2004").
+- Bookshelf: the small katakana series-logo stack at the top of each comic spine (バトロラ) and the Ⓥ バトローラーX
+  stack on the grey RPG save books are the series logo, kept (D14). The red Death Roll spine reads "DEATH ROLL"
+  (turned sideways); Japanese on it is an issue.
 - Every warp boots through the logos, title and bookshelf, so these frames repeat on many sheets: judge them the
   same way each time.
 
