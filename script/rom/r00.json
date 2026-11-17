@@ -3025,7 +3025,7 @@
   "id": "r005310",
   "kind": "string",
   "jp": "しつもん大好き",
-  "en": "Loves asking",
+  "en": "Inquisitive",
   "status": "done",
   "ptrs": [
    "0x1b00"
@@ -3091,7 +3091,7 @@
   "id": "r005364",
   "kind": "string",
   "jp": "かくとうぎを",
-  "en": "Martial-arts",
+  "en": "He sought",
   "status": "done",
   "ptrs": [
    "0x1b58"
@@ -3102,7 +3102,7 @@
   "id": "r005374",
   "kind": "string",
   "jp": "きわめるつもりが",
-  "en": "fan, now a",
+  "en": "martial mastery,",
   "status": "done",
   "ptrs": [
    "0x1b5c"
@@ -3113,7 +3113,7 @@
   "id": "r005388",
   "kind": "string",
   "jp": "バトローラーに",
-  "en": "Vattroller",
+  "en": "but became a",
   "status": "done",
   "ptrs": [
    "0x1b60"
@@ -3124,7 +3124,7 @@
   "id": "r005398",
   "kind": "string",
   "jp": "めざめてしまった",
-  "en": "born anew!",
+  "en": "Vattroller!",
   "status": "done",
   "ptrs": [
    "0x1b64"
@@ -3894,7 +3894,7 @@
   "id": "r0057b0",
   "kind": "string",
   "jp": "ぼくめつ委員会",
-  "en": "Patrol's",
+  "en": "Patrol acting",
   "status": "done",
   "ptrs": [
    "0x1f7c"
@@ -3905,7 +3905,7 @@
   "id": "r0057c0",
   "kind": "string",
   "jp": "委員長代理",
-  "en": "vice-chief",
+  "en": "chief.",
   "status": "done",
   "ptrs": [
    "0x1f80"
@@ -8724,7 +8724,7 @@
   "id": "r008f08",
   "kind": "string",
   "jp": "球スピードＵＰ",
-  "en": "faster ball",
+  "en": "ball speed UP",
   "status": "done",
   "ptrs": [
    "0x79b0"
@@ -9604,7 +9604,7 @@
   "id": "r0093e4",
   "kind": "string",
   "jp": "ロールこうげきを",
-  "en": "HP & Roll atk",
+  "en": "HP & Roll attack",
   "status": "done",
   "ptrs": [
    "0x7c34"
@@ -9659,7 +9659,7 @@
   "id": "r00942c",
   "kind": "string",
   "jp": "ロールこうげきを",
-  "en": "AP & Roll atk",
+  "en": "AP & Roll attack",
   "status": "done",
   "ptrs": [
    "0x7c5c"
@@ -9736,7 +9736,7 @@
   "id": "r00949c",
   "kind": "string",
   "jp": "こんき",
-  "en": "Pluck",
+  "en": "Grit",
   "status": "done",
   "ptrs": [
    "0x7ca0"
@@ -9747,7 +9747,7 @@
   "id": "r0094a4",
   "kind": "string",
   "jp": "こんきのある心は",
-  "en": "A plucky mind",
+  "en": "A tenacious mind",
   "status": "done",
   "ptrs": [
    "0x7ca4"
@@ -10286,7 +10286,7 @@
   "id": "r0097c4",
   "kind": "string",
   "jp": "球Ａこうげきが",
-  "en": "ball aura atk",
+  "en": "ball aura attack",
   "status": "done",
   "ptrs": [
    "0x7e18"
@@ -10396,7 +10396,7 @@
   "id": "r009868",
   "kind": "string",
   "jp": "球こうげきＵＰ",
-  "en": "ball atk UP",
+  "en": "ball attack UP",
   "status": "done",
   "ptrs": [
    "0x7e60"
@@ -10462,7 +10462,7 @@
   "id": "r0098d0",
   "kind": "string",
   "jp": "球ＡこうげきＵＰ",
-  "en": "ball aura UP",
+  "en": "ball aura attack",
   "status": "done",
   "ptrs": [
    "0x7e88"
@@ -10473,7 +10473,7 @@
   "id": "r0098e4",
   "kind": "string",
   "jp": "ダメに見えすぎて",
-  "en": "fakes too well,",
+  "en": "UP. Overplayed,",
   "status": "done",
   "ptrs": [
    "0x7e8c"
@@ -10484,7 +10484,7 @@
   "id": "r0098f8",
   "kind": "string",
   "jp": "人Ａこうげきが",
-  "en": "body aura atk",
+  "en": "body aura attack",
   "status": "done",
   "ptrs": [
    "0x7e90"
@@ -10528,7 +10528,7 @@
   "id": "r009938",
   "kind": "string",
   "jp": "球スピードＵＰ",
-  "en": "ball spd UP",
+  "en": "ball speed UP",
   "status": "done",
   "ptrs": [
    "0x7eb0"
@@ -10671,7 +10671,7 @@
   "id": "r009a00",
   "kind": "string",
   "jp": "ふっきだ",
-  "en": "via HR",
+  "en": "from HR",
   "status": "done",
   "ptrs": [
    "0x7f04"
@@ -11001,7 +11001,7 @@
   "id": "r009bcc",
   "kind": "string",
   "jp": "ロールこうげきを",
-  "en": "HP & Roll atk",
+  "en": "HP & Roll attack",
   "status": "done",
   "ptrs": [
    "0x7fcc"
@@ -11067,7 +11067,7 @@
   "id": "r009c30",
   "kind": "string",
   "jp": "ロールこうげきを",
-  "en": "AP & Roll atk",
+  "en": "AP & Roll attack",
   "status": "done",
   "ptrs": [
    "0x7ff4"
@@ -16171,7 +16171,7 @@
   "id": "r00e1d8",
   "kind": "string",
   "jp": "グローブデパート１Ｆ",
-  "en": "Globe Dept. 1F",
+  "en": "Globe Store 1F",
   "status": "done",
   "ptrs": [
    "0xbec8"
@@ -16182,7 +16182,7 @@
   "id": "r00e1f0",
   "kind": "string",
   "jp": "グローブデパート２Ｆ",
-  "en": "Globe Dept. 2F",
+  "en": "Globe Store 2F",
   "status": "done",
   "ptrs": [
    "0xbef0"
@@ -16193,7 +16193,7 @@
   "id": "r00e208",
   "kind": "string",
   "jp": "グローブデパート３Ｆ",
-  "en": "Globe Dept. 3F",
+  "en": "Globe Store 3F",
   "status": "done",
   "ptrs": [
    "0xbf18"
@@ -16226,7 +16226,7 @@
   "id": "r00e23c",
   "kind": "string",
   "jp": "社長室",
-  "en": "CEO",
+  "en": "President's Office",
   "status": "done",
   "ptrs": [
    "0xbf90"
@@ -16930,7 +16930,7 @@
   "id": "r00e508",
   "kind": "string",
   "jp": "教室１－１",
-  "en": "Rm 1-1",
+  "en": "Classroom 1-1",
   "status": "done",
   "ptrs": [
    "0xc990"
@@ -16941,7 +16941,7 @@
   "id": "r00e514",
   "kind": "string",
   "jp": "教室２－１",
-  "en": "Rm 2-1",
+  "en": "Classroom 2-1",
   "status": "done",
   "ptrs": [
    "0xc9b8"
@@ -16952,7 +16952,7 @@
   "id": "r00e520",
   "kind": "string",
   "jp": "教室２－２",
-  "en": "Rm 2-2",
+  "en": "Classroom 2-2",
   "status": "done",
   "ptrs": [
    "0xc9e0"
@@ -16963,7 +16963,7 @@
   "id": "r00e52c",
   "kind": "string",
   "jp": "教室３－１",
-  "en": "Rm 3-1",
+  "en": "Classroom 3-1",
   "status": "done",
   "ptrs": [
    "0xca08"
@@ -16974,7 +16974,7 @@
   "id": "r00e538",
   "kind": "string",
   "jp": "教室３－２",
-  "en": "Rm 3-2",
+  "en": "Classroom 3-2",
   "status": "done",
   "ptrs": [
    "0xca30"
@@ -16985,7 +16985,7 @@
   "id": "r00e544",
   "kind": "string",
   "jp": "せいと会室",
-  "en": "Council Rm",
+  "en": "Student Council",
   "status": "done",
   "ptrs": [
    "0xca58"
@@ -17106,7 +17106,7 @@
   "id": "r00e5b4",
   "kind": "string",
   "jp": "教室１－Ａ",
-  "en": "Rm 1-A",
+  "en": "Classroom 1-A",
   "status": "done",
   "ptrs": [
    "0xcc10"
@@ -17117,7 +17117,7 @@
   "id": "r00e5c0",
   "kind": "string",
   "jp": "教室２－Ａ",
-  "en": "Rm 2-A",
+  "en": "Classroom 2-A",
   "status": "done",
   "ptrs": [
    "0xcc38"
@@ -17128,7 +17128,7 @@
   "id": "r00e5cc",
   "kind": "string",
   "jp": "教室２－Ｂ",
-  "en": "Rm 2-B",
+  "en": "Classroom 2-B",
   "status": "done",
   "ptrs": [
    "0xcc60"
@@ -17139,7 +17139,7 @@
   "id": "r00e5d8",
   "kind": "string",
   "jp": "教室３－Ａ",
-  "en": "Rm 3-A",
+  "en": "Classroom 3-A",
   "status": "done",
   "ptrs": [
    "0xcc88"
@@ -17183,7 +17183,7 @@
   "id": "r00e604",
   "kind": "string",
   "jp": "せいとかい室",
-  "en": "Council Rm",
+  "en": "Student Council",
   "status": "done",
   "ptrs": [
    "0xcd28"
@@ -17359,7 +17359,7 @@
   "id": "r00e6f8",
   "kind": "string",
   "jp": "社長室",
-  "en": "CEO",
+  "en": "President's Office",
   "status": "done",
   "ptrs": [
    "0xcfa8"
@@ -17370,7 +17370,7 @@
   "id": "r00e700",
   "kind": "string",
   "jp": "社長室",
-  "en": "CEO",
+  "en": "President's Office",
   "status": "done",
   "ptrs": [
    "0xcfd0"
@@ -17392,7 +17392,7 @@
   "id": "r00e718",
   "kind": "string",
   "jp": "かっとび中",
-  "en": "Katsutobi",
+  "en": "Katsutobi Middle",
   "status": "done",
   "ptrs": [
    "0xd020"
@@ -17491,7 +17491,7 @@
   "id": "r00e7a0",
   "kind": "string",
   "jp": "まんまる中部室",
-  "en": "Mamaru Club",
+  "en": "Mamaru Middle Club",
   "status": "done",
   "ptrs": [
    "0xd188"
@@ -17557,7 +17557,7 @@
   "id": "r00e7f0",
   "kind": "string",
   "jp": "社長室",
-  "en": "CEO",
+  "en": "President's Office",
   "status": "done",
   "ptrs": [
    "0xd278"

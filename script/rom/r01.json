@@ -619,7 +619,7 @@
   "id": "r01304c",
   "kind": "string",
   "jp": "キュウビノタチ",
-  "en": "Kyubi Tachi",
+  "en": "Kyubi no Tachi",
   "status": "done",
   "ptrs": [
    "0xf3e0"
@@ -3083,7 +3083,7 @@
   "id": "r013ebc",
   "kind": "string",
   "jp": "Ａこうげきが高く",
-  "en": "High aura atk,",
+  "en": "High aura attack",
   "status": "done",
   "ptrs": [
    "0x10e24"
@@ -3094,7 +3094,7 @@
   "id": "r013ed0",
   "kind": "string",
   "jp": "オーラもうてる",
-  "en": "shoots aura:",
+  "en": "and shoots aura:",
   "status": "done",
   "ptrs": [
    "0x10e28"
@@ -4448,7 +4448,7 @@
   "id": "r014704",
   "kind": "string",
   "jp": "ロールをはじく",
-  "en": "Bats Rolls,",
+  "en": "New Bounder:",
   "status": "done",
   "ptrs": [
    "0x11cac"
@@ -4459,7 +4459,7 @@
   "id": "r014714",
   "kind": "string",
   "jp": "タマをうつ新がた",
-  "en": "fires shots: new",
+  "en": "fires balls to",
   "status": "done",
   "ptrs": [
    "0x11cb0"
@@ -4470,7 +4470,7 @@
   "id": "r014728",
   "kind": "string",
   "jp": "のバウンダー",
-  "en": "Bounder",
+  "en": "repel Rolls",
   "status": "done",
   "ptrs": [
    "0x11cb4"
@@ -4492,7 +4492,7 @@
   "id": "r014748",
   "kind": "string",
   "jp": "Ａこうげきが",
-  "en": "Very high",
+  "en": "Very high aura",
   "status": "done",
   "ptrs": [
    "0x11d24"
@@ -4503,7 +4503,7 @@
   "id": "r014758",
   "kind": "string",
   "jp": "とても高い",
-  "en": "aura atk",
+  "en": "attack",
   "status": "done",
   "ptrs": [
    "0x11d28"
@@ -4811,7 +4811,7 @@
   "id": "r014924",
   "kind": "string",
   "jp": "ひでんの書",
-  "en": "secrets;",
+  "en": "secret book;",
   "status": "done",
   "ptrs": [
    "0x12070"
@@ -10741,7 +10741,7 @@
   "id": "r017650",
   "kind": "string",
   "jp": "ホロウＳ",
-  "en": "Void S",
+  "en": "Hollow S",
   "status": "done",
   "ptrs": [
    "0x16700"
@@ -10840,7 +10840,7 @@
   "id": "r0176dc",
   "kind": "string",
   "jp": "ホロウＨ",
-  "en": "Void H",
+  "en": "Hollow H",
   "status": "done",
   "ptrs": [
    "0x16738"
@@ -11225,7 +11225,7 @@
   "id": "r0178e4",
   "kind": "string",
   "jp": "シェル",
-  "en": "Hull",
+  "en": "Shell",
   "status": "done",
   "ptrs": [
    "0x16814"
@@ -11324,7 +11324,7 @@
   "id": "r017964",
   "kind": "string",
   "jp": "シェルＳ",
-  "en": "Hull S",
+  "en": "Shell S",
   "status": "done",
   "ptrs": [
    "0x1684c"
@@ -11423,7 +11423,7 @@
   "id": "r0179e8",
   "kind": "string",
   "jp": "シェルＨ",
-  "en": "Hull H",
+  "en": "Shell H",
   "status": "done",
   "ptrs": [
    "0x16884"

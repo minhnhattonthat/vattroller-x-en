@@ -110,6 +110,14 @@ def main():
           f"{len(log)} writes, {'identical to' if same else 'differs from'} the original")
     if identity and not same:
         sys.exit(1)
+    if not identity:
+        import romcheck
+        errs = romcheck.verify(rom, out, log)
+        for e in errs[:60]:
+            print(e)
+        print(f"romcheck: {len(errs)} errors (every changed byte logged, no overlaps, writers in their regions)")
+        if errs:
+            sys.exit(1)
 
 
 if __name__ == "__main__":

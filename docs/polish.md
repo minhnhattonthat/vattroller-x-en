@@ -7,26 +7,29 @@ refuses to run while any line is unticked.
 
 - [x] r009ca4 - "Roll aura atk": "atk" abbreviation (14 px-chars); "Roll aura attack" if the box allows (fixed: "Roll aura attack", sibling budget 96 px)
 - [x] r009cec - "AP & aura atk": "atk" abbreviation; "AP & aura attack" (fixed)
-- [ ] r013ebc - "High aura atk,": "atk" abbreviation; "High aura attack,"
-- [ ] r008f08 - "faster ball" stands in for 球スピードＵＰ "ball speed UP" (12)
+- [x] r013ebc - "High aura atk,": "atk" abbreviation; "High aura attack," (fixed fx21: "High aura attack / and shoots aura:", Arm description sibling 96 px)
+- [x] r008f08 - (fixed fx21: "ball speed UP", V Skill help sibling 96 px) "faster ball" stands in for 球スピードＵＰ "ball speed UP" (12)
 - [x] r00e8a0 - "Katsu Gym" for かっとびジム: "Katsutobi Gym" (11) (fixed; place-table field holds r00e770's 108 px)
 - [x] r00e8cc - "Beach" for だんだ浜 (also r00e8d8 r00e8e4 r00e8f0 r00ea1c): "Dandahama" (8) (fixed)
-- [ ] r00e938 - "Mamaru VR" for まんまる中ＶＲ場 (also r00e958 r00e96c r00ea28 r00ea3c r07b654): "Mamaru Middle VR" (fixed except r07b654, VRX stage list)
+- [x] r00e938 - (r07b654 and the other VRX stage lists fixed in fx21, stage-list sibling 116 px) "Mamaru VR" for まんまる中ＶＲ場 (also r00e958 r00e96c r00ea28 r00ea3c r07b654): "Mamaru Middle VR" (fixed except r07b654, VRX stage list)
 - [x] r00e94c - "Mamaru M." for まんまる中: "Mamaru Middle" (10) (fixed)
 - [x] r00e9f8 - "Tamari" for たまり村: "Tamari Village" (8) (fixed)
 - [x] r00ea90 - "Harukawa" for はるかわ道場 (also r00eb14): "Harukawa Dojo" (12) (fixed)
 - [x] r00e12c - "North Mamaru" / r00e138 "South Mamaru" (also r00ea80 r00eb04): "North Mamaru Town" if it fits (fixed)
-- [ ] r01304c - "Kyubi Tachi" for キュウビノタチ: "Kyubi no Tachi" (13) to match "Ryuen no Tachi"
+- [x] r01304c - (fixed fx21, Arm name sibling 92 px) "Kyubi Tachi" for キュウビノタチ: "Kyubi no Tachi" (13) to match "Ryuen no Tachi"
 - [x] r006720 - "Brawler" for レスラー (also r004fa0 れすらー): "Wrestler" (7) (fixed)
 - [x] r006c5c - "Undef. 1" / r006c80 "Undef. 2" (debug NPC labels): "Undefined 1" (9) (fixed)
 - [x] r076a3c - "VR Ency." for ＶＲじてん: "VR Encyclopedia" (8) (fixed; Key Items list holds r076a28's 92 px)
 - [ ] r076b1c - "Fav. Word" for すきなことば: "Favorite Word" (12)
 - [ ] r076674 - "Beach Seaweed" for 弾打浜のワカメ: "Dandahama Seaweed" (14; glossary waived)
-- [ ] r076684 - "The tower's" for 真丸タワーの: "Mamaru Tower's" (11)
+- [x] r076684 - (fixed fx21, key-item line sibling 96 px) "The tower's" for 真丸タワーの: "Mamaru Tower's" (11)
 - [ ] r076668 - "Tamari's" for 田万里村に (also r0766d4): "Tamari Village"
-- [ ] r07b858 - "Mamaru VR's" / r07b84c "own court" for 真丸中のＶＲ部 / せんようの: "Mamaru Middle VR Club's own court"
-- [ ] r07b6f0 - "Katsutobi VR" for 勝飛中ＶＲ場: "Katsutobi Middle VR"
+- [x] r07b858 - (fixed fx21: "Mamaru Middle / VR Club's own / VR court", shared ＶＲ場 line now "VR court"; copy r0f13ec too) "Mamaru VR's" / r07b84c "own court" for 真丸中のＶＲ部 / せんようの: "Mamaru Middle VR Club's own court"
+- [x] r07b6f0 - (fixed fx21, all four stage lists) "Katsutobi VR" for 勝飛中ＶＲ場: "Katsutobi Middle VR"
 - [x] c075dd8 - credit "Yabuno & Ganbarion" drops the given name of やぶのてんや (Tenya Yabuno): credits are fixed 20-char records (fixed: c075dac "Created by Ganbarion" / c075dd8 "and Tenya Yabuno"; the panel is the left 120 px, the scene fills the right half, so no wider record. Phase 8: look at it in the credits shot)
+- [ ] r077ad4 - default player name ツバサ kept as "Sora" (not "Tsubasa"): the name buffer holds 6 fullwidth cells and the speaker tag 6; "Tsubasa" needs 7. The player renames freely; widening the buffer means moving save data
+- [ ] r00e1d8 r00e1f0 r00e208 - "Globe Store 1F/2F/3F" for グローブデパート (dialogue: "Globe Department Store", 25 chars > the 18-char area label); measure the label in phase 8, use the full name if the box holds it
+- [ ] r00e544 r00e604 - "Student Council" for せいと(かい)室 ("Student Council Room", 20 chars > 18); same label
 - [ ] r0045dc - VRX quote "Vattrolling / is my way!" for きわめるぞ ("I'll master it!"): no 10-char wording found
 
 ## Reviewer Minors (phase 6 reviewer pass, codex, 2026-11-17)
@@ -270,3 +273,7 @@ refuses to run while any line is unticked.
 - [ ] e2608_00fdc - がんばってね ファイト: bare "Fight!"; 'Do your best! You've got this!'
 - [ ] e2644_01450 - やさしくおしえてくれる: 'He's such a patient teacher.'
 - [ ] r004ff8 - おきにいりの: "pet Arm" is odd (12-char row; Arm must stay in r005008); 'His favorite'
+- [ ] e2479_010c0 - むむむむむむっ: "Mmmmmmmmh!" can read as enjoyment; 'Grrrrrr!' (re-review rr2)
+- [ ] e2515_00250 - ん？　なんだ？　てめぇ: "Who are you?" softens it; 'Huh? Who the heck are you?' (rr2)
+- [ ] e2667_00100 - おくがふかいのぉ: stiff; 'have quite a bit of depth, eh...?' (rr2)
+- [ ] e2496_00c3c - その時はオイラが勝たせてもらいますよ: 'Then I'll be the one who wins.' (rr3)

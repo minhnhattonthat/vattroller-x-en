@@ -2120,7 +2120,7 @@
   "id": "r076684",
   "kind": "string",
   "jp": "真丸タワーの",
-  "en": "The tower's",
+  "en": "Mamaru Tower's",
   "status": "done",
   "ptrs": [
    "0xeeab8"
@@ -5398,7 +5398,7 @@
   "id": "r07b140",
   "kind": "string",
   "jp": "ドロップしよう∇",
-  "en": "Drop them all!!",
+  "en": "in time!!",
   "status": "done",
   "ptrs": [
    "0xefbd0"
@@ -5409,7 +5409,7 @@
   "id": "r07b154",
   "kind": "string",
   "jp": "あいてをたくさん",
-  "en": "lots of foes:",
+  "en": "foes as you can",
   "status": "done",
   "ptrs": [
    "0xefbcc"
@@ -5420,7 +5420,7 @@
   "id": "r07b168",
   "kind": "string",
   "jp": "じかんないに",
-  "en": "In the time,",
+  "en": "Drop as many",
   "status": "done",
   "ptrs": [
    "0xefbc8"
@@ -5530,7 +5530,7 @@
   "id": "r07b204",
   "kind": "string",
   "jp": "真丸中ＶＲ場",
-  "en": "Mamaru VR",
+  "en": "Mamaru Middle VR",
   "status": "done",
   "ptrs": [
    "0xefc10"
@@ -5640,7 +5640,7 @@
   "id": "r07b2a4",
   "kind": "string",
   "jp": "勝飛中ＶＲ場",
-  "en": "Katsutobi VR",
+  "en": "Katsutobi Middle VR",
   "status": "done",
   "ptrs": [
    "0xefbe8"
@@ -6245,7 +6245,7 @@
   "id": "r07b654",
   "kind": "string",
   "jp": "真丸中ＶＲ場",
-  "en": "Mamaru VR",
+  "en": "Mamaru Middle VR",
   "status": "done",
   "ptrs": [
    "0xefd84"
@@ -6355,7 +6355,7 @@
   "id": "r07b6f0",
   "kind": "string",
   "jp": "勝飛中ＶＲ場",
-  "en": "Katsutobi VR",
+  "en": "Katsutobi Middle VR",
   "status": "done",
   "ptrs": [
    "0xefd5c"
@@ -6597,7 +6597,7 @@
   "id": "r07b84c",
   "kind": "string",
   "jp": "せんようの",
-  "en": "own court",
+  "en": "VR Club's own",
   "status": "done",
   "ptrs": [
    "0xefe78"
@@ -6608,7 +6608,7 @@
   "id": "r07b858",
   "kind": "string",
   "jp": "真丸中のＶＲ部",
-  "en": "Mamaru VR's",
+  "en": "Mamaru Middle",
   "status": "done",
   "ptrs": [
    "0xefe74"
@@ -6970,7 +6970,7 @@
   "id": "r07ba68",
   "kind": "string",
   "jp": "ＶＲ場",
-  "en": "VR",
+  "en": "VR court",
   "status": "done",
   "ptrs": [
    "0xefdc4",

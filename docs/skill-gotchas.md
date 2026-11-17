@@ -2,6 +2,9 @@
 
 One line per gotcha: the reference file it belongs in, then the fact.
 
+- references/pipeline.md §Checks: `romdiff.py --writes` wants `OFFSET ORIG_HEX NEW_HEX` lines, but a build that logs (start, end, writer) ranges must convert them (orig/new bytes per range) and add its own per-writer region rule; `tools/romcheck.py` here does both and runs inside build.py. Worth shipping as a skill helper.
+- references/translation.md §Review: `codex exec` reviewers of ROM strings flag every width-forced abbreviation; append a note with each line's char limit and the display order of reflowed/interleaved descriptions to the prompt, or they suggest wordings that cannot fit.
+
 - references/setup.md + scripts/fetch_emu.py: `fetch_emu.py gba-bios` 404s; retrobios moved the file to `bios/Nintendo/Game Boy Advance/GBA_bios.rom` (same SHA-1 300c20df...).
 - SKILL.md Step 0: plugin hook did not fire on Windows/Orca; adding the hooks block with `$HOME/.claude/plugins/marketplaces/...` to .claude/settings.json made it live mid-session.
 - references/emulator-qa.md §Hooks: Mesen GBA Lua has `emu.read`/`emu.read16`/`emu.read32`/`emu.write`/`write16`/`write32` but no `read8`/`write8`; GBA registers are `emu.getState()["cpu.r0"]`..`["cpu.r15"]`.

@@ -279,7 +279,7 @@
   "id": "r0f0d98",
   "kind": "string",
   "jp": "真丸中ＶＲ場",
-  "en": "Mamaru VR",
+  "en": "Mamaru Middle VR",
   "status": "done",
   "ptrs": [
    "0xffbf0"
@@ -389,7 +389,7 @@
   "id": "r0f0e38",
   "kind": "string",
   "jp": "勝飛中ＶＲ場",
-  "en": "Katsutobi VR",
+  "en": "Katsutobi Middle VR",
   "status": "done",
   "ptrs": [
    "0xffbc8"
@@ -931,7 +931,7 @@
   "id": "r0f11e8",
   "kind": "string",
   "jp": "真丸中ＶＲ場",
-  "en": "Mamaru VR",
+  "en": "Mamaru Middle VR",
   "status": "done",
   "ptrs": [
    "0xffd64"
@@ -1053,7 +1053,7 @@
   "id": "r0f1284",
   "kind": "string",
   "jp": "勝飛中ＶＲ場",
-  "en": "Katsutobi VR",
+  "en": "Katsutobi Middle VR",
   "status": "done",
   "ptrs": [
    "0xffd3c"
@@ -1295,7 +1295,7 @@
   "id": "r0f13e0",
   "kind": "string",
   "jp": "せんようの",
-  "en": "own court",
+  "en": "VR Club's own",
   "status": "done",
   "ptrs": [
    "0xffe58"
@@ -1306,7 +1306,7 @@
   "id": "r0f13ec",
   "kind": "string",
   "jp": "真丸中のＶＲ部",
-  "en": "Mamaru VR's",
+  "en": "Mamaru Middle",
   "status": "done",
   "ptrs": [
    "0xffe54"
@@ -1692,7 +1692,7 @@
   "id": "r0f15fc",
   "kind": "string",
   "jp": "ＶＲ場",
-  "en": "VR",
+  "en": "VR court",
   "status": "done",
   "ptrs": [
    "0xffda4",
