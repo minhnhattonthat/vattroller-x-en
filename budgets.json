@@ -34,5 +34,11 @@
       "notes": "`\"wide\": true` rows (name-entry grid, default names/words) are written as fullwidth SJIS: English chars <= the row's max. Name: 6 slots, the speaker tag shows 6 fullwidth Ｗ (widest letter) inside its tab (work/qa/nm, tools/lua/setname.lua on the marker build, rpg_start). Favourite word: 4 slots (create_word field). Grid rows: exactly 14 cells. Default phrases (max 8): guess until seen."
     }
   },
-  "ids": {}
+  "ids": {
+    "r00493c": {"unit": "px", "limit": 42, "source": "guess", "notes": "VRX character profile name 'Komachi' (JP 36 px); measure the profile panel in phase 8"},
+    "r0051b8": {"unit": "px", "limit": 42, "source": "guess", "notes": "VRX character profile name 'Shinano' (JP 36 px); measure the profile panel in phase 8"},
+    "r0056d8": {"unit": "px", "limit": 54, "source": "guess", "notes": "VRX character profile name 'Degarashi' (JP 48 px); measure the profile panel in phase 8"},
+    "r005aa8": {"unit": "px", "limit": 42, "source": "guess", "notes": "VRX character profile name 'Musashi' (JP 36 px); measure the profile panel in phase 8"},
+    "r004954": {"unit": "px", "limit": 66, "source": "guess", "notes": "VRX character profile line 'Katsutobi's' (JP 48 px); measure the profile panel in phase 8"}
+  }
 }

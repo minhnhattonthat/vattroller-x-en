@@ -146,6 +146,8 @@ def problems(entry, en, terms):
         out.append(f"unencodable characters {bad}")
     if re.search(r"\\u[0-9a-fA-F]{4}", en) or "\t" in en:
         out.append("escape sequence or tab in the English")
+    if entry.get("kind") == "credit":  # [FA][E3] = an IBM-extension kanji (桒 of 桒原) the dump keeps raw
+        jp = re.sub(r"\[(?:8[1-9A-F]|9[0-9A-F]|E[0-9A-F]|F[0-9A-C])\]\[[4-9A-F][0-9A-F]\]", "", jp)
     want = Counter(t for t in TOKEN.findall(jp) if t not in FREE)
     have = Counter(t for t in TOKEN.findall(en) if t not in FREE)
     if want != have:
