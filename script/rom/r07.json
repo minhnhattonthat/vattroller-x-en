@@ -5957,14 +5957,14 @@
  },
  {
   "id": "r07b44c",
-  "kind": "string",
+  "kind": "data",
   "jp": "　　０Ｐ",
   "en": "   0P",
   "status": "done",
   "ptrs": [
    "0x686c8"
   ],
-  "notes": ""
+  "notes": "battle-result score '　　０Ｐ': drawn by the big-digit blitter with the ０-９ table, an ASCII pair glyph there is garbage (tour: help_armalet scoreboard 'P' drawn as junk), keep as is"
  },
  {
   "id": "r07b458",
@@ -5990,14 +5990,14 @@
  },
  {
   "id": "r07b480",
-  "kind": "string",
+  "kind": "data",
   "jp": "Ｐ",
   "en": "P",
   "status": "done",
   "ptrs": [
    "0x68ba0"
   ],
-  "notes": ""
+  "notes": "'Ｐ' after each battle-result score, same blitter as r07b44c, keep as is"
  },
  {
   "id": "r07b484",

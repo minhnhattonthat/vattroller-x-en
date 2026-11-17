@@ -183,6 +183,11 @@ DATA = [
     (0x077718, 0x077878, "name-entry grid kana rows: the grid picture is still the Japanese graphic, so the codes stay kana "
                          "until an English grid is drawn (the Latin rows r077878- are translated as wide rows)"),
     (0x07791C, 0x077A64, "dakuten/handakuten lookup tables of the name entry (カガ, ハバパ...): code, keep as is"),
+    (0x07B44C, 0x07B454, "battle-result score '　　０Ｐ': drawn by the big-digit blitter with the ０-９ table, an ASCII "
+                         "pair glyph there is garbage (tour: help_armalet scoreboard 'P' drawn as junk), keep as is"),
+    (0x07B480, 0x07B482, "'Ｐ' after each battle-result score, same blitter as r07b44c, keep as is"),
+    (0x0F0FE0, 0x0F0FE8, "no-pointer copy of r07b44c (score '　　０Ｐ', big-digit blitter), keep as is"),
+    (0x0F1014, 0x0F1016, "no-pointer copy of r07b480 (score 'Ｐ', big-digit blitter), keep as is"),
 ] + [(a, a + 12, "V Shop password (ＪｉｎＳＷＤ...): compared with what the player types in the fullwidth entry "
                  "grid, keep the SJIS bytes")
      for a in (0x01D8F0, 0x01D934, 0x01D97C, 0x01D9C0, 0x01DA04, 0x01DA4C, 0x01DA94, 0x01DAD8, 0x01DB20, 0x01DB64,
@@ -251,7 +256,12 @@ def credit_entries(d):
 
 
 def noptr_entries(d):
-    return [(f"n{o:06x}", "noptr", cstr(d, o), {"max": len(cstr(d, o))}) for o in NOPTR]
+    out = []
+    for o in NOPTR:
+        why = data_reason(o)
+        extra = {"notes": why} if why else {"max": len(cstr(d, o))}
+        out.append((f"n{o:06x}", "data" if why else "noptr", cstr(d, o), extra))
+    return out
 
 
 # ---------------------------------------------------------------- files

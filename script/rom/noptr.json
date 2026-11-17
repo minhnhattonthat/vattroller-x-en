@@ -37,12 +37,11 @@
  },
  {
   "id": "n0f0fe0",
-  "kind": "noptr",
+  "kind": "data",
   "jp": "　　０Ｐ",
-  "en": "   0P",
-  "status": "done",
-  "max": 8,
-  "notes": ""
+  "en": "",
+  "status": "data",
+  "notes": "no-pointer copy of r07b44c (score '　　０Ｐ', big-digit blitter), keep as is"
  },
  {
   "id": "n0f0fec",
@@ -64,12 +63,11 @@
  },
  {
   "id": "n0f1014",
-  "kind": "noptr",
+  "kind": "data",
   "jp": "Ｐ",
-  "en": "P",
-  "status": "done",
-  "max": 2,
-  "notes": ""
+  "en": "",
+  "status": "data",
+  "notes": "no-pointer copy of r07b480 (score 'Ｐ', big-digit blitter), keep as is"
  },
  {
   "id": "n0f1018",
