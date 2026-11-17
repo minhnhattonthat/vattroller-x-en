@@ -34,6 +34,11 @@ Standing non-bugs, `ok` (the controller adds the game's own below):
   are the engine, not a bug. Speaker tags and small headers ("Which?") use an even smaller 3 px font.
 - The player's name is fullwidth (wider letters) in tags and dialogue: by design (6-cell name buffer, D10).
 - Song lines end in "~" instead of a note symbol (style rule).
+- The Ganbarion boot logo (the developer's trademark, katakana ガンバリオン) and the title logo with its katakana
+  subtitle バトローラーエックス stay as they are (D5: no official English logo). The title's *credit line* below
+  "PRESS START" is NOT part of the logo: Japanese there is an issue.
+- Every warp boots through the logos, title and bookshelf, so these frames repeat on many sheets: judge them the
+  same way each time.
 
 ## Verdicts
 Write your verdict file once you have read every sheet, one line per id in the chunk:
