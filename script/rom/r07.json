@@ -4472,7 +4472,7 @@
   ],
   "wide": true,
   "max": 8,
-  "notes": "default phrase in the names/words table: fullwidth; 8 = JP length, a guess until seen"
+  "notes": "default win quote (lists 5/6): fullwidth; max 8 = win-quote entry field (ROM 0x77C8C[4], entry mode 4)"
  },
  {
   "id": "r077afc",
@@ -4485,7 +4485,7 @@
   ],
   "wide": true,
   "max": 8,
-  "notes": "default phrase in the names/words table: fullwidth; 8 = JP length, a guess until seen"
+  "notes": "default win quote (lists 5/6): fullwidth; max 8 = win-quote entry field (ROM 0x77C8C[4], entry mode 4)"
  },
  {
   "id": "r077b10",
@@ -4498,7 +4498,7 @@
   ],
   "wide": true,
   "max": 8,
-  "notes": "default phrase in the names/words table: fullwidth; 8 = JP length, a guess until seen"
+  "notes": "default win quote (lists 5/6): fullwidth; max 8 = win-quote entry field (ROM 0x77C8C[4], entry mode 4)"
  },
  {
   "id": "r077b18",
@@ -4511,7 +4511,7 @@
   ],
   "wide": true,
   "max": 8,
-  "notes": "default phrase in the names/words table: fullwidth; 8 = JP length, a guess until seen"
+  "notes": "default win quote (lists 5/6): fullwidth; max 8 = win-quote entry field (ROM 0x77C8C[4], entry mode 4)"
  },
  {
   "id": "r077b24",
@@ -4524,7 +4524,7 @@
   ],
   "wide": true,
   "max": 8,
-  "notes": "default phrase in the names/words table: fullwidth; 8 = JP length, a guess until seen"
+  "notes": "default win quote (lists 5/6): fullwidth; max 8 = win-quote entry field (ROM 0x77C8C[4], entry mode 4)"
  },
  {
   "id": "r077b30",
@@ -4536,8 +4536,8 @@
    "0xeeda4"
   ],
   "wide": true,
-  "max": 8,
-  "notes": "default phrase in the names/words table: fullwidth; 8 = JP length, a guess until seen"
+  "max": 6,
+  "notes": "default greeting (list 3): fullwidth; max 6 = greeting entry field (ROM 0x77C8C[3], entry mode 3)"
  },
  {
   "id": "r077b38",
@@ -4549,21 +4549,21 @@
    "0xeeda0"
   ],
   "wide": true,
-  "max": 8,
-  "notes": "default phrase in the names/words table: fullwidth; 8 = JP length, a guess until seen"
+  "max": 6,
+  "notes": "default greeting (list 3): fullwidth; max 6 = greeting entry field (ROM 0x77C8C[3], entry mode 3)"
  },
  {
   "id": "r077b40",
   "kind": "string",
   "jp": "げんき？",
-  "en": "You OK?",
+  "en": "Howdy!",
   "status": "done",
   "ptrs": [
    "0xeed9c"
   ],
   "wide": true,
-  "max": 8,
-  "notes": "default phrase in the names/words table: fullwidth; 8 = JP length, a guess until seen"
+  "max": 6,
+  "notes": "default greeting (list 3): fullwidth; max 6 = greeting entry field (ROM 0x77C8C[3], entry mode 3); was 'You OK?' (7)"
  },
  {
   "id": "r077b4c",
@@ -4575,8 +4575,8 @@
    "0xeed98"
   ],
   "wide": true,
-  "max": 8,
-  "notes": "default phrase in the names/words table: fullwidth; 8 = JP length, a guess until seen"
+  "max": 6,
+  "notes": "default greeting (list 3): fullwidth; max 6 = greeting entry field (ROM 0x77C8C[3], entry mode 3)"
  },
  {
   "id": "r077b54",
@@ -4590,8 +4590,8 @@
    "0xeeddc"
   ],
   "wide": true,
-  "max": 8,
-  "notes": "default phrase in the names/words table: fullwidth; 8 = JP length, a guess until seen"
+  "max": 6,
+  "notes": "default greeting (lists 3 and 4): fullwidth; max 6 = greeting entry field (ROM 0x77C8C[3], entry mode 3)"
  },
  {
   "id": "r077b60",
@@ -4708,7 +4708,7 @@
   ],
   "wide": true,
   "max": 8,
-  "notes": "default phrase in the names/words table: fullwidth; 8 = JP length, a guess until seen"
+  "notes": "default win quote (lists 5/6): fullwidth; max 8 = win-quote entry field (ROM 0x77C8C[4], entry mode 4)"
  },
  {
   "id": "r077bb4",
@@ -4721,7 +4721,7 @@
   ],
   "wide": true,
   "max": 8,
-  "notes": "default phrase in the names/words table: fullwidth; 8 = JP length, a guess until seen"
+  "notes": "default win quote (lists 5/6): fullwidth; max 8 = win-quote entry field (ROM 0x77C8C[4], entry mode 4)"
  },
  {
   "id": "r077bc4",
@@ -4734,20 +4734,20 @@
   ],
   "wide": true,
   "max": 8,
-  "notes": "default phrase in the names/words table: fullwidth; 8 = JP length, a guess until seen"
+  "notes": "default win quote (lists 5/6): fullwidth; max 8 = win-quote entry field (ROM 0x77C8C[4], entry mode 4)"
  },
  {
   "id": "r077bd0",
   "kind": "string",
   "jp": "やっほ！",
-  "en": "Yoo-hoo",
+  "en": "Hiya!",
   "status": "done",
   "ptrs": [
    "0xeedd8"
   ],
   "wide": true,
-  "max": 8,
-  "notes": "default phrase in the names/words table: fullwidth; 8 = JP length, a guess until seen"
+  "max": 6,
+  "notes": "default greeting (list 4): fullwidth; max 6 = greeting entry field (ROM 0x77C8C[3], entry mode 3); was 'Yoo-hoo' (7)"
  },
  {
   "id": "r077bdc",

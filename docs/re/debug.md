@@ -384,6 +384,11 @@ needs its arg meaning, scenes and id sweeps (next worker).
 - **Book prompt "Name:"** (r0780fc): the slot panel of the RPG book prompt prints "Name:" only with a save:
   `prompt_rpg` + REGSET `{{0x08055602,0,1},{0x080559F4,0,1},{0x0805564E,0,1}}` (`prompt_name2`; name field
   empty because the save is faked).
+- **r076ad8 "Is this OK?"** (28th worker): the table 0x0200B4C8 is pairs per page of the two-page manager
+  `*0x03003560` (init 0x08042220, called only from the mode switch for **game mode 12**; byte +4 = page, L/R
+  switch pages; 0x0200B4D8[page] = page init, 0x0200B4E0[page] = page tick). Page 1 (blue panel) init is
+  `0x0804568C`. `warp.py md12ok --set mode=12 --set mode_arg=0 --set "post=200 -;6 r;600 -"` + setbytes
+  `PTR=0x03005004 OFF=0xF SB_N=1 VAL=1 FROM=900 UNTIL=900` = "Is this OK?" + Sure/No over "Box 2" (`md12ok`), fits.
 - Waived (docs/text_unshown.tsv): r07b2dc "Gravity" (floor type 7; stage records ROM 0x7AEAC, 20 x 12 bytes,
   byte 3 = floor 0-6, read by `0x08066D20`) and r07812c "OK to delete this character?" (slot +8 of 0x0200BFEC,
   never read; the data-delete step table 0x0200BFDC stops at step 3, 0x0805490E).
