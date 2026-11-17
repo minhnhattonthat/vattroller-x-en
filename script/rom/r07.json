@@ -2098,7 +2098,7 @@
   "id": "r076668",
   "kind": "string",
   "jp": "田万里村に",
-  "en": "Tamari's",
+  "en": "Tamari Village's",
   "status": "done",
   "ptrs": [
    "0xeeac0"
@@ -2175,7 +2175,7 @@
   "id": "r0766d4",
   "kind": "string",
   "jp": "田万里村の",
-  "en": "Tamari's",
+  "en": "Tamari Village's",
   "status": "done",
   "ptrs": [
    "0xeeaa4"

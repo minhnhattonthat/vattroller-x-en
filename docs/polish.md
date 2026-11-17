@@ -20,10 +20,10 @@ refuses to run while any line is unticked.
 - [x] r006720 - "Brawler" for レスラー (also r004fa0 れすらー): "Wrestler" (7) (fixed)
 - [x] r006c5c - "Undef. 1" / r006c80 "Undef. 2" (debug NPC labels): "Undefined 1" (9) (fixed)
 - [x] r076a3c - "VR Ency." for ＶＲじてん: "VR Encyclopedia" (8) (fixed; Key Items list holds r076a28's 92 px)
-- [ ] r076b1c - "Fav. Word" for すきなことば: "Favorite Word" (12)
+- [x] r076b1c - "Fav. Word" for すきなことば: "Favorite Word" (12) (waived, 19th worker: the Character Data label draws at most 6 pair glyphs = 12 chars (ruler on ptr 0x460e8, `work/qa/ruler19/460e8`); "Favorite Word" is 13; "Fav. Word" also matches the creation-confirm graphic label)
 - [x] r076674 - "Beach Seaweed" for 弾打浜のワカメ: "Dandahama Seaweed" (14; glossary waived) (fixed after the phase-6 review: 4-line reflow "Dandahama / Seaweed. Said to / make thin hair / glossy.", r0768c4 sibling 96 px; old waiver removed)
 - [x] r076684 - (fixed fx21, key-item line sibling 96 px) "The tower's" for 真丸タワーの: "Mamaru Tower's" (11)
-- [ ] r076668 - "Tamari's" for 田万里村に (also r0766d4): "Tamari Village"
+- [x] r076668 - "Tamari's" for 田万里村に (also r0766d4): "Tamari Village" (fixed, 19th worker: both "Tamari Village's", 16 chars in the 96 px key-item description line, sibling budget)
 - [x] r07b858 - (fixed fx21: "Mamaru Middle / VR Club's own / VR court", shared ＶＲ場 line now "VR court"; copy r0f13ec too) "Mamaru VR's" / r07b84c "own court" for 真丸中のＶＲ部 / せんようの: "Mamaru Middle VR Club's own court"
 - [x] r07b6f0 - (fixed fx21, all four stage lists) "Katsutobi VR" for 勝飛中ＶＲ場: "Katsutobi Middle VR"
 - [x] c075dd8 - credit "Yabuno & Ganbarion" drops the given name of やぶのてんや (Tenya Yabuno): credits are fixed 20-char records (fixed: c075dac "Created by Ganbarion" / c075dd8 "and Tenya Yabuno"; the panel is the left 120 px, the scene fills the right half, so no wider record. Phase 8: look at it in the credits shot)
