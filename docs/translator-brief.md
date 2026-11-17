@@ -33,6 +33,11 @@ another `box`.
   (keep each print under ~4 KB: the context-mode hook swaps bigger output for a search stub), write all 150 rows
   of `work/tl/bNNN.en.txt` in ONE file-write (appending with the shell makes the harness echo the file back),
   `tl_pair.py put bNNN work/tl/bNNN.en.txt`, `batches.py check bNNN`, fix with Edit, `batches.py merge bNNN`.
+- Town NPC / counter batches repeat a lot: `python -X utf8 tools/tm.py show bNNN` lists only rows with no exact-JP
+  match in the merged script; write those to a scratch file, `tm.py put bNNN file` fills the rest and checks.
+  TM lines are context-free: read the filled rows around a hit that continues a sentence (b058-b061 had
+  `使えるはずだ` -> "Hunt-type Arms." and a "Yes, I do" choice that needed fixing).
+- The glossary check sees one batch only: a box split across two batches needs the term in each half.
 - A row flagged `box` starts a new box: never let a sentence spill from a `+` row into the next `box` row.
 - The glossary check is per box: the English term must appear somewhere in the same box as the JP term.
 - Choices come in pairs after a question; translate each as a short reply (<= 35).

@@ -155,6 +155,18 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 | ＶＲＸ | VRX | | in-world fighting video game | |
 | ジャマーボール | Jammer Ball | | link-battle obstacle | |
 | ジョイスポット | Joy Spot | | data receive service | |
+| Ｖポン | V-Pon | | Arm capsule machine (VP in, random Arm out) | |
+| エクスストライク | Ex-Strike | | arm type | |
+| エクスハント | Ex-Hunt | | arm type | |
+| エクスブレード | Ex-Blade | | arm type | |
+| アシストけい | Assist type | | arm type | |
+| サラマンド | Salamand | | Armalet | |
+| フェンリー | Fenrie | | Armalet | |
+| ユニホース | Unihorse | | Armalet | |
+| ニャティー | Nyatty | | Armalet | |
+| ゲンブール | Genbull | | Armalet | |
+| ゴラムス | Golamus | | Armalet | |
+| エンペリオル | Emperiol | | Armalet | |
 
 ## Decisions from earlier batches
 - RPG mode (b016-b030): Minami and her brother Hokuto are the Premium Gym twins (Takumi's ex-gym mates); Hokuto blames

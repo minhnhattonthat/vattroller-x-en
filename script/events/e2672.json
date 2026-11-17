@@ -3,8 +3,8 @@
   "id": "e2672_001dc",
   "kind": "line",
   "jp": "ただのそうこのようだ",
-  "en": "",
-  "status": "new",
+  "en": "Looks like just a storeroom.",
+  "status": "done",
   "flags": "0x0200",
   "script": 6,
   "notes": ""
@@ -13,8 +13,8 @@
   "id": "e2672_00230",
   "kind": "line",
   "jp": "何かが　光っている……",
-  "en": "",
-  "status": "new",
+  "en": "Something is shining...",
+  "status": "done",
   "flags": "0x0200",
   "script": 7,
   "notes": ""
@@ -23,8 +23,8 @@
   "id": "e2672_00250",
   "kind": "line",
   "jp": "Ｖメダルを見つけた！！",
-  "en": "",
-  "status": "new",
+  "en": "Found a V Medal!!",
+  "status": "done",
   "flags": "0x0600",
   "script": 7,
   "notes": ""
