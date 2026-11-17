@@ -2076,7 +2076,7 @@
   "id": "r076648",
   "kind": "string",
   "jp": "じょうしきに",
-  "en": "An outside-",
+  "en": "A cake that",
   "status": "done",
   "ptrs": [
    "0xeeac8"
@@ -2219,7 +2219,7 @@
   "id": "r076708",
   "kind": "string",
   "jp": "とらわれない",
-  "en": "the-box",
+  "en": "breaks all",
   "status": "done",
   "ptrs": [
    "0xeeafc"
@@ -2307,7 +2307,7 @@
   "id": "r076790",
   "kind": "string",
   "jp": "めいぶつだんご",
-  "en": "famous dango",
+  "en": "famous dango.",
   "status": "done",
   "ptrs": [
    "0xeeadc"
@@ -2362,7 +2362,7 @@
   "id": "r0767e0",
   "kind": "string",
   "jp": "ケーキ",
-  "en": "cake.",
+  "en": "the rules.",
   "status": "done",
   "ptrs": [
    "0xeeb30"
@@ -2450,7 +2450,7 @@
   "id": "r07685c",
   "kind": "string",
   "jp": "中にはクリが",
-  "en": "has chestnut",
+  "en": "A chestnut",
   "status": "done",
   "ptrs": [
    "0xeeb10"
@@ -2505,7 +2505,7 @@
   "id": "r0768a0",
   "kind": "string",
   "jp": "おいしいらしい",
-  "en": "and tasty",
+  "en": "and tasty.",
   "status": "done",
   "ptrs": [
    "0xeeb60"
@@ -2571,7 +2571,7 @@
   "id": "r0768f4",
   "kind": "string",
   "jp": "はいっている",
-  "en": "inside.",
+  "en": "in every one.",
   "status": "done",
   "ptrs": [
    "0xeeb44"

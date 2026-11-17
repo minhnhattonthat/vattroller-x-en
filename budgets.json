@@ -59,6 +59,8 @@
     "r076694": {"unit": "px", "limit": 96, "source": "sibling", "notes": "key-item description line, as r0766b4 (96 px); 'Proof of' (Master's Proof reflow, tour verdict key_items_all/sheet_19, 30th worker)"},
     "r0767bc": {"unit": "px", "limit": 96, "source": "sibling", "notes": "key-item description line, as r0766b4 (96 px); 'Vattrollers' (Vattleague Pass reflow, tour verdict key_items_all/sheet_19, 30th worker)"},
     "r0768cc": {"unit": "px", "limit": 96, "source": "sibling", "notes": "key-item description line, as r0766b4 (96 px); 'or so they say.' (Tower Pamphlet reflow, tour verdict key_items_all/sheet_19, 30th worker)"},
+    "r0767e0": {"unit": "px", "limit": 96, "source": "sibling", "notes": "key-item description line, as r0766b4 (96 px); 'the rules.' (Eel Cake reflow, one-word last line 'cake.', tour verdict key_items_all/sheet_20, 31st worker)"},
+    "r0768f4": {"unit": "px", "limit": 96, "source": "sibling", "notes": "key-item description line, as r0766b4 (96 px); 'in every one.' (Dango reflow, one-word last line 'inside.', tour verdict key_items_all/sheet_19, 31st worker)"},
     "r076934": {"unit": "px", "limit": 96, "source": "sibling", "notes": "key-item description line, as r0766b4 (96 px); 'eat it?' (Eel Cake, was a one-word last line 'it?'; tour verdict key_items_all/sheet_20, 29th worker)"},
     "r0768c4": {"unit": "px", "limit": 96, "source": "sibling", "notes": "key-item description line (4 pointer arrays of 13 items from 0xEEAB0, one per line), as r0766b4 ふうとうの中には (96 px); 'glossy.' (Dandahama Seaweed reflow, phase-6 review)"},
     "r004fa0": {"unit": "px", "limit": 68, "source": "sibling", "notes": "VRX profile name field (0x58 stride), as r0045a0 しゅじんこう (68 px); 'Wrestler'"},
