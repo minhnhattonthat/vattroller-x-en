@@ -240,8 +240,13 @@ needs its arg meaning, scenes and id sweeps (next worker).
   0-0x42); most cases set the continuation `*(0x03005500+0xEEC)`. Op 0x18 = room PC (`0x08032999`, ~30 rooms:
   e2534, e2551, e2613...), op 0x19 = V-Pon machine (arg byte +4 = 0-3), op 0x29 = shop clerk (arg +4 = shop
   0-0x15; the clerk's 4 lines come from table EWRAM `0x0200AD1C` = ROM 0xEE460, 16-byte records, index byte
-  +5 of the command: 0 V Shop, 1 "Rare" V Shop, 2 plain shop, 4 V Machine, 5 link group), ops 0x2A/0x2D-0x2F/
-  0x3E/0x1E/0x42/0x17/0x41 = link sessions ("One moment, please. / B Button: Cancel", wait forever offline).
+  +5 of the command: 0 V Shop, 1 "Rare" V Shop, 2 plain shop, 4 V Machine, 5 link group), ops 0x2D-0x2F/0x3E
+  (no args, link NPCs in e2617/e2618) and 0x2A arg 0 = link sessions via the hub `0x080335D9` ("One moment,
+  please. / B Button: Cancel", wait forever offline); 0x2A arg 1 = VRX (scene vrx_title). Op 0x17 is a common
+  wait (args 8-0x80), 0x33 calls the match-result code `0x0803725C`. `tools/lua/phrases.lua`: the entry screen
+  fills a rejected entry from the default lists `0x0804EE4C(1-8)` (entry forced at the picker's 8 modulo return
+  points; an exec hook on the modulo routine `0x08020BD4` itself perturbs the run) and accepts it: 21 default
+  names/quotes/greetings/words read. Mode +0x20 = 5 (password) prints "Password error!" instead.
 - `tools/lua/pcmenu.lua` makes the first command dispatched after warp phase "loaded" read as op `OP` (default
   0x18), so `warp.py rpg_town --script tools/lua/pcmenu.lua` opens the PC menu from a cold boot (`REC=n` picks the
   clerk set for op 0x29, `PRESS=n` clicks through). Down x3 + A = the **Password** screen.

@@ -34,7 +34,7 @@ else
     end)
   end
   if REC then   -- op 0x29: clerk line set = record byte cmd+5 of the table 0x0200AD1C (stride 16)
-    for _, pc in ipairs({ 0x08032312, 0x0803239E }) do
+    for _, pc in ipairs({ 0x08032312, 0x08032354, 0x0803239E, 0x0803248A }) do   -- after each ldrb r0,[rX,#5]
       L.on_exec(pc, pc, function()
         local s = emu.getState()
         s["cpu.r0"] = REC
