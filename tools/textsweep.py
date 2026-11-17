@@ -62,6 +62,7 @@ def main():
     ap.add_argument("--chunks", type=int, default=6)
     ap.add_argument("--out", default=str(ROOT / "work" / "qa" / "cover" / "sweep"))
     ap.add_argument("--shots", action="store_true")
+    ap.add_argument("--only", type=int, nargs="*", help="run only these chunk numbers (others keep their logs)")
     a = ap.parse_args()
     out = Path(a.out)
     out.mkdir(parents=True, exist_ok=True)
@@ -74,7 +75,8 @@ def main():
         d = out / f"chunk_{k:02d}"
         d.mkdir(exist_ok=True)
         (d / "nodes.txt").write_text("".join(f"{addr}\n" for addr, _ in ch), encoding="utf-8")
-        jobs.append((d, ch))
+        if a.only is None or k in a.only:
+            jobs.append((d, ch))
     with ThreadPoolExecutor(a.jobs) as ex:
         for name, rc, done, taken, total, stalls in ex.map(lambda j: run(j[0], j[1], a.shots), jobs):
             print(f"{name}: exit {rc}, {taken}/{total} commands, {'done' if done else 'NOT DONE'}, "

@@ -1,0 +1,7 @@
+scene	shot	rects	result	notes
+prompt_comic	work/qa/tour/prompt_comic/scene.png	168,64,40,12 168,82,40,12	pass (12/12, 16/16)	book prompt Sure/No (r0e20b0/b8, D12); box inside 163-212, arrows excluded
+menu_save	work/qa/tour/menu_save/scene.png	168,64,40,12 168,82,40,12	pass (12/12, 16/16)	save prompt Sure/No, same box as the book prompt
+menu_settings	work/qa/tour/menu_settings/scene.png	28,121,184,12	not centred by design	"Normal" sits at the same margins as JP ふつう (68/82 both): fixed x, not centred
+menu_settings	work/qa/tour/menu_settings/scene.png	50,80,162,14	not centred by design	Greeting/Win Quote values are left-aligned wide fields (JP starts at the same x)
+help_armdata	work/qa/tour/help_armdata/scene.png	-	not centred by design	"Arm Data" / "Arms you can set" pills: JP text is left-aligned in the pill too
+titlemenu	work/qa/tour/titlemenu/scene.png	-	not centred by design	"New Game" box: JP さいしょから is left-aligned too
