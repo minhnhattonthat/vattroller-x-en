@@ -79,18 +79,6 @@
   "notes": ""
  },
  {
-  "id": "r0e1f0a",
-  "kind": "string",
-  "jp": "がいぶつを　さけてください",
-  "en": "avoid obstacles.",
-  "status": "done",
-  "ptrs": [
-   "0xab028"
-  ],
-  "inside": "r0e1f04",
-  "notes": ""
- },
- {
   "id": "r0e1f28",
   "kind": "string",
   "jp": "ＳＴＡＲＴボタンで　もどります",

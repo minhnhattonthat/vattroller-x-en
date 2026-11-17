@@ -83,3 +83,17 @@ def test_apply_events_rebuilds_lines_choices_and_titles(tmp_path, monkeypatch):
             if id_.startswith(f"e{i}_"):
                 # ids are original offsets, so look the value up by order instead
                 assert en in got.values()
+
+
+@rom_needed
+def test_false_pointers_are_not_written():
+    """Words that only look like string pointers (text.FALSE_PTRS: V Skill data, graphics, link block) are in no
+    entry's ptrs, so the build never repoints them (it once wrote 0x0881xxxx over V Skill record data at 0x1D870)."""
+    used = {int(p, 16) for f in (ROOT / "script" / "rom").glob("*.json")
+            for e in json.loads(f.read_text(encoding="utf-8")) for p in e.get("ptrs", [])}
+    assert not used & text.FALSE_PTRS
+    built = ROOT / "build" / "vattroller_x_en.gba"
+    if built.exists() and built.stat().st_mtime > (ROOT / "tools" / "text.py").stat().st_mtime:
+        orig = next((ROOT / "rom").glob("*.gba")).read_bytes()
+        new = built.read_bytes()
+        assert [hex(p) for p in sorted(text.FALSE_PTRS) if orig[p:p + 4] != new[p:p + 4]] == []

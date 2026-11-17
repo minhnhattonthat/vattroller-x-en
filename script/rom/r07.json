@@ -2972,18 +2972,6 @@
   "notes": ""
  },
  {
-  "id": "r076b0d",
-  "kind": "string",
-  "jp": "|－－",
-  "en": "|--",
-  "status": "done",
-  "ptrs": [
-   "0xf0b38"
-  ],
-  "inside": "r076b0c",
-  "notes": ""
- },
- {
   "id": "r076b14",
   "kind": "string",
   "jp": "ＬＶ",
@@ -3499,18 +3487,6 @@
   "ptrs": [
    "0xee90c"
   ],
-  "notes": ""
- },
- {
-  "id": "r076e6d",
-  "kind": "string",
-  "jp": "@９",
-  "en": "@9",
-  "status": "done",
-  "ptrs": [
-   "0xf0b40"
-  ],
-  "inside": "r076e6c",
   "notes": ""
  },
  {

@@ -3966,8 +3966,7 @@
   "en": "Most popular",
   "status": "done",
   "ptrs": [
-   "0x11784",
-   "0x7ff9bc"
+   "0x11784"
   ],
   "notes": ""
  },
@@ -7258,18 +7257,6 @@
   "ptrs": [
    "0x15298"
   ],
-  "notes": ""
- },
- {
-  "id": "r015c02",
-  "kind": "string",
-  "jp": "スマッシガード",
-  "en": "Smash Guard",
-  "status": "done",
-  "ptrs": [
-   "0x1d870"
-  ],
-  "inside": "r015c00",
   "notes": ""
  },
  {

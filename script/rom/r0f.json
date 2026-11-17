@@ -176,18 +176,6 @@
   "notes": ""
  },
  {
-  "id": "r0f0d0d",
-  "kind": "string",
-  "jp": "fスロールコロシアム",
-  "en": "Roll Colosseum",
-  "status": "done",
-  "ptrs": [
-   "0x9b4f4"
-  ],
-  "inside": "r0f0d0c",
-  "notes": ""
- },
- {
   "id": "r0f0d24",
   "kind": "string",
   "jp": "ヘクサ社開発室",
@@ -606,18 +594,6 @@
   "notes": ""
  },
  {
-  "id": "r0f0f0a",
-  "kind": "string",
-  "jp": "んたいせん",
-  "en": "-Player",
-  "status": "done",
-  "ptrs": [
-   "0xa49f8"
-  ],
-  "inside": "r0f0f04",
-  "notes": ""
- },
- {
   "id": "r0f0f18",
   "kind": "string",
   "jp": "ふたりたいせん",
@@ -736,30 +712,6 @@
   "ptrs": [
    "0xffd30"
   ],
-  "notes": ""
- },
- {
-  "id": "r0f1100",
-  "kind": "string",
-  "jp": "すがよろしいですか？",
-  "en": "is that OK?",
-  "status": "done",
-  "ptrs": [
-   "0xb6eec"
-  ],
-  "inside": "r0f10f8",
-  "notes": ""
- },
- {
-  "id": "r0f1110",
-  "kind": "string",
-  "jp": "か？",
-  "en": "OK?",
-  "status": "done",
-  "ptrs": [
-   "0xc2d18"
-  ],
-  "inside": "r0f10f8",
   "notes": ""
  },
  {
@@ -958,18 +910,6 @@
   "ptrs": [
    "0xffd5c"
   ],
-  "notes": ""
- },
- {
-  "id": "r0f1210",
-  "kind": "string",
-  "jp": "ミアムジム",
-  "en": "mium Gym",
-  "status": "done",
-  "ptrs": [
-   "0x96f44"
-  ],
-  "inside": "r0f120c",
   "notes": ""
  },
  {
@@ -1325,18 +1265,6 @@
   "notes": ""
  },
  {
-  "id": "r0f1402",
-  "kind": "string",
-  "jp": "きい",
-  "en": "est",
-  "status": "done",
-  "ptrs": [
-   "0xaf71c"
-  ],
-  "inside": "r0f13fc",
-  "notes": ""
- },
- {
   "id": "r0f1408",
   "kind": "string",
   "jp": "かいさいされる",
@@ -1528,18 +1456,6 @@
   "ptrs": [
    "0xffdf0"
   ],
-  "notes": ""
- },
- {
-  "id": "r0f1516",
-  "kind": "string",
-  "jp": "ルアレーナ",
-  "en": "Arena",
-  "status": "done",
-  "ptrs": [
-   "0xac70c"
-  ],
-  "inside": "r0f1510",
   "notes": ""
  },
  {

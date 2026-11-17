@@ -130,12 +130,24 @@ def string_end(d, t):
     return None
 
 
+# Words that only look like string pointers (checked by hand, 2026-11-18, 25th worker): each sits among data with no
+# pointer neighbours and no code loads it, and each target but r014404 starts inside another string (a mid-string
+# alias, two of them mid-character). Repointing them wrote 0x0881xxxx over data: 0x1D870 is field +0xC of a V Skill
+# record (bytes 02 5C 01 08 between its desc pointers and 0xFFFF), 0x96F44-0xC2D18 are graphics data before the
+# archive, 0xF0B38/0xF0B40 are inside the link-client block, 0x7FF9BC is data near the ROM end (r014404 keeps its
+# real pointer 0x11784).
+FALSE_PTRS = {0x01D870, 0x0F0B38, 0x0F0B40, 0x0AB028, 0x09B4F4, 0x0A49F8, 0x0B6EEC, 0x0C2D18, 0x096F44, 0x0AF71C,
+              0x0AC70C, 0x7FF9BC}
+
+
 def pointered_strings(d):
     """{target: (end, [pointer offsets], inside)} for strings outside the archive with 4-aligned pointers."""
     ptrs = {}
     for o in range(0, len(d) - 3, 4):
         if in_archive(o) and not (archive.TABLE <= o < archive.DATA_START):
             continue  # inside archive files: event files hold no absolute pointers (script.md); others are data
+        if o in FALSE_PTRS:
+            continue
         v = struct.unpack_from("<I", d, o)[0]
         t = v - 0x08000000
         if 0 <= t < len(d) and not in_archive(t):
