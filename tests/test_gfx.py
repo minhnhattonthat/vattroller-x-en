@@ -26,6 +26,17 @@ def test_446_changes_only_label_tiles():
     assert changed and changed <= allowed
 
 
+def test_677_redraws_every_map_label_and_keeps_pin_and_cursor():
+    ar = archive.Archive()
+    orig, new = ar.file(gfx.MAP_FILE), gfx.files(ar)[gfx.MAP_FILE]
+    assert len(new) == len(orig)
+    label = {n for blocks, _ in gfx.MAP_LABELS for n, _, _ in gfx.tall_tiles(blocks)}
+    assert label == set(range(106)) | set(range(112, 116))     # 106-111 cursor, 116 pin: untouched
+    changed = {i // 32 for i in range(len(orig)) if orig[i] != new[i]}
+    assert changed and changed <= label
+    assert {b for i in range(len(new)) if i // 32 in label for b in (new[i] & 15, new[i] >> 4)} <= {0, 1, 2}
+
+
 def test_717_changes_only_the_vpon_message_sprites():
     ar = archive.Archive()
     orig, new = ar.file(gfx.VPON_FILE), gfx.files(ar)[gfx.VPON_FILE]

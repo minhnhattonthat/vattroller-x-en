@@ -758,6 +758,60 @@ def sheet_717(orig):
     return bytes(out)
 
 
+# #677 (raw 4bpp, OBJ, 1D, G15): world-map place labels. The game copies each label's tile blocks into VRAM and
+# lays them left to right (OAM of an md9 dump), with the place pin (tile 116) below. Kanji ink 1, ring 2 on 0,
+# rows 3-13. English: font3 (3 px, advance 4) in 1 with an 8-neighbour ring 2, centred; two lines (tops 1 and 8,
+# the rings share row 7) where one does not fit. (blocks as (first tile, columns, rows), lines).
+MAP_FILE = 677
+MAP_INK, MAP_RING = 1, 2
+MAP_LABELS = [
+    (((0, 4, 2), (8, 2, 2)), ("Tamari", "Village")),        # 田万里村 48 px
+    (((12, 4, 2), (20, 1, 2)), ("Katsutobi", "Middle")),    # 勝飛中 40
+    (((22, 4, 2), (30, 1, 2)), ("Katsutobi", "Town")),      # 勝飛町 40
+    (((32, 4, 2),), ("Danda-", "hama")),                    # 弾打浜 32: "Dandahama" needs 37
+    (((40, 4, 2),), ("Kaiten", "Island")),                  # 界天島 32
+    (((48, 4, 2), (56, 2, 2)), ("North", "Mamaru Town")),   # 真丸町北 48
+    (((60, 4, 2), (68, 2, 2)), ("South", "Mamaru Town")),   # 真丸町南 48
+    (((72, 4, 2), (112, 2, 2)), ("Koenji Town",)),          # 光円寺 32 + 町 16
+    (((80, 4, 2), (88, 4, 2), (96, 1, 2)), ("Globe Town",)),  # グローブタウン 72
+    (((98, 4, 2),), ("Mamaru", "Middle")),                  # 真丸中 32
+]
+MAP_TOPS = {1: (6,), 2: (1, 8)}
+
+
+def map_label(blocks, lines, glyphs):
+    """{tile: 8x8 px} for one map label."""
+    tiles = tall_tiles(blocks)
+    w, h = max(x for _, x, _ in tiles) + 8, max(y for _, _, y in tiles) + 8
+    core = set()
+    for text, top in zip(lines, MAP_TOPS[len(lines)]):
+        width = sum(2 if ch == " " else 4 for ch in text) - 1
+        assert width + 2 <= w, f"{text!r} does not fit {w} px"
+        x = (w - width) // 2
+        for ch in text:
+            if ch != " ":
+                core |= {(top + gy, x + gx) for gy, row in enumerate(glyphs[ch]) for gx, c in enumerate(row) if c == "#"}
+            x += 2 if ch == " " else 4
+    px = [[BG] * w for _ in range(h)]
+    for y, x in core:
+        for dy in (-1, 0, 1):
+            for dx in (-1, 0, 1):
+                if 0 <= y + dy < h and 0 <= x + dx < w:
+                    px[y + dy][x + dx] = MAP_RING
+    for y, x in core:
+        px[y][x] = MAP_INK
+    return {n: [row[x0:x0 + 8] for row in px[y0:y0 + 8]] for n, x0, y0 in tiles}
+
+
+def sheet_677(orig):
+    glyphs = tagfont.load_font3()
+    out = bytearray(orig)
+    for blocks, lines in MAP_LABELS:
+        for n, px in map_label(blocks, lines, glyphs).items():
+            put_tile(out, n, px)
+    return bytes(out)
+
+
 def files(ar):
     """{archive file index: new bytes} for every redrawn graphics file."""
     orig, o431, o452, o433 = (ar.file(n) for n in (SHEET, SHEET_431, SHEET_452, SHEET_433))
@@ -776,6 +830,9 @@ def files(ar):
     o717 = ar.file(VPON_FILE)
     assert archive.unpack(o717)[1] == "raw"
     out[VPON_FILE] = sheet_717(o717)
+    o677 = ar.file(MAP_FILE)
+    assert archive.unpack(o677)[1] == "raw"
+    out[MAP_FILE] = sheet_677(o677)
     for s in SIGNS:
         n = s["file"]
         data = out.get(n) or ar.file(n)
