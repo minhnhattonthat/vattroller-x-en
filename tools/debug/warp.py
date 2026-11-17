@@ -25,7 +25,7 @@ WARP = ROOT / "tools" / "debug" / "warp.lua"
 MASH = ROOT / "tools" / "lua" / "mash2.lua"
 ORIG = ROOT / "rom" / "Vattroller X (Japan).gba"
 BUILD = ROOT / "build" / "vattroller_x_en.gba"
-VARS = ("BOOK", "ROOM", "HOLD", "UNLOCK", "MASHPOST", "EXPECT", "X", "Y", "FACE", "FROM_ROOM", "FROM_NTH", "CSTEPS")
+VARS = ("BOOK", "ROOM", "HOLD", "UNLOCK", "MASHPOST", "EXPECT", "X", "Y", "FACE", "FROM_ROOM", "FROM_NTH", "CSTEPS", "MODE", "MODE_ARG")
 STRVARS = ("POST", "STOP_AT", "VIA")
 EXTRA = []  # extra emu.py args from --script / --var
 

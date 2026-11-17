@@ -12,7 +12,7 @@ sys.path.insert(0, str(ROOT / "tools"))
 sys.path.insert(0, str(DEBUG))
 HAVE_ROM = any((ROOT / "rom").glob("*.gba"))
 FIELDS = {"name", "book", "room", "post", "hold", "stop_at", "csteps", "mashpost", "frames", "desc", "from_room",
-          "from_nth", "expect", "x", "y", "face", "entry", "via", "unlock", "premash", "node", "scripts"}
+          "from_nth", "expect", "x", "y", "face", "entry", "via", "unlock", "premash", "node", "scripts", "mode", "mode_arg"}
 
 
 def test_scenes_are_well_formed():
@@ -21,7 +21,7 @@ def test_scenes_are_well_formed():
     assert len(names) == len(set(names))
     for s in scenes:
         assert set(s) <= FIELDS, s["name"]
-        assert -1 <= s["book"] <= 15
+        assert ("mode" in s and "book" not in s) or -1 <= s["book"] <= 15   # mode scenes start a game mode, no book
         assert 0 <= s.get("room", 0) < 236
         assert s.get("stop_at", "title") in ("title", "titlemenu", "shelf", "prompt", "creation")
         for step in s.get("post", "").split(";") if s.get("post") else []:

@@ -77,6 +77,11 @@
     {"name": "vrx_player", "book": 8, "node": {"after": "e2617_00a24", "op": "2a00080001000000"}, "scripts": ["tools/lua/vrxall.lua"], "post": "300 -;6 start;120 -;6 a;120 -", "hold": 30, "desc": "VRX: Player Select, every character unlocked (vrxall.lua)"},
     {"name": "vrx_opponent", "book": 8, "node": {"after": "e2617_00a24", "op": "2a00080001000000"}, "scripts": ["tools/lua/vrxall.lua"], "post": "300 -;6 start;120 -;6 a;120 -;6 a;120 -", "hold": 30, "desc": "VRX: Opponent Select, every character unlocked"},
     {"name": "vrx_rules", "book": 8, "node": {"after": "e2617_00a24", "op": "2a00080001000000"}, "scripts": ["tools/lua/vrxall.lua"], "post": "300 -;6 start;120 -;6 a;120 -;6 a;120 -;6 a;120 -", "hold": 30, "desc": "VRX: Rule Select (Official / Survival)"},
-    {"name": "vrx_stage", "book": 8, "node": {"after": "e2617_00a24", "op": "2a00080001000000"}, "scripts": ["tools/lua/vrxall.lua"], "post": "300 -;6 start;120 -;6 a;120 -;6 a;120 -;6 a;120 -;6 a;120 -", "hold": 30, "desc": "VRX: Stage Select"}
+    {"name": "vrx_stage", "book": 8, "node": {"after": "e2617_00a24", "op": "2a00080001000000"}, "scripts": ["tools/lua/vrxall.lua"], "post": "300 -;6 start;120 -;6 a;120 -;6 a;120 -;6 a;120 -;6 a;120 -", "hold": 30, "desc": "VRX: Stage Select"},
+    {"name": "shop_arms", "mode": 10, "mode_arg": 1, "scripts": ["tools/lua/shopall.lua"], "post": "60 -", "hold": 30, "desc": "Shop (game mode 10, shop 1) from a cold boot: Arms tab, 999999 VP (shopall.lua)"},
+    {"name": "shop_tools", "mode": 10, "mode_arg": 1, "scripts": ["tools/lua/shopall.lua"], "post": "6 r;60 -", "hold": 30, "desc": "Shop: Tools tab"},
+    {"name": "shop_vrxdata", "mode": 10, "mode_arg": 1, "scripts": ["tools/lua/shopall.lua"], "post": "6 r;60 -;6 r;60 -", "hold": 30, "desc": "Shop: VRX Data tab, every entry owned (shopall.lua)"},
+    {"name": "shop_buy", "mode": 10, "mode_arg": 1, "scripts": ["tools/lua/shopall.lua"], "post": "6 r;60 -;6 r;60 -;6 a;90 -", "hold": 30, "desc": "Shop: buy prompt with the VRX profile panel"},
+    {"name": "shop_buy_arm", "mode": 10, "mode_arg": 1, "scripts": ["tools/lua/shopall.lua"], "post": "60 -;6 a;90 -", "hold": 30, "desc": "Shop: Arm buy prompt"}
   ]
 }

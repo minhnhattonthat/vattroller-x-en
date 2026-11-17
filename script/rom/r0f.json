@@ -731,7 +731,7 @@
   "id": "r0f10f8",
   "kind": "string",
   "jp": "になりますがよろしいですか？",
-  "en": " -- is that OK?",
+  "en": "OK to buy?",
   "status": "done",
   "ptrs": [
    "0xffd30"
@@ -1796,7 +1796,7 @@
   "id": "r0f16b8",
   "kind": "string",
   "jp": "になりますがよろしいですか？",
-  "en": " -- is that OK?",
+  "en": "OK to buy?",
   "status": "done",
   "ptrs": [
    "0xfff48"

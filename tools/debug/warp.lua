@@ -15,6 +15,7 @@
 --   STATE_OUT absolute path: save a state after the shot
 --   MASHPOST  1 = after POST, keep pressing down,A during HOLD (choices need a direction first)
 --   NODE      CPU address of an event command to run once when POST starts (see below)
+--   MODE, MODE_ARG  start this game mode (and arg) at the first boot dispatch instead of the logos (see below)
 local M = emu.memType.gbaMemory
 local ROOM_VAR = 0x030054F8          -- s16 room id read by the room loader
 local UNLOCK_VAR = 0x03003D38        -- u32 shelf unlock mask (bit = book index)
@@ -38,6 +39,20 @@ if NODE then
     node_due = false
     emu.write32(0x030063F4, NODE, M)
     L.log(string.format("f%d node %08X", L.frame, NODE))
+  end)
+end
+
+-- MODE: game mode to start instead of the first one the boot dispatches (mode switch 0x0802D128, table 0x0802D168:
+-- mode = *0x030029D4, the next mode *0x030029D8 is taken when the running task ends). MODE_ARG = the byte at
+-- *(0x03002AA4)+0x14 the mode reads. Mode 10 = shop (0x080696FC(arg): tabs Arms / Tools / VRX Data; arg = shop id).
+-- The scene then plays POST and HOLD from the mode's start, with no book or room.
+if MODE then
+  L.on_exec(0x0802D134, 0x0802D134, function()
+    if phase ~= "boot" or emu.read32(0x030029D8, M) == 0 then return end
+    if MODE_ARG then emu.write(emu.read32(0x03002AA4, M) + 0x14, MODE_ARG, M) end
+    emu.write32(0x030029D8, MODE, M)
+    L.log(string.format("f%d mode %d arg %s", L.frame, MODE, tostring(MODE_ARG)))
+    set_phase("loaded")
   end)
 end
 

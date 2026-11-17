@@ -79,6 +79,27 @@ win quote); the list draw is `0x080668CC`. The profile panel (lines from record 
 called from the state machine at `0x0806A4C8` — not seen in a draw-ended battle: probably the winner screen;
 needs a forced win (next).
 
+## Shops: game mode 10 (2026-11-17, 14th worker)
+
+The top-level mode switch is `0x0802D128` (jump table `0x0802D168`, index mode-1): mode `*0x030029D4`, next mode
+`*0x030029D8`, taken at `0x0802D134` when the running task ends. Mode 10 = shop `0x080696FC(arg)`, arg = byte
+`*(0x03002AA4)+0x14` = shop id (1-15 all stock lists; 10 is empty). warp.lua vars `MODE` /
+`MODE_ARG` (scene fields `mode`, `mode_arg`) redirect the first boot dispatch, so a shop opens from a cold boot
+with no book or room: scenes `shop_arms`, `shop_tools`, `shop_vrxdata`, `shop_buy` (VRX profile panel),
+`shop_buy_arm`. The shop has three tabs (R/L; state byte `0x03002DB0`): Arms / Tools / VRX Data; A opens the buy
+prompt `0x0806A3B0` with the item's detail on the right. `tools/lua/shopall.lua`: save struct `*(0x03002AA0)`
++0x54C u32 bits = owned VRX Data (unowned rows show `????????????`), +0x584 = VP; `PROFILE=1 N= [HOOK= REG=]`
+sweeps every record through the buy prompt's detail draw (A/B route in POST):
+
+| tab | HOOK / REG | records | run |
+|---|---|---|---|
+| VRX Data | `0x0806A4C8` / r0 (bl `0x0806A2F4`, roster id) | 165, ROM 0xCE0 stride 0x58 | `work/qa/cover/ids/shop_profiles`, +442 strings |
+| Tools | `0x0806A484` / r2 (item id to `0x0803F608`) | 46, ROM 0x14FB0 stride 0x18 | `work/qa/cover/ids/shop_tools`, +181 strings |
+| Arms | `0x0806A40E` / r3 | 134 (covered by the Arm Data sweep) | |
+
+Other modes of the same switch are untested: try `warp.py tryN --set mode=N --set mode_arg=K` for the screens
+still missing in text coverage (V-Pon, link, data screens).
+
 ## Gaps (next)
 
 - RPG mode: free control and the field menu are reached (above). Shops are reached as rooms, but shopkeepers need

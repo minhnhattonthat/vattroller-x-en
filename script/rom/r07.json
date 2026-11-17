@@ -6069,7 +6069,7 @@
   "id": "r07b564",
   "kind": "string",
   "jp": "になりますがよろしいですか？",
-  "en": " -- is that OK?",
+  "en": "OK to buy?",
   "status": "done",
   "ptrs": [
    "0xefd50"
@@ -7087,7 +7087,7 @@
   "id": "r07bb24",
   "kind": "string",
   "jp": "になりますがよろしいですか？",
-  "en": " -- is that OK?",
+  "en": "OK to buy?",
   "status": "done",
   "ptrs": [
    "0xeff68"
