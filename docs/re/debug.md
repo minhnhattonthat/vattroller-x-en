@@ -97,8 +97,13 @@ sweeps every record through the buy prompt's detail draw (A/B route in POST):
 | Tools | `0x0806A484` / r2 (item id to `0x0803F608`) | 46, ROM 0x14FB0 stride 0x18 | `work/qa/cover/ids/shop_tools`, +181 strings |
 | Arms | `0x0806A40E` / r3 | 134 (covered by the Arm Data sweep) | |
 
-Other modes of the same switch are untested: try `warp.py tryN --set mode=N --set mode_arg=K` for the screens
-still missing in text coverage (V-Pon, link, data screens).
+Mode survey (`warp.py mdN --set mode=N --set mode_arg=0 --set "post=200 -" --set hold=10`, arg 0, cold boot):
+1 logos, 2 title, 3 Continue/data screen (Play Time, Vattroller Points, Battles; Delete Data), 4 shelf, 5/7/8
+black, 6 a field map, 9 **world/town map** (place names r00e1xx), 10 shop, 11/12/15 two-panel box screens with VP
+(V Box / storage?), 13 **V-Pon machine** ("Gale Sword obtained!"), 14 "Choose an item to throw away", 16 "Choose a
+V Skill to forget!", 17 list with VP (sell/transfer?), 18 blank, 19/20 **link** ("Linking... Please wait a
+moment."), 21 VRX, 22 stripes, 23 character portrait panel, 24 stats panel, 25 black, 26 "Rematch?". Each still
+needs its arg meaning, scenes and id sweeps (next worker).
 
 ## Gaps (next)
 
