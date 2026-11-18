@@ -62,8 +62,9 @@ def main():
     ap.add_argument("--skip-build", action="store_true", help="gate the existing build (no rebuild)")
     a = ap.parse_args()
 
-    from skill import SCRIPTS
+    from skill import SCRIPTS as _scripts
     import bps
+    SCRIPTS = Path(_scripts)  # skill.py gives a str
 
     stem = f"Vattroller_X_EN_v{a.version}"
     out_bps, out_zip = REL / f"{stem}.bps", REL / f"{stem}.zip"
@@ -82,7 +83,9 @@ def main():
     step("jp_left", PY + [str(SCRIPTS / "jp_left.py"), str(BUILD), "--sjis", "--gba-ptrs", "--orig", str(ORIG),
                           "--known", str(ROOT / "docs" / "jp_known.tsv")])
 
-    manifests = sorted((ROOT / "work" / "qa").glob("**/manifest.tsv"))
+    # work/qa/old_*/ hold manifests archived from superseded builds: not gated
+    manifests = sorted(m for m in (ROOT / "work" / "qa").glob("**/manifest.tsv")
+                       if not any(p.startswith("old_") for p in m.relative_to(ROOT / "work" / "qa").parts))
     if not manifests:
         sys.exit("release: no QA manifest under work/qa")
     for m in manifests:
