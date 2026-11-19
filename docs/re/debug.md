@@ -1,7 +1,7 @@
 # Debug tool: warps, rooms, scripts, flags
 
 **verified** by `tools/debug/warp.py --all`: all 52 scenes in `tools/debug/scenes.json` reached from a cold boot on
-the original ROM (2026-11-17), shots in `docs/screenshots/phase2_warps*.png` (order = `warp.py --list`).
+the original ROM (2026-11-17).
 
 ## Use
 
